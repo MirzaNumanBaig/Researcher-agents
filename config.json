@@ -22,59 +22,57 @@
   "keep_days": 14,
   "paused": false,
   "timezone": "Australia/Sydney",
-  "run_hours": [
-    6,
-    9,
-    12,
-    15,
-    18,
-    21
-  ],
   "profiles": {
     "Margot Robbie": {
-      "photo": "",
+      "photo": "img/margot-robbie.jpg",
       "instagram": "",
       "tiktok": "",
-      "x": "",
-      "facebook": "",
+      "x": "https://x.com/MargotRobbie",
+      "facebook": "https://www.facebook.com/MargotRobbie",
       "youtube": "",
-      "website": ""
+      "website": "",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:SYDNEY%2C_AUSTRALIA_-_JANUARY_23_Margot_Robbie_arrives_at_the_Australian_Premiere_of_%27I%2C_Tonya%27_on_January_23%2C_2018_in_Sydney%2C_Australia_%2825980753838%29_%28cropped%29.jpg"
     },
     "Chris Hemsworth": {
-      "photo": "",
-      "instagram": "",
-      "tiktok": "",
-      "x": "",
-      "facebook": "",
+      "photo": "img/chris-hemsworth.jpg",
+      "instagram": "https://www.instagram.com/chrishemsworth/",
+      "tiktok": "https://www.tiktok.com/@chrishemsworth",
+      "x": "https://x.com/chrishemsworth",
+      "facebook": "https://www.facebook.com/chrishemsworth",
       "youtube": "",
-      "website": ""
+      "website": "",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg"
     },
     "Hugh Jackman": {
-      "photo": "",
-      "instagram": "",
+      "photo": "img/hugh-jackman.jpg",
+      "instagram": "https://www.instagram.com/thehughjackman/",
       "tiktok": "",
-      "x": "",
-      "facebook": "",
+      "x": "https://x.com/RealHughJackman",
+      "facebook": "https://www.facebook.com/HughJackman",
       "youtube": "",
-      "website": ""
+      "website": "",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Hugh_Jackman_Is_This_Thing_On-68_%28cropped%29.jpg"
     },
     "Nicole Kidman": {
-      "photo": "",
-      "instagram": "",
+      "photo": "img/nicole-kidman.jpg",
+      "instagram": "https://www.instagram.com/nicolekidman/",
       "tiktok": "",
       "x": "",
-      "facebook": "",
-      "youtube": "",
-      "website": ""
+      "facebook": "https://www.facebook.com/NicoleKidmanOfficial",
+      "youtube": "https://www.youtube.com/channel/UCP4js1zXX2Utweob-S_3fxQ",
+      "website": "https://nicolekidmanofficial.com/",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Nicole_Kidman-66060_%28cropped%29.jpg"
     },
     "Cate Blanchett": {
-      "photo": "",
+      "photo": "img/cate-blanchett.jpg",
       "instagram": "",
       "tiktok": "",
       "x": "",
       "facebook": "",
       "youtube": "",
-      "website": ""
+      "website": "",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Cate_Blanchett-63298_%28cropped_2%29.jpg"
     }
-  }
+  },
+  "interval_hours": 3
 }

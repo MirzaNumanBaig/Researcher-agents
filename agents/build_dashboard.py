@@ -63,7 +63,8 @@ stories = group(leads)
 data = {
     "country": cfg["country"],
     "timezone": cfg.get("timezone", "UTC"),
-    "run_hours": cfg.get("run_hours", []),
+    "interval_hours": cfg.get("interval_hours", 3),
+    "last_run": usage.get("last_run"),
     "profiles": cfg.get("profiles", {}),
     "runs_this_month": usage.get(datetime.now(timezone.utc).strftime("%Y-%m"), 0),
     "lead_count": len(leads),
@@ -112,7 +113,8 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut)
 .badge{margin-left:auto;font-size:11px;font-weight:700;background:var(--new);color:#fff;border-radius:99px;padding:2px 8px}
 .hero{border-color:var(--acc);background:linear-gradient(var(--accbg),var(--card))}
 .tabs{display:flex;gap:6px;overflow-x:auto;margin:6px 0 12px}.tab{white-space:nowrap;padding:6px 12px;border-radius:8px 8px 0 0;border:1px solid var(--line);border-bottom:2px solid var(--line);background:var(--card);cursor:pointer;font-size:13px}.tab.on{border-bottom-color:var(--acc);font-weight:700}
-.profiles{display:flex;gap:12px;overflow-x:auto;margin:6px 0 14px}.prof{min-width:170px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;text-align:center}.prof .pav{width:56px;height:56px;border-radius:50%;margin:0 auto 6px;display:grid;place-items:center;color:#fff;font-weight:700;background-size:cover;background-position:center}.prof b{display:block;font-size:14px;cursor:pointer}.ico{display:inline-grid;place-items:center;width:24px;height:24px;margin:6px 2px 0;border-radius:6px;background:var(--accbg);font-size:10px;font-weight:700;color:var(--ink)}.also{font-size:12px;color:var(--mut)}.cnt{font-size:11px;font-weight:700;background:var(--accbg);color:var(--ink);border-radius:99px;padding:2px 8px}
+.profiles{display:flex;gap:12px;overflow-x:auto;margin:6px 0 14px}.prof{min-width:190px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;text-align:center}.prof .pav{width:84px;height:84px;font-size:20px;border-radius:50%;margin:0 auto 6px;display:grid;place-items:center;color:#fff;font-weight:700;background-size:cover;background-position:center}.prof b{display:block;font-size:14px;cursor:pointer}.icos{display:flex;justify-content:center;gap:6px;margin-top:8px}.ico{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;border:1px solid var(--line)}.ico img{width:14px;height:14px}.ico.off{opacity:.25}@media(prefers-color-scheme:dark){.ico img{filter:invert(1)}}
+.also{font-size:12px;color:var(--mut)}.cnt{font-size:11px;font-weight:700;background:var(--accbg);color:var(--ink);border-radius:99px;padding:2px 8px}
 .empty{color:var(--mut);padding:30px;text-align:center}
 footer{color:var(--mut);font-size:12px;padding:30px 0}
 </style>
@@ -121,7 +123,7 @@ footer{color:var(--mut);font-size:12px;padding:30px 0}
 <main class="wrap">
 <div class="panel"><div><div id="state"></div><div id="timer"></div></div>
 <div><button class="pri" id="run">Run now</button> <button id="pause"></button> <button id="add">+ Add celebrity</button> <button id="tok" title="GitHub token">🔑</button></div>
-<button id="sched">Edit schedule</button>
+<button id="sched">Change interval</button>
 <div id="msg"></div><div id="usage" class="also"></div></div>
 <div class="tools"><input id="q" type="search" placeholder="Search headlines…">
 <select id="src"><option value="">All sources</option></select>
@@ -131,7 +133,7 @@ footer{color:var(--mut);font-size:12px;padding:30px 0}
 <div class="chips" id="chips"></div>
 <div class="tabs" id="tabs"></div>
 <div id="top"></div><div id="list"></div>
-<footer>Headlines come from Google News and Australian entertainment feeds. Google News does not provide images or full summaries; open a story for the full article.</footer>
+<footer>Headlines come from Google News and Australian entertainment feeds. Google News does not provide images or full summaries; open a story for the full article. Profile photos and links: Wikidata / Wikimedia Commons.</footer>
 </main>
 <script>
 const D=__DATA__,REPO="MirzaNumanBaig/Researcher-agents";
@@ -150,9 +152,9 @@ document.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{celeb=b.dataset.v;c
 function tabs(){const bs=[...new Set(D.leads.map(l=>l.batch))].sort().reverse();
 $("tabs").innerHTML=[["","All batches"],...bs.map(b=>[b,b==="Earlier"?"Earlier":b.slice(5)])].map(([v,t])=>'<button class="tab'+(v===batch?' on':'')+'" data-v="'+esc(v)+'" title="'+esc(v?"Found in the run at "+v+" ("+D.timezone+")":"")+'">'+esc(t)+(v?' ('+D.leads.filter(l=>l.batch===v).length+')':'')+'</button>').join("");
 document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{batch=b.dataset.v;tabs();render()})}
-const ICONS={instagram:"IG",tiktok:"TT",x:"X",facebook:"FB",youtube:"YT",website:"WWW",google:"G"};
+const ICONS={instagram:"instagram",tiktok:"tiktok",x:"x",facebook:"facebook",youtube:"youtube",website:"googlechrome"};
 function profiles(){$("profiles").innerHTML=D.celebrities.map(n=>{const p=D.profiles[n]||{};
-return '<div class="prof"><div class="pav" style="background-color:'+col(n)+(p.photo?';background-image:url('+esc(p.photo)+')':'')+'">'+(p.photo?'':esc(ini(n)))+'</div><b data-n="'+esc(n)+'">'+esc(n)+'</b>'+Object.keys(ICONS).filter(k=>p[k]).map(k=>'<a class="ico" href="'+esc(p[k])+'" target="_blank" rel="noopener" title="'+k+'">'+ICONS[k]+'</a>').join("")+'</div>'}).join("");
+return '<div class="prof"><div class="pav" style="background-color:'+col(n)+(p.photo?';background-image:url('+esc(p.photo)+')':'')+'">'+(p.photo?'':esc(ini(n)))+'</div><b data-n="'+esc(n)+'">'+esc(n)+'</b>'+'<div class="icos">'+Object.keys(ICONS).map(k=>p[k]?'<a class="ico" href="'+esc(p[k])+'" target="_blank" rel="noopener" title="'+k+'"><img alt="'+k+'" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></a>':'<span class="ico off" title="'+k+': not added yet"><img alt="" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></span>').join("")+'</div>'+'</div>'}).join("");
 document.querySelectorAll(".prof b").forEach(b=>b.onclick=()=>{celeb=b.dataset.n;chips();render()})}
 function card(l,hero){const n=(l.celebrities||[])[0]||"";
 return '<a class="card'+(hero?' hero':'')+'" href="'+esc(l.url)+'" target="_blank" rel="noopener"><div class="top"><div class="av" style="background:'+col(n)+'">'+esc(ini(n))+'</div><div><div class="who">'+esc((l.celebrities||[]).join(", "))+'</div><div class="meta">'+esc(l.source)+' · '+(l.published?ago(l.published):"")+'</div></div>'+(age(l)<=3?'<span class="badge">NEW</span>':'')+'</div><h3>'+esc(l.title)+'</h3>'+(l.outlets.length>1?'<div class="also"><span class="cnt">'+l.outlets.length+' outlets</span> '+esc(l.outlets.slice(0,5).map(o=>o.source).join(", "))+(l.outlets.length>5?" +"+(l.outlets.length-5):"")+'</div>':'')+(l.summary?'<p>'+esc(l.summary.slice(0,220))+'</p>':'')+'</a>'}
@@ -169,12 +171,10 @@ const key=l=>so==="cel"?((l.celebrities||[])[0]||"Other"):(l.source||"Other"),g=
 ls.forEach(l=>(g[key(l)]=g[key(l)]||[]).push(l));
 $("list").innerHTML=Object.keys(g).sort().map(k=>'<h2>'+esc(k)+' ('+g[k].length+')</h2><div class="grid">'+g[k].map(l=>card(l)).join("")+'</div>').join("")}
 ["q","src","sort","when"].forEach(i=>$(i).oninput=render);
-function hourIn(t){const h=+new Intl.DateTimeFormat("en-US",{hour:"numeric",hour12:false,timeZone:D.timezone}).format(t);return h===24?0:h}
-function nextRun(){const d=new Date();d.setUTCMinutes(0,0,0);for(let i=1;i<=48;i++){const t=new Date(d.getTime()+i*36e5);if(D.run_hours.includes(hourIn(t)))return t}return null}
-const hh=h=>(h%12||12)+(h<12?"am":"pm");
-function tick(){$("state").textContent=paused?"⏸ Paused: scheduled runs are off":"▶ Runs daily at "+D.run_hours.map(hh).join(", ")+" ("+D.timezone.split("/").pop().replace("_"," ")+")";$("pause").textContent=paused?"Continue":"Pause";
+function nextRun(){if(!D.last_run)return null;return new Date(new Date(D.last_run).getTime()+D.interval_hours*36e5)}
+function tick(){$("state").textContent=paused?"⏸ Paused: scheduled runs are off":"▶ Runs every "+D.interval_hours+" hours";$("pause").textContent=paused?"Continue":"Pause";
 if(paused){$("timer").textContent="Next run: none (paused)";return}
-const nr=nextRun();if(!nr){$("timer").textContent="No run times set";return}const ms=nr-new Date(),h=Math.floor(ms/36e5),m=Math.floor(ms%36e5/6e4),s=Math.floor(ms%6e4/1e3);
+const nr=nextRun();if(!nr){$("timer").textContent="Waiting for the first run";return}const ms=nr-new Date();if(ms<=0){$("timer").textContent="Due now: waiting for GitHub to start it (can take a few minutes)";return}const h=Math.floor(ms/36e5),m=Math.floor(ms%36e5/6e4),s=Math.floor(ms%6e4/1e3);
 $("timer").textContent="Next run in "+h+"h "+m+"m "+s+"s (approx.; GitHub can start a few minutes late)"}
 setInterval(tick,1000);
 const say=t=>$("msg").textContent=t;
@@ -187,7 +187,7 @@ $("run").onclick=async()=>{try{await gh("/actions/workflows/collect.yml/dispatch
 $("pause").onclick=async()=>{try{await editCfg(c=>c.paused=!paused);paused=!paused;tick();say(paused?"Paused. Scheduled runs will skip.":"Continued. Collecting now.")}catch(e){say("Failed: "+e.message)}};
 $("add").onclick=async()=>{const n=(prompt("Celebrity name?")||"").trim();if(!n)return;try{await editCfg(c=>{if(!c.celebrities.includes(n))c.celebrities.push(n)});say(n+" added. A run starts now; refresh in 1-2 minutes.")}catch(e){say("Failed: "+e.message)}};
 $("usage").textContent="Runs this month: "+D.runs_this_month+" · GitHub Actions minutes: unlimited (public repo) · Claude plan usage: see claude.ai/settings/usage";
-$("sched").onclick=async()=>{const v=prompt("Hours to run each day, 0-23 in "+D.timezone+", comma separated (e.g. 6,9,12,15,18,21)",D.run_hours.join(","));if(v===null)return;const hs=[...new Set(v.split(",").map(x=>parseInt(x,10)).filter(x=>x>=0&&x<=23))].sort((a,b)=>a-b);if(!hs.length){say("No valid hours entered.");return}try{await editCfg(c=>c.run_hours=hs);D.run_hours=hs;tick();say("Schedule saved. It applies from the next hour.")}catch(e){say("Failed: "+e.message)}};
+$("sched").onclick=async()=>{const v=prompt("Run every how many hours? (1-24)",D.interval_hours);if(v===null)return;const n=parseInt(v,10);if(!(n>=1&&n<=24)){say("Enter a number from 1 to 24.");return}try{await editCfg(c=>{c.interval_hours=n;delete c.run_hours});D.interval_hours=n;tick();say("Saved. Runs every "+n+" hours, counted from the last run.")}catch(e){say("Failed: "+e.message)}};
 chips();profiles();tabs();render();tick();
 </script></html>"""
 

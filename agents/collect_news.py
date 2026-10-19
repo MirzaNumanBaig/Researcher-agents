@@ -135,6 +135,7 @@ def main():
     u = json.loads(usage.read_text()) if usage.exists() else {}
     month = local.strftime("%Y-%m")
     u[month] = u.get(month, 0) + 1
+    u["last_run"] = datetime.now(timezone.utc).isoformat()
     usage.write_text(json.dumps(u, indent=2))
     print(f"{len(leads)} leads saved ({cfg['country']}), {new} new in batch {batch}")
 
