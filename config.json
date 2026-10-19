@@ -1,10 +1,18 @@
 {
-  "rss_feeds": [
-    "https://www.etonline.com/news/rss",
-    "https://www.tmz.com/rss.xml",
-    "https://pagesix.com/feed/"
+  "country": "Australia",
+  "google_news": {"hl": "en-AU", "gl": "AU", "ceid": "AU:en", "when": "7d"},
+  "celebrities": [
+    "Margot Robbie",
+    "Chris Hemsworth",
+    "Hugh Jackman",
+    "Nicole Kidman",
+    "Cate Blanchett"
   ],
-  "keywords": [],
-  "max_items_per_feed": 25,
+  "general_feeds": [
+    "https://www.theguardian.com/au/culture/rss",
+    "https://www.who.com.au/feed",
+    "https://www.smh.com.au/rss/culture.xml"
+  ],
+  "max_items_per_feed": 50,
   "keep_days": 14
 }

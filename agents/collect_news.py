@@ -1,7 +1,9 @@
 """Collect celebrity news from RSS feeds into data/leads.json (stdlib only)."""
+import html
 import json
 import re
 import sys
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -34,7 +36,7 @@ def parse_date(text):
 
 
 def strip_html(s):
-    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", s or "")).strip()
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s or ""))).strip()
 
 
 def parse_feed(data, source, limit):
@@ -60,24 +62,61 @@ def parse_feed(data, source, limit):
     return leads
 
 
+def google_news_url(name, gn):
+    q = urllib.parse.quote(f'"{name}" when:{gn["when"]}')
+    return (f"https://news.google.com/rss/search?q={q}"
+            f"&hl={gn['hl']}&gl={gn['gl']}&ceid={gn['ceid']}")
+
+
+def mentioned(lead, names):
+    text = (lead["title"] + " " + lead["summary"]).lower()
+    return [n for n in names if n.lower() in text]
+
+
 def main():
     cfg = json.loads((ROOT / "config.json").read_text())
+    names = cfg["celebrities"]
+    limit = cfg["max_items_per_feed"]
     existing = json.loads(LEADS.read_text()) if LEADS.exists() else []
     by_url = {l["url"]: l for l in existing}
-    for feed in cfg["rss_feeds"]:
+
+    def add(lead, tags):
+        old = by_url.setdefault(lead["url"], lead)
+        old["celebrities"] = sorted(set(old.get("celebrities", [])) | set(tags))
+
+    # Per-celebrity Google News search, localised to the chosen country.
+    for name in names:
+        feed = google_news_url(name, cfg["google_news"])
+        try:
+            for lead in parse_feed(fetch(feed), "Google News", limit):
+                # Google News titles end with " - Publisher"
+                title, _, pub = lead["title"].rpartition(" - ")
+                if title:
+                    lead["title"], lead["source"] = title, pub
+                lead["summary"] = ""  # Google News only repeats the headline
+                add(lead, [name] + mentioned(lead, names))
+            print(f"ok   google news: {name}")
+        except Exception as e:  # one broken feed must not stop the run
+            print(f"FAIL google news: {name}: {e}", file=sys.stderr)
+
+    # Country-specific entertainment feeds: keep only stories about tracked people.
+    for feed in cfg["general_feeds"]:
         source = re.sub(r"^www\.", "", feed.split("/")[2])
         try:
-            for lead in parse_feed(fetch(feed), source, cfg["max_items_per_feed"]):
-                by_url.setdefault(lead["url"], lead)
+            for lead in parse_feed(fetch(feed), source, limit):
+                tags = mentioned(lead, names)
+                if tags:
+                    add(lead, tags)
             print(f"ok   {feed}")
-        except Exception as e:  # one broken feed must not stop the run
+        except Exception as e:
             print(f"FAIL {feed}: {e}", file=sys.stderr)
-    kw = [k.lower() for k in cfg.get("keywords", [])]
+
     cutoff = datetime.now(timezone.utc) - timedelta(days=cfg["keep_days"])
     leads = []
     for l in by_url.values():
-        if kw and not any(k in (l["title"] + l["summary"]).lower() for k in kw):
-            continue
+        if not l.get("celebrities") or not any(n in names for n in l["celebrities"]):
+            continue  # celebrity was removed from config.json
+        l["celebrities"] = [n for n in l["celebrities"] if n in names]
         d = parse_date(l["published"])
         if d and d < cutoff:
             continue
@@ -85,7 +124,7 @@ def main():
     leads.sort(key=lambda l: l["published"] or "", reverse=True)
     LEADS.parent.mkdir(exist_ok=True)
     LEADS.write_text(json.dumps(leads, indent=2, ensure_ascii=False))
-    print(f"{len(leads)} leads saved")
+    print(f"{len(leads)} leads saved ({cfg['country']})")
 
 
 if __name__ == "__main__":
