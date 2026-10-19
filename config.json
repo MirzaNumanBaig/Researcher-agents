@@ -1,0 +1,10 @@
+{
+  "rss_feeds": [
+    "https://www.etonline.com/news/rss",
+    "https://www.tmz.com/rss.xml",
+    "https://pagesix.com/feed/"
+  ],
+  "keywords": [],
+  "max_items_per_feed": 25,
+  "keep_days": 14
+}
