@@ -2,6 +2,9 @@ name: Collect news
 on:
   schedule: [{cron: "0 */3 * * *"}]
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [config.json]
 permissions:
   contents: write
 jobs:
@@ -11,11 +14,17 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: python agents/collect_news.py
+      - name: Check pause switch
+        id: gate
+        run: |
+          paused=$(python -c "import json;print(json.load(open('config.json')).get('paused',False))")
+          if [ "$paused" = "True" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then echo "run=no" >> $GITHUB_OUTPUT; else echo "run=yes" >> $GITHUB_OUTPUT; fi
+      - if: steps.gate.outputs.run == 'yes'
+        run: python agents/collect_news.py
       - run: python agents/build_dashboard.py
       - name: Commit results
         run: |
           git config user.name "researcher-bot"
           git config user.email "researcher-bot@users.noreply.github.com"
           git add data docs
-          git diff --cached --quiet || git commit -m "Update leads" && git push
+          git diff --cached --quiet || { git commit -m "Update leads" && git pull --rebase origin main && git push; }

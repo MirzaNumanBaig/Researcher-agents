@@ -1,6 +1,11 @@
 {
   "country": "Australia",
-  "google_news": {"hl": "en-AU", "gl": "AU", "ceid": "AU:en", "when": "7d"},
+  "google_news": {
+    "hl": "en-AU",
+    "gl": "AU",
+    "ceid": "AU:en",
+    "when": "7d"
+  },
   "celebrities": [
     "Margot Robbie",
     "Chris Hemsworth",
@@ -14,5 +19,6 @@
     "https://www.smh.com.au/rss/culture.xml"
   ],
   "max_items_per_feed": 50,
-  "keep_days": 14
+  "keep_days": 14,
+  "paused": false
 }
