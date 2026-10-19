@@ -20,5 +20,61 @@
   ],
   "max_items_per_feed": 50,
   "keep_days": 14,
-  "paused": false
+  "paused": false,
+  "timezone": "Australia/Sydney",
+  "run_hours": [
+    6,
+    9,
+    12,
+    15,
+    18,
+    21
+  ],
+  "profiles": {
+    "Margot Robbie": {
+      "photo": "",
+      "instagram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "",
+      "youtube": "",
+      "website": ""
+    },
+    "Chris Hemsworth": {
+      "photo": "",
+      "instagram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "",
+      "youtube": "",
+      "website": ""
+    },
+    "Hugh Jackman": {
+      "photo": "",
+      "instagram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "",
+      "youtube": "",
+      "website": ""
+    },
+    "Nicole Kidman": {
+      "photo": "",
+      "instagram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "",
+      "youtube": "",
+      "website": ""
+    },
+    "Cate Blanchett": {
+      "photo": "",
+      "instagram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "",
+      "youtube": "",
+      "website": ""
+    }
+  }
 }

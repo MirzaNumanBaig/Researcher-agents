@@ -1,6 +1,6 @@
 name: Collect news
 on:
-  schedule: [{cron: "0 */3 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   workflow_dispatch:
   push:
     branches: [main]
@@ -14,11 +14,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - name: Check pause switch
+      - name: Check schedule and pause switch
         id: gate
-        run: |
-          paused=$(python -c "import json;print(json.load(open('config.json')).get('paused',False))")
-          if [ "$paused" = "True" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then echo "run=no" >> $GITHUB_OUTPUT; else echo "run=yes" >> $GITHUB_OUTPUT; fi
+        run: python agents/gate.py >> "$GITHUB_OUTPUT"
       - if: steps.gate.outputs.run == 'yes'
         run: python agents/collect_news.py
       - run: python agents/build_dashboard.py

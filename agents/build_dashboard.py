@@ -1,5 +1,6 @@
 """Render data/leads.json into docs/index.html (single-page dashboard, filtering done in the browser)."""
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -7,15 +8,73 @@ ROOT = Path(__file__).resolve().parent.parent
 cfg = json.loads((ROOT / "config.json").read_text())
 leads = json.loads((ROOT / "data" / "leads.json").read_text())
 
+STOP = set("a an the and or of to in on at for with by is are was were as from after before his her their its this that it be has have will new says say over into".split())
+
+
+NAME_PARTS = {w for n in cfg["celebrities"] for w in n.lower().split()}
+
+
+def tokens(title):
+    return {w for w in re.findall(r"[a-z0-9']+", title.lower()) if w not in STOP and w not in NAME_PARTS and len(w) > 2}
+
+
+def group(leads):
+    """Merge near-duplicate headlines (token overlap) into one story with all outlets."""
+    toks = [tokens(l["title"]) for l in leads]
+    parent = list(range(len(leads)))
+
+    def find(i):
+        while parent[i] != i:
+            parent[i] = parent[parent[i]]
+            i = parent[i]
+        return i
+
+    for i in range(len(leads)):
+        for j in range(i + 1, len(leads)):
+            a, b = toks[i], toks[j]
+            if a and b and set(leads[i]["celebrities"]) & set(leads[j]["celebrities"]) \
+                    and len(a & b) >= 2 and len(a & b) / len(a | b) >= 0.4:
+                parent[find(j)] = find(i)
+    groups = {}
+    for i, l in enumerate(leads):
+        groups.setdefault(find(i), []).append(l)
+    stories = []
+    for ls in groups.values():
+        ls.sort(key=lambda l: l.get("published") or "", reverse=True)
+        top = ls[0]
+        outlets = []
+        for l in ls:
+            if l["source"] and l["source"] not in [o["source"] for o in outlets]:
+                outlets.append({"source": l["source"], "url": l["url"]})
+        stories.append({
+            "title": top["title"], "url": top["url"], "source": top["source"],
+            "published": top["published"], "summary": next((l["summary"] for l in ls if l["summary"]), ""),
+            "celebrities": sorted({c for l in ls for c in l["celebrities"]}),
+            "outlets": outlets,
+            "batch": min((l.get("batch") or "Earlier" for l in ls), key=lambda b: (b != "Earlier", b)),
+        })
+    stories.sort(key=lambda x: x["published"] or "", reverse=True)
+    return stories
+
+
+usage_file = ROOT / "data" / "usage.json"
+usage = json.loads(usage_file.read_text()) if usage_file.exists() else {}
+stories = group(leads)
 data = {
     "country": cfg["country"],
+    "timezone": cfg.get("timezone", "UTC"),
+    "run_hours": cfg.get("run_hours", []),
+    "profiles": cfg.get("profiles", {}),
+    "runs_this_month": usage.get(datetime.now(timezone.utc).strftime("%Y-%m"), 0),
+    "lead_count": len(leads),
     "celebrities": cfg["celebrities"],
     "paused": bool(cfg.get("paused")),
     "updated": datetime.now(timezone.utc).isoformat(),
-    "leads": [{k: l.get(k) for k in ("title", "url", "source", "published", "summary", "celebrities")} for l in leads],
+    "leads": stories,
 }
 
 TEMPLATE = r"""<!doctype html><html lang="en"><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow,noarchive">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Modus Carry · __COUNTRY__ Celebrity News</title>
 <style>
@@ -52,6 +111,8 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut)
 .card p{margin:0;color:var(--mut);font-size:14px}
 .badge{margin-left:auto;font-size:11px;font-weight:700;background:var(--new);color:#fff;border-radius:99px;padding:2px 8px}
 .hero{border-color:var(--acc);background:linear-gradient(var(--accbg),var(--card))}
+.tabs{display:flex;gap:6px;overflow-x:auto;margin:6px 0 12px}.tab{white-space:nowrap;padding:6px 12px;border-radius:8px 8px 0 0;border:1px solid var(--line);border-bottom:2px solid var(--line);background:var(--card);cursor:pointer;font-size:13px}.tab.on{border-bottom-color:var(--acc);font-weight:700}
+.profiles{display:flex;gap:12px;overflow-x:auto;margin:6px 0 14px}.prof{min-width:170px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;text-align:center}.prof .pav{width:56px;height:56px;border-radius:50%;margin:0 auto 6px;display:grid;place-items:center;color:#fff;font-weight:700;background-size:cover;background-position:center}.prof b{display:block;font-size:14px;cursor:pointer}.ico{display:inline-grid;place-items:center;width:24px;height:24px;margin:6px 2px 0;border-radius:6px;background:var(--accbg);font-size:10px;font-weight:700;color:var(--ink)}.also{font-size:12px;color:var(--mut)}.cnt{font-size:11px;font-weight:700;background:var(--accbg);color:var(--ink);border-radius:99px;padding:2px 8px}
 .empty{color:var(--mut);padding:30px;text-align:center}
 footer{color:var(--mut);font-size:12px;padding:30px 0}
 </style>
@@ -60,36 +121,46 @@ footer{color:var(--mut);font-size:12px;padding:30px 0}
 <main class="wrap">
 <div class="panel"><div><div id="state"></div><div id="timer"></div></div>
 <div><button class="pri" id="run">Run now</button> <button id="pause"></button> <button id="add">+ Add celebrity</button> <button id="tok" title="GitHub token">🔑</button></div>
-<div id="msg"></div></div>
+<button id="sched">Edit schedule</button>
+<div id="msg"></div><div id="usage" class="also"></div></div>
 <div class="tools"><input id="q" type="search" placeholder="Search headlines…">
 <select id="src"><option value="">All sources</option></select>
 <select id="sort"><option value="new">Newest first</option><option value="cel">Group by celebrity</option><option value="src">Group by source</option></select>
 <select id="when"><option value="">Any time</option><option value="3">Last 3 hours</option><option value="24">Last 24 hours</option><option value="72">Last 3 days</option></select></div>
+<div class="profiles" id="profiles"></div>
 <div class="chips" id="chips"></div>
+<div class="tabs" id="tabs"></div>
 <div id="top"></div><div id="list"></div>
 <footer>Headlines come from Google News and Australian entertainment feeds. Google News does not provide images or full summaries; open a story for the full article.</footer>
 </main>
 <script>
 const D=__DATA__,REPO="MirzaNumanBaig/Researcher-agents";
 const $=i=>document.getElementById(i),esc=s=>String(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-let paused=D.paused,celeb="";
+let paused=D.paused,celeb="",batch="";
 const COL=["#b8860b","#2b6cb0","#2f855a","#c05621","#6b46c1","#b83280","#2c7a7b"];
 const col=n=>COL[[...n].reduce((a,c)=>a+c.charCodeAt(0),0)%COL.length];
 const ini=n=>n.split(/\s+/).map(w=>w[0]).slice(0,2).join("").toUpperCase();
 const ago=d=>{const m=Math.round((Date.now()-new Date(d))/6e4);if(m<1)return"just now";if(m<60)return m+"m ago";if(m<1440)return Math.round(m/60)+"h ago";return Math.round(m/1440)+"d ago"};
 const age=l=>l.published?(Date.now()-new Date(l.published))/36e5:1e9;
-$("upd").textContent=D.leads.length+" leads · updated "+ago(D.updated);
-[...new Set(D.leads.map(l=>l.source).filter(Boolean))].sort().forEach(s=>$("src").add(new Option(s,s)));
+$("upd").textContent=D.leads.length+" stories ("+D.lead_count+" headlines) · updated "+ago(D.updated);
+[...new Set(D.leads.flatMap(l=>l.outlets.map(o=>o.source)).filter(Boolean))].sort().forEach(s=>$("src").add(new Option(s,s)));
 function chips(){const c=[["","All"],...D.celebrities.map(n=>[n,n])];
 $("chips").innerHTML=c.map(([v,t])=>'<button class="chip'+(v===celeb?' on':'')+'" data-v="'+esc(v)+'">'+esc(t)+'</button>').join("");
 document.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{celeb=b.dataset.v;chips();render()})}
+function tabs(){const bs=[...new Set(D.leads.map(l=>l.batch))].sort().reverse();
+$("tabs").innerHTML=[["","All batches"],...bs.map(b=>[b,b==="Earlier"?"Earlier":b.slice(5)])].map(([v,t])=>'<button class="tab'+(v===batch?' on':'')+'" data-v="'+esc(v)+'" title="'+esc(v?"Found in the run at "+v+" ("+D.timezone+")":"")+'">'+esc(t)+(v?' ('+D.leads.filter(l=>l.batch===v).length+')':'')+'</button>').join("");
+document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{batch=b.dataset.v;tabs();render()})}
+const ICONS={instagram:"IG",tiktok:"TT",x:"X",facebook:"FB",youtube:"YT",website:"WWW",google:"G"};
+function profiles(){$("profiles").innerHTML=D.celebrities.map(n=>{const p=D.profiles[n]||{};
+return '<div class="prof"><div class="pav" style="background-color:'+col(n)+(p.photo?';background-image:url('+esc(p.photo)+')':'')+'">'+(p.photo?'':esc(ini(n)))+'</div><b data-n="'+esc(n)+'">'+esc(n)+'</b>'+Object.keys(ICONS).filter(k=>p[k]).map(k=>'<a class="ico" href="'+esc(p[k])+'" target="_blank" rel="noopener" title="'+k+'">'+ICONS[k]+'</a>').join("")+'</div>'}).join("");
+document.querySelectorAll(".prof b").forEach(b=>b.onclick=()=>{celeb=b.dataset.n;chips();render()})}
 function card(l,hero){const n=(l.celebrities||[])[0]||"";
-return '<a class="card'+(hero?' hero':'')+'" href="'+esc(l.url)+'" target="_blank" rel="noopener"><div class="top"><div class="av" style="background:'+col(n)+'">'+esc(ini(n))+'</div><div><div class="who">'+esc((l.celebrities||[]).join(", "))+'</div><div class="meta">'+esc(l.source)+' · '+(l.published?ago(l.published):"")+'</div></div>'+(age(l)<=3?'<span class="badge">NEW</span>':'')+'</div><h3>'+esc(l.title)+'</h3>'+(l.summary?'<p>'+esc(l.summary.slice(0,220))+'</p>':'')+'</a>'}
+return '<a class="card'+(hero?' hero':'')+'" href="'+esc(l.url)+'" target="_blank" rel="noopener"><div class="top"><div class="av" style="background:'+col(n)+'">'+esc(ini(n))+'</div><div><div class="who">'+esc((l.celebrities||[]).join(", "))+'</div><div class="meta">'+esc(l.source)+' · '+(l.published?ago(l.published):"")+'</div></div>'+(age(l)<=3?'<span class="badge">NEW</span>':'')+'</div><h3>'+esc(l.title)+'</h3>'+(l.outlets.length>1?'<div class="also"><span class="cnt">'+l.outlets.length+' outlets</span> '+esc(l.outlets.slice(0,5).map(o=>o.source).join(", "))+(l.outlets.length>5?" +"+(l.outlets.length-5):"")+'</div>':'')+(l.summary?'<p>'+esc(l.summary.slice(0,220))+'</p>':'')+'</a>'}
 function render(){
 const q=$("q").value.toLowerCase(),s=$("src").value,w=+$("when").value,so=$("sort").value;
-let ls=D.leads.filter(l=>(!celeb||(l.celebrities||[]).includes(celeb))&&(!s||l.source===s)&&(!q||(l.title+" "+l.summary+" "+l.source).toLowerCase().includes(q))&&(!w||age(l)<=w));
+let ls=D.leads.filter(l=>(!celeb||(l.celebrities||[]).includes(celeb))&&(!s||l.outlets.some(o=>o.source===s))&&(!batch||l.batch===batch)&&(!q||(l.title+" "+l.summary+" "+l.outlets.map(o=>o.source).join(" ")).toLowerCase().includes(q))&&(!w||age(l)<=w));
 ls.sort((a,b)=>(b.published||"").localeCompare(a.published||""));
-const plain=!q&&!s&&!w&&!celeb&&so==="new";
+const plain=!q&&!s&&!w&&!celeb&&!batch&&so==="new";
 $("top").innerHTML=plain&&ls.length?'<h2>★ Top stories</h2><div class="grid">'+ls.slice(0,3).map(l=>card(l,1)).join("")+'</div>':"";
 if(plain)ls=ls.slice(3);
 if(!ls.length&&!plain){$("list").innerHTML='<div class="empty">No stories match.</div>';return}
@@ -98,11 +169,13 @@ const key=l=>so==="cel"?((l.celebrities||[])[0]||"Other"):(l.source||"Other"),g=
 ls.forEach(l=>(g[key(l)]=g[key(l)]||[]).push(l));
 $("list").innerHTML=Object.keys(g).sort().map(k=>'<h2>'+esc(k)+' ('+g[k].length+')</h2><div class="grid">'+g[k].map(l=>card(l)).join("")+'</div>').join("")}
 ["q","src","sort","when"].forEach(i=>$(i).oninput=render);
-function nextRun(){const d=new Date();return new Date(Date.UTC(d.getUTCFullYear(),d.getUTCMonth(),d.getUTCDate(),(Math.floor(d.getUTCHours()/3)+1)*3))}
-function tick(){$("state").textContent=paused?"⏸ Paused: scheduled runs are off":"▶ Running every 3 hours";$("pause").textContent=paused?"Continue":"Pause";
+function hourIn(t){const h=+new Intl.DateTimeFormat("en-US",{hour:"numeric",hour12:false,timeZone:D.timezone}).format(t);return h===24?0:h}
+function nextRun(){const d=new Date();d.setUTCMinutes(0,0,0);for(let i=1;i<=48;i++){const t=new Date(d.getTime()+i*36e5);if(D.run_hours.includes(hourIn(t)))return t}return null}
+const hh=h=>(h%12||12)+(h<12?"am":"pm");
+function tick(){$("state").textContent=paused?"⏸ Paused: scheduled runs are off":"▶ Runs daily at "+D.run_hours.map(hh).join(", ")+" ("+D.timezone.split("/").pop().replace("_"," ")+")";$("pause").textContent=paused?"Continue":"Pause";
 if(paused){$("timer").textContent="Next run: none (paused)";return}
-const ms=nextRun()-new Date(),h=Math.floor(ms/36e5),m=Math.floor(ms%36e5/6e4),s=Math.floor(ms%6e4/1e3);
-$("timer").textContent="Next run in "+h+"h "+m+"m "+s+"s (approx.)"}
+const nr=nextRun();if(!nr){$("timer").textContent="No run times set";return}const ms=nr-new Date(),h=Math.floor(ms/36e5),m=Math.floor(ms%36e5/6e4),s=Math.floor(ms%6e4/1e3);
+$("timer").textContent="Next run in "+h+"h "+m+"m "+s+"s (approx.; GitHub can start a few minutes late)"}
 setInterval(tick,1000);
 const say=t=>$("msg").textContent=t;
 function token(force){let t=localStorage.getItem("gh_token");if(!t||force){t=prompt("Paste a GitHub fine-grained token for "+REPO+" (Contents + Actions: read & write). Stored only in this browser.");if(t)localStorage.setItem("gh_token",t.trim())}return localStorage.getItem("gh_token")}
@@ -113,7 +186,9 @@ $("tok").onclick=()=>token(true);
 $("run").onclick=async()=>{try{await gh("/actions/workflows/collect.yml/dispatches",{method:"POST",body:JSON.stringify({ref:"main"})});say("Run started. Refresh in about a minute.")}catch(e){say("Failed: "+e.message)}};
 $("pause").onclick=async()=>{try{await editCfg(c=>c.paused=!paused);paused=!paused;tick();say(paused?"Paused. Scheduled runs will skip.":"Continued. Collecting now.")}catch(e){say("Failed: "+e.message)}};
 $("add").onclick=async()=>{const n=(prompt("Celebrity name?")||"").trim();if(!n)return;try{await editCfg(c=>{if(!c.celebrities.includes(n))c.celebrities.push(n)});say(n+" added. A run starts now; refresh in 1-2 minutes.")}catch(e){say("Failed: "+e.message)}};
-chips();render();tick();
+$("usage").textContent="Runs this month: "+D.runs_this_month+" · GitHub Actions minutes: unlimited (public repo) · Claude plan usage: see claude.ai/settings/usage";
+$("sched").onclick=async()=>{const v=prompt("Hours to run each day, 0-23 in "+D.timezone+", comma separated (e.g. 6,9,12,15,18,21)",D.run_hours.join(","));if(v===null)return;const hs=[...new Set(v.split(",").map(x=>parseInt(x,10)).filter(x=>x>=0&&x<=23))].sort((a,b)=>a-b);if(!hs.length){say("No valid hours entered.");return}try{await editCfg(c=>c.run_hours=hs);D.run_hours=hs;tick();say("Schedule saved. It applies from the next hour.")}catch(e){say("Failed: "+e.message)}};
+chips();profiles();tabs();render();tick();
 </script></html>"""
 
 page = (TEMPLATE.replace("__COUNTRY__", cfg["country"])

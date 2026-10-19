@@ -9,6 +9,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
 LEADS = ROOT / "data" / "leads.json"
@@ -79,8 +80,13 @@ def main():
     limit = cfg["max_items_per_feed"]
     existing = json.loads(LEADS.read_text()) if LEADS.exists() else []
     by_url = {l["url"]: l for l in existing}
+    local = datetime.now(ZoneInfo(cfg.get("timezone", "UTC")))
+    batch = local.strftime("%Y-%m-%d %H:00")  # one tab per run, labelled in the dashboard timezone
 
     def add(lead, tags):
+        if lead["url"] not in by_url:
+            lead["batch"] = batch
+            lead["found"] = datetime.now(timezone.utc).isoformat()
         old = by_url.setdefault(lead["url"], lead)
         old["celebrities"] = sorted(set(old.get("celebrities", [])) | set(tags))
 
@@ -124,7 +130,13 @@ def main():
     leads.sort(key=lambda l: l["published"] or "", reverse=True)
     LEADS.parent.mkdir(exist_ok=True)
     LEADS.write_text(json.dumps(leads, indent=2, ensure_ascii=False))
-    print(f"{len(leads)} leads saved ({cfg['country']})")
+    new = sum(1 for l in leads if l.get("batch") == batch)
+    usage = ROOT / "data" / "usage.json"
+    u = json.loads(usage.read_text()) if usage.exists() else {}
+    month = local.strftime("%Y-%m")
+    u[month] = u.get(month, 0) + 1
+    usage.write_text(json.dumps(u, indent=2))
+    print(f"{len(leads)} leads saved ({cfg['country']}), {new} new in batch {batch}")
 
 
 if __name__ == "__main__":
