@@ -193,6 +193,7 @@ chips();profiles();tabs();render();tick();
 
 page = (TEMPLATE.replace("__COUNTRY__", cfg["country"])
         .replace("__DATA__", json.dumps(data, ensure_ascii=False).replace("</", "<\\/")))
+(ROOT / "data" / "stories.json").write_text(json.dumps(stories, indent=2, ensure_ascii=False))  # read by the MCP server
 (ROOT / "docs").mkdir(exist_ok=True)
 (ROOT / "docs" / "index.html").write_text(page)
 print("dashboard built")

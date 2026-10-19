@@ -11,3 +11,5 @@ Everything lives in this repo, so any Claude account/session can continue the wo
 
 To change the dashboard: edit `agents/build_dashboard.py`, run it, commit, push to `main`.
 Never commit secrets. WordPress/GitHub tokens belong in GitHub Actions secrets.
+- `mcp/server.py`: stdio MCP server (stdlib only) so any Claude account can read stories and control the system via the GitHub API. Setup: `mcp/README.md`.
+- `articles/`: drafts written by Claude (`status: pending|approved|rejected` in the front matter). Only approved drafts are ever published.
