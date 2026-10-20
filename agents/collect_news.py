@@ -43,7 +43,7 @@ def strip_html(s):
 def parse_feed(data, source, limit):
     root = ET.fromstring(data)
     out = []
-    for it in (root.iter("item") or []):
+    for it in root.iter("item"):
         out.append((it.findtext("title"), it.findtext("link"),
                     it.findtext("pubDate"), it.findtext("description")))
     for it in root.iter(ATOM + "entry"):
@@ -74,6 +74,29 @@ def mentioned(lead, names):
     return [n for n in names if n.lower() in text]
 
 
+def names_person(title, name):
+    """True when the headline uses the person's full name or surname as a whole word."""
+    t = title.lower()
+    full, last = name.lower(), name.lower().split()[-1]
+    return full in t or re.search(rf"\b{re.escape(last)}\b", t) is not None
+
+
+def relevant(lead, cfg):
+    """Drop excluded outlets and stories whose headline does not name any celebrity they are tagged with."""
+    src = (lead.get("source") or "").lower()
+    if any(x.lower() in src for x in cfg.get("exclude_sources", [])):
+        return False
+    if cfg.get("headline_must_name", True):
+        return any(names_person(lead["title"], n) for n in lead.get("celebrities", []))
+    return True
+
+
+def fresh(lead, cfg, now):
+    """New stories older than max_age_hours are not news any more."""
+    d = parse_date(lead.get("published"))
+    return not d or now - d <= timedelta(hours=cfg.get("max_age_hours", 48))
+
+
 def main():
     cfg = json.loads((ROOT / "config.json").read_text())
     names = cfg["celebrities"]
@@ -83,10 +106,14 @@ def main():
     local = datetime.now(ZoneInfo(cfg.get("timezone", "UTC")))
     batch = local.strftime("%Y-%m-%d %H:00")  # one tab per run, labelled in the dashboard timezone
 
+    now = datetime.now(timezone.utc)
+
     def add(lead, tags):
         if lead["url"] not in by_url:
+            if not fresh(lead, cfg, now):
+                return
             lead["batch"] = batch
-            lead["found"] = datetime.now(timezone.utc).isoformat()
+            lead["found"] = now.isoformat()
         old = by_url.setdefault(lead["url"], lead)
         old["celebrities"] = sorted(set(old.get("celebrities", [])) | set(tags))
 
@@ -125,6 +152,8 @@ def main():
         l["celebrities"] = [n for n in l["celebrities"] if n in names]
         d = parse_date(l["published"])
         if d and d < cutoff:
+            continue
+        if not relevant(l, cfg):
             continue
         leads.append(l)
     leads.sort(key=lambda l: l["published"] or "", reverse=True)

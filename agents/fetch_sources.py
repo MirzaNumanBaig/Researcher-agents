@@ -3,10 +3,12 @@
 usage: fetch_sources.py briefs/<batch>/<celebrity>.json  ->  work/<batch>-<celebrity>/sources.md  (not committed)
 Google News links are resolved to the real article first. Text is for reading/fact-checking only and is never published or stored in git.
 """
+import base64
 import html
 import json
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 from html.parser import HTMLParser
@@ -15,6 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36", "Cookie": "CONSENT=YES+cb"}
 MAX_STORIES, MAX_OUTLETS, MAX_CHARS = 6, 3, 5000
+MIN_CHARS = 300  # shorter than this is a cookie banner or a paywall stub, not an article
 
 
 def get(url, data=None, headers=None):
@@ -23,15 +26,39 @@ def get(url, data=None, headers=None):
         return r.read().decode("utf-8", "replace")
 
 
+def embedded_url(gid):
+    """Old-style Google News ids carry the publisher URL inside the base64 payload."""
+    try:
+        raw = base64.urlsafe_b64decode(gid + "=" * (-len(gid) % 4))
+    except ValueError:
+        return None
+    m = re.search(rb"https?://[\x21-\x7e]+", raw)
+    return m.group(0).decode() if m else None
+
+
 def resolve(url):
     """Resolve a news.google.com/rss/articles/... link to the publisher's URL."""
     if "news.google.com/rss/articles/" not in url:
         return url
     gid = urllib.parse.urlparse(url).path.rstrip("/").split("/")[-1]
+    direct = embedded_url(gid)
+    if direct:
+        return direct
+    last = None
+    for attempt in range(3):
+        try:
+            return batchexecute(gid)
+        except Exception as e:  # Google rate-limits or changes this call; retry, then report why
+            last = e
+            time.sleep(1.5 * (attempt + 1))
+    raise RuntimeError(f"could not resolve the Google News link ({last})")
+
+
+def batchexecute(gid):
     page = get(f"https://news.google.com/rss/articles/{gid}")
     sg, ts = re.search(r'data-n-a-sg="([^"]+)"', page), re.search(r'data-n-a-ts="([^"]+)"', page)
     if not (sg and ts):
-        raise RuntimeError("could not resolve Google News link")
+        raise RuntimeError("Google returned no signature (consent page or block)")
     inner = json.dumps(["garturlreq", [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None, None, None, None, 0, 1],
                                        "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0], gid, int(ts.group(1)), sg.group(1)])
     body = "f.req=" + urllib.parse.quote(json.dumps([[["Fbv4je", inner, None, "generic"]]]))
@@ -95,18 +122,29 @@ def main():
     brief = json.loads(brief_path.read_text())
     out_dir = ROOT / "work" / f"{brief_path.parent.name}-{brief_path.stem}"
     out_dir.mkdir(parents=True, exist_ok=True)
-    parts = [f"# Source texts for {brief['celebrity']} (batch {brief['batch']})\n",
-             "Read-only research material fetched automatically. Never copy sentences from it.\n"]
+    parts, readable, tried = [], 0, 0
     for i, story in enumerate(brief["stories"][:MAX_STORIES], 1):
         parts.append(f"\n## Story {i}: {story['title']}\n")
         for o in story["outlets"][:MAX_OUTLETS]:
+            tried += 1
             try:
                 real, title, text = read_page(o["url"])
-                parts.append(f"\n### {o['source']}: {title}\nURL: {real}\n\n{text or '(no readable text; likely paywalled or script-rendered)'}\n")
+                if len(text) >= MIN_CHARS:
+                    readable += 1
+                    parts.append(f"\n### {o['source']}: {title}\nURL: {real}\n\n{text}\n")
+                else:
+                    parts.append(f"\n### {o['source']}\nURL: {real}\n(not usable: {'no readable text, likely paywalled or script-rendered' if not text else 'only a short stub'})\n")
             except Exception as e:
                 parts.append(f"\n### {o['source']}\n(could not fetch: {e})\n")
-    (out_dir / "sources.md").write_text("\n".join(parts))
-    print(f"wrote {out_dir / 'sources.md'}")
+    head = [f"# Source texts for {brief['celebrity']} (batch {brief['batch']})\n",
+            f"Readable sources: {readable} of {tried}.\n",
+            "Read-only research material fetched automatically. Never copy sentences from it.\n"]
+    if not readable:
+        head.append("**NO READABLE SOURCE TEXT.** Do not write from the headlines alone. Try the story links with your web tools; if you still cannot "
+                    "read at least one real article, write the file with `status: skipped` and `skip_reason: no readable source text`.\n")
+        print(f"::warning::No readable source text for {brief['celebrity']} ({brief['batch']}): {tried} outlet(s) tried")
+    (out_dir / "sources.md").write_text("\n".join(head + parts))
+    print(f"wrote {out_dir / 'sources.md'} ({readable}/{tried} readable)")
 
 
 if __name__ == "__main__":

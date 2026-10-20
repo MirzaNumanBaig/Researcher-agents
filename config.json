@@ -16,7 +16,12 @@
   "general_feeds": [
     "https://www.theguardian.com/au/culture/rss",
     "https://www.who.com.au/feed",
-    "https://www.smh.com.au/rss/culture.xml"
+    "https://www.smh.com.au/rss/culture.xml",
+    "https://www.theguardian.com/film/rss",
+    "https://variety.com/feed/",
+    "https://deadline.com/feed/",
+    "https://www.hollywoodreporter.com/feed/",
+    "https://pagesix.com/feed/"
   ],
   "max_items_per_feed": 50,
   "keep_days": 14,
@@ -82,5 +87,12 @@
   "site": {
     "name": "",
     "url": ""
-  }
+  },
+  "exclude_sources": [
+    "Britannica",
+    "MiNDFOOD",
+    "Unisba Media"
+  ],
+  "max_age_hours": 48,
+  "headline_must_name": true
 }
