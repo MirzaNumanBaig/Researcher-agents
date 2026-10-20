@@ -1,0 +1,346 @@
+<!doctype html><html lang="en"><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>__TITLE__</title>
+<style>
+/* Layout: slim top bar, one status strip, a people filter row, one toolbar, then a single feed. Setup lives in one window. */
+:root{--bg:#f6f6f3;--surface:#fff;--ink:#1a1a1f;--mut:#686872;--line:#e5e4de;--soft:#f0efea;--acc:#9a6a00;--accbg:#fbf1d6;--on-acc:#fff;--new:#c2255c;--ok:#2f855a;--bad:#c53030;--shadow:0 1px 2px #0000000d}
+@media(prefers-color-scheme:dark){:root{--bg:#0f0f12;--surface:#17171c;--ink:#efeee9;--mut:#9a9aa5;--line:#2a2a31;--soft:#202027;--acc:#e3b341;--accbg:#2a2412;--on-acc:#14110a;--new:#ff7aa5;--ok:#5cc690;--bad:#ff8a8a;--shadow:none}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+button,select,input{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.wrap{max-width:1040px;margin:0 auto;padding-inline:max(16px,env(safe-area-inset-left,0px)) max(16px,env(safe-area-inset-right,0px))}
+.muted{color:var(--mut)}.small{font-size:13px}
+
+/* top bar */
+.bar{background:var(--surface);border-bottom:1px solid var(--line)}
+.bar-in{display:flex;align-items:center;gap:16px;padding-block:14px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:12px;min-width:0;margin-right:auto}
+.logo{flex:none;width:38px;height:38px;border-radius:10px;background:var(--ink);color:var(--bg);display:grid;place-items:center;font-weight:700;font-size:14px;letter-spacing:.02em}
+h1{font-size:18px;line-height:1.2;margin:0;font-weight:650;letter-spacing:-.01em}
+.sub{color:var(--mut);font-size:13px}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+.btn,button.btn{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:9px;border:1px solid var(--line);background:var(--surface);font-size:14px;font-weight:500;line-height:1.2}
+.btn:hover{background:var(--soft)}
+.btn.pri{background:var(--acc);border-color:var(--acc);color:var(--on-acc);font-weight:600}
+.btn.pri:hover{filter:brightness(1.08);background:var(--acc)}
+.btn.sm{padding:5px 10px;font-size:13px}
+.btn[disabled]{opacity:.5;cursor:default}
+
+/* status strip */
+.strip{display:flex;align-items:center;gap:10px 14px;flex-wrap:wrap;padding-block:14px 4px;font-size:14px}
+.pill{display:inline-flex;align-items:center;gap:7px;padding:4px 11px;border-radius:99px;background:var(--surface);border:1px solid var(--line);font-size:13px;font-weight:600}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--ok)}.pill.off .dot{background:var(--mut)}
+#msg{flex-basis:100%;min-height:1.2em;font-size:13px;color:var(--mut)}
+.stats{display:flex;gap:6px 22px;flex-wrap:wrap;margin-left:auto}
+.stat{display:flex;gap:6px;align-items:baseline;font-size:13px;color:var(--mut)}.stat b{color:var(--ink);font-size:17px;font-weight:650;font-variant-numeric:tabular-nums}
+
+/* people */
+.people{display:flex;gap:8px;overflow-x:auto;padding-block:12px 6px;scrollbar-width:thin}
+.who{flex:none;display:flex;align-items:center;gap:8px;padding:5px 12px 5px 5px;border-radius:99px;border:1px solid var(--line);background:var(--surface);font-size:14px;white-space:nowrap}
+.who.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.who .n{font-size:12px;opacity:.65;font-variant-numeric:tabular-nums}
+.who.all{padding:7px 14px}
+.av{flex:none;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;color:#fff;font-size:11px;font-weight:700;background-size:cover;background-position:center}
+.av.lg{width:64px;height:64px;font-size:18px}
+.profile{display:flex;gap:16px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-block:8px}
+.profile h2{margin:0;font-size:17px;text-transform:none;letter-spacing:0;color:var(--ink)}
+.icos{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.ico{display:grid;place-items:center;width:30px;height:30px;border-radius:50%;border:1px solid var(--line)}
+.ico img{width:14px;height:14px}.ico.off{opacity:.25}
+@media(prefers-color-scheme:dark){.ico img{filter:invert(1)}}
+
+/* toolbar */
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding-block:10px}
+.seg{display:inline-flex;padding:3px;border-radius:10px;background:var(--soft);border:1px solid var(--line)}
+.seg button{border:0;background:transparent;padding:6px 14px;border-radius:7px;font-size:14px;font-weight:500;color:var(--mut)}
+.seg button.on{background:var(--surface);color:var(--ink);box-shadow:var(--shadow);font-weight:600}
+.toolbar input,.toolbar select{padding:8px 11px;border-radius:9px;border:1px solid var(--line);background:var(--surface);font-size:14px;min-width:0}
+.toolbar input{flex:1 1 220px}.toolbar select{flex:0 1 auto;max-width:170px}
+
+/* feed */
+h2.sec{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:var(--mut);margin:22px 0 10px;display:flex;gap:8px;align-items:center}
+.count{background:var(--soft);color:var(--ink);border-radius:99px;padding:1px 8px;font-size:11px;letter-spacing:0}
+.tops{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:12px}
+.top{display:flex;flex-direction:column;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;min-width:0}
+.top:hover,.story:hover{border-color:var(--mut)}
+.top h3{font-size:17px;line-height:1.3;margin:0;font-weight:650;text-wrap:balance}
+.top p{margin:0;color:var(--mut);font-size:14px}
+.feed{background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.story{display:flex;gap:12px;padding:13px 16px;border-top:1px solid var(--line);min-width:0;align-items:flex-start}
+.story:first-child{border-top:0}
+.story:hover{background:var(--soft);border-color:var(--line)}
+.sb{min-width:0;flex:1}
+.story h3{font-size:15px;line-height:1.35;margin:0 0 3px;font-weight:600}
+.meta{font-size:12.5px;color:var(--mut);display:flex;flex-wrap:wrap;gap:2px 8px;align-items:center}
+.meta .nm{color:var(--ink);font-weight:600}
+.badge{font-size:10.5px;font-weight:700;letter-spacing:.04em;background:var(--new);color:#fff;border-radius:99px;padding:1px 7px}
+.empty{color:var(--mut);padding:36px 16px;text-align:center;background:var(--surface);border:1px dashed var(--line);border-radius:14px}
+
+/* article rows */
+.arow{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 14px;margin-bottom:8px}
+.arow .nm{font-weight:600;min-width:140px}
+.arow .sp{flex:1}
+.arow select{padding:5px 8px;border-radius:8px;border:1px solid var(--line);background:var(--surface);font-size:13px}
+.chip2{font-size:12px;font-weight:600;border-radius:99px;padding:3px 10px;background:var(--soft)}
+.chip2.ok{background:var(--ok);color:#fff}.chip2.no{background:var(--bad);color:#fff}
+footer{color:var(--mut);font-size:12px;padding-block:28px 40px;max-width:70ch}
+
+/* setup window */
+dialog{width:min(720px,calc(100vw - 24px));max-height:min(88vh,860px);padding:0;border:1px solid var(--line);border-radius:16px;background:var(--surface);color:var(--ink);overflow:hidden}
+dialog[open]{display:flex;flex-direction:column}
+dialog::backdrop{background:#0009}
+.dh{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;border-bottom:1px solid var(--line)}
+.dh b{font-size:17px}
+.dtabs{display:flex;gap:4px;padding:10px 18px 0;border-bottom:1px solid var(--line);overflow-x:auto}
+.dt{border:0;background:transparent;padding:8px 12px;border-bottom:2px solid transparent;font-size:14px;color:var(--mut);white-space:nowrap;font-weight:500}
+.dt.on{color:var(--ink);border-bottom-color:var(--acc);font-weight:650}
+.dp{padding:6px 18px 20px;overflow-y:auto}
+.dp h4{margin:20px 0 6px;font-size:14px}
+.dp p{margin:6px 0}
+.field{display:grid;gap:4px;margin:10px 0}
+.field label{font-size:13px;font-weight:600}
+.field input,.field select{padding:9px 11px;border-radius:9px;border:1px solid var(--line);background:var(--bg);width:100%;font-size:14px}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:end}.row .field{flex:1 1 200px;margin:6px 0}
+.step{display:flex;gap:12px;margin:14px 0}
+.num{flex:none;width:24px;height:24px;border-radius:50%;background:var(--accbg);color:var(--ink);border:1px solid var(--acc);display:grid;place-items:center;font-weight:700;font-size:12px}
+.step>div{min-width:0}
+.cp{display:flex;gap:8px;align-items:flex-start;margin:6px 0 10px}
+.cp code,.cp pre{flex:1;min-width:0;margin:0}
+code,pre{background:var(--soft);padding:2px 6px;border-radius:6px;font:12.5px/1.5 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;overflow-wrap:anywhere}
+pre{padding:10px 12px;white-space:pre-wrap;border-radius:9px}
+details{border:1px solid var(--line);border-radius:12px;margin:10px 0;background:var(--bg)}
+summary{padding:11px 14px;cursor:pointer;font-weight:600;font-size:14px}
+details>div{padding:0 14px 12px}
+.note{border-left:3px solid var(--acc);padding:6px 12px;background:var(--bg);margin:12px 0;color:var(--mut);font-size:13.5px;border-radius:0 8px 8px 0}
+.flow{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:8px;margin:12px 0 4px}
+.flow div{border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:13px;background:var(--bg)}.flow b{display:block;font-size:13.5px}
+.check{display:flex;gap:8px;align-items:center;font-size:14px;margin:8px 0}
+@media(max-width:560px){.toolbar select{max-width:none;flex:1 1 140px}.stats{margin-left:0;width:100%}.bar-in{gap:10px}.actions{width:100%}.actions .btn{flex:1;justify-content:center}.arow .nm{min-width:0;flex-basis:100%}}
+@media(prefers-reduced-motion:no-preference){.top,.story,.who,.btn{transition:background .12s,border-color .12s}}
+</style>
+<header class="bar"><div class="wrap bar-in">
+<div class="brand"><div class="logo" id="logo">CN</div><div><h1 id="h1"></h1><div class="sub" id="upd"></div></div></div>
+<div class="actions"><button class="btn pri" id="run">Run now</button><button class="btn" id="conn">Setup</button></div>
+</div></header>
+<main class="wrap">
+<section class="strip"><span class="pill" id="state"></span><span class="muted" id="timer"></span><button class="btn sm" id="pause"></button><div class="stats" id="stats"></div><div id="msg" role="status"></div></section>
+<div class="people" id="people"></div>
+<div id="profile"></div>
+<div class="toolbar">
+<div class="seg" role="tablist"><button id="v-stories" class="on">Stories</button><button id="v-articles">Articles</button></div>
+<input id="q" type="search" placeholder="Search headlines" aria-label="Search headlines">
+<select id="batch" aria-label="Run"></select>
+<select id="src" aria-label="Source"><option value="">All sources</option></select>
+<select id="when" aria-label="Time"><option value="">Any time</option><option value="3">Last 3 hours</option><option value="24">Last 24 hours</option><option value="72">Last 3 days</option></select>
+<select id="sort" aria-label="Sort"><option value="new">Newest first</option><option value="cel">By celebrity</option><option value="src">By source</option></select>
+</div>
+<div id="top"></div><div id="list"></div>
+
+<dialog id="dlg" aria-label="Setup">
+<div class="dh"><b>Setup</b><button class="btn sm" id="dclose" aria-label="Close">Close</button></div>
+<div class="dtabs" role="tablist">
+<button class="dt on" data-t="site">1. Website</button><button class="dt" data-t="claude">2. Claude</button><button class="dt" data-t="prefs">3. Schedule &amp; access</button><button class="dt" data-t="test">4. Test</button></div>
+
+<div id="p-site" class="dp">
+<div class="flow"><div><b>1 · Collect</b>GitHub gathers news on your schedule and makes one brief per celebrity.</div><div><b>2 · Write</b>Claude writes one original article per brief and saves it in the repo.</div><div><b>3 · Send</b>GitHub posts it to your website as review, draft or published.</div></div>
+<h4>Your website</h4>
+<p class="muted small">Used for labels on this page. Change it any time; the site the articles go to is set by the <code>WP_URL</code> secret below.</p>
+<div class="row"><div class="field"><label for="f-name">Site name</label><input id="f-name" placeholder="My News Site" autocomplete="off"></div>
+<div class="field"><label for="f-url">Site address</label><input id="f-url" type="url" placeholder="https://example.com" autocomplete="off"></div></div>
+<div class="row"><div class="field"><label for="f-wps">New articles arrive as</label><select id="f-wps"><option value="pending">Pending review</option><option value="draft">Draft</option><option value="publish">Published</option></select></div>
+<div class="field"><label class="check"><input type="checkbox" id="f-auto" style="width:auto"> Send automatically</label><span class="muted small">Off means articles wait for you to approve each one.</span></div></div>
+<button class="btn pri" id="save-site">Save website settings</button>
+<h4>Connect WordPress</h4>
+<div class="step"><span class="num">1</span><div><b>Create an application password</b><br>WordPress admin → Users → Profile → Application Passwords → name it <code>Researcher-agents</code> → Add New. Copy the password shown (spaces are fine).</div></div>
+<div class="step"><span class="num">2</span><div><b>Add three secrets</b> in the repo (Settings → Secrets and variables → Actions):<br><code>WP_URL</code> = <span id="wp-url-hint">your site address, no trailing slash</span><br><code>WP_USER</code> = the WordPress username<br><code>WP_APP_PASSWORD</code> = the password from step 1<br><a class="btn sm" style="margin-top:8px" href="https://github.com/__REPO__/settings/secrets/actions" target="_blank" rel="noopener">Open the secrets page ↗</a></div></div>
+<div class="note">If Application Passwords do not appear, the site needs HTTPS and no security plugin may block the REST API. Claude never publishes by itself: you choose how articles arrive above.</div>
+</div>
+
+<div id="p-claude" class="dp" hidden>
+<p class="muted">Claude writes the articles. It signs in with a long-lived token from <code>claude setup-token</code>, which uses your Claude plan instead of API billing. No page on claude.ai shows this token, so it comes from one terminal command.</p>
+<details open><summary>Option A · Get the token online (GitHub Codespace)</summary><div>
+<div class="step"><span class="num">1</span><div>Open <a class="btn sm" href="https://github.com/__REPO__" target="_blank" rel="noopener">the repo ↗</a> then <b>Code → Codespaces → Create codespace on main</b>.</div></div>
+<div class="step"><span class="num">2</span><div>In the terminal at the bottom, run:<div class="cp"><pre>npm install -g @anthropic-ai/claude-code
+claude setup-token</pre><button class="btn sm copy">Copy</button></div></div></div>
+<div class="step"><span class="num">3</span><div>Open the login link it prints, sign in to the Claude account that should write, approve. If it shows a code, paste it into the terminal.</div></div>
+<div class="step"><span class="num">4</span><div>It prints a token starting with <code>sk-ant-oat01-</code>. <b>Copy it right away, it is shown once.</b></div></div>
+<div class="step"><span class="num">5</span><div>Save it as a secret named <code>CLAUDE_CODE_OAUTH_TOKEN</code>.<br><a class="btn sm" style="margin-top:6px" href="https://github.com/__REPO__/settings/secrets/actions/new" target="_blank" rel="noopener">Add the secret ↗</a></div></div>
+<div class="step"><span class="num">6</span><div>Delete the Codespace at <a class="btn sm" href="https://github.com/codespaces" target="_blank" rel="noopener">github.com/codespaces ↗</a></div></div>
+</div></details>
+<details><summary>Option B · Let Cowork do it</summary><div>
+<p class="muted small">Needs you signed in to GitHub (with settings access to the repo) and to the right Claude account in the browser Cowork uses. You may have to approve the Claude login yourself. Paste this to Cowork:</p>
+<div class="cp"><pre id="cowork-prompt"></pre><button class="btn sm copy">Copy</button></div></div></details>
+<details><summary>Option C · Anthropic API key</summary><div><p class="muted small">Create a key at console.anthropic.com → API Keys. It is pay-per-use and does not use your Claude plan. The workflow reads only the OAuth token today, so ask Claude to change the workflow before using a key.</p></div></details>
+<h4>More accounts and other AI tools</h4>
+<p class="small">Writers are tried in this order and the next one takes over when one fails or reaches its limit: <code>CLAUDE_CODE_OAUTH_TOKEN</code>, <code>CLAUDE_CODE_OAUTH_TOKEN_2</code>, <code>CLAUDE_CODE_OAUTH_TOKEN_3</code>, then OpenAI Codex with <code>OPENAI_API_KEY</code>. To change account, replace the secret with a token made while signed in to the new account. To retire one, delete its secret. Change how articles are written by editing <code>prompts/article.md</code>.</p>
+<details><summary>Work with Claude by hand (GitHub connector)</summary><div>
+<p class="muted small">No server needed. GitHub has its own MCP server and it works with any Claude account.</p>
+<div class="step"><span class="num">1</span><div><b>Make a GitHub token.</b> GitHub → Settings → Developer settings → Fine-grained tokens. Repository: this repo only. Permissions: Contents and Actions = Read and write.<br><a class="btn sm" style="margin-top:6px" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Open token page ↗</a></div></div>
+<div class="step"><span class="num">2</span><div><b>Add the connector.</b> claude.ai or Desktop: Settings → Connectors → Add custom connector:<div class="cp"><code>https://api.githubcopilot.com/mcp/</code><button class="btn sm copy">Copy</button></div>Claude Code (replace YOUR_TOKEN):<div class="cp"><code>claude mcp add --transport http github https://api.githubcopilot.com/mcp/ --header "Authorization: Bearer YOUR_TOKEN"</code><button class="btn sm copy">Copy</button></div></div></div>
+<div class="step"><span class="num">3</span><div><b>Tell Claude to start.</b><div class="cp"><pre id="hand-prompt"></pre><button class="btn sm copy">Copy</button></div></div></div>
+</div></details>
+</div>
+
+<div id="p-prefs" class="dp" hidden>
+<h4>GitHub access for this page</h4>
+<p class="muted small">Run now, Pause, Approve and the settings in this window change files in the repo, so this page needs a GitHub token. It is kept in this browser only.</p>
+<div class="row"><div class="field"><label for="f-tok">GitHub token</label><input id="f-tok" type="password" placeholder="github_pat_…" autocomplete="off"></div><button class="btn" id="save-tok" style="margin-bottom:6px">Save token</button></div>
+<a class="btn sm" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Create a token ↗</a> <span class="muted small">Repository: this repo only. Contents and Actions: Read and write.</span>
+<h4>Schedule</h4>
+<div class="row"><div class="field"><label for="f-int">Run every (hours, 1 to 24)</label><input id="f-int" type="number" min="1" max="24"></div><button class="btn" id="save-int" style="margin-bottom:6px">Save interval</button><button class="btn" id="pause2" style="margin-bottom:6px"></button></div>
+<h4>People to track</h4>
+<div class="row"><div class="field"><label for="f-add">Add a celebrity</label><input id="f-add" placeholder="Full name" autocomplete="off"></div><button class="btn" id="add" style="margin-bottom:6px">Add</button></div>
+<p class="muted small">To remove someone, delete the name from <code>celebrities</code> in <code>config.json</code>.</p>
+<p class="muted small" id="usage"></p>
+</div>
+
+<div id="p-test" class="dp" hidden>
+<p class="muted">Run each step once after setup. Results appear in the repo within a minute or two.</p>
+<div class="step"><span class="num">1</span><div><b>Collect news</b><br><button class="btn sm" id="t-collect" style="margin-top:6px">Start a collection run</button></div></div>
+<div class="step"><span class="num">2</span><div><b>Write articles</b><br><button class="btn sm" id="t-write" style="margin-top:6px">Start article writing</button> <a class="btn sm" href="https://github.com/__REPO__/actions/workflows/write-articles.yml" target="_blank" rel="noopener">Watch the run ↗</a></div></div>
+<div class="step"><span class="num">3</span><div><b>Check the result.</b> New files appear in <code>articles/</code> and, once sent, as posts on your website. If a step fails, open the failed run on GitHub, copy the error and give it to Claude.</div></div>
+<p class="muted small" id="t-msg" role="status"></p>
+</div>
+</dialog>
+<footer>Headlines come from Google News and local entertainment feeds. Google News does not provide images or full summaries, so open a story for the full article. Profile photos and links come from Wikidata and Wikimedia Commons.</footer>
+</main>
+<script>
+const D=__DATA__,REPO=D.repo;
+const $=i=>document.getElementById(i),esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const store={get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}}};
+let paused=D.paused,celeb="",batch="",view="stories";
+const COL=["#a8740a","#2b6cb0","#2f855a","#c05621","#6b46c1","#b83280","#2c7a7b"];
+const col=n=>COL[[...n].reduce((a,c)=>a+c.charCodeAt(0),0)%COL.length];
+const ini=n=>n.split(/\s+/).map(w=>w[0]).slice(0,2).join("").toUpperCase();
+const ago=d=>{const m=Math.round((Date.now()-new Date(d))/6e4);if(m<1)return"just now";if(m<60)return m+"m ago";if(m<1440)return Math.round(m/60)+"h ago";return Math.round(m/1440)+"d ago"};
+const age=l=>l.published?(Date.now()-new Date(l.published))/36e5:1e9;
+const slug=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+const say=t=>{$("msg").textContent=t};
+
+/* header + labels */
+function brand(){const n=(D.site.name||"").trim();
+$("h1").textContent=(n?n+" · ":"")+D.country+" Celebrity News";document.title=$("h1").textContent;
+$("logo").textContent=n?ini(n):"CN";
+const u=D.site.url.trim();$("wp-url-hint").textContent=u?u.replace(/\/+$/,""):"your site address, no trailing slash";
+$("f-name").value=n;$("f-url").value=u;$("f-wps").value=D.wp_status;$("f-auto").checked=!!D.auto_send;$("f-int").value=D.interval_hours}
+$("upd").textContent=D.leads.length+" stories from "+D.lead_count+" headlines · updated "+ago(D.updated);
+$("cowork-prompt").textContent="Task: create a Claude Code long-lived auth token and save it as a GitHub Actions secret. Do not show the token in chat or save it to any file.\n\n1. Check that Claude Code is installed. If not, install it with: npm install -g @anthropic-ai/claude-code (install Node.js LTS first if missing).\n2. Run: claude setup-token. It opens a browser login. Sign in to the Claude account I'm using now and approve. If it asks for a code, paste the code back into the terminal.\n3. The terminal prints a token that starts with sk-ant-oat01-. Copy it from the terminal. It is shown only once.\n4. In my browser (already signed in to GitHub) open https://github.com/"+REPO+"/settings/secrets/actions and click New repository secret. Name: CLAUDE_CODE_OAUTH_TOKEN. Secret: paste the token. Click Add secret. If it already exists, use Update.\n5. Clear the token from the clipboard and terminal history.\n6. Tell me only \"done\" or what failed. Never print or repeat the token.\n\nFor a second account (optional): sign out of Claude, repeat steps 2 to 4 on the other account, and name the secret CLAUDE_CODE_OAUTH_TOKEN_2. A third account uses _3.";
+$("hand-prompt").textContent="Open "+REPO+" and follow CLAUDE.md. Check the latest batch and draft the roundup article.";
+
+/* filters */
+[...new Set(D.leads.flatMap(l=>l.outlets.map(o=>o.source)).filter(Boolean))].sort().forEach(s=>$("src").add(new Option(s,s)));
+const batches=[...new Set(D.leads.map(l=>l.batch))].sort().reverse();
+$("batch").add(new Option("All runs",""));
+batches.forEach(b=>$("batch").add(new Option(b==="Earlier"?"Earlier":b+" ("+D.leads.filter(l=>l.batch===b).length+")",b)));
+const cnt=n=>D.leads.filter(l=>(l.celebrities||[]).includes(n)).length;
+function av(n,cls){const p=D.profiles[n]||{};return'<span class="av '+(cls||"")+'" style="background-color:'+col(n)+(p.photo?';background-image:url('+esc(p.photo)+')':'')+'">'+(p.photo?'':esc(ini(n)))+'</span>'}
+function people(){$("people").innerHTML='<button class="who all'+(celeb===""?' on':'')+'" data-v="">All</button>'+D.celebrities.map(n=>'<button class="who'+(n===celeb?' on':'')+'" data-v="'+esc(n)+'">'+av(n)+esc(n)+' <span class="n">'+cnt(n)+'</span></button>').join("");
+document.querySelectorAll(".who").forEach(b=>b.onclick=()=>{celeb=celeb===b.dataset.v?"":b.dataset.v;people();render()})}
+const ICONS={instagram:"instagram",tiktok:"tiktok",x:"x",facebook:"facebook",youtube:"youtube",website:"googlechrome"};
+function profile(){const n=celeb;if(!n||view!=="stories"){$("profile").innerHTML="";return}const p=D.profiles[n]||{};
+$("profile").innerHTML='<div class="profile">'+av(n,"lg")+'<div style="min-width:0"><h2>'+esc(n)+'</h2><div class="muted small">'+cnt(n)+' stories tracked</div><div class="icos">'+Object.keys(ICONS).map(k=>p[k]?'<a class="ico" href="'+esc(p[k])+'" target="_blank" rel="noopener" title="'+k+'"><img alt="'+k+'" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></a>':'<span class="ico off" title="'+k+': not added yet"><img alt="" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></span>').join("")+'</div></div></div>'}
+function stats(){const pend=D.articles.filter(a=>a.status==="pending").length,sent=D.articles.filter(a=>a.status==="sent").length;
+$("stats").innerHTML=[[D.leads.filter(l=>age(l)<=3).length,"new in 3h"],[D.leads.length,"stories"],[pend,"to approve"],[sent,"sent"]].map(([n,t])=>'<div class="stat"><b>'+n+'</b>'+t+'</div>').join("")}
+
+/* articles */
+const BLOB="https://github.com/"+REPO+"/blob/main/";
+async function editArticle(path,fn){const f=await gh("/contents/"+path);let t=decodeURIComponent(escape(atob(f.content.replace(/\n/g,""))));t=fn(t);
+await gh("/contents/"+path,{method:"PUT",body:JSON.stringify({message:"Dashboard: update "+path,sha:f.sha,content:btoa(unescape(encodeURIComponent(t)))})})}
+const setKey=(k,v)=>t=>t.replace(new RegExp("^"+k+": .*$","m"),k+": "+v);
+function statusChip(a){if(!a)return'<span class="chip2">Not written yet</span>';
+const m={pending:["Awaiting approval",""],approved:["Approved, sending","ok"],sent:["Sent ("+a.wp_status+")","ok"],rejected:["Rejected","no"],skipped:["Skipped",""]}[a.status]||[a.status,""];
+return'<span class="chip2 '+m[1]+'">'+esc(m[0])+'</span>'}
+const wpSel=a=>'<select data-wp="'+esc(a.path)+'" aria-label="Website status">'+["draft","pending","publish"].map(x=>'<option value="'+x+'"'+(x===a.wp_status?" selected":"")+'>'+(x==="pending"?"Review":x[0].toUpperCase()+x.slice(1))+'</option>').join("")+'</select>';
+function artRow(a,c,b,n){const p="Open "+REPO+" and follow CLAUDE.md. Write the article for "+c+" from batch "+b+" (briefs/"+slug(b)+"/"+slug(c)+".json) and save it as a pending draft.";
+let h='<div class="arow"><span class="nm">'+esc(c)+(n!=null?' <span class="muted small">· '+n+' stories</span>':'')+(b&&n==null?' <span class="muted small">· '+esc(b)+'</span>':'')+'</span>'+statusChip(a)+'<span class="sp"></span>';
+if(!a)h+='<button class="btn sm" data-prompt="'+esc(p)+'">Copy Claude prompt</button>';
+else{h+='<a class="btn sm" href="'+BLOB+esc(a.path)+'" target="_blank" rel="noopener">Read</a>';
+if(a.status==="pending")h+=wpSel(a)+'<button class="btn sm" data-act="approved" data-path="'+esc(a.path)+'">Approve</button><button class="btn sm" data-act="rejected" data-path="'+esc(a.path)+'">Reject</button>';
+if(a.status==="sent"){h+=wpSel(a);if(a.wp_link)h+='<a class="btn sm" href="'+esc(a.wp_link)+'" target="_blank" rel="noopener">View post</a>'}}
+return h+'</div>'}
+function wireArt(root){root.querySelectorAll("[data-prompt]").forEach(b=>b.onclick=()=>copy(b.dataset.prompt,"Prompt copied. Paste it into Claude."));
+root.querySelectorAll("[data-act]").forEach(b=>b.onclick=async()=>{try{await editArticle(b.dataset.path,setKey("status",b.dataset.act));say(b.dataset.act==="approved"?"Approved. GitHub sends it to the website in about a minute. Refresh later.":"Rejected.")}catch(e){say("Failed: "+e.message)}});
+root.querySelectorAll("[data-wp]").forEach(s=>s.onchange=async()=>{try{await editArticle(s.dataset.wp,setKey("wp_status",s.value));say("Website status set to "+s.value+". It applies once the article is approved.")}catch(e){say("Failed: "+e.message)}})}
+function articlePanel(b){const per={};D.leads.filter(l=>l.batch===b).forEach(l=>l.celebrities.forEach(c=>per[c]=(per[c]||0)+1));
+const rows=D.celebrities.filter(c=>per[c]).map(c=>artRow(D.articles.find(a=>a.batch===b&&a.celebrity===c),c,b,per[c])).join("");
+return'<h2 class="sec">Articles for this run</h2>'+(rows||'<div class="empty">No stories for tracked celebrities in this run.</div>')}
+
+/* stories */
+function meta(l){const n=(l.celebrities||[]).join(", "),o=l.outlets.length>1?" +"+(l.outlets.length-1)+" more":"";
+return'<div class="meta">'+(n?'<span class="nm">'+esc(n)+'</span>':'')+'<span>'+esc(l.source)+esc(o)+'</span><span>'+(l.published?ago(l.published):"")+'</span>'+(age(l)<=3?'<span class="badge">NEW</span>':'')+'</div>'}
+const avl=l=>{const n=(l.celebrities||[])[0]||"";return n?av(n):'<span class="av" style="background:var(--mut)">?</span>'};
+const topCard=l=>'<a class="top" href="'+esc(l.url)+'" target="_blank" rel="noopener">'+meta(l)+'<h3>'+esc(l.title)+'</h3>'+(l.summary?'<p>'+esc(l.summary.slice(0,180))+'</p>':'')+'</a>';
+const rowCard=l=>'<a class="story" href="'+esc(l.url)+'" target="_blank" rel="noopener">'+avl(l)+'<div class="sb"><h3>'+esc(l.title)+'</h3>'+meta(l)+'</div></a>';
+const feed=ls=>'<div class="feed">'+ls.map(rowCard).join("")+'</div>';
+function render(){
+$("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");
+["q","batch","src","when","sort"].forEach(i=>$(i).hidden=view!=="stories");
+profile();
+if(view==="articles"){$("top").innerHTML="";
+const g=[["Awaiting approval",a=>a.status==="pending"],["Sent or approved",a=>a.status==="sent"||a.status==="approved"],["Other",a=>!["pending","sent","approved"].includes(a.status)]];
+const list=D.articles.filter(a=>!celeb||a.celebrity===celeb);
+$("list").innerHTML=list.length?g.map(([t,f])=>{const r=list.filter(f);return r.length?'<h2 class="sec">'+t+' <span class="count">'+r.length+'</span></h2>'+r.map(a=>artRow(a,a.celebrity||a.title,a.batch)).join(""):""}).join(""):'<div class="empty">No articles yet. Choose a run, then ask Claude to write them.</div>';
+wireArt($("list"));return}
+const q=$("q").value.toLowerCase(),s=$("src").value,w=+$("when").value,so=$("sort").value;
+let ls=D.leads.filter(l=>(!celeb||(l.celebrities||[]).includes(celeb))&&(!s||l.outlets.some(o=>o.source===s))&&(!batch||l.batch===batch)&&(!q||(l.title+" "+l.summary+" "+l.outlets.map(o=>o.source).join(" ")).toLowerCase().includes(q))&&(!w||age(l)<=w));
+ls.sort((a,b)=>(b.published||"").localeCompare(a.published||""));
+const plain=!q&&!s&&!w&&!celeb&&!batch&&so==="new";
+$("top").innerHTML="";
+if(batch&&so==="new"){$("top").innerHTML=articlePanel(batch);wireArt($("top"))}
+if(plain&&ls.length){$("top").innerHTML='<h2 class="sec">Top stories</h2><div class="tops">'+ls.slice(0,3).map(topCard).join("")+'</div>';ls=ls.slice(3)}
+if(!ls.length){$("list").innerHTML=plain?"":'<div class="empty">No stories match these filters.</div>';return}
+if(so==="new"){$("list").innerHTML='<h2 class="sec">Latest <span class="count">'+ls.length+'</span></h2>'+feed(ls);return}
+const key=l=>so==="cel"?((l.celebrities||[])[0]||"Other"):(l.source||"Other"),g={};
+ls.forEach(l=>(g[key(l)]=g[key(l)]||[]).push(l));
+$("list").innerHTML=Object.keys(g).sort().map(k=>'<h2 class="sec">'+esc(k)+' <span class="count">'+g[k].length+'</span></h2>'+feed(g[k])).join("")}
+["q","src","when","sort"].forEach(i=>$(i).oninput=render);
+$("batch").onchange=()=>{batch=$("batch").value;render()};
+$("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};
+$("v-articles").textContent="Articles ("+D.articles.length+")";
+
+/* status */
+function nextRun(){if(!D.last_run)return null;return new Date(new Date(D.last_run).getTime()+D.interval_hours*36e5)}
+function tick(){$("state").className="pill"+(paused?" off":"");$("state").innerHTML='<span class="dot"></span>'+(paused?"Paused":"Runs every "+D.interval_hours+"h");
+$("pause").textContent=$("pause2").textContent=paused?"Continue":"Pause";
+if(paused){$("timer").textContent="No scheduled runs";return}
+const nr=nextRun();if(!nr){$("timer").textContent="Waiting for the first run";return}const ms=nr-new Date();
+if(ms<=0){$("timer").textContent="Due now. GitHub can take a few minutes to start it.";return}
+const h=Math.floor(ms/36e5),m=Math.floor(ms%36e5/6e4),s=Math.floor(ms%6e4/1e3);
+$("timer").textContent="Next run in "+h+"h "+String(m).padStart(2,"0")+"m "+String(s).padStart(2,"0")+"s"}
+setInterval(tick,1000);
+$("usage").textContent="Runs this month: "+D.runs_this_month+". GitHub Actions minutes are unlimited on a public repo. Claude plan usage: claude.ai/settings/usage";
+
+/* GitHub access */
+function token(){const t=store.get("gh_token");if(!t){openSetup("prefs");throw Error("Add your GitHub token under Schedule & access first.")}return t}
+async function gh(path,opt={}){const t=token();const r=await fetch("https://api.github.com/repos/"+REPO+path,{...opt,headers:{Authorization:"Bearer "+t,Accept:"application/vnd.github+json"}});if(!r.ok)throw Error(r.status+" "+(await r.text()).slice(0,120));return r.status===204?null:r.json()}
+async function editCfg(fn){const f=await gh("/contents/config.json");const c=JSON.parse(decodeURIComponent(escape(atob(f.content.replace(/\n/g,"")))));fn(c);
+await gh("/contents/config.json",{method:"PUT",body:JSON.stringify({message:"Update config from dashboard",sha:f.sha,content:btoa(unescape(encodeURIComponent(JSON.stringify(c,null,2)+"\n")))})})}
+const dispatch=wf=>gh("/actions/workflows/"+wf+"/dispatches",{method:"POST",body:JSON.stringify({ref:"main"})});
+function copy(t,ok){const done=()=>say(ok||"Copied.");
+if(navigator.clipboard)navigator.clipboard.writeText(t).then(done,()=>say("Copy blocked. Select the text and copy it by hand."));else say("Copy blocked. Select the text and copy it by hand.")}
+
+$("run").onclick=async()=>{try{await dispatch("collect.yml");say("Run started. Refresh in about a minute.")}catch(e){say("Failed: "+e.message)}};
+async function togglePause(){try{await editCfg(c=>c.paused=!paused);paused=!paused;tick();say(paused?"Paused. Scheduled runs will skip.":"Continued. Collecting now.")}catch(e){say("Failed: "+e.message)}}
+$("pause").onclick=$("pause2").onclick=togglePause;
+$("add").onclick=async()=>{const n=$("f-add").value.trim();if(!n)return;try{await editCfg(c=>{if(!c.celebrities.includes(n))c.celebrities.push(n)});$("f-add").value="";say(n+" added. A run starts now; refresh in 1 to 2 minutes.")}catch(e){say("Failed: "+e.message)}};
+$("save-int").onclick=async()=>{const n=parseInt($("f-int").value,10);if(!(n>=1&&n<=24)){say("Enter a number from 1 to 24.");return}try{await editCfg(c=>{c.interval_hours=n;delete c.run_hours});D.interval_hours=n;tick();say("Saved. Runs every "+n+" hours, counted from the last run.")}catch(e){say("Failed: "+e.message)}};
+$("save-tok").onclick=()=>{const t=$("f-tok").value.trim();if(!t){say("Paste a token first.");return}store.set("gh_token",t);$("f-tok").value="";say("Token saved in this browser.")};
+$("save-site").onclick=async()=>{const name=$("f-name").value.trim(),url=$("f-url").value.trim(),st=$("f-wps").value,auto=$("f-auto").checked;
+try{await editCfg(c=>{c.site={name,url};c.wp_default_status=st;c.auto_send=auto});D.site={name,url};D.wp_status=st;D.auto_send=auto;brand();say("Website settings saved.")}catch(e){say("Failed: "+e.message)}};
+$("t-collect").onclick=async()=>{try{await dispatch("collect.yml");$("t-msg").textContent="Collection started."}catch(e){$("t-msg").textContent="Failed: "+e.message}};
+$("t-write").onclick=async()=>{try{await dispatch("write-articles.yml");$("t-msg").textContent="Article writing started."}catch(e){$("t-msg").textContent="Failed: "+e.message}};
+
+/* setup window */
+function openSetup(t){if(!$("dlg").open)$("dlg").showModal();pick(t||"site")}
+function pick(t){document.querySelectorAll(".dt").forEach(x=>{x.classList.toggle("on",x.dataset.t===t)});["site","claude","prefs","test"].forEach(k=>$("p-"+k).hidden=k!==t)}
+$("conn").onclick=()=>openSetup("site");$("dclose").onclick=()=>$("dlg").close();
+$("dlg").onclick=e=>{if(e.target===$("dlg"))$("dlg").close()};
+document.querySelectorAll(".dt").forEach(b=>b.onclick=()=>pick(b.dataset.t));
+document.querySelectorAll(".copy").forEach(b=>b.onclick=()=>{const t=b.previousElementSibling.textContent;const done=()=>{b.textContent="Copied";setTimeout(()=>b.textContent="Copy",1500)};
+if(navigator.clipboard)navigator.clipboard.writeText(t).then(done,()=>{b.textContent="Select and copy"});else b.textContent="Select and copy"});
+brand();stats();people();render();tick();
+</script></html>
