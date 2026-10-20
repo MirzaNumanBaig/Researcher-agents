@@ -115,11 +115,11 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut)
 .tabs{display:flex;gap:6px;overflow-x:auto;margin:6px 0 12px}.tab{white-space:nowrap;padding:6px 12px;border-radius:8px 8px 0 0;border:1px solid var(--line);border-bottom:2px solid var(--line);background:var(--card);cursor:pointer;font-size:13px}.tab.on{border-bottom-color:var(--acc);font-weight:700}
 .profiles{display:flex;gap:12px;overflow-x:auto;margin:6px 0 14px}.prof{min-width:190px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;text-align:center}.prof .pav{width:84px;height:84px;font-size:20px;border-radius:50%;margin:0 auto 6px;display:grid;place-items:center;color:#fff;font-weight:700;background-size:cover;background-position:center}.prof b{display:block;font-size:14px;cursor:pointer}.icos{display:flex;justify-content:center;gap:6px;margin-top:8px}.ico{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;border:1px solid var(--line)}.ico img{width:14px;height:14px}.ico.off{opacity:.25}@media(prefers-color-scheme:dark){.ico img{filter:invert(1)}}
 .also{font-size:12px;color:var(--mut)}.cnt{font-size:11px;font-weight:700;background:var(--accbg);color:var(--ink);border-radius:99px;padding:2px 8px}
-.navlink{margin-left:auto;color:#e3b341;font-size:14px}code{background:var(--accbg);padding:2px 6px;border-radius:6px;word-break:break-all;font-size:13px}.empty{color:var(--mut);padding:30px;text-align:center}
+.navlink{margin-left:auto;color:#e3b341;font-size:14px;background:transparent;border:1px solid #e3b34166}dialog{width:min(640px,94vw);max-height:90vh;overflow:auto;border:1px solid var(--line);border-radius:14px;background:var(--card);color:var(--ink);padding:0}dialog::backdrop{background:#000a}.dh{display:flex;justify-content:space-between;align-items:center;padding:14px 16px;border-bottom:1px solid var(--line);font-size:17px}.dtabs{display:flex;gap:6px;padding:10px 16px 0}.dt.on{background:var(--ink);color:var(--bg)}.dp{padding:6px 16px 16px}.step{display:flex;gap:12px;margin:14px 0}.n{flex:none;width:26px;height:26px;border-radius:50%;background:var(--acc);color:#111;display:grid;place-items:center;font-weight:700;font-size:13px}.cp{display:flex;gap:8px;align-items:flex-start;margin:6px 0 10px}.cp code{flex:1;display:block;padding:8px 10px}.btn{display:inline-block;margin-top:6px;padding:6px 12px;border-radius:8px;border:1px solid var(--line);font-size:14px}code{background:var(--accbg);padding:2px 6px;border-radius:6px;word-break:break-all;font-size:13px}.empty{color:var(--mut);padding:30px;text-align:center}
 footer{color:var(--mut);font-size:12px;padding:30px 0}
 </style>
 <header><div class="wrap"><div class="brand" style="width:100%"><div class="logo">MC</div>
-<div><h1>Modus Carry · __COUNTRY__ Celebrity News</h1><div class="sub" id="upd"></div></div><a href="#connect" class="navlink">Connect Claude / WordPress ↓</a></div></div></header>
+<div><h1>Modus Carry · __COUNTRY__ Celebrity News</h1><div class="sub" id="upd"></div></div><button id="conn" class="navlink">Connect Claude / WordPress</button></div></div></header>
 <main class="wrap">
 <div class="panel"><div><div id="state"></div><div id="timer"></div></div>
 <div><button class="pri" id="run">Run now</button> <button id="pause"></button> <button id="add">+ Add celebrity</button> <button id="tok" title="GitHub token">🔑</button></div>
@@ -133,13 +133,29 @@ footer{color:var(--mut);font-size:12px;padding:30px 0}
 <div class="chips" id="chips"></div>
 <div class="tabs" id="tabs"></div>
 <div id="top"></div><div id="list"></div>
-<section id="connect" class="panel" style="display:block">
-<h2 style="margin-top:0">Connect Claude and WordPress</h2>
-<p><b>1. Claude, any account.</b> Everything lives in this GitHub repo, so Claude only needs GitHub's own MCP server:</p>
-<p><code id="mcpurl">https://api.githubcopilot.com/mcp/</code> <button id="copy">Copy</button></p>
-<p class="also">Add it in claude.ai (Settings → Connectors → Add custom connector) or Claude Code, signing in with GitHub or a token for this repo only (Contents + Actions: read and write). Then tell Claude: <i>"Open MirzaNumanBaig/Researcher-agents and follow CLAUDE.md."</i> Switch accounts any time by adding the same connector. Details: <a href="https://github.com/MirzaNumanBaig/Researcher-agents/blob/main/mcp/README.md" target="_blank" rel="noopener"><u>mcp/README.md</u></a>.</p>
-<p><b>2. WordPress.</b> Approved articles are sent by GitHub to moduscarry.com. Each carries the status you want: <b>draft</b>, <b>pending</b> (review) or <b>publish</b>; change it any time and GitHub updates the post. Add the secrets <code>WP_URL</code>, <code>WP_USER</code>, <code>WP_APP_PASSWORD</code> in the repo's Settings → Secrets and variables → Actions.</p>
-</section>
+
+<dialog id="dlg"><div class="dh"><b>Connect</b><button id="dclose" aria-label="Close">✕</button></div>
+<div class="dtabs"><button class="dt on" data-t="claude">Claude</button><button class="dt" data-t="wp">WordPress</button></div>
+<div id="p-claude" class="dp">
+<p class="also">No server needed. Everything lives in this GitHub repo and GitHub has its own MCP server. Works with any Claude account.</p>
+<div class="step"><span class="n">1</span><div><b>Make a GitHub token</b> (once)<br>GitHub → Settings → Developer settings → Fine-grained tokens. Repository: <code>Researcher-agents</code> only. Permissions: <b>Contents</b> and <b>Actions</b> = Read and write.
+<br><a class="btn" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Open token page ↗</a></div></div>
+<div class="step"><span class="n">2</span><div><b>Add the connector</b><br>
+<b>claude.ai or Desktop:</b> Settings → Connectors → Add custom connector → paste:
+<div class="cp"><code>https://api.githubcopilot.com/mcp/</code><button class="copy">Copy</button></div>
+<b>Claude Code:</b> run this (replace YOUR_TOKEN):
+<div class="cp"><code>claude mcp add --transport http github https://api.githubcopilot.com/mcp/ --header "Authorization: Bearer YOUR_TOKEN"</code><button class="copy">Copy</button></div></div></div>
+<div class="step"><span class="n">3</span><div><b>Tell Claude</b> to start:
+<div class="cp"><code>Open MirzaNumanBaig/Researcher-agents and follow CLAUDE.md. Check the latest batch and draft the roundup article.</code><button class="copy">Copy</button></div>
+<span class="also">To change accounts later, repeat steps 2 and 3 on the new account.</span></div></div>
+</div>
+<div id="p-wp" class="dp" hidden>
+<p class="also">GitHub sends approved articles to moduscarry.com. Claude never publishes by itself.</p>
+<div class="step"><span class="n">1</span><div><b>Create an application password</b><br>WordPress admin → Users → Profile → Application Passwords → name it <code>Researcher-agents</code> → Add. Copy the password it shows.</div></div>
+<div class="step"><span class="n">2</span><div><b>Add 3 secrets</b> in the repo: Settings → Secrets and variables → Actions<br><code>WP_URL</code> = https://moduscarry.com<br><code>WP_USER</code> = your WordPress username<br><code>WP_APP_PASSWORD</code> = the password from step 1
+<br><a class="btn" href="https://github.com/MirzaNumanBaig/Researcher-agents/settings/secrets/actions" target="_blank" rel="noopener">Open secrets page ↗</a></div></div>
+<div class="step"><span class="n">3</span><div><b>How articles flow</b><br>Claude saves a draft → you approve it → GitHub posts it with the status you chose: <b>draft</b>, <b>pending</b> (review) or <b>publish</b>. Change the status later and the same post is updated.</div></div>
+</div></dialog>
 <footer>Headlines come from Google News and Australian entertainment feeds. Google News does not provide images or full summaries; open a story for the full article. Profile photos and links: Wikidata / Wikimedia Commons.</footer>
 </main>
 <script>
@@ -195,7 +211,10 @@ $("pause").onclick=async()=>{try{await editCfg(c=>c.paused=!paused);paused=!paus
 $("add").onclick=async()=>{const n=(prompt("Celebrity name?")||"").trim();if(!n)return;try{await editCfg(c=>{if(!c.celebrities.includes(n))c.celebrities.push(n)});say(n+" added. A run starts now; refresh in 1-2 minutes.")}catch(e){say("Failed: "+e.message)}};
 $("usage").textContent="Runs this month: "+D.runs_this_month+" · GitHub Actions minutes: unlimited (public repo) · Claude plan usage: see claude.ai/settings/usage";
 $("sched").onclick=async()=>{const v=prompt("Run every how many hours? (1-24)",D.interval_hours);if(v===null)return;const n=parseInt(v,10);if(!(n>=1&&n<=24)){say("Enter a number from 1 to 24.");return}try{await editCfg(c=>{c.interval_hours=n;delete c.run_hours});D.interval_hours=n;tick();say("Saved. Runs every "+n+" hours, counted from the last run.")}catch(e){say("Failed: "+e.message)}};
-$("copy").onclick=()=>{navigator.clipboard.writeText($("mcpurl").textContent);say("MCP URL copied.")};
+$("conn").onclick=()=>$("dlg").showModal();$("dclose").onclick=()=>$("dlg").close();
+$("dlg").onclick=e=>{if(e.target===$("dlg"))$("dlg").close()};
+document.querySelectorAll(".dt").forEach(b=>b.onclick=()=>{document.querySelectorAll(".dt").forEach(x=>x.classList.toggle("on",x===b));$("p-claude").hidden=b.dataset.t!=="claude";$("p-wp").hidden=b.dataset.t!=="wp"});
+document.querySelectorAll(".copy").forEach(b=>b.onclick=()=>{navigator.clipboard.writeText(b.previousElementSibling.textContent);b.textContent="Copied";setTimeout(()=>b.textContent="Copy",1500)});
 chips();profiles();tabs();render();tick();
 </script></html>"""
 
