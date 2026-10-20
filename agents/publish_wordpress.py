@@ -4,7 +4,9 @@ Env (GitHub Actions secrets): WP_URL (https://moduscarry.com), WP_USER, WP_APP_P
 Front matter per article:  status: pending|approved|rejected|sent   wp_status: draft|pending|publish|private
  - approved + no wp_id  -> create the post with wp_status, then status: sent, wp_id, wp_link, wp_synced.
  - sent + wp_status != wp_synced -> update the existing post's status (e.g. draft -> publish).
-Nothing is ever sent unless a human (or an approved MCP call) set status: approved.
+Optional front matter: description (excerpt), categories: [..names..], tags: [..names..] (matched to the site's own).
+`--auto-approve` (used by the automatic writing workflow when config.json has auto_send: true) turns new `pending` drafts into `approved`
+first; `skipped` and `rejected` drafts are never sent. Default wp_status for auto-written drafts is `pending` (review in WordPress).
 """
 import base64
 import html
@@ -17,6 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 WP_STATUSES = {"draft", "pending", "publish", "private"}
+AUTO = "--auto-approve" in sys.argv
 URL, USER, PW = (os.environ.get(k, "").rstrip("/") for k in ("WP_URL", "WP_USER", "WP_APP_PASSWORD"))
 
 
@@ -38,6 +41,37 @@ def set_field(front, key, value):
     if re.search(rf"^{key}: ?.*$", front, re.M):
         return re.sub(rf"^{key}: ?.*$", lambda _: line, front, count=1, flags=re.M)
     return front + "\n" + line
+
+
+def items(front, key):
+    """Read an inline list like  key: ["a", "b"]."""
+    m = re.search(rf"^{key}: ?(\[.*\])$", front, re.M)
+    try:
+        return json.loads(m.group(1)) if m else []
+    except ValueError:
+        return []
+
+
+def wp_get(path):
+    req = urllib.request.Request(f"{URL}/wp-json/wp/v2/{path}", headers={
+        "User-Agent": "researcher-agents",
+        "Authorization": "Basic " + base64.b64encode(f"{USER}:{PW}".encode()).decode()})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.loads(r.read())
+
+
+def term_ids(kind, names, create):
+    """Map category/tag names to WordPress ids; tags are created if missing, unknown categories are skipped."""
+    known = {html.unescape(t["name"]).lower(): t["id"] for t in wp_get(f"{kind}?per_page=100")}
+    ids = []
+    for n in names[:5 if kind == "tags" else 2]:
+        if n.lower() in known:
+            ids.append(known[n.lower()])
+        elif create:
+            ids.append(wp(kind, {"name": n})["id"])
+        else:
+            print(f"  category {n!r} does not exist on the site; skipped")
+    return ids
 
 
 def inline(t):
@@ -95,12 +129,24 @@ def main():
     for f in sorted((ROOT / "articles").glob("*.md")):
         front, body = split(f.read_text())
         status, want = field(front, "status"), field(front, "wp_status") or "draft"
+        if AUTO and status == "pending":
+            status = "approved"
+            front = set_field(front, "status", "approved")
+            f.write_text(f"---\n{front}\n---\n\n{body}")
         if want not in WP_STATUSES:
             print(f"skip {f.name}: bad wp_status {want!r}")
             continue
         try:
             if status == "approved" and not field(front, "wp_id"):
-                post = wp("posts", {"title": field(front, "title"), "content": to_html(body), "status": want})
+                payload = {"title": field(front, "title"), "content": to_html(body), "status": want}
+                if field(front, "description"):
+                    payload["excerpt"] = field(front, "description")
+                cats, tags = items(front, "categories"), items(front, "tags")
+                if cats:
+                    payload["categories"] = term_ids("categories", cats, False)
+                if tags:
+                    payload["tags"] = term_ids("tags", tags, True)
+                post = wp("posts", payload)
                 front = set_field(front, "status", "sent")
             elif status == "sent" and field(front, "wp_id") and want != field(front, "wp_synced"):
                 post = wp(f"posts/{field(front, 'wp_id')}", {"status": want})

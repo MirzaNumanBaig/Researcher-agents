@@ -75,5 +75,8 @@
     }
   },
   "interval_hours": 3,
-  "mcp_url": ""
+  "auto_send": true,
+  "wp_default_status": "pending",
+  "article_batches_back": 2,
+  "max_articles_per_run": 8
 }

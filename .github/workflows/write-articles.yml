@@ -1,0 +1,95 @@
+name: Write articles
+# After every collection run: one Claude job per brief (one celebrity, one batch) writes one article,
+# then GitHub sends the new articles to WordPress (as config.json wp_default_status, "pending" = review).
+on:
+  workflow_run:
+    workflows: ["Collect news"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: write
+  id-token: write
+concurrency: write-articles
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      queue: ${{ steps.q.outputs.queue }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - name: Refresh WordPress categories, tags and recent posts
+        continue-on-error: true
+        run: python agents/fetch_wp_site.py
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+      - id: q
+        run: echo "queue=$(python agents/pending_briefs.py)" >> "$GITHUB_OUTPUT"
+      - name: Save the site snapshot
+        run: |
+          git config user.name "researcher-bot"
+          git config user.email "researcher-bot@users.noreply.github.com"
+          git add data/wp_site.json || true
+          git diff --cached --quiet || { git commit -m "Update WordPress site snapshot" && git pull --rebase origin main && git push; }
+
+  write:
+    needs: plan
+    if: needs.plan.outputs.queue != '[]' && needs.plan.outputs.queue != ''
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1   # one brief after another
+      fail-fast: false
+      matrix:
+        item: ${{ fromJson(needs.plan.outputs.queue) }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: |
+            Follow prompts/article.md exactly.
+            Brief: ${{ matrix.item.brief }}
+            Save the article to: ${{ matrix.item.article }}
+            wp_status to use: ${{ matrix.item.wp_status }}
+            Celebrity: ${{ matrix.item.celebrity }}   Batch: ${{ matrix.item.batch }}
+          claude_args: |
+            --max-turns 30
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"
+      - name: Save the article
+        run: |
+          git config user.name "researcher-bot"
+          git config user.email "researcher-bot@users.noreply.github.com"
+          git add articles
+          git diff --cached --quiet || { git commit -m "Draft: ${{ matrix.item.celebrity }} (${{ matrix.item.batch }})" && git pull --rebase origin main && git push; }
+
+  publish:
+    needs: [plan, write]
+    if: always() && needs.plan.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - name: Send to WordPress
+        run: |
+          if [ "$(python -c "import json;print(json.load(open('config.json')).get('auto_send',False))")" = "True" ]; then
+            python agents/publish_wordpress.py --auto-approve
+          else
+            python agents/publish_wordpress.py
+          fi
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+      - name: Save WordPress ids
+        if: always()
+        run: |
+          git config user.name "researcher-bot"
+          git config user.email "researcher-bot@users.noreply.github.com"
+          git add articles
+          git diff --cached --quiet || { git commit -m "Update article WordPress status" && git pull --rebase origin main && git push; }

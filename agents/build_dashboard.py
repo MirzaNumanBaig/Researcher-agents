@@ -147,8 +147,16 @@ footer{color:var(--mut);font-size:12px;padding:30px 0}
 <div id="top"></div><div id="list"></div>
 
 <dialog id="dlg"><div class="dh"><b>Connect</b><button id="dclose" aria-label="Close">✕</button></div>
-<div class="dtabs"><button class="dt on" data-t="claude">Claude</button><button class="dt" data-t="wp">WordPress</button></div>
-<div id="p-claude" class="dp">
+<div class="dtabs"><button class="dt on" data-t="auto">Auto-write</button><button class="dt" data-t="wp">WordPress</button><button class="dt" data-t="claude">Use Claude by hand</button></div>
+<div id="p-auto" class="dp">
+<p class="also">After every collection run, GitHub starts Claude once per brief (one celebrity, one batch). Each run writes one original article, saves it in the repo, then GitHub sends it to WordPress as <b>pending review</b>. No clicking needed.</p>
+<div class="step"><span class="n">1</span><div><b>Get a Claude token</b> (once, uses your Claude plan, no API billing)<br>On any computer with Claude Code installed, run:
+<div class="cp"><code>claude setup-token</code><button class="copy">Copy</button></div>Sign in, and copy the long token it prints.</div></div>
+<div class="step"><span class="n">2</span><div><b>Save it as a repo secret</b><br>Name: <code>CLAUDE_CODE_OAUTH_TOKEN</code> &nbsp;Value: the token.
+<br><a class="btn" href="https://github.com/MirzaNumanBaig/Researcher-agents/settings/secrets/actions/new" target="_blank" rel="noopener">Open new-secret page ↗</a></div></div>
+<div class="step"><span class="n">3</span><div><b>Done.</b> The next run writes the articles. To switch Claude accounts, replace that one secret. Change how articles are written by editing <code>prompts/article.md</code> in the repo. Set <code>auto_send</code> / <code>wp_default_status</code> in <code>config.json</code> if you want different behaviour (draft, pending or publish).</div></div>
+</div>
+<div id="p-claude" class="dp" hidden>
 <p class="also">No server needed. Everything lives in this GitHub repo and GitHub has its own MCP server. Works with any Claude account.</p>
 <div class="step"><span class="n">1</span><div><b>Make a GitHub token</b> (once)<br>GitHub → Settings → Developer settings → Fine-grained tokens. Repository: <code>Researcher-agents</code> only. Permissions: <b>Contents</b> and <b>Actions</b> = Read and write.
 <br><a class="btn" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Open token page ↗</a></div></div>
@@ -197,7 +205,7 @@ async function editArticle(path,fn){const f=await gh("/contents/"+path);let t=de
 await gh("/contents/"+path,{method:"PUT",body:JSON.stringify({message:"Dashboard: update "+path,sha:f.sha,content:btoa(unescape(encodeURIComponent(t)))})})}
 const setKey=(k,v)=>t=>t.replace(new RegExp("^"+k+": .*$","m"),k+": "+v);
 function statusChip(a){if(!a)return'<span class="chip2">Not written yet</span>';
-const m={pending:["Draft · awaiting approval",""],approved:["Approved · sending to WordPress","ok"],sent:["Sent to WordPress ("+a.wp_status+")","ok"],rejected:["Rejected","no"]}[a.status]||[a.status,""];
+const m={pending:["Draft · awaiting approval",""],approved:["Approved · sending to WordPress","ok"],sent:["Sent to WordPress ("+a.wp_status+")","ok"],rejected:["Rejected","no"],skipped:["Skipped: nothing worth writing",""]}[a.status]||[a.status,""];
 return'<span class="chip2 '+m[1]+'">'+esc(m[0])+'</span>'}
 function artRow(a,celeb,b,n){const p="Open "+REPO+" and follow CLAUDE.md. Write the article for "+celeb+" from batch "+b+" (briefs/"+slug(b)+"/"+slug(celeb)+".json) and save it as a pending draft.";
 let h='<div class="arow"><span class="nm">'+esc(celeb)+(n!=null?' <span class="also">· '+n+' stories</span>':'')+'</span>'+statusChip(a)+'<span class="sp"></span>';
@@ -248,7 +256,7 @@ $("usage").textContent="Runs this month: "+D.runs_this_month+" · GitHub Actions
 $("sched").onclick=async()=>{const v=prompt("Run every how many hours? (1-24)",D.interval_hours);if(v===null)return;const n=parseInt(v,10);if(!(n>=1&&n<=24)){say("Enter a number from 1 to 24.");return}try{await editCfg(c=>{c.interval_hours=n;delete c.run_hours});D.interval_hours=n;tick();say("Saved. Runs every "+n+" hours, counted from the last run.")}catch(e){say("Failed: "+e.message)}};
 $("conn").onclick=()=>$("dlg").showModal();$("dclose").onclick=()=>$("dlg").close();
 $("dlg").onclick=e=>{if(e.target===$("dlg"))$("dlg").close()};
-document.querySelectorAll(".dt").forEach(b=>b.onclick=()=>{document.querySelectorAll(".dt").forEach(x=>x.classList.toggle("on",x===b));$("p-claude").hidden=b.dataset.t!=="claude";$("p-wp").hidden=b.dataset.t!=="wp"});
+document.querySelectorAll(".dt").forEach(b=>b.onclick=()=>{document.querySelectorAll(".dt").forEach(x=>x.classList.toggle("on",x===b));$("p-claude").hidden=b.dataset.t!=="claude";$("p-auto").hidden=b.dataset.t!=="auto";$("p-wp").hidden=b.dataset.t!=="wp"});
 document.querySelectorAll(".copy").forEach(b=>b.onclick=()=>{navigator.clipboard.writeText(b.previousElementSibling.textContent);b.textContent="Copied";setTimeout(()=>b.textContent="Copy",1500)});
 chips();profiles();tabs();render();tick();
 </script></html>"""

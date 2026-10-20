@@ -25,3 +25,11 @@ Never commit secrets. WordPress/GitHub tokens belong in GitHub Actions secrets.
   `batch` (exact label, e.g. "2026-10-20 16:00"), `celebrity` (exact name), `sources` (list of URLs). The dashboard matches drafts to batches by `batch` + `celebrity`.
 - "Write all pending articles": for each brief without a matching draft, in the latest batches, write one. Skip briefs with only junk (ads, old news).
 - Approval: only a human approves. Setting `status: approved` makes GitHub send it to WordPress; `wp_status` decides how it appears. Never approve on your own.
+
+## Automatic pipeline
+`collect.yml` (every `interval_hours`) -> `make_briefs.py` -> `write-articles.yml` (runs after collect): `fetch_wp_site.py` saves the site's
+categories/tags/recent posts to `data/wp_site.json`; `pending_briefs.py` lists briefs without an article; one Claude job per brief
+(max-parallel 1) follows `prompts/article.md` and writes `articles/<batch>-<celebrity>.md`; then `publish_wordpress.py --auto-approve`
+sends new drafts to WordPress with `config.json:wp_default_status` (default `pending` = review in WordPress). `auto_send: false` stops auto-sending
+(drafts then wait for a human `status: approved`). Needs secrets: `CLAUDE_CODE_OAUTH_TOKEN`, `WP_URL`, `WP_USER`, `WP_APP_PASSWORD`.
+Inside that workflow you only write the one article you are given; never set `status: approved`.
