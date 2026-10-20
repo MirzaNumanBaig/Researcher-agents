@@ -253,6 +253,10 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFlHM3lzUjZtdUJHbS1BMlQ4dC1zdnI1elU4QUpFMWl4ZFU0LWpkS1IwbE5rLXhueUI4a2dFU1E1WTlydjZLVFhXQXFEeE1vMGdKa0hGZFJZU3Y4WUcwbjUyTXVhN1hEandSMXRTOWxOQXVsTU5oTVk2TlA0MGlXdmxXNFlWazNuQTNZ?oc=5"
       },
       {
+        "source": "The Worldwide Guide To Movie Locations",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZMXNhTUF2M25zT2FfUW5kek9ZOS0ycDdWWnNPUTZOVVdGUEEtUE5KRzBLbWdYc3daajJBeDB6dkloV0VJRDJiU3c3dmtweVBBUEZaSGJCdWpxVVh0WHowSGVwa0xtaFFEaWR3Qg?oc=5"
+      },
+      {
         "source": "Decider",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaExWNEQzbDMwRERWMTQwLWxoSjZaMkl4VmstM2UxeTQ5MHFwLTMyN3R0cjRWSDd2VlVucUw4Q0xHRDRWOXhEamhXbE1NNHhBQkZCeWhzLXVHc3h3NTlBTlBXRnhvUTAxRm9BUmxTNXQyM3RzMmFOeWtlSWxKUzB4OWplaTJpWkF0R0QtLWtnNmJHYWtNalE?oc=5"
       }
@@ -300,6 +304,23 @@
       }
     ],
     "batch": "2026-10-20 07:00"
+  },
+  {
+    "title": "Sao Paulo film festival opens with ‘Paper Tiger’, unveils 392-strong roster",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCQlVfR2tzdXpRWFJrX3N3QnhpeXMxTHlVWlNsNmQzcEFFMDVsN1dVa3pFaEcxQVhIWjQ3a2M2aEl2VTJWdENHN3BCYS1sV181VHc?oc=5",
+    "source": "IMDb",
+    "published": "2026-10-19T19:24:26+00:00",
+    "summary": "",
+    "celebrities": [
+      "Cate Blanchett"
+    ],
+    "outlets": [
+      {
+        "source": "IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCQlVfR2tzdXpRWFJrX3N3QnhpeXMxTHlVWlNsNmQzcEFFMDVsN1dVa3pFaEcxQVhIWjQ3a2M2aEl2VTJWdENHN3BCYS1sV181VHc?oc=5"
+      }
+    ],
+    "batch": "Earlier"
   },
   {
     "title": "Nicole Kidman’s Rich-Looking Handbag Is Proof That the Right Fall Color Can Elevate Any Outfit",
@@ -908,6 +929,23 @@
     "batch": "2026-10-20 02:00"
   },
   {
+    "title": "Which Is Your Favorite Movie I Watched from 2017?— Part 1",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmI0MGxCa0hSeVRULW1pZlFTVFFHd21UUGFBTnRTVk5hMDRpa0NnQ2R3bUcyZnZIa2hURzlGQ2VLLU9RbEh2c0p1aXg2eGdycVo4T1JUTU9WZEZtYklLM3FfOE42WVFxUEFpR0pMaFhNeFhMSkpQOGdkbWhZTHYyOTVKZkpHQQ?oc=5",
+    "source": "IMDb",
+    "published": "2026-10-19T05:38:15+00:00",
+    "summary": "",
+    "celebrities": [
+      "Cate Blanchett"
+    ],
+    "outlets": [
+      {
+        "source": "IMDb",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmI0MGxCa0hSeVRULW1pZlFTVFFHd21UUGFBTnRTVk5hMDRpa0NnQ2R3bUcyZnZIa2hURzlGQ2VLLU9RbEh2c0p1aXg2eGdycVo4T1JUTU9WZEZtYklLM3FfOE42WVFxUEFpR0pMaFhNeFhMSkpQOGdkbWhZTHYyOTVKZkpHQQ?oc=5"
+      }
+    ],
+    "batch": "2026-10-20 17:00"
+  },
+  {
     "title": "The ‘Luxury Belief’ Class and Its Ambassadors",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTnA4NmVjNUdwM1ZnLXc1My02WUVtRVhScUFfdG5hSUNpMFY4VjEwNVgtak1mcXd4OGc4WlVoZEdSaUxnaDM0cVAwVF9RbW9mQ2haWV9rUzluQ05mNHA4eWFld25FNV90S3RaMVlCREpDb1FYUjFaWHY3UjFvMEV3QnRmX1FvZw?oc=5",
     "source": "Chronicles Magazine",
@@ -1247,23 +1285,6 @@
       {
         "source": "Young Hollywood",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjM19veUQ3My1CN3B2WW9XTzF3R0I4a0ZMeWlVZ1gyMld0WXBYRGhiS2Q0RnNaRXV2dThqRnJONlhjdUtjSG5mUXZweU5jdzdhdHhpdmtjcmZwVFk?oc=5"
-      }
-    ],
-    "batch": "Earlier"
-  },
-  {
-    "title": "Where was The Death Of Robin Hood filmed?",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZMXNhTUF2M25zT2FfUW5kek9ZOS0ycDdWWnNPUTZOVVdGUEEtUE5KRzBLbWdYc3daajJBeDB6dkloV0VJRDJiU3c3dmtweVBBUEZaSGJCdWpxVVh0WHowSGVwa0xtaFFEaWR3Qg?oc=5",
-    "source": "The Worldwide Guide To Movie Locations",
-    "published": "2026-10-18T18:26:38+00:00",
-    "summary": "",
-    "celebrities": [
-      "Hugh Jackman"
-    ],
-    "outlets": [
-      {
-        "source": "The Worldwide Guide To Movie Locations",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZMXNhTUF2M25zT2FfUW5kek9ZOS0ycDdWWnNPUTZOVVdGUEEtUE5KRzBLbWdYc3daajJBeDB6dkloV0VJRDJiU3c3dmtweVBBUEZaSGJCdWpxVVh0WHowSGVwa0xtaFFEaWR3Qg?oc=5"
       }
     ],
     "batch": "Earlier"
@@ -3868,23 +3889,6 @@
       }
     ],
     "batch": "2026-10-19 18:00"
-  },
-  {
-    "title": "São Paulo film festival opens with ‘Paper Tiger’, unveils 392-strong roster",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xVHBaTU5fVTY3bDlhMVVIRWxaMmFSc0N3TEdzNnN2ZC14c2lzd1hweDFkSUl4VkY1a2JWNHlHaDBvWUxpcUtnTVBqZlNaS1V2U1dRY0d3YzBYeWZsSEhTS2VERUhRY2RhZ0E?oc=5",
-    "source": "IMDb",
-    "published": "2026-10-14T22:22:06+00:00",
-    "summary": "",
-    "celebrities": [
-      "Cate Blanchett"
-    ],
-    "outlets": [
-      {
-        "source": "IMDb",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xVHBaTU5fVTY3bDlhMVVIRWxaMmFSc0N3TEdzNnN2ZC14c2lzd1hweDFkSUl4VkY1a2JWNHlHaDBvWUxpcUtnTVBqZlNaS1V2U1dRY0d3YzBYeWZsSEhTS2VERUhRY2RhZ0E?oc=5"
-      }
-    ],
-    "batch": "Earlier"
   },
   {
     "title": "‘Practical Magic 2’ to screen at Oracle Park for Giants’ movie night",
