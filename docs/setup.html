@@ -1,0 +1,96 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Setup guide · Modus Carry</title>
+<style>
+:root{--bg:#f6f6f8;--card:#fff;--ink:#16161a;--mut:#62626d;--line:#e2e2e8;--acc:#e3b341;--accbg:#fbf1d3}
+@media(prefers-color-scheme:dark){:root{--bg:#0e0e11;--card:#17171c;--ink:#f1f1f4;--mut:#9a9aa5;--line:#2a2a32;--accbg:#2b2614}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,sans-serif}
+.wrap{max-width:780px;margin:0 auto;padding:0 16px 60px}
+header{border-bottom:1px solid var(--line);background:var(--card)}header .wrap{display:flex;align-items:center;gap:12px;padding:14px 16px}
+.logo{width:42px;height:42px;border-radius:10px;background:var(--acc);color:#0e0e11;display:grid;place-items:center;font-weight:800}
+h1{font-size:20px;margin:0}a{color:inherit}.back{margin-left:auto;padding:6px 12px;border:1px solid var(--line);border-radius:8px;text-decoration:none;font-size:14px}
+h2{font-size:18px;margin:34px 0 8px}h3{font-size:15px;margin:18px 0 6px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:6px 16px 14px;margin:12px 0}
+.toc{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}.toc a{padding:6px 12px;border:1px solid var(--line);border-radius:99px;background:var(--card);text-decoration:none;font-size:14px}
+ol,ul{padding-left:22px}li{margin:6px 0}
+code{background:var(--accbg);padding:2px 6px;border-radius:6px;font-size:13px;word-break:break-all}
+pre{background:var(--accbg);padding:12px;border-radius:8px;overflow:auto;font-size:13px;white-space:pre-wrap;margin:6px 0}
+.cp{position:relative}.cp button{position:absolute;top:8px;right:8px;padding:4px 10px;border-radius:6px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;font-size:12px}
+.cp pre{padding-right:70px}
+.note{border-left:3px solid var(--acc);padding:6px 12px;background:var(--card);margin:12px 0;color:var(--mut)}
+</style></head><body>
+<header><div class="wrap"><div class="logo">MC</div><h1>Setup guide</h1><a class="back" href="./">← Dashboard</a></div></header>
+<main class="wrap">
+<p style="color:var(--mut)">Everything runs online on GitHub. These steps are done once. Secrets live in <b>GitHub Actions secrets</b>, never in the repo or in chat.</p>
+<div class="toc"><a href="#overview">Overview</a><a href="#token">1. Claude token</a><a href="#cowork">Use Cowork</a><a href="#apikey">API key option</a><a href="#wp">2. WordPress</a><a href="#test">3. Test run</a><a href="#switch">Switch accounts</a></div>
+
+<h2 id="overview">Overview</h2>
+<div class="card"><ol>
+<li>GitHub collects news every few hours and writes one brief per celebrity per batch.</li>
+<li>A GitHub Action asks Claude (or Codex as a fallback) to write one original article per brief and saves it in <code>articles/</code>.</li>
+<li>GitHub sends the article to WordPress as pending, draft or published (set in <code>config.json</code>).</li>
+</ol>
+<p>Secrets needed: <code>CLAUDE_CODE_OAUTH_TOKEN</code>, <code>WP_URL</code>, <code>WP_USER</code>, <code>WP_APP_PASSWORD</code>. Optional: <code>CLAUDE_CODE_OAUTH_TOKEN_2</code>, <code>_3</code>, <code>OPENAI_API_KEY</code>.</p>
+<p>Secrets page: <a href="https://github.com/MirzaNumanBaig/Researcher-agents/settings/secrets/actions">github.com/MirzaNumanBaig/Researcher-agents/settings/secrets/actions</a></p></div>
+
+<h2 id="token">1. Get the Claude token (online, no computer needed)</h2>
+<div class="note">There is no page on claude.ai or the Anthropic console that shows this token. It only comes from the command <code>claude setup-token</code>. A GitHub Codespace gives you a terminal in the browser.</div>
+<div class="card"><ol>
+<li>Open <a href="https://github.com/MirzaNumanBaig/Researcher-agents">the repo</a>, click <b>Code → Codespaces → Create codespace on main</b>.</li>
+<li>In the terminal at the bottom, run:
+<div class="cp"><pre>npm install -g @anthropic-ai/claude-code
+claude setup-token</pre><button>Copy</button></div></li>
+<li>Open the login link it prints, sign in to the Claude account that should do the writing, approve.</li>
+<li>If it shows a code, paste the code into the terminal.</li>
+<li>It prints a token starting with <code>sk-ant-oat01-</code>. <b>Copy it right away. It is shown only once.</b></li>
+<li>Go to the <a href="https://github.com/MirzaNumanBaig/Researcher-agents/settings/secrets/actions">secrets page</a> → <b>New repository secret</b>. Name: <code>CLAUDE_CODE_OAUTH_TOKEN</code>. Paste the token. Save.</li>
+<li>Delete the Codespace at <a href="https://github.com/codespaces">github.com/codespaces</a> (… → Delete).</li>
+</ol>
+<p>A second Claude account: repeat while signed in to that account and name the secret <code>CLAUDE_CODE_OAUTH_TOKEN_2</code> (third: <code>_3</code>). When one hits its limit, the next takes over.</p></div>
+
+<h2 id="cowork">Let Cowork do it</h2>
+<div class="card"><p>You must be signed in to GitHub (with settings access to the repo) and to the right Claude account in the browser Cowork uses. You may have to approve the Claude login yourself. Paste this to Cowork:</p>
+<div class="cp"><pre>Task: create a Claude Code long-lived auth token and save it as a GitHub Actions secret. Do not show the token in chat or save it to any file.
+
+1. Check that Claude Code is installed on this computer. If it isn't, install it with: npm install -g @anthropic-ai/claude-code (Node.js is needed; install Node.js LTS first if missing).
+2. Open a terminal and run: claude setup-token
+   It opens a browser login. Sign in to the Claude account I'm using now and approve. If it asks for a code, paste the code back into the terminal.
+3. The terminal prints a token that starts with sk-ant-oat01-. Copy it from the terminal. It is shown only once.
+4. In my browser (already signed in to GitHub) open:
+   https://github.com/MirzaNumanBaig/Researcher-agents/settings/secrets/actions
+   Click "New repository secret". Name: CLAUDE_CODE_OAUTH_TOKEN. Secret: paste the token. Click "Add secret".
+   If it already exists, use "Update" and replace the value.
+5. Clear the token from the clipboard and terminal history.
+6. Tell me only "done" or what failed. Never print or repeat the token.
+
+For a second account (optional): sign out of Claude, repeat steps 2 to 4 on the other account, and name the secret CLAUDE_CODE_OAUTH_TOKEN_2. A third account uses _3.</pre><button>Copy</button></div></div>
+
+<h2 id="apikey">Alternative: Anthropic API key</h2>
+<div class="card"><p>Create a key at console.anthropic.com → API Keys. It is pay-per-use and does not use your Claude plan. The workflow currently reads only the OAuth token, so ask Claude to change the workflow before using a key.</p></div>
+
+<h2 id="wp">2. WordPress (moduscarry.com)</h2>
+<div class="card"><ol>
+<li><code>WP_URL</code> is already added (e.g. <code>https://moduscarry.com</code>, no trailing slash).</li>
+<li>In WordPress admin, create a user with the Editor or Author role (or use your own).</li>
+<li>Go to <b>Users → Profile → Application Passwords</b>, type a name such as "GitHub", click <b>Add New Application Password</b>, and copy the password shown (spaces are fine).</li>
+<li>Add two more secrets: <code>WP_USER</code> (the username) and <code>WP_APP_PASSWORD</code> (the application password).</li>
+</ol>
+<p>If Application Passwords do not appear, the site must use HTTPS and no security plugin may block the REST API.</p>
+<p>How articles arrive: <code>wp_default_status</code> in <code>config.json</code> is <code>pending</code> (review in WordPress). Use <code>draft</code> or <code>publish</code> to change it.</p></div>
+
+<h2 id="test">3. First test run</h2>
+<div class="card"><ol>
+<li>Open <a href="https://github.com/MirzaNumanBaig/Researcher-agents/actions/workflows/write-articles.yml">Actions → Write articles</a> → <b>Run workflow</b>.</li>
+<li>Check that files appear in <code>articles/</code> and that pending posts appear in WordPress.</li>
+<li>If a step fails, open the failed run, copy the error, and give it to Claude.</li>
+</ol></div>
+
+<h2 id="switch">Switching Claude accounts or AI tools</h2>
+<div class="card"><ul>
+<li>Change account: replace the secret with a token created while signed in to the new account.</li>
+<li>Add backup accounts with the <code>_2</code> and <code>_3</code> secrets.</li>
+<li>Use ChatGPT/Codex as the last fallback: add <code>OPENAI_API_KEY</code>.</li>
+<li>Any AI can also write by hand: give it <code>prompts/article.md</code> and one file from <code>briefs/</code>.</li>
+</ul></div>
+</main>
+<script>document.querySelectorAll(".cp button").forEach(b=>b.onclick=()=>{navigator.clipboard.writeText(b.previousElementSibling.textContent);b.textContent="Copied";setTimeout(()=>b.textContent="Copy",1500)})</script>
+</body></html>

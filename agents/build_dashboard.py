@@ -131,7 +131,7 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut)
 footer{color:var(--mut);font-size:12px;padding:30px 0}
 </style>
 <header><div class="wrap"><div class="brand" style="width:100%"><div class="logo">MC</div>
-<div><h1>Modus Carry · __COUNTRY__ Celebrity News</h1><div class="sub" id="upd"></div></div><button id="conn" class="navlink">Connect Claude / WordPress</button></div></div></header>
+<div><h1>Modus Carry · __COUNTRY__ Celebrity News</h1><div class="sub" id="upd"></div></div><a href="setup.html" class="navlink" style="text-decoration:none;padding:8px 14px;border-radius:8px">Setup guide</a> <button id="conn" class="navlink" style="margin-left:8px">Connect Claude / WordPress</button></div></div></header>
 <main class="wrap">
 <div class="panel"><div><div id="state"></div><div id="timer"></div></div>
 <div><button class="pri" id="run">Run now</button> <button id="pause"></button> <button id="add">+ Add celebrity</button> <button id="tok" title="GitHub token">🔑</button></div>
