@@ -134,7 +134,7 @@ footer{color:var(--mut);font-size:12px;padding:30px 0}
 <div><h1>Modus Carry · __COUNTRY__ Celebrity News</h1><div class="sub" id="upd"></div></div><a href="setup.html" class="navlink" style="text-decoration:none;padding:8px 14px;border-radius:8px">Setup guide</a> <button id="conn" class="navlink" style="margin-left:8px">Connect Claude / WordPress</button></div></div></header>
 <main class="wrap">
 <div class="panel"><div><div id="state"></div><div id="timer"></div></div>
-<div><button class="pri" id="run">Run now</button> <button id="pause"></button> <button id="add">+ Add celebrity</button> <button id="tok" title="GitHub token">🔑</button></div>
+<div><button class="pri" id="run">Run now</button> <button id="pause"></button> <button id="add">+ Add celebrity</button> <button id="test">Test</button> <button id="tok" title="GitHub token">🔑</button></div>
 <button id="sched">Change interval</button>
 <div id="msg"></div><div id="usage" class="also"></div></div>
 <div class="tools"><input id="q" type="search" placeholder="Search headlines…">
