@@ -64,6 +64,7 @@ data = {
     "country": cfg["country"],
     "timezone": cfg.get("timezone", "UTC"),
     "interval_hours": cfg.get("interval_hours", 3),
+    "mcp_url": cfg.get("mcp_url", ""),
     "last_run": usage.get("last_run"),
     "profiles": cfg.get("profiles", {}),
     "runs_this_month": usage.get(datetime.now(timezone.utc).strftime("%Y-%m"), 0),
@@ -115,11 +116,11 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut)
 .tabs{display:flex;gap:6px;overflow-x:auto;margin:6px 0 12px}.tab{white-space:nowrap;padding:6px 12px;border-radius:8px 8px 0 0;border:1px solid var(--line);border-bottom:2px solid var(--line);background:var(--card);cursor:pointer;font-size:13px}.tab.on{border-bottom-color:var(--acc);font-weight:700}
 .profiles{display:flex;gap:12px;overflow-x:auto;margin:6px 0 14px}.prof{min-width:190px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;text-align:center}.prof .pav{width:84px;height:84px;font-size:20px;border-radius:50%;margin:0 auto 6px;display:grid;place-items:center;color:#fff;font-weight:700;background-size:cover;background-position:center}.prof b{display:block;font-size:14px;cursor:pointer}.icos{display:flex;justify-content:center;gap:6px;margin-top:8px}.ico{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;border:1px solid var(--line)}.ico img{width:14px;height:14px}.ico.off{opacity:.25}@media(prefers-color-scheme:dark){.ico img{filter:invert(1)}}
 .also{font-size:12px;color:var(--mut)}.cnt{font-size:11px;font-weight:700;background:var(--accbg);color:var(--ink);border-radius:99px;padding:2px 8px}
-.empty{color:var(--mut);padding:30px;text-align:center}
+.navlink{margin-left:auto;color:#e3b341;font-size:14px}code{background:var(--accbg);padding:2px 6px;border-radius:6px;word-break:break-all;font-size:13px}.empty{color:var(--mut);padding:30px;text-align:center}
 footer{color:var(--mut);font-size:12px;padding:30px 0}
 </style>
-<header><div class="wrap"><div class="brand"><div class="logo">MC</div>
-<div><h1>Modus Carry · __COUNTRY__ Celebrity News</h1><div class="sub" id="upd"></div></div></div></div></header>
+<header><div class="wrap"><div class="brand" style="width:100%"><div class="logo">MC</div>
+<div><h1>Modus Carry · __COUNTRY__ Celebrity News</h1><div class="sub" id="upd"></div></div><a href="#connect" class="navlink">Connect Claude / WordPress ↓</a></div></div></header>
 <main class="wrap">
 <div class="panel"><div><div id="state"></div><div id="timer"></div></div>
 <div><button class="pri" id="run">Run now</button> <button id="pause"></button> <button id="add">+ Add celebrity</button> <button id="tok" title="GitHub token">🔑</button></div>
@@ -133,6 +134,13 @@ footer{color:var(--mut);font-size:12px;padding:30px 0}
 <div class="chips" id="chips"></div>
 <div class="tabs" id="tabs"></div>
 <div id="top"></div><div id="list"></div>
+<section id="connect" class="panel" style="display:block">
+<h2 style="margin-top:0">Connect Claude (MCP) and WordPress</h2>
+<p><b>1. Claude, always online.</b> In claude.ai: Settings → Connectors → Add custom connector → paste this URL. Works with any Claude account.</p>
+<p><code id="mcpurl"></code> <button id="copy">Copy</button></p>
+<p class="also">Claude can then read stories, run/pause/change the schedule, add celebrities, save article drafts and approve them. Setup steps: <a href="https://github.com/MirzaNumanBaig/Researcher-agents/blob/main/mcp/README.md" target="_blank" rel="noopener"><u>mcp/README.md</u></a>. Keep the URL private: anyone with it can control the system.</p>
+<p><b>2. WordPress.</b> Approved articles are sent by GitHub to moduscarry.com using its REST API. Each article carries the status you want on the site: <b>draft</b>, <b>pending</b> (review) or <b>publish</b>; change it any time and GitHub updates the post. Add the secrets <code>WP_URL</code>, <code>WP_USER</code>, <code>WP_APP_PASSWORD</code> in the repo's Settings → Secrets and variables → Actions.</p>
+</section>
 <footer>Headlines come from Google News and Australian entertainment feeds. Google News does not provide images or full summaries; open a story for the full article. Profile photos and links: Wikidata / Wikimedia Commons.</footer>
 </main>
 <script>
@@ -188,6 +196,8 @@ $("pause").onclick=async()=>{try{await editCfg(c=>c.paused=!paused);paused=!paus
 $("add").onclick=async()=>{const n=(prompt("Celebrity name?")||"").trim();if(!n)return;try{await editCfg(c=>{if(!c.celebrities.includes(n))c.celebrities.push(n)});say(n+" added. A run starts now; refresh in 1-2 minutes.")}catch(e){say("Failed: "+e.message)}};
 $("usage").textContent="Runs this month: "+D.runs_this_month+" · GitHub Actions minutes: unlimited (public repo) · Claude plan usage: see claude.ai/settings/usage";
 $("sched").onclick=async()=>{const v=prompt("Run every how many hours? (1-24)",D.interval_hours);if(v===null)return;const n=parseInt(v,10);if(!(n>=1&&n<=24)){say("Enter a number from 1 to 24.");return}try{await editCfg(c=>{c.interval_hours=n;delete c.run_hours});D.interval_hours=n;tick();say("Saved. Runs every "+n+" hours, counted from the last run.")}catch(e){say("Failed: "+e.message)}};
+$("mcpurl").textContent=D.mcp_url||"Not set up yet. Follow mcp/README.md; once deployed, the URL appears here.";
+$("copy").onclick=()=>{if(D.mcp_url){navigator.clipboard.writeText(D.mcp_url);say("MCP URL copied.")}else say("No MCP URL yet.")};
 chips();profiles();tabs();render();tick();
 </script></html>"""
 

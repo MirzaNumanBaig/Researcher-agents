@@ -1,0 +1,28 @@
+name: Send approved articles to WordPress
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [articles/**]
+permissions:
+  contents: write
+concurrency: publish-wordpress
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python agents/publish_wordpress.py
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+      - name: Commit WordPress ids
+        if: always()
+        run: |
+          git config user.name "researcher-bot"
+          git config user.email "researcher-bot@users.noreply.github.com"
+          git add articles
+          git diff --cached --quiet || { git commit -m "Update article WordPress status" && git pull --rebase origin main && git push; }

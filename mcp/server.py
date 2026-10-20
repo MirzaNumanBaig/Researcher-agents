@@ -113,11 +113,13 @@ def remove_celebrity(name):
     return cfg["celebrities"]
 
 
-def save_draft(title, body_markdown, sources, batch=""):
+def save_draft(title, body_markdown, sources, batch="", wp_status="draft"):
     """Save an article draft to articles/ with status 'pending' (awaiting approval)."""
+    if wp_status not in ("draft", "pending", "publish", "private"):
+        raise ValueError("wp_status must be draft, pending, publish or private")
     slug = slugify(title)
     path = f"articles/{(batch or datetime.now(timezone.utc).strftime('%Y-%m-%d-%H%M')).replace(' ', '-').replace(':', '')}-{slug}.md"
-    front = "---\n" + f"title: {json.dumps(title)}\nstatus: pending\nbatch: {json.dumps(batch)}\n" \
+    front = "---\n" + f"title: {json.dumps(title)}\nstatus: pending\nwp_status: {wp_status}\nbatch: {json.dumps(batch)}\n" \
         + "sources:\n" + "".join(f"  - {json.dumps(s)}\n" for s in sources) + "---\n\n"
     write_file(path, front + body_markdown + "\n", f"MCP: draft {slug}")
     return path
@@ -143,6 +145,14 @@ def set_draft_status(path, status):
     return f"{path} -> {status}"
 
 
+def set_wp_status(path, wp_status):
+    if wp_status not in ("draft", "pending", "publish", "private"):
+        raise ValueError("wp_status must be draft, pending, publish or private")
+    text, sha = read_file(path)
+    write_file(path, re.sub(r"^wp_status: .*", f"wp_status: {wp_status}", text, count=1, flags=re.M), f"MCP: wp_status {wp_status}", sha)
+    return f"{path} wp_status -> {wp_status}"
+
+
 def read_draft(path):
     return read_file(path)[0]
 
@@ -160,10 +170,11 @@ TOOLS = {
     "add_celebrity": (add_celebrity, "Start tracking a celebrity.", S(name=STR)),
     "remove_celebrity": (remove_celebrity, "Stop tracking a celebrity.", S(name=STR)),
     "save_draft": (save_draft, "Save an original article draft (markdown) with its source URLs; status starts as pending approval.",
-                   {"type": "object", "properties": {"title": STR, "body_markdown": STR, "sources": {"type": "array", "items": STR}, "batch": STR},
+                   {"type": "object", "properties": {"title": STR, "body_markdown": STR, "sources": {"type": "array", "items": STR}, "batch": STR, "wp_status": STR},
                     "required": ["title", "body_markdown", "sources"]}),
     "list_drafts": (list_drafts, "List article drafts and their approval status.", S()),
     "read_draft": (read_draft, "Read one draft file.", S(path=STR)),
+    "set_wp_status": (set_wp_status, "Set what WordPress shows: draft, pending (review), publish or private. Works on sent posts too.", S(path=STR, wp_status=STR)),
     "set_draft_status": (set_draft_status, "Approve or reject a draft (pending/approved/rejected).", S(path=STR, status=STR)),
 }
 

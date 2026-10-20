@@ -1,0 +1,22 @@
+name: Deploy MCP server
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [mcp/worker.js, mcp/wrangler.toml]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: mcp
+          secrets: |
+            GH_TOKEN
+            MCP_SECRET
+        env:
+          GH_TOKEN: ${{ secrets.MCP_GH_TOKEN }}
+          MCP_SECRET: ${{ secrets.MCP_SECRET }}
