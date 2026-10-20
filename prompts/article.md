@@ -5,8 +5,9 @@ stories about them, each with the outlets and links that covered it).
 
 ## Process
 1. Read the brief. Decide which stories are real news (skip ads, product plugs, old stories, "net worth" filler, pure SEO bait).
-2. Open the source links (WebFetch; Google News links redirect to the real article) and read the full pages. Cross-check each
-   claim against at least one other source where possible. Use WebSearch if a key fact needs confirming.
+2. Read the source texts already downloaded for you in the sources file you were given (publisher pages behind the brief's links).
+   Cross-check each claim against at least one other source where possible. If you have web tools you may also open the links or
+   search to confirm a key fact; if you do not, work only from the sources file. Never use facts that are not in the sources.
 3. Read `data/wp_site.json` (the site's real categories, tags and recent posts) and `config.json` (country, profiles).
 4. Write the article, then save it to the exact article path you were given.
 

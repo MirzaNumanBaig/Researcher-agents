@@ -43,22 +43,82 @@ jobs:
       fail-fast: false
       matrix:
         item: ${{ fromJson(needs.plan.outputs.queue) }}
+    env:
+      # Writers are tried in this order until one produces the article. Add or remove secrets to change who writes.
+      HAS_CLAUDE1: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+      HAS_CLAUDE2: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 != '' }}
+      HAS_CLAUDE3: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_3 != '' }}
+      HAS_CODEX: ${{ secrets.OPENAI_API_KEY != '' }}
+      ARTICLE: ${{ matrix.item.article }}
+      PROMPT: |
+        Follow prompts/article.md exactly.
+        Brief: ${{ matrix.item.brief }}
+        Source texts (already downloaded): ${{ matrix.item.sources }}
+        Save the article to: ${{ matrix.item.article }}
+        wp_status to use: ${{ matrix.item.wp_status }}
+        Celebrity: ${{ matrix.item.celebrity }}   Batch: ${{ matrix.item.batch }}
     steps:
       - uses: actions/checkout@v4
         with: {ref: main}
-      - uses: anthropics/claude-code-action@v1
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - name: Download the source pages for this brief
+        continue-on-error: true
+        run: python agents/fetch_sources.py "${{ matrix.item.brief }}"
+
+      - name: "Writer 1: Claude account 1"
+        id: c1
+        if: env.HAS_CLAUDE1 == 'true'
+        continue-on-error: true
+        uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          prompt: |
-            Follow prompts/article.md exactly.
-            Brief: ${{ matrix.item.brief }}
-            Save the article to: ${{ matrix.item.article }}
-            wp_status to use: ${{ matrix.item.wp_status }}
-            Celebrity: ${{ matrix.item.celebrity }}   Batch: ${{ matrix.item.batch }}
+          prompt: ${{ env.PROMPT }}
           claude_args: |
             --max-turns 30
             --allowedTools "Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"
+      - id: d1
+        run: test -s "$ARTICLE" && echo done=true >> "$GITHUB_OUTPUT" || echo done=false >> "$GITHUB_OUTPUT"
+
+      - name: "Writer 2: Claude account 2 (if account 1 failed or hit its limit)"
+        id: c2
+        if: steps.d1.outputs.done != 'true' && env.HAS_CLAUDE2 == 'true'
+        continue-on-error: true
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: ${{ env.PROMPT }}
+          claude_args: |
+            --max-turns 30
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"
+      - id: d2
+        run: test -s "$ARTICLE" && echo done=true >> "$GITHUB_OUTPUT" || echo done=false >> "$GITHUB_OUTPUT"
+
+      - name: "Writer 3: Claude account 3"
+        id: c3
+        if: steps.d2.outputs.done != 'true' && env.HAS_CLAUDE3 == 'true'
+        continue-on-error: true
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_3 }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: ${{ env.PROMPT }}
+          claude_args: |
+            --max-turns 30
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"
+      - id: d3
+        run: test -s "$ARTICLE" && echo done=true >> "$GITHUB_OUTPUT" || echo done=false >> "$GITHUB_OUTPUT"
+
+      - name: "Writer 4: OpenAI Codex (if every Claude account failed)"
+        if: steps.d3.outputs.done != 'true' && env.HAS_CODEX == 'true'
+        continue-on-error: true
+        uses: openai/codex-action@v1
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          prompt: ${{ env.PROMPT }}
+
       - name: Save the article
         run: |
           git config user.name "researcher-bot"
