@@ -19,6 +19,9 @@ Never commit secrets. WordPress/GitHub tokens belong in GitHub Actions secrets.
 - Settings: edit `config.json` (`celebrities`, `interval_hours` 1-24, `paused` true/false, `profiles`). A change to it triggers a refresh.
 - Run now: start the `collect.yml` workflow (workflow_dispatch).
 - News: `data/stories.json` = grouped stories (outlets + links), `batch` = the run they were found in.
+- Briefs: every run writes `briefs/<batch>/<celebrity>.json` (that run's stories for one celebrity, with all outlet links). One article per brief.
 - Write articles: open the source links, read the full pages, cross-check facts, write ORIGINAL text (never copy). Save as
-  `articles/<batch>-<slug>.md` with front matter: `title`, `status: pending`, `wp_status: draft|pending|publish`, `batch`, `sources` (list of URLs).
+  `articles/<batch-slug>-<celebrity-slug>.md` (e.g. `2026-10-20-16-00-nicole-kidman.md`) with front matter: `title`, `status: pending`, `wp_status: draft|pending|publish`,
+  `batch` (exact label, e.g. "2026-10-20 16:00"), `celebrity` (exact name), `sources` (list of URLs). The dashboard matches drafts to batches by `batch` + `celebrity`.
+- "Write all pending articles": for each brief without a matching draft, in the latest batches, write one. Skip briefs with only junk (ads, old news).
 - Approval: only a human approves. Setting `status: approved` makes GitHub send it to WordPress; `wp_status` decides how it appears. Never approve on your own.

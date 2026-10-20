@@ -57,6 +57,16 @@ def group(leads):
     return stories
 
 
+def read_articles():
+    out = []
+    for f in sorted((ROOT / "articles").glob("*.md")):
+        front = f.read_text().split("---")[1] if f.read_text().startswith("---") else ""
+        get = lambda k: (re.search(rf"^{k}: ?(.*)$", front, re.M) or [None, ""])[1].strip().strip('"')  # noqa: E731
+        out.append({"path": f"articles/{f.name}", "title": get("title"), "status": get("status"), "wp_status": get("wp_status") or "draft",
+                    "batch": get("batch"), "celebrity": get("celebrity"), "wp_link": get("wp_link")})
+    return out
+
+
 usage_file = ROOT / "data" / "usage.json"
 usage = json.loads(usage_file.read_text()) if usage_file.exists() else {}
 stories = group(leads)
@@ -68,6 +78,7 @@ data = {
     "profiles": cfg.get("profiles", {}),
     "runs_this_month": usage.get(datetime.now(timezone.utc).strftime("%Y-%m"), 0),
     "lead_count": len(leads),
+    "articles": read_articles(),
     "celebrities": cfg["celebrities"],
     "paused": bool(cfg.get("paused")),
     "updated": datetime.now(timezone.utc).isoformat(),
@@ -115,7 +126,8 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut)
 .tabs{display:flex;gap:6px;overflow-x:auto;margin:6px 0 12px}.tab{white-space:nowrap;padding:6px 12px;border-radius:8px 8px 0 0;border:1px solid var(--line);border-bottom:2px solid var(--line);background:var(--card);cursor:pointer;font-size:13px}.tab.on{border-bottom-color:var(--acc);font-weight:700}
 .profiles{display:flex;gap:12px;overflow-x:auto;margin:6px 0 14px}.prof{min-width:190px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;text-align:center}.prof .pav{width:84px;height:84px;font-size:20px;border-radius:50%;margin:0 auto 6px;display:grid;place-items:center;color:#fff;font-weight:700;background-size:cover;background-position:center}.prof b{display:block;font-size:14px;cursor:pointer}.icos{display:flex;justify-content:center;gap:6px;margin-top:8px}.ico{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;border:1px solid var(--line)}.ico img{width:14px;height:14px}.ico.off{opacity:.25}@media(prefers-color-scheme:dark){.ico img{filter:invert(1)}}
 .also{font-size:12px;color:var(--mut)}.cnt{font-size:11px;font-weight:700;background:var(--accbg);color:var(--ink);border-radius:99px;padding:2px 8px}
-.navlink{margin-left:auto;color:#e3b341;font-size:14px;background:transparent;border:1px solid #e3b34166}dialog{width:min(640px,94vw);max-height:90vh;overflow:auto;border:1px solid var(--line);border-radius:14px;background:var(--card);color:var(--ink);padding:0}dialog::backdrop{background:#000a}.dh{display:flex;justify-content:space-between;align-items:center;padding:14px 16px;border-bottom:1px solid var(--line);font-size:17px}.dtabs{display:flex;gap:6px;padding:10px 16px 0}.dt.on{background:var(--ink);color:var(--bg)}.dp{padding:6px 16px 16px}.step{display:flex;gap:12px;margin:14px 0}.n{flex:none;width:26px;height:26px;border-radius:50%;background:var(--acc);color:#111;display:grid;place-items:center;font-weight:700;font-size:13px}.cp{display:flex;gap:8px;align-items:flex-start;margin:6px 0 10px}.cp code{flex:1;display:block;padding:8px 10px}.btn{display:inline-block;margin-top:6px;padding:6px 12px;border-radius:8px;border:1px solid var(--line);font-size:14px}code{background:var(--accbg);padding:2px 6px;border-radius:6px;word-break:break-all;font-size:13px}.empty{color:var(--mut);padding:30px;text-align:center}
+.navlink{margin-left:auto;color:#e3b341;font-size:14px;background:transparent;border:1px solid #e3b34166}dialog{width:min(640px,94vw);max-height:90vh;overflow:auto;border:1px solid var(--line);border-radius:14px;background:var(--card);color:var(--ink);padding:0}dialog::backdrop{background:#000a}.dh{display:flex;justify-content:space-between;align-items:center;padding:14px 16px;border-bottom:1px solid var(--line);font-size:17px}.dtabs{display:flex;gap:6px;padding:10px 16px 0}.dt.on{background:var(--ink);color:var(--bg)}.dp{padding:6px 16px 16px}.step{display:flex;gap:12px;margin:14px 0}.n{flex:none;width:26px;height:26px;border-radius:50%;background:var(--acc);color:#111;display:grid;place-items:center;font-weight:700;font-size:13px}.cp{display:flex;gap:8px;align-items:flex-start;margin:6px 0 10px}.cp code{flex:1;display:block;padding:8px 10px}.btn{display:inline-block;margin-top:6px;padding:6px 12px;border-radius:8px;border:1px solid var(--line);font-size:14px}code{background:var(--accbg);padding:2px 6px;border-radius:6px;word-break:break-all;font-size:13px}.arow{display:flex;flex-wrap:wrap;gap:10px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin-bottom:8px}.arow .nm{font-weight:600;min-width:150px}.chip2{font-size:12px;font-weight:700;border-radius:99px;padding:3px 10px;background:var(--accbg)}.chip2.ok{background:#2f855a;color:#fff}.chip2.no{background:#c53030;color:#fff}.arow .sp{flex:1}.arow button,.arow select,.arow a.btn{padding:5px 10px;font-size:13px;margin:0}
+.empty{color:var(--mut);padding:30px;text-align:center}
 footer{color:var(--mut);font-size:12px;padding:30px 0}
 </style>
 <header><div class="wrap"><div class="brand" style="width:100%"><div class="logo">MC</div>
@@ -173,12 +185,33 @@ function chips(){const c=[["","All"],...D.celebrities.map(n=>[n,n])];
 $("chips").innerHTML=c.map(([v,t])=>'<button class="chip'+(v===celeb?' on':'')+'" data-v="'+esc(v)+'">'+esc(t)+'</button>').join("");
 document.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{celeb=b.dataset.v;chips();render()})}
 function tabs(){const bs=[...new Set(D.leads.map(l=>l.batch))].sort().reverse();
-$("tabs").innerHTML=[["","All batches"],...bs.map(b=>[b,b==="Earlier"?"Earlier":b.slice(5)])].map(([v,t])=>'<button class="tab'+(v===batch?' on':'')+'" data-v="'+esc(v)+'" title="'+esc(v?"Found in the run at "+v+" ("+D.timezone+")":"")+'">'+esc(t)+(v?' ('+D.leads.filter(l=>l.batch===v).length+')':'')+'</button>').join("");
+$("tabs").innerHTML=[["","All batches"],["__articles","Articles ("+D.articles.length+")"],...bs.map(b=>[b,b==="Earlier"?"Earlier":b.slice(5)])].map(([v,t])=>'<button class="tab'+(v===batch?' on':'')+'" data-v="'+esc(v)+'" title="'+esc(v?"Found in the run at "+v+" ("+D.timezone+")":"")+'">'+esc(t)+(v&&v!=="__articles"?' ('+D.leads.filter(l=>l.batch===v).length+')':'')+'</button>').join("");
 document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{batch=b.dataset.v;tabs();render()})}
 const ICONS={instagram:"instagram",tiktok:"tiktok",x:"x",facebook:"facebook",youtube:"youtube",website:"googlechrome"};
 function profiles(){$("profiles").innerHTML=D.celebrities.map(n=>{const p=D.profiles[n]||{};
 return '<div class="prof"><div class="pav" style="background-color:'+col(n)+(p.photo?';background-image:url('+esc(p.photo)+')':'')+'">'+(p.photo?'':esc(ini(n)))+'</div><b data-n="'+esc(n)+'">'+esc(n)+'</b>'+'<div class="icos">'+Object.keys(ICONS).map(k=>p[k]?'<a class="ico" href="'+esc(p[k])+'" target="_blank" rel="noopener" title="'+k+'"><img alt="'+k+'" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></a>':'<span class="ico off" title="'+k+': not added yet"><img alt="" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></span>').join("")+'</div>'+'</div>'}).join("");
 document.querySelectorAll(".prof b").forEach(b=>b.onclick=()=>{celeb=b.dataset.n;chips();render()})}
+const slug=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+const BLOB="https://github.com/"+REPO+"/blob/main/";
+async function editArticle(path,fn){const f=await gh("/contents/"+path);let t=decodeURIComponent(escape(atob(f.content.replace(/\n/g,""))));t=fn(t);
+await gh("/contents/"+path,{method:"PUT",body:JSON.stringify({message:"Dashboard: update "+path,sha:f.sha,content:btoa(unescape(encodeURIComponent(t)))})})}
+const setKey=(k,v)=>t=>t.replace(new RegExp("^"+k+": .*$","m"),k+": "+v);
+function statusChip(a){if(!a)return'<span class="chip2">Not written yet</span>';
+const m={pending:["Draft · awaiting approval",""],approved:["Approved · sending to WordPress","ok"],sent:["Sent to WordPress ("+a.wp_status+")","ok"],rejected:["Rejected","no"]}[a.status]||[a.status,""];
+return'<span class="chip2 '+m[1]+'">'+esc(m[0])+'</span>'}
+function artRow(a,celeb,b,n){const p="Open "+REPO+" and follow CLAUDE.md. Write the article for "+celeb+" from batch "+b+" (briefs/"+slug(b)+"/"+slug(celeb)+".json) and save it as a pending draft.";
+let h='<div class="arow"><span class="nm">'+esc(celeb)+(n!=null?' <span class="also">· '+n+' stories</span>':'')+'</span>'+statusChip(a)+'<span class="sp"></span>';
+if(!a)h+='<button data-prompt="'+esc(p)+'">Copy Claude prompt</button>';
+else{h+='<a class="btn" href="'+BLOB+esc(a.path)+'" target="_blank" rel="noopener">Read</a>';
+if(a.status==="pending")h+='<select data-wp="'+esc(a.path)+'">'+["draft","pending","publish"].map(x=>'<option value="'+x+'"'+(x===a.wp_status?" selected":"")+'>WordPress: '+(x==="pending"?"review":x)+'</option>').join("")+'</select><button data-act="approved" data-path="'+esc(a.path)+'">Approve</button><button data-act="rejected" data-path="'+esc(a.path)+'">Reject</button>';
+if(a.status==="sent"){h+='<select data-wp="'+esc(a.path)+'">'+["draft","pending","publish"].map(x=>'<option value="'+x+'"'+(x===a.wp_status?" selected":"")+'>WordPress: '+(x==="pending"?"review":x)+'</option>').join("")+'</select>';if(a.wp_link)h+='<a class="btn" href="'+esc(a.wp_link)+'" target="_blank" rel="noopener">View post</a>'}}
+return h+'</div>'}
+function wireArt(root){root.querySelectorAll("[data-prompt]").forEach(b=>b.onclick=()=>{navigator.clipboard.writeText(b.dataset.prompt);say("Prompt copied. Paste it into Claude.")});
+root.querySelectorAll("[data-act]").forEach(b=>b.onclick=async()=>{try{await editArticle(b.dataset.path,setKey("status",b.dataset.act));say(b.dataset.act==="approved"?"Approved. GitHub will send it to WordPress in about a minute. Refresh later.":"Rejected.")}catch(e){say("Failed: "+e.message)}});
+root.querySelectorAll("[data-wp]").forEach(s=>s.onchange=async()=>{try{await editArticle(s.dataset.wp,setKey("wp_status",s.value));say("WordPress status set to "+s.value+(".")+" It applies once the article is approved/sent.")}catch(e){say("Failed: "+e.message)}})}
+function articlePanel(b){const per={};D.leads.filter(l=>l.batch===b).forEach(l=>l.celebrities.forEach(c=>per[c]=(per[c]||0)+1));
+const rows=D.celebrities.filter(c=>per[c]).map(c=>artRow(D.articles.find(a=>a.batch===b&&a.celebrity===c),c,b,per[c])).join("");
+return'<h2>Blog articles for this batch</h2>'+(rows||'<div class="empty">No stories for tracked celebrities in this batch.</div>')}
 function card(l,hero){const n=(l.celebrities||[])[0]||"";
 return '<a class="card'+(hero?' hero':'')+'" href="'+esc(l.url)+'" target="_blank" rel="noopener"><div class="top"><div class="av" style="background:'+col(n)+'">'+esc(ini(n))+'</div><div><div class="who">'+esc((l.celebrities||[]).join(", "))+'</div><div class="meta">'+esc(l.source)+' · '+(l.published?ago(l.published):"")+'</div></div>'+(age(l)<=3?'<span class="badge">NEW</span>':'')+'</div><h3>'+esc(l.title)+'</h3>'+(l.outlets.length>1?'<div class="also"><span class="cnt">'+l.outlets.length+' outlets</span> '+esc(l.outlets.slice(0,5).map(o=>o.source).join(", "))+(l.outlets.length>5?" +"+(l.outlets.length-5):"")+'</div>':'')+(l.summary?'<p>'+esc(l.summary.slice(0,220))+'</p>':'')+'</a>'}
 function render(){
@@ -186,8 +219,10 @@ const q=$("q").value.toLowerCase(),s=$("src").value,w=+$("when").value,so=$("sor
 let ls=D.leads.filter(l=>(!celeb||(l.celebrities||[]).includes(celeb))&&(!s||l.outlets.some(o=>o.source===s))&&(!batch||l.batch===batch)&&(!q||(l.title+" "+l.summary+" "+l.outlets.map(o=>o.source).join(" ")).toLowerCase().includes(q))&&(!w||age(l)<=w));
 ls.sort((a,b)=>(b.published||"").localeCompare(a.published||""));
 const plain=!q&&!s&&!w&&!celeb&&!batch&&so==="new";
+if(batch==="__articles"){$("top").innerHTML="";$("list").innerHTML='<h2>All articles ('+D.articles.length+')</h2>'+(D.articles.map(a=>artRow(a,a.celebrity||a.title,a.batch)).join("")||'<div class="empty">No articles yet. Open a batch tab and ask Claude to write them.</div>');wireArt($("list"));return}
 $("top").innerHTML=plain&&ls.length?'<h2>★ Top stories</h2><div class="grid">'+ls.slice(0,3).map(l=>card(l,1)).join("")+'</div>':"";
 if(plain)ls=ls.slice(3);
+if(batch&&so==="new"){$("top").innerHTML=articlePanel(batch);wireArt($("top"))}
 if(!ls.length&&!plain){$("list").innerHTML='<div class="empty">No stories match.</div>';return}
 if(so==="new"){$("list").innerHTML='<h2>Latest ('+ls.length+')</h2><div class="grid">'+ls.map(l=>card(l)).join("")+'</div>';return}
 const key=l=>so==="cel"?((l.celebrities||[])[0]||"Other"):(l.source||"Other"),g={};
