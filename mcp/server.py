@@ -157,6 +157,24 @@ def read_draft(path):
     return read_file(path)[0]
 
 
+def read_repo_file(path):
+    return read_file(path)[0]
+
+
+def write_repo_file(path, content, message="MCP: edit " ):
+    try:
+        sha = read_file(path)[1]
+    except RuntimeError:
+        sha = None
+    write_file(path, content, message + path if message.endswith(" ") else message, sha)
+    return f"saved {path}"
+
+
+def list_repo_files(path=""):
+    r = gh(f"/contents/{path}".rstrip("/"))
+    return [i["path"] + ("/" if i["type"] == "dir" else "") for i in r] if isinstance(r, list) else [r["path"]]
+
+
 S = lambda **p: {"type": "object", "properties": p, "additionalProperties": False}  # noqa: E731
 STR, INT, BOOL = {"type": "string"}, {"type": "integer"}, {"type": "boolean"}
 TOOLS = {
@@ -175,6 +193,10 @@ TOOLS = {
     "list_drafts": (list_drafts, "List article drafts and their approval status.", S()),
     "read_draft": (read_draft, "Read one draft file.", S(path=STR)),
     "set_wp_status": (set_wp_status, "Set what WordPress shows: draft, pending (review), publish or private. Works on sent posts too.", S(path=STR, wp_status=STR)),
+    "list_repo_files": (list_repo_files, "List files in a repo folder (e.g. agents, docs, prompts).", S(path=STR)),
+    "read_repo_file": (read_repo_file, "Read any file in the repo, e.g. agents/build_dashboard.py.", S(path=STR)),
+    "write_repo_file": (write_repo_file, "Create or replace any file in the repo (commits to main). To change the dashboard edit agents/build_dashboard.py; the next run rebuilds the page.",
+                        {"type": "object", "properties": {"path": STR, "content": STR, "message": STR}, "required": ["path", "content"]}),
     "set_draft_status": (set_draft_status, "Approve or reject a draft (pending/approved/rejected).", S(path=STR, status=STR)),
 }
 

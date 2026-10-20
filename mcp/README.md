@@ -14,3 +14,13 @@ WordPress (moduscarry.com): create an Application Password (WP admin > Users > P
 `WP_URL`, `WP_USER`, `WP_APP_PASSWORD`. GitHub sends `approved` articles with their `wp_status`.
 
 Optional: `mcp/server.py` is a local server with friendlier tool names for the same actions (needs `GITHUB_TOKEN`).
+
+## Without connecting GitHub to Claude (token only)
+Use this when you do not want to link your GitHub account to a Claude account. The token is the only link.
+1. Create a fine-grained token (this repo only; Contents + Actions = Read and write). Never paste it into a chat.
+2. Add the local server to Claude Code on a computer or Codespace:
+   `claude mcp add github-repo -e GITHUB_TOKEN=YOUR_TOKEN -- python3 /path/to/Researcher-agents/mcp/server.py`
+   It talks to `api.github.com` only. Tools include `read_repo_file` / `write_repo_file`, so the account can change the dashboard
+   (`agents/build_dashboard.py`) and everything else.
+3. In Claude cloud sessions, `api.githubcopilot.com` is blocked by default. Either add it under the environment's Network access
+   (Allowed domains), or use this local server, which only needs `api.github.com`.
