@@ -78,5 +78,9 @@
   "auto_send": true,
   "wp_default_status": "pending",
   "article_batches_back": 2,
-  "max_articles_per_run": 8
+  "max_articles_per_run": 8,
+  "site": {
+    "name": "",
+    "url": ""
+  }
 }
