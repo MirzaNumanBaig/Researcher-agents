@@ -64,7 +64,6 @@ data = {
     "country": cfg["country"],
     "timezone": cfg.get("timezone", "UTC"),
     "interval_hours": cfg.get("interval_hours", 3),
-    "mcp_url": cfg.get("mcp_url", ""),
     "last_run": usage.get("last_run"),
     "profiles": cfg.get("profiles", {}),
     "runs_this_month": usage.get(datetime.now(timezone.utc).strftime("%Y-%m"), 0),
@@ -135,11 +134,11 @@ footer{color:var(--mut);font-size:12px;padding:30px 0}
 <div class="tabs" id="tabs"></div>
 <div id="top"></div><div id="list"></div>
 <section id="connect" class="panel" style="display:block">
-<h2 style="margin-top:0">Connect Claude (MCP) and WordPress</h2>
-<p><b>1. Claude, always online.</b> In claude.ai: Settings → Connectors → Add custom connector → paste this URL. Works with any Claude account.</p>
-<p><code id="mcpurl"></code> <button id="copy">Copy</button></p>
-<p class="also">Claude can then read stories, run/pause/change the schedule, add celebrities, save article drafts and approve them. Setup steps: <a href="https://github.com/MirzaNumanBaig/Researcher-agents/blob/main/mcp/README.md" target="_blank" rel="noopener"><u>mcp/README.md</u></a>. Keep the URL private: anyone with it can control the system.</p>
-<p><b>2. WordPress.</b> Approved articles are sent by GitHub to moduscarry.com using its REST API. Each article carries the status you want on the site: <b>draft</b>, <b>pending</b> (review) or <b>publish</b>; change it any time and GitHub updates the post. Add the secrets <code>WP_URL</code>, <code>WP_USER</code>, <code>WP_APP_PASSWORD</code> in the repo's Settings → Secrets and variables → Actions.</p>
+<h2 style="margin-top:0">Connect Claude and WordPress</h2>
+<p><b>1. Claude, any account.</b> Everything lives in this GitHub repo, so Claude only needs GitHub's own MCP server:</p>
+<p><code id="mcpurl">https://api.githubcopilot.com/mcp/</code> <button id="copy">Copy</button></p>
+<p class="also">Add it in claude.ai (Settings → Connectors → Add custom connector) or Claude Code, signing in with GitHub or a token for this repo only (Contents + Actions: read and write). Then tell Claude: <i>"Open MirzaNumanBaig/Researcher-agents and follow CLAUDE.md."</i> Switch accounts any time by adding the same connector. Details: <a href="https://github.com/MirzaNumanBaig/Researcher-agents/blob/main/mcp/README.md" target="_blank" rel="noopener"><u>mcp/README.md</u></a>.</p>
+<p><b>2. WordPress.</b> Approved articles are sent by GitHub to moduscarry.com. Each carries the status you want: <b>draft</b>, <b>pending</b> (review) or <b>publish</b>; change it any time and GitHub updates the post. Add the secrets <code>WP_URL</code>, <code>WP_USER</code>, <code>WP_APP_PASSWORD</code> in the repo's Settings → Secrets and variables → Actions.</p>
 </section>
 <footer>Headlines come from Google News and Australian entertainment feeds. Google News does not provide images or full summaries; open a story for the full article. Profile photos and links: Wikidata / Wikimedia Commons.</footer>
 </main>
@@ -196,8 +195,7 @@ $("pause").onclick=async()=>{try{await editCfg(c=>c.paused=!paused);paused=!paus
 $("add").onclick=async()=>{const n=(prompt("Celebrity name?")||"").trim();if(!n)return;try{await editCfg(c=>{if(!c.celebrities.includes(n))c.celebrities.push(n)});say(n+" added. A run starts now; refresh in 1-2 minutes.")}catch(e){say("Failed: "+e.message)}};
 $("usage").textContent="Runs this month: "+D.runs_this_month+" · GitHub Actions minutes: unlimited (public repo) · Claude plan usage: see claude.ai/settings/usage";
 $("sched").onclick=async()=>{const v=prompt("Run every how many hours? (1-24)",D.interval_hours);if(v===null)return;const n=parseInt(v,10);if(!(n>=1&&n<=24)){say("Enter a number from 1 to 24.");return}try{await editCfg(c=>{c.interval_hours=n;delete c.run_hours});D.interval_hours=n;tick();say("Saved. Runs every "+n+" hours, counted from the last run.")}catch(e){say("Failed: "+e.message)}};
-$("mcpurl").textContent=D.mcp_url||"Not set up yet. Follow mcp/README.md; once deployed, the URL appears here.";
-$("copy").onclick=()=>{if(D.mcp_url){navigator.clipboard.writeText(D.mcp_url);say("MCP URL copied.")}else say("No MCP URL yet.")};
+$("copy").onclick=()=>{navigator.clipboard.writeText($("mcpurl").textContent);say("MCP URL copied.")};
 chips();profiles();tabs();render();tick();
 </script></html>"""
 
