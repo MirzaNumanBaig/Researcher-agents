@@ -125,6 +125,12 @@ jobs:
           git config user.email "researcher-bot@users.noreply.github.com"
           git add articles
           git diff --cached --quiet || { git commit -m "Draft: ${{ matrix.item.celebrity }} (${{ matrix.item.batch }})" && git pull --rebase origin main && git push; }
+      - name: Fail if no writer produced the article
+        run: |
+          if [ ! -f "${{ matrix.item.article }}" ]; then
+            echo "::error::No article written. No writer secret is set (CLAUDE_CODE_OAUTH_TOKEN, _2, _3 or OPENAI_API_KEY) or every writer failed. See /setup.html"
+            exit 1
+          fi
 
   publish:
     needs: [plan, write]
