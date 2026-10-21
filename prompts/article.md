@@ -11,6 +11,10 @@ stories about them, each with the outlets and links that covered it).
 3. Read `data/wp_site.json` (the site's real categories, tags and recent posts) and `config.json` (country, profiles).
 4. Write the article, then save it to the exact article path you were given.
 
+## If the article file already exists with `status: rewrite`
+Someone asked for a new version from the dashboard. Read its `rewrite_note` (if any) and follow it, then replace the whole file with a
+fresh article in the format below (`status: pending`, no `rewrite_note`). Skipping is still allowed if the sources truly have no news.
+
 ## If there is nothing worth writing
 Write the file with front matter `status: skipped` and a one-line `skip_reason:`, and no body. Do not invent news.
 
