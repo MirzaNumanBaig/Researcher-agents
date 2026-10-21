@@ -58,14 +58,42 @@ def group(leads):
     return stories
 
 
+def unquote(v):
+    """Front matter values are written as JSON strings ("..." with escapes) or bare words."""
+    if v.startswith('"'):
+        try:
+            return str(json.loads(v))
+        except ValueError:
+            return v.strip('"')
+    return v
+
+
 def read_articles():
+    """Front matter of every article (no body: the dashboard loads a body only when you open its preview)."""
     out = []
     for f in sorted((ROOT / "articles").glob("*.md")):
-        front = f.read_text().split("---")[1] if f.read_text().startswith("---") else ""
-        get = lambda k: (re.search(rf"^{k}: ?(.*)$", front, re.M) or [None, ""])[1].strip().strip('"')  # noqa: E731
-        out.append({"path": f"articles/{f.name}", "title": get("title"), "status": get("status"), "wp_status": get("wp_status") or "draft",
-                    "batch": get("batch"), "celebrity": get("celebrity"), "wp_link": get("wp_link")})
+        text = f.read_text()
+        front = text.split("---")[1] if text.startswith("---") else ""
+        get = lambda k: unquote((re.search(rf"^{k}: ?(.*)$", front, re.M) or [None, ""])[1].strip())  # noqa: E731
+        wp_id = get("wp_id")
+        out.append({"path": f"articles/{f.name}", "title": get("title"), "description": get("description"),
+                    "status": get("status"), "wp_status": get("wp_status") or "draft", "wp_synced": get("wp_synced"),
+                    "batch": get("batch"), "celebrity": get("celebrity"), "wp_link": get("wp_link"),
+                    "wp_id": int(wp_id) if wp_id.isdigit() else None, "skip_reason": get("skip_reason"),
+                    "rewrite_note": get("rewrite_note")})
+    out.sort(key=lambda a: a["batch"] or "", reverse=True)
     return out
+
+
+def writers():
+    """Which writer secrets exist. Only workflows that pass HAS_CLAUDE1.. know; other runs reuse the last answer."""
+    f = ROOT / "data" / "writers.json"
+    keys = {"claude1": "HAS_CLAUDE1", "claude2": "HAS_CLAUDE2", "claude3": "HAS_CLAUDE3", "codex": "HAS_CODEX"}
+    if all(os.environ.get(v) in ("true", "false") for v in keys.values()):
+        w = {k: os.environ[v] == "true" for k, v in keys.items()}
+        f.write_text(json.dumps(w, indent=2) + "\n")
+        return w
+    return json.loads(f.read_text()) if f.exists() else None
 
 
 usage_file = ROOT / "data" / "usage.json"
@@ -84,6 +112,7 @@ data = {
     "runs_this_month": usage.get(datetime.now(timezone.utc).strftime("%Y-%m"), 0),
     "lead_count": len(leads),
     "articles": read_articles(),
+    "writers": writers(),
     "celebrities": cfg["celebrities"],
     "paused": bool(cfg.get("paused")),
     "updated": datetime.now(timezone.utc).isoformat(),
@@ -97,6 +126,14 @@ title = (site_name + " · " if site_name else "") + cfg["country"] + " Celebrity
 page = (TEMPLATE.replace("__TITLE__", title).replace("__REPO__", data["repo"])
         .replace("__DATA__", json.dumps(data, ensure_ascii=False).replace("</", "<\\/")))
 (ROOT / "data" / "stories.json").write_text(json.dumps(stories, indent=2, ensure_ascii=False))  # read by the MCP server
+# Read live by the dashboard (GitHub API), so it shows new articles and WordPress status without waiting for Pages.
+(ROOT / "data" / "articles.json").write_text(json.dumps(data["articles"], indent=2, ensure_ascii=False) + "\n")
 (ROOT / "docs").mkdir(exist_ok=True)
-(ROOT / "docs" / "index.html").write_text(page)
-print("dashboard built")
+out = ROOT / "docs" / "index.html"
+# Skip the write when only the "updated" time changed, so hourly no-op runs do not make a commit.
+STAMP = re.compile(r'"updated": "[^"]*"')
+if out.exists() and STAMP.sub("", out.read_text()) == STAMP.sub("", page):
+    print("dashboard unchanged")
+else:
+    out.write_text(page)
+    print("dashboard built")
