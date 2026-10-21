@@ -3,7 +3,7 @@
 Lets any Claude account read the news data and control the GitHub-hosted system. All state lives in the
 GitHub repo; this server only calls the GitHub REST API, so nothing else needs hosting.
 
-Env: GITHUB_TOKEN (fine-grained, this repo only: Contents + Actions read/write), GITHUB_REPO (optional).
+Env: GITHUB_TOKEN or GH_TOKEN (fine-grained, this repo only: Contents + Actions read/write), GITHUB_REPO (optional).
 """
 import base64
 import json
@@ -15,7 +15,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 REPO = os.environ.get("GITHUB_REPO", "MirzaNumanBaig/Researcher-agents")
-TOKEN = os.environ.get("GITHUB_TOKEN", "")
+TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN", "")  # GH_TOKEN = the Claude cloud environment variable
 API = f"https://api.github.com/repos/{REPO}"
 
 
