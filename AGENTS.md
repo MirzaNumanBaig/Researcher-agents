@@ -4,6 +4,8 @@ Everything lives in this repo, so any AI account or tool (Claude, ChatGPT/Codex,
 
 - `config.json`: celebrities, country, `interval_hours`, `paused`, per-celebrity `profiles` (photo + social links).
 - `agents/collect_news.py`: Google News + Australian feeds -> `data/leads.json` (each new lead gets a `batch` = the run's hour).
+  Quality filters in `config.json`: `headline_must_name` (the headline must name the celebrity), `exclude_sources` (outlets to drop), `max_age_hours` (new stories older than this are ignored, default 48). Direct publisher feeds in `general_feeds` need no Google redirect.
+- `agents/fetch_sources.py`: downloads the pages behind a brief; writes `Readable sources: n of m` at the top of `work/.../sources.md` and a loud warning when nothing is readable (the writer then skips instead of guessing).
 - `agents/gate.py`: hourly workflow wake-up; collects only when `interval_hours` passed since `data/usage.json:last_run`.
 - `agents/build_dashboard.py`: groups duplicate headlines into stories, renders `agents/dashboard_template.html` into `docs/index.html` (GitHub Pages, noindex).
 - `agents/fetch_profiles.py`: fills empty profile fields from Wikidata/Commons (never overwrites hand edits).
