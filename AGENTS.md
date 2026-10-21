@@ -14,8 +14,15 @@ Everything lives in this repo, so any AI account or tool (Claude, ChatGPT/Codex,
 To change the dashboard: edit `agents/dashboard_template.html` (layout, styles, Setup window) or `agents/build_dashboard.py` (data), run the builder, commit, push to `main`.
 Never commit secrets. WordPress/GitHub tokens belong in GitHub Actions secrets.
 - `mcp/server.py`: stdio MCP server (stdlib only) so any Claude account can read stories and control the system via the GitHub API. Setup: `mcp/README.md`.
-- `articles/`: drafts written by Claude (`status: pending|approved|rejected` in the front matter). Only approved drafts are ever published.
+- `articles/`: drafts written by Claude (`status: pending|approved|rejected|sent|skipped|rewrite|removed` in the front matter). Only approved drafts are ever sent.
+  `status: rewrite` (+ optional `rewrite_note`) is set by the dashboard's Rewrite button; `pending_briefs.py` queues it again from any batch.
+  `status: removed` means the post was trashed or deleted in WordPress.
 - `agents/publish_wordpress.py` + `.github/workflows/publish-wordpress.yml`: sends `status: approved` drafts to WordPress with their `wp_status` (draft/pending/publish).
+  Each run first syncs the newest 60 sent posts back from WordPress (published/unpublished/trashed there -> the article follows).
+  Both sending jobs share the `wordpress` concurrency group so a post is never created twice. After sending, `scripts/push_dashboard.sh`
+  rebuilds the dashboard and `data/articles.json` (the dashboard reads that file live through the GitHub API when a token is saved).
+- Dashboard: with a GitHub token saved (Setup -> Schedule & access) it shows live run status (Collect / Write / Send), article cards with
+  Preview, Edit in WordPress, Publish now, Approve/Reject and Rewrite. Without a token it shows the last built snapshot.
 
 ## How to operate this system (for any Claude account with GitHub access)
 - Settings: edit `config.json` (`celebrities`, `interval_hours` 1-24, `paused` true/false, `profiles`). A change to it triggers a refresh.
