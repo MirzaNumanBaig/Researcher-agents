@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth stars in Archie Rose whisky campaign"
 description: "Chris Hemsworth, now co-owner of Archie Rose, stars in a tongue-in-cheek film backing the Sydney distiller's US launch and global expansion."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-22 09:00"
 celebrity: "Chris Hemsworth"
@@ -9,6 +9,9 @@ categories: ["Celebrities", "Videos"]
 tags: ["Chris Hemsworth", "Luke Hemsworth", "Archie Rose"]
 sources:
   - "https://www.marketing-interactive.com/chris-hemsworth-gives-archie-rose-global-push-some-star-power"
+wp_id: 819
+wp_link: "https://moduscarry.com/?p=819"
+wp_synced: draft
 ---
 
 Chris Hemsworth has produced and starred in a humorous new campaign for Archie Rose, the Australian distiller he now co-owns, as the brand prepares to enter the United States. The film launched on 21 October, according to [Marketing-Interactive](https://www.marketing-interactive.com/chris-hemsworth-gives-archie-rose-global-push-some-star-power).
