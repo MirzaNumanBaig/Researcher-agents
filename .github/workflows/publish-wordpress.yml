@@ -6,10 +6,15 @@ on:
     paths: [articles/**]
 permissions:
   contents: write
-concurrency: publish-wordpress
+concurrency: {group: wordpress, cancel-in-progress: false}  # shared with the publish job in write-articles.yml
 jobs:
   publish:
     runs-on: ubuntu-latest
+    env:
+      HAS_CLAUDE1: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+      HAS_CLAUDE2: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 != '' }}
+      HAS_CLAUDE3: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_3 != '' }}
+      HAS_CODEX: ${{ secrets.OPENAI_API_KEY != '' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -26,3 +31,6 @@ jobs:
           git config user.email "researcher-bot@users.noreply.github.com"
           git add articles
           git diff --cached --quiet || { git commit -m "Update article WordPress status" && git pull --rebase origin main && git push; }
+      - name: Refresh the dashboard
+        if: always()
+        run: bash scripts/push_dashboard.sh
