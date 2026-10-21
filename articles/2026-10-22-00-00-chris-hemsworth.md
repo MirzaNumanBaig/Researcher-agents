@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth fronts Archie Rose whisky push and trains in Thailand"
 description: "Chris Hemsworth, new co-owner of Archie Rose, stars in a whisky parody ad with brother Luke while filming Extraction 3 in Thailand."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-22 00:00"
 celebrity: "Chris Hemsworth"
@@ -11,6 +11,9 @@ sources:
   - "https://shots.net/news/view/justin-mcmillan-directs-hemsworth-brothers-in-archie-rose-whisky-parody"
   - "https://www.transformmagazine.net/articles/2026/chris-hemsworth-and-thirst-co-create-identities-for-three-archie-rose-whiskies/"
   - "https://www.onefc.com/news/a-great-session-ben-woolliss-feels-the-thunder-as-thor-star-chris-hemsworth-hits-the-pads-in-thailand/"
+wp_id: 813
+wp_link: "https://moduscarry.com/?p=813"
+wp_synced: draft
 ---
 
 Chris Hemsworth is putting his name and face behind Australian whisky, with a new global campaign and a redesigned range for Archie Rose Distilling Co., the independent distillery he now co-owns. The trade press covered the launch on 21 October, while the actor was also reported to be training with a kickboxer in Thailand during filming.
