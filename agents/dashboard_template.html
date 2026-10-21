@@ -87,6 +87,27 @@ h2.sec{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.0
 .arow select{padding:5px 8px;border-radius:8px;border:1px solid var(--line);background:var(--surface);font-size:13px}
 .chip2{font-size:12px;font-weight:600;border-radius:99px;padding:3px 10px;background:var(--soft)}
 .chip2.ok{background:var(--ok);color:#fff}.chip2.no{background:var(--bad);color:#fff}
+/* pipeline health */
+.health{display:flex;flex-wrap:wrap;gap:8px;padding-block:6px 2px}
+.hc{display:flex;align-items:center;gap:8px;padding:6px 12px;border-radius:10px;border:1px solid var(--line);background:var(--surface);font-size:13px;min-width:0}
+.hc b{font-weight:650}.hc .muted{white-space:nowrap}
+.hc i{flex:none;width:9px;height:9px;border-radius:50%;background:var(--mut)}
+.hc.ok i{background:var(--ok)}.hc.bad{border-color:var(--bad)}.hc.bad i{background:var(--bad)}
+.hc.run i{background:var(--acc);animation:pulse 1.2s infinite}
+@keyframes pulse{50%{opacity:.3}}
+.hc.warn{border-color:var(--acc);background:var(--accbg)}
+/* article cards */
+.acard{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:8px}
+.acard .hd{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
+.acard h3{font-size:15.5px;line-height:1.35;margin:0;font-weight:650;flex:1 1 260px;min-width:0}
+.acard .ds{margin:4px 0 0;color:var(--mut);font-size:13.5px}
+.acard .why{margin:4px 0 0;font-size:13px}
+.acard .ops{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:10px}
+.acard .ops select{padding:5px 8px;border-radius:8px;border:1px solid var(--line);background:var(--surface);font-size:13px}
+.chip2.warn{background:var(--accbg);color:var(--ink);border:1px solid var(--acc)}
+.pv{margin-top:10px;border-top:1px solid var(--line);padding-top:10px;font-size:14.5px;max-width:72ch}
+.pv h2{font-size:16px;margin:16px 0 6px;text-transform:none;letter-spacing:0;color:var(--ink)}.pv h3,.pv h4{font-size:15px;margin:12px 0 4px}
+.pv p{margin:0 0 10px}.pv a{text-decoration:underline}.pv ul{margin:0 0 10px;padding-left:20px}
 footer{color:var(--mut);font-size:12px;padding-block:28px 40px;max-width:70ch}
 
 /* setup window */
@@ -128,6 +149,7 @@ details>div{padding:0 14px 12px}
 </div></header>
 <main class="wrap">
 <section class="strip"><span class="pill" id="state"></span><span class="muted" id="timer"></span><button class="btn sm" id="pause"></button><div class="stats" id="stats"></div><div id="msg" role="status"></div></section>
+<section class="health" id="health" aria-label="Pipeline status"></section>
 <div class="people" id="people"></div>
 <div id="profile"></div>
 <div class="toolbar">
@@ -220,6 +242,20 @@ const ago=d=>{const m=Math.round((Date.now()-new Date(d))/6e4);if(m<1)return"jus
 const age=l=>l.published?(Date.now()-new Date(l.published))/36e5:1e9;
 const slug=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
 const say=t=>{$("msg").textContent=t};
+/* Links come from news feeds and WordPress: only http(s) may become a link, so a bad feed item cannot run code here. */
+const safeUrl=u=>/^https?:\/\//i.test(String(u||"").trim())?String(u).trim():"#";
+const safeImg=u=>/^(img\/[\w.-]+|https:\/\/[^\s"'()]+)$/i.test(String(u||""))?u:"";
+const b64dec=c=>decodeURIComponent(escape(atob(c.replace(/\n/g,"")))),b64enc=t=>btoa(unescape(encodeURIComponent(t)));
+/* small markdown renderer for article previews (same subset the WordPress sender supports) */
+function inl(t){return esc(t).replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,(m,a,u)=>{const v=safeUrl(u.replace(/&amp;/g,"&"));return v==="#"?a:'<a href="'+esc(v)+'" target="_blank" rel="noopener">'+a+'</a>'})
+.replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").replace(/(^|[^*])\*([^*\s][^*]*)\*/g,"$1<em>$2</em>")}
+function md(src){const out=[];let para=[],list=[];
+const flush=()=>{if(para.length)out.push("<p>"+inl(para.join(" "))+"</p>");if(list.length)out.push("<ul>"+list.map(i=>"<li>"+inl(i)+"</li>").join("")+"</ul>");para=[];list=[]};
+src.split("\n").forEach(l=>{const h=l.match(/^(#{1,4})\s+(.*)/);
+if(h){flush();const n=Math.max(2,h[1].length);out.push("<h"+n+">"+inl(h[2])+"</h"+n+">")}
+else if(/^\s*[-*]\s+/.test(l)){if(para.length)flush();list.push(l.replace(/^\s*[-*]\s+/,""))}
+else if(!l.trim())flush();else{if(list.length)flush();para.push(l.trim())}});
+flush();return out.join("")}
 
 /* header + labels */
 function brand(){const n=(D.site.name||"").trim();
@@ -237,34 +273,66 @@ const batches=[...new Set(D.leads.map(l=>l.batch))].sort().reverse();
 $("batch").add(new Option("All runs",""));
 batches.forEach(b=>$("batch").add(new Option(b==="Earlier"?"Earlier":b+" ("+D.leads.filter(l=>l.batch===b).length+")",b)));
 const cnt=n=>D.leads.filter(l=>(l.celebrities||[]).includes(n)).length;
-function av(n,cls){const p=D.profiles[n]||{};return'<span class="av '+(cls||"")+'" style="background-color:'+col(n)+(p.photo?';background-image:url('+esc(p.photo)+')':'')+'">'+(p.photo?'':esc(ini(n)))+'</span>'}
+function av(n,cls){const p=D.profiles[n]||{},ph=safeImg(p.photo);return'<span class="av '+(cls||"")+'" style="background-color:'+col(n)+(ph?';background-image:url('+esc(ph)+')':'')+'">'+(ph?'':esc(ini(n)))+'</span>'}
 function people(){$("people").innerHTML='<button class="who all'+(celeb===""?' on':'')+'" data-v="">All</button>'+D.celebrities.map(n=>'<button class="who'+(n===celeb?' on':'')+'" data-v="'+esc(n)+'">'+av(n)+esc(n)+' <span class="n">'+cnt(n)+'</span></button>').join("");
 document.querySelectorAll(".who").forEach(b=>b.onclick=()=>{celeb=celeb===b.dataset.v?"":b.dataset.v;people();render()})}
 const ICONS={instagram:"instagram",tiktok:"tiktok",x:"x",facebook:"facebook",youtube:"youtube",website:"googlechrome"};
 function profile(){const n=celeb;if(!n||view!=="stories"){$("profile").innerHTML="";return}const p=D.profiles[n]||{};
-$("profile").innerHTML='<div class="profile">'+av(n,"lg")+'<div style="min-width:0"><h2>'+esc(n)+'</h2><div class="muted small">'+cnt(n)+' stories tracked</div><div class="icos">'+Object.keys(ICONS).map(k=>p[k]?'<a class="ico" href="'+esc(p[k])+'" target="_blank" rel="noopener" title="'+k+'"><img alt="'+k+'" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></a>':'<span class="ico off" title="'+k+': not added yet"><img alt="" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></span>').join("")+'</div></div></div>'}
-function stats(){const pend=D.articles.filter(a=>a.status==="pending").length,sent=D.articles.filter(a=>a.status==="sent").length;
-$("stats").innerHTML=[[D.leads.filter(l=>age(l)<=3).length,"new in 3h"],[D.leads.length,"stories"],[pend,"to approve"],[sent,"sent"]].map(([n,t])=>'<div class="stat"><b>'+n+'</b>'+t+'</div>').join("")}
+$("profile").innerHTML='<div class="profile">'+av(n,"lg")+'<div style="min-width:0"><h2>'+esc(n)+'</h2><div class="muted small">'+cnt(n)+' stories tracked</div><div class="icos">'+Object.keys(ICONS).map(k=>p[k]&&safeUrl(p[k])!=="#"?'<a class="ico" href="'+esc(safeUrl(p[k]))+'" target="_blank" rel="noopener" title="'+k+'"><img alt="'+k+'" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></a>':'<span class="ico off" title="'+k+': not added yet"><img alt="" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></span>').join("")+'</div></div></div>'}
+function stats(){const A=D.articles,pend=A.filter(a=>a.status==="pending").length,drafts=A.filter(a=>a.status==="approved"||(a.status==="sent"&&a.wp_status!=="publish")).length,pub=A.filter(a=>a.status==="sent"&&a.wp_status==="publish").length;
+$("v-articles").textContent="Articles ("+A.length+")";
+$("stats").innerHTML=[[D.leads.filter(l=>age(l)<=3).length,"new in 3h"],[D.leads.length,"stories"],[pend,"to approve"],[drafts,"drafts on site"],[pub,"published"]].map(([n,t])=>'<div class="stat"><b>'+n+'</b>'+t+'</div>').join("")}
 
 /* articles */
 const BLOB="https://github.com/"+REPO+"/blob/main/";
-async function editArticle(path,fn){const f=await gh("/contents/"+path);let t=decodeURIComponent(escape(atob(f.content.replace(/\n/g,""))));t=fn(t);
-await gh("/contents/"+path,{method:"PUT",body:JSON.stringify({message:"Dashboard: update "+path,sha:f.sha,content:btoa(unescape(encodeURIComponent(t)))})})}
-const setKey=(k,v)=>t=>t.replace(new RegExp("^"+k+": .*$","m"),k+": "+v);
+const SITE=()=>String(D.site.url||"").trim().replace(/\/+$/,"");
+const art=p=>D.articles.find(a=>a.path===p);
+async function editArticle(path,...fns){const f=await gh("/contents/"+path);let t=b64dec(f.content);fns.forEach(fn=>t=fn(t));
+await gh("/contents/"+path,{method:"PUT",body:JSON.stringify({message:"Dashboard: update "+path,sha:f.sha,content:b64enc(t)})})}
+/* change one front matter key (added when missing) or remove it */
+function setKey(k,v){return t=>{const m=t.match(/^---\n([\s\S]*?)\n---/);if(!m)return t;const re=new RegExp("^"+k+":.*$","m"),line=k+": "+v;
+const f=re.test(m[1])?m[1].replace(re,()=>line):m[1]+"\n"+line;return"---\n"+f+"\n---"+t.slice(m[0].length)}}
+function delKey(k){return t=>{const m=t.match(/^---\n([\s\S]*?)\n---/);if(!m)return t;return"---\n"+m[1].replace(new RegExp("^"+k+":.*(\\n|$)","m"),"").replace(/\n$/,"")+"\n---"+t.slice(m[0].length)}}
+/* remember what the server had, so a live refresh does not undo a change GitHub has not processed yet */
+function optimistic(a,changes){a._before=a._before||JSON.stringify([a.status,a.wp_status,a.wp_synced]);a._t=Date.now();Object.assign(a,changes);refreshArticles()}
 function statusChip(a){if(!a)return'<span class="chip2">Not written yet</span>';
-const m={pending:["Awaiting approval",""],approved:["Approved, sending","ok"],sent:["Sent ("+a.wp_status+")","ok"],rejected:["Rejected","no"],skipped:["Skipped",""]}[a.status]||[a.status,""];
+const site=a.wp_synced&&a.wp_status!==a.wp_synced?["Changing to "+(a.wp_status==="publish"?"published":a.wp_status)+"…","warn"]:a.wp_status==="publish"?["Published","ok"]:a.wp_status==="pending"?["On site: pending review","warn"]:["On site: draft","warn"];
+const m={pending:["Awaiting approval","warn"],approved:["Approved, sending…","ok"],sent:site,rejected:["Rejected","no"],skipped:["Skipped",""],rewrite:["Rewrite queued…","warn"],removed:["Removed from WordPress","no"]}[a.status]||[a.status||"Unknown",""];
 return'<span class="chip2 '+m[1]+'">'+esc(m[0])+'</span>'}
-const wpSel=a=>'<select data-wp="'+esc(a.path)+'" aria-label="Website status">'+["draft","pending","publish"].map(x=>'<option value="'+x+'"'+(x===a.wp_status?" selected":"")+'>'+(x==="pending"?"Review":x[0].toUpperCase()+x.slice(1))+'</option>').join("")+'</select>';
-function artRow(a,c,b,n){const p="Open "+REPO+" and follow CLAUDE.md. Write the article for "+c+" from batch "+b+" (briefs/"+slug(b)+"/"+slug(c)+".json) and save it as a pending draft.";
-let h='<div class="arow"><span class="nm">'+esc(c)+(n!=null?' <span class="muted small">· '+n+' stories</span>':'')+(b&&n==null?' <span class="muted small">· '+esc(b)+'</span>':'')+'</span>'+statusChip(a)+'<span class="sp"></span>';
-if(!a)h+='<button class="btn sm" data-prompt="'+esc(p)+'">Copy Claude prompt</button>';
-else{h+='<a class="btn sm" href="'+BLOB+esc(a.path)+'" target="_blank" rel="noopener">Read</a>';
-if(a.status==="pending")h+=wpSel(a)+'<button class="btn sm" data-act="approved" data-path="'+esc(a.path)+'">Approve</button><button class="btn sm" data-act="rejected" data-path="'+esc(a.path)+'">Reject</button>';
-if(a.status==="sent"){h+=wpSel(a);if(a.wp_link)h+='<a class="btn sm" href="'+esc(a.wp_link)+'" target="_blank" rel="noopener">View post</a>'}}
-return h+'</div>'}
+const wpSel=a=>'<select data-wp="'+esc(a.path)+'" aria-label="Website status">'+["draft","pending","publish"].map(x=>'<option value="'+x+'"'+(x===a.wp_status?" selected":"")+'>'+(x==="pending"?"Pending review":x==="publish"?"Published":"Draft")+'</option>').join("")+'</select>';
+function artCard(a){const c=a.celebrity||"";
+let h='<div class="acard"><div class="hd"><h3>'+esc(a.title&&a.title!==c?a.title:c+(a.status==="skipped"?" (no article)":""))+'</h3>'+statusChip(a)+'</div>';
+h+='<div class="meta">'+(c?'<span class="nm">'+esc(c)+'</span>':'')+(a.batch?'<span>Run '+esc(a.batch)+'</span>':'')+(a.wp_id?'<span>Post #'+esc(a.wp_id)+'</span>':'')+'</div>';
+if(a.description&&a.status!=="skipped")h+='<p class="ds">'+esc(a.description)+'</p>';
+if(a.skip_reason&&a.status==="skipped")h+='<p class="why"><b>Why skipped:</b> '+esc(a.skip_reason)+'</p>';
+if(a.rewrite_note&&a.status==="rewrite")h+='<p class="why"><b>Your note:</b> '+esc(a.rewrite_note)+'</p>';
+h+='<div class="ops">';
+if(!["skipped","rewrite"].includes(a.status))h+='<button class="btn sm" data-pv="'+esc(a.path)+'">Preview</button>';
+if(a.wp_id&&SITE())h+='<a class="btn sm" href="'+esc(SITE()+"/wp-admin/post.php?post="+encodeURIComponent(a.wp_id)+"&action=edit")+'" target="_blank" rel="noopener">Edit in WordPress ↗</a>';
+if(a.wp_link&&a.status==="sent"&&safeUrl(a.wp_link)!=="#")h+='<a class="btn sm" href="'+esc(safeUrl(a.wp_link))+'" target="_blank" rel="noopener">'+(a.wp_status==="publish"?"View post":"View on site")+' ↗</a>';
+if(a.status==="sent"&&a.wp_status!=="publish")h+='<button class="btn sm pri" data-pub="'+esc(a.path)+'">Publish now</button>';
+if(a.status==="sent")h+=wpSel(a);
+if(a.status==="pending")h+=wpSel(a)+'<button class="btn sm pri" data-act="approved" data-path="'+esc(a.path)+'">Approve</button><button class="btn sm" data-act="rejected" data-path="'+esc(a.path)+'">Reject</button>';
+if(!a.wp_id&&["skipped","rejected","pending"].includes(a.status))h+='<button class="btn sm" data-rw="'+esc(a.path)+'">Rewrite</button>';
+return h+'<a class="btn sm" href="'+BLOB+esc(a.path)+'" target="_blank" rel="noopener">File ↗</a></div><div class="pv" hidden></div></div>'}
+function artRow(a,c,b,n){if(a)return artCard(a);
+const p="Open "+REPO+" and follow CLAUDE.md. Write the article for "+c+" from batch "+b+" (briefs/"+slug(b)+"/"+slug(c)+".json) and save it as a pending draft.";
+return'<div class="arow"><span class="nm">'+esc(c)+(n!=null?' <span class="muted small">· '+n+' stories</span>':'')+'</span>'+statusChip(null)+'<span class="sp"></span><button class="btn sm" data-prompt="'+esc(p)+'">Copy Claude prompt</button></div>'}
+async function fileText(path){if(store.get("gh_token"))return gh("/contents/"+path,{raw:true});
+const r=await fetch("https://raw.githubusercontent.com/"+REPO+"/main/"+path);if(!r.ok)throw Error(r.status+" (add a GitHub token in Setup if the repo is private)");return r.text()}
 function wireArt(root){root.querySelectorAll("[data-prompt]").forEach(b=>b.onclick=()=>copy(b.dataset.prompt,"Prompt copied. Paste it into Claude."));
-root.querySelectorAll("[data-act]").forEach(b=>b.onclick=async()=>{try{await editArticle(b.dataset.path,setKey("status",b.dataset.act));say(b.dataset.act==="approved"?"Approved. GitHub sends it to the website in about a minute. Refresh later.":"Rejected.")}catch(e){say("Failed: "+e.message)}});
-root.querySelectorAll("[data-wp]").forEach(s=>s.onchange=async()=>{try{await editArticle(s.dataset.wp,setKey("wp_status",s.value));say("Website status set to "+s.value+". It applies once the article is approved.")}catch(e){say("Failed: "+e.message)}})}
+root.querySelectorAll("[data-act]").forEach(b=>b.onclick=async()=>{const a=art(b.dataset.path),v=b.dataset.act;b.disabled=true;
+try{await editArticle(a.path,setKey("status",v));optimistic(a,{status:v});say(v==="approved"?"Approved. GitHub sends it to WordPress in about a minute.":"Rejected.");if(v==="approved")watch()}catch(e){b.disabled=false;say("Failed: "+e.message)}});
+root.querySelectorAll("[data-wp]").forEach(s=>s.onchange=async()=>{const a=art(s.dataset.wp),v=s.value;s.disabled=true;
+try{await editArticle(a.path,setKey("wp_status",v));optimistic(a,{wp_status:v});say(a.status==="sent"?"Saved. GitHub changes the post to "+v+" in about a minute.":"Saved. It applies when you approve.");if(a.status==="sent")watch()}catch(e){s.disabled=false;say("Failed: "+e.message)}});
+root.querySelectorAll("[data-pub]").forEach(b=>b.onclick=async()=>{const a=art(b.dataset.pub);if(!confirm("Publish “"+(a.title||a.celebrity)+"” on the website now?"))return;b.disabled=true;
+try{await editArticle(a.path,setKey("wp_status","publish"));optimistic(a,{wp_status:"publish"});say("Publishing. GitHub updates WordPress in about a minute.");watch()}catch(e){b.disabled=false;say("Failed: "+e.message)}});
+root.querySelectorAll("[data-rw]").forEach(b=>b.onclick=async()=>{const a=art(b.dataset.rw);const note=prompt("Rewrite this article. What should change? (optional, e.g. “focus on the Vogue cover”)","");if(note===null)return;b.disabled=true;
+try{await editArticle(a.path,setKey("status","rewrite"),note.trim()?setKey("rewrite_note",JSON.stringify(note.trim())):delKey("rewrite_note"));
+optimistic(a,{status:"rewrite",rewrite_note:note.trim()});await dispatch("write-articles.yml");say("Rewrite started. The new version arrives in 2 to 5 minutes.");watch()}catch(e){b.disabled=false;say("Failed: "+e.message)}});
+root.querySelectorAll("[data-pv]").forEach(b=>b.onclick=async()=>{const box=b.closest(".acard").querySelector(".pv");if(!box.hidden){box.hidden=true;b.textContent="Preview";return}
+box.hidden=false;b.textContent="Hide preview";if(box.dataset.done)return;box.textContent="Loading…";
+try{const t=await fileText(b.dataset.pv);box.innerHTML=md(t.replace(/^---\n[\s\S]*?\n---\n*/,""))||"<p class='muted'>This article has no text.</p>";box.dataset.done=1}catch(e){box.textContent="Could not load: "+e.message}})}
 function articlePanel(b){const per={};D.leads.filter(l=>l.batch===b).forEach(l=>l.celebrities.forEach(c=>per[c]=(per[c]||0)+1));
 const rows=D.celebrities.filter(c=>per[c]).map(c=>artRow(D.articles.find(a=>a.batch===b&&a.celebrity===c),c,b,per[c])).join("");
 return'<h2 class="sec">Articles for this run</h2>'+(rows||'<div class="empty">No stories for tracked celebrities in this run.</div>')}
@@ -273,17 +341,18 @@ return'<h2 class="sec">Articles for this run</h2>'+(rows||'<div class="empty">No
 function meta(l){const n=(l.celebrities||[]).join(", "),o=l.outlets.length>1?" +"+(l.outlets.length-1)+" more":"";
 return'<div class="meta">'+(n?'<span class="nm">'+esc(n)+'</span>':'')+'<span>'+esc(l.source)+esc(o)+'</span><span>'+(l.published?ago(l.published):"")+'</span>'+(age(l)<=3?'<span class="badge">NEW</span>':'')+'</div>'}
 const avl=l=>{const n=(l.celebrities||[])[0]||"";return n?av(n):'<span class="av" style="background:var(--mut)">?</span>'};
-const topCard=l=>'<a class="top" href="'+esc(l.url)+'" target="_blank" rel="noopener">'+meta(l)+'<h3>'+esc(l.title)+'</h3>'+(l.summary?'<p>'+esc(l.summary.slice(0,180))+'</p>':'')+'</a>';
-const rowCard=l=>'<a class="story" href="'+esc(l.url)+'" target="_blank" rel="noopener">'+avl(l)+'<div class="sb"><h3>'+esc(l.title)+'</h3>'+meta(l)+'</div></a>';
+const topCard=l=>'<a class="top" href="'+esc(safeUrl(l.url))+'" target="_blank" rel="noopener">'+meta(l)+'<h3>'+esc(l.title)+'</h3>'+(l.summary?'<p>'+esc(l.summary.slice(0,180))+'</p>':'')+'</a>';
+const rowCard=l=>'<a class="story" href="'+esc(safeUrl(l.url))+'" target="_blank" rel="noopener">'+avl(l)+'<div class="sb"><h3>'+esc(l.title)+'</h3>'+meta(l)+'</div></a>';
 const feed=ls=>'<div class="feed">'+ls.map(rowCard).join("")+'</div>';
 function render(){
 $("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");
 ["q","batch","src","when","sort"].forEach(i=>$(i).hidden=view!=="stories");
 profile();
 if(view==="articles"){$("top").innerHTML="";
-const g=[["Awaiting approval",a=>a.status==="pending"],["Sent or approved",a=>a.status==="sent"||a.status==="approved"],["Other",a=>!["pending","sent","approved"].includes(a.status)]];
+const isDraft=a=>a.status==="approved"||(a.status==="sent"&&a.wp_status!=="publish"),isPub=a=>a.status==="sent"&&a.wp_status==="publish";
+const g=[["Waiting for your approval",a=>a.status==="pending"],["Drafts on the website",isDraft],["Published",isPub],["Being rewritten",a=>a.status==="rewrite"],["Skipped, rejected or removed",a=>!["pending","rewrite"].includes(a.status)&&!isDraft(a)&&!isPub(a)]];
 const list=D.articles.filter(a=>!celeb||a.celebrity===celeb);
-$("list").innerHTML=list.length?g.map(([t,f])=>{const r=list.filter(f);return r.length?'<h2 class="sec">'+t+' <span class="count">'+r.length+'</span></h2>'+r.map(a=>artRow(a,a.celebrity||a.title,a.batch)).join(""):""}).join(""):'<div class="empty">No articles yet. Choose a run, then ask Claude to write them.</div>';
+$("list").innerHTML=list.length?g.map(([t,f])=>{const r=list.filter(f);return r.length?'<h2 class="sec">'+t+' <span class="count">'+r.length+'</span></h2>'+r.map(artCard).join(""):""}).join(""):'<div class="empty">No articles yet. Run now collects news and writes them automatically.</div>';
 wireArt($("list"));return}
 const q=$("q").value.toLowerCase(),s=$("src").value,w=+$("when").value,so=$("sort").value;
 let ls=D.leads.filter(l=>(!celeb||(l.celebrities||[]).includes(celeb))&&(!s||l.outlets.some(o=>o.source===s))&&(!batch||l.batch===batch)&&(!q||(l.title+" "+l.summary+" "+l.outlets.map(o=>o.source).join(" ")).toLowerCase().includes(q))&&(!w||age(l)<=w));
@@ -300,7 +369,6 @@ $("list").innerHTML=Object.keys(g).sort().map(k=>'<h2 class="sec">'+esc(k)+' <sp
 ["q","src","when","sort"].forEach(i=>$(i).oninput=render);
 $("batch").onchange=()=>{batch=$("batch").value;render()};
 $("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};
-$("v-articles").textContent="Articles ("+D.articles.length+")";
 
 /* status */
 function nextRun(){if(!D.last_run)return null;return new Date(new Date(D.last_run).getTime()+D.interval_hours*36e5)}
@@ -316,23 +384,57 @@ $("usage").textContent="Runs this month: "+D.runs_this_month+". GitHub Actions m
 
 /* GitHub access */
 function token(){const t=store.get("gh_token");if(!t){openSetup("prefs");throw Error("Add your GitHub token under Schedule & access first.")}return t}
-async function gh(path,opt={}){const t=token();const r=await fetch("https://api.github.com/repos/"+REPO+path,{...opt,headers:{Authorization:"Bearer "+t,Accept:"application/vnd.github+json"}});if(!r.ok)throw Error(r.status+" "+(await r.text()).slice(0,120));return r.status===204?null:r.json()}
-async function editCfg(fn){const f=await gh("/contents/config.json");const c=JSON.parse(decodeURIComponent(escape(atob(f.content.replace(/\n/g,"")))));fn(c);
-await gh("/contents/config.json",{method:"PUT",body:JSON.stringify({message:"Update config from dashboard",sha:f.sha,content:btoa(unescape(encodeURIComponent(JSON.stringify(c,null,2)+"\n")))})})}
+async function gh(path,opt={}){const t=token(),{raw,...o}=opt;const r=await fetch("https://api.github.com/repos/"+REPO+path,{cache:"no-store",...o,headers:{Authorization:"Bearer "+t,Accept:raw?"application/vnd.github.raw+json":"application/vnd.github+json",...(o.headers||{})}});
+if(!r.ok)throw Error(r.status+" "+(await r.text()).slice(0,120));return r.status===204?null:raw?r.text():r.json()}
+async function editCfg(fn){const f=await gh("/contents/config.json");const c=JSON.parse(b64dec(f.content));fn(c);
+await gh("/contents/config.json",{method:"PUT",body:JSON.stringify({message:"Update config from dashboard",sha:f.sha,content:b64enc(JSON.stringify(c,null,2)+"\n")})})}
 const dispatch=wf=>gh("/actions/workflows/"+wf+"/dispatches",{method:"POST",body:JSON.stringify({ref:"main"})});
 function copy(t,ok){const done=()=>say(ok||"Copied.");
 if(navigator.clipboard)navigator.clipboard.writeText(t).then(done,()=>say("Copy blocked. Select the text and copy it by hand."));else say("Copy blocked. Select the text and copy it by hand.")}
 
-$("run").onclick=async()=>{try{await dispatch("collect.yml");say("Run started. Refresh in about a minute.")}catch(e){say("Failed: "+e.message)}};
+/* live status: with a token the page reads the latest articles and workflow runs straight from GitHub */
+const WF=[["Collect news","Collect"],["Write articles","Write"],["Send approved articles to WordPress","Send to WordPress"]];
+let runs=null,jobs={},watchUntil=0,timer=null;
+function refreshArticles(){stats();render()}
+function health(){const h=[],w=D.writers,n=w?[w.claude1,w.claude2,w.claude3,w.codex].filter(Boolean).length:-1;
+if(n===0)h.push('<span class="hc bad"><i></i><b>No writer</b><span class="muted">Add CLAUDE_CODE_OAUTH_TOKEN (Setup → 2. Claude)</span></span>');
+else if(n===1)h.push('<span class="hc warn"><i></i><b>1 writer account</b><span class="muted">No backup if it hits its limit</span></span>');
+if(!store.get("gh_token"))h.push('<button class="hc" id="h-tok"><i></i><b>Live status off</b><span class="muted">Add a GitHub token to see runs</span></button>');
+else if(!runs)h.push('<span class="hc run"><i></i><b>Checking runs…</b></span>');
+else WF.forEach(([name,label])=>{const r=runs.find(x=>x.name===name);
+if(!r){h.push('<span class="hc"><i></i><b>'+label+'</b><span class="muted">no runs yet</span></span>');return}
+const going=r.status!=="completed",ok=r.conclusion==="success",cls=going?"run":ok?"ok":["cancelled","skipped"].includes(r.conclusion)?"":"bad";
+let t=going?(r.status==="queued"||r.status==="waiting"?"waiting":"running")+" · "+ago(r.run_started_at||r.created_at):(ok?"passed":r.conclusion==="failure"?"failed":r.conclusion)+" · "+ago(r.updated_at);
+if(jobs[r.id])t+=" · "+jobs[r.id].t;
+h.push('<a class="hc '+cls+'" href="'+esc(safeUrl(r.html_url))+'" target="_blank" rel="noopener" title="Open this run on GitHub"><i></i><b>'+label+'</b><span class="muted">'+esc(t)+'</span></a>')});
+$("health").innerHTML=h.join("");const b=$("h-tok");if(b)b.onclick=()=>openSetup("prefs")}
+async function writeJobs(r){if(jobs[r.id]&&jobs[r.id].done)return;
+const j=(await gh("/actions/runs/"+r.id+"/jobs?per_page=60")).jobs.filter(x=>/^write/.test(x.name)),done=r.status==="completed";
+const okN=j.filter(x=>x.conclusion==="success").length,doneN=j.filter(x=>x.status==="completed").length;
+jobs[r.id]={done,t:!j.length?"nothing new to write":done?okN+" of "+j.length+" articles done":doneN+" of "+j.length+" articles"}}
+async function live(){if(!store.get("gh_token")){health();return}
+try{const [list,rs]=await Promise.all([gh("/contents/data/articles.json",{raw:true}).then(JSON.parse).catch(()=>null),gh("/actions/runs?per_page=40")]);
+runs=rs.workflow_runs;const wr=runs.find(x=>x.name==="Write articles");if(wr)await writeJobs(wr).catch(()=>{});
+if(Array.isArray(list)){const next=list.map(a=>{const o=art(a.path);return o&&o._t&&Date.now()-o._t<15*6e4&&JSON.stringify([a.status,a.wp_status,a.wp_synced])===o._before?o:a});
+const sig=x=>JSON.stringify(x.map(a=>[a.path,a.status,a.wp_status,a.wp_synced,a.title,a.wp_id]));
+if(sig(next)!==sig(D.articles)){D.articles=next;refreshArticles()}}
+$("upd").textContent=D.leads.length+" stories from "+D.lead_count+" headlines · live";}
+catch(e){say("Live status: "+e.message)}health()}
+function schedule(){clearTimeout(timer);const busy=runs&&runs.some(r=>WF.some(([n])=>n===r.name)&&r.status!=="completed");
+timer=setTimeout(async()=>{if(!document.hidden)await live();schedule()},busy||Date.now()<watchUntil?15e3:12e4)}
+function watch(){watchUntil=Date.now()+15*6e4;setTimeout(()=>live().then(schedule),5e3)}
+document.addEventListener("visibilitychange",()=>{if(!document.hidden)live().then(schedule)});
+
+$("run").onclick=async()=>{const b=$("run");b.disabled=true;try{await dispatch("collect.yml");say("Run started: collect, then write, then send to WordPress (5 to 10 minutes). Status updates above.");watch()}catch(e){say("Failed: "+e.message)}setTimeout(()=>b.disabled=false,1e4)};
 async function togglePause(){try{await editCfg(c=>c.paused=!paused);paused=!paused;tick();say(paused?"Paused. Scheduled runs will skip.":"Continued. Collecting now.")}catch(e){say("Failed: "+e.message)}}
 $("pause").onclick=$("pause2").onclick=togglePause;
 $("add").onclick=async()=>{const n=$("f-add").value.trim();if(!n)return;try{await editCfg(c=>{if(!c.celebrities.includes(n))c.celebrities.push(n)});$("f-add").value="";say(n+" added. A run starts now; refresh in 1 to 2 minutes.")}catch(e){say("Failed: "+e.message)}};
 $("save-int").onclick=async()=>{const n=parseInt($("f-int").value,10);if(!(n>=1&&n<=24)){say("Enter a number from 1 to 24.");return}try{await editCfg(c=>{c.interval_hours=n;delete c.run_hours});D.interval_hours=n;tick();say("Saved. Runs every "+n+" hours, counted from the last run.")}catch(e){say("Failed: "+e.message)}};
-$("save-tok").onclick=()=>{const t=$("f-tok").value.trim();if(!t){say("Paste a token first.");return}store.set("gh_token",t);$("f-tok").value="";say("Token saved in this browser.")};
+$("save-tok").onclick=()=>{const t=$("f-tok").value.trim();if(!t){say("Paste a token first.");return}store.set("gh_token",t);$("f-tok").value="";say("Token saved in this browser. Live status is on.");live().then(schedule)};
 $("save-site").onclick=async()=>{const name=$("f-name").value.trim(),url=$("f-url").value.trim(),st=$("f-wps").value,auto=$("f-auto").checked;
 try{await editCfg(c=>{c.site={name,url};c.wp_default_status=st;c.auto_send=auto});D.site={name,url};D.wp_status=st;D.auto_send=auto;brand();say("Website settings saved.")}catch(e){say("Failed: "+e.message)}};
-$("t-collect").onclick=async()=>{try{await dispatch("collect.yml");$("t-msg").textContent="Collection started."}catch(e){$("t-msg").textContent="Failed: "+e.message}};
-$("t-write").onclick=async()=>{try{await dispatch("write-articles.yml");$("t-msg").textContent="Article writing started."}catch(e){$("t-msg").textContent="Failed: "+e.message}};
+$("t-collect").onclick=async()=>{try{await dispatch("collect.yml");$("t-msg").textContent="Collection started.";watch()}catch(e){$("t-msg").textContent="Failed: "+e.message}};
+$("t-write").onclick=async()=>{try{await dispatch("write-articles.yml");$("t-msg").textContent="Article writing started.";watch()}catch(e){$("t-msg").textContent="Failed: "+e.message}};
 
 /* setup window */
 function openSetup(t){if(!$("dlg").open)$("dlg").showModal();pick(t||"site")}
@@ -342,5 +444,5 @@ $("dlg").onclick=e=>{if(e.target===$("dlg"))$("dlg").close()};
 document.querySelectorAll(".dt").forEach(b=>b.onclick=()=>pick(b.dataset.t));
 document.querySelectorAll(".copy").forEach(b=>b.onclick=()=>{const t=b.previousElementSibling.textContent;const done=()=>{b.textContent="Copied";setTimeout(()=>b.textContent="Copy",1500)};
 if(navigator.clipboard)navigator.clipboard.writeText(t).then(done,()=>{b.textContent="Select and copy"});else b.textContent="Select and copy"});
-brand();stats();people();render();tick();
+brand();stats();people();render();tick();health();live().then(schedule);
 </script></html>

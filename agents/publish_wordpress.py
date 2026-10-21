@@ -5,6 +5,8 @@ Front matter per article:  status: pending|approved|rejected|sent   wp_status: d
  - approved + no wp_id  -> create the post with wp_status, then status: sent, wp_id, wp_link, wp_synced.
  - sent + wp_status != wp_synced -> update the existing post's status (e.g. draft -> publish).
 Optional front matter: description (excerpt), categories: [..names..], tags: [..names..] (matched to the site's own).
+Before sending, sent posts are synced back from WordPress: if you published, unpublished or trashed a post in WordPress,
+the article's wp_status follows (status: removed when the post is trashed or deleted), so the dashboard shows the truth.
 `--auto-approve` (used by the automatic writing workflow when config.json has auto_send: true) turns new `pending` drafts into `approved`
 first; `skipped` and `rejected` drafts are never sent. Default wp_status for auto-written drafts is `pending` (review in WordPress).
 """
@@ -14,10 +16,12 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+SYNC_RECENT = 60  # how many of the newest articles are checked against WordPress on each run
 WP_STATUSES = {"draft", "pending", "publish", "private"}
 AUTO = "--auto-approve" in sys.argv
 URL, USER, PW = (os.environ.get(k, "").rstrip("/") for k in ("WP_URL", "WP_USER", "WP_APP_PASSWORD"))
@@ -121,13 +125,47 @@ def wp(path, payload):
         return json.loads(r.read())
 
 
+def sync_from_wp(f, front, body):
+    """Copy a post's live WordPress status into the article when it was changed in WordPress (not from the dashboard)."""
+    want, synced = field(front, "wp_status") or "draft", field(front, "wp_synced")
+    if field(front, "status") != "sent" or not field(front, "wp_id") or want != synced:
+        return front  # not sent yet, or a dashboard change is waiting to be pushed
+    try:
+        post = wp_get(f"posts/{field(front, 'wp_id')}?context=edit&_fields=id,status,link")
+        live = post.get("status", "")
+    except urllib.error.HTTPError as e:
+        if e.code not in (404, 410):
+            raise
+        live, post = "trash", {}
+    if live == synced:
+        return front
+    if live in WP_STATUSES:
+        front = set_field(set_field(front, "wp_status", live), "wp_synced", live)
+        if post.get("link"):
+            front = set_field(front, "wp_link", post["link"])
+        print(f"sync {f.name}: changed in WordPress, now {live}")
+    elif live == "trash":  # trashed or deleted
+        front = set_field(front, "status", "removed")
+        print(f"sync {f.name}: removed in WordPress")
+    else:  # e.g. "future" (scheduled in WordPress): leave the article as it is
+        return front
+    f.write_text(f"---\n{front}\n---\n\n{body}")
+    return front
+
+
 def main():
     if not (URL and USER and PW):
         print("WP_URL / WP_USER / WP_APP_PASSWORD not set; nothing sent.")
         return
     failed = False
+    recent = {f.name for f in sorted((ROOT / "articles").glob("*.md"), reverse=True)[:SYNC_RECENT]}
     for f in sorted((ROOT / "articles").glob("*.md")):
         front, body = split(f.read_text())
+        try:
+            if f.name in recent:
+                front = sync_from_wp(f, front, body)
+        except Exception as e:  # a sync problem must not block sending new articles
+            print(f"  could not check {f.name} in WordPress: {e}", file=sys.stderr)
         status, want = field(front, "status"), field(front, "wp_status") or "draft"
         if AUTO and status == "pending":
             status = "approved"

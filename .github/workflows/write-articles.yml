@@ -79,7 +79,8 @@ jobs:
             --max-turns 30
             --allowedTools "Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"
       - id: d1
-        run: test -s "$ARTICLE" && echo done=true >> "$GITHUB_OUTPUT" || echo done=false >> "$GITHUB_OUTPUT"
+        run: |  # done = the article file exists and is no longer waiting for a rewrite
+          if [ -s "$ARTICLE" ] && ! grep -q '^status: *rewrite' "$ARTICLE"; then echo done=true; else echo done=false; fi >> "$GITHUB_OUTPUT"
 
       - name: "Writer 2: Claude account 2 (if account 1 failed or hit its limit)"
         id: c2
@@ -94,7 +95,8 @@ jobs:
             --max-turns 30
             --allowedTools "Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"
       - id: d2
-        run: test -s "$ARTICLE" && echo done=true >> "$GITHUB_OUTPUT" || echo done=false >> "$GITHUB_OUTPUT"
+        run: |  # done = the article file exists and is no longer waiting for a rewrite
+          if [ -s "$ARTICLE" ] && ! grep -q '^status: *rewrite' "$ARTICLE"; then echo done=true; else echo done=false; fi >> "$GITHUB_OUTPUT"
 
       - name: "Writer 3: Claude account 3"
         id: c3
@@ -109,7 +111,8 @@ jobs:
             --max-turns 30
             --allowedTools "Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"
       - id: d3
-        run: test -s "$ARTICLE" && echo done=true >> "$GITHUB_OUTPUT" || echo done=false >> "$GITHUB_OUTPUT"
+        run: |  # done = the article file exists and is no longer waiting for a rewrite
+          if [ -s "$ARTICLE" ] && ! grep -q '^status: *rewrite' "$ARTICLE"; then echo done=true; else echo done=false; fi >> "$GITHUB_OUTPUT"
 
       - name: "Writer 4: OpenAI Codex (if every Claude account failed)"
         if: steps.d3.outputs.done != 'true' && env.HAS_CODEX == 'true'
@@ -127,21 +130,30 @@ jobs:
           git diff --cached --quiet || { git commit -m "Draft: ${{ matrix.item.celebrity }} (${{ matrix.item.batch }})" && git pull --rebase origin main && git push; }
       - name: Fail if no writer produced the article
         run: |
-          if [ ! -f "${{ matrix.item.article }}" ]; then
-            echo "::error::No article written. No writer secret is set (CLAUDE_CODE_OAUTH_TOKEN, _2, _3 or OPENAI_API_KEY) or every writer failed. See /setup.html"
-            exit 1
+          if [ -s "$ARTICLE" ] && ! grep -q '^status: *rewrite' "$ARTICLE"; then exit 0; fi
+          if [ "$HAS_CLAUDE1$HAS_CLAUDE2$HAS_CLAUDE3$HAS_CODEX" = "falsefalsefalsefalse" ]; then
+            echo "::error::No article written: no writer secret is set. Add CLAUDE_CODE_OAUTH_TOKEN (see the dashboard Setup, tab 2)."
+          else
+            echo "::error::No article written: every writer that has a secret failed. A Claude writer that stops within seconds usually has an expired or revoked token, or its account hit its usage limit. Run claude setup-token and update CLAUDE_CODE_OAUTH_TOKEN, or add CLAUDE_CODE_OAUTH_TOKEN_2 as a backup. Details: the Writer 1 step above."
           fi
+          exit 1
 
   publish:
     needs: [plan, write]
     if: always() && needs.plan.result == 'success'
     runs-on: ubuntu-latest
+    concurrency: {group: wordpress, cancel-in-progress: false}  # shared with publish-wordpress.yml: one sender at a time, no duplicate posts
+    env:
+      HAS_CLAUDE1: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+      HAS_CLAUDE2: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 != '' }}
+      HAS_CLAUDE3: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_3 != '' }}
+      HAS_CODEX: ${{ secrets.OPENAI_API_KEY != '' }}
     steps:
       - uses: actions/checkout@v4
         with: {ref: main}
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - name: Send to WordPress
+      - name: Send to WordPress (and sync status changes made in WordPress)
         run: |
           if [ "$(python -c "import json;print(json.load(open('config.json')).get('auto_send',False))")" = "True" ]; then
             python agents/publish_wordpress.py --auto-approve
@@ -159,3 +171,6 @@ jobs:
           git config user.email "researcher-bot@users.noreply.github.com"
           git add articles
           git diff --cached --quiet || { git commit -m "Update article WordPress status" && git pull --rebase origin main && git push; }
+      - name: Refresh the dashboard
+        if: always()
+        run: bash scripts/push_dashboard.sh
