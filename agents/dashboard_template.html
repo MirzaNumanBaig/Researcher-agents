@@ -233,6 +233,16 @@ claude setup-token</pre><button class="btn sm copy">Copy</button></div></div></d
 <p class="muted small" id="t-msg" role="status"></p>
 </div>
 </dialog>
+<dialog id="cdlg" aria-label="Connect GitHub" style="width:min(460px,calc(100vw - 24px))">
+<div class="dh"><b>Connect once</b><button class="btn sm" id="c-close" aria-label="Close">Close</button></div>
+<div style="padding:16px 18px 18px;overflow:auto">
+<p style="margin:0 0 10px">Pause, Continue and Run now need permission to your repository. Do this once. The key stays in this browser, and your click then runs straight away.</p>
+<ol class="small" style="margin:0 0 8px 18px;padding:0;line-height:1.6">
+<li><a href="https://github.com/settings/personal-access-tokens/new?name=researcher-dashboard&description=Researcher-agents%20dashboard&expires_in=365&contents=write&actions=write" target="_blank" rel="noopener">Open the token page</a>. Under Repository access choose <b>Only select repositories</b> and pick <b>Researcher-agents</b>. Press <b>Generate token</b>.</li>
+<li>Copy the key that starts with <code>github_pat_</code> and paste it here.</li></ol>
+<div class="field"><label for="c-tok">GitHub key</label><input id="c-tok" type="password" placeholder="github_pat_…" autocomplete="off" data-lpignore="true" data-1p-ignore spellcheck="false"></div>
+<div class="row"><button class="btn" id="c-go">Connect and continue</button><span id="c-err" class="small" role="status"></span></div>
+</div></dialog>
 <footer>Headlines come from Google News and local entertainment feeds. Google News does not provide images or full summaries, so open a story for the full article. Profile photos and links come from Wikidata and Wikimedia Commons.</footer>
 </main>
 <script>
@@ -416,7 +426,7 @@ if(r.ok){const j=await r.json().catch(()=>({}));if(j.permissions&&j.permissions.
 const body=await r.text().catch(()=>"");let m="";try{m=JSON.parse(body).message}catch(e){m=body.slice(0,120)}
 const hint=r.status===401?" (bad credentials: expired, revoked or mistyped)":r.status===404?" (this token has no access to "+REPO+": choose that repository when you create it)":r.status===403?" (blocked or rate limited)":"";
 return{ok:false,msg:"GitHub answered "+r.status+": "+m+hint}}
-function token(){const t=store.get("gh_token");if(!t){openSetup("prefs");throw Error("Add your GitHub token under Schedule & access first.")}return t}
+function token(){const t=store.get("gh_token");if(!t){askToken();throw Error("Add your GitHub token under Schedule & access first.")}return t}
 async function gh(path,opt={}){const t=token(),{raw,...o}=opt;const r=await fetch("https://api.github.com/repos/"+REPO+path,{cache:"no-store",...o,headers:{Authorization:"Bearer "+t,Accept:raw?"application/vnd.github.raw+json":"application/vnd.github+json",...(o.headers||{})}});
 if(!r.ok)throw Error(r.status+" "+(await r.text()).slice(0,120));return r.status===204?null:raw?r.text():r.json()}
 async function editCfg(fn){const f=await gh("/contents/config.json");const c=JSON.parse(b64dec(f.content));fn(c);
@@ -440,7 +450,7 @@ const going=r.status!=="completed",ok=r.conclusion==="success",cls=going?"run":o
 let t=going?(r.status==="queued"||r.status==="waiting"?"waiting":"running")+" · "+ago(r.run_started_at||r.created_at):(ok?"passed":r.conclusion==="failure"?"failed":r.conclusion)+" · "+ago(r.updated_at);
 if(jobs[r.id])t+=" · "+jobs[r.id].t;
 h.push('<a class="hc '+cls+'" href="'+esc(safeUrl(r.html_url))+'" target="_blank" rel="noopener" title="Open this run on GitHub"><i></i><b>'+label+'</b><span class="muted">'+esc(t)+'</span></a>')});
-$("health").innerHTML=h.join("");const b=$("h-tok");if(b)b.onclick=()=>openSetup("prefs")}
+$("health").innerHTML=h.join("");const b=$("h-tok");if(b)b.onclick=()=>askToken()}
 async function writeJobs(r){if(jobs[r.id]&&jobs[r.id].done)return;
 const j=(await gh("/actions/runs/"+r.id+"/jobs?per_page=60")).jobs.filter(x=>/^write/.test(x.name)),done=r.status==="completed";
 const okN=j.filter(x=>x.conclusion==="success").length,doneN=j.filter(x=>x.status==="completed").length;
@@ -460,10 +470,11 @@ timer=setTimeout(async()=>{if(!document.hidden)await live();schedule()},busy||Da
 function watch(){watchUntil=Date.now()+15*6e4;setTimeout(()=>live().then(schedule),5e3)}
 document.addEventListener("visibilitychange",()=>{if(!document.hidden)live().then(schedule)});
 
-$("run").onclick=async()=>{if(!store.get("gh_token")){viaGitHub("https://github.com/"+REPO+"/actions/workflows/collect.yml","No token saved, so I opened GitHub Actions. Click Run workflow (branch main), then Run workflow again. Collect, write and send follow on their own.");return}const b=$("run");b.disabled=true;try{await dispatch("collect.yml");say("Run started: collect, then write, then send to WordPress (5 to 10 minutes). Status updates above.");watch()}catch(e){say("Failed: "+e.message)}setTimeout(()=>b.disabled=false,1e4)};
-/* Without a saved token the page cannot change the repo itself, so send the person to the GitHub page that does the same job (they are signed in there). */
-function viaGitHub(url,msg){window.open(url,"_blank","noopener");say(msg)}
-async function togglePause(){if(!store.get("gh_token")){viaGitHub("https://github.com/"+REPO+"/edit/main/config.json",'No token saved, so I opened the file on GitHub. Change "paused": '+(paused?"false":"true")+' and click Commit changes. '+(paused?"Collecting resumes straight away.":"Scheduled runs will then skip."));return}try{await editCfg(c=>c.paused=!paused);paused=!paused;tick();say(paused?"Paused. Scheduled runs will skip.":"Continued. Collecting now.")}catch(e){say("Failed: "+e.message)}}
+$("run").onclick=async()=>{if(!store.get("gh_token")){askToken(()=>$("run").click());return}const b=$("run");b.disabled=true;try{await dispatch("collect.yml");say("Run started: collect, then write, then send to WordPress (5 to 10 minutes). Status updates above.");watch()}catch(e){say("Failed: "+e.message)}setTimeout(()=>b.disabled=false,1e4)};
+/* One-time connect: the page needs a GitHub key to change the repo. Ask for it on the first click, then carry on with that click. */
+let afterConnect=null;
+function askToken(fn){afterConnect=fn||null;$("c-err").textContent="";$("c-tok").value="";if(!$("cdlg").open)$("cdlg").showModal();$("c-tok").focus()}
+async function togglePause(){if(!store.get("gh_token")){askToken(togglePause);return}try{await editCfg(c=>c.paused=!paused);paused=!paused;tick();say(paused?"Paused. Scheduled runs will skip.":"Continued. Collecting now.")}catch(e){say("Failed: "+e.message)}}
 $("pause").onclick=$("pause2").onclick=togglePause;
 $("add").onclick=async()=>{const n=$("f-add").value.trim();if(!n)return;try{await editCfg(c=>{if(!c.celebrities.includes(n))c.celebrities.push(n)});$("f-add").value="";say(n+" added. A run starts now; refresh in 1 to 2 minutes.")}catch(e){say("Failed: "+e.message)}};
 $("save-int").onclick=async()=>{const n=parseInt($("f-int").value,10);if(!(n>=1&&n<=24)){say("Enter a number from 1 to 24.");return}try{await editCfg(c=>{c.interval_hours=n;delete c.run_hours});D.interval_hours=n;tick();say("Saved. Runs every "+n+" hours, counted from the last run.")}catch(e){say("Failed: "+e.message)}};
@@ -477,6 +488,17 @@ store.set("gh_token",t);
 if(store.get("gh_token")!==t){tokNote("The token is valid, but this browser would not store it (private window or blocked site data). Allow site data for this page and try again.","bad");return}
 store.set("gh_token_rejected","");$("f-tok").value="";$("tok-msg").dataset.keep="1";renderTok();tokNote("Token saved and verified.","ok");
 say("Token saved and verified. Live status is on.");live().then(schedule)};
+$("c-close").onclick=()=>{afterConnect=null;$("cdlg").close()};
+$("c-go").onclick=async()=>{const v0=$("c-tok").value.trim(),err=$("c-err");$("c-tok").value=v0;
+const bad=m=>{err.textContent=m;err.style.color="var(--bad,#b42318)"};
+if(!v0)return bad("Paste the key first.");
+if(!TOKRE.test(v0))return bad("That is not a GitHub key. It starts with github_pat_.");
+$("c-go").disabled=true;err.style.color="var(--mut)";err.textContent="Checking…";
+const v=await verifyToken(v0);$("c-go").disabled=false;
+if(!v.ok)return bad(v.msg);
+store.set("gh_token",v0);if(store.get("gh_token")!==v0)return bad("This browser would not store the key (private window or blocked site data).");
+store.set("gh_token_rejected","");renderTok();$("cdlg").close();say("Connected.");
+const go=afterConnect;afterConnect=null;live().then(schedule);if(go)go()};
 $("tok-copy").onclick=()=>{const t=store.get("gh_token");if(!t){tokNote("No token saved.","bad");return}copy(t,"Token copied.");tokNote("Token copied to the clipboard.","ok")};
 $("tok-replace").onclick=()=>{delete $("tok-msg").dataset.keep;renderTok(true);tokNote("Paste the new token below. The saved one stays until the new one is verified.");$("f-tok").focus()};
 $("tok-remove").onclick=()=>{store.set("gh_token","");store.set("gh_token_rejected","");delete $("tok-msg").dataset.keep;runs=null;renderTok();tokNote("Token removed from this browser.");health()};
