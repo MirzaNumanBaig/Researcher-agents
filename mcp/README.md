@@ -15,6 +15,14 @@ WordPress (moduscarry.com): create an Application Password (WP admin > Users > P
 
 Optional: `mcp/server.py` is a local server with friendlier tool names for the same actions (needs `GITHUB_TOKEN`).
 
+## Claude Code cloud sessions (paste the token once)
+The repo's `.mcp.json` starts `mcp/server.py` in every Claude Code session opened on this repo. It contains no token: it reads
+`GH_TOKEN` from the session's environment.
+1. Create a fine-grained token (Researcher-agents, plus any other repos you want; Contents, Actions, Workflows, Pull requests = Read and write).
+2. In the Claude app, open the cloud environment (session title bar > environment > Edit) and set the environment variable
+   `GH_TOKEN=<your token>`. Every new session with that environment gets it; `gh` and `git push` use it too.
+3. Start a session on this repo and approve the `researcher-agents` MCP server if asked. When the token expires, repeat step 1-2.
+
 ## Without connecting GitHub to Claude (token only)
 Use this when you do not want to link your GitHub account to a Claude account. The token is the only link.
 1. Create a fine-grained token (this repo only; Contents + Actions = Read and write). Never paste it into a chat.
