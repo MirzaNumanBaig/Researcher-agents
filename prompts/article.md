@@ -27,7 +27,7 @@ Write the file with front matter `status: skipped` and a one-line `skip_reason:`
 
 ## Article rules (Google News / Discover friendly, and legally careful)
 - 600-800 words of body text (aim for 650-750). If the sources honestly cannot support 600 words, write less (never under 450); never pad. Original wording and structure; never copy sentences from sources. Facts only from the sources you read.
-- Structure: hook lead (who, what, when in the first 40-60 words), a short **Key facts** list (3-5 lines), 3-4 sections under descriptive `##` headings, a `## What happens next`, a `## Frequently asked questions` (2-4 questions, each a `###` heading followed by a 1-3 sentence answer), then `## Sources`.
+- Structure: the body MUST open with a **Quick summary** (the very first thing under the headline, before the lead paragraph): the bold label `**Quick summary**` on its own line, then 3-5 `-` bullets, each one short, complete and verifiable (what happened, when, who confirmed it, what is next). Then the hook lead (who, what, when in the first 40-60 words), 3-4 sections under descriptive `##` headings, a `## What happens next`, a `## Frequently asked questions` (2-4 questions, each a `###` heading followed by a 1-3 sentence answer), then `## Sources`.
 - Use the statistics and figures that appear in your sources (dates, box office, ratings, counts) and put each next to a comparison or context. Never invent a number, quote, person or study.
 - Headline: clear, specific, no clickbait, under 70 characters, names the celebrity. Add a one-sentence `description` (meta description, under 155 characters).
 - Lead with the news in the first paragraph (who, what, when). Then context, then what happens next. Keep the reader moving: end sections on a true, sourced detail that earns the next section. Suspense comes from structure, never from invented drama.
@@ -55,6 +55,6 @@ sources:
   - "https://..."
 ---
 
-Article body in markdown (## and ### headings, **bold**, [links](https://...), simple `-` lists). No H1. Do not use tables or emojis.
+Article body in markdown, starting with the **Quick summary** block (## and ### headings, **bold**, [links](https://...), simple `-` lists). No H1. Do not use tables or emojis.
 ```
 Never set `status: approved` yourself. Never touch files other than your article.

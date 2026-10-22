@@ -8,8 +8,9 @@ description: Structure and write news articles so they rank in Google (SEO, Disc
 Google's own position: optimising for AI search is still SEO. The same fundamentals apply: helpful, original, well-sourced, clearly structured pages. Do not use tricks (keyword stuffing, hidden text, fake freshness, `llms.txt` games). Pass the "Who / How / Why" test: who wrote it (byline), how it was made (sourced from named outlets), why it exists (to inform readers).
 
 ## Answer-first structure (what AI engines extract)
+0. **Quick summary** (mandatory, always the first thing in the body, directly under the headline): `**Quick summary**` then 3-5 short `-` bullets with the verifiable facts (what, when, who confirmed it, what is next). Self-contained so a reader or an AI engine can stop here.
 1. **Lead (first 40-60 words)**: who, what, when, where, in plain words. A reader and an AI engine should get the whole story from this paragraph.
-2. **Key facts block** straight after the lead: a short list of 3-5 verifiable facts (date, place, figure, who confirmed it). Short, self-contained lines.
+2. (Order note: the **Quick summary** comes before the lead; see below.)
 3. **Self-contained sections of about 100-170 words**, each under a descriptive H2 that could stand alone as an answer. Open each section with its direct answer, then support it. Prefer question-style H2s where natural ("When is Treasure Island released?", "Who is in the cast?").
 4. **Context and numbers**: figures, dates, box-office, ratings, career milestones, with the source named in the sentence.
 5. **What happens next**: dated, sourced next steps only.

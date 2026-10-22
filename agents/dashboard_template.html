@@ -236,7 +236,7 @@ claude setup-token</pre><button class="btn sm copy">Copy</button></div></div></d
 const D=__DATA__,REPO=D.repo;
 const $=i=>document.getElementById(i),esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const store={get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}}};
-let paused=D.paused,celeb="",batch="",view="stories",pool="fresh";
+let paused=D.paused,celeb="",batch="",view="stories",pool="fresh",tokenBad=false;
 const COL=["#a8740a","#2b6cb0","#2f855a","#c05621","#6b46c1","#b83280","#2c7a7b"];
 const col=n=>COL[[...n].reduce((a,c)=>a+c.charCodeAt(0),0)%COL.length];
 const ini=n=>n.split(/\s+/).map(w=>w[0]).slice(0,2).join("").toUpperCase();
@@ -412,7 +412,7 @@ function refreshArticles(){stats();render()}
 function health(){const h=[],w=D.writers,n=w?[w.claude1,w.claude2,w.claude3,w.codex].filter(Boolean).length:-1;
 if(n===0)h.push('<span class="hc bad"><i></i><b>No writer</b><span class="muted">Add CLAUDE_CODE_OAUTH_TOKEN (Setup → 2. Claude)</span></span>');
 else if(n===1)h.push('<span class="hc warn"><i></i><b>1 writer account</b><span class="muted">No backup if it hits its limit</span></span>');
-if(!store.get("gh_token"))h.push('<button class="hc" id="h-tok"><i></i><b>Live status off</b><span class="muted">Add a GitHub token to see runs</span></button>');
+if(!store.get("gh_token"))h.push('<button class="hc'+(tokenBad?' bad':'')+'" id="h-tok"><i></i><b>'+(tokenBad?'GitHub token rejected':'Live status off')+'</b><span class="muted">'+(tokenBad?'Add a new token in Setup':'Add a GitHub token to see runs')+'</span></button>');
 else if(!runs)h.push('<span class="hc run"><i></i><b>Checking runs…</b></span>');
 else WF.forEach(([name,label])=>{const r=runs.find(x=>x.name===name);
 if(!r){h.push('<span class="hc"><i></i><b>'+label+'</b><span class="muted">no runs yet</span></span>');return}
@@ -432,7 +432,7 @@ if(Array.isArray(list)){const next=list.map(a=>{const o=art(a.path);return o&&o.
 const sig=x=>JSON.stringify(x.map(a=>[a.path,a.status,a.wp_status,a.wp_synced,a.title,a.wp_id]));
 if(sig(next)!==sig(D.articles)){D.articles=next;refreshArticles()}}
 $("upd").textContent=D.leads.length+" stories from "+D.lead_count+" headlines · live";}
-catch(e){say("Live status: "+e.message)}health()}
+catch(e){if(/^401/.test(e.message)){store.set("gh_token","");tokenBad=true;say("GitHub rejected the saved token (expired, revoked or mistyped). It was removed from this browser. Create a new one in Setup → Schedule & access.")}else say("Live status: "+e.message)}health()}
 function schedule(){clearTimeout(timer);const busy=runs&&runs.some(r=>WF.some(([n])=>n===r.name)&&r.status!=="completed");
 timer=setTimeout(async()=>{if(!document.hidden)await live();schedule()},busy||Date.now()<watchUntil?15e3:12e4)}
 function watch(){watchUntil=Date.now()+15*6e4;setTimeout(()=>live().then(schedule),5e3)}
@@ -443,7 +443,7 @@ async function togglePause(){try{await editCfg(c=>c.paused=!paused);paused=!paus
 $("pause").onclick=$("pause2").onclick=togglePause;
 $("add").onclick=async()=>{const n=$("f-add").value.trim();if(!n)return;try{await editCfg(c=>{if(!c.celebrities.includes(n))c.celebrities.push(n)});$("f-add").value="";say(n+" added. A run starts now; refresh in 1 to 2 minutes.")}catch(e){say("Failed: "+e.message)}};
 $("save-int").onclick=async()=>{const n=parseInt($("f-int").value,10);if(!(n>=1&&n<=24)){say("Enter a number from 1 to 24.");return}try{await editCfg(c=>{c.interval_hours=n;delete c.run_hours});D.interval_hours=n;tick();say("Saved. Runs every "+n+" hours, counted from the last run.")}catch(e){say("Failed: "+e.message)}};
-$("save-tok").onclick=()=>{const t=$("f-tok").value.trim();if(!t){say("Paste a token first.");return}store.set("gh_token",t);$("f-tok").value="";say("Token saved in this browser. Live status is on.");live().then(schedule)};
+$("save-tok").onclick=()=>{const t=$("f-tok").value.trim();if(!t){say("Paste a token first.");return}store.set("gh_token",t);tokenBad=false;$("f-tok").value="";say("Token saved in this browser. Live status is on.");live().then(schedule)};
 $("save-site").onclick=async()=>{const name=$("f-name").value.trim(),url=$("f-url").value.trim(),st=$("f-wps").value,auto=$("f-auto").checked;
 try{await editCfg(c=>{c.site={name,url};c.wp_default_status=st;c.auto_send=auto});D.site={name,url};D.wp_status=st;D.auto_send=auto;brand();say("Website settings saved.")}catch(e){say("Failed: "+e.message)}};
 $("t-collect").onclick=async()=>{try{await dispatch("collect.yml");$("t-msg").textContent="Collection started.";watch()}catch(e){$("t-msg").textContent="Failed: "+e.message}};
