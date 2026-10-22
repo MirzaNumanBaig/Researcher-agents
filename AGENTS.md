@@ -43,6 +43,12 @@ sends new drafts to WordPress with `config.json:wp_default_status` (default `pen
 (drafts then wait for a human `status: approved`). Needs secrets: `CLAUDE_CODE_OAUTH_TOKEN`, `WP_URL`, `WP_USER`, `WP_APP_PASSWORD`.
 Inside that workflow you only write the one article you are given; never set `status: approved`.
 
+## Writing quality (skills live in the repo)
+Articles are 600-800 words, answer-first, publisher style, and checked for AI tells. The rules are in `prompts/article.md`, which tells every writer
+(Claude, Codex, anything else) to read three skill files first: `.claude/skills/celebrity-feature-writing/`, `.claude/skills/geo-aeo-writing/`
+(SEO + AEO + GEO: key facts, FAQ, citable passages) and `.claude/skills/humanizer/` (final editing pass). Edit those files to change the house style.
+Dashboard Stories view has Fresh / Used tabs: a story is Used once every celebrity in it has a finished article (sent, skipped, rejected, removed) for its run.
+
 ## Provider independence (who writes the articles is swappable)
 The repo is the hub: `briefs/` (input) -> any AI worker following `prompts/article.md` -> `articles/` (output) -> GitHub sends to WordPress.
 `write-articles.yml` tries writers in order until one produces the article file: Claude account 1 (`CLAUDE_CODE_OAUTH_TOKEN`), account 2
