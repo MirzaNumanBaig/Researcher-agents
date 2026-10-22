@@ -16,6 +16,9 @@ sources:
 wp_id: 826
 wp_link: "https://moduscarry.com/?p=826"
 wp_synced: draft
+image: "images/2026-10-20-02-00-cate-blanchett.png"
+image_alt: "AI-generated illustration for: Cate Blanchett asks London theatre audiences to put phones away"
+wp_media_id: 905
 ---
 
 **Quick summary**

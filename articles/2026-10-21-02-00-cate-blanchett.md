@@ -13,6 +13,9 @@ sources:
 wp_id: 837
 wp_link: "https://moduscarry.com/?p=837"
 wp_synced: draft
+image: "images/2026-10-21-02-00-cate-blanchett.png"
+image_alt: "AI-generated illustration for: Cate Blanchett and Nina Hoss's Electra/Persona: Inside the Run"
+wp_media_id: 927
 ---
 
 **Quick summary**

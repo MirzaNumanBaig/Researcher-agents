@@ -14,6 +14,9 @@ sources:
 wp_id: 832
 wp_link: "https://moduscarry.com/?p=832"
 wp_synced: draft
+image: "images/2026-10-20-16-00-chris-hemsworth.png"
+image_alt: "AI-generated illustration for: Chris Hemsworth Hosts Muay Thai Star Rodtang on Extraction 3 Set"
+wp_media_id: 917
 ---
 
 **Quick summary**

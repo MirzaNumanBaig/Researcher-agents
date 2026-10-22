@@ -13,6 +13,9 @@ sources:
 wp_id: 838
 wp_link: "https://moduscarry.com/?p=838"
 wp_synced: draft
+image: "images/2026-10-21-02-00-chris-hemsworth.png"
+image_alt: "AI-generated illustration for: Chris Hemsworth's Thor Gets 'Worthy Star' Logo With Steve Rogers"
+wp_media_id: 929
 ---
 
 **Quick summary**
