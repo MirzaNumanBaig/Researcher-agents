@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth's Archie Rose Whisky Launches in the US"
 description: "Archie Rose, the Sydney distillery co-owned by Chris Hemsworth, brings three whiskies to the United States from 23 October."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-21 06:00"
 celebrity: "Chris Hemsworth"
@@ -10,6 +10,9 @@ tags: ["Chris Hemsworth", "Archie Rose", "Australian whisky", "Luke Hemsworth"]
 image_prompt: "Rows of oak whisky casks in a dim Sydney distillery warehouse, warm light falling across barley sacks and a copper still"
 sources:
   - "https://thewhiskeywash.com/whiskey-news/archie-rose-australian-whiskies-hit-us-with-chris-hemsworth/"
+wp_id: 842
+wp_link: "https://moduscarry.com/?p=842"
+wp_synced: draft
 ---
 
 **Quick summary**

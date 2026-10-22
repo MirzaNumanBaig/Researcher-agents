@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth's Archie Rose whisky reaches the US on 23 October"
 description: "Chris Hemsworth's co-owned Archie Rose whisky range, redesigned with a new bottle and a campaign film, goes on sale in eight US states on 23 October."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-21 08:00"
 celebrity: "Chris Hemsworth"
@@ -14,6 +14,9 @@ sources:
   - "https://www.bandt.com.au/chris-hemsworth-stars-in-archie-rose-camapaign-ahead-of-us-launch/"
   - "https://www.aol.com/articles/chris-hemsworth-archie-rose-whisky-195713000.html"
   - "https://www.fb101.com/archie-rose-chris-hemsworth-australian-whisky-us-launch-c411f8dd26"
+wp_id: 845
+wp_link: "https://moduscarry.com/?p=845"
+wp_synced: draft
 ---
 
 **Quick summary**

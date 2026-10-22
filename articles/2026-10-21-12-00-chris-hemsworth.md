@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth fronts Archie Rose whisky's US launch"
 description: "Chris Hemsworth and brother Luke star in a 1:45 Archie Rose ad as the Australian whisky brand launches in the US, with AI-built outdoor scenes."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-21 12:00"
 celebrity: "Chris Hemsworth"
@@ -13,6 +13,9 @@ sources:
   - "https://mumbrella.com.au/we-have-absolutely-no-brand-awareness-archie-rose-on-taking-on-the-us-941732"
   - "https://www.mi-3.com.au/21-10-2026/chris-hemsworth-puts-his-archie-rose-whisky-global-stage-new-brand-push"
   - "https://www.netflixjunkie.com/hollywood-news-avengers-secret-wars-delays-filming-again-with-new-production-target-in-2027-reveals-hollywood-insider/amp/"
+wp_id: 848
+wp_link: "https://moduscarry.com/?p=848"
+wp_synced: draft
 ---
 
 **Quick summary**

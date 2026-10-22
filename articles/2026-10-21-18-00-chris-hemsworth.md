@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth and Archie Rose launch new whisky range"
 description: "Chris Hemsworth, co-owner of Sydney's Archie Rose, unveils three redesigned whiskies and a campaign with brother Luke ahead of a US launch."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-21 18:00"
 celebrity: "Chris Hemsworth"
@@ -13,6 +13,9 @@ sources:
   - "https://www.drinkstrade.com.au/news/archie-rose-unveils-new-whisky-identity-as-chris-hemsworth-backs-us-expansion/"
   - "https://www.newsofbahrain.com/en/article/extraction-3-is-on-the-way-chris-hemsworth-trains-in-thailand-for-netflix-action-sequel"
   - "https://www.themanual.com/fitness/get-the-extraction-body-before-chris-hemsworths-threequel/"
+wp_id: 850
+wp_link: "https://moduscarry.com/?p=850"
+wp_synced: draft
 ---
 
 **Quick summary**

@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett to host Displacement Film Fund shorts in New York"
 description: "Cate Blanchett will host the New York premiere of five Displacement Film Fund shorts at Film Forum on 11 November, with two directors attending."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-21 06:00"
 celebrity: "Cate Blanchett"
@@ -11,6 +11,9 @@ image_prompt: "An empty small arthouse cinema at dusk, rows of red seats facing 
 sources:
   - "https://www.broadwayworld.com/bwwtv/article/Cate-Blanchett-to-Host-NY-Premiere-of-Displacement-Film-Fund-Shorts-20261020"
   - "https://www.amnewscurtainraiser.com/2026/10/cate-blanchett-to-host-new-york.html"
+wp_id: 841
+wp_link: "https://moduscarry.com/?p=841"
+wp_synced: draft
 ---
 
 **Quick summary**

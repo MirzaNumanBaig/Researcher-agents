@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth Hosts Muay Thai Star Rodtang on Extraction 3 Set"
 description: "Rodtang Jitmuangnon dropped in on Chris Hemsworth during Extraction 3 filming in Thailand and gave him personalised gloves, ONE Championship reports."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-20 19:00"
 celebrity: "Chris Hemsworth"
@@ -10,6 +10,9 @@ tags: ["Chris Hemsworth", "Extraction 3", "Rodtang", "Avengers: Doomsday"]
 image_prompt: "A quiet film set at dusk in a tropical Thai town, with a boxing ring and a pair of red boxing gloves resting on a table"
 sources:
   - "https://www.onefc.com/news/thor-meets-the-iron-man-chris-hemsworth-gets-surprise-visit-from-rodtang-while-filming-in-thailand/"
+wp_id: 835
+wp_link: "https://moduscarry.com/?p=835"
+wp_synced: draft
 ---
 
 **Quick summary**
