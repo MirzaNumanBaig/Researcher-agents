@@ -9,7 +9,7 @@ on:
 permissions:
   contents: write
   id-token: write
-concurrency: write-articles
+concurrency: {group: repo-writes, cancel-in-progress: false}
 jobs:
   plan:
     runs-on: ubuntu-latest
@@ -32,7 +32,7 @@ jobs:
           git config user.name "researcher-bot"
           git config user.email "researcher-bot@users.noreply.github.com"
           git add data/wp_site.json || true
-          git diff --cached --quiet || { git commit -m "Update WordPress site snapshot" && git pull --rebase origin main && git push; }
+          git diff --cached --quiet || { git commit -m "Update WordPress site snapshot" && git pull --rebase -X theirs origin main && git push; }
 
   write:
     needs: plan
@@ -127,7 +127,7 @@ jobs:
           git config user.name "researcher-bot"
           git config user.email "researcher-bot@users.noreply.github.com"
           git add articles
-          git diff --cached --quiet || { git commit -m "Draft: ${{ matrix.item.celebrity }} (${{ matrix.item.batch }})" && git pull --rebase origin main && git push; }
+          git diff --cached --quiet || { git commit -m "Draft: ${{ matrix.item.celebrity }} (${{ matrix.item.batch }})" && git pull --rebase -X theirs origin main && git push; }
       - name: Fail if no writer produced the article
         run: |
           if [ -s "$ARTICLE" ] && ! grep -q '^status: *rewrite' "$ARTICLE"; then exit 0; fi
@@ -170,7 +170,7 @@ jobs:
           git config user.name "researcher-bot"
           git config user.email "researcher-bot@users.noreply.github.com"
           git add articles
-          git diff --cached --quiet || { git commit -m "Update article WordPress status" && git pull --rebase origin main && git push; }
+          git diff --cached --quiet || { git commit -m "Update article WordPress status" && git pull --rebase -X theirs origin main && git push; }
       - name: Refresh the dashboard
         if: always()
         run: bash scripts/push_dashboard.sh
