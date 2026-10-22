@@ -36,6 +36,7 @@ Write the file with front matter `status: skipped` and a one-line `skip_reason:`
 - Label rumours and unconfirmed reports as such; never state gossip about real people as fact. No claims about health, sexuality,
   relationships, legal trouble or finances unless confirmed by a named, reliable source. When in doubt leave it out.
 - Australian focus and spelling (en-AU). Neutral, factual, warm tone; no hype words.
+- `image_prompt` (front matter): one short English sentence describing a scene for an AI-generated featured image that fits the story (a pirate ship at sunset for a pirate film, an empty cinema, a stage, a runway, a red carpet at night). NEVER include a real person, a name, a face, a celebrity likeness, a brand, a logo or any text. Scenes, objects, places and mood only. Under 25 words.
 - Sound like an experienced entertainment editor at a major publisher: specific, calm, no hype, no em dashes, no AI-sounding phrases (see the humanizer skill).
 - End with a `## Sources` list of the links you actually used.
 - Use 1-2 existing categories and up to 5 tags, chosen from `data/wp_site.json`. If no category fits, use "Celebrity News" only if it exists, otherwise leave `categories` empty.
@@ -52,6 +53,7 @@ batch: "<batch label exactly as in the brief>"
 celebrity: "<celebrity name exactly as in the brief>"
 categories: ["Celebrity News"]
 tags: ["Nicole Kidman", "Practical Magic 2"]
+image_prompt: "<one scene for the featured image, see below>"
 sources:
   - "https://..."
 ---

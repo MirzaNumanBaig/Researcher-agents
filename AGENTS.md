@@ -48,6 +48,8 @@ Articles are 600-800 words, answer-first, publisher style, and checked for AI te
 (Claude, Codex, anything else) to read three skill files first: `.claude/skills/celebrity-feature-writing/`, `.claude/skills/geo-aeo-writing/`
 (SEO + AEO + GEO: quick summary, FAQ, citable passages), `.claude/skills/linking/` (external link to every named person, internal links to the site) and `.claude/skills/humanizer/` (final editing pass).
 `agents/link_candidates.py` builds the verified link menu per brief (`work/.../links.md`); `agents/check_article.py` warns in the Actions log when an article breaks the rules. Edit those files to change the house style.
+Images: `agents/generate_images.py` makes one featured image per article with Cloudflare Workers AI (secrets `CF_ACCOUNT_ID`, `CF_API_TOKEN`; optional `CF_IMAGE_MODEL`),
+from the writer's `image_prompt` (scenes only, never real people), saves it to `articles/images/` (git-ignored; the file lives only for that workflow run) and `publish_wordpress.py` uploads it as the post's featured image (alt text says it is AI-generated). Without the secrets it does nothing.
 Dashboard Stories view has Fresh / Used tabs: a story is Used once every celebrity in it has a finished article (sent, skipped, rejected, removed) for its run.
 
 ## Provider independence (who writes the articles is swappable)

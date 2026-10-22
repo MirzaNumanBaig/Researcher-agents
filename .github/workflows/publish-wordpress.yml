@@ -19,6 +19,12 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
+      - name: Generate featured images (Cloudflare Workers AI; skipped when the secrets are not set)
+        continue-on-error: true
+        run: python agents/generate_images.py --max 25
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
       - run: python agents/publish_wordpress.py
         env:
           WP_URL: ${{ secrets.WP_URL }}

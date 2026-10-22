@@ -125,6 +125,29 @@ def wp(path, payload):
         return json.loads(r.read())
 
 
+def upload_media(image_path, alt, caption):
+    """Upload an image to the WordPress media library and return its id (needs upload rights for WP_USER)."""
+    data = image_path.read_bytes()
+    ctype = "image/png" if image_path.suffix == ".png" else "image/jpeg"
+    req = urllib.request.Request(
+        f"{URL}/wp-json/wp/v2/media", data=data, method="POST",
+        headers={"Content-Type": ctype, "Content-Disposition": f'attachment; filename="{image_path.name}"', "User-Agent": "researcher-agents",
+                 "Authorization": "Basic " + base64.b64encode(f"{USER}:{PW}".encode()).decode()})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        media = json.loads(r.read())
+    wp(f"media/{media['id']}", {"alt_text": alt, "caption": caption, "title": alt})
+    return media["id"]
+
+
+def featured_image(front):
+    """(path, alt) of the article's generated image when the file exists and is not yet in WordPress, else None."""
+    rel = field(front, "image")
+    p = ROOT / "articles" / rel if rel else None
+    if p and p.exists() and not field(front, "wp_media_id"):
+        return p, field(front, "image_alt") or field(front, "title")
+    return None
+
+
 def sync_from_wp(f, front, body):
     """Copy a post's live WordPress status into the article when it was changed in WordPress (not from the dashboard)."""
     want, synced = field(front, "wp_status") or "draft", field(front, "wp_synced")
@@ -184,8 +207,23 @@ def main():
                     payload["categories"] = term_ids("categories", cats, False)
                 if tags:
                     payload["tags"] = term_ids("tags", tags, True)
+                img = featured_image(front)
+                if img:
+                    try:
+                        media_id = upload_media(img[0], img[1], "Illustration generated with AI")
+                        payload["featured_media"] = media_id
+                        front = set_field(front, "wp_media_id", media_id)
+                    except Exception as e:  # the article still goes out without its picture; it is retried on the next run
+                        print(f"  image upload failed for {f.name}: {e}", file=sys.stderr)
                 post = wp("posts", payload)
                 front = set_field(front, "status", "sent")
+            elif status == "sent" and field(front, "wp_id") and featured_image(front):
+                img = featured_image(front)  # a sent article that got its image later (or whose upload failed)
+                media_id = upload_media(img[0], img[1], "Illustration generated with AI")
+                post = wp(f"posts/{field(front, 'wp_id')}", {"featured_media": media_id})
+                front = set_field(front, "wp_media_id", media_id)
+                if want != field(front, "wp_synced"):
+                    post = wp(f"posts/{field(front, 'wp_id')}", {"status": want})
             elif status == "sent" and field(front, "wp_id") and want != field(front, "wp_synced"):
                 post = wp(f"posts/{field(front, 'wp_id')}", {"status": want})
             else:
