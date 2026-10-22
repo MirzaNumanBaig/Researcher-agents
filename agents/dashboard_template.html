@@ -238,7 +238,7 @@ claude setup-token</pre><button class="btn sm copy">Copy</button></div></div></d
 <div style="padding:16px 18px 18px;overflow:auto">
 <p style="margin:0 0 10px">Pause, Continue and Run now need permission to your repository. Do this once. The key stays in this browser, and your click then runs straight away.</p>
 <ol class="small" style="margin:0 0 8px 18px;padding:0;line-height:1.6">
-<li><a href="https://github.com/settings/personal-access-tokens/new?name=researcher-dashboard&description=Researcher-agents%20dashboard&expires_in=365&contents=write&actions=write" target="_blank" rel="noopener">Open the token page</a>. Under Repository access choose <b>Only select repositories</b> and pick <b>Researcher-agents</b>. Press <b>Generate token</b>.</li>
+<li><a id="c-link" href="https://github.com/settings/personal-access-tokens/new?name=researcher-dashboard&description=Researcher-agents%20dashboard&expires_in=365&contents=write&actions=write" target="_blank" rel="noopener">Open the token page</a> or copy the link: <button class="btn sm" id="c-copy" type="button">Copy link</button>. Under Repository access choose <b>Only select repositories</b> and pick <b>Researcher-agents</b>. Press <b>Generate token</b>.</li>
 <li>Copy the key that starts with <code>github_pat_</code> and paste it here.</li></ol>
 <div class="field"><label for="c-tok">GitHub key</label><input id="c-tok" type="password" placeholder="github_pat_…" autocomplete="off" data-lpignore="true" data-1p-ignore spellcheck="false"></div>
 <div class="row"><button class="btn" id="c-go">Connect and continue</button><span id="c-err" class="small" role="status"></span></div>
@@ -488,6 +488,7 @@ store.set("gh_token",t);
 if(store.get("gh_token")!==t){tokNote("The token is valid, but this browser would not store it (private window or blocked site data). Allow site data for this page and try again.","bad");return}
 store.set("gh_token_rejected","");$("f-tok").value="";$("tok-msg").dataset.keep="1";renderTok();tokNote("Token saved and verified.","ok");
 say("Token saved and verified. Live status is on.");live().then(schedule)};
+$("c-copy").onclick=()=>copy($("c-link").href,"Token page link copied. Paste it into your browser address bar.");
 $("c-close").onclick=()=>{afterConnect=null;$("cdlg").close()};
 $("c-go").onclick=async()=>{const v0=$("c-tok").value.trim(),err=$("c-err");$("c-tok").value=v0;
 const bad=m=>{err.textContent=m;err.style.color="var(--bad,#b42318)"};
