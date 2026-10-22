@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth's Archie Rose Eyes US With New Media Agency"
 description: "Archie Rose, co-owned by Chris Hemsworth, has appointed Cosmo5 Group's Ryvalmedia to lead its media push in Australia and the US."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-22 12:00"
 celebrity: "Chris Hemsworth"
@@ -9,6 +9,9 @@ categories: ["Celebrities"]
 tags: ["Chris Hemsworth", "Archie Rose", "Luke Hemsworth"]
 sources:
   - "https://www.bandt.com.au/archie-rose-pours-itself-into-the-us-market-with-cosmo5-group-chris-hemsworth/"
+wp_id: 820
+wp_link: "https://moduscarry.com/?p=820"
+wp_synced: draft
 ---
 
 Sydney distillery Archie Rose, which counts Chris Hemsworth as a co-owner, has appointed Cosmo5 Group to lead its awareness media strategy as it prepares to expand into the United States, according to trade publication [B&T](https://www.bandt.com.au/archie-rose-pours-itself-into-the-us-market-with-cosmo5-group-chris-hemsworth/).
