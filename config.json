@@ -82,8 +82,8 @@
   "interval_hours": 3,
   "auto_send": true,
   "wp_default_status": "draft",
-  "article_batches_back": 2,
-  "max_articles_per_run": 8,
+  "article_batches_back": 20,
+  "max_articles_per_run": 50,
   "site": {
     "name": "Modus Carry",
     "url": "https://moduscarry.com/"

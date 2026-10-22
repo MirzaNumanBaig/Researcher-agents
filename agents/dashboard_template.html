@@ -249,7 +249,7 @@ claude setup-token</pre><button class="btn sm copy">Copy</button></div></div></d
 const D=__DATA__,REPO=D.repo;
 const $=i=>document.getElementById(i),esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const store={get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}}};
-let paused=D.paused,celeb="",batch="",view="stories",pool="fresh";
+let paused=D.paused,celeb="",batch="",view="stories",pool="fresh",showOld=false;
 const COL=["#a8740a","#2b6cb0","#2f855a","#c05621","#6b46c1","#b83280","#2c7a7b"];
 const col=n=>COL[[...n].reduce((a,c)=>a+c.charCodeAt(0),0)%COL.length];
 const ini=n=>n.split(/\s+/).map(w=>w[0]).slice(0,2).join("").toUpperCase();
@@ -366,6 +366,8 @@ const avl=l=>{const n=(l.celebrities||[])[0]||"";return n?av(n):'<span class="av
 const topCard=l=>'<a class="top" href="'+esc(safeUrl(l.url))+'" target="_blank" rel="noopener">'+meta(l)+'<h3>'+esc(l.title)+'</h3>'+(l.summary?'<p>'+esc(l.summary.slice(0,180))+'</p>':'')+'</a>';
 const rowCard=l=>'<a class="story" href="'+esc(safeUrl(l.url))+'" target="_blank" rel="noopener">'+avl(l)+'<div class="sb"><h3>'+esc(l.title)+'</h3>'+meta(l)+'</div></a>';
 const feed=ls=>'<div class="feed">'+ls.map(rowCard).join("")+'</div>';
+const olderBtn=n=>n?'<div style="text-align:center;margin:16px 0"><button class="btn" id="show-old">Show '+n+' older fresh stories</button></div>':"";
+function wireOlder(){const b=$("show-old");if(b)b.onclick=()=>{showOld=true;render()}}
 function render(){
 $("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");
 ["q","batch","src","when","sort"].forEach(i=>$(i).hidden=view!=="stories");
@@ -381,19 +383,25 @@ $("list").innerHTML=list.length?g.map(([t,f])=>{const r=list.filter(f);return r.
 wireArt($("list"));return}
 const q=$("q").value.toLowerCase(),s=$("src").value,w=+$("when").value,so=$("sort").value;
 let ls=D.leads.filter(l=>inPool(l)&&(!celeb||(l.celebrities||[]).includes(celeb))&&(!s||l.outlets.some(o=>o.source===s))&&(!batch||l.batch===batch)&&(!q||(l.title+" "+l.summary+" "+l.outlets.map(o=>o.source).join(" ")).toLowerCase().includes(q))&&(!w||age(l)<=w));
-ls.sort((a,b)=>(b.published||"").localeCompare(a.published||""));
+/* newest run first, then newest story first; "Earlier" always last */
+const brank=b=>b==="Earlier"?"":b;
+ls.sort((a,b)=>brank(b.batch).localeCompare(brank(a.batch))||(b.published||"").localeCompare(a.published||""));
+/* Fresh tab: only the two latest runs are shown; older fresh stories sit behind one button */
+let olderN=0;
+if(pool==="fresh"&&!showOld&&!q&&!s&&!w&&!batch){const keep=new Set([...new Set(ls.map(l=>l.batch))].filter(b=>b!=="Earlier").sort().reverse().slice(0,2));
+const all=ls;ls=ls.filter(l=>keep.has(l.batch));olderN=all.length-ls.length}
 const plain=!q&&!s&&!w&&!celeb&&!batch&&so==="new";
 $("top").innerHTML="";
 if(batch&&so==="new"){$("top").innerHTML=articlePanel(batch);wireArt($("top"))}
 if(plain&&ls.length){$("top").innerHTML='<h2 class="sec">Top stories</h2><div class="tops">'+ls.slice(0,3).map(topCard).join("")+'</div>';ls=ls.slice(3)}
-if(!ls.length){$("list").innerHTML=plain?(pool==="fresh"?'<div class="empty">Nothing fresh. Every story from the latest runs has a finished article. Check the Used tab.</div>':'<div class="empty">No used stories yet.</div>'):'<div class="empty">No stories match these filters.</div>';return}
-if(so==="new"){$("list").innerHTML='<h2 class="sec">Latest <span class="count">'+ls.length+'</span></h2>'+feed(ls);return}
+if(!ls.length){if(olderN){$("list").innerHTML='<div class="empty">Nothing new in the latest runs.</div>'+olderBtn(olderN);wireOlder();return}$("list").innerHTML=plain?(pool==="fresh"?'<div class="empty">Nothing fresh. Every story from the latest runs has a finished article. Check the Used tab.</div>':'<div class="empty">No used stories yet.</div>'):'<div class="empty">No stories match these filters.</div>';return}
+if(so==="new"){$("list").innerHTML='<h2 class="sec">Latest <span class="count">'+ls.length+'</span></h2>'+feed(ls)+olderBtn(olderN);wireOlder();return}
 const key=l=>so==="cel"?((l.celebrities||[])[0]||"Other"):(l.source||"Other"),g={};
 ls.forEach(l=>(g[key(l)]=g[key(l)]||[]).push(l));
 $("list").innerHTML=Object.keys(g).sort().map(k=>'<h2 class="sec">'+esc(k)+' <span class="count">'+g[k].length+'</span></h2>'+feed(g[k])).join("")}
 ["q","src","when","sort"].forEach(i=>$(i).oninput=render);
 $("batch").onchange=()=>{batch=$("batch").value;render()};
-$("p-fresh").onclick=()=>{pool="fresh";render()};$("p-used").onclick=()=>{pool="used";render()};
+$("p-fresh").onclick=()=>{pool="fresh";showOld=false;render()};$("p-used").onclick=()=>{pool="used";render()};
 $("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};
 
 /* status */

@@ -3,9 +3,10 @@
 You write ONE blog article for moduscarry.com about ONE celebrity, from ONE brief (a JSON file listing that run's news
 stories about them, each with the outlets and links that covered it).
 
-## Writing skills (read all three before drafting; they are part of these instructions)
+## Writing skills (read all four before drafting; they are part of these instructions)
 - `.claude/skills/celebrity-feature-writing/SKILL.md`: publisher-grade structure, hook, numbers, open loops, length.
 - `.claude/skills/geo-aeo-writing/SKILL.md`: answer-first layout, key facts, FAQ, on-page SEO, AI-search citability, safety.
+- `.claude/skills/linking/SKILL.md`: external links on first mention of every named actor/actress/public figure, plus internal links to the site's own pages. Uses the verified menu in the links file you are given.
 - `.claude/skills/humanizer/SKILL.md`: final editing pass to strip AI writing tells. Run it on your draft before saving.
 
 ## Process
@@ -38,7 +39,7 @@ Write the file with front matter `status: skipped` and a one-line `skip_reason:`
 - Sound like an experienced entertainment editor at a major publisher: specific, calm, no hype, no em dashes, no AI-sounding phrases (see the humanizer skill).
 - End with a `## Sources` list of the links you actually used.
 - Use 1-2 existing categories and up to 5 tags, chosen from `data/wp_site.json`. If no category fits, use "Celebrity News" only if it exists, otherwise leave `categories` empty.
-- If a recent post in `data/wp_site.json` is clearly related, link it once inside the text.
+- Links (see the linking skill): link every named actor, actress or public figure once on first mention (Wikipedia or official site from the links file), always link the article's subject externally at least once, and add 2 to 4 internal links to the site's own pages from the links file when it lists them. Use only URLs from the links file or ones you confirmed by opening them; never guess.
 
 ## File format (exactly)
 ```

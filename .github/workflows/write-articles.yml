@@ -54,6 +54,7 @@ jobs:
         Follow prompts/article.md exactly.
         Brief: ${{ matrix.item.brief }}
         Source texts (already downloaded): ${{ matrix.item.sources }}
+        Link menu (verified people and site links): ${{ matrix.item.links }}
         Save the article to: ${{ matrix.item.article }}
         wp_status to use: ${{ matrix.item.wp_status }}
         Celebrity: ${{ matrix.item.celebrity }}   Batch: ${{ matrix.item.batch }}
@@ -65,6 +66,9 @@ jobs:
       - name: Download the source pages for this brief
         continue-on-error: true
         run: python agents/fetch_sources.py "${{ matrix.item.brief }}"
+      - name: Build the link menu (people on Wikipedia, the site's archives and posts)
+        continue-on-error: true
+        run: python agents/link_candidates.py "${{ matrix.item.brief }}"
 
       - name: "Writer 1: Claude account 1"
         id: c1
@@ -122,6 +126,9 @@ jobs:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           prompt: ${{ env.PROMPT }}
 
+      - name: Check the article against the house rules (warnings only)
+        continue-on-error: true
+        run: python agents/check_article.py "$ARTICLE"
       - name: Save the article
         run: |
           git config user.name "researcher-bot"

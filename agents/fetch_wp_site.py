@@ -21,10 +21,11 @@ def main():
         print("WP_URL not set; skipping.")
         return
     site = {
-        "categories": [{"id": c["id"], "name": html.unescape(c["name"]), "count": c["count"]} for c in get("categories?per_page=100")],
-        "tags": [{"id": t["id"], "name": html.unescape(t["name"]), "count": t["count"]} for t in get("tags?per_page=100&orderby=count&order=desc")],
-        "recent_posts": [{"title": html.unescape(p["title"]["rendered"]), "link": p["link"], "categories": p["categories"]}
-                         for p in get("posts?per_page=30&_fields=title,link,categories")],
+        "categories": [{"id": c["id"], "name": html.unescape(c["name"]), "count": c["count"], "link": c.get("link", "")} for c in get("categories?per_page=100")],
+        "tags": [{"id": t["id"], "name": html.unescape(t["name"]), "count": t["count"], "link": t.get("link", "")} for t in get("tags?per_page=100&orderby=count&order=desc")],
+        # only published posts come back from the public API, so every link here is live
+        "recent_posts": [{"title": html.unescape(p["title"]["rendered"]), "link": p["link"], "categories": p["categories"], "tags": p.get("tags", [])}
+                         for p in get("posts?per_page=100&_fields=title,link,categories,tags")],
     }
     (ROOT / "data").mkdir(exist_ok=True)
     (ROOT / "data" / "wp_site.json").write_text(json.dumps(site, indent=2, ensure_ascii=False))

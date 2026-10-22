@@ -23,7 +23,7 @@ def main():
     def add(batch_dir, brief, article):
         data = json.loads(brief.read_text())
         queue.append({"brief": str(brief.relative_to(ROOT)), "article": article, "batch": data["batch"],
-                      "celebrity": data["celebrity"], "sources": f"work/{batch_dir.name}-{brief.stem}/sources.md",
+                      "celebrity": data["celebrity"], "sources": f"work/{batch_dir.name}-{brief.stem}/sources.md", "links": f"work/{batch_dir.name}-{brief.stem}/links.md",
                       "wp_status": cfg.get("wp_default_status", "pending")})
         seen.add(article)
 

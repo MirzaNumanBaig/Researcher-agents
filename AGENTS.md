@@ -46,7 +46,8 @@ Inside that workflow you only write the one article you are given; never set `st
 ## Writing quality (skills live in the repo)
 Articles are 600-800 words, answer-first, publisher style, and checked for AI tells. The rules are in `prompts/article.md`, which tells every writer
 (Claude, Codex, anything else) to read three skill files first: `.claude/skills/celebrity-feature-writing/`, `.claude/skills/geo-aeo-writing/`
-(SEO + AEO + GEO: key facts, FAQ, citable passages) and `.claude/skills/humanizer/` (final editing pass). Edit those files to change the house style.
+(SEO + AEO + GEO: quick summary, FAQ, citable passages), `.claude/skills/linking/` (external link to every named person, internal links to the site) and `.claude/skills/humanizer/` (final editing pass).
+`agents/link_candidates.py` builds the verified link menu per brief (`work/.../links.md`); `agents/check_article.py` warns in the Actions log when an article breaks the rules. Edit those files to change the house style.
 Dashboard Stories view has Fresh / Used tabs: a story is Used once every celebrity in it has a finished article (sent, skipped, rejected, removed) for its run.
 
 ## Provider independence (who writes the articles is swappable)

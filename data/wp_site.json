@@ -3,149 +3,178 @@
     {
       "id": 34,
       "name": "Breaking",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/category/breaking/"
     },
     {
       "id": 31,
       "name": "Celebrities",
-      "count": 1
+      "count": 1,
+      "link": "https://moduscarry.com/category/celebrities/"
     },
     {
       "id": 32,
       "name": "Fashion",
-      "count": 1
+      "count": 1,
+      "link": "https://moduscarry.com/category/fashion/"
     },
     {
       "id": 29,
       "name": "Movies",
-      "count": 4
+      "count": 4,
+      "link": "https://moduscarry.com/category/movies/"
     },
     {
       "id": 30,
       "name": "Music",
-      "count": 4
+      "count": 4,
+      "link": "https://moduscarry.com/category/music/"
     },
     {
       "id": 27,
       "name": "News",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/category/news/"
     },
     {
       "id": 28,
       "name": "TV & Dramas",
-      "count": 4
+      "count": 4,
+      "link": "https://moduscarry.com/category/tv-dramas/"
     },
     {
       "id": 1,
       "name": "Uncategorized",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/category/uncategorized/"
     },
     {
       "id": 33,
       "name": "Videos",
-      "count": 2
+      "count": 2,
+      "link": "https://moduscarry.com/category/videos/"
     }
   ],
   "tags": [
     {
       "id": 39,
       "name": "Breaking",
-      "count": 5
+      "count": 5,
+      "link": "https://moduscarry.com/tag/breaking/"
     },
     {
       "id": 53,
       "name": "Nicole Kidman",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/nicole-kidman/"
     },
     {
       "id": 54,
       "name": "USC",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/usc/"
     },
     {
       "id": 55,
       "name": "Spotlight@SDA",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/spotlightsda/"
     },
     {
       "id": 56,
       "name": "Rabbit Hole",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/rabbit-hole/"
     },
     {
       "id": 57,
       "name": "Rodtang",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/rodtang/"
     },
     {
       "id": 58,
       "name": "Muay Thai",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/muay-thai/"
     },
     {
       "id": 59,
       "name": "Treasure Island",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/treasure-island/"
     },
     {
       "id": 60,
       "name": "Ridley Scott",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/ridley-scott/"
     },
     {
       "id": 52,
       "name": "HBO Max",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/hbo-max/"
     },
     {
       "id": 51,
       "name": "Christopher Nolan",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/christopher-nolan/"
     },
     {
       "id": 43,
       "name": "Chris Hemsworth",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/chris-hemsworth/"
     },
     {
       "id": 44,
       "name": "Archie Rose",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/archie-rose/"
     },
     {
       "id": 45,
       "name": "Luke Hemsworth",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/luke-hemsworth/"
     },
     {
       "id": 46,
       "name": "Extraction 3",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/extraction-3/"
     },
     {
       "id": 47,
       "name": "Avengers: Doomsday",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/avengers-doomsday/"
     },
     {
       "id": 48,
       "name": "Hugh Jackman",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/hugh-jackman/"
     },
     {
       "id": 49,
       "name": "The Prestige",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/the-prestige/"
     },
     {
       "id": 50,
       "name": "The Death of Robin Hood",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/the-death-of-robin-hood/"
     },
     {
       "id": 61,
       "name": "IMAX",
-      "count": 0
+      "count": 0,
+      "link": "https://moduscarry.com/tag/imax/"
     }
   ],
   "recent_posts": [
@@ -154,6 +183,9 @@
       "link": "https://moduscarry.com/sample-lead-story-a-tv-dramas-headline-that-runs-about-this-long/",
       "categories": [
         28
+      ],
+      "tags": [
+        39
       ]
     },
     {
@@ -161,6 +193,9 @@
       "link": "https://moduscarry.com/sample-movies-headline-trailer-news-in-one-short-line/",
       "categories": [
         29
+      ],
+      "tags": [
+        39
       ]
     },
     {
@@ -168,6 +203,9 @@
       "link": "https://moduscarry.com/sample-music-headline-a-new-release-announced-overnight/",
       "categories": [
         30
+      ],
+      "tags": [
+        39
       ]
     },
     {
@@ -175,13 +213,17 @@
       "link": "https://moduscarry.com/sample-movies-headline-a-shoot-wraps-its-final-schedule/",
       "categories": [
         29
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Sample Movies headline: a sequel locks its release date",
       "link": "https://moduscarry.com/sample-movies-headline-a-sequel-locks-its-release-date/",
       "categories": [
         29
+      ],
+      "tags": [
+        39
       ]
     },
     {
@@ -189,34 +231,41 @@
       "link": "https://moduscarry.com/sample-celebrities-headline-an-actor-opens-up-in-a-new-interview/",
       "categories": [
         31
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Sample TV & Dramas headline: episode review with a twist",
       "link": "https://moduscarry.com/sample-tv-dramas-headline-episode-review-with-a-twist/",
       "categories": [
         28
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Sample Fashion headline: day one of bridal week in review",
       "link": "https://moduscarry.com/sample-fashion-headline-day-one-of-bridal-week-in-review/",
       "categories": [
         32
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Sample Music headline: season opener leaks online",
       "link": "https://moduscarry.com/sample-music-headline-season-opener-leaks-online/",
       "categories": [
         30
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Sample TV & Dramas headline: a finale draws a record audience",
       "link": "https://moduscarry.com/sample-tv-dramas-headline-a-finale-draws-a-record-audience/",
       "categories": [
         28
+      ],
+      "tags": [
+        39
       ]
     },
     {
@@ -224,42 +273,48 @@
       "link": "https://moduscarry.com/sample-movies-review-our-full-verdict-on-this-weeks-big-release/",
       "categories": [
         29
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Sample Music headline: an indie band signs its first label deal",
       "link": "https://moduscarry.com/sample-music-headline-an-indie-band-signs-its-first-label-deal/",
       "categories": [
         30
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Sample TV & Dramas headline: the autumn drama slate, ranked",
       "link": "https://moduscarry.com/sample-tv-dramas-headline-the-autumn-drama-slate-ranked/",
       "categories": [
         28
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Sample Music headline: the most-streamed songs this month",
       "link": "https://moduscarry.com/sample-music-headline-the-most-streamed-songs-this-month/",
       "categories": [
         30
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Sample video: backstage with the cast before a premiere",
       "link": "https://moduscarry.com/sample-video-backstage-with-the-cast-before-a-premiere/",
       "categories": [
         33
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Sample video: the red carpet in 60 seconds",
       "link": "https://moduscarry.com/sample-video-the-red-carpet-in-60-seconds/",
       "categories": [
         33
-      ]
+      ],
+      "tags": []
     }
   ]
 }
