@@ -55,6 +55,7 @@ h1{font-size:18px;line-height:1.2;margin:0;font-weight:650;letter-spacing:-.01em
 
 /* toolbar */
 .toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding-block:10px}
+.seg[hidden]{display:none}
 .seg{display:inline-flex;padding:3px;border-radius:10px;background:var(--soft);border:1px solid var(--line)}
 .seg button{border:0;background:transparent;padding:6px 14px;border-radius:7px;font-size:14px;font-weight:500;color:var(--mut)}
 .seg button.on{background:var(--surface);color:var(--ink);box-shadow:var(--shadow);font-weight:600}
@@ -154,6 +155,7 @@ details>div{padding:0 14px 12px}
 <div id="profile"></div>
 <div class="toolbar">
 <div class="seg" role="tablist"><button id="v-stories" class="on">Stories</button><button id="v-articles">Articles</button></div>
+<div class="seg" id="pool-seg" role="tablist"><button id="p-fresh" class="on">Fresh</button><button id="p-used">Used</button></div>
 <input id="q" type="search" placeholder="Search headlines" aria-label="Search headlines">
 <select id="batch" aria-label="Run"></select>
 <select id="src" aria-label="Source"><option value="">All sources</option></select>
@@ -234,7 +236,7 @@ claude setup-token</pre><button class="btn sm copy">Copy</button></div></div></d
 const D=__DATA__,REPO=D.repo;
 const $=i=>document.getElementById(i),esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const store={get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}}};
-let paused=D.paused,celeb="",batch="",view="stories";
+let paused=D.paused,celeb="",batch="",view="stories",pool="fresh";
 const COL=["#a8740a","#2b6cb0","#2f855a","#c05621","#6b46c1","#b83280","#2c7a7b"];
 const col=n=>COL[[...n].reduce((a,c)=>a+c.charCodeAt(0),0)%COL.length];
 const ini=n=>n.split(/\s+/).map(w=>w[0]).slice(0,2).join("").toUpperCase();
@@ -242,6 +244,11 @@ const ago=d=>{const m=Math.round((Date.now()-new Date(d))/6e4);if(m<1)return"jus
 const age=l=>l.published?(Date.now()-new Date(l.published))/36e5:1e9;
 const slug=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
 const say=t=>{$("msg").textContent=t};
+/* A story is "used" once every celebrity it names has a finished article for the story's run (sent to the site, skipped, rejected or removed).
+   Stories from before runs were tracked ("Earlier") can never get a brief, so they count as used. Everything else is fresh. */
+const DONE=["sent","skipped","rejected","removed"];
+const isUsed=l=>l.batch==="Earlier"||((l.celebrities||[]).length>0&&l.celebrities.every(c=>{const a=D.articles.find(x=>x.batch===l.batch&&x.celebrity===c);return a&&DONE.includes(a.status)}));
+const inPool=l=>isUsed(l)===(pool==="used");
 /* Links come from news feeds and WordPress: only http(s) may become a link, so a bad feed item cannot run code here. */
 const safeUrl=u=>/^https?:\/\//i.test(String(u||"").trim())?String(u).trim():"#";
 const safeImg=u=>/^(img\/[\w.-]+|https:\/\/[^\s"'()]+)$/i.test(String(u||""))?u:"";
@@ -270,9 +277,11 @@ $("hand-prompt").textContent="Open "+REPO+" and follow CLAUDE.md. Check the late
 /* filters */
 [...new Set(D.leads.flatMap(l=>l.outlets.map(o=>o.source)).filter(Boolean))].sort().forEach(s=>$("src").add(new Option(s,s)));
 const batches=[...new Set(D.leads.map(l=>l.batch))].sort().reverse();
-$("batch").add(new Option("All runs",""));
-batches.forEach(b=>$("batch").add(new Option(b==="Earlier"?"Earlier":b+" ("+D.leads.filter(l=>l.batch===b).length+")",b)));
-const cnt=n=>D.leads.filter(l=>(l.celebrities||[]).includes(n)).length;
+function batchOptions(){const keep=batch,bs=batches.filter(b=>D.leads.some(l=>l.batch===b&&inPool(l)));
+$("batch").innerHTML="";$("batch").add(new Option("All runs",""));
+bs.forEach(b=>$("batch").add(new Option(b==="Earlier"?"Earlier":b+" ("+D.leads.filter(l=>l.batch===b&&inPool(l)).length+")",b)));
+batch=bs.includes(keep)?keep:"";$("batch").value=batch}
+const cnt=n=>D.leads.filter(l=>inPool(l)&&(l.celebrities||[]).includes(n)).length;
 function av(n,cls){const p=D.profiles[n]||{},ph=safeImg(p.photo);return'<span class="av '+(cls||"")+'" style="background-color:'+col(n)+(ph?';background-image:url('+esc(ph)+')':'')+'">'+(ph?'':esc(ini(n)))+'</span>'}
 function people(){$("people").innerHTML='<button class="who all'+(celeb===""?' on':'')+'" data-v="">All</button>'+D.celebrities.map(n=>'<button class="who'+(n===celeb?' on':'')+'" data-v="'+esc(n)+'">'+av(n)+esc(n)+' <span class="n">'+cnt(n)+'</span></button>').join("");
 document.querySelectorAll(".who").forEach(b=>b.onclick=()=>{celeb=celeb===b.dataset.v?"":b.dataset.v;people();render()})}
@@ -347,7 +356,10 @@ const feed=ls=>'<div class="feed">'+ls.map(rowCard).join("")+'</div>';
 function render(){
 $("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");
 ["q","batch","src","when","sort"].forEach(i=>$(i).hidden=view!=="stories");
-profile();
+$("pool-seg").hidden=view!=="stories";
+$("p-fresh").classList.toggle("on",pool==="fresh");$("p-used").classList.toggle("on",pool==="used");
+$("p-fresh").textContent="Fresh ("+D.leads.filter(l=>!isUsed(l)).length+")";$("p-used").textContent="Used ("+D.leads.filter(isUsed).length+")";
+batchOptions();people();profile();
 if(view==="articles"){$("top").innerHTML="";
 const isDraft=a=>a.status==="approved"||(a.status==="sent"&&a.wp_status!=="publish"),isPub=a=>a.status==="sent"&&a.wp_status==="publish";
 const g=[["Waiting for your approval",a=>a.status==="pending"],["Drafts on the website",isDraft],["Published",isPub],["Being rewritten",a=>a.status==="rewrite"],["Skipped, rejected or removed",a=>!["pending","rewrite"].includes(a.status)&&!isDraft(a)&&!isPub(a)]];
@@ -355,19 +367,20 @@ const list=D.articles.filter(a=>!celeb||a.celebrity===celeb);
 $("list").innerHTML=list.length?g.map(([t,f])=>{const r=list.filter(f);return r.length?'<h2 class="sec">'+t+' <span class="count">'+r.length+'</span></h2>'+r.map(artCard).join(""):""}).join(""):'<div class="empty">No articles yet. Run now collects news and writes them automatically.</div>';
 wireArt($("list"));return}
 const q=$("q").value.toLowerCase(),s=$("src").value,w=+$("when").value,so=$("sort").value;
-let ls=D.leads.filter(l=>(!celeb||(l.celebrities||[]).includes(celeb))&&(!s||l.outlets.some(o=>o.source===s))&&(!batch||l.batch===batch)&&(!q||(l.title+" "+l.summary+" "+l.outlets.map(o=>o.source).join(" ")).toLowerCase().includes(q))&&(!w||age(l)<=w));
+let ls=D.leads.filter(l=>inPool(l)&&(!celeb||(l.celebrities||[]).includes(celeb))&&(!s||l.outlets.some(o=>o.source===s))&&(!batch||l.batch===batch)&&(!q||(l.title+" "+l.summary+" "+l.outlets.map(o=>o.source).join(" ")).toLowerCase().includes(q))&&(!w||age(l)<=w));
 ls.sort((a,b)=>(b.published||"").localeCompare(a.published||""));
 const plain=!q&&!s&&!w&&!celeb&&!batch&&so==="new";
 $("top").innerHTML="";
 if(batch&&so==="new"){$("top").innerHTML=articlePanel(batch);wireArt($("top"))}
 if(plain&&ls.length){$("top").innerHTML='<h2 class="sec">Top stories</h2><div class="tops">'+ls.slice(0,3).map(topCard).join("")+'</div>';ls=ls.slice(3)}
-if(!ls.length){$("list").innerHTML=plain?"":'<div class="empty">No stories match these filters.</div>';return}
+if(!ls.length){$("list").innerHTML=plain?(pool==="fresh"?'<div class="empty">Nothing fresh. Every story from the latest runs has a finished article. Check the Used tab.</div>':'<div class="empty">No used stories yet.</div>'):'<div class="empty">No stories match these filters.</div>';return}
 if(so==="new"){$("list").innerHTML='<h2 class="sec">Latest <span class="count">'+ls.length+'</span></h2>'+feed(ls);return}
 const key=l=>so==="cel"?((l.celebrities||[])[0]||"Other"):(l.source||"Other"),g={};
 ls.forEach(l=>(g[key(l)]=g[key(l)]||[]).push(l));
 $("list").innerHTML=Object.keys(g).sort().map(k=>'<h2 class="sec">'+esc(k)+' <span class="count">'+g[k].length+'</span></h2>'+feed(g[k])).join("")}
 ["q","src","when","sort"].forEach(i=>$(i).oninput=render);
 $("batch").onchange=()=>{batch=$("batch").value;render()};
+$("p-fresh").onclick=()=>{pool="fresh";render()};$("p-used").onclick=()=>{pool="used";render()};
 $("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};
 
 /* status */
