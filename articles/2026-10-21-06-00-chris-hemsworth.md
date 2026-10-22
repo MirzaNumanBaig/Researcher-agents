@@ -13,6 +13,9 @@ sources:
 wp_id: 842
 wp_link: "https://moduscarry.com/?p=842"
 wp_synced: draft
+image: "images/2026-10-21-06-00-chris-hemsworth.png"
+image_alt: "AI-generated illustration for: Chris Hemsworth's Archie Rose Whisky Launches in the US"
+wp_media_id: 857
 ---
 
 **Quick summary**

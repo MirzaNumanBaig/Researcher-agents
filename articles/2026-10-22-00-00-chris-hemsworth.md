@@ -14,6 +14,9 @@ sources:
 wp_id: 813
 wp_link: "https://moduscarry.com/?p=813"
 wp_synced: draft
+image: "images/2026-10-22-00-00-chris-hemsworth.png"
+image_alt: "AI-generated illustration for: Chris Hemsworth fronts Archie Rose whisky push and trains in Thailand"
+wp_media_id: 879
 ---
 
 Chris Hemsworth is putting his name and face behind Australian whisky, with a new global campaign and a redesigned range for Archie Rose Distilling Co., the independent distillery he now co-owns. The trade press covered the launch on 21 October, while the actor was also reported to be training with a kickboxer in Thailand during filming.

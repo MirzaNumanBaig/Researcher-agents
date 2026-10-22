@@ -12,6 +12,9 @@ sources:
 wp_id: 816
 wp_link: "https://moduscarry.com/?p=816"
 wp_synced: draft
+image: "images/2026-10-22-01-00-chris-hemsworth.png"
+image_alt: "AI-generated illustration for: Chris Hemsworth hosts Muay Thai star Rodtang on Extraction 3 set"
+wp_media_id: 885
 ---
 
 Australian actor Chris Hemsworth has welcomed Muay Thai star Rodtang "The Iron Man" Jitmuangnon to the Thailand set of his action sequel *Extraction 3*, according to a report from [myKhel](https://www.mykhel.com/more-sports/one-championship-s-rodtang-meets-hollywood-star-chris-hemsworth-on-extraction-3-set-in-thailand-456933.html).

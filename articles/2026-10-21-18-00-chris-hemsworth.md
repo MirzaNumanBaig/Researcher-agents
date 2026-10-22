@@ -16,6 +16,9 @@ sources:
 wp_id: 850
 wp_link: "https://moduscarry.com/?p=850"
 wp_synced: draft
+image: "images/2026-10-21-18-00-chris-hemsworth.png"
+image_alt: "AI-generated illustration for: Chris Hemsworth and Archie Rose launch new whisky range"
+wp_media_id: 873
 ---
 
 **Quick summary**

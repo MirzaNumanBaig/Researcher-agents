@@ -12,6 +12,9 @@ sources:
 wp_id: 819
 wp_link: "https://moduscarry.com/?p=819"
 wp_synced: draft
+image: "images/2026-10-22-09-00-chris-hemsworth.png"
+image_alt: "AI-generated illustration for: Chris Hemsworth stars in Archie Rose whisky campaign"
+wp_media_id: 891
 ---
 
 Chris Hemsworth has produced and starred in a humorous new campaign for Archie Rose, the Australian distiller he now co-owns, as the brand prepares to enter the United States. The film launched on 21 October, according to [Marketing-Interactive](https://www.marketing-interactive.com/chris-hemsworth-gives-archie-rose-global-push-some-star-power).

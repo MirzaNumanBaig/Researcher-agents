@@ -12,6 +12,9 @@ sources:
 wp_id: 820
 wp_link: "https://moduscarry.com/?p=820"
 wp_synced: draft
+image: "images/2026-10-22-12-00-chris-hemsworth.png"
+image_alt: "AI-generated illustration for: Chris Hemsworth's Archie Rose Eyes US With New Media Agency"
+wp_media_id: 893
 ---
 
 Sydney distillery Archie Rose, which counts Chris Hemsworth as a co-owner, has appointed Cosmo5 Group to lead its awareness media strategy as it prepares to expand into the United States, according to trade publication [B&T](https://www.bandt.com.au/archie-rose-pours-itself-into-the-us-market-with-cosmo5-group-chris-hemsworth/).

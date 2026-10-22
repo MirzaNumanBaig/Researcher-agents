@@ -17,6 +17,9 @@ sources:
 wp_id: 845
 wp_link: "https://moduscarry.com/?p=845"
 wp_synced: draft
+image: "images/2026-10-21-08-00-chris-hemsworth.png"
+image_alt: "AI-generated illustration for: Chris Hemsworth's Archie Rose whisky reaches the US on 23 October"
+wp_media_id: 863
 ---
 
 **Quick summary**

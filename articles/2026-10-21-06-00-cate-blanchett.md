@@ -14,6 +14,9 @@ sources:
 wp_id: 841
 wp_link: "https://moduscarry.com/?p=841"
 wp_synced: draft
+image: "images/2026-10-21-06-00-cate-blanchett.png"
+image_alt: "AI-generated illustration for: Cate Blanchett to host Displacement Film Fund shorts in New York"
+wp_media_id: 855
 ---
 
 **Quick summary**
