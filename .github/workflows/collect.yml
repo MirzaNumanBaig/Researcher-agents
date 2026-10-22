@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
     paths: [config.json]
-    concurrency: {group: repo-writes, cancel-in-progress: false}
+concurrency: {group: repo-writes, cancel-in-progress: false}
 permissions:
   contents: write
 jobs:
