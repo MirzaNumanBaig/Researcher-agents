@@ -7,14 +7,14 @@ batch: "2026-10-23 17:00"
 celebrity: "Chris Hemsworth"
 categories: ["Celebrities"]
 tags: ["Chris Hemsworth", "Archie Rose", "Australian whisky", "Luke Hemsworth"]
-image_prompt: "A flask-shaped glass bottle on dry red earth at golden hour, with barley fields and a distant Australian horizon"
+image_prompt: "A flask-shaped whisky bottle in textured earthy glass on dry red Australian soil beside barley stalks, golden-hour side light, 85mm macro, f/2.8, warm amber highlights with deep shadows"
 sources:
   - "https://www.mediaweek.com.au/archie-rose-and-chris-hemsworth-unveil-new-look-ahead-of-us-launch"
   - "https://thewhiskeywash.com/whiskey-news/archie-rose-australian-whiskies-hit-us-with-chris-hemsworth/"
   - "https://www.bandt.com.au/chris-hemsworth-stars-in-archie-rose-camapaign-ahead-of-us-launch/"
 image: "images/2026-10-23-17-00-chris-hemsworth.png"
 image_alt: "AI-generated illustration for: Chris Hemsworth's Archie Rose Whisky Gets New Look for US"
-wp_media_id: 941
+wp_media_id: 944
 wp_id: 942
 wp_link: "https://moduscarry.com/?p=942"
 wp_synced: draft
