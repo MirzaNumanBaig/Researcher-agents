@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth's Archie Rose Whisky Gets New Look for US"
 description: "Archie Rose has relaunched its whisky range with a flask-shaped bottle co-created with co-owner Chris Hemsworth, ahead of its US debut on 23 October."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-23 17:00"
 celebrity: "Chris Hemsworth"
@@ -12,6 +12,12 @@ sources:
   - "https://www.mediaweek.com.au/archie-rose-and-chris-hemsworth-unveil-new-look-ahead-of-us-launch"
   - "https://thewhiskeywash.com/whiskey-news/archie-rose-australian-whiskies-hit-us-with-chris-hemsworth/"
   - "https://www.bandt.com.au/chris-hemsworth-stars-in-archie-rose-camapaign-ahead-of-us-launch/"
+image: "images/2026-10-23-17-00-chris-hemsworth.png"
+image_alt: "AI-generated illustration for: Chris Hemsworth's Archie Rose Whisky Gets New Look for US"
+wp_media_id: 941
+wp_id: 942
+wp_link: "https://moduscarry.com/?p=942"
+wp_synced: draft
 ---
 
 **Quick summary**
