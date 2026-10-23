@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth's Archie Rose Whisky Gets New Look for US"
 description: "Archie Rose has relaunched its whisky range with a flask-shaped bottle co-created with co-owner Chris Hemsworth, ahead of its US debut on 23 October."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-23 17:00"
 celebrity: "Chris Hemsworth"

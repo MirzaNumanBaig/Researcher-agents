@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett asks London theatre audiences to put phones away"
 description: "Cate Blanchett used a curtain-call address at the National Theatre to ask audiences to stop filming Electra/Persona. Here is what she said."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-20 02:00"
 celebrity: "Cate Blanchett"

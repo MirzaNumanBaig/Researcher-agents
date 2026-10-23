@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth's Archie Rose Eyes US With New Media Agency"
 description: "Archie Rose, co-owned by Chris Hemsworth, has appointed Cosmo5 Group's Ryvalmedia to lead its media push in Australia and the US."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-22 12:00"
 celebrity: "Chris Hemsworth"

@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth's Archie Rose Whisky Launches in the US"
 description: "Archie Rose, the Sydney distillery co-owned by Chris Hemsworth, brings three whiskies to the United States from 23 October."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-21 06:00"
 celebrity: "Chris Hemsworth"

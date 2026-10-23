@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth fronts Archie Rose whisky's US launch"
 description: "Chris Hemsworth and brother Luke star in a 1:45 Archie Rose ad as the Australian whisky brand launches in the US, with AI-built outdoor scenes."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-21 12:00"
 celebrity: "Chris Hemsworth"

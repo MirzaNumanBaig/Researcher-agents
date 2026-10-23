@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth's Archie Rose whisky reaches the US on 23 October"
 description: "Chris Hemsworth's co-owned Archie Rose whisky range, redesigned with a new bottle and a campaign film, goes on sale in eight US states on 23 October."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-21 08:00"
 celebrity: "Chris Hemsworth"

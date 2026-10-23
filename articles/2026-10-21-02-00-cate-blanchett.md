@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett and Nina Hoss's Electra/Persona: Inside the Run"
 description: "Ella Lily Hyland describes sharing the National Theatre stage with Cate Blanchett and Nina Hoss, who swapped roles by coin toss each night."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-21 02:00"
 celebrity: "Cate Blanchett"

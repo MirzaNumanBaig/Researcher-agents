@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth fronts Archie Rose whisky push and trains in Thailand"
 description: "Chris Hemsworth, new co-owner of Archie Rose, stars in a whisky parody ad with brother Luke while filming Extraction 3 in Thailand."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-22 00:00"
 celebrity: "Chris Hemsworth"

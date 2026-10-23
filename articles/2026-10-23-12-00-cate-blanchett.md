@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett joins Prince William on Graham Norton"
 description: "Cate Blanchett sits beside Prince William on The Graham Norton Show tonight for an Earthshot Prize special, days after a BBC interview on displacement."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-23 12:00"
 celebrity: "Cate Blanchett"

@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth stars in Archie Rose whisky campaign"
 description: "Chris Hemsworth, now co-owner of Archie Rose, stars in a tongue-in-cheek film backing the Sydney distiller's US launch and global expansion."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-22 09:00"
 celebrity: "Chris Hemsworth"

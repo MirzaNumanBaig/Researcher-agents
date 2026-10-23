@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth Hosts Muay Thai Star Rodtang on Extraction 3 Set"
 description: "Chris Hemsworth welcomed Thai fighter Rodtang Jitmuangnon to the Extraction 3 set in Ratchaburi and thanked him for a pair of personalised gloves."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-20 16:00"
 celebrity: "Chris Hemsworth"

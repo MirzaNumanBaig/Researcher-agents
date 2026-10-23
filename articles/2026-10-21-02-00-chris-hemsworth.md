@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth's Thor Gets 'Worthy Star' Logo With Steve Rogers"
 description: "Marvel has unveiled the 'Worthy Star' logo pairing Chris Hemsworth's Thor with Chris Evans' Steve Rogers ahead of Avengers: Doomsday on December 18."
-status: sent
+status: removed
 wp_status: draft
 batch: "2026-10-21 02:00"
 celebrity: "Chris Hemsworth"
