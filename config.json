@@ -186,5 +186,5 @@
   ],
   "max_age_hours": 48,
   "headline_must_name": true,
-  "ai_images": true
+  "ai_images": false
 }
