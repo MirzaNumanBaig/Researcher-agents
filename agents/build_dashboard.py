@@ -105,6 +105,7 @@ data = {
     "site": {"name": (cfg.get("site") or {}).get("name", ""), "url": (cfg.get("site") or {}).get("url", "")},
     "wp_status": cfg.get("wp_default_status", "pending"),
     "auto_send": cfg.get("auto_send", True),
+    "ai_images": cfg.get("ai_images", True),
     "timezone": cfg.get("timezone", "UTC"),
     "interval_hours": cfg.get("interval_hours", 3),
     "last_run": usage.get("last_run"),
