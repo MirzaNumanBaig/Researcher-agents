@@ -1,5 +1,47 @@
 [
   {
+    "path": "articles/2026-10-24-07-00-cate-blanchett.md",
+    "title": "Cate Blanchett eyed for Todd Haynes' The Maids",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-10-24 07:00",
+    "celebrity": "Cate Blanchett",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Same Todd Haynes / The Maids news was already published in articles/2026-10-24-04-00-cate-blanchett.md; these sources add no new facts.",
+    "rewrite_note": ""
+  },
+  {
+    "path": "articles/2026-10-24-07-00-the-kid-laroi.md",
+    "title": "The Kid LAROI",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-24 07:00",
+    "celebrity": "The Kid LAROI",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text",
+    "rewrite_note": ""
+  },
+  {
+    "path": "articles/2026-10-24-07-00-troye-sivan.md",
+    "title": "Troye Sivan",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-24 07:00",
+    "celebrity": "Troye Sivan",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text",
+    "rewrite_note": ""
+  },
+  {
     "path": "articles/2026-10-24-04-00-cate-blanchett.md",
     "title": "Cate Blanchett eyed for Todd Haynes' The Maids",
     "description": "Todd Haynes says his next film adapts Jean Genet's The Maids with Cate Blanchett likely to star, as her Displacement Film Fund releases five shorts.",
