@@ -33,7 +33,7 @@ def all_pages(path):
         try:
             batch = call(f"{path}{sep}per_page=100&page={page}")
         except urllib.error.HTTPError as e:
-            if e.code == 400:  # page beyond the last one
+            if e.code == 400 and page > 1:  # page beyond the last one
                 break
             raise
         out += batch
@@ -58,17 +58,17 @@ def main():
         print(f"note: could not read site settings ({e}); the logo/icon are protected only if a page uses them")
     keep.discard(0)
     keep.discard(None)
-    media = {m["id"]: m for m in all_pages("media?context=edit&status=any&_fields=id,post,source_url,title")}
+    media = {m["id"]: m for m in all_pages("media?context=edit&status=inherit,private&_fields=id,post,source_url,title")}
     doomed = {p["featured_media"] for p in posts if p.get("featured_media")} | {i for i, m in media.items() if m.get("post") in post_ids}
     skipped = doomed & keep
-    doomed = {i for i in doomed - keep if i in media}
+    doomed -= keep
 
     print(f"{'DELETING' if DELETE else 'DRY RUN'}: {len(posts)} posts, {len(doomed)} images "
-          f"({'permanently' if PERMANENT else 'posts to trash'}); {len(skipped)} image(s) protected, {len(media) - len(doomed)} other media untouched\n")
+          f"({'permanently' if PERMANENT else 'posts to trash'}); {len(skipped)} image(s) protected, {len(set(media) - doomed)} other media untouched\n")
     for p in sorted(posts, key=lambda p: p["id"]):
         print(f"post  {p['id']:>5}  {p['status']:<8} {html.unescape(p['title'].get('raw') or p['title'].get('rendered', ''))[:80]}")
     for i in sorted(doomed):
-        print(f"image {i:>5}  {media[i]['source_url']}")
+        print(f"image {i:>5}  {media.get(i, {}).get('source_url', '(not in media list)')}")
     if not DELETE:
         print("\nNothing deleted. Run again with delete=true and confirm=DELETE.")
         return
