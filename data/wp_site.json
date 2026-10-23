@@ -9,25 +9,25 @@
     {
       "id": 31,
       "name": "Celebrities",
-      "count": 10,
+      "count": 17,
       "link": "https://moduscarry.com/category/celebrities/"
     },
     {
       "id": 32,
       "name": "Fashion",
-      "count": 0,
+      "count": 1,
       "link": "https://moduscarry.com/category/fashion/"
     },
     {
       "id": 29,
       "name": "Movies",
-      "count": 6,
+      "count": 9,
       "link": "https://moduscarry.com/category/movies/"
     },
     {
       "id": 30,
       "name": "Music",
-      "count": 2,
+      "count": 3,
       "link": "https://moduscarry.com/category/music/"
     },
     {
@@ -39,7 +39,7 @@
     {
       "id": 28,
       "name": "TV & Dramas",
-      "count": 1,
+      "count": 2,
       "link": "https://moduscarry.com/category/tv-dramas/"
     },
     {
@@ -57,16 +57,46 @@
   ],
   "tags": [
     {
-      "id": 53,
-      "name": "Nicole Kidman",
-      "count": 2,
-      "link": "https://moduscarry.com/tag/nicole-kidman/"
+      "id": 125,
+      "name": "Amanda Ghost",
+      "count": 3,
+      "link": "https://moduscarry.com/tag/amanda-ghost/"
+    },
+    {
+      "id": 123,
+      "name": "The Deb",
+      "count": 3,
+      "link": "https://moduscarry.com/tag/the-deb/"
     },
     {
       "id": 122,
       "name": "Rebel Wilson",
-      "count": 2,
+      "count": 3,
       "link": "https://moduscarry.com/tag/rebel-wilson/"
+    },
+    {
+      "id": 53,
+      "name": "Nicole Kidman",
+      "count": 3,
+      "link": "https://moduscarry.com/tag/nicole-kidman/"
+    },
+    {
+      "id": 107,
+      "name": "Jacob Elordi",
+      "count": 3,
+      "link": "https://moduscarry.com/tag/jacob-elordi/"
+    },
+    {
+      "id": 111,
+      "name": "Denis Villeneuve",
+      "count": 2,
+      "link": "https://moduscarry.com/tag/denis-villeneuve/"
+    },
+    {
+      "id": 124,
+      "name": "Charlotte MacInnes",
+      "count": 2,
+      "link": "https://moduscarry.com/tag/charlotte-macinnes/"
     },
     {
       "id": 110,
@@ -87,28 +117,46 @@
       "link": "https://moduscarry.com/tag/james-bond/"
     },
     {
-      "id": 125,
-      "name": "Amanda Ghost",
+      "id": 70,
+      "name": "Netflix",
       "count": 2,
-      "link": "https://moduscarry.com/tag/amanda-ghost/"
+      "link": "https://moduscarry.com/tag/netflix/"
     },
     {
-      "id": 107,
-      "name": "Jacob Elordi",
+      "id": 106,
+      "name": "Kai Widdrington",
       "count": 2,
-      "link": "https://moduscarry.com/tag/jacob-elordi/"
+      "link": "https://moduscarry.com/tag/kai-widdrington/"
     },
     {
-      "id": 111,
-      "name": "Denis Villeneuve",
+      "id": 105,
+      "name": "Strictly Come Dancing",
       "count": 2,
-      "link": "https://moduscarry.com/tag/denis-villeneuve/"
+      "link": "https://moduscarry.com/tag/strictly-come-dancing/"
     },
     {
-      "id": 123,
-      "name": "The Deb",
+      "id": 104,
+      "name": "Delta Goodrem",
       "count": 2,
-      "link": "https://moduscarry.com/tag/the-deb/"
+      "link": "https://moduscarry.com/tag/delta-goodrem/"
+    },
+    {
+      "id": 96,
+      "name": "Adéla",
+      "count": 2,
+      "link": "https://moduscarry.com/tag/adela/"
+    },
+    {
+      "id": 126,
+      "name": "Russell Crowe",
+      "count": 2,
+      "link": "https://moduscarry.com/tag/russell-crowe/"
+    },
+    {
+      "id": 116,
+      "name": "Miranda Kerr",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/miranda-kerr/"
     },
     {
       "id": 115,
@@ -135,94 +183,28 @@
       "link": "https://moduscarry.com/tag/kylie-minogue/"
     },
     {
-      "id": 116,
-      "name": "Miranda Kerr",
+      "id": 87,
+      "name": "Displacement Film Fund",
       "count": 1,
-      "link": "https://moduscarry.com/tag/miranda-kerr/"
+      "link": "https://moduscarry.com/tag/displacement-film-fund/"
     },
     {
-      "id": 96,
-      "name": "Adéla",
+      "id": 138,
+      "name": "Marty Supreme",
       "count": 1,
-      "link": "https://moduscarry.com/tag/adela/"
+      "link": "https://moduscarry.com/tag/marty-supreme/"
     },
     {
-      "id": 104,
-      "name": "Delta Goodrem",
+      "id": 81,
+      "name": "Margot Robbie",
       "count": 1,
-      "link": "https://moduscarry.com/tag/delta-goodrem/"
-    },
-    {
-      "id": 105,
-      "name": "Strictly Come Dancing",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/strictly-come-dancing/"
-    },
-    {
-      "id": 106,
-      "name": "Kai Widdrington",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/kai-widdrington/"
-    },
-    {
-      "id": 70,
-      "name": "Netflix",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/netflix/"
+      "link": "https://moduscarry.com/tag/margot-robbie/"
     },
     {
       "id": 117,
       "name": "Evan Spiegel",
       "count": 1,
       "link": "https://moduscarry.com/tag/evan-spiegel/"
-    },
-    {
-      "id": 131,
-      "name": "She's the Best",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/shes-the-best/"
-    },
-    {
-      "id": 130,
-      "name": "Troye Sivan",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/troye-sivan/"
-    },
-    {
-      "id": 129,
-      "name": "Ethan Hawke",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/ethan-hawke/"
-    },
-    {
-      "id": 127,
-      "name": "The Weight",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/the-weight/"
-    },
-    {
-      "id": 126,
-      "name": "Russell Crowe",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/russell-crowe/"
-    },
-    {
-      "id": 124,
-      "name": "Charlotte MacInnes",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/charlotte-macinnes/"
-    },
-    {
-      "id": 128,
-      "name": "Unabomber",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/unabomber/"
-    },
-    {
-      "id": 132,
-      "name": "Ian McKellen",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/ian-mckellen/"
     },
     {
       "id": 118,
@@ -237,10 +219,88 @@
       "link": "https://moduscarry.com/tag/philanthropy/"
     },
     {
-      "id": 120,
-      "name": "Billboard Hot 100",
+      "id": 142,
+      "name": "Jimmy Fallon",
       "count": 1,
-      "link": "https://moduscarry.com/tag/billboard-hot-100/"
+      "link": "https://moduscarry.com/tag/jimmy-fallon/"
+    },
+    {
+      "id": 141,
+      "name": "Jennie",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/jennie/"
+    },
+    {
+      "id": 140,
+      "name": "Chanel",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/chanel/"
+    },
+    {
+      "id": 139,
+      "name": "Hailey Bieber",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/hailey-bieber/"
+    },
+    {
+      "id": 137,
+      "name": "Kylie Jenner",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/kylie-jenner/"
+    },
+    {
+      "id": 136,
+      "name": "Kendall Jenner",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/kendall-jenner/"
+    },
+    {
+      "id": 135,
+      "name": "The New Yorker",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/the-new-yorker/"
+    },
+    {
+      "id": 134,
+      "name": "The Maids",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/the-maids/"
+    },
+    {
+      "id": 133,
+      "name": "Todd Haynes",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/todd-haynes/"
+    },
+    {
+      "id": 132,
+      "name": "Ian McKellen",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/ian-mckellen/"
+    },
+    {
+      "id": 130,
+      "name": "Troye Sivan",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/troye-sivan/"
+    },
+    {
+      "id": 129,
+      "name": "Ethan Hawke",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/ethan-hawke/"
+    },
+    {
+      "id": 128,
+      "name": "Unabomber",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/unabomber/"
+    },
+    {
+      "id": 127,
+      "name": "The Weight",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/the-weight/"
     },
     {
       "id": 121,
@@ -249,112 +309,34 @@
       "link": "https://moduscarry.com/tag/the-tonight-show/"
     },
     {
-      "id": 90,
-      "name": "Australian whisky",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/australian-whisky/"
+      "id": 120,
+      "name": "Billboard Hot 100",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/billboard-hot-100/"
     },
     {
-      "id": 92,
-      "name": "Vogue Germany",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/vogue-germany/"
+      "id": 143,
+      "name": "Moulin Rouge!",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/moulin-rouge-2/"
     },
     {
-      "id": 93,
-      "name": "Keith Urban",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/keith-urban/"
+      "id": 131,
+      "name": "She's the Best",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/shes-the-best/"
     },
     {
-      "id": 94,
-      "name": "Christian Bale",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/christian-bale/"
-    },
-    {
-      "id": 95,
-      "name": "Sunday Rose Kidman Urban",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/sunday-rose-kidman-urban/"
-    },
-    {
-      "id": 91,
-      "name": "Sunday Rose",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/sunday-rose/"
-    },
-    {
-      "id": 97,
-      "name": "Babygirl",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/babygirl/"
-    },
-    {
-      "id": 98,
-      "name": "Eddie Redmayne",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/eddie-redmayne/"
-    },
-    {
-      "id": 99,
-      "name": "The Danish Girl",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/the-danish-girl/"
-    },
-    {
-      "id": 100,
-      "name": "Cashmere coconut nails",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/cashmere-coconut-nails/"
-    },
-    {
-      "id": 101,
-      "name": "Graham Norton",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/graham-norton/"
-    },
-    {
-      "id": 102,
-      "name": "Prince William",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/prince-william/"
-    },
-    {
-      "id": 103,
-      "name": "Earthshot Prize",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/earthshot-prize/"
+      "id": 62,
+      "name": "Cate Blanchett",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/cate-blanchett/"
     },
     {
       "id": 39,
       "name": "Breaking",
       "count": 0,
       "link": "https://moduscarry.com/tag/breaking/"
-    },
-    {
-      "id": 89,
-      "name": "IFFR",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/iffr/"
-    },
-    {
-      "id": 43,
-      "name": "Chris Hemsworth",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/chris-hemsworth/"
-    },
-    {
-      "id": 56,
-      "name": "Rabbit Hole",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/rabbit-hole/"
-    },
-    {
-      "id": 57,
-      "name": "Rodtang",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/rodtang/"
     },
     {
       "id": 58,
@@ -381,12 +363,6 @@
       "link": "https://moduscarry.com/tag/imax/"
     },
     {
-      "id": 62,
-      "name": "Cate Blanchett",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/cate-blanchett/"
-    },
-    {
       "id": 63,
       "name": "Electra/Persona",
       "count": 0,
@@ -399,16 +375,52 @@
       "link": "https://moduscarry.com/tag/national-theatre/"
     },
     {
-      "id": 55,
-      "name": "Spotlight@SDA",
+      "id": 65,
+      "name": "Victoria's Secret Fashion Show",
       "count": 0,
-      "link": "https://moduscarry.com/tag/spotlightsda/"
+      "link": "https://moduscarry.com/tag/victorias-secret-fashion-show/"
     },
     {
-      "id": 54,
-      "name": "USC",
+      "id": 66,
+      "name": "Gucci bangs",
       "count": 0,
-      "link": "https://moduscarry.com/tag/usc/"
+      "link": "https://moduscarry.com/tag/gucci-bangs/"
+    },
+    {
+      "id": 67,
+      "name": "Celebrity Style",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/celebrity-style/"
+    },
+    {
+      "id": 68,
+      "name": "Jodie Comer",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/jodie-comer/"
+    },
+    {
+      "id": 69,
+      "name": "Rodtang Jitmuangnon",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/rodtang-jitmuangnon/"
+    },
+    {
+      "id": 57,
+      "name": "Rodtang",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/rodtang/"
+    },
+    {
+      "id": 56,
+      "name": "Rabbit Hole",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/rabbit-hole/"
+    },
+    {
+      "id": 43,
+      "name": "Chris Hemsworth",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/chris-hemsworth/"
     },
     {
       "id": 44,
@@ -465,100 +477,16 @@
       "link": "https://moduscarry.com/tag/hbo-max/"
     },
     {
-      "id": 65,
-      "name": "Victoria's Secret Fashion Show",
+      "id": 54,
+      "name": "USC",
       "count": 0,
-      "link": "https://moduscarry.com/tag/victorias-secret-fashion-show/"
+      "link": "https://moduscarry.com/tag/usc/"
     },
     {
-      "id": 66,
-      "name": "Gucci bangs",
+      "id": 55,
+      "name": "Spotlight@SDA",
       "count": 0,
-      "link": "https://moduscarry.com/tag/gucci-bangs/"
-    },
-    {
-      "id": 79,
-      "name": "Ella Lily Hyland",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/ella-lily-hyland/"
-    },
-    {
-      "id": 80,
-      "name": "Thor",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/thor/"
-    },
-    {
-      "id": 81,
-      "name": "Margot Robbie",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/margot-robbie/"
-    },
-    {
-      "id": 82,
-      "name": "Bradley Cooper",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/bradley-cooper/"
-    },
-    {
-      "id": 83,
-      "name": "Ocean's Eleven",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/oceans-eleven/"
-    },
-    {
-      "id": 84,
-      "name": "Victoria's Secret",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/victorias-secret/"
-    },
-    {
-      "id": 85,
-      "name": "Jean Paul Gaultier",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/jean-paul-gaultier/"
-    },
-    {
-      "id": 86,
-      "name": "Practical Magic",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/practical-magic/"
-    },
-    {
-      "id": 87,
-      "name": "Displacement Film Fund",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/displacement-film-fund/"
-    },
-    {
-      "id": 78,
-      "name": "Nina Hoss",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/nina-hoss/"
-    },
-    {
-      "id": 77,
-      "name": "Paramount+",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/paramount/"
-    },
-    {
-      "id": 67,
-      "name": "Celebrity Style",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/celebrity-style/"
-    },
-    {
-      "id": 68,
-      "name": "Jodie Comer",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/jodie-comer/"
-    },
-    {
-      "id": 69,
-      "name": "Rodtang Jitmuangnon",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/rodtang-jitmuangnon/"
+      "link": "https://moduscarry.com/tag/spotlightsda/"
     },
     {
       "id": 71,
@@ -571,6 +499,96 @@
       "name": "Avengers: Secret Wars",
       "count": 0,
       "link": "https://moduscarry.com/tag/avengers-secret-wars/"
+    },
+    {
+      "id": 98,
+      "name": "Eddie Redmayne",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/eddie-redmayne/"
+    },
+    {
+      "id": 97,
+      "name": "Babygirl",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/babygirl/"
+    },
+    {
+      "id": 83,
+      "name": "Ocean's Eleven",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/oceans-eleven/"
+    },
+    {
+      "id": 95,
+      "name": "Sunday Rose Kidman Urban",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/sunday-rose-kidman-urban/"
+    },
+    {
+      "id": 94,
+      "name": "Christian Bale",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/christian-bale/"
+    },
+    {
+      "id": 84,
+      "name": "Victoria's Secret",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/victorias-secret/"
+    },
+    {
+      "id": 92,
+      "name": "Vogue Germany",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/vogue-germany/"
+    },
+    {
+      "id": 91,
+      "name": "Sunday Rose",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/sunday-rose/"
+    },
+    {
+      "id": 90,
+      "name": "Australian whisky",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/australian-whisky/"
+    },
+    {
+      "id": 89,
+      "name": "IFFR",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/iffr/"
+    },
+    {
+      "id": 88,
+      "name": "Film Forum",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/film-forum/"
+    },
+    {
+      "id": 85,
+      "name": "Jean Paul Gaultier",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/jean-paul-gaultier/"
+    },
+    {
+      "id": 99,
+      "name": "The Danish Girl",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/the-danish-girl/"
+    },
+    {
+      "id": 100,
+      "name": "Cashmere coconut nails",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/cashmere-coconut-nails/"
+    },
+    {
+      "id": 101,
+      "name": "Graham Norton",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/graham-norton/"
     },
     {
       "id": 73,
@@ -597,13 +615,144 @@
       "link": "https://moduscarry.com/tag/elle-fanning/"
     },
     {
-      "id": 88,
-      "name": "Film Forum",
+      "id": 77,
+      "name": "Paramount+",
       "count": 0,
-      "link": "https://moduscarry.com/tag/film-forum/"
+      "link": "https://moduscarry.com/tag/paramount/"
+    },
+    {
+      "id": 78,
+      "name": "Nina Hoss",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/nina-hoss/"
+    },
+    {
+      "id": 79,
+      "name": "Ella Lily Hyland",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/ella-lily-hyland/"
+    },
+    {
+      "id": 80,
+      "name": "Thor",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/thor/"
+    },
+    {
+      "id": 93,
+      "name": "Keith Urban",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/keith-urban/"
+    },
+    {
+      "id": 82,
+      "name": "Bradley Cooper",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/bradley-cooper/"
+    },
+    {
+      "id": 103,
+      "name": "Earthshot Prize",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/earthshot-prize/"
     }
   ],
   "recent_posts": [
+    {
+      "title": "Russell Crowe’s Gladiator Lands on Netflix This Weekend",
+      "link": "https://moduscarry.com/russell-crowes-gladiator-lands-on-netflix-this-weekend/",
+      "categories": [
+        31,
+        29
+      ],
+      "tags": [
+        70,
+        126
+      ]
+    },
+    {
+      "title": "Rebel Wilson wins $359,000 as The Deb producers get $10",
+      "link": "https://moduscarry.com/rebel-wilson-wins-359000-as-the-deb-producers-get-10/",
+      "categories": [
+        31,
+        29
+      ],
+      "tags": [
+        125,
+        124,
+        122,
+        123
+      ]
+    },
+    {
+      "title": "Adéla performs Nicole Kidman song on Fallon, and the star laughs",
+      "link": "https://moduscarry.com/adela-performs-nicole-kidman-song-on-fallon-and-the-star-laughs/",
+      "categories": [
+        31,
+        30
+      ],
+      "tags": [
+        96,
+        142,
+        143,
+        53
+      ]
+    },
+    {
+      "title": "Margot Robbie’s Chanel Jacket Look Tops a Three-Way Style Test",
+      "link": "https://moduscarry.com/margot-robbies-chanel-jacket-look-tops-a-three-way-style-test/",
+      "categories": [
+        31,
+        32
+      ],
+      "tags": [
+        140,
+        139,
+        141,
+        81
+      ]
+    },
+    {
+      "title": "Jacob Elordi and Kendall Jenner: Engagement Talk Is Unconfirmed",
+      "link": "https://moduscarry.com/jacob-elordi-and-kendall-jenner-engagement-talk-is-unconfirmed/",
+      "categories": [
+        31
+      ],
+      "tags": [
+        107,
+        136,
+        137,
+        138
+      ]
+    },
+    {
+      "title": "Delta Goodrem wants a Eurovision week on Strictly",
+      "link": "https://moduscarry.com/delta-goodrem-wants-a-eurovision-week-on-strictly/",
+      "categories": [
+        31,
+        28
+      ],
+      "tags": [
+        104,
+        106,
+        105
+      ]
+    },
+    {
+      "title": "Cate Blanchett eyed for Todd Haynes’ The Maids",
+      "link": "https://moduscarry.com/cate-blanchett-eyed-for-todd-haynes-the-maids/",
+      "categories": [
+        31,
+        29
+      ],
+      "tags": [
+        62,
+        87,
+        134,
+        135,
+        133
+      ]
+    },
     {
       "title": "Rebel Wilson’s The Deb trial may move to March 2027",
       "link": "https://moduscarry.com/rebel-wilsons-the-deb-trial-may-move-to-march-2027/",
