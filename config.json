@@ -88,16 +88,87 @@
       "website": "",
       "photo_credit": "https://commons.wikimedia.org/wiki/File:Cate_Blanchett-63298_%28cropped_2%29.jpg"
     },
-    "Jacob Elordi": {},
-    "Kylie Minogue": {},
-    "Russell Crowe": {},
-    "Troye Sivan": {},
-    "Delta Goodrem": {},
-    "Rebel Wilson": {},
-    "Miranda Kerr": {},
-    "Liam Hemsworth": {},
-    "The Kid LAROI": {},
-    "Sam Worthington": {}
+    "Jacob Elordi": {
+      "instagram": "https://www.instagram.com/jacobelordi/",
+      "x": "https://x.com/IAmJacobElordi",
+      "youtube": "https://www.youtube.com/channel/UCKy3LLlSsfnXFbB9euzw7Lw",
+      "photo": "img/jacob-elordi.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:JacobElordi-TIFF2025-01_%28cropped_2%29.png"
+    },
+    "Kylie Minogue": {
+      "instagram": "https://www.instagram.com/kylieminogue/",
+      "tiktok": "https://www.tiktok.com/@kylieminogue",
+      "x": "https://x.com/kylieminogue",
+      "facebook": "https://www.facebook.com/kylieminogue",
+      "youtube": "https://www.youtube.com/channel/UCyd8nl1opqfEVwJer32vURA",
+      "website": "https://kylie.com",
+      "photo": "img/kylie-minogue.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:KylieMinogue-byPhilipRomano_%28cropped%29.jpg"
+    },
+    "Russell Crowe": {
+      "instagram": "https://www.instagram.com/russellcrowe/",
+      "x": "https://x.com/russellcrowe",
+      "facebook": "https://www.facebook.com/russellcrowe",
+      "photo": "img/russell-crowe.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Russell_Crowe_on_the_Green_Carpet_at_the_2025_Zurich_Film_Festival_06_%28cropped%29.jpg"
+    },
+    "Troye Sivan": {
+      "instagram": "https://www.instagram.com/troyesivan/",
+      "tiktok": "https://www.tiktok.com/@troyesivan",
+      "x": "https://x.com/troyesivan",
+      "facebook": "https://www.facebook.com/troyesivan",
+      "youtube": "https://www.youtube.com/channel/UCWcrr8Q9INGNp-PTCLTzc8Q",
+      "website": "https://troyesivan.com",
+      "photo": "img/troye-sivan.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Troye_Sivan_-_1999_-_Primavera_Sound_Barcelona_-_2024.jpg"
+    },
+    "Delta Goodrem": {
+      "instagram": "https://www.instagram.com/deltagoodrem/",
+      "tiktok": "https://www.tiktok.com/@deltagoodrem",
+      "x": "https://x.com/deltagoodrem",
+      "facebook": "https://www.facebook.com/DeltaGoodremMusic",
+      "youtube": "https://www.youtube.com/channel/UCoY0y0Phy8UzDteuNVZw2wg",
+      "website": "http://www.deltagoodrem.com",
+      "photo": "img/delta-goodrem.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Delta_Goodrem_in_Concert_Cropped.jpg"
+    },
+    "Rebel Wilson": {
+      "instagram": "https://www.instagram.com/rebelwilson/",
+      "tiktok": "https://www.tiktok.com/@rebelwilson",
+      "x": "https://x.com/RebelWilson",
+      "facebook": "https://www.facebook.com/rebelwilson",
+      "photo": "img/rebel-wilson.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Rebel_Wilson_-_Girl_Group_-_TIFF_2026.jpg"
+    },
+    "Miranda Kerr": {
+      "instagram": "https://www.instagram.com/mirandakerr/",
+      "x": "https://x.com/mirandakerr",
+      "facebook": "https://www.facebook.com/MirandaKerr",
+      "website": "http://www.mirandakerr.com",
+      "photo": "img/miranda-kerr.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Miranda_Kerr_-_Abbot_Kinney_2025.jpg"
+    },
+    "Liam Hemsworth": {
+      "instagram": "https://www.instagram.com/liamhemsworth/",
+      "x": "https://x.com/LiamHemsworth",
+      "facebook": "https://www.facebook.com/liamhemsworth",
+      "photo": "img/liam-hemsworth.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Liam_Hemsworth_SDCC_2015_%28file%29.jpg"
+    },
+    "The Kid LAROI": {
+      "instagram": "https://www.instagram.com/thekidlaroi/",
+      "tiktok": "https://www.tiktok.com/@thekidlaroi",
+      "x": "https://x.com/thekidlaroi",
+      "facebook": "https://www.facebook.com/thekidlaroi",
+      "youtube": "https://www.youtube.com/channel/UC6G2vAJrt407lwiynW116Eg",
+      "website": "https://www.tkl.world/",
+      "photo": "img/the-kid-laroi.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:LEAD_PRESS_PC_ADAMKARGENIAN_%28cropped%29.tif"
+    },
+    "Sam Worthington": {
+      "photo": "img/sam-worthington.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Avatar_The_Way_of_Water_Tokyo_Press_Conference_Sam_Worthington_%2852563252594%29_%28cropped%29.jpg"
+    }
   },
   "interval_hours": 3,
   "auto_send": true,
