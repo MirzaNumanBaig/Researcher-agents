@@ -1,5 +1,33 @@
 [
   {
+    "path": "articles/2026-10-23-17-00-chris-hemsworth.md",
+    "title": "Chris Hemsworth's Archie Rose Whisky Gets New Look for US",
+    "description": "Archie Rose has relaunched its whisky range with a flask-shaped bottle co-created with co-owner Chris Hemsworth, ahead of its US debut on 23 October.",
+    "status": "sent",
+    "wp_status": "draft",
+    "wp_synced": "draft",
+    "batch": "2026-10-23 17:00",
+    "celebrity": "Chris Hemsworth",
+    "wp_link": "https://moduscarry.com/?p=942",
+    "wp_id": 942,
+    "skip_reason": "",
+    "rewrite_note": ""
+  },
+  {
+    "path": "articles/2026-10-23-17-00-margot-robbie.md",
+    "title": "Margot Robbie",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-23 17:00",
+    "celebrity": "Margot Robbie",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text; the only story is a 2015 Oscars jewellery gallery (old, not news)",
+    "rewrite_note": ""
+  },
+  {
     "path": "articles/2026-10-23-12-00-cate-blanchett.md",
     "title": "Cate Blanchett joins Prince William on Graham Norton",
     "description": "Cate Blanchett sits beside Prince William on The Graham Norton Show tonight for an Earthshot Prize special, days after a BBC interview on displacement.",
