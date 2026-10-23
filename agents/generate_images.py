@@ -1,6 +1,6 @@
 """Create one featured image per article with Cloudflare Workers AI (standard library only).
 
-Env (GitHub Actions secrets): CF_ACCOUNT_ID, CF_API_TOKEN.  Optional: CF_IMAGE_MODEL (default @cf/lykon/dreamshaper-8-lcm).
+Env (GitHub Actions secrets): CF_ACCOUNT_ID, CF_API_TOKEN.  Optional: CF_IMAGE_MODEL (default @cf/black-forest-labs/flux-2-klein-4b).
 For every article whose status is pending/approved/sent and that has no `image:` yet, it reads the front matter `image_prompt`
 (a scene description the writer produced; never a real person), asks Cloudflare for a 16:9 image, saves it as
 articles/images/<article-name>.png (git-ignored; the publish step uploads it in the same run) and adds `image:` and `image_alt:` to the front matter. publish_wordpress.py uploads it
@@ -18,9 +18,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 ACCOUNT, TOKEN = os.environ.get("CF_ACCOUNT_ID", "").strip(), os.environ.get("CF_API_TOKEN", "").strip()
-MODEL = os.environ.get("CF_IMAGE_MODEL", "@cf/lykon/dreamshaper-8-lcm")
+MODEL = os.environ.get("CF_IMAGE_MODEL", "@cf/black-forest-labs/flux-2-klein-4b")
 BASE = os.environ.get("CF_API_BASE", "https://api.cloudflare.com/client/v4").rstrip("/")
-STYLE = "editorial photograph, cinematic lighting, shallow depth of field, rich colour, no text, no logos, no watermark, no people's faces"
+STYLE = "photorealistic editorial photograph, natural cinematic lighting, shallow depth of field, no text, no logos, no watermark, no recognisable faces"
 FALLBACK = {  # used only when the writer gave no image_prompt; scenes, never people
     "movies": "a empty cinema auditorium with red seats and a bright projector beam",
     "tv": "a cosy living room with a glowing television in the evening",
@@ -64,10 +64,24 @@ def scene_for(front):
     return DEFAULT_SCENE
 
 
+def multipart(fields):
+    boundary = "----ra" + os.urandom(8).hex()
+    parts = []
+    for k, v in fields.items():
+        parts.append(f'--{boundary}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'.encode())
+    parts.append(f"--{boundary}--\r\n".encode())
+    return b"".join(parts), f"multipart/form-data; boundary={boundary}"
+
+
 def render(prompt):
-    body = json.dumps({"prompt": f"{prompt}, {STYLE}", "width": 1024, "height": 576, "num_steps": 8}).encode()
+    # FLUX.2 klein models need multipart form data; the dreamshaper/schnell models take JSON.
+    if "flux-2" in MODEL:
+        body, ctype_in = multipart({"prompt": f"{prompt}, {STYLE}", "width": 1024, "height": 576})
+    else:
+        body = json.dumps({"prompt": f"{prompt}, {STYLE}", "width": 1024, "height": 576, "num_steps": 8}).encode()
+        ctype_in = "application/json"
     req = urllib.request.Request(f"{BASE}/accounts/{ACCOUNT}/ai/run/{MODEL}", data=body, method="POST",
-                                 headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json", "User-Agent": "researcher-agents"})
+                                 headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": ctype_in, "User-Agent": "researcher-agents"})
     with urllib.request.urlopen(req, timeout=120) as r:
         raw, ctype = r.read(), r.headers.get("Content-Type", "")
     if ctype.startswith("image/"):
