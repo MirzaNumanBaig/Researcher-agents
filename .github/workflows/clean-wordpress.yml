@@ -1,0 +1,36 @@
+name: Clean WordPress (delete all posts and their images)
+# One-off, manual only. Default is a dry run that lists what would be deleted. To delete: set delete=true and type DELETE in confirm.
+on:
+  workflow_dispatch:
+    inputs:
+      delete:
+        description: "Actually delete (false = dry run, only lists)"
+        type: boolean
+        default: false
+      permanent:
+        description: "Delete posts permanently (false = move posts to the WordPress trash)"
+        type: boolean
+        default: false
+      confirm:
+        description: "Type DELETE to confirm (required when delete is true)"
+        type: string
+        default: ""
+permissions:
+  contents: read
+concurrency: {group: wordpress, cancel-in-progress: false}  # never overlaps with the senders
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - name: Check confirmation
+        if: inputs.delete
+        run: '[ "${{ inputs.confirm }}" = "DELETE" ] || { echo "::error::Type DELETE in the confirm field to delete."; exit 1; }'
+      - name: List or delete
+        run: python agents/clean_wordpress.py ${{ inputs.delete && '--delete' || '' }} ${{ inputs.permanent && '--permanent' || '' }}
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
