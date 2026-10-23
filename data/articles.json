@@ -1,5 +1,33 @@
 [
   {
+    "path": "articles/2026-10-24-10-00-hugh-jackman.md",
+    "title": "Hugh Jackman",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-24 10:00",
+    "celebrity": "Hugh Jackman",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text",
+    "rewrite_note": ""
+  },
+  {
+    "path": "articles/2026-10-24-10-00-nicole-kidman.md",
+    "title": "Nicole Kidman",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-24 10:00",
+    "celebrity": "Nicole Kidman",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text (The Australian returned 403; web search only surfaced coverage that may be from a different year)",
+    "rewrite_note": ""
+  },
+  {
     "path": "articles/2026-10-24-07-00-cate-blanchett.md",
     "title": "Cate Blanchett eyed for Todd Haynes' The Maids",
     "description": "",
