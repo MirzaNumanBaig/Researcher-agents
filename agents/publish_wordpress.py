@@ -128,7 +128,7 @@ def wp(path, payload):
 def upload_media(image_path, alt, caption):
     """Upload an image to the WordPress media library and return its id (needs upload rights for WP_USER)."""
     data = image_path.read_bytes()
-    ctype = "image/png" if image_path.suffix == ".png" else "image/jpeg"
+    ctype = {".png": "image/png", ".webp": "image/webp"}.get(image_path.suffix.lower(), "image/jpeg")
     req = urllib.request.Request(
         f"{URL}/wp-json/wp/v2/media", data=data, method="POST",
         headers={"Content-Type": ctype, "Content-Disposition": f'attachment; filename="{image_path.name}"', "User-Agent": "researcher-agents",
