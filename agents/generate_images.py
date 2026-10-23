@@ -4,7 +4,7 @@ Env (GitHub Actions secrets): CF_ACCOUNT_ID, CF_API_TOKEN.  Optional: CF_IMAGE_M
 For every article whose status is pending/approved/sent and that has no `image:` yet, it reads the front matter `image_prompt`
 (a scene description the writer produced; never a real person), asks Cloudflare for an image, resizes and centre-crops it to exactly 1500x900 (config: OUT_WIDTH/OUT_HEIGHT), converts it to WebP (Pillow) and saves it as
 articles/images/<article-name>.webp (git-ignored; the publish step uploads it in the same run) and adds `image:` and `image_alt:` to the front matter. publish_wordpress.py uploads it
-and sets it as the post's featured image. Without the secrets this does nothing, so the pipeline keeps working.
+and sets it as the post's featured image. Without the secrets, or with "ai_images": false in config.json, this does nothing, so the pipeline keeps working.
 usage: generate_images.py [--max N]
 """
 import base64
@@ -105,6 +105,9 @@ def to_webp(raw):
 
 
 def main():
+    if json.loads((ROOT / "config.json").read_text()).get("ai_images", True) is False:
+        print("ai_images is false in config.json; no images generated.")
+        return
     if not (ACCOUNT and TOKEN):
         print("CF_ACCOUNT_ID / CF_API_TOKEN not set; no images generated.")
         return

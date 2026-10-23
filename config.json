@@ -11,7 +11,17 @@
     "Chris Hemsworth",
     "Hugh Jackman",
     "Nicole Kidman",
-    "Cate Blanchett"
+    "Cate Blanchett",
+    "Jacob Elordi",
+    "Kylie Minogue",
+    "Russell Crowe",
+    "Troye Sivan",
+    "Delta Goodrem",
+    "Rebel Wilson",
+    "Miranda Kerr",
+    "Liam Hemsworth",
+    "The Kid LAROI",
+    "Sam Worthington"
   ],
   "general_feeds": [
     "https://www.theguardian.com/au/culture/rss",
@@ -77,7 +87,17 @@
       "youtube": "",
       "website": "",
       "photo_credit": "https://commons.wikimedia.org/wiki/File:Cate_Blanchett-63298_%28cropped_2%29.jpg"
-    }
+    },
+    "Jacob Elordi": {},
+    "Kylie Minogue": {},
+    "Russell Crowe": {},
+    "Troye Sivan": {},
+    "Delta Goodrem": {},
+    "Rebel Wilson": {},
+    "Miranda Kerr": {},
+    "Liam Hemsworth": {},
+    "The Kid LAROI": {},
+    "Sam Worthington": {}
   },
   "interval_hours": 3,
   "auto_send": true,
@@ -94,5 +114,6 @@
     "Unisba Media"
   ],
   "max_age_hours": 48,
-  "headline_must_name": true
+  "headline_must_name": true,
+  "ai_images": true
 }

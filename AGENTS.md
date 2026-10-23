@@ -50,6 +50,10 @@ Articles are 600-800 words, answer-first, publisher style, and checked for AI te
 `agents/link_candidates.py` builds the verified link menu per brief (`work/.../links.md`); `agents/check_article.py` warns in the Actions log when an article breaks the rules. Edit those files to change the house style.
 Images: `agents/generate_images.py` makes one featured image per article with Cloudflare Workers AI (secrets `CF_ACCOUNT_ID`, `CF_API_TOKEN`; optional `CF_IMAGE_MODEL`),
 from the writer's `image_prompt` (scenes only, never real people), resizes/crops it to exactly 1500x900 and converts it to WebP with Pillow (installed in the workflow), saves it to `articles/images/` (git-ignored; the file lives only for that workflow run) and `publish_wordpress.py` uploads it as the post's featured image (alt text says it is AI-generated). Without the secrets it does nothing.
+Set `"ai_images": false` in `config.json` to stop generating images (posts then go out without a featured image); the same happens when the Cloudflare secrets are missing.
+Website truth: `publish_wordpress.py` runs hourly (`publish-wordpress.yml` cron) and after every collection. It checks every sent post against WordPress in batches (trashed or deleted -> `status: removed`, status changes follow)
+and writes the real post counts per status to `data/wp_sync.json`; the dashboard shows those numbers (drafts / pending review / published) and has a "Sync site" button to check now.
+Publish mode: the dashboard's "New articles go to" selector (also Setup) sets `wp_default_status` (draft / pending / publish); auto-send stamps every article it sends with the current value.
 Dashboard Stories view has Fresh / Used tabs: a story is Used once every celebrity in it has a finished article (sent, skipped, rejected, removed) for its run.
 
 ## Provider independence (who writes the articles is swappable)

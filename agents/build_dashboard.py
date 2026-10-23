@@ -117,6 +117,7 @@ data = {
     "paused": bool(cfg.get("paused")),
     "updated": datetime.now(timezone.utc).isoformat(),
     "leads": stories,
+    "wp": json.loads((ROOT / "data" / "wp_sync.json").read_text()) if (ROOT / "data" / "wp_sync.json").exists() else None,
 }
 
 TEMPLATE = (Path(__file__).parent / "dashboard_template.html").read_text()

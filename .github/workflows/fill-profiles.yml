@@ -1,0 +1,24 @@
+name: Fill celebrity profiles
+# Manual. Fetches photo + official social links from Wikidata/Wikimedia Commons for anyone in config.json with empty profile fields
+# (never overwrites hand-edited values), then commits config.json and docs/img.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: {group: repo-writes, cancel-in-progress: false}
+jobs:
+  fill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python agents/fetch_profiles.py
+      - name: Commit profiles
+        run: |
+          git config user.name "researcher-bot"
+          git config user.email "researcher-bot@users.noreply.github.com"
+          git add config.json docs/img
+          git diff --cached --quiet || { git commit -m "Fill celebrity profiles" && git pull --rebase -X theirs origin main && git push; }
+      - run: python agents/build_dashboard.py
+      - run: bash scripts/push_dashboard.sh

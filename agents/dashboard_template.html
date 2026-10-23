@@ -35,6 +35,7 @@ h1{font-size:18px;line-height:1.2;margin:0;font-weight:650;letter-spacing:-.01em
 .pill{display:inline-flex;align-items:center;gap:7px;padding:4px 11px;border-radius:99px;background:var(--surface);border:1px solid var(--line);font-size:13px;font-weight:600}
 .dot{width:8px;height:8px;border-radius:50%;background:var(--ok)}.pill.off .dot{background:var(--mut)}
 #msg{flex-basis:100%;min-height:1.2em;font-size:13px;color:var(--mut)}
+.qwps{display:flex;align-items:center;gap:6px;font-size:13px}.qwps select{padding:5px 8px;border-radius:8px;border:1px solid var(--line);background:var(--surface);font-size:13px}
 .stats{display:flex;gap:6px 22px;flex-wrap:wrap;margin-left:auto}
 .stat{display:flex;gap:6px;align-items:baseline;font-size:13px;color:var(--mut)}.stat b{color:var(--ink);font-size:17px;font-weight:650;font-variant-numeric:tabular-nums}
 
@@ -149,7 +150,7 @@ details>div{padding:0 14px 12px}
 <div class="actions"><button class="btn pri" id="run">Run now</button><button class="btn" id="conn">Setup</button></div>
 </div></header>
 <main class="wrap">
-<section class="strip"><span class="pill" id="state"></span><span class="muted" id="timer"></span><button class="btn sm" id="pause"></button><div class="stats" id="stats"></div><div id="msg" role="status"></div></section>
+<section class="strip"><span class="pill" id="state"></span><span class="muted" id="timer"></span><button class="btn sm" id="pause"></button><label class="qwps muted">New articles go to <select id="q-wps" aria-label="Where new articles go on the website"><option value="draft">Draft</option><option value="pending">Pending review</option><option value="publish">Published (live)</option></select></label><button class="btn sm" id="wp-sync" title="Check the website now and update these numbers">Sync site</button><div class="stats" id="stats"></div><div id="msg" role="status"></div></section>
 <section class="health" id="health" aria-label="Pipeline status"></section>
 <div class="people" id="people"></div>
 <div id="profile"></div>
@@ -282,7 +283,7 @@ function brand(){const n=(D.site.name||"").trim();
 $("h1").textContent=(n?n+" · ":"")+D.country+" Celebrity News";document.title=$("h1").textContent;
 $("logo").textContent=n?ini(n):"CN";
 const u=D.site.url.trim();$("wp-url-hint").textContent=u?u.replace(/\/+$/,""):"your site address, no trailing slash";
-$("f-name").value=n;$("f-url").value=u;$("f-wps").value=D.wp_status;$("f-auto").checked=!!D.auto_send;$("f-int").value=D.interval_hours}
+$("f-name").value=n;$("f-url").value=u;$("f-wps").value=D.wp_status;$("q-wps").value=D.wp_status;$("f-auto").checked=!!D.auto_send;$("f-int").value=D.interval_hours}
 $("upd").textContent=D.leads.length+" stories from "+D.lead_count+" headlines · updated "+ago(D.updated);
 $("cowork-prompt").textContent="Task: create a Claude Code long-lived auth token and save it as a GitHub Actions secret. Do not show the token in chat or save it to any file.\n\n1. Check that Claude Code is installed. If not, install it with: npm install -g @anthropic-ai/claude-code (install Node.js LTS first if missing).\n2. Run: claude setup-token. It opens a browser login. Sign in to the Claude account I'm using now and approve. If it asks for a code, paste the code back into the terminal.\n3. The terminal prints a token that starts with sk-ant-oat01-. Copy it from the terminal. It is shown only once.\n4. In my browser (already signed in to GitHub) open https://github.com/"+REPO+"/settings/secrets/actions and click New repository secret. Name: CLAUDE_CODE_OAUTH_TOKEN. Secret: paste the token. Click Add secret. If it already exists, use Update.\n5. Clear the token from the clipboard and terminal history.\n6. Tell me only \"done\" or what failed. Never print or repeat the token.\n\nFor a second account (optional): sign out of Claude, repeat steps 2 to 4 on the other account, and name the secret CLAUDE_CODE_OAUTH_TOKEN_2. A third account uses _3.";
 $("hand-prompt").textContent="Open "+REPO+" and follow CLAUDE.md. Check the latest batch and draft the roundup article.";
@@ -301,9 +302,12 @@ document.querySelectorAll(".who").forEach(b=>b.onclick=()=>{celeb=celeb===b.data
 const ICONS={instagram:"instagram",tiktok:"tiktok",x:"x",facebook:"facebook",youtube:"youtube",website:"googlechrome"};
 function profile(){const n=celeb;if(!n||view!=="stories"){$("profile").innerHTML="";return}const p=D.profiles[n]||{};
 $("profile").innerHTML='<div class="profile">'+av(n,"lg")+'<div style="min-width:0"><h2>'+esc(n)+'</h2><div class="muted small">'+cnt(n)+' stories tracked</div><div class="icos">'+Object.keys(ICONS).map(k=>p[k]&&safeUrl(p[k])!=="#"?'<a class="ico" href="'+esc(safeUrl(p[k]))+'" target="_blank" rel="noopener" title="'+k+'"><img alt="'+k+'" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></a>':'<span class="ico off" title="'+k+': not added yet"><img alt="" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></span>').join("")+'</div></div></div>'}
-function stats(){const A=D.articles,pend=A.filter(a=>a.status==="pending").length,drafts=A.filter(a=>a.status==="approved"||(a.status==="sent"&&a.wp_status!=="publish")).length,pub=A.filter(a=>a.status==="sent"&&a.wp_status==="publish").length;
+function stats(){const A=D.articles,W=D.wp,pend=A.filter(a=>a.status==="pending").length,drafts=A.filter(a=>a.status==="approved"||(a.status==="sent"&&a.wp_status!=="publish")).length,pub=A.filter(a=>a.status==="sent"&&a.wp_status==="publish").length;
 $("v-articles").textContent="Articles ("+A.length+")";
-$("stats").innerHTML=[[D.leads.filter(l=>age(l)<=3).length,"new in 3h"],[D.leads.length,"stories"],[pend,"to approve"],[drafts,"drafts on site"],[pub,"published"]].map(([n,t])=>'<div class="stat"><b>'+n+'</b>'+t+'</div>').join("")}
+const real=W?"Real count from the website, checked "+ago(W.checked)+". Use Sync site to check again.":"Counted from the article files. Use Sync site to read the real numbers from the website.";
+const items=[[D.leads.filter(l=>age(l)<=3).length,"new in 3h"],[D.leads.length,"stories"],[pend,"to approve"],[W?W.draft:drafts,"drafts on site",real]];
+if(W)items.push([W.pending,"pending review",real]);items.push([W?W.publish:pub,"published",real]);
+$("stats").innerHTML=items.map(([n,t,tip])=>'<div class="stat"'+(tip?' title="'+esc(tip)+'"':'')+'><b>'+n+'</b>'+t+'</div>').join("")}
 
 /* articles */
 const BLOB="https://github.com/"+REPO+"/blob/main/";
@@ -464,7 +468,8 @@ const j=(await gh("/actions/runs/"+r.id+"/jobs?per_page=60")).jobs.filter(x=>/^w
 const okN=j.filter(x=>x.conclusion==="success").length,doneN=j.filter(x=>x.status==="completed").length;
 jobs[r.id]={done,t:!j.length?"nothing new to write":done?okN+" of "+j.length+" articles done":doneN+" of "+j.length+" articles"}}
 async function live(){if(!store.get("gh_token")){health();return}
-try{const [list,rs]=await Promise.all([gh("/contents/data/articles.json",{raw:true}).then(JSON.parse).catch(()=>null),gh("/actions/runs?per_page=40")]);
+try{const [list,rs,wpc]=await Promise.all([gh("/contents/data/articles.json",{raw:true}).then(JSON.parse).catch(()=>null),gh("/actions/runs?per_page=40"),gh("/contents/data/wp_sync.json",{raw:true}).then(JSON.parse).catch(()=>null)]);
+if(wpc&&wpc.checked&&JSON.stringify(wpc)!==JSON.stringify(D.wp)){D.wp=wpc;stats()}
 runs=rs.workflow_runs;const wr=runs.find(x=>x.name==="Write articles");if(wr)await writeJobs(wr).catch(()=>{});
 if(Array.isArray(list)){const next=list.map(a=>{const o=art(a.path);return o&&o._t&&Date.now()-o._t<15*6e4&&JSON.stringify([a.status,a.wp_status,a.wp_synced])===o._before?o:a});
 const sig=x=>JSON.stringify(x.map(a=>[a.path,a.status,a.wp_status,a.wp_synced,a.title,a.wp_id]));
@@ -511,8 +516,13 @@ const go=afterConnect;afterConnect=null;live().then(schedule);if(go)go()};
 $("tok-copy").onclick=()=>{const t=store.get("gh_token");if(!t){tokNote("No token saved.","bad");return}copy(t,"Token copied.");tokNote("Token copied to the clipboard.","ok")};
 $("tok-replace").onclick=()=>{delete $("tok-msg").dataset.keep;renderTok(true);tokNote("Paste the new token below. The saved one stays until the new one is verified.");$("f-tok").focus()};
 $("tok-remove").onclick=()=>{store.set("gh_token","");store.set("gh_token_rejected","");delete $("tok-msg").dataset.keep;runs=null;renderTok();tokNote("Token removed from this browser.");health()};
+async function setWps(v){try{await editCfg(c=>c.wp_default_status=v);D.wp_status=v;$("f-wps").value=v;
+say(v==="publish"?"New articles will be published on the website automatically.":v==="draft"?"New articles will arrive as drafts.":"New articles will arrive as pending review.")}catch(e){$("q-wps").value=D.wp_status;say("Failed: "+e.message)}}
+$("q-wps").onchange=()=>{const v=$("q-wps").value;if(!store.get("gh_token")){$("q-wps").value=D.wp_status;askToken(()=>{$("q-wps").value=v;setWps(v)});return}setWps(v)};
+async function syncSite(){try{await dispatch("publish-wordpress.yml");say("Checking the website. The numbers update in about a minute.");watch()}catch(e){say("Failed: "+e.message)}}
+$("wp-sync").onclick=()=>{if(!store.get("gh_token")){askToken(syncSite);return}syncSite()};
 $("save-site").onclick=async()=>{const name=$("f-name").value.trim(),url=$("f-url").value.trim(),st=$("f-wps").value,auto=$("f-auto").checked;
-try{await editCfg(c=>{c.site={name,url};c.wp_default_status=st;c.auto_send=auto});D.site={name,url};D.wp_status=st;D.auto_send=auto;brand();say("Website settings saved.")}catch(e){say("Failed: "+e.message)}};
+try{await editCfg(c=>{c.site={name,url};c.wp_default_status=st;c.auto_send=auto});D.site={name,url};D.wp_status=st;$("q-wps").value=st;D.auto_send=auto;brand();say("Website settings saved.")}catch(e){say("Failed: "+e.message)}};
 $("t-collect").onclick=async()=>{try{await dispatch("collect.yml");$("t-msg").textContent="Collection started.";watch()}catch(e){$("t-msg").textContent="Failed: "+e.message}};
 $("t-write").onclick=async()=>{try{await dispatch("write-articles.yml");$("t-msg").textContent="Article writing started.";watch()}catch(e){$("t-msg").textContent="Failed: "+e.message}};
 

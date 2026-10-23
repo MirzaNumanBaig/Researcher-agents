@@ -10,6 +10,7 @@ for attempt in 1 2 3; do
   python agents/build_dashboard.py
   git add docs data/articles.json data/stories.json
   [ -f data/writers.json ] && git add data/writers.json
+  [ -f data/wp_sync.json ] && git add data/wp_sync.json
   if git diff --cached --quiet; then echo "dashboard already up to date"; exit 0; fi
   git commit -qm "Update dashboard"
   if git push -q origin HEAD:main; then echo "dashboard pushed"; exit 0; fi
