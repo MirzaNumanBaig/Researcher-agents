@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett eyed for Todd Haynes' The Maids"
 description: "Todd Haynes says his next film adapts Jean Genet's The Maids with Cate Blanchett likely to star, as her Displacement Film Fund releases five shorts."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-24 04:00"
 celebrity: "Cate Blanchett"
@@ -12,6 +12,9 @@ sources:
   - "https://thefilmstage.com/todd-haynes-and-cate-blanchett-plan-reunion-with-adaptation-of-jean-genets-the-maids/"
   - "https://www.worldofreel.com/blog/2026/10/23/todd-haynes-to-direct-the-maids-with-cate-blanchett"
   - "https://variety.com/2026/film/news/cate-blanchett-displacement-film-fund-new-yorker-1236922000/"
+wp_id: 969
+wp_link: "https://moduscarry.com/cate-blanchett-eyed-for-todd-haynes-the-maids/"
+wp_synced: publish
 ---
 
 **Quick summary**
