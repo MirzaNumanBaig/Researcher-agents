@@ -1,5 +1,19 @@
 [
   {
+    "path": "articles/2026-10-23-19-00-nicole-kidman.md",
+    "title": "",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-23 19:00",
+    "celebrity": "Nicole Kidman",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Only one readable source (a nail-trend how-to with affiliate links, no way to cross-check the Victoria's Secret appearance); the other story is an unreadable shopping plug.",
+    "rewrite_note": ""
+  },
+  {
     "path": "articles/2026-10-23-17-00-chris-hemsworth.md",
     "title": "Chris Hemsworth's Archie Rose Whisky Gets New Look for US",
     "description": "Archie Rose has relaunched its whisky range with a flask-shaped bottle co-created with co-owner Chris Hemsworth, ahead of its US debut on 23 October.",
