@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett joins Prince William on Graham Norton"
 description: "Cate Blanchett sits beside Prince William on The Graham Norton Show tonight for an Earthshot Prize special, days after a BBC interview on displacement."
-status: pending
+status: sent
 wp_status: draft
 batch: "2026-10-23 12:00"
 celebrity: "Cate Blanchett"
@@ -12,6 +12,12 @@ sources:
   - "https://www.cate-blanchett.com/2026/10/22/cate-blanchett-on-the-graham-norton-show-23-october/"
   - "https://beyondthejoke.co.uk/content/18015/william-graham-norton"
   - "https://www.bbc.com/audio/play/w3ct98kv"
+image: "images/2026-10-23-12-00-cate-blanchett.png"
+image_alt: "AI-generated illustration for: Cate Blanchett joins Prince William on Graham Norton"
+wp_media_id: 939
+wp_id: 940
+wp_link: "https://moduscarry.com/?p=940"
+wp_synced: draft
 ---
 
 **Quick summary**
