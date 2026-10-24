@@ -9,7 +9,7 @@
     {
       "id": 31,
       "name": "Celebrities",
-      "count": 26,
+      "count": 27,
       "link": "https://moduscarry.com/category/celebrities/"
     },
     {
@@ -39,7 +39,7 @@
     {
       "id": 28,
       "name": "TV & Dramas",
-      "count": 3,
+      "count": 4,
       "link": "https://moduscarry.com/category/tv-dramas/"
     },
     {
@@ -63,16 +63,10 @@
       "link": "https://moduscarry.com/tag/nicole-kidman/"
     },
     {
-      "id": 122,
-      "name": "Rebel Wilson",
+      "id": 96,
+      "name": "Adéla",
       "count": 4,
-      "link": "https://moduscarry.com/tag/rebel-wilson/"
-    },
-    {
-      "id": 123,
-      "name": "The Deb",
-      "count": 4,
-      "link": "https://moduscarry.com/tag/the-deb/"
+      "link": "https://moduscarry.com/tag/adela/"
     },
     {
       "id": 125,
@@ -81,16 +75,22 @@
       "link": "https://moduscarry.com/tag/amanda-ghost/"
     },
     {
-      "id": 126,
-      "name": "Russell Crowe",
+      "id": 123,
+      "name": "The Deb",
       "count": 4,
-      "link": "https://moduscarry.com/tag/russell-crowe/"
+      "link": "https://moduscarry.com/tag/the-deb/"
     },
     {
-      "id": 96,
-      "name": "Adéla",
+      "id": 105,
+      "name": "Strictly Come Dancing",
       "count": 4,
-      "link": "https://moduscarry.com/tag/adela/"
+      "link": "https://moduscarry.com/tag/strictly-come-dancing/"
+    },
+    {
+      "id": 122,
+      "name": "Rebel Wilson",
+      "count": 4,
+      "link": "https://moduscarry.com/tag/rebel-wilson/"
     },
     {
       "id": 107,
@@ -99,22 +99,22 @@
       "link": "https://moduscarry.com/tag/jacob-elordi/"
     },
     {
-      "id": 109,
-      "name": "Callum Turner",
-      "count": 3,
-      "link": "https://moduscarry.com/tag/callum-turner/"
+      "id": 106,
+      "name": "Kai Widdrington",
+      "count": 4,
+      "link": "https://moduscarry.com/tag/kai-widdrington/"
     },
     {
-      "id": 124,
-      "name": "Charlotte MacInnes",
-      "count": 3,
-      "link": "https://moduscarry.com/tag/charlotte-macinnes/"
+      "id": 104,
+      "name": "Delta Goodrem",
+      "count": 4,
+      "link": "https://moduscarry.com/tag/delta-goodrem/"
     },
     {
-      "id": 105,
-      "name": "Strictly Come Dancing",
-      "count": 3,
-      "link": "https://moduscarry.com/tag/strictly-come-dancing/"
+      "id": 126,
+      "name": "Russell Crowe",
+      "count": 4,
+      "link": "https://moduscarry.com/tag/russell-crowe/"
     },
     {
       "id": 81,
@@ -123,22 +123,10 @@
       "link": "https://moduscarry.com/tag/margot-robbie/"
     },
     {
-      "id": 104,
-      "name": "Delta Goodrem",
+      "id": 124,
+      "name": "Charlotte MacInnes",
       "count": 3,
-      "link": "https://moduscarry.com/tag/delta-goodrem/"
-    },
-    {
-      "id": 106,
-      "name": "Kai Widdrington",
-      "count": 3,
-      "link": "https://moduscarry.com/tag/kai-widdrington/"
-    },
-    {
-      "id": 108,
-      "name": "James Bond",
-      "count": 3,
-      "link": "https://moduscarry.com/tag/james-bond/"
+      "link": "https://moduscarry.com/tag/charlotte-macinnes/"
     },
     {
       "id": 110,
@@ -153,6 +141,24 @@
       "link": "https://moduscarry.com/tag/netflix/"
     },
     {
+      "id": 108,
+      "name": "James Bond",
+      "count": 3,
+      "link": "https://moduscarry.com/tag/james-bond/"
+    },
+    {
+      "id": 109,
+      "name": "Callum Turner",
+      "count": 3,
+      "link": "https://moduscarry.com/tag/callum-turner/"
+    },
+    {
+      "id": 149,
+      "name": "Dolly Parton",
+      "count": 2,
+      "link": "https://moduscarry.com/tag/dolly-parton/"
+    },
+    {
       "id": 111,
       "name": "Denis Villeneuve",
       "count": 2,
@@ -165,16 +171,16 @@
       "link": "https://moduscarry.com/tag/chanel/"
     },
     {
-      "id": 127,
-      "name": "The Weight",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/the-weight/"
-    },
-    {
       "id": 139,
       "name": "Hailey Bieber",
       "count": 1,
       "link": "https://moduscarry.com/tag/hailey-bieber/"
+    },
+    {
+      "id": 127,
+      "name": "The Weight",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/the-weight/"
     },
     {
       "id": 128,
@@ -261,10 +267,10 @@
       "link": "https://moduscarry.com/tag/troye-sivan/"
     },
     {
-      "id": 131,
-      "name": "She's the Best",
+      "id": 147,
+      "name": "Red carpet",
       "count": 1,
-      "link": "https://moduscarry.com/tag/shes-the-best/"
+      "link": "https://moduscarry.com/tag/red-carpet/"
     },
     {
       "id": 144,
@@ -277,12 +283,6 @@
       "name": "A Big Bold Beautiful Journey",
       "count": 1,
       "link": "https://moduscarry.com/tag/a-big-bold-beautiful-journey/"
-    },
-    {
-      "id": 149,
-      "name": "Dolly Parton",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/dolly-parton/"
     },
     {
       "id": 150,
@@ -339,12 +339,6 @@
       "link": "https://moduscarry.com/tag/practical-magic-2/"
     },
     {
-      "id": 147,
-      "name": "Red carpet",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/red-carpet/"
-    },
-    {
       "id": 146,
       "name": "Armani Privé",
       "count": 1,
@@ -355,6 +349,18 @@
       "name": "Josh O'Connor",
       "count": 1,
       "link": "https://moduscarry.com/tag/josh-oconnor/"
+    },
+    {
+      "id": 158,
+      "name": "Lioness",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/lioness/"
+    },
+    {
+      "id": 131,
+      "name": "She's the Best",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/shes-the-best/"
     },
     {
       "id": 132,
@@ -421,12 +427,6 @@
       "name": "Moulin Rouge!",
       "count": 1,
       "link": "https://moduscarry.com/tag/moulin-rouge-2/"
-    },
-    {
-      "id": 158,
-      "name": "Lioness",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/lioness/"
     },
     {
       "id": 86,
@@ -658,6 +658,20 @@
     }
   ],
   "recent_posts": [
+    {
+      "title": "Delta Goodrem’s fractured rib recovery, day by day",
+      "link": "https://moduscarry.com/delta-goodrems-fractured-rib-recovery-day-by-day/",
+      "categories": [
+        31,
+        28
+      ],
+      "tags": [
+        104,
+        149,
+        106,
+        105
+      ]
+    },
     {
       "title": "Nicole Kidman’s busy 2026: Practical Magic 2 and a TV run",
       "link": "https://moduscarry.com/nicole-kidmans-busy-2026-practical-magic-2-and-a-tv-run/",
