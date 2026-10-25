@@ -9,7 +9,7 @@
     {
       "id": 31,
       "name": "Celebrities",
-      "count": 28,
+      "count": 29,
       "link": "https://moduscarry.com/category/celebrities/"
     },
     {
@@ -39,7 +39,7 @@
     {
       "id": 28,
       "name": "TV & Dramas",
-      "count": 5,
+      "count": 6,
       "link": "https://moduscarry.com/category/tv-dramas/"
     },
     {
@@ -57,34 +57,28 @@
   ],
   "tags": [
     {
-      "id": 53,
-      "name": "Nicole Kidman",
-      "count": 5,
-      "link": "https://moduscarry.com/tag/nicole-kidman/"
-    },
-    {
       "id": 104,
       "name": "Delta Goodrem",
-      "count": 5,
+      "count": 6,
       "link": "https://moduscarry.com/tag/delta-goodrem/"
     },
     {
       "id": 105,
       "name": "Strictly Come Dancing",
-      "count": 5,
+      "count": 6,
       "link": "https://moduscarry.com/tag/strictly-come-dancing/"
     },
     {
       "id": 106,
       "name": "Kai Widdrington",
-      "count": 5,
+      "count": 6,
       "link": "https://moduscarry.com/tag/kai-widdrington/"
     },
     {
-      "id": 123,
-      "name": "The Deb",
-      "count": 4,
-      "link": "https://moduscarry.com/tag/the-deb/"
+      "id": 53,
+      "name": "Nicole Kidman",
+      "count": 5,
+      "link": "https://moduscarry.com/tag/nicole-kidman/"
     },
     {
       "id": 122,
@@ -93,10 +87,10 @@
       "link": "https://moduscarry.com/tag/rebel-wilson/"
     },
     {
-      "id": 126,
-      "name": "Russell Crowe",
+      "id": 125,
+      "name": "Amanda Ghost",
       "count": 4,
-      "link": "https://moduscarry.com/tag/russell-crowe/"
+      "link": "https://moduscarry.com/tag/amanda-ghost/"
     },
     {
       "id": 107,
@@ -111,10 +105,16 @@
       "link": "https://moduscarry.com/tag/adela/"
     },
     {
-      "id": 125,
-      "name": "Amanda Ghost",
+      "id": 126,
+      "name": "Russell Crowe",
       "count": 4,
-      "link": "https://moduscarry.com/tag/amanda-ghost/"
+      "link": "https://moduscarry.com/tag/russell-crowe/"
+    },
+    {
+      "id": 123,
+      "name": "The Deb",
+      "count": 4,
+      "link": "https://moduscarry.com/tag/the-deb/"
     },
     {
       "id": 109,
@@ -159,6 +159,12 @@
       "link": "https://moduscarry.com/tag/denis-villeneuve/"
     },
     {
+      "id": 159,
+      "name": "Celine Dion",
+      "count": 2,
+      "link": "https://moduscarry.com/tag/celine-dion/"
+    },
+    {
       "id": 140,
       "name": "Chanel",
       "count": 2,
@@ -177,12 +183,6 @@
       "link": "https://moduscarry.com/tag/marty-supreme/"
     },
     {
-      "id": 127,
-      "name": "The Weight",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/the-weight/"
-    },
-    {
       "id": 121,
       "name": "The Tonight Show",
       "count": 1,
@@ -195,40 +195,10 @@
       "link": "https://moduscarry.com/tag/billboard-hot-100/"
     },
     {
-      "id": 115,
-      "name": "AI copyright",
+      "id": 119,
+      "name": "Philanthropy",
       "count": 1,
-      "link": "https://moduscarry.com/tag/ai-copyright/"
-    },
-    {
-      "id": 117,
-      "name": "Evan Spiegel",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/evan-spiegel/"
-    },
-    {
-      "id": 112,
-      "name": "Kylie Minogue",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/kylie-minogue/"
-    },
-    {
-      "id": 113,
-      "name": "Bad Fairies",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/bad-fairies/"
-    },
-    {
-      "id": 114,
-      "name": "Cynthia Erivo",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/cynthia-erivo/"
-    },
-    {
-      "id": 116,
-      "name": "Miranda Kerr",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/miranda-kerr/"
+      "link": "https://moduscarry.com/tag/philanthropy/"
     },
     {
       "id": 118,
@@ -237,10 +207,46 @@
       "link": "https://moduscarry.com/tag/undue-medical-debt/"
     },
     {
-      "id": 119,
-      "name": "Philanthropy",
+      "id": 116,
+      "name": "Miranda Kerr",
       "count": 1,
-      "link": "https://moduscarry.com/tag/philanthropy/"
+      "link": "https://moduscarry.com/tag/miranda-kerr/"
+    },
+    {
+      "id": 114,
+      "name": "Cynthia Erivo",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/cynthia-erivo/"
+    },
+    {
+      "id": 113,
+      "name": "Bad Fairies",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/bad-fairies/"
+    },
+    {
+      "id": 112,
+      "name": "Kylie Minogue",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/kylie-minogue/"
+    },
+    {
+      "id": 117,
+      "name": "Evan Spiegel",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/evan-spiegel/"
+    },
+    {
+      "id": 115,
+      "name": "AI copyright",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/ai-copyright/"
+    },
+    {
+      "id": 127,
+      "name": "The Weight",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/the-weight/"
     },
     {
       "id": 128,
@@ -253,6 +259,12 @@
       "name": "Ethan Hawke",
       "count": 1,
       "link": "https://moduscarry.com/tag/ethan-hawke/"
+    },
+    {
+      "id": 146,
+      "name": "Armani Privé",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/armani-prive/"
     },
     {
       "id": 147,
@@ -285,12 +297,6 @@
       "link": "https://moduscarry.com/tag/bluefly/"
     },
     {
-      "id": 153,
-      "name": "Highland Film Group",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/highland-film-group/"
-    },
-    {
       "id": 154,
       "name": "Gold Coast",
       "count": 1,
@@ -321,12 +327,6 @@
       "link": "https://moduscarry.com/tag/lioness/"
     },
     {
-      "id": 146,
-      "name": "Armani Privé",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/armani-prive/"
-    },
-    {
       "id": 144,
       "name": "Richard Gere",
       "count": 1,
@@ -345,10 +345,10 @@
       "link": "https://moduscarry.com/tag/troye-sivan/"
     },
     {
-      "id": 131,
-      "name": "She's the Best",
+      "id": 153,
+      "name": "Highland Film Group",
       "count": 1,
-      "link": "https://moduscarry.com/tag/shes-the-best/"
+      "link": "https://moduscarry.com/tag/highland-film-group/"
     },
     {
       "id": 132,
@@ -405,10 +405,10 @@
       "link": "https://moduscarry.com/tag/jimmy-fallon/"
     },
     {
-      "id": 159,
-      "name": "Celine Dion",
+      "id": 131,
+      "name": "She's the Best",
       "count": 1,
-      "link": "https://moduscarry.com/tag/celine-dion/"
+      "link": "https://moduscarry.com/tag/shes-the-best/"
     },
     {
       "id": 87,
@@ -658,6 +658,20 @@
     }
   ],
   "recent_posts": [
+    {
+      "title": "Delta Goodrem scores Strictly’s first 10 after rib injury",
+      "link": "https://moduscarry.com/delta-goodrem-scores-strictlys-first-10-after-rib-injury/",
+      "categories": [
+        31,
+        28
+      ],
+      "tags": [
+        159,
+        104,
+        106,
+        105
+      ]
+    },
     {
       "title": "Delta Goodrem on the lifts that led to her Strictly rib injury",
       "link": "https://moduscarry.com/delta-goodrem-on-the-lifts-that-led-to-her-strictly-rib-injury/",
