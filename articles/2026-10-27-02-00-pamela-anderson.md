@@ -1,7 +1,7 @@
 ---
 title: "Pamela Anderson's Vancouver Island Garden Feeds Her Community"
 description: "Pamela Anderson's 15,000-square-foot vegetable garden on Vancouver Island reportedly sends surplus produce to food banks, soup kitchens and churches."
-status: pending
+status: sent
 wp_status: pending
 batch: "2026-10-27 02:00"
 celebrity: "Pamela Anderson"
@@ -11,6 +11,9 @@ image_prompt: "A sunlit vegetable garden with wooden raised beds and baskets of 
 sources:
   - "https://www.yahoo.com/entertainment/celebrity/articles/pamela-andersons-15-000-square-021500766.html"
   - "https://www.nickiswift.com/2289606/times-pamela-anderson-landed-herself-on-worst-dressed-list/"
+wp_id: 1008
+wp_link: "https://moduscarry.com/?p=1008"
+wp_synced: pending
 ---
 
 **Quick summary**

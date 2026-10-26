@@ -1,7 +1,7 @@
 ---
 title: "Catherine O'Hara and the SCTV Cast Get a Netflix Documentary"
 description: "Netflix releases a documentary on 30 October marking 50 years of SCTV, the sketch show that launched Catherine O'Hara, Eugene Levy and Martin Short."
-status: pending
+status: sent
 wp_status: pending
 batch: "2026-10-27 02:00"
 celebrity: "Catherine O'Hara"
@@ -10,6 +10,9 @@ tags: ["Catherine O'Hara", "Netflix", "SCTV", "Schitt's Creek"]
 image_prompt: "A vintage television set glowing in a dim living room, with a retro studio stage and curtains visible on the screen"
 sources:
   - "https://www.newsday.com/entertainment/tv/sctv-top-moments-glhefz4d"
+wp_id: 999
+wp_link: "https://moduscarry.com/?p=999"
+wp_synced: pending
 ---
 
 **Quick summary**

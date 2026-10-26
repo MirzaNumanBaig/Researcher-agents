@@ -1,7 +1,7 @@
 ---
 title: "Connor Storrie's Heated Rivalry Returns in Spring 2027"
 description: "Connor Storrie and Hudson Williams are back for Heated Rivalry season two, with a bigger cast and a spring 2027 premiere confirmed by Bell Media."
-status: pending
+status: sent
 wp_status: pending
 batch: "2026-10-27 02:00"
 celebrity: "Connor Storrie"
@@ -11,6 +11,9 @@ image_prompt: "An empty ice hockey arena at night, lit by cold overhead lights, 
 sources:
   - "https://timesofindia.indiatimes.com/web-series/news/english/heated-rivalry-season-2-hudson-williams-to-daniel-diemer-meet-the-confirmed-cast-returning-for-the-next-chapter/photostory/135186039.cms"
   - "https://www.imdb.com/news/ni66068787/?ref_=nmnw_art_perm"
+wp_id: 1000
+wp_link: "https://moduscarry.com/?p=1000"
+wp_synced: pending
 ---
 
 **Quick summary**

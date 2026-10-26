@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams Is Writing a Film and Dodging Hockey"
 description: "Hudson Williams says his script has an ex-hockey player, and the Heated Rivalry echo is giving his team pause. Here is what we know about his slate."
-status: pending
+status: sent
 wp_status: pending
 batch: "2026-10-27 02:00"
 celebrity: "Hudson Williams"
@@ -13,6 +13,9 @@ sources:
   - "https://deadline.com/2026/10/hudson-williams-writing-film-ex-hockey-player-character-1237172776/"
   - "https://culture.org/archive/hudson-williams-keeps-skating-back-to-hockey-in-his-own-screenplay/"
   - "https://timesofindia.indiatimes.com/web-series/news/english/heated-rivalry-season-2-hudson-williams-to-daniel-diemer-meet-the-confirmed-cast-returning-for-the-next-chapter/photostory/135186039.cms"
+wp_id: 1002
+wp_link: "https://moduscarry.com/?p=1002"
+wp_synced: pending
 ---
 
 **Quick summary**
