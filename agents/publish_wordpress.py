@@ -279,7 +279,16 @@ def main():
                         front = set_field(front, "wp_media_id", media_id)
                     except Exception as e:  # the article still goes out without its picture; it is retried on the next run
                         print(f"  image upload failed for {f.name}: {e}", file=sys.stderr)
-                post = wp("posts", payload)
+                try:
+                    post = wp("posts", payload)
+                except urllib.error.HTTPError as e:
+                    if e.code != 400 or not ({"categories", "tags", "featured_media"} & payload.keys()):
+                        raise
+                    # a rejected tag/category/image must never keep an article off the site: send it plain and report it
+                    print(f"  {f.name}: WordPress rejected the post ({error_body(e).get('message')}); retrying without categories, tags and image", file=sys.stderr)
+                    for k in ("categories", "tags", "featured_media"):
+                        payload.pop(k, None)
+                    post = wp("posts", payload)
                 front = set_field(front, "status", "sent")
             elif status == "sent" and field(front, "wp_id") and featured_image(front):
                 img = featured_image(front)  # a sent article that got its image later (or whose upload failed)
