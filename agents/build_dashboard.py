@@ -46,12 +46,14 @@ def group(leads):
         outlets = []
         for l in ls:
             if l["source"] and l["source"] not in [o["source"] for o in outlets]:
-                outlets.append({"source": l["source"], "url": l["url"]})
+                outlets.append({"source": l["source"], "url": l["url"], "article_url": l.get("article_url", ""), "image": l.get("image", "")})
         stories.append({
             "title": top["title"], "url": top["url"], "source": top["source"],
             "published": top["published"], "summary": next((l["summary"] for l in ls if l["summary"]), ""),
             "celebrities": sorted({c for l in ls for c in l["celebrities"]}),
             "outlets": outlets,
+            "image": next((l["image"] for l in ls if l.get("image")), ""),
+            "image_source": next((l.get("article_url") or l["url"] for l in ls if l.get("image")), ""),
             "batch": min((l.get("batch") or "Earlier" for l in ls), key=lambda b: (b != "Earlier", b)),
         })
     stories.sort(key=lambda x: x["published"] or "", reverse=True)

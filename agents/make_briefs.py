@@ -23,9 +23,13 @@ def main():
         for celeb in s["celebrities"]:
             path = ROOT / "briefs" / slug(s["batch"]) / f"{slug(celeb)}.json"
             brief = json.loads(path.read_text()) if path.exists() else {"batch": s["batch"], "celebrity": celeb, "stories": []}
-            if any(x["url"] == s["url"] for x in brief["stories"]):
+            have = next((x for x in brief["stories"] if x["url"] == s["url"]), None)
+            if have:
+                if s.get("image") and not have.get("image"):  # image links found after the brief was first written
+                    have.update(image=s["image"], image_source=s["image_source"], outlets=s["outlets"])
+                    path.write_text(json.dumps(brief, indent=2, ensure_ascii=False))
                 continue
-            brief["stories"].append({k: s[k] for k in ("title", "url", "published", "outlets")})
+            brief["stories"].append({k: s.get(k, "") for k in ("title", "url", "published", "outlets", "image", "image_source")})
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_text(json.dumps(brief, indent=2, ensure_ascii=False))
             made += 1
