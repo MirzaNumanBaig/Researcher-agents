@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aRDZhMU1rRGtReGRQeGJxN0xEaFQzS3NfWml4al9GQVNrblpQcHc5SElaaDFDR1FoeHR5YVcxRWJGcWxPcFNVZzlYTWRXck50eXFqbEZn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aRDZhMU1rRGtReGRQeGJxN0xEaFQzS3NfWml4al9GQVNrblpQcHc5SElaaDFDR1FoeHR5YVcxRWJGcWxPcFNVZzlYTWRXck50eXFqbEZn?oc=5",
+          "article_url": "https://variety.com/t/jacob-elordi/page/10/",
+          "image": "https://variety.com/wp-content/uploads/2023/12/Jacob-Elordi-Variety-Actors-on-Actors-16x9-1.jpg?w=1024"
         }
-      ]
+      ],
+      "image": "https://variety.com/wp-content/uploads/2023/12/Jacob-Elordi-Variety-Actors-on-Actors-16x9-1.jpg?w=1024",
+      "image_source": "https://variety.com/t/jacob-elordi/page/10/"
     }
   ]
 }

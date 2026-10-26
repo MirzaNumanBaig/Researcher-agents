@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGVKTnRjdHB6bUl3WUYxVlRZbGQ0YXVsTGRmNGNIMlJkMGk3QWkyMk9NcFZQeF9tQlUzTTQ1RTR6WkdqQWlJMTFkeXpoMm1XVXRnTmhfUEhwTTRjU0hCS2lRUm1FclB1Qm95U0pRNlhVdXhNQmI0cGNmR0t6V3pLWUU1UUFOZi10UkoxUGEyNzhhakNweGlQNg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGVKTnRjdHB6bUl3WUYxVlRZbGQ0YXVsTGRmNGNIMlJkMGk3QWkyMk9NcFZQeF9tQlUzTTQ1RTR6WkdqQWlJMTFkeXpoMm1XVXRnTmhfUEhwTTRjU0hCS2lRUm1FclB1Qm95U0pRNlhVdXhNQmI0cGNmR0t6V3pLWUU1UUFOZi10UkoxUGEyNzhhakNweGlQNg?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/slideshows/kylie-minogue-built-five-decade-103624252.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/82567dc53f1cf909f5e7e06976992bb895195bb30ce2ce477468205927a898e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2F004750b70a3a3f43930eee11c90f349e.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/82567dc53f1cf909f5e7e06976992bb895195bb30ce2ce477468205927a898e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2F004750b70a3a3f43930eee11c90f349e.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/slideshows/kylie-minogue-built-five-decade-103624252.html"
     },
     {
       "title": "Kylie Minogue - I Should Be So Lucky",

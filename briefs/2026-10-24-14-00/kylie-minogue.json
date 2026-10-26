@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "BroadwayWorld",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSF9ZbFBkaTJoUkZaWHNBSzNVVTNVclR2ZnIyUkkzSEFycXlMQkNRemt6RG9ZazFPbWVZU1hUdG9tMWtEamJjWnFfS1JwOWFkYnJBSl9zcjFfVmNXQ201UGV5MDZ6d2RBeUpFZEJmU2h2bWY3b1EyRGhyaTF1Q01nSU5mU29oSUdBQzl0NjVGeHprSkFrNlpUbUhCekh6Z0VIUVZNTXpKai0weXZWdjd6REJFY0xWMXFxOTUyNloyZ01ZZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSF9ZbFBkaTJoUkZaWHNBSzNVVTNVclR2ZnIyUkkzSEFycXlMQkNRemt6RG9ZazFPbWVZU1hUdG9tMWtEamJjWnFfS1JwOWFkYnJBSl9zcjFfVmNXQ201UGV5MDZ6d2RBeUpFZEJmU2h2bWY3b1EyRGhyaTF1Q01nSU5mU29oSUdBQzl0NjVGeHprSkFrNlpUbUhCekh6Z0VIUVZNTXpKai0weXZWdjd6REJFY0xWMXFxOTUyNloyZ01ZZw?oc=5",
+          "article_url": "https://www.broadwayworld.com/bwwtv/article/Hard-Rock-Cafe-Las-Vegas-to-Launch-Sunset-Hour-With-Kylie-Minogue-Wines-20261023",
+          "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/Hard-Rock-Cafe-Las-Vegas-to-Launch-Sunset-Hour-With-Kylie-Mi-1792801533.jpg?format=jpeg&quality=80&width=1200"
         }
-      ]
+      ],
+      "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/Hard-Rock-Cafe-Las-Vegas-to-Launch-Sunset-Hour-With-Kylie-Mi-1792801533.jpg?format=jpeg&quality=80&width=1200",
+      "image_source": "https://www.broadwayworld.com/bwwtv/article/Hard-Rock-Cafe-Las-Vegas-to-Launch-Sunset-Hour-With-Kylie-Minogue-Wines-20261023"
     }
   ]
 }

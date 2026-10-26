@@ -128,21 +128,31 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12ZTlHMnFXZWdibXcwcWxEM3hvWWdoR0NORXlMRUhGNlgyaG12REkzekJqUmlDMGF0Z0paLVBsRXptRVh3QlJSS3h2NHEyWmx4QXRPc2JuNmpUUDdqN1RlMVVCc1A?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12ZTlHMnFXZWdibXcwcWxEM3hvWWdoR0NORXlMRUhGNlgyaG12REkzekJqUmlDMGF0Z0paLVBsRXptRVh3QlJSS3h2NHEyWmx4QXRPc2JuNmpUUDdqN1RlMVVCc1A?oc=5",
+          "article_url": "https://www.imdb.com/de/news/ni66077096/?ref_=nm_nwr_1",
+          "image": ""
         },
         {
           "source": "SSBCrack",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnY0a05zcUw2RzhKMnlyMWpOSko3ZWtpVWxwNGc5aUdCSzVCa1JvUzg4Qjh3NkR0S19lNndwVXdkY3l0RnJ3VFZRRXNsVXRUYjAxNjc3QnVnRTN1RHV2M0JfVWFaUzN2alZSWFBPNWR0VGZRUUNDUFVKdElSZnBIYVFzSExyc0c2RHVibXo2WllyQjV4czdGZjNURllhU0pEOXEwbkpNUUJKdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnY0a05zcUw2RzhKMnlyMWpOSko3ZWtpVWxwNGc5aUdCSzVCa1JvUzg4Qjh3NkR0S19lNndwVXdkY3l0RnJ3VFZRRXNsVXRUYjAxNjc3QnVnRTN1RHV2M0JfVWFaUzN2alZSWFBPNWR0VGZRUUNDUFVKdElSZnBIYVFzSExyc0c2RHVibXo2WllyQjV4czdGZjNURllhU0pEOXEwbkpNUUJKdw?oc=5",
+          "article_url": "https://news.ssbcrack.com/todd-haynes-to-adapt-jean-genets-the-maids-with-possible-cate-blanchett-casting/",
+          "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Todd-Haynes-to-Adapt-Jean-Genets-The-Maids-with-Possible.jpg"
         },
         {
           "source": "The Playlist",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVh3b2pUMVNieDhfRGpiOVVPUHd2RkJoSU13OXVLdXZ0RjdfUU10OVFSTVZ6dk5lbW1saTJXS21vbFVNU2o4SEV2U3NQdDhkdUVGYTFzc09NdUxaR2puaTNDSk1XTElic3c0Z0ZPRGZjTlJyUFh1XzVvNGs0czZOR0pyX0JXYVRa?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVh3b2pUMVNieDhfRGpiOVVPUHd2RkJoSU13OXVLdXZ0RjdfUU10OVFSTVZ6dk5lbW1saTJXS21vbFVNU2o4SEV2U3NQdDhkdUVGYTFzc09NdUxaR2puaTNDSk1XTElic3c0Z0ZPRGZjTlJyUFh1XzVvNGs0czZOR0pyX0JXYVRa?oc=5",
+          "article_url": "",
+          "image": ""
         },
         {
           "source": "The Film Stage",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3RMek5MeU1fUVNVYXlTZm5CMXdOazlrdl9MZUZHVVNCN0tKazRLNHRWdGlLT0tTcDduSWxkM1NuYWl4VW1EaDdvcm5WcG5xQ1VENDJYSlNpaTB3clpyOVdrUndXTFR6MVFXN1ZGb1h0T0xKcWluMjZ6MUdpWnNFYTI2a3ZZMUhIWkw5RTNjTGZ4TkdRcllUWTNaYzVqOXBvWXI5MEkyYWVuYmtzX1R3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3RMek5MeU1fUVNVYXlTZm5CMXdOazlrdl9MZUZHVVNCN0tKazRLNHRWdGlLT0tTcDduSWxkM1NuYWl4VW1EaDdvcm5WcG5xQ1VENDJYSlNpaTB3clpyOVdrUndXTFR6MVFXN1ZGb1h0T0xKcWluMjZ6MUdpWnNFYTI2a3ZZMUhIWkw5RTNjTGZ4TkdRcllUWTNaYzVqOXBvWXI5MEkyYWVuYmtzX1R3?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Todd-Haynes-to-Adapt-Jean-Genets-The-Maids-with-Possible.jpg",
+      "image_source": "https://news.ssbcrack.com/todd-haynes-to-adapt-jean-genets-the-maids-with-possible-cate-blanchett-casting/"
     }
   ]
 }

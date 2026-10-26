@@ -9,13 +9,19 @@
       "outlets": [
         {
           "source": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOV81a1BJTF9LRTRmOFdfZFVaSHp5R2tCUGlXc3pQTWpxelNucmFzWV9UV1hYcHNsN1FmTXRkMjFVN2ZzcGs1U0FwUHhnOHJ0dG0zY3lBUXEtSVNPdDBpMGRtQVVEcnQ1ZHNCRHVhSEJYYWZiZW04dlVfTGE4NVVnTkR2QVBGOW9IbGJWb0lLNEQ5S1BLdV9HWnUzakxWNVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOV81a1BJTF9LRTRmOFdfZFVaSHp5R2tCUGlXc3pQTWpxelNucmFzWV9UV1hYcHNsN1FmTXRkMjFVN2ZzcGs1U0FwUHhnOHJ0dG0zY3lBUXEtSVNPdDBpMGRtQVVEcnQ1ZHNCRHVhSEJYYWZiZW04dlVfTGE4NVVnTkR2QVBGOW9IbGJWb0lLNEQ5S1BLdV9HWnUzakxWNVk?oc=5",
+          "article_url": "https://pagesix.com/2026/10/24/celebrity-news/inside-nicole-kidmans-red-hot-renaissance-at-age-59/",
+          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/newspress-collage-gq6xygtdw-1792809583793.jpg?quality=75&strip=all&1792795343&w=1200"
         },
         {
           "source": "pagesix.com",
-          "url": "https://pagesix.com/2026/10/24/celebrity-news/inside-nicole-kidmans-red-hot-renaissance-at-age-59/"
+          "url": "https://pagesix.com/2026/10/24/celebrity-news/inside-nicole-kidmans-red-hot-renaissance-at-age-59/",
+          "article_url": "https://pagesix.com/2026/10/24/celebrity-news/inside-nicole-kidmans-red-hot-renaissance-at-age-59/",
+          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/newspress-collage-gq6xygtdw-1792809583793.jpg?quality=75&strip=all&1792795343&w=1200"
         }
-      ]
+      ],
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/newspress-collage-gq6xygtdw-1792809583793.jpg?quality=75&strip=all&1792795343&w=1200",
+      "image_source": "https://pagesix.com/2026/10/24/celebrity-news/inside-nicole-kidmans-red-hot-renaissance-at-age-59/"
     },
     {
       "title": "Nicole Kidman says she’s proud of herself for ‘surviving’ in Hollywood",

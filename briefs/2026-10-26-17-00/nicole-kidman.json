@@ -31,9 +31,13 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnhUVUNkWC1YRnJObzFwSW5jdE9MXzFTX2p1SXppUWNhdElFUldpbTNua09JZWJGYjFTZHFkMzdUcXVnQkxXd2I2NkdRSy13Mm9oUjA0ekY1dk1zMGJaZG1zLTFWZ0U0NXVjZExwa0JSN18wVzVJaFhmYldpaXNURHBNV1J2U1lockRpd0tFLVlUbGQzS1pDZEtfNEp2M0N0Ni1kcA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnhUVUNkWC1YRnJObzFwSW5jdE9MXzFTX2p1SXppUWNhdElFUldpbTNua09JZWJGYjFTZHFkMzdUcXVnQkxXd2I2NkdRSy13Mm9oUjA0ekY1dk1zMGJaZG1zLTFWZ0U0NXVjZExwa0JSN18wVzVJaFhmYldpaXNURHBNV1J2U1lockRpd0tFLVlUbGQzS1pDZEtfNEp2M0N0Ni1kcA?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/nicole-kidmans-photos-viral-fans-062314887.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/83b82b0343c5480e9e85f1580641b9553e1c89bcf11d32a9ee4eab164f14956b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshefinds_255%2F1772dd9e9b55dfc2cac1777e76e069c3.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/83b82b0343c5480e9e85f1580641b9553e1c89bcf11d32a9ee4eab164f14956b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshefinds_255%2F1772dd9e9b55dfc2cac1777e76e069c3.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/nicole-kidmans-photos-viral-fans-062314887.html"
     }
   ]
 }

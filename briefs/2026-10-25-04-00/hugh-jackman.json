@@ -20,9 +20,19 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPazExd083eW5mWUYzajVINlJDa0RRRnZESW1OSndxTHIya3N2QXdOV25SczFlME5hd240WUJDdVhkdHhLTmxoVy1DRHVkcE5aLVVhSTNwZmtGbTQySTVBOTQwWl9QdHA3WXFDODJEVHk0NlpOWG91cnZtSE1OV3F2T1lJX215QzYxQndQVlgtNGJQYk9LQjA5X2tB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPazExd083eW5mWUYzajVINlJDa0RRRnZESW1OSndxTHIya3N2QXdOV25SczFlME5hd240WUJDdVhkdHhLTmxoVy1DRHVkcE5aLVVhSTNwZmtGbTQySTVBOTQwWl9QdHA3WXFDODJEVHk0NlpOWG91cnZtSE1OV3F2T1lJX215QzYxQndQVlgtNGJQYk9LQjA5X2tB?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/movies/articles/hugh-jackman-next-film-keep-130025014.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/61e96bd800dacdc01a351f14275c77faf613da5e347957db18f402a957398044/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobe_458%2Ff2339ae52ff6f26fb224b1e3767bf59a.jpg"
+        },
+        {
+          "source": "globemagazine.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVGlEZVowNTA1UTBwRV84TEtDNTdBN1ZXU09TTVhCcmVwLWd2OHBFdHlZN0otWnNNb253UWx6dnNEc1NZSlZ5R19tUjc3YzVKV3kzWXBZbXItc0xFVldmdzZKVnVFbkl1R21iRjZ2ejI5SFNBQ0t2cjlJWnJJVXlLT2kyR0x6WmtiNTMwcTAwTjJfdF9WQzA2enR0X2xGXzZIMXMxTWdGLTVONlRPQ19MNzYxNV90dU5FcFh3?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/61e96bd800dacdc01a351f14275c77faf613da5e347957db18f402a957398044/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobe_458%2Ff2339ae52ff6f26fb224b1e3767bf59a.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/movies/articles/hugh-jackman-next-film-keep-130025014.html"
     }
   ]
 }

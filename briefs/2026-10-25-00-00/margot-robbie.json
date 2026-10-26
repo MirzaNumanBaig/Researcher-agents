@@ -9,13 +9,19 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40aVJ6UDk3RjJoQmhaQnBSa0FobHAtU0lFLWlZSnh2SzJtT2Q5SVZlMGhhcWhfUmplR1Q2Rzk5ZzEwUXRqakNLUHk5RUU3OTJQcFRuU1pYeG55WGxoQWpnYlUyaGpnTkk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40aVJ6UDk3RjJoQmhaQnBSa0FobHAtU0lFLWlZSnh2SzJtT2Q5SVZlMGhhcWhfUmplR1Q2Rzk5ZzEwUXRqakNLUHk5RUU3OTJQcFRuU1pYeG55WGxoQWpnYlUyaGpnTkk?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66077779/?ref_=nmnw_art_perm",
+          "image": ""
         },
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTRweDMtMG55TDk4QkliZ2F3dGptVEhVS2xNMnlRRDdybHJZYUszUXdnZTRDZWNmeEl3Zy1JOHpJTHZrRkM1cTlRdHdsWDN4OVkzVGlPLVp2OXRiWmpyVDc0aG8yN2ktemtnNHV1MFFSVzNrN3g3LVI3clZSVjNCRTVUdVpSZWlOdk9ucHZYUlBpN0puRGFkS2M1STVkaUtZZlhVV0xhMlExdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTRweDMtMG55TDk4QkliZ2F3dGptVEhVS2xNMnlRRDdybHJZYUszUXdnZTRDZWNmeEl3Zy1JOHpJTHZrRkM1cTlRdHdsWDN4OVkzVGlPLVp2OXRiWmpyVDc0aG8yN2ktemtnNHV1MFFSVzNrN3g3LVI3clZSVjNCRTVUdVpSZWlOdk9ucHZYUlBpN0puRGFkS2M1STVkaUtZZlhVV0xhMlExdw?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/movies/articles/quentin-tarantino-screens-opening-scene-081500072.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/7dc4d5ec37159c4f96fa0eb41b754bac7f98af28513546cc278711ccb9e36d6d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgold_derby_993%2F04ac5f4f7f2ff3c5a2263b4db7682ce6.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/7dc4d5ec37159c4f96fa0eb41b754bac7f98af28513546cc278711ccb9e36d6d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgold_derby_993%2F04ac5f4f7f2ff3c5a2263b4db7682ce6.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/movies/articles/quentin-tarantino-screens-opening-scene-081500072.html"
     }
   ]
 }

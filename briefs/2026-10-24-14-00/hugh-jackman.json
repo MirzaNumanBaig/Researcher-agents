@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Far Out Magazine",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYXZNcGcxOWhKdkc5d2VYU29JWHh5OVpuT19xVjJXYXREbkp4eUF6eEo3ZFJxNkZPYVZPbHoyWkZzWkZLeE5qcXZ2U0RNdVlxX2FxS3pEeXdTUDcxMzJucmJNdmtobjJvRG1oZjZET2l2WGZDYU40WEZlYVp1LXJ2VE5id3llU1JaVGE0SG5B?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYXZNcGcxOWhKdkc5d2VYU29JWHh5OVpuT19xVjJXYXREbkp4eUF6eEo3ZFJxNkZPYVZPbHoyWkZzWkZLeE5qcXZ2U0RNdVlxX2FxS3pEeXdTUDcxMzJucmJNdmtobjJvRG1oZjZET2l2WGZDYU40WEZlYVp1LXJ2VE5id3llU1JaVGE0SG5B?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/the-2002-musical-role-hugh-jackman-regrets-turning-down/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/10/In-2001-Hugh-Jackman-turned-down-a-role-that-won-Richard-Gere-a-Golden-Globe-Far-Out-Magazine.jpg"
         }
-      ]
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/10/In-2001-Hugh-Jackman-turned-down-a-role-that-won-Richard-Gere-a-Golden-Globe-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/the-2002-musical-role-hugh-jackman-regrets-turning-down/"
     }
   ]
 }

@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "FilmInk",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0pPYTg3V1pRbXJTREhBWUJJVmlGMTAweGJZMGVvdWc3c0VXODh5SGZzQ1FGWW9HNlJ4QWRyeFNRdmFXRVdHaTNyZmhGUm0wREFPRDZEYnk1Z21CVGpIX3pic1hqUUNMbXgzdzNadHlhZmxUOEdhNEQyeTMxOE5tYXV4Rzc2WmhkYmp3eW9TSDN1bWZCWGZaRjRFMFM4YThxdlQ1NVJmVjJNOHJHdFlYUFUxeldac2lWNGlGR2FHUENYVEtfZUlfWUtFY2Y?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0pPYTg3V1pRbXJTREhBWUJJVmlGMTAweGJZMGVvdWc3c0VXODh5SGZzQ1FGWW9HNlJ4QWRyeFNRdmFXRVdHaTNyZmhGUm0wREFPRDZEYnk1Z21CVGpIX3pic1hqUUNMbXgzdzNadHlhZmxUOEdhNEQyeTMxOE5tYXV4Rzc2WmhkYmp3eW9TSDN1bWZCWGZaRjRFMFM4YThxdlQ1NVJmVjJNOHJHdFlYUFUxeldac2lWNGlGR2FHUENYVEtfZUlfWUtFY2Y?oc=5",
+          "article_url": "https://www.filmink.com.au/public-notice/russell-crowe-and-priyanka-chopra-jonas-to-star-in-the-sci-fi-action-thriller-film-bluefly/",
+          "image": "https://www.filmink.com.au/wp-content/uploads/2026/08/bluefly.jpg"
         }
-      ]
+      ],
+      "image": "https://www.filmink.com.au/wp-content/uploads/2026/08/bluefly.jpg",
+      "image_source": "https://www.filmink.com.au/public-notice/russell-crowe-and-priyanka-chopra-jonas-to-star-in-the-sci-fi-action-thriller-film-bluefly/"
     }
   ]
 }

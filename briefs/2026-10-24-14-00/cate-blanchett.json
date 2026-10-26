@@ -9,9 +9,19 @@
       "outlets": [
         {
           "source": "A.V. Club",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdG9hazAxVGxJUFBFV2Etc0hxTi1kS05ISFZvQ3hxeERYcjhHUHllX1VabE1Wb3p4am5QWFpIQTNzWi1BbS12SVdnN0REN25KaHhoblNadXUtRkEwbFJjNlB1SVhjZjNzSjU2OEpoQTV6VnIyUkVUUk1GU2xZSUhMWUx3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdG9hazAxVGxJUFBFV2Etc0hxTi1kS05ISFZvQ3hxeERYcjhHUHllX1VabE1Wb3p4am5QWFpIQTNzWi1BbS12SVdnN0REN25KaHhoblNadXUtRkEwbFJjNlB1SVhjZjNzSjU2OEpoQTV6VnIyUkVUUk1GU2xZSUhMWUx3?oc=5",
+          "article_url": "https://www.avclub.com/todd-haynes-cate-blanchett-the-maids-adaptation-carol",
+          "image": "https://www.avclub.com/wp-content/uploads/2026/10/24/blanchett-carol-feature.jpg"
+        },
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUVU3TmVFNzVRUGM3MWxDX2hadUx2T1JNSmo4N0VHS0dveUlXUlZYNllnWXRYR2FZdk5GVEp6SXdzVDRlVU5HUDlqdmlXN1dDRHVUUEhranV5NWEyUEJ0ZDZ5a2NZSUtqcW1GNU93cExXd3EyT0FKTEpVVGxWSHdIblhha3dIYkFka1JZbW9wUmpWUW5KdWFRYUZ0RXlqZw?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/movies/articles/carols-todd-haynes-trying-lure-001550877.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/de8056e027c92a4fd29f3df132f0bd7d3c71752ad5ef50424314f5db5cd170c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fav_club_632%2Fe8e72c28e071a5e1ead205eec08c681c.jpg"
         }
-      ]
+      ],
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/24/blanchett-carol-feature.jpg",
+      "image_source": "https://www.avclub.com/todd-haynes-cate-blanchett-the-maids-adaptation-carol"
     }
   ]
 }

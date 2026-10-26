@@ -53,13 +53,19 @@
       "outlets": [
         {
           "source": "Yahoo News Australia",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sY0VUZ0VJTjZmZElIdG95blpEUHhMZi1lOGlQNTdLSWdFQkZPbWdGZWgxNzMyMG5XSG5DSUVfSGltQzBJWjN1WlAySWZHeWhzNHg1YWg2WHlnelkydDdPLWpqV2tnRzlEUmxaVmhUWUNTU3NFSW9NMA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sY0VUZ0VJTjZmZElIdG95blpEUHhMZi1lOGlQNTdLSWdFQkZPbWdGZWgxNzMyMG5XSG5DSUVfSGltQzBJWjN1WlAySWZHeWhzNHg1YWg2WHlnelkydDdPLWpqV2tnRzlEUmxaVmhUWUNTU3NFSW9NMA?oc=5",
+          "article_url": "https://au.news.yahoo.com/hemsworth-leads-bold-push-us-190103665.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/49d04c5f604ae6f1698f67503cbbb002ed23454a316cb328f645f4f2c4c24605/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnca_newswire_424%2F27cbe84217078057e9cb526710fa6057.jpg"
         },
         {
           "source": "The Australian",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQR29Za1FDODN1cmlyQ3dsMEVUM1NNZXNxeEk2cVQyRFJaMXBwMmw2dGgzU1BKeWQwZnNLQVhaZXo0aDFDV3p4NDlQWHl1RVZUQ0xmLWhlZmpIS2N2ZTdwNFlwNE1nY1FYZjl5X1dDcmVTYVN2OG9yemlZcEJnVVpzdDJKZXV3dzdMN0JXeTdqZ0Z4dVFTZXJoZ2F0Z2JVM1BtUEZRYXZ2VTRINGUwWkxsNUt5QlFFMXhpQnZhamduaEVwUkdXY2VKRWJHV2pFMGJidFFpb1NiVWNhald3eDFXdGdvU19XZ1lteFZJR1NaZngzZ1Rfb1pqZzBnM01vOVZFYXNTaFpieG9SOXhyLU9ENk16eU1aUTNm?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQR29Za1FDODN1cmlyQ3dsMEVUM1NNZXNxeEk2cVQyRFJaMXBwMmw2dGgzU1BKeWQwZnNLQVhaZXo0aDFDV3p4NDlQWHl1RVZUQ0xmLWhlZmpIS2N2ZTdwNFlwNE1nY1FYZjl5X1dDcmVTYVN2OG9yemlZcEJnVVpzdDJKZXV3dzdMN0JXeTdqZ0Z4dVFTZXJoZ2F0Z2JVM1BtUEZRYXZ2VTRINGUwWkxsNUt5QlFFMXhpQnZhamduaEVwUkdXY2VKRWJHV2pFMGJidFFpb1NiVWNhald3eDFXdGdvU19XZ1lteFZJR1NaZngzZ1Rfb1pqZzBnM01vOVZFYXNTaFpieG9SOXhyLU9ENk16eU1aUTNm?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/49d04c5f604ae6f1698f67503cbbb002ed23454a316cb328f645f4f2c4c24605/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnca_newswire_424%2F27cbe84217078057e9cb526710fa6057.jpg",
+      "image_source": "https://au.news.yahoo.com/hemsworth-leads-bold-push-us-190103665.html"
     }
   ]
 }

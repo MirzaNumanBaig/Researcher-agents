@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Stars About War",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vTTRLeVdHS0xiUUJBZkVKYjA0VGtfRm9iVWZHXzFXMldWSllMOXAtSVgweUEyb09KMGxrak44X2tOb1phZ1NfNjlwOTVsRFE3MERCT0Fn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vTTRLeVdHS0xiUUJBZkVKYjA0VGtfRm9iVWZHXzFXMldWSllMOXAtSVgweUEyb09KMGxrak44X2tOb1phZ1NfNjlwOTVsRFE3MERCT0Fn?oc=5",
+          "article_url": "https://starsaboutwar.in.ua/en/hugh-jackman",
+          "image": "https://starsaboutwar.in.ua/images/protiv/jackman/jackman.jpg"
         }
-      ]
+      ],
+      "image": "https://starsaboutwar.in.ua/images/protiv/jackman/jackman.jpg",
+      "image_source": "https://starsaboutwar.in.ua/en/hugh-jackman"
     }
   ]
 }
