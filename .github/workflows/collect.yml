@@ -30,4 +30,4 @@ jobs:
           git config user.name "researcher-bot"
           git config user.email "researcher-bot@users.noreply.github.com"
           git add data docs briefs
-          git diff --cached --quiet || { git commit -m "Update leads" && git pull --rebase -X theirs origin main && git push; }
+          git diff --cached --quiet || { git commit -m "Update leads" && bash scripts/push_retry.sh; }
