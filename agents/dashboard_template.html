@@ -77,6 +77,8 @@ h2.sec{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.0
 .story:hover{background:var(--soft);border-color:var(--line)}
 .sb{min-width:0;flex:1}
 .story h3{font-size:15px;line-height:1.35;margin:0 0 3px;font-weight:600}
+.thumb{width:84px;height:56px;object-fit:cover;border-radius:6px;flex:none;background:var(--mut)}
+.top .thumb{width:100%;height:auto;aspect-ratio:3/2;margin-bottom:8px}
 .meta{font-size:12.5px;color:var(--mut);display:flex;flex-wrap:wrap;gap:2px 8px;align-items:center}
 .meta .nm{color:var(--ink);font-weight:600}
 .badge{font-size:10.5px;font-weight:700;letter-spacing:.04em;background:var(--new);color:#fff;border-radius:99px;padding:1px 7px}
@@ -367,8 +369,9 @@ return'<h2 class="sec">Articles for this run</h2>'+(rows||'<div class="empty">No
 function meta(l){const n=(l.celebrities||[]).join(", "),o=l.outlets.length>1?" +"+(l.outlets.length-1)+" more":"";
 return'<div class="meta">'+(n?'<span class="nm">'+esc(n)+'</span>':'')+'<span>'+esc(l.source)+esc(o)+'</span><span>'+(l.published?ago(l.published):"")+'</span>'+(age(l)<=3?'<span class="badge">NEW</span>':'')+'</div>'}
 const avl=l=>{const n=(l.celebrities||[])[0]||"";return n?av(n):'<span class="av" style="background:var(--mut)">?</span>'};
-const topCard=l=>'<a class="top" href="'+esc(safeUrl(l.url))+'" target="_blank" rel="noopener">'+meta(l)+'<h3>'+esc(l.title)+'</h3>'+(l.summary?'<p>'+esc(l.summary.slice(0,180))+'</p>':'')+'</a>';
-const rowCard=l=>'<a class="story" href="'+esc(safeUrl(l.url))+'" target="_blank" rel="noopener">'+avl(l)+'<div class="sb"><h3>'+esc(l.title)+'</h3>'+meta(l)+'</div></a>';
+const thumb=l=>l.image?'<img class="thumb" loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(safeUrl(l.image))+'" title="'+esc(l.image)+'" onerror="this.remove()">':"";
+const topCard=l=>'<a class="top" href="'+esc(safeUrl(l.url))+'" target="_blank" rel="noopener">'+thumb(l)+meta(l)+'<h3>'+esc(l.title)+'</h3>'+(l.summary?'<p>'+esc(l.summary.slice(0,180))+'</p>':'')+'</a>';
+const rowCard=l=>'<a class="story" href="'+esc(safeUrl(l.url))+'" target="_blank" rel="noopener">'+(l.image?thumb(l):avl(l))+'<div class="sb"><h3>'+esc(l.title)+'</h3>'+meta(l)+'</div></a>';
 const feed=ls=>'<div class="feed">'+ls.map(rowCard).join("")+'</div>';
 const olderBtn=n=>n?'<div style="text-align:center;margin:16px 0"><button class="btn" id="show-old">Show '+n+' older fresh stories</button></div>':"";
 function wireOlder(){const b=$("show-old");if(b)b.onclick=()=>{showOld=true;render()}}

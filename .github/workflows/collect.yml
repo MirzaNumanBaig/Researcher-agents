@@ -20,6 +20,9 @@ jobs:
         run: python agents/gate.py >> "$GITHUB_OUTPUT"
       - if: steps.gate.outputs.run == 'yes'
         run: python agents/collect_news.py
+      - name: Fetch the image link of every story (feed image or the article's og:image)
+        continue-on-error: true
+        run: python agents/fetch_images.py
       - run: python agents/build_dashboard.py
       - run: python agents/make_briefs.py
       - name: Commit results

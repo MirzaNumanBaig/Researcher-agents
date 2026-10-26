@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parent.parent
 LEADS = ROOT / "data" / "leads.json"
 UA = "Mozilla/5.0 (compatible; Researcher-agents/1.0)"
 ATOM = "{http://www.w3.org/2005/Atom}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
 
 
 def fetch(url):
@@ -40,25 +41,39 @@ def strip_html(s):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s or ""))).strip()
 
 
+def feed_image(it, desc):
+    """Picture the feed itself offers for an item: media:content / media:thumbnail / image enclosure / <img> in the description."""
+    for tag in (MEDIA + "content", MEDIA + "thumbnail"):
+        for m in it.iter(tag):
+            if m.get("url") and m.get("medium", "image") == "image" and "video" not in (m.get("type") or ""):
+                return m.get("url")
+    for m in it.iter("enclosure"):
+        if (m.get("type") or "").startswith("image") and m.get("url"):
+            return m.get("url")
+    m = re.search(r'<img[^>]+src=["\'](https?://[^"\']+)', html.unescape(desc or ""))
+    return m.group(1) if m else ""
+
+
 def parse_feed(data, source, limit):
     root = ET.fromstring(data)
     out = []
     for it in root.iter("item"):
         out.append((it.findtext("title"), it.findtext("link"),
-                    it.findtext("pubDate"), it.findtext("description")))
+                    it.findtext("pubDate"), it.findtext("description"), feed_image(it, it.findtext("description"))))
     for it in root.iter(ATOM + "entry"):
         link = it.find(ATOM + "link")
         out.append((it.findtext(ATOM + "title"),
                     link.get("href") if link is not None else None,
-                    it.findtext(ATOM + "updated"), it.findtext(ATOM + "summary")))
+                    it.findtext(ATOM + "updated"), it.findtext(ATOM + "summary"), feed_image(it, it.findtext(ATOM + "summary"))))
     leads = []
-    for title, link, date, desc in out[:limit]:
+    for title, link, date, desc, image in out[:limit]:
         d = parse_date(date)
         if title and link:
             leads.append({
                 "title": strip_html(title), "url": link.strip(), "source": source,
                 "published": d.isoformat() if d else None,
                 "summary": strip_html(desc)[:300],
+                **({"image": image.strip()} if image else {}),
             })
     return leads
 
