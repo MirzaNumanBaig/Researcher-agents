@@ -164,7 +164,12 @@ jobs:
         continue-on-error: true
         run: |
           pip install -q pillow
-          python agents/generate_images.py --max 25
+          # drafts are auto-approved and sent in the next step only when auto_send is on; otherwise they wait for a human and need no image yet
+          if [ "$(python -c "import json;print(json.load(open('config.json')).get('auto_send',False))")" = "True" ]; then
+            python agents/generate_images.py --max 25 --include-pending
+          else
+            python agents/generate_images.py --max 25
+          fi
         env:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}

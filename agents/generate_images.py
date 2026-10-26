@@ -5,7 +5,11 @@ For every article whose status is pending/approved/sent and that has no `image:`
 (a scene description the writer produced; never a real person), asks Cloudflare for an image, resizes and centre-crops it to exactly 1500x900 (config: OUT_WIDTH/OUT_HEIGHT), converts it to WebP (Pillow) and saves it as
 articles/images/<article-name>.webp (git-ignored; the publish step uploads it in the same run) and adds `image:` and `image_alt:` to the front matter. publish_wordpress.py uploads it
 and sets it as the post's featured image. Without the secrets, or with "ai_images": false in config.json, this does nothing, so the pipeline keeps working.
-usage: generate_images.py [--max N]
+Only articles that are about to be (or were just) sent get an image, so no request is wasted on a drafts waiting for a human:
+  approved                         always
+  pending                          only with --include-pending (the writer workflow, which auto-approves and sends right after)
+  sent without wp_media_id         only when the article is at most RETRY_HOURS old (retries a failed upload; never backfills old posts)
+usage: generate_images.py [--max N] [--include-pending]
 """
 import base64
 import io
@@ -15,6 +19,7 @@ import re
 import sys
 import urllib.error
 import urllib.request
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -33,6 +38,7 @@ FALLBACK = {  # used only when the writer gave no image_prompt; scenes, never pe
 OUT_W, OUT_H = int(os.environ.get("OUT_WIDTH", "1500")), int(os.environ.get("OUT_HEIGHT", "900"))
 GEN_W, GEN_H = int(os.environ.get("CF_GEN_WIDTH", "1536")), int(os.environ.get("CF_GEN_HEIGHT", "896"))
 WEBP_QUALITY = int(os.environ.get("WEBP_QUALITY", "82"))
+RETRY_HOURS = 48
 DEFAULT_SCENE = "a red carpet at night with camera flashes and velvet ropes, no people"
 
 
@@ -68,6 +74,21 @@ def scene_for(front):
         if k in cats:
             return v
     return DEFAULT_SCENE
+
+
+def wants_image(status, stem, include_pending, now):
+    """Whether an article of this status should get an image now. stem is the file name: YYYY-MM-DD-HH-MM-celebrity."""
+    if status == "approved":
+        return True
+    if status == "pending":
+        return include_pending
+    if status == "sent":
+        try:
+            made = datetime.strptime(stem[:16], "%Y-%m-%d-%H-%M").replace(tzinfo=timezone.utc)
+        except ValueError:
+            return False
+        return now - made <= timedelta(hours=RETRY_HOURS)
+    return False
 
 
 def render(prompt):
@@ -113,6 +134,7 @@ def main():
         return
     limit = int(sys.argv[sys.argv.index("--max") + 1]) if "--max" in sys.argv else 20
     out_dir = ROOT / "articles" / "images"
+    now = datetime.now(timezone.utc)
     done = failed = 0
     for f in sorted((ROOT / "articles").glob("*.md"), reverse=True):
         if done >= limit:
@@ -120,7 +142,7 @@ def main():
         front, body = split(f.read_text())
         have = field(front, "image") and (ROOT / "articles" / field(front, "image")).exists()
         # images are not stored in git: an article needs one until WordPress has it (wp_media_id) or the file exists in this run
-        if field(front, "status") not in ("pending", "approved", "sent") or field(front, "wp_media_id") or have:
+        if field(front, "wp_media_id") or have or not wants_image(field(front, "status"), f.stem, "--include-pending" in sys.argv, now):
             continue
         scene = scene_for(front)
         try:
