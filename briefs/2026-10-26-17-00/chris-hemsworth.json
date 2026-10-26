@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Far Out Magazine",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFVrZzVDZFlBdFJRTV9SajBZN0FyYjlaNVpGWXhHbS1Ec014dzJJZVVFcWMyNk9LY0hybTlELWhWbUpTa1JzeGR1Rm1jZE5uSHFMcXJITTJCcTRrb2lhcFZsXzB0cWIwaGYwRWVFcmRDalFCR21aV0J0azc0cEp2dmxqMkp1UXplcEdFSUx6MV8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFVrZzVDZFlBdFJRTV9SajBZN0FyYjlaNVpGWXhHbS1Ec014dzJJZVVFcWMyNk9LY0hybTlELWhWbUpTa1JzeGR1Rm1jZE5uSHFMcXJITTJCcTRrb2lhcFZsXzB0cWIwaGYwRWVFcmRDalFCR21aV0J0azc0cEp2dmxqMkp1UXplcEdFSUx6MV8?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/brutal-2015-chris-hemsworth-movie-that-was-brutal-to-make/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/01/Chris-Hemsworth-Actor-2024-Far-Out-Magazine.jpg"
         }
-      ]
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/01/Chris-Hemsworth-Actor-2024-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/brutal-2015-chris-hemsworth-movie-that-was-brutal-to-make/"
     },
     {
       "title": "DOOMSDAY IS COMING! 🎬 LOOK: Marvel Entertainment drops a new trailer for the upcoming \"Avengers: Doomsday\" movie, featuring Chris Evans as Captain America, Chris Hemsworth as Thor, and a look at Doctor Doom portrayed by Robert Downey Jr. Cou",
@@ -31,9 +35,13 @@
       "outlets": [
         {
           "source": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LeTBfV3dlNmxtd3RZZkUwTjZwOFA0Qkh5ZjBEcGhiNU9jZ2JMTmhwbW1OeWt6ZUkwcW1Wa01ycGp0ZE14OFJLNENfYUVJbDFRUFdvZGhxbW1sMjR2bEJDSlNQOGp4dFU3TmZnNVJGQl96d013THNvclRwTlk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LeTBfV3dlNmxtd3RZZkUwTjZwOFA0Qkh5ZjBEcGhiNU9jZ2JMTmhwbW1OeWt6ZUkwcW1Wa01ycGp0ZE14OFJLNENfYUVJbDFRUFdvZGhxbW1sMjR2bEJDSlNQOGp4dFU3TmZnNVJGQl96d013THNvclRwTlk?oc=5",
+          "article_url": "https://www.forbes.com/pictures/54f4e6ffda47a54de8244069/chris-hemsworth/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/cecc23961869d659931cd3667eafabd3/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
         }
-      ]
+      ],
+      "image": "https://imageio.forbes.com/specials-images/imageserve/cecc23961869d659931cd3667eafabd3/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+      "image_source": "https://www.forbes.com/pictures/54f4e6ffda47a54de8244069/chris-hemsworth/"
     },
     {
       "title": "DOOMSDAY IS COMING! 🎬🔥 Marvel Entertainment has released a new teaser for the highly anticipated “Avengers: Doomsday,” featuring the return of Chris Evans as Steve Rogers, the original Captain America, alongside Chris Hemsworth as Thor. The previe",

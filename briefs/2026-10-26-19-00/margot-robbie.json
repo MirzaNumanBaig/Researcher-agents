@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "NewsBreak: Local News & Alerts",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOWZsc3VHQUpCeGM1TVI0N21YXzE2eG55ZDRrZmFGOGZtSURmeVFDZTRweW9aUE5XcXZMVmVWVkhSOWRIUVp3b1lFMWp2YjlqbWNjTEllUkRWZnZ2SE1YcE85UTFweEpPUDBDNlczSmxNNG1iOHFuNHFsRGpZXzdJNHd5V244QmUxaS1SWGJvNVpJSW11YXlPOThTNnpLT2FfZ2hKQjI1TGdCb0cxQzJWV2tYUi1PR1BWZFBZakNLN181dEJRRVZxTFhYTGcxY0FJUTJraUVMSm5rOGdxMUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOWZsc3VHQUpCeGM1TVI0N21YXzE2eG55ZDRrZmFGOGZtSURmeVFDZTRweW9aUE5XcXZMVmVWVkhSOWRIUVp3b1lFMWp2YjlqbWNjTEllUkRWZnZ2SE1YcE85UTFweEpPUDBDNlczSmxNNG1iOHFuNHFsRGpZXzdJNHd5V244QmUxaS1SWGJvNVpJSW11YXlPOThTNnpLT2FfZ2hKQjI1TGdCb0cxQzJWV2tYUi1PR1BWZFBZakNLN181dEJRRVZxTFhYTGcxY0FJUTJraUVMSm5rOGdxMUE?oc=5",
+          "article_url": "https://www.newsbreak.com/real-corner-352918951/4965624069003-margot-robbie-made-50-million-from-barbie-but-what-she-did-with-her-fortune-to-help",
+          "image": "https://dcusoqhsuupgy.cloudfront.net/cover/VS2de000_cover_with_play_icon.jpg"
         }
-      ]
+      ],
+      "image": "https://dcusoqhsuupgy.cloudfront.net/cover/VS2de000_cover_with_play_icon.jpg",
+      "image_source": "https://www.newsbreak.com/real-corner-352918951/4965624069003-margot-robbie-made-50-million-from-barbie-but-what-she-did-with-her-fortune-to-help"
     }
   ]
 }

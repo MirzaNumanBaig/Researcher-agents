@@ -35,9 +35,13 @@
       "outlets": [
         {
           "source": "Liverpool Echo",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVlrRjd6N2V4cUZ6a2dnX0ZxUU5xY0pYT0pRdlVXRHcxSjRUQVhFblVtdl9hS0NlVDQza2ZOdDFjRjg5U2tmdmdEaUltcVF4alNYMzZUMVlxcUtjLTJ3bHVod2FQOEZDOG0zVWZEMUUzaWQ0S19MNjVObTdocEY0OFRPcV9scHRLTTRHaV82YzNqWTTSAZMBQVVfeXFMUC1Za0Y3ejdleHFGemtnZ19GcVFOcWNKWE9KUXZVV0R3MUo0VEFYRW5VbXZfYUtDZVQ0M2tmTnQxY0Y4OVNrZnZnRGlJbXFReGpTWDM2VDFZcXFLYy0yd2x1aHdhUDhGQzhtM1VmRDFFM2lkNEtfTDY1Tm03aHBGNDhUT3FfbHB0S000R2lfNmMzalk0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVlrRjd6N2V4cUZ6a2dnX0ZxUU5xY0pYT0pRdlVXRHcxSjRUQVhFblVtdl9hS0NlVDQza2ZOdDFjRjg5U2tmdmdEaUltcVF4alNYMzZUMVlxcUtjLTJ3bHVod2FQOEZDOG0zVWZEMUUzaWQ0S19MNjVObTdocEY0OFRPcV9scHRLTTRHaV82YzNqWTTSAZMBQVVfeXFMUC1Za0Y3ejdleHFGemtnZ19GcVFOcWNKWE9KUXZVV0R3MUo0VEFYRW5VbXZfYUtDZVQ0M2tmTnQxY0Y4OVNrZnZnRGlJbXFReGpTWDM2VDFZcXFLYy0yd2x1aHdhUDhGQzhtM1VmRDFFM2lkNEtfTDY1Tm03aHBGNDhUT3FfbHB0S000R2lfNmMzalk0?oc=5",
+          "article_url": "https://www.liverpoolecho.co.uk/news/tv/strictly-come-dancings-delta-goodrem-34813776.amp",
+          "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34813779.ece/ALTERNATES/s1200/0_286293975-1_result.jpg"
         }
-      ]
+      ],
+      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34813779.ece/ALTERNATES/s1200/0_286293975-1_result.jpg",
+      "image_source": "https://www.liverpoolecho.co.uk/news/tv/strictly-come-dancings-delta-goodrem-34813776.amp"
     },
     {
       "title": "Strictly Come Dancing star Delta Goodrem makes \"incredible\" return as she sets 2026 season record",
@@ -46,9 +50,13 @@
       "outlets": [
         {
           "source": "Digital Spy",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUxMcmRUdXpGNTIxM2VTTzdrcWEtUHZQZWE4aGZSTVRXbF8xVTUxNXVvRlpOak1UY0ZVaDBIZ3pWaXBCUXE3bHVWbllMSlB5TGI1VkFQMlA2ME14MGxLaVlUYjhqSHcxZlM3UzZPMzBWd01ENHJHdXUzVTFxZFEwdXUzRzg1M2ZvR2V2SW45T3lGbTU1eFZFcVZn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUxMcmRUdXpGNTIxM2VTTzdrcWEtUHZQZWE4aGZSTVRXbF8xVTUxNXVvRlpOak1UY0ZVaDBIZ3pWaXBCUXE3bHVWbllMSlB5TGI1VkFQMlA2ME14MGxLaVlUYjhqSHcxZlM3UzZPMzBWd01ENHJHdXUzVTFxZFEwdXUzRzg1M2ZvR2V2SW45T3lGbTU1eFZFcVZn?oc=5",
+          "article_url": "https://www.digitalspy.com/tv/reality-tv/a74237942/strictly-come-dancing-delta-goodrem-return/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/8cbedb48-68c4-4cac-99c4-0206b709f26a.jpg?crop=1.00xw:0.885xh;0,0.115xh&resize=1200:*"
         }
-      ]
+      ],
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8cbedb48-68c4-4cac-99c4-0206b709f26a.jpg?crop=1.00xw:0.885xh;0,0.115xh&resize=1200:*",
+      "image_source": "https://www.digitalspy.com/tv/reality-tv/a74237942/strictly-come-dancing-delta-goodrem-return/"
     },
     {
       "title": "Delta Goodrem returns to Strictly Come Dancing with rumba to Celine Dion classic, scoring first 10 of series",
@@ -57,9 +65,13 @@
       "outlets": [
         {
           "source": "Aussievision",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGhvY2JLV1NqVlFsUDdfRDVzZDdhUVVCWTBfUjF5ODlnZDg1TmRYeDA1QVc0MmszcW5YcmlaNTMyTE04RTFyR3QtaklGMXhoV1laSnVHM0xfMTdNMlpDdHdvdUd2RWs1dVptUWRWRmxCbnZ4MGxlMGZZYlBMQzBiS1NwMHpINWI0WnUzQ2c1YUFsbXE2VnNmRmNFX0h4Ymd0UmJXLVBoLW9jV3RYNXFRSVRYTVlNZUZtT1NzTDZ0T3ZuQUtOUFdGeGU2Zzlrdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGhvY2JLV1NqVlFsUDdfRDVzZDdhUVVCWTBfUjF5ODlnZDg1TmRYeDA1QVc0MmszcW5YcmlaNTMyTE04RTFyR3QtaklGMXhoV1laSnVHM0xfMTdNMlpDdHdvdUd2RWs1dVptUWRWRmxCbnZ4MGxlMGZZYlBMQzBiS1NwMHpINWI0WnUzQ2c1YUFsbXE2VnNmRmNFX0h4Ymd0UmJXLVBoLW9jV3RYNXFRSVRYTVlNZUZtT1NzTDZ0T3ZuQUtOUFdGeGU2Zzlrdw?oc=5",
+          "article_url": "https://www.aussievision.net/post/delta-goodrem-returns-to-strictly-come-dancing-with-rumba-to-celine-dion-classic-scoring-first-10-o",
+          "image": "https://static.wixstatic.com/media/c7fbac_0c3fd8bb5b9843f5b802cd9859a007b2~mv2.png/v1/fill/w_1440,h_960,al_c/c7fbac_0c3fd8bb5b9843f5b802cd9859a007b2~mv2.png"
         }
-      ]
+      ],
+      "image": "https://static.wixstatic.com/media/c7fbac_0c3fd8bb5b9843f5b802cd9859a007b2~mv2.png/v1/fill/w_1440,h_960,al_c/c7fbac_0c3fd8bb5b9843f5b802cd9859a007b2~mv2.png",
+      "image_source": "https://www.aussievision.net/post/delta-goodrem-returns-to-strictly-come-dancing-with-rumba-to-celine-dion-classic-scoring-first-10-o"
     },
     {
       "title": "Strictly's Delta Goodrem shares new health update after 'injury she's never encountered before'",
@@ -68,9 +80,13 @@
       "outlets": [
         {
           "source": "Metro.co.uk",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlBJM2JSRXB1VDJqUW5TaTIwT1VfazJTMm9nWjBRZG5SbWxLQUpiNExfU1VfQTQ3UlJ4cERySV9SSUt4a2lmUkhiUjctT2tHS1hCZnE5OFFfeDNEdDVOTk5MM2NiYlZ6LUNwQjNnRGVKckEyajdwUGlXeUJBY0VwMTBQUHNXM01FaWVqelYxaUJ4T01zU1l0YTBsTFVMNUcwMllNSlpRLVh1d3p0Y3p5SGlEWHZpNzJIcmNEbWlR0gHDAUFVX3lxTE9tV09fMktMWDgwdnZuZ01iUzhUc2ZORXd6RENTbEZ2Sk5MQThZX0tuSW5mY0FGbkVFcTBSQkhCVEJoa0FkajNsXy1wd2FQeV9iTW1YOGVqcWxSY1VHcUtLN1NXeV9aRXloT2dlT1c4eWU4SXREOWZPMmpoSlhVaTdYVDJWVU4xblYyR250MmNlaHA0RHFfMlBRWFZmZ1daY1VFNDFPSm81SW1uNGNZendJcUFIb3VYQ0xBQUtKRldYVUE3aw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlBJM2JSRXB1VDJqUW5TaTIwT1VfazJTMm9nWjBRZG5SbWxLQUpiNExfU1VfQTQ3UlJ4cERySV9SSUt4a2lmUkhiUjctT2tHS1hCZnE5OFFfeDNEdDVOTk5MM2NiYlZ6LUNwQjNnRGVKckEyajdwUGlXeUJBY0VwMTBQUHNXM01FaWVqelYxaUJ4T01zU1l0YTBsTFVMNUcwMllNSlpRLVh1d3p0Y3p5SGlEWHZpNzJIcmNEbWlR0gHDAUFVX3lxTE9tV09fMktMWDgwdnZuZ01iUzhUc2ZORXd6RENTbEZ2Sk5MQThZX0tuSW5mY0FGbkVFcTBSQkhCVEJoa0FkajNsXy1wd2FQeV9iTW1YOGVqcWxSY1VHcUtLN1NXeV9aRXloT2dlT1c4eWU4SXREOWZPMmpoSlhVaTdYVDJWVU4xblYyR250MmNlaHA0RHFfMlBRWFZmZ1daY1VFNDFPSm81SW1uNGNZendJcUFIb3VYQ0xBQUtKRldYVUE3aw?oc=5",
+          "article_url": "https://metro.co.uk/2026/10/24/strictlys-delta-goodrem-shares-new-health-update-injury-never-encountered-before-29734799/",
+          "image": "https://metro.co.uk/wp-content/uploads/2026/10/comp-1792769072_1792870003.png?w=1200&h=630&crop=1"
         }
-      ]
+      ],
+      "image": "https://metro.co.uk/wp-content/uploads/2026/10/comp-1792769072_1792870003.png?w=1200&h=630&crop=1",
+      "image_source": "https://metro.co.uk/2026/10/24/strictlys-delta-goodrem-shares-new-health-update-injury-never-encountered-before-29734799/"
     },
     {
       "title": "Delta Goodrem scores series’ first 10 on Strictly return from injury",
@@ -79,17 +95,25 @@
       "outlets": [
         {
           "source": "Radio News Hub",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHlSZUh6ZmhRQVlHejFIdDROcnpGNGdFNnMyQmxaMDJwTEZlOXROZ2pXc3JNSk9HUDdnQlhBNXRUd19NWTFhdF9mSWg3a2lLTFh2UGNIWFZsTXRsVVdkVWxSRXBEdFBieElJbVdIeW1wNGFvbjNlNlZhanhQai1Xd0t2QkZudlNqZGdxU25rWGhZeDZXcWtNV0w3cHA2TjFzZ0NEaGJ2a2FSdTJuVURCa0xLNGFHbzE1dUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHlSZUh6ZmhRQVlHejFIdDROcnpGNGdFNnMyQmxaMDJwTEZlOXROZ2pXc3JNSk9HUDdnQlhBNXRUd19NWTFhdF9mSWg3a2lLTFh2UGNIWFZsTXRsVVdkVWxSRXBEdFBieElJbVdIeW1wNGFvbjNlNlZhanhQai1Xd0t2QkZudlNqZGdxU25rWGhZeDZXcWtNV0w3cHA2TjFzZ0NEaGJ2a2FSdTJuVURCa0xLNGFHbzE1dUE?oc=5",
+          "article_url": "https://www.radionewshub.com/articles/news-updates/Delta-Goodrem-scores-series-first-10-on-Strictly-return-from-injury",
+          "image": "https://www.radionewshub.com/_media/images/news/categories/01M5QQ47P178DTEYHSTZZKE4HX-531e19.jpg"
         },
         {
           "source": "Central Fife Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVJDcTVrME1PYy1ETy1EZ1FOS0w4a0psaFV0QWpxRXFOSXU2OXhhVmJZMVppQktQVVVhczY5YUtEZkdMYjBJcENtbjZJYUtweUZlUFVRdTVvX0VzS2pfSENkVGNlQ045NjAxYWxmNlR5Qi1ra1liQ2JUcElLNXlGVF9tRUVTMktaOWhJM2JPWDNuTVI5N1RoSDZDdGRIcklJNGFjVzRJejlHTjlhcThhSTlzNWVzY0I1dHhZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVJDcTVrME1PYy1ETy1EZ1FOS0w4a0psaFV0QWpxRXFOSXU2OXhhVmJZMVppQktQVVVhczY5YUtEZkdMYjBJcENtbjZJYUtweUZlUFVRdTVvX0VzS2pfSENkVGNlQ045NjAxYWxmNlR5Qi1ra1liQ2JUcElLNXlGVF9tRUVTMktaOWhJM2JPWDNuTVI5N1RoSDZDdGRIcklJNGFjVzRJejlHTjlhcThhSTlzNWVzY0I1dHhZ?oc=5",
+          "article_url": "https://www.centralfifetimes.com/leisure/national/26667666.delta-goodrem-scores-series-first-10-strictly-return-injury/",
+          "image": "https://www.centralfifetimes.com/resources/images/21627450.jpg?type=og-image"
         },
         {
           "source": "Somerset County Gazette",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGlVUzRkbi0xQ0VuN1NEUGRUaHZydVNEUy0xUEY2dF9BdFFzbmxLQVd6cWI1VWdPdS1oVWJBeGFDcXJ1YXBITjBzaEtxaURZVXV1Z1NaX21RTk5SdjI1OTRrZk9hYm1QSDNsZUZPdnFRVjhaRWJydFZsWldkNU5hT1V1bVZRN192aExDZldtdHRnMF9VVUhzZUVJcXF5LXlWUXRXS20zRC12NFJiRlJpeW9xSFpCSGNVTGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGlVUzRkbi0xQ0VuN1NEUGRUaHZydVNEUy0xUEY2dF9BdFFzbmxLQVd6cWI1VWdPdS1oVWJBeGFDcXJ1YXBITjBzaEtxaURZVXV1Z1NaX21RTk5SdjI1OTRrZk9hYm1QSDNsZUZPdnFRVjhaRWJydFZsWldkNU5hT1V1bVZRN192aExDZldtdHRnMF9VVUhzZUVJcXF5LXlWUXRXS20zRC12NFJiRlJpeW9xSFpCSGNVTGc?oc=5",
+          "article_url": "https://www.somersetcountygazette.co.uk/leisure/national/26667666.delta-goodrem-scores-series-first-10-strictly-return-injury/",
+          "image": "https://www.somersetcountygazette.co.uk/resources/images/21627450.jpg?type=og-image"
         }
-      ]
+      ],
+      "image": "https://www.radionewshub.com/_media/images/news/categories/01M5QQ47P178DTEYHSTZZKE4HX-531e19.jpg",
+      "image_source": "https://www.radionewshub.com/articles/news-updates/Delta-Goodrem-scores-series-first-10-on-Strictly-return-from-injury"
     }
   ]
 }

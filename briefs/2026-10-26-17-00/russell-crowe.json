@@ -9,9 +9,19 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DbEZ2c3JjTy1mTUdBRHQ4Z0FKYVZDUW1CRlJYYWJFQWVHbmFuXzdyT3dRQ29iMjVlS2Z3ZVh0WTBTUkhyZVhrNktzYTBWNEtyaHpNWFcyX3FzOS1ULUhZY1pBMUFHUU0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DbEZ2c3JjTy1mTUdBRHQ4Z0FKYVZDUW1CRlJYYWJFQWVHbmFuXzdyT3dRQ29iMjVlS2Z3ZVh0WTBTUkhyZVhrNktzYTBWNEtyaHpNWFcyX3FzOS1ULUhZY1pBMUFHUU0?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66079594/?ref_=ttnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUtJNHZWTFU3TWN2R1BXOWlkMkhWWFdVbDFTd1NoN3p2Yl9zV2ZSeFlpVmhHQVZoN2dIVjNONExwa0FFaV9vUmNVU2s0UXZOMzg3aFNCX21LUEhXUU9OaEVEcU9RYXd0U1FKWDlCUUNOVVdQTWxQZnlqczBpZHR6dHpPc1JRRUV6bkdEYl9aU3M2b2NNYkUwN0xJeThhMDV0a1Y2SDZMQ3YybE5fN3ZOd0p2QQ?oc=5",
+          "article_url": "https://screenrant.com/russell-crowe-denzel-washington-virtuosity-paramount-plus-streaming-release-november-2026/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/russell-crowe-viewed-on-a-giant-screen-in-virtuosity.jpg?w=1600&h=900&fit=crop"
         }
-      ]
+      ],
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/russell-crowe-viewed-on-a-giant-screen-in-virtuosity.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/russell-crowe-denzel-washington-virtuosity-paramount-plus-streaming-release-november-2026/"
     },
     {
       "title": "With Russell Crowe and Ethan Hawke at the Helm, 'The Weight' is a Thoroughly Engrossing Watch",
@@ -20,9 +30,13 @@
       "outlets": [
         {
           "source": "The Movie Buff",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmlGbExzQUZ1anIwNWtCelpwbTBIM0JLVF9HeU8zSHVwT2xpN3hIUXk4VVl0VnFFVURVdkR6X200dW4xclBoUTVJcS15MURGYWgyOWluTjBRa0ZnRGZhTEo5dXVOdUVoV2ZtY1kzbWpfLUtjazZ4RVdQekRoRGJ2RXNodmhRZTJGeFMxZEctZnozcFQ5ZEdKd1M0ZHBGdDdBZC1CdVVnd0N5S3lrb0FySF82TGtXbjNJVHNtdjVmTjZ3OFFqeC1N?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmlGbExzQUZ1anIwNWtCelpwbTBIM0JLVF9HeU8zSHVwT2xpN3hIUXk4VVl0VnFFVURVdkR6X200dW4xclBoUTVJcS15MURGYWgyOWluTjBRa0ZnRGZhTEo5dXVOdUVoV2ZtY1kzbWpfLUtjazZ4RVdQekRoRGJ2RXNodmhRZTJGeFMxZEctZnozcFQ5ZEdKd1M0ZHBGdDdBZC1CdVVnd0N5S3lrb0FySF82TGtXbjNJVHNtdjVmTjZ3OFFqeC1N?oc=5",
+          "article_url": "https://www.themoviebuff.net/2026/10/with-russell-crowe-and-ethan-hawke-at-the-helm-the-weight-is-a-thoroughly-engrossing-watch/",
+          "image": "https://www.themoviebuff.net/wp-content/uploads/2026/10/movie-54-1024x587-1.jpg"
         }
-      ]
+      ],
+      "image": "https://www.themoviebuff.net/wp-content/uploads/2026/10/movie-54-1024x587-1.jpg",
+      "image_source": "https://www.themoviebuff.net/2026/10/with-russell-crowe-and-ethan-hawke-at-the-helm-the-weight-is-a-thoroughly-engrossing-watch/"
     },
     {
       "title": "Prime Video Officially Loses Russell Crowe's Best-Reviewed Crime Classic",
@@ -31,9 +45,13 @@
       "outlets": [
         {
           "source": "Collider",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTlMxVHFrdFZtRlQ1Mk84LWlEWE4wNjI0RW9GMEhiMS02TDBIY2l6N0l1WHpfYk1lN1M1ZlpGY2Q1MmZhakdZRXlqMTJldGk0TTNQZ3dRRExQYVJEZHBUZ0YwRmtwT1hlemRNNkdSTzd6d0FRXzQtZjhJZFdyRVZneWU3U2xJSGlTWUxZZWVsVTRGOUJi?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTlMxVHFrdFZtRlQ1Mk84LWlEWE4wNjI0RW9GMEhiMS02TDBIY2l6N0l1WHpfYk1lN1M1ZlpGY2Q1MmZhakdZRXlqMTJldGk0TTNQZ3dRRExQYVJEZHBUZ0YwRmtwT1hlemRNNkdSTzd6d0FRXzQtZjhJZFdyRVZneWU3U2xJSGlTWUxZZWVsVTRGOUJi?oc=5",
+          "article_url": "https://collider.com/russell-crowe-noir-la-confidential-leaving-prime-video-november-2026/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/la-confidential-russell-crowe.jpg?w=1200&h=675&fit=crop"
         }
-      ]
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/la-confidential-russell-crowe.jpg?w=1200&h=675&fit=crop",
+      "image_source": "https://collider.com/russell-crowe-noir-la-confidential-leaving-prime-video-november-2026/"
     },
     {
       "title": "Russell Crowe’s Beloved Historical Epic Officially Conquers Netflix",
@@ -42,9 +60,13 @@
       "outlets": [
         {
           "source": "Collider",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0NLeDl2Q0QwdFhnZXF2blBfSnFwYWdWR0EtX3c1aVp1NFdza2dyWW0yS1FPbGVnTkczT3d4U0VWMGZEbVRNcy1tMy01elZOT3RFS3EyZm9hb05fSXF2WGFJVng2LTA4bldpMkF2RHJPM0hrOXpEYTBPdVBuSWVrQkV3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0NLeDl2Q0QwdFhnZXF2blBfSnFwYWdWR0EtX3c1aVp1NFdza2dyWW0yS1FPbGVnTkczT3d4U0VWMGZEbVRNcy1tMy01elZOT3RFS3EyZm9hb05fSXF2WGFJVng2LTA4bldpMkF2RHJPM0hrOXpEYTBPdVBuSWVrQkV3?oc=5",
+          "article_url": "https://collider.com/russell-crowe-gladiator-streaming-netflix-october-2026/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/gladiator-russell-crowe-2.jpg?w=1600&h=900&fit=crop"
         }
-      ]
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/gladiator-russell-crowe-2.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://collider.com/russell-crowe-gladiator-streaming-netflix-october-2026/"
     }
   ]
 }

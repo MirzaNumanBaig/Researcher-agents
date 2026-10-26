@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "BGR",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODk3VGZkbHFTQ0prckpFcEhDemFIMmtBLTludDR6M2kydld4YlAxN09aNkt0aDhkOFluQWt5YmdEOWluSGtuT2FqYmxvRElYOGY4OTRMd3ItM0hMYTNrQllfaDM3R3AtRWRIdDBHRWIxdWg2YUZVMndvTlBBUm5VOWxlTzRJY1VsMXRPVDFKVHVWc2E1TTdoNQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODk3VGZkbHFTQ0prckpFcEhDemFIMmtBLTludDR6M2kydld4YlAxN09aNkt0aDhkOFluQWt5YmdEOWluSGtuT2FqYmxvRElYOGY4OTRMd3ItM0hMYTNrQllfaDM3R3AtRWRIdDBHRWIxdWg2YUZVMndvTlBBUm5VOWxlTzRJY1VsMXRPVDFKVHVWc2E1TTdoNQ?oc=5",
+          "article_url": "https://www.bgr.com/2290415/hugh-jackman-rachel-weisz-sci-fi-movie-the-fountain-cult-classic/",
+          "image": "https://www.bgr.com/img/gallery/hugh-jackman-and-rachel-weiszs-sci-fi-movie-became-a-cult-classic-despite-poor-reviews/l-intro-1792425703.jpg"
         }
-      ]
+      ],
+      "image": "https://www.bgr.com/img/gallery/hugh-jackman-and-rachel-weiszs-sci-fi-movie-became-a-cult-classic-despite-poor-reviews/l-intro-1792425703.jpg",
+      "image_source": "https://www.bgr.com/2290415/hugh-jackman-rachel-weisz-sci-fi-movie-the-fountain-cult-classic/"
     },
     {
       "title": "Deadpool & Wolverine Star Hugh Jackman Addresses Whether He Will Return for Avengers: Secret Wars",
@@ -20,9 +24,13 @@
       "outlets": [
         {
           "source": "IGN India",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2NBNndyTE5JckwwLTdyR1hGLWI2dEVJUEtrQm45M0lKZWtsQlZ5b1gweXRzRUlXTmdQY0NSbUx0aFJpYVBkX3BKUGVlS0FnRHhYenRCMHRDZUpGUHFqeDl0VXVLYThYa1pOV21kOElpb1pJQXc2WTUtSlhfR2QyWGhoUHo0ZGhOeGdHWmc5dTJVMGpKaW5QMzVlU0xCdzNBNVg1a01YVmJyU2RxZWI3cXR6dm9KcE5vdkxUd05pV0VvMW4wM1VXRHhLZzFCdVpsazhPamtyWXI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2NBNndyTE5JckwwLTdyR1hGLWI2dEVJUEtrQm45M0lKZWtsQlZ5b1gweXRzRUlXTmdQY0NSbUx0aFJpYVBkX3BKUGVlS0FnRHhYenRCMHRDZUpGUHFqeDl0VXVLYThYa1pOV21kOElpb1pJQXc2WTUtSlhfR2QyWGhoUHo0ZGhOeGdHWmc5dTJVMGpKaW5QMzVlU0xCdzNBNVg1a01YVmJyU2RxZWI3cXR6dm9KcE5vdkxUd05pV0VvMW4wM1VXRHhLZzFCdVpsazhPamtyWXI?oc=5",
+          "article_url": "https://in.ign.com/avengers-secret-wars/273995/deadpool-wolverine-star-hugh-jackman-addresses-whether-he-will-return-for-avengers-secret-wars",
+          "image": "https://sm.ign.com/t/ign_in/news/k/kevin-feig/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to_neza.1200.png"
         }
-      ]
+      ],
+      "image": "https://sm.ign.com/t/ign_in/news/k/kevin-feig/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to_neza.1200.png",
+      "image_source": "https://in.ign.com/avengers-secret-wars/273995/deadpool-wolverine-star-hugh-jackman-addresses-whether-he-will-return-for-avengers-secret-wars"
     }
   ]
 }

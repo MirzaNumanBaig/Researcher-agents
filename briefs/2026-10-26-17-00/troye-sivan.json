@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Gayety",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02X3BDU21DU05TcTVVNFVxV3ByR1JxZnJnbzA1OGZjM0h5QTUzVTF2T3dGQWJGRDYxbzJ2V1NaZ1UyR2pON3pMM0JWYTRFYXlIMVRqZzlDMjlMTHV4UGVHeGNLb0k0VzlZSEFwYzhB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02X3BDU21DU05TcTVVNFVxV3ByR1JxZnJnbzA1OGZjM0h5QTUzVTF2T3dGQWJGRDYxbzJ2V1NaZ1UyR2pON3pMM0JWYTRFYXlIMVRqZzlDMjlMTHV4UGVHeGNLb0k0VzlZSEFwYzhB?oc=5",
+          "article_url": "https://gayety.com/troye-sivan-masculinity-view-from-a-bridge",
+          "image": "https://gayety.com/wp-content/uploads/2026/10/GettyImages-2297535812-troye-sivan.webp"
         }
-      ]
+      ],
+      "image": "https://gayety.com/wp-content/uploads/2026/10/GettyImages-2297535812-troye-sivan.webp",
+      "image_source": "https://gayety.com/troye-sivan-masculinity-view-from-a-bridge"
     }
   ]
 }

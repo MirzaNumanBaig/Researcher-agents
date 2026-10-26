@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "TicketNews",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmV3VXVBaTlBcjVNZWZlMVNTUkFfWFItUktHMmNjM1lIUnNKc0FOTWd5Q1JXX1Y1cjc5ZXhJYnFGc290RldIU2gtVXQwLUtFdFdGUDcxTEEyVXFQblNJNlpHbUZBOFJwSUF3cXdkMkJJN3VEX3lPV2JvUW05LWJpRzhOSVBpd2M4NUFfWHhGMHc5M2FMWURGdFM5ZzRnV2ZSMW5HalVlU1JleWVBVmN1ZDVUSm15UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmV3VXVBaTlBcjVNZWZlMVNTUkFfWFItUktHMmNjM1lIUnNKc0FOTWd5Q1JXX1Y1cjc5ZXhJYnFGc290RldIU2gtVXQwLUtFdFdGUDcxTEEyVXFQblNJNlpHbUZBOFJwSUF3cXdkMkJJN3VEX3lPV2JvUW05LWJpRzhOSVBpd2M4NUFfWHhGMHc5M2FMWURGdFM5ZzRnV2ZSMW5HalVlU1JleWVBVmN1ZDVUSm15UQ?oc=5",
+          "article_url": "https://www.ticketnews.com/2026/02/the-kid-laroi-unveils-2026-a-perfect-world-tour-across-north-america-and-europe/",
+          "image": "https://www.ticketnews.com/wp-content/uploads/2026/02/The-Kid-LAROI-.webp"
         }
-      ]
+      ],
+      "image": "https://www.ticketnews.com/wp-content/uploads/2026/02/The-Kid-LAROI-.webp",
+      "image_source": "https://www.ticketnews.com/2026/02/the-kid-laroi-unveils-2026-a-perfect-world-tour-across-north-america-and-europe/"
     }
   ]
 }

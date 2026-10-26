@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9weTRzRlplZ1llY0FRcXhFTUY4aXE2ZGJvbjFxdkRULWdJNWlMdVhCWm5BR1ZKQ2Z4bm1fXzF0eU1LNV9fT2tZZDZMV2RIeENLOXJMODFDQW5fckt6OFZRTG9uUTg1Sk1O?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9weTRzRlplZ1llY0FRcXhFTUY4aXE2ZGJvbjFxdkRULWdJNWlMdVhCWm5BR1ZKQ2Z4bm1fXzF0eU1LNV9fT2tZZDZMV2RIeENLOXJMODFDQW5fckt6OFZRTG9uUTg1Sk1O?oc=5",
+          "article_url": "https://www.forbes.com/pictures/fimi45ejkid/hugh-jackman/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/20e3efb708b82c8eaf9e4fd6e616003f/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
         }
-      ]
+      ],
+      "image": "https://imageio.forbes.com/specials-images/imageserve/20e3efb708b82c8eaf9e4fd6e616003f/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+      "image_source": "https://www.forbes.com/pictures/fimi45ejkid/hugh-jackman/"
     }
   ]
 }

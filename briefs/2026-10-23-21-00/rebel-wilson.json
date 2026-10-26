@@ -288,17 +288,25 @@
       "outlets": [
         {
           "source": "www.metroindia.net",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObG4tNzZTSHdfNkNGc2JoLUI2M204SEdTeHBJeVdVM0haSmJvemlyRFg2WnZlMjhxYjZrM1ZOenpsWXU5WkEyQVhzS2NQWi04N2s1ckxtNnBIUE1mUjRBQWU4SEdCdHZ0djVMT0t1Y0NkNzR1dTJKVEotRlBpaEhfVGRvelU5TTE1S2p6MTAwRi0wMEdS?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObG4tNzZTSHdfNkNGc2JoLUI2M204SEdTeHBJeVdVM0haSmJvemlyRFg2WnZlMjhxYjZrM1ZOenpsWXU5WkEyQVhzS2NQWi04N2s1ckxtNnBIUE1mUjRBQWU4SEdCdHZ0djVMT0t1Y0NkNzR1dTJKVEotRlBpaEhfVGRvelU5TTE1S2p6MTAwRi0wMEdS?oc=5",
+          "article_url": "https://www.metroindia.net/news/articlenews/rebel-wilson-scores-second-legal-victory-46394",
+          "image": "https://www.metroindia.net/uploads/articles/article_53710749.webp"
         },
         {
           "source": "Social News XYZ",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlk5aXNhRTNqSnV1UlJxSDdaX3NWYjkxc1hsZ0lydEZZR3lqZU1KeF9lU2dTYUU4cnVDaGZUTUkxeG9qZm1HZS02NGlkUHVxRVVDZURsY2hsaEpPSlgzeTUxZjdxcHhIVmVwaTRnSWh3WFRhQUI3R21waWJMU0xEa3BFQU01YnJVdElUcWF0WmpZUUp3TXl4UGxMVHpkQmZkaTR3eUxrcDZKZ9IBqgFBVV95cUxPRlk5aXNhRTNqSnV1UlJxSDdaX3NWYjkxc1hsZ0lydEZZR3lqZU1KeF9lU2dTYUU4cnVDaGZUTUkxeG9qZm1HZS02NGlkUHVxRVVDZURsY2hsaEpPSlgzeTUxZjdxcHhIVmVwaTRnSWh3WFRhQUI3R21waWJMU0xEa3BFQU01YnJVdElUcWF0WmpZUUp3TXl4UGxMVHpkQmZkaTR3eUxrcDZKZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlk5aXNhRTNqSnV1UlJxSDdaX3NWYjkxc1hsZ0lydEZZR3lqZU1KeF9lU2dTYUU4cnVDaGZUTUkxeG9qZm1HZS02NGlkUHVxRVVDZURsY2hsaEpPSlgzeTUxZjdxcHhIVmVwaTRnSWh3WFRhQUI3R21waWJMU0xEa3BFQU01YnJVdElUcWF0WmpZUUp3TXl4UGxMVHpkQmZkaTR3eUxrcDZKZ9IBqgFBVV95cUxPRlk5aXNhRTNqSnV1UlJxSDdaX3NWYjkxc1hsZ0lydEZZR3lqZU1KeF9lU2dTYUU4cnVDaGZUTUkxeG9qZm1HZS02NGlkUHVxRVVDZURsY2hsaEpPSlgzeTUxZjdxcHhIVmVwaTRnSWh3WFRhQUI3R21waWJMU0xEa3BFQU01YnJVdElUcWF0WmpZUUp3TXl4UGxMVHpkQmZkaTR3eUxrcDZKZw?oc=5",
+          "article_url": "",
+          "image": ""
         },
         {
           "source": "MorungExpress",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFVQdFVTdlBIdmtESkhES3pnSm1ybmpFaWE0M2FMekdpdjB3ek5oRXVzMldCaGVWRlZaUjhnMGFCTkkxYnNRVy04TVN3UW51NVNxMlRiVXV6aUttRjdwV0xDUmJ6R0Q5OGJJZG1NN1VvRjdId3pyS21oei1famZIRm56TGl6Yko5Z2JMaWZYMG0xQm5qQWR0UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFVQdFVTdlBIdmtESkhES3pnSm1ybmpFaWE0M2FMekdpdjB3ek5oRXVzMldCaGVWRlZaUjhnMGFCTkkxYnNRVy04TVN3UW51NVNxMlRiVXV6aUttRjdwV0xDUmJ6R0Q5OGJJZG1NN1VvRjdId3pyS21oei1famZIRm56TGl6Yko5Z2JMaWZYMG0xQm5qQWR0UQ?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://www.metroindia.net/uploads/articles/article_53710749.webp",
+      "image_source": "https://www.metroindia.net/news/articlenews/rebel-wilson-scores-second-legal-victory-46394"
     }
   ]
 }

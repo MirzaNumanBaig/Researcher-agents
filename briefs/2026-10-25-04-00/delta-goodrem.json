@@ -9,9 +9,19 @@
       "outlets": [
         {
           "source": "Teesside Live",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXFUeUg5cFBOV3N2c3RneWVJUFhqZURiS1laVlh3djViSENKcnh0Uk1HX2w4dGw3ak1KdjJOWUhtMUtqQUt3V2d3T3BobEJvVk9hcmJvNUFNZUpiQVpjUGtSSEh1Q08yWEFRYTVuakJZdnJTUXlpZ2JVZUxBWkRxOVRHZ1hHb0pjRFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXFUeUg5cFBOV3N2c3RneWVJUFhqZURiS1laVlh3djViSENKcnh0Uk1HX2w4dGw3ak1KdjJOWUhtMUtqQUt3V2d3T3BobEJvVk9hcmJvNUFNZUpiQVpjUGtSSEh1Q08yWEFRYTVuakJZdnJTUXlpZ2JVZUxBWkRxOVRHZ1hHb0pjRFE?oc=5",
+          "article_url": "https://www.gazettelive.co.uk/news/tv/injured-strictly-star-delta-goodrem-34812994",
+          "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34813025.ece/ALTERNATES/s1200/0_Screenshot-2026-10-24-160229.png"
+        },
+        {
+          "source": "Metro.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTJId1dqWEhtSUJORGhuWEpWT2J1ZjdNMnRuV0pnYU54NE5tblhJMEk0dmoyQjNDLVFqeWFqVkhURkJKcHF2SkE5OHU3RjVaUmtfWmExTmp4cTRERExvVUY0YUlYVmFhb3FHeWlHSmRkN1ZuRnN5X0g0ZUd2eXFzQXY5NXBVMV9ZTmJaUVJuMGNoQ2pjN0RWbktjRXQtQUVvaWpGd2I4SGl2Zw?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34813025.ece/ALTERNATES/s1200/0_Screenshot-2026-10-24-160229.png",
+      "image_source": "https://www.gazettelive.co.uk/news/tv/injured-strictly-star-delta-goodrem-34812994"
     },
     {
       "title": "Delta Goodrem sends emotional message to fans ahead of Strictly return",
@@ -42,13 +52,19 @@
       "outlets": [
         {
           "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXVSTjc2aGhQYXVVVmRWZlVWOTBCN3A5QnV3b1c0TExKeEFBUGJKVmh1clhxMzVpbXVYMlRNNkxFTzJ0Q1BlNzNPQjVrNVlrNFRoZkRVLVYwQTh3VlJFMnRvOXd1SGN3SEJOMW1aVTFyTnhGdUgyZnNSM01GMzVoVEszVlAwWkVX?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXVSTjc2aGhQYXVVVmRWZlVWOTBCN3A5QnV3b1c0TExKeEFBUGJKVmh1clhxMzVpbXVYMlRNNkxFTzJ0Q1BlNzNPQjVrNVlrNFRoZkRVLVYwQTh3VlJFMnRvOXd1SGN3SEJOMW1aVTFyTnhGdUgyZnNSM01GMzVoVEszVlAwWkVX?oc=5",
+          "article_url": "https://www.aol.com/articles/delta-goodrem-sends-emotional-message-143901000.html",
+          "image": "https://hermes.media.static.aol.com/media/2026/10/25/5ac7f39e-4cd4-3e46-b3ce-a568109725b6/1448d904-f510-4533-b8c5-d5ac1510d270.jpg"
         },
         {
           "source": "The Independent",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDFOSDBJa0NkYmFNT1hfTmdyV1lXTk1yYU1qVy1WYjRTb2V6TktFMFNaQkx6bDhTZGxPWk9kbGlyVzBTSHJfWHRlSWFXbVk5eU91dlRLeFlyS3Vneko0RTA0YW1odndrSm13dTl5X2F5Y3lKLURNVlBCMmNzQ0FUWEpmUlc5X0x2bjRfWURSd1FLMlVRNFFPZjcydW1oR0ZDWHNlWmxmdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDFOSDBJa0NkYmFNT1hfTmdyV1lXTk1yYU1qVy1WYjRTb2V6TktFMFNaQkx6bDhTZGxPWk9kbGlyVzBTSHJfWHRlSWFXbVk5eU91dlRLeFlyS3Vneko0RTA0YW1odndrSm13dTl5X2F5Y3lKLURNVlBCMmNzQ0FUWEpmUlc5X0x2bjRfWURSd1FLMlVRNFFPZjcydW1oR0ZDWHNlWmxmdw?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://hermes.media.static.aol.com/media/2026/10/25/5ac7f39e-4cd4-3e46-b3ce-a568109725b6/1448d904-f510-4533-b8c5-d5ac1510d270.jpg",
+      "image_source": "https://www.aol.com/articles/delta-goodrem-sends-emotional-message-143901000.html"
     }
   ]
 }

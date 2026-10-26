@@ -64,13 +64,19 @@
       "outlets": [
         {
           "source": "Daily Star",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85ZEFOSkFITmtBRVRPbER2ZC10b3Bja1NZRzlLa1FrOEZSWUh6VTFfbFVwY2NBcnh3ZXRYT2VxdUJZSGZkdTFNemZJdGNzU0JzMWcxZTdSUU9SdktxXzVOX0ZwcXloaFh6S3NrelhXTzNPTW1BekZxb3dSTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85ZEFOSkFITmtBRVRPbER2ZC10b3Bja1NZRzlLa1FrOEZSWUh6VTFfbFVwY2NBcnh3ZXRYT2VxdUJZSGZkdTFNemZJdGNzU0JzMWcxZTdSUU9SdktxXzVOX0ZwcXloaFh6S3NrelhXTzNPTW1BekZxb3dSTQ?oc=5",
+          "article_url": "https://www.dailystar.co.uk/tv/strictly-come-dancing-fans-rush-37807117",
+          "image": "https://i2-prod.dailystar.co.uk/article37807114.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-24-160109.jpg"
         },
         {
           "source": "Wales Online",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2JPV0xNYVhwRXEySFNKd1NaNHY3UEZGTHptdDJnNWxDRzFoT1NKQ0M3YlhwMUtOaERXOVZMNl94NjlyZ21ib19yWHFobkQ0YnBOMzB1MkJPb2JLSjhuOUFlQnhIQ0FwZWoweWVlMklFY05nZHZDZ3dzMklRY0ZlQU5sVTI4TFl1TnY0TzJLVU54Z9IBlwFBVV95cUxPS2xjMXRvdkp0LWtwTW5KVXN1ZnpUMVVMdHYxVGpYZUlpeGZ1R1dLNzNoNk8tS2VJbmloWHdfVjdVdmp5RXlBTk5BTmpqbi1iV1V6TzkyTVI4MXBfR1FwNk9CSGtxX1N2ZGE1ai04enhMb1ZaWVRId0l4NDkySmhGVHUxekh1OTdzdDBZN1MxWG9EWXI2ZUxN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2JPV0xNYVhwRXEySFNKd1NaNHY3UEZGTHptdDJnNWxDRzFoT1NKQ0M3YlhwMUtOaERXOVZMNl94NjlyZ21ib19yWHFobkQ0YnBOMzB1MkJPb2JLSjhuOUFlQnhIQ0FwZWoweWVlMklFY05nZHZDZ3dzMklRY0ZlQU5sVTI4TFl1TnY0TzJLVU54Z9IBlwFBVV95cUxPS2xjMXRvdkp0LWtwTW5KVXN1ZnpUMVVMdHYxVGpYZUlpeGZ1R1dLNzNoNk8tS2VJbmloWHdfVjdVdmp5RXlBTk5BTmpqbi1iV1V6TzkyTVI4MXBfR1FwNk9CSGtxX1N2ZGE1ai04enhMb1ZaWVRId0l4NDkySmhGVHUxekh1OTdzdDBZN1MxWG9EWXI2ZUxN?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://i2-prod.dailystar.co.uk/article37807114.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-24-160109.jpg",
+      "image_source": "https://www.dailystar.co.uk/tv/strictly-come-dancing-fans-rush-37807117"
     }
   ]
 }

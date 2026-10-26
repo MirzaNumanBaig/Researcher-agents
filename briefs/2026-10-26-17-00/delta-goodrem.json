@@ -9,13 +9,19 @@
       "outlets": [
         {
           "source": "Who",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTZ6cDVTT3pJeVBQckZPaENSRm5RaUtVdlNNaVBmV3dxRV8wRHJqcW0xZUUzZVJFZEpuZzF1R2VQN3VOckNpRHRkSVBHVjI5XzBtYkdZVnFrS0Y5R1VyQzhDQXZFZlY5UFBhZ3FuYS1JX2VHaEJMaXRYakZJVWNMT1gyYXp3NVU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTZ6cDVTT3pJeVBQckZPaENSRm5RaUtVdlNNaVBmV3dxRV8wRHJqcW0xZUUzZVJFZEpuZzF1R2VQN3VOckNpRHRkSVBHVjI5XzBtYkdZVnFrS0Y5R1VyQzhDQXZFZlY5UFBhZ3FuYS1JX2VHaEJMaXRYakZJVWNMT1gyYXp3NVU?oc=5",
+          "article_url": "https://www.who.com.au/entertainment/delta-goodrem-strictly-come-dancing-return/",
+          "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/15/2026/10/header-2026-10-26t120159.765-6adea68d3b7ec.png?resize=1200%2C630&format=auto"
         },
         {
           "source": "who.com.au",
-          "url": "https://www.who.com.au/entertainment/delta-goodrem-strictly-come-dancing-return/"
+          "url": "https://www.who.com.au/entertainment/delta-goodrem-strictly-come-dancing-return/",
+          "article_url": "https://www.who.com.au/entertainment/delta-goodrem-strictly-come-dancing-return/",
+          "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/15/2026/10/header-2026-10-26t120159.765-6adea68d3b7ec.png?resize=1200%2C630&format=auto"
         }
-      ]
+      ],
+      "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/15/2026/10/header-2026-10-26t120159.765-6adea68d3b7ec.png?resize=1200%2C630&format=auto",
+      "image_source": "https://www.who.com.au/entertainment/delta-goodrem-strictly-come-dancing-return/"
     },
     {
       "title": "Delta Goodrem's triumphant Strictly return following injury",
@@ -24,9 +30,13 @@
       "outlets": [
         {
           "source": "Yahoo Lifestyle Australia",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUUJhZE9aOXFEQWJiOGR1ZFk1emNQYnFXanVkM2tfOFh0UXRIMExlbUJLOW13SXk3SmNvTkFTV3N6M0Vtc2ZZVnozRlczaHlva2l6X3JKdVo4dU92RzFMNkFjR1QxdWE3V2w2Q0Mza3BRdm5VR3k1ZjdGaldqSVlIcjA3NlBYcWJ2SUw4M2VMa2hvWDhfU2tYSnNXTG1TeEw1SFhBVXZFenNiMDVxSWNEbHJYQU9zOWh5TWJRYzR1UHNONUxTYmNINUE1STVBWnZaMTFOYjQ1a3k0Q0hVVHJIZmRqdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUUJhZE9aOXFEQWJiOGR1ZFk1emNQYnFXanVkM2tfOFh0UXRIMExlbUJLOW13SXk3SmNvTkFTV3N6M0Vtc2ZZVnozRlczaHlva2l6X3JKdVo4dU92RzFMNkFjR1QxdWE3V2w2Q0Mza3BRdm5VR3k1ZjdGaldqSVlIcjA3NlBYcWJ2SUw4M2VMa2hvWDhfU2tYSnNXTG1TeEw1SFhBVXZFenNiMDVxSWNEbHJYQU9zOWh5TWJRYzR1UHNONUxTYmNINUE1STVBWnZaMTFOYjQ1a3k0Q0hVVHJIZmRqdw?oc=5",
+          "article_url": "https://au.lifestyle.yahoo.com/delta-goodrem-makes-triumphant-return-to-strictly-come-dancing-as-fans-express-concern-for-stars-health-212840647.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/12524a6b0bb9b915adaea26da91645bb93a16afef00d5f95efaf117724b135a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdelta-goodrem_9791.png"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/12524a6b0bb9b915adaea26da91645bb93a16afef00d5f95efaf117724b135a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdelta-goodrem_9791.png",
+      "image_source": "https://au.lifestyle.yahoo.com/delta-goodrem-makes-triumphant-return-to-strictly-come-dancing-as-fans-express-concern-for-stars-health-212840647.html"
     },
     {
       "title": "Delta Goodrem shares raw insight into recent health battle",
@@ -35,13 +45,19 @@
       "outlets": [
         {
           "source": "smh.com.au",
-          "url": "https://www.smh.com.au/culture/delta-goodrem-shares-raw-insight-into-recent-health-battle-20261025-p618ek.html?ref=rss&utm_medium=rss&utm_source=rss_culture"
+          "url": "https://www.smh.com.au/culture/delta-goodrem-shares-raw-insight-into-recent-health-battle-20261025-p618ek.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
+          "article_url": "https://www.smh.com.au/culture/delta-goodrem-shares-raw-insight-into-recent-health-battle-20261025-p618ek.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
+          "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2325b5e1e81b2a0d64a42114fbd47d66286d71cd"
         },
         {
           "source": "SMH.com.au",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkc5UzFPczM3Y3R2SklEeWc0SnpLNmlEZ1Rua3RfSWxWalZIbXdwMnlvc1c1Qm5GekVXVWtVc0E2OEVjMEwxdEwwZE9KNkJ0akdKWEdwbHFUUXVlMW1jVlJ6OGFLNXhweGozQ2RYNFc2RHlwbVA4bFJsNUpVX01LVGNMZkxMVGR2ZEQ1NEhnSFYzRlowT2JQd2NoOVgyV2hkZkktZVdZQXhmc1pBMkVB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkc5UzFPczM3Y3R2SklEeWc0SnpLNmlEZ1Rua3RfSWxWalZIbXdwMnlvc1c1Qm5GekVXVWtVc0E2OEVjMEwxdEwwZE9KNkJ0akdKWEdwbHFUUXVlMW1jVlJ6OGFLNXhweGozQ2RYNFc2RHlwbVA4bFJsNUpVX01LVGNMZkxMVGR2ZEQ1NEhnSFYzRlowT2JQd2NoOVgyV2hkZkktZVdZQXhmc1pBMkVB?oc=5",
+          "article_url": "https://www.smh.com.au/culture/delta-goodrem-shares-raw-insight-into-recent-health-battle-20261025-p618ek.html",
+          "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2325b5e1e81b2a0d64a42114fbd47d66286d71cd"
         }
-      ]
+      ],
+      "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2325b5e1e81b2a0d64a42114fbd47d66286d71cd",
+      "image_source": "https://www.smh.com.au/culture/delta-goodrem-shares-raw-insight-into-recent-health-battle-20261025-p618ek.html?ref=rss&utm_medium=rss&utm_source=rss_culture"
     },
     {
       "title": "Delta Goodrem scores high on Strictly Come Dancing UK",
@@ -50,9 +66,13 @@
       "outlets": [
         {
           "source": "7NEWS",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlhrWmFVajV5SHBuUTlTc1RMdTNXVmh2T1RXMU82eUdxU2dhX0ZMb1pjZmRabW1HSUFpUGhXNHR0ajFjbGJsSUtFcWFUUnFraEtqQmsyS1VCLVVQMk11OE8tYkpZN0ZPMXVRVWFTbjZ3QThGU3VRNU9HZUVuZjl5ZFM3OFZRaVFlMjlscmxfZU5Wc3owWHQ1WWFkQzFsNzR4M2M2NQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlhrWmFVajV5SHBuUTlTc1RMdTNXVmh2T1RXMU82eUdxU2dhX0ZMb1pjZmRabW1HSUFpUGhXNHR0ajFjbGJsSUtFcWFUUnFraEtqQmsyS1VCLVVQMk11OE8tYkpZN0ZPMXVRVWFTbjZ3QThGU3VRNU9HZUVuZjl5ZFM3OFZRaVFlMjlscmxfZU5Wc3owWHQ1WWFkQzFsNzR4M2M2NQ?oc=5",
+          "article_url": "https://7news.com.au/video/news/delta-goodrem-scores-high-on-strictly-come-dancing-uk-bc-6407357700112",
+          "image": "https://images.7news.com.au/publication/6407357700112/183174e894d564d6a3ed655a7aa318e2b45aec02.jpg"
         }
-      ]
+      ],
+      "image": "https://images.7news.com.au/publication/6407357700112/183174e894d564d6a3ed655a7aa318e2b45aec02.jpg",
+      "image_source": "https://7news.com.au/video/news/delta-goodrem-scores-high-on-strictly-come-dancing-uk-bc-6407357700112"
     }
   ]
 }

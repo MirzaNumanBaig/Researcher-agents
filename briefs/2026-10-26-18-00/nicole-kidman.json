@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjY2dV9fa2pYa3I4OXJibU9zMGx1azRqb0V3bnhhQXVMdlY4aUtSY1ZkTW93RFdycHVKbkV4WVFPWHRfbmpycmluaFk1dVo2SmpTZi01RmtqZ1dRZGhaOEhHODNlRU9nM0Nxb18wYjZmSFNZWjE1SFhBWGJ5eTJKc3djV0FuYnBOQ25oekpHa2F0Z203OWNqTm02WUdkNGpIN1F6Qg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjY2dV9fa2pYa3I4OXJibU9zMGx1azRqb0V3bnhhQXVMdlY4aUtSY1ZkTW93RFdycHVKbkV4WVFPWHRfbmpycmluaFk1dVo2SmpTZi01RmtqZ1dRZGhaOEhHODNlRU9nM0Nxb18wYjZmSFNZWjE1SFhBWGJ5eTJKc3djV0FuYnBOQ25oekpHa2F0Z203OWNqTm02WUdkNGpIN1F6Qg?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/jlo-faces-negative-dating-report-144500654.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/f2675ddc4ad1350ca998127b5d0f51f06cac56d839405d0dd4fe5d135e278620/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2Ff356e132e8a5d444f72c621c6e19ab1c.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/f2675ddc4ad1350ca998127b5d0f51f06cac56d839405d0dd4fe5d135e278620/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2Ff356e132e8a5d444f72c621c6e19ab1c.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/jlo-faces-negative-dating-report-144500654.html"
     }
   ]
 }

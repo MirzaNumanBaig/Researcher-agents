@@ -33,8 +33,8 @@
       {
         "source": "Food & Drink Business",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckNUY2VfcHVmVG0zbmdjWUU5Wm05M2pndGw1N09JNEZubGdWR0RuRTctWkhBNWREOGxRNEVMYTRoUmtXdnFxNW5OVzdZS2l3ZURpN0trenM2Y0RiRmM1MHk5TUNnRE5WR1FYS0VWRkVpRU9ETXA0QzhlOGJaTVEtQUpVcXNSWGNCcC1XanVHcUx2b3dmSmtkTnhfdndOeERi?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.foodanddrinkbusiness.com.au/news/archie-rose-makeover-with-new-co-owner-chris-hemsworth",
+        "image": "https://cdn.yaffa.com.au/yaffadsp/images/dspArticle/leadImage/chrishemsworth-willedwards-bottlelineup-copy.jpg"
       },
       {
         "source": "BevNET.com",
@@ -49,8 +49,8 @@
         "image": ""
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://cdn.yaffa.com.au/yaffadsp/images/dspArticle/leadImage/chrishemsworth-willedwards-bottlelineup-copy.jpg",
+    "image_source": "https://www.foodanddrinkbusiness.com.au/news/archie-rose-makeover-with-new-co-owner-chris-hemsworth",
     "batch": "2026-10-22 00:00"
   },
   {
@@ -66,12 +66,12 @@
       {
         "source": "RUSSH",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Jb1hrcGp0UkNwSmhKUl9XelB5VkFoTGw2dy1pbUJfTXB2NTBaUjVpdVFtRzVjM1BDU1ZrdUdpbzVqT1ZvMmdrMnh3NUJCdlFzMkUzT0RTeFlwZw?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.russh.com/chanel-no-5-ingredients/",
+        "image": "https://www.russh.com/wp-content/uploads/2026/10/3-8.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://www.russh.com/wp-content/uploads/2026/10/3-8.jpg",
+    "image_source": "https://www.russh.com/chanel-no-5-ingredients/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -87,7 +87,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05S0VkRi0tZXFmTjh0QWxYa0ZGTGprbWo0VEhsWF92TG8tejFqMGktaUpRbDBzQzd6VlRremxWc0FtcE5jRU81V0RfNUZMc3dHdjZoVHgxUFZqcG8xSWNjUG5RQWxISFE?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/news/ni66079776/?ref_=nmnw_art_perm",
         "image": ""
       },
       {
@@ -114,18 +114,18 @@
       {
         "source": "Who",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTZ6cDVTT3pJeVBQckZPaENSRm5RaUtVdlNNaVBmV3dxRV8wRHJqcW0xZUUzZVJFZEpuZzF1R2VQN3VOckNpRHRkSVBHVjI5XzBtYkdZVnFrS0Y5R1VyQzhDQXZFZlY5UFBhZ3FuYS1JX2VHaEJMaXRYakZJVWNMT1gyYXp3NVU?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.who.com.au/entertainment/delta-goodrem-strictly-come-dancing-return/",
+        "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/15/2026/10/header-2026-10-26t120159.765-6adea68d3b7ec.png?resize=1200%2C630&format=auto"
       },
       {
         "source": "who.com.au",
         "url": "https://www.who.com.au/entertainment/delta-goodrem-strictly-come-dancing-return/",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.who.com.au/entertainment/delta-goodrem-strictly-come-dancing-return/",
+        "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/15/2026/10/header-2026-10-26t120159.765-6adea68d3b7ec.png?resize=1200%2C630&format=auto"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/15/2026/10/header-2026-10-26t120159.765-6adea68d3b7ec.png?resize=1200%2C630&format=auto",
+    "image_source": "https://www.who.com.au/entertainment/delta-goodrem-strictly-come-dancing-return/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -141,12 +141,12 @@
       {
         "source": "The Times of India",
         "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPOGZGNDdPTEpYSi1YVmZ5VUJ0aWVTdUdWMFo3cmx5bXpMWUJxYVRiV21FRG9hU0ZMemR1X2JuRm5XdmU0aFhKYlBFaUVYTDZSLThNaXYwOHp2OVRhRTBxb2l4UllYbzNmWG14a1NPMUIwZmVXRVdOM3F5LUNyb2tNZy1hN1NaWW55UjljQmRLcmhIU0lsc083WnJRNVJmQmlUVjZrTVZGQ1pPbUx3MWg5clVIR01pQ0lCY2hya1RYVlRyMWtqTGxTa0tibDdMZkRWbWJ2SktNMnRoZTFiai1KTzI0RE5NLWRtRnBTNVM1TTlzV0FkZ0h5TENkUl9FbERRck1WdFhYdXZnb0JCeWhxb2o5VzIzN2xwRWpCUUoybmRhdXJkTmp4ejh2QTNXVFNRSDhJNXBRT1J4ME9xZGtOWVk3M0RmbHNtR0VB0gHQAkFVX3lxTE5BYjIyTUI3NUNNRUZfeGxvSGIwckl5bm9VVEsyYndBdEpmdjM3eXJILWs0c2lXc1FHRHFoX3p6SWNsNkEzbXdUZXY3NXR0dS05aXBwY19DRkdlaTAyRi1FVkJOZ0pqZG9QWXN0RDRQNFd0eWFUdURsazg4ZDFBMWR2bVdjaFpzcEItUGhjR0lJZzBUVk5LSHFOSGlzTS1YcGJuQUMyOFJyOUdvcjEyV29udGl2SFBWOVJobVdoTTREMUxNcmpfYWF4Z3YzWFZHNlVyY3hueUVDZFJRazN4TU51ZnpJN1VXU2FoUVZKVjRVMXNxa3V3RU5ETXZXTER3VF9tYjFaUFJHdDBQY1U4aktVTmdkSXhlMnpObFNGRTA2dEpCcy1sQlRfZzZqeXpkMkVjYkVjTERNdTFWWndfQy1BTVp2RlM4Y0xtcWJYYUYxeA?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://timesofindia.indiatimes.com/web-series/news/english/margot-robbies-neighbours-episodes-to-get-ai-treatment-matthew-werkmeister-criticise-project-stefan-dennis-calls-it-morally-and-legally-wrong/articleshow/135200259.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135200268,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://static.toiimg.com/thumb/msid-135200268,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "image_source": "https://timesofindia.indiatimes.com/web-series/news/english/margot-robbies-neighbours-episodes-to-get-ai-treatment-matthew-werkmeister-criticise-project-stefan-dennis-calls-it-morally-and-legally-wrong/articleshow/135200259.cms",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -162,7 +162,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVEFEU0Rnb1VlajJQMkpzV2xVVEF1UmhzcXdUZS00U252OTdSVEt2TFJHWkpRWDQySnZQUUstVFp4LWVfWjJUWFZ0dWVib2t2cHFFZjNiZmFRSXpqbHd4Z3dNUFFRU2NNTFlEOVd3amRPSzVuNk5DTml3bFNxcG1jVw?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/es/list/ls009076328/mediaviewer/rm929413376/?ref_=ls_2",
         "image": ""
       }
     ],
@@ -183,18 +183,18 @@
       {
         "source": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVzd1QTR0S0hNZ2JXUjB1TEVjUTh3aVBDa3YyeGNlN3IwbDBRelJoLXJ1Wl9abFh2c1p1eGRpdWVJRzZwcjlyNmplQnNKSldUTDJPTnBUbzZ4clRXSnV2OXcyVklDMGlEQ1ZGdk8wbjVxNUFWNzFjY3RCeFRrVjF2MGRCNmJfbFFNVFl5dGVrTlBCeEZmX3NIZ21mSmNORGZLc0tfN085ZjJXamZIRUlnUkE2TjVDbVRVV1FsUFd3?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
+        "image": "https://i.guim.co.uk/img/media/d850e2558a1a7a06e667ee3f5cb1123b8775f401/189_38_3166_2534/master/3166.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=194e4cd658a85a145b9b4cc578cb1422"
       },
       {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
+        "image": "https://i.guim.co.uk/img/media/d850e2558a1a7a06e667ee3f5cb1123b8775f401/189_38_3166_2534/master/3166.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=194e4cd658a85a145b9b4cc578cb1422"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://i.guim.co.uk/img/media/d850e2558a1a7a06e667ee3f5cb1123b8775f401/189_38_3166_2534/master/3166.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=194e4cd658a85a145b9b4cc578cb1422",
+    "image_source": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -210,12 +210,12 @@
       {
         "source": "Istituto Impariamo",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSDhIY3F2VUY2UUk1aDMyNC1YVXF0MVoxbTlQTUFqTGU4Y25RdmVoNWxKX1ZxQmxDb0pzTmN6Ni1nWDFaNi1pYnA0T2t2T2JNcWlYd01jVmtWNjhaeTlKenNjaWIwb0d6bHNBb3A2WmpTWVNWbk9udWJHczBaUnRxaG9pUEdxbjRTRE5LOEpOQ1VDWDBVSFlmczlTdjdHTEhxQzN6SkU2cW81ek05c0g3OGVuOWRnaXBPVGt1eTNqbGlKVFd2U2k3blpmZjBfSFFGNW9yTUZYcUNyS1lBNFpZUnBxdTZWSFgt?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.istitutoimpariamo.it/the-margot-robbie-likeness-paradox-how-hollywoods-obsession-with-her-image-collided-with-an-explosive-ai-screen-dispute/",
+        "image": "https://www.istitutoimpariamo.it/wp-content/uploads/2026/10/cover-the-margot-robbie-likeness-paradox-how-hollywoods-obse-1280x720-hqKus.webp"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://www.istitutoimpariamo.it/wp-content/uploads/2026/10/cover-the-margot-robbie-likeness-paradox-how-hollywoods-obse-1280x720-hqKus.webp",
+    "image_source": "https://www.istitutoimpariamo.it/the-margot-robbie-likeness-paradox-how-hollywoods-obsession-with-her-image-collided-with-an-explosive-ai-screen-dispute/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -231,7 +231,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KZHcwTWdYWk4xVTNZWXRqc1dwNFV2NXktNFRWaENJUWVDLWctYi1DNWNJZnlnUWJ5aHhoQlZoVVlpN2dXQkNNMzVwaHVKWXBESXc?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/fr/news/ni66042773/",
         "image": ""
       }
     ],
@@ -252,18 +252,18 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DbEZ2c3JjTy1mTUdBRHQ4Z0FKYVZDUW1CRlJYYWJFQWVHbmFuXzdyT3dRQ29iMjVlS2Z3ZVh0WTBTUkhyZVhrNktzYTBWNEtyaHpNWFcyX3FzOS1ULUhZY1pBMUFHUU0?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/news/ni66079594/?ref_=ttnw_art_perm",
         "image": ""
       },
       {
         "source": "ScreenRant",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUtJNHZWTFU3TWN2R1BXOWlkMkhWWFdVbDFTd1NoN3p2Yl9zV2ZSeFlpVmhHQVZoN2dIVjNONExwa0FFaV9vUmNVU2s0UXZOMzg3aFNCX21LUEhXUU9OaEVEcU9RYXd0U1FKWDlCUUNOVVdQTWxQZnlqczBpZHR6dHpPc1JRRUV6bkdEYl9aU3M2b2NNYkUwN0xJeThhMDV0a1Y2SDZMQ3YybE5fN3ZOd0p2QQ?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://screenrant.com/russell-crowe-denzel-washington-virtuosity-paramount-plus-streaming-release-november-2026/",
+        "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/russell-crowe-viewed-on-a-giant-screen-in-virtuosity.jpg?w=1600&h=900&fit=crop"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/russell-crowe-viewed-on-a-giant-screen-in-virtuosity.jpg?w=1600&h=900&fit=crop",
+    "image_source": "https://screenrant.com/russell-crowe-denzel-washington-virtuosity-paramount-plus-streaming-release-november-2026/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -279,12 +279,12 @@
       {
         "source": "Yahoo Lifestyle Australia",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUUJhZE9aOXFEQWJiOGR1ZFk1emNQYnFXanVkM2tfOFh0UXRIMExlbUJLOW13SXk3SmNvTkFTV3N6M0Vtc2ZZVnozRlczaHlva2l6X3JKdVo4dU92RzFMNkFjR1QxdWE3V2w2Q0Mza3BRdm5VR3k1ZjdGaldqSVlIcjA3NlBYcWJ2SUw4M2VMa2hvWDhfU2tYSnNXTG1TeEw1SFhBVXZFenNiMDVxSWNEbHJYQU9zOWh5TWJRYzR1UHNONUxTYmNINUE1STVBWnZaMTFOYjQ1a3k0Q0hVVHJIZmRqdw?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://au.lifestyle.yahoo.com/delta-goodrem-makes-triumphant-return-to-strictly-come-dancing-as-fans-express-concern-for-stars-health-212840647.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/12524a6b0bb9b915adaea26da91645bb93a16afef00d5f95efaf117724b135a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdelta-goodrem_9791.png"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://s.yimg.com/lo/mysterio/api/12524a6b0bb9b915adaea26da91645bb93a16afef00d5f95efaf117724b135a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdelta-goodrem_9791.png",
+    "image_source": "https://au.lifestyle.yahoo.com/delta-goodrem-makes-triumphant-return-to-strictly-come-dancing-as-fans-express-concern-for-stars-health-212840647.html",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -300,14 +300,14 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBT1hSMm53UmlpQVg2MTlfTEF2dFlSUDdYdXlFSEwta0w0ekNPN1ZwYTFGLUt5VGU0UVVDRXVWRzFPNDZTWDJPUDRLLTFiVERhMjBpMEFSNkhpZFBETlRheURKZlRHRHc?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/news/ni66073958/?ref_=ttnw_art_perm",
         "image": ""
       },
       {
         "source": "MovieWeb",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01RHVGOHRoV3cxRUw0azdMTmJUQzAwcXhYSHZfMFY4OW5QYWxPTEZHRUdyRzBoUU45RnE2bmlCaFVxNVpLc3R4X2lSNkNmMlNKZVotdkpVWnNSVjBzVlptZ0NubkVMT04wTnpETXZwT3gzM1pFeTN3?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://movieweb.com/death-of-robin-hood-stream-amazon-october-2026/",
+        "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/death-of-robin-hood-streaming-hbo-through-amazon.jpg?w=1600&h=900&fit=crop"
       },
       {
         "source": "ScreenRant",
@@ -322,8 +322,8 @@
         "image": ""
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/death-of-robin-hood-streaming-hbo-through-amazon.jpg?w=1600&h=900&fit=crop",
+    "image_source": "https://movieweb.com/death-of-robin-hood-stream-amazon-october-2026/",
     "batch": "Earlier"
   },
   {
@@ -339,7 +339,7 @@
       {
         "source": "Universitat de Barcelona",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTzN5RHUtQThid1FEdTM5LUl4TFMxbm1qXzh6WDFKbXRGd2R1VF96LWRoOThnWUNsOFZNZHJqS09Ca2VCMG9YTElOaURDdlZPeHR3a0JwazlTNGs3MG5nZDQyYnBUMUt4OWdjLU5yYzktOTAydEtYMXdVNlhFV0t3OTFXdlFQcUU1ZG0tSWN6dEl3TnBOb0MzbXU2YS1ONi1aVGRsTlo4WkVNNGx0c011TC1xTHpMN290cXh4YXdWSDBmMXBmME5kS1R0QndLcUh1TkpkbHliZ2hDMVAtaXhUcmxvQURuYm5YUVhhOXFRZ1o?oc=5",
-        "article_url": "",
+        "article_url": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?CONNECTOR=%2F%5C%2Fwtsap.wiki%2Fweightloss%2F%3Fwiki=1fafid",
         "image": ""
       }
     ],
@@ -360,7 +360,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNi1pMWg5ZVlxdGFlNF8tb2pzUDB2bUpWdjRTSF9LMFRnbU9KM0Uwd2dKbFJmU0cwWS1iaWVqLTV6VFo3dVpjakFHcFJlOXduNmc?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/es/news/ni66046177/",
         "image": ""
       }
     ],
@@ -381,12 +381,12 @@
       {
         "source": "Gayety",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02X3BDU21DU05TcTVVNFVxV3ByR1JxZnJnbzA1OGZjM0h5QTUzVTF2T3dGQWJGRDYxbzJ2V1NaZ1UyR2pON3pMM0JWYTRFYXlIMVRqZzlDMjlMTHV4UGVHeGNLb0k0VzlZSEFwYzhB?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://gayety.com/troye-sivan-masculinity-view-from-a-bridge",
+        "image": "https://gayety.com/wp-content/uploads/2026/10/GettyImages-2297535812-troye-sivan.webp"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://gayety.com/wp-content/uploads/2026/10/GettyImages-2297535812-troye-sivan.webp",
+    "image_source": "https://gayety.com/troye-sivan-masculinity-view-from-a-bridge",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -402,12 +402,12 @@
       {
         "source": "Far Out Magazine",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFVrZzVDZFlBdFJRTV9SajBZN0FyYjlaNVpGWXhHbS1Ec014dzJJZVVFcWMyNk9LY0hybTlELWhWbUpTa1JzeGR1Rm1jZE5uSHFMcXJITTJCcTRrb2lhcFZsXzB0cWIwaGYwRWVFcmRDalFCR21aV0J0azc0cEp2dmxqMkp1UXplcEdFSUx6MV8?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://faroutmagazine.co.uk/brutal-2015-chris-hemsworth-movie-that-was-brutal-to-make/",
+        "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/01/Chris-Hemsworth-Actor-2024-Far-Out-Magazine.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/01/Chris-Hemsworth-Actor-2024-Far-Out-Magazine.jpg",
+    "image_source": "https://faroutmagazine.co.uk/brutal-2015-chris-hemsworth-movie-that-was-brutal-to-make/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -423,12 +423,12 @@
       {
         "source": "Foro3D",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRW9iMmhZZC1vMWRQQUFmOW5zdXVxWllXYUxjN0tpd2FlZk9yNVdYREh1Z00zbTZHLWs5SGNIemF6WE0xQUJ4Q3VUTnpYMFllRzA3bWQ1YXRib2VZTE9UNFJxVUQ3emJXSUNJTm1wR2hSZWx2bFBwaEg4RXlyVDlYSUEtTGtWbzVaajgwSGYxSXRwV1pMbWVwTjdEVEJHU0tmMjZpenRlZlpOU3NkMzA4?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://foro3d.com/en/2026/octubre/rebel-wilson-gana-el-litigio-por-the-deb-pero-la-taquilla-sigue-en-per.html",
+        "image": "https://foro3d.com/2026/octubre/imagenes/rebel-wilson-gana-el-litigio-por-the-deb-pero-la-taquilla-sigue-en-per.webp"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://foro3d.com/2026/octubre/imagenes/rebel-wilson-gana-el-litigio-por-the-deb-pero-la-taquilla-sigue-en-per.webp",
+    "image_source": "https://foro3d.com/en/2026/octubre/rebel-wilson-gana-el-litigio-por-the-deb-pero-la-taquilla-sigue-en-per.html",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -444,7 +444,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9INGx0enkxSkdfMW5oTzB2YV9yeE1zVXZ4a1BveGp3YWM2TTl4UmF1dV9va0ZfdWV0TFpNOWR0LXFHam1HZmlZdExXNFA3S2xCX1p1UlNNVDRfYngyWEprWHVuWmwxbTQ?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/news/ni66079193/?ref_=ttnw_art_perm",
         "image": ""
       },
       {
@@ -471,12 +471,12 @@
       {
         "source": "The Movie Buff",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmlGbExzQUZ1anIwNWtCelpwbTBIM0JLVF9HeU8zSHVwT2xpN3hIUXk4VVl0VnFFVURVdkR6X200dW4xclBoUTVJcS15MURGYWgyOWluTjBRa0ZnRGZhTEo5dXVOdUVoV2ZtY1kzbWpfLUtjazZ4RVdQekRoRGJ2RXNodmhRZTJGeFMxZEctZnozcFQ5ZEdKd1M0ZHBGdDdBZC1CdVVnd0N5S3lrb0FySF82TGtXbjNJVHNtdjVmTjZ3OFFqeC1N?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.themoviebuff.net/2026/10/with-russell-crowe-and-ethan-hawke-at-the-helm-the-weight-is-a-thoroughly-engrossing-watch/",
+        "image": "https://www.themoviebuff.net/wp-content/uploads/2026/10/movie-54-1024x587-1.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://www.themoviebuff.net/wp-content/uploads/2026/10/movie-54-1024x587-1.jpg",
+    "image_source": "https://www.themoviebuff.net/2026/10/with-russell-crowe-and-ethan-hawke-at-the-helm-the-weight-is-a-thoroughly-engrossing-watch/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -492,12 +492,12 @@
       {
         "source": "BGR",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODk3VGZkbHFTQ0prckpFcEhDemFIMmtBLTludDR6M2kydld4YlAxN09aNkt0aDhkOFluQWt5YmdEOWluSGtuT2FqYmxvRElYOGY4OTRMd3ItM0hMYTNrQllfaDM3R3AtRWRIdDBHRWIxdWg2YUZVMndvTlBBUm5VOWxlTzRJY1VsMXRPVDFKVHVWc2E1TTdoNQ?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.bgr.com/2290415/hugh-jackman-rachel-weisz-sci-fi-movie-the-fountain-cult-classic/",
+        "image": "https://www.bgr.com/img/gallery/hugh-jackman-and-rachel-weiszs-sci-fi-movie-became-a-cult-classic-despite-poor-reviews/l-intro-1792425703.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://www.bgr.com/img/gallery/hugh-jackman-and-rachel-weiszs-sci-fi-movie-became-a-cult-classic-despite-poor-reviews/l-intro-1792425703.jpg",
+    "image_source": "https://www.bgr.com/2290415/hugh-jackman-rachel-weisz-sci-fi-movie-the-fountain-cult-classic/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -513,12 +513,12 @@
       {
         "source": "Foro3D",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnMxSXVDZ011N0JLWnYwWmVYVWVBQk41LWlxZ3l4VzluNVE3VVBRY3liN2xpd01TckFDV0Q2MjVnVjl4VGJxUW10WUd4UnM2ZnBmMEJmaUFrV25SNlRiYkU1WUNzcS14dUF0Rk9ZMjNNYlhJQ3NwbmVUUFB2OXk4OTIzREpRWTJHV3pHZ2dOcUFNUk1FdlpPaXo4SkNqLTI5SjJyMnU3SW9XdFBfcWNJ?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://foro3d.com/en/2026/octubre/russell-crowe-abandono-matrix-en-la-pagina-42-y-morpheus-fue-para-fish.html",
+        "image": "https://foro3d.com/2026/octubre/imagenes/russell-crowe-abandono-matrix-en-la-pagina-42-y-morpheus-fue-para-fish.webp"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://foro3d.com/2026/octubre/imagenes/russell-crowe-abandono-matrix-en-la-pagina-42-y-morpheus-fue-para-fish.webp",
+    "image_source": "https://foro3d.com/en/2026/octubre/russell-crowe-abandono-matrix-en-la-pagina-42-y-morpheus-fue-para-fish.html",
     "batch": "2026-10-26 19:00"
   },
   {
@@ -534,12 +534,12 @@
       {
         "source": "The Cairns Post",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV1VkMGozNy1vM2lReWdVVnNvOXQ3V01pZnJHMmoxYzNpb2dYaWVpR2M0Y2RuNVI0Rjg4MHNNN3NtUFE4aUI2eTJUMmRrU2lRaWk3dUhRWFlFZ1V1ajh4bmplMlRXbm82NVdEVHJiazBOaEJpOUJfc1AydWpNTnE1VFltYjFUSlktaWhXeXNzSzZmNGVvbWR3OEE5QzRVM1RPSVpZZHN4MnBUcjQ2XzZGWTJ6N0NOdFpDbG5DOXkySU1Rb1ppT3ZxeVVfLWVfOWh0ZUU0eTdETzFxdHd4T1d1eWM3UWg4dVRMVWc?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.cairnspost.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.cairnspost.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-cairnspost-169.svg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://www.cairnspost.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-cairnspost-169.svg",
+    "image_source": "https://www.cairnspost.com.au/nocookies?a=A.flavipes",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -555,18 +555,18 @@
       {
         "source": "smh.com.au",
         "url": "https://www.smh.com.au/culture/delta-goodrem-shares-raw-insight-into-recent-health-battle-20261025-p618ek.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.smh.com.au/culture/delta-goodrem-shares-raw-insight-into-recent-health-battle-20261025-p618ek.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
+        "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2325b5e1e81b2a0d64a42114fbd47d66286d71cd"
       },
       {
         "source": "SMH.com.au",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkc5UzFPczM3Y3R2SklEeWc0SnpLNmlEZ1Rua3RfSWxWalZIbXdwMnlvc1c1Qm5GekVXVWtVc0E2OEVjMEwxdEwwZE9KNkJ0akdKWEdwbHFUUXVlMW1jVlJ6OGFLNXhweGozQ2RYNFc2RHlwbVA4bFJsNUpVX01LVGNMZkxMVGR2ZEQ1NEhnSFYzRlowT2JQd2NoOVgyV2hkZkktZVdZQXhmc1pBMkVB?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.smh.com.au/culture/delta-goodrem-shares-raw-insight-into-recent-health-battle-20261025-p618ek.html",
+        "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2325b5e1e81b2a0d64a42114fbd47d66286d71cd"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2325b5e1e81b2a0d64a42114fbd47d66286d71cd",
+    "image_source": "https://www.smh.com.au/culture/delta-goodrem-shares-raw-insight-into-recent-health-battle-20261025-p618ek.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -582,12 +582,12 @@
       {
         "source": "SSBCrack",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2diSmZtdmVZZHdaRmYxMjl6elZKRWdOZFpfQWU2TnFNelZMR1d2MndWd1JOcEh2bTAySmVSMDlhUnNUSElENTdRcG5MdTk2YkVhTnIwTE1oTkZSdkd4MWxsSlBRTi1wSTdpYkZlSUFpdTVyOURzcWl4WldfNGJJMjhtLVZoZ1c1V01rYmM0UldFbGxoNmFocUJyUzhadGJMeVNSSjFOaGw0eVU0TlpWWUFYMWpjZndM?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://news.ssbcrack.com/katy-perry-and-orlando-bloom-maintain-a-strong-co-parenting-relationship-with-miranda-kerr/",
+        "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Katy-Perry-and-Orlando-Bloom-Maintain-a-Strong-Co-Parenting-Relationship.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Katy-Perry-and-Orlando-Bloom-Maintain-a-Strong-Co-Parenting-Relationship.jpg",
+    "image_source": "https://news.ssbcrack.com/katy-perry-and-orlando-bloom-maintain-a-strong-co-parenting-relationship-with-miranda-kerr/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -603,24 +603,24 @@
       {
         "source": "Radio News Hub",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHlSZUh6ZmhRQVlHejFIdDROcnpGNGdFNnMyQmxaMDJwTEZlOXROZ2pXc3JNSk9HUDdnQlhBNXRUd19NWTFhdF9mSWg3a2lLTFh2UGNIWFZsTXRsVVdkVWxSRXBEdFBieElJbVdIeW1wNGFvbjNlNlZhanhQai1Xd0t2QkZudlNqZGdxU25rWGhZeDZXcWtNV0w3cHA2TjFzZ0NEaGJ2a2FSdTJuVURCa0xLNGFHbzE1dUE?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.radionewshub.com/articles/news-updates/Delta-Goodrem-scores-series-first-10-on-Strictly-return-from-injury",
+        "image": "https://www.radionewshub.com/_media/images/news/categories/01M5QQ47P178DTEYHSTZZKE4HX-531e19.jpg"
       },
       {
         "source": "Central Fife Times",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVJDcTVrME1PYy1ETy1EZ1FOS0w4a0psaFV0QWpxRXFOSXU2OXhhVmJZMVppQktQVVVhczY5YUtEZkdMYjBJcENtbjZJYUtweUZlUFVRdTVvX0VzS2pfSENkVGNlQ045NjAxYWxmNlR5Qi1ra1liQ2JUcElLNXlGVF9tRUVTMktaOWhJM2JPWDNuTVI5N1RoSDZDdGRIcklJNGFjVzRJejlHTjlhcThhSTlzNWVzY0I1dHhZ?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.centralfifetimes.com/leisure/national/26667666.delta-goodrem-scores-series-first-10-strictly-return-injury/",
+        "image": "https://www.centralfifetimes.com/resources/images/21627450.jpg?type=og-image"
       },
       {
         "source": "Somerset County Gazette",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGlVUzRkbi0xQ0VuN1NEUGRUaHZydVNEUy0xUEY2dF9BdFFzbmxLQVd6cWI1VWdPdS1oVWJBeGFDcXJ1YXBITjBzaEtxaURZVXV1Z1NaX21RTk5SdjI1OTRrZk9hYm1QSDNsZUZPdnFRVjhaRWJydFZsWldkNU5hT1V1bVZRN192aExDZldtdHRnMF9VVUhzZUVJcXF5LXlWUXRXS20zRC12NFJiRlJpeW9xSFpCSGNVTGc?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.somersetcountygazette.co.uk/leisure/national/26667666.delta-goodrem-scores-series-first-10-strictly-return-injury/",
+        "image": "https://www.somersetcountygazette.co.uk/resources/images/21627450.jpg?type=og-image"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://www.radionewshub.com/_media/images/news/categories/01M5QQ47P178DTEYHSTZZKE4HX-531e19.jpg",
+    "image_source": "https://www.radionewshub.com/articles/news-updates/Delta-Goodrem-scores-series-first-10-on-Strictly-return-from-injury",
     "batch": "2026-10-25 11:00"
   },
   {
@@ -657,12 +657,12 @@
       {
         "source": "Collider",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTlMxVHFrdFZtRlQ1Mk84LWlEWE4wNjI0RW9GMEhiMS02TDBIY2l6N0l1WHpfYk1lN1M1ZlpGY2Q1MmZhakdZRXlqMTJldGk0TTNQZ3dRRExQYVJEZHBUZ0YwRmtwT1hlemRNNkdSTzd6d0FRXzQtZjhJZFdyRVZneWU3U2xJSGlTWUxZZWVsVTRGOUJi?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://collider.com/russell-crowe-noir-la-confidential-leaving-prime-video-november-2026/",
+        "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/la-confidential-russell-crowe.jpg?w=1200&h=675&fit=crop"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/la-confidential-russell-crowe.jpg?w=1200&h=675&fit=crop",
+    "image_source": "https://collider.com/russell-crowe-noir-la-confidential-leaving-prime-video-november-2026/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -699,12 +699,12 @@
       {
         "source": "Collider",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0NLeDl2Q0QwdFhnZXF2blBfSnFwYWdWR0EtX3c1aVp1NFdza2dyWW0yS1FPbGVnTkczT3d4U0VWMGZEbVRNcy1tMy01elZOT3RFS3EyZm9hb05fSXF2WGFJVng2LTA4bldpMkF2RHJPM0hrOXpEYTBPdVBuSWVrQkV3?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://collider.com/russell-crowe-gladiator-streaming-netflix-october-2026/",
+        "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/gladiator-russell-crowe-2.jpg?w=1600&h=900&fit=crop"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/gladiator-russell-crowe-2.jpg?w=1600&h=900&fit=crop",
+    "image_source": "https://collider.com/russell-crowe-gladiator-streaming-netflix-october-2026/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -720,12 +720,12 @@
       {
         "source": "Forbes",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qMXEzMnE1SHIyUEthQUF1Qk9YWlBTV1lhUVJySjRYa2J1Wi1EdlBzd3dfUTQ4VGhxSHdYdzNqaVFNYXQwMklRTlQ4dzFnX0NjaWhIa0tkcTBNd3N6NWpBVUtwRHNPMG1o?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.forbes.com/pictures/emjl45lihk/miranda-kerr-2/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/355974334efbca5e62107169445744eb/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/355974334efbca5e62107169445744eb/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+    "image_source": "https://www.forbes.com/pictures/emjl45lihk/miranda-kerr-2/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -741,7 +741,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01cVRITWIyb1RXUVdGZWZmUWlNV3QwR2JZQmk3SnA1bk1xRXpoenc1Y3lmVjhaNHY1VnQ1aEhCTGdfdHd0LUstVnhIVmIyR2cwNlE?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/de/news/ni66077578/",
         "image": ""
       }
     ],
@@ -762,12 +762,12 @@
       {
         "source": "Forbes",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9weTRzRlplZ1llY0FRcXhFTUY4aXE2ZGJvbjFxdkRULWdJNWlMdVhCWm5BR1ZKQ2Z4bm1fXzF0eU1LNV9fT2tZZDZMV2RIeENLOXJMODFDQW5fckt6OFZRTG9uUTg1Sk1O?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.forbes.com/pictures/fimi45ejkid/hugh-jackman/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/20e3efb708b82c8eaf9e4fd6e616003f/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/20e3efb708b82c8eaf9e4fd6e616003f/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+    "image_source": "https://www.forbes.com/pictures/fimi45ejkid/hugh-jackman/",
     "batch": "2026-10-26 19:00"
   },
   {
@@ -783,12 +783,12 @@
       {
         "source": "Forbes",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LeTBfV3dlNmxtd3RZZkUwTjZwOFA0Qkh5ZjBEcGhiNU9jZ2JMTmhwbW1OeWt6ZUkwcW1Wa01ycGp0ZE14OFJLNENfYUVJbDFRUFdvZGhxbW1sMjR2bEJDSlNQOGp4dFU3TmZnNVJGQl96d013THNvclRwTlk?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.forbes.com/pictures/54f4e6ffda47a54de8244069/chris-hemsworth/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/cecc23961869d659931cd3667eafabd3/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/cecc23961869d659931cd3667eafabd3/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+    "image_source": "https://www.forbes.com/pictures/54f4e6ffda47a54de8244069/chris-hemsworth/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -825,12 +825,12 @@
       {
         "source": "NewsBreak: Local News & Alerts",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOWZsc3VHQUpCeGM1TVI0N21YXzE2eG55ZDRrZmFGOGZtSURmeVFDZTRweW9aUE5XcXZMVmVWVkhSOWRIUVp3b1lFMWp2YjlqbWNjTEllUkRWZnZ2SE1YcE85UTFweEpPUDBDNlczSmxNNG1iOHFuNHFsRGpZXzdJNHd5V244QmUxaS1SWGJvNVpJSW11YXlPOThTNnpLT2FfZ2hKQjI1TGdCb0cxQzJWV2tYUi1PR1BWZFBZakNLN181dEJRRVZxTFhYTGcxY0FJUTJraUVMSm5rOGdxMUE?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.newsbreak.com/real-corner-352918951/4965624069003-margot-robbie-made-50-million-from-barbie-but-what-she-did-with-her-fortune-to-help",
+        "image": "https://dcusoqhsuupgy.cloudfront.net/cover/VS2de000_cover_with_play_icon.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://dcusoqhsuupgy.cloudfront.net/cover/VS2de000_cover_with_play_icon.jpg",
+    "image_source": "https://www.newsbreak.com/real-corner-352918951/4965624069003-margot-robbie-made-50-million-from-barbie-but-what-she-did-with-her-fortune-to-help",
     "batch": "2026-10-26 19:00"
   },
   {
@@ -888,7 +888,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwMXNjT3MzQVpCcjRxY1BYTzhlMHlNT2ZrczRybE1aQTk4UWFJeWVGTjFuMlg0WG5rZzcxZ2F0cVo1VGlHRVF6eml2blhPZkpoXzN3RkxkREhqSzZwMzlFajhOVGVkdTQ?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/news/ni66078719/?ref_=ttnw_art_perm",
         "image": ""
       },
       {
@@ -915,12 +915,12 @@
       {
         "source": "Go Fug Yourself",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zeTdxNVlNRHU0UTA0cTNpYTZrMDkzcnE0VmMwYlh6T21FcFJwNE52UTJ0R2VKQUcyaEtINkZ2cmxkUGVSbFlsOVZzUVd2elAzN1ZSb2xKaEQ2ZV9ONGhVdnhwNjV4RGhL?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.gofugyourself.com/margot-robbie-after-chanel/",
+        "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg",
+    "image_source": "https://www.gofugyourself.com/margot-robbie-after-chanel/",
     "batch": "2026-10-26 18:00"
   },
   {
@@ -936,12 +936,12 @@
       {
         "source": "Go Fug Yourself",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWJ5eEVrcFlRV21tRmFlb3lDUHhLMjJ4V2t0Z2pvTUtRbVhjRzAyeVpEaDZlSG1KdVN0WHpmNjNSaFlPVWlUXzFOYXZBWWRnS0MxbXBWTDVLX0RsWDhBdVdBMURXZkYwOFlpTEV1OFhuVDNkOU9DbzR2R3hmLUhaN2JOUThjTV9FRFNWS01tUlBvS1YzMUVqNUN6ZkdNYWxuY29wRHdXNldwTFk?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.gofugyourself.com/recent-fugs-and-fabs-cara-delevingne-and-margot-robbie-promote-suicide-squad/",
+        "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg",
+    "image_source": "https://www.gofugyourself.com/recent-fugs-and-fabs-cara-delevingne-and-margot-robbie-promote-suicide-squad/",
     "batch": "2026-10-26 18:00"
   },
   {
@@ -957,18 +957,18 @@
       {
         "source": "Nine.com.au",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGZhZTBWemI0eGprNzBod09QZjEyaGl4QTdiVXltVHZCb0dwZnUtRGUwaDN2TTctOGNpUWRZbEpmTmdJcEZidlBNOEdNXzNnbXNxQkNaeGFSNjhlTVhLdmJhaVVKZEF3dGxrLU5CQ0ZXd01FUkhLNkpBRVgyU00tNEk4cGswTFFoNEtFc0VvSGh4U2lWYWw1WlJLdF9LenZQbE41UzIxeU55cEg2X2hMRGtB?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.nine.com.au/entertainment/delta-goodrem-strictly-come-dancing-rib-injury-update-20261025-p618dm.html",
+        "image": "https://static.ffx.io/images/$zoom_0.9809%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_10/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/861d4673902f2e04e69141db3ecfd9401afffd593646a24ea49fe45adb6199ea"
       },
       {
         "source": "AOL.co.uk",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZnFTWnNtNy04X3FVOVhfUkFaWkZ0N1ZVQVRUU3duU2trYThDdEZ2M2pIcDhqQjdvNmQyb2F2Z2hhZ2ROUWl5U29BV2hRQl9rLWJuYjZkZ3dWVmNXdWRzYndFM1FidjA0dmhUVVd0R0I0M0I3THVCZ0F4dTBVVmhoTG5OS2ptQWZGV1E?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.aol.co.uk/articles/delta-goodrem-shares-emotional-hours-152300000.html",
+        "image": "https://hermes.media.transform.aol.com/59d8ec00a3de27a8e21bf965de60f7929607949c/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/24/44bb7422-a2f3-39a4-b0ec-159fa457a8eb/f9cd22ef-6f1a-4db8-9f81-06e6c0baef9d.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://static.ffx.io/images/$zoom_0.9809%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_10/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/861d4673902f2e04e69141db3ecfd9401afffd593646a24ea49fe45adb6199ea",
+    "image_source": "https://www.nine.com.au/entertainment/delta-goodrem-strictly-come-dancing-rib-injury-update-20261025-p618dm.html",
     "batch": "2026-10-25 07:00"
   },
   {
@@ -984,7 +984,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16MEJvLXMxYnJ0UUZkWEE4ck1HaDl4VEtsTnNvZmlCNGdQREpoeFJsZnpHN3JMcHFIblFhcnY5ZDZmZEh1WmtJSGp1SU5TQkxKRFNJMXZ4eHF0MVpfaGQzcnBwR0ZUb28?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/news/ni66078707/?ref_=ttnw_art_perm",
         "image": ""
       },
       {
@@ -1011,12 +1011,12 @@
       {
         "source": "ABC11 News",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1VULUJLVTAzQjdYc0V0c3ZPNU5ITXcwQ0l4cktkVnVFYnlhY1pibV94MDE2aWh0Vk94RE9qZmVRczlEMFk5UjJfRTF0M04tSVZxMEc4dnAza2ZyWmd0UWpUaVlmbGswcmVEMl90U2Nhc0VTSXRWbHR5ZVVtSllIcmNJYnRFOTlndk1HdTdzTm9EN2ptMXduV0UxNTExd9IBowFBVV95cUxPcmlnZy1YUGYzRnhrREVyRHRkRVoyNWVrMnI4Y0ZvckVUZTFxNUVrMjJ3djQ2Ml9TU0ZsV20teE9DN3hPS01ONDdtdnJKQUl2RFRCVjRBdkxZbVRucEVydXMzQ0w3OFUxUzk1V3BJYlVpOWlrWDV6Q0hEVzE2eElIUU5EQUJLbWFrcS1KdE52Sk9CR1BMdGtxeW8yYXBZWW5YN3Zz?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://abc11.com/post/dystopia-red-carpet-dog-stars-cast-gathers-london-world-premiere/19713470/",
+        "image": "https://cdn.abcotvs.com/dip/images/19713461_082126-wabc-the-dog-stars-img.jpg?w=1600"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://cdn.abcotvs.com/dip/images/19713461_082126-wabc-the-dog-stars-img.jpg?w=1600",
+    "image_source": "https://abc11.com/post/dystopia-red-carpet-dog-stars-cast-gathers-london-world-premiere/19713470/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -1032,12 +1032,12 @@
       {
         "source": "7NEWS",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlhrWmFVajV5SHBuUTlTc1RMdTNXVmh2T1RXMU82eUdxU2dhX0ZMb1pjZmRabW1HSUFpUGhXNHR0ajFjbGJsSUtFcWFUUnFraEtqQmsyS1VCLVVQMk11OE8tYkpZN0ZPMXVRVWFTbjZ3QThGU3VRNU9HZUVuZjl5ZFM3OFZRaVFlMjlscmxfZU5Wc3owWHQ1WWFkQzFsNzR4M2M2NQ?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://7news.com.au/video/news/delta-goodrem-scores-high-on-strictly-come-dancing-uk-bc-6407357700112",
+        "image": "https://images.7news.com.au/publication/6407357700112/183174e894d564d6a3ed655a7aa318e2b45aec02.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://images.7news.com.au/publication/6407357700112/183174e894d564d6a3ed655a7aa318e2b45aec02.jpg",
+    "image_source": "https://7news.com.au/video/news/delta-goodrem-scores-high-on-strictly-come-dancing-uk-bc-6407357700112",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -1053,12 +1053,12 @@
       {
         "source": "IGN India",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2NBNndyTE5JckwwLTdyR1hGLWI2dEVJUEtrQm45M0lKZWtsQlZ5b1gweXRzRUlXTmdQY0NSbUx0aFJpYVBkX3BKUGVlS0FnRHhYenRCMHRDZUpGUHFqeDl0VXVLYThYa1pOV21kOElpb1pJQXc2WTUtSlhfR2QyWGhoUHo0ZGhOeGdHWmc5dTJVMGpKaW5QMzVlU0xCdzNBNVg1a01YVmJyU2RxZWI3cXR6dm9KcE5vdkxUd05pV0VvMW4wM1VXRHhLZzFCdVpsazhPamtyWXI?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://in.ign.com/avengers-secret-wars/273995/deadpool-wolverine-star-hugh-jackman-addresses-whether-he-will-return-for-avengers-secret-wars",
+        "image": "https://sm.ign.com/t/ign_in/news/k/kevin-feig/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to_neza.1200.png"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://sm.ign.com/t/ign_in/news/k/kevin-feig/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to_neza.1200.png",
+    "image_source": "https://in.ign.com/avengers-secret-wars/273995/deadpool-wolverine-star-hugh-jackman-addresses-whether-he-will-return-for-avengers-secret-wars",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -1095,12 +1095,12 @@
       {
         "source": "TicketNews",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmV3VXVBaTlBcjVNZWZlMVNTUkFfWFItUktHMmNjM1lIUnNKc0FOTWd5Q1JXX1Y1cjc5ZXhJYnFGc290RldIU2gtVXQwLUtFdFdGUDcxTEEyVXFQblNJNlpHbUZBOFJwSUF3cXdkMkJJN3VEX3lPV2JvUW05LWJpRzhOSVBpd2M4NUFfWHhGMHc5M2FMWURGdFM5ZzRnV2ZSMW5HalVlU1JleWVBVmN1ZDVUSm15UQ?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.ticketnews.com/2026/02/the-kid-laroi-unveils-2026-a-perfect-world-tour-across-north-america-and-europe/",
+        "image": "https://www.ticketnews.com/wp-content/uploads/2026/02/The-Kid-LAROI-.webp"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://www.ticketnews.com/wp-content/uploads/2026/02/The-Kid-LAROI-.webp",
+    "image_source": "https://www.ticketnews.com/2026/02/the-kid-laroi-unveils-2026-a-perfect-world-tour-across-north-america-and-europe/",
     "batch": "2026-10-26 17:00"
   },
   {
@@ -1116,12 +1116,12 @@
       {
         "source": "Liverpool Echo",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVlrRjd6N2V4cUZ6a2dnX0ZxUU5xY0pYT0pRdlVXRHcxSjRUQVhFblVtdl9hS0NlVDQza2ZOdDFjRjg5U2tmdmdEaUltcVF4alNYMzZUMVlxcUtjLTJ3bHVod2FQOEZDOG0zVWZEMUUzaWQ0S19MNjVObTdocEY0OFRPcV9scHRLTTRHaV82YzNqWTTSAZMBQVVfeXFMUC1Za0Y3ejdleHFGemtnZ19GcVFOcWNKWE9KUXZVV0R3MUo0VEFYRW5VbXZfYUtDZVQ0M2tmTnQxY0Y4OVNrZnZnRGlJbXFReGpTWDM2VDFZcXFLYy0yd2x1aHdhUDhGQzhtM1VmRDFFM2lkNEtfTDY1Tm03aHBGNDhUT3FfbHB0S000R2lfNmMzalk0?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.liverpoolecho.co.uk/news/tv/strictly-come-dancings-delta-goodrem-34813776.amp",
+        "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34813779.ece/ALTERNATES/s1200/0_286293975-1_result.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34813779.ece/ALTERNATES/s1200/0_286293975-1_result.jpg",
+    "image_source": "https://www.liverpoolecho.co.uk/news/tv/strictly-come-dancings-delta-goodrem-34813776.amp",
     "batch": "2026-10-25 11:00"
   },
   {
@@ -1200,12 +1200,12 @@
       {
         "source": "Daily Mail",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYmplTGlWWkgzQktUbkJGdVkxQmlPd1JhNWE0M1VpbTZmRUVhMzhyOVE4ckM0NXFoNGFrOXBWbEpBQWxkSVJOT1kycXA3UVl4cmxWVDhDbWsteUtzWmpMSUo5ak12RlY3U1ZhYlhwTDJZODNLNXNZUWwwVTdhdHZnWGVzdUhDbWt5cUhXSXlWLVpKMGY4UjZMSncwb0t1ZDNoTlBzeVRzS29KQmPSAbABQVVfeXFMTVZMUlllaGQ4aktEdnh0Vm03ZVc5bHlFamVudGNhdFJ2MWp3Qm5JSGNLY2ZrMEJIamlBc21rRXZmNmxZeDNKZnZxLWdkc3FwOHhVUEVlZ201dkJQd3B3dkRVdzRBbEQ5NDRvV204VVhxMVh6X09YN3dkU1NmOTI1MnNjdlpKNUZLV01xYlh1Z1E1c0N4SWtFSUpVTldVMDFJVFNiQndWY05xcnJORXd6VzI?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.dailymail.com/tvshowbiz/article-16235711/Delta-Goodrem-Queen-Camilla-Strictly-Come-Dancing.html",
+        "image": "https://i.dailymail.com/1s/2026/10/24/21/112071429-0-image-m-13_1792873192467.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://i.dailymail.com/1s/2026/10/24/21/112071429-0-image-m-13_1792873192467.jpg",
+    "image_source": "https://www.dailymail.com/tvshowbiz/article-16235711/Delta-Goodrem-Queen-Camilla-Strictly-Come-Dancing.html",
     "batch": "2026-10-26 19:00"
   },
   {
@@ -1221,12 +1221,12 @@
       {
         "source": "Digital Spy",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUxMcmRUdXpGNTIxM2VTTzdrcWEtUHZQZWE4aGZSTVRXbF8xVTUxNXVvRlpOak1UY0ZVaDBIZ3pWaXBCUXE3bHVWbllMSlB5TGI1VkFQMlA2ME14MGxLaVlUYjhqSHcxZlM3UzZPMzBWd01ENHJHdXUzVTFxZFEwdXUzRzg1M2ZvR2V2SW45T3lGbTU1eFZFcVZn?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.digitalspy.com/tv/reality-tv/a74237942/strictly-come-dancing-delta-goodrem-return/",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/8cbedb48-68c4-4cac-99c4-0206b709f26a.jpg?crop=1.00xw:0.885xh;0,0.115xh&resize=1200:*"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/8cbedb48-68c4-4cac-99c4-0206b709f26a.jpg?crop=1.00xw:0.885xh;0,0.115xh&resize=1200:*",
+    "image_source": "https://www.digitalspy.com/tv/reality-tv/a74237942/strictly-come-dancing-delta-goodrem-return/",
     "batch": "2026-10-25 11:00"
   },
   {
@@ -1242,12 +1242,12 @@
       {
         "source": "Aussievision",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGhvY2JLV1NqVlFsUDdfRDVzZDdhUVVCWTBfUjF5ODlnZDg1TmRYeDA1QVc0MmszcW5YcmlaNTMyTE04RTFyR3QtaklGMXhoV1laSnVHM0xfMTdNMlpDdHdvdUd2RWs1dVptUWRWRmxCbnZ4MGxlMGZZYlBMQzBiS1NwMHpINWI0WnUzQ2c1YUFsbXE2VnNmRmNFX0h4Ymd0UmJXLVBoLW9jV3RYNXFRSVRYTVlNZUZtT1NzTDZ0T3ZuQUtOUFdGeGU2Zzlrdw?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.aussievision.net/post/delta-goodrem-returns-to-strictly-come-dancing-with-rumba-to-celine-dion-classic-scoring-first-10-o",
+        "image": "https://static.wixstatic.com/media/c7fbac_0c3fd8bb5b9843f5b802cd9859a007b2~mv2.png/v1/fill/w_1440,h_960,al_c/c7fbac_0c3fd8bb5b9843f5b802cd9859a007b2~mv2.png"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://static.wixstatic.com/media/c7fbac_0c3fd8bb5b9843f5b802cd9859a007b2~mv2.png/v1/fill/w_1440,h_960,al_c/c7fbac_0c3fd8bb5b9843f5b802cd9859a007b2~mv2.png",
+    "image_source": "https://www.aussievision.net/post/delta-goodrem-returns-to-strictly-come-dancing-with-rumba-to-celine-dion-classic-scoring-first-10-o",
     "batch": "2026-10-25 11:00"
   },
   {
@@ -1263,12 +1263,12 @@
       {
         "source": "AOL.co.uk",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNamt3SHpqRENUaF9LQWVDYUJIdmx2dmRCUTFnc2FiS29GRnJ1c0pPZ2FxWXUtSUdJelFaZTFKaUROb2RZQkY5OEZWMWlGem1ad0QyLUZyUVlkc2xjMVZ4TUkxN29yV3BYTGl2Tk9JVGN4RFBaNUhEWkg0REphYUM1eXFJLTlCNllLR3c?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.aol.co.uk/articles/strictly-come-dancings-delta-goodrem-193620000.html",
+        "image": "https://hermes.media.transform.aol.com/dedcb95375654e6e128e0be05e82a337a656b3eb/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/25/2a635df3-0b70-3d65-b0e0-56e821b8771e/8f4c8324-17cd-40f9-bb66-7cfa66c5a503.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://hermes.media.transform.aol.com/dedcb95375654e6e128e0be05e82a337a656b3eb/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/25/2a635df3-0b70-3d65-b0e0-56e821b8771e/8f4c8324-17cd-40f9-bb66-7cfa66c5a503.jpg",
+    "image_source": "https://www.aol.co.uk/articles/strictly-come-dancings-delta-goodrem-193620000.html",
     "batch": "2026-10-25 07:00"
   },
   {
@@ -1284,12 +1284,12 @@
       {
         "source": "Metro.co.uk",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlBJM2JSRXB1VDJqUW5TaTIwT1VfazJTMm9nWjBRZG5SbWxLQUpiNExfU1VfQTQ3UlJ4cERySV9SSUt4a2lmUkhiUjctT2tHS1hCZnE5OFFfeDNEdDVOTk5MM2NiYlZ6LUNwQjNnRGVKckEyajdwUGlXeUJBY0VwMTBQUHNXM01FaWVqelYxaUJ4T01zU1l0YTBsTFVMNUcwMllNSlpRLVh1d3p0Y3p5SGlEWHZpNzJIcmNEbWlR0gHDAUFVX3lxTE9tV09fMktMWDgwdnZuZ01iUzhUc2ZORXd6RENTbEZ2Sk5MQThZX0tuSW5mY0FGbkVFcTBSQkhCVEJoa0FkajNsXy1wd2FQeV9iTW1YOGVqcWxSY1VHcUtLN1NXeV9aRXloT2dlT1c4eWU4SXREOWZPMmpoSlhVaTdYVDJWVU4xblYyR250MmNlaHA0RHFfMlBRWFZmZ1daY1VFNDFPSm81SW1uNGNZendJcUFIb3VYQ0xBQUtKRldYVUE3aw?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://metro.co.uk/2026/10/24/strictlys-delta-goodrem-shares-new-health-update-injury-never-encountered-before-29734799/",
+        "image": "https://metro.co.uk/wp-content/uploads/2026/10/comp-1792769072_1792870003.png?w=1200&h=630&crop=1"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://metro.co.uk/wp-content/uploads/2026/10/comp-1792769072_1792870003.png?w=1200&h=630&crop=1",
+    "image_source": "https://metro.co.uk/2026/10/24/strictlys-delta-goodrem-shares-new-health-update-injury-never-encountered-before-29734799/",
     "batch": "2026-10-25 11:00"
   },
   {
@@ -1326,7 +1326,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXFiMjVUUXBjMTF4eDREa1p3VTlsS01FVkJpdDNmdFZObmc4YzVRZklJVXd5WERUSEdRQ0lqRlRNWHZFNnVMODhQQVdnbm9aOWl0dUF5Zm9TcnJlcUtvNm5qQlJBN3ZackNNWDNIc3ZCWFVXYVhPSVlqTmRiS0tvamRidDV1eDRE?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/it/title/tt31392439/mediaviewer/rm3849733377/?ref_=ttmi_mi_1",
         "image": ""
       }
     ],
@@ -1347,12 +1347,12 @@
       {
         "source": "Collider",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmxNTHZ6VnhEUE16dDJrYWpuNTR6dFZBU0JrSEFxZmxHMjFPdDd0cE91SHB6YldnQVlPSUJrc0FjdVRwaFhld0ZyeDd0N0UwOUFnMzE3YWZpaGJsVmFOOXFHamRyYVpRNWxWMVlycm9CUHBwajJpZVk3VWNHRHdWY21iN2g?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://collider.com/unabomber-russell-crowe-netflix-top-10-drop-october-2026/",
+        "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/russell-crowe-unabomber.jpg?w=1600&h=900&fit=crop"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/russell-crowe-unabomber.jpg?w=1600&h=900&fit=crop",
+    "image_source": "https://collider.com/unabomber-russell-crowe-netflix-top-10-drop-october-2026/",
     "batch": "2026-10-25 04:00"
   },
   {
@@ -1368,7 +1368,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0U283RTk5THVpMkV6aTN3ZG1SNFVyRkN1NTU2dUlRRUhTQTIzWlJyMmxHWWtGRy1YLVNOck5KU0RJNDFfRUQ0TGRialh4U1pnTmFjcV9MTkJ3QmxDZHExdHZKTWpJUXB0UTJPM3lRWQ?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/news/ni66073565/?ref_=int_nwr_3",
         "image": ""
       },
       {
@@ -1401,8 +1401,8 @@
       {
         "source": "www.metroindia.net",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObG4tNzZTSHdfNkNGc2JoLUI2M204SEdTeHBJeVdVM0haSmJvemlyRFg2WnZlMjhxYjZrM1ZOenpsWXU5WkEyQVhzS2NQWi04N2s1ckxtNnBIUE1mUjRBQWU4SEdCdHZ0djVMT0t1Y0NkNzR1dTJKVEotRlBpaEhfVGRvelU5TTE1S2p6MTAwRi0wMEdS?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.metroindia.net/news/articlenews/rebel-wilson-scores-second-legal-victory-46394",
+        "image": "https://www.metroindia.net/uploads/articles/article_53710749.webp"
       },
       {
         "source": "Social News XYZ",
@@ -1417,8 +1417,8 @@
         "image": ""
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://www.metroindia.net/uploads/articles/article_53710749.webp",
+    "image_source": "https://www.metroindia.net/news/articlenews/rebel-wilson-scores-second-legal-victory-46394",
     "batch": "2026-10-23 21:00"
   },
   {
@@ -1434,8 +1434,8 @@
       {
         "source": "Daily Star",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85ZEFOSkFITmtBRVRPbER2ZC10b3Bja1NZRzlLa1FrOEZSWUh6VTFfbFVwY2NBcnh3ZXRYT2VxdUJZSGZkdTFNemZJdGNzU0JzMWcxZTdSUU9SdktxXzVOX0ZwcXloaFh6S3NrelhXTzNPTW1BekZxb3dSTQ?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.dailystar.co.uk/tv/strictly-come-dancing-fans-rush-37807117",
+        "image": "https://i2-prod.dailystar.co.uk/article37807114.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-24-160109.jpg"
       },
       {
         "source": "Wales Online",
@@ -1444,8 +1444,8 @@
         "image": ""
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://i2-prod.dailystar.co.uk/article37807114.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-24-160109.jpg",
+    "image_source": "https://www.dailystar.co.uk/tv/strictly-come-dancing-fans-rush-37807117",
     "batch": "2026-10-23 21:00"
   },
   {
@@ -1461,8 +1461,8 @@
       {
         "source": "Manchester Evening News",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDhrT2hXQTZLcTl5XzZsVWJtT3pUSXJJTDBmdzZZY1d4My1fbUNKcWJXeDZFQmNRRVVBZmIwVEtYYzc4MzNaT1JOcFZwemE5V1E5cUJ6Q2RVd2tLcUpZeGhBYVhHelQyTGZuc3BVMWZyLWhSSElDaWhqNU1RdEkwZHc0MTR2OFJyaEVqUXZ5VdIBlAFBVV95cUxPU1JZekpYRWhzS0hTQTRlYXFsdnhUd0V6cTdaMGZ3SHY3cE5KelRYcHFEYlI0Q2xqU0pveDgzYTVya0kxYTZuUVhTaUs4dHRkQWVWbE1ueERwd2Y2eG85ZzRZM0pLUHJtU1J2MElPdHJjNHZGUzhNU1FucHROamplTThRSGdZa1Y3VHZMekt1MUtwTEIy?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.manchestereveningnews.co.uk/news/tv/delta-goodrem-admits-its-hard-34812972",
+        "image": "https://i2-prod.manchestereveningnews.co.uk/article34785471.ece/ALTERNATES/s1200d/5_Strictly-Come-Dancing-2026.jpg"
       },
       {
         "source": "RTE.ie",
@@ -1555,8 +1555,8 @@
         "image": ""
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://i2-prod.manchestereveningnews.co.uk/article34785471.ece/ALTERNATES/s1200d/5_Strictly-Come-Dancing-2026.jpg",
+    "image_source": "https://www.manchestereveningnews.co.uk/news/tv/delta-goodrem-admits-its-hard-34812972",
     "batch": "2026-10-25 00:00"
   },
   {
@@ -1572,8 +1572,8 @@
       {
         "source": "Teesside Live",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXFUeUg5cFBOV3N2c3RneWVJUFhqZURiS1laVlh3djViSENKcnh0Uk1HX2w4dGw3ak1KdjJOWUhtMUtqQUt3V2d3T3BobEJvVk9hcmJvNUFNZUpiQVpjUGtSSEh1Q08yWEFRYTVuakJZdnJTUXlpZ2JVZUxBWkRxOVRHZ1hHb0pjRFE?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.gazettelive.co.uk/news/tv/injured-strictly-star-delta-goodrem-34812994",
+        "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34813025.ece/ALTERNATES/s1200/0_Screenshot-2026-10-24-160229.png"
       },
       {
         "source": "Metro.co.uk",
@@ -1582,8 +1582,8 @@
         "image": ""
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34813025.ece/ALTERNATES/s1200/0_Screenshot-2026-10-24-160229.png",
+    "image_source": "https://www.gazettelive.co.uk/news/tv/injured-strictly-star-delta-goodrem-34812994",
     "batch": "2026-10-25 04:00"
   },
   {
@@ -1599,12 +1599,12 @@
       {
         "source": "Wales Online",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFqM0otbzlnNGtZQW55RXY3d2RCQVpocUtCVE45Skd3Z3RCNW5WOVkwMndqQ0Vmam5WZU52WXBES1p1dzVZaEZKZWoyRTQwcWFwbFh6QkpVSVB5VUJVLXlKbnNtQ3kwTWR5QnV6eDRfb2RReGpKNmJwT182LURaaHhHUjhhU0NPb1U2ZGRqaWQ?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.walesonline.co.uk/lifestyle/tv/injured-strictly-star-delta-goodrem-34812994",
+        "image": "https://i2-prod.walesonline.co.uk/article34813025.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-24-160229.png"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://i2-prod.walesonline.co.uk/article34813025.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-24-160229.png",
+    "image_source": "https://www.walesonline.co.uk/lifestyle/tv/injured-strictly-star-delta-goodrem-34812994",
     "batch": "2026-10-25 07:00"
   },
   {
@@ -1620,12 +1620,12 @@
       {
         "source": "The Independent",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRENFMXBsMkhFLWFZNk5FWjlFVXpEVFE0Tm5GQm9zYnkwX0hOYjA3VTJiSGpBQXdIVG92c0R3Y3hCMEc3bldxN0wza1ZsVFlhU2h3a18ya3ROeVpDRFpLUmZuNW1TWjgwVmJ1a1BEWWxHSy01S1JCS3dFcWV3TmxkRWw5N0RCTU94X0pycEhDWnpYVmd1VDNPQ0VB?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.independent.co.uk/bulletin/culture/strictly-week-5-bbc-delta-goodrem-b3072724.html",
+        "image": "https://static.independent.co.uk/2026/10/24/15/01M41Q4NMRH04D145GVX127QSG.jpg?trim=339,0,1883,0&width=1200&height=800&crop=1200:800"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://static.independent.co.uk/2026/10/24/15/01M41Q4NMRH04D145GVX127QSG.jpg?trim=339,0,1883,0&width=1200&height=800&crop=1200:800",
+    "image_source": "https://www.independent.co.uk/bulletin/culture/strictly-week-5-bbc-delta-goodrem-b3072724.html",
     "batch": "2026-10-25 07:00"
   },
   {
@@ -1641,12 +1641,12 @@
       {
         "source": "Yahoo",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjY2dV9fa2pYa3I4OXJibU9zMGx1azRqb0V3bnhhQXVMdlY4aUtSY1ZkTW93RFdycHVKbkV4WVFPWHRfbmpycmluaFk1dVo2SmpTZi01RmtqZ1dRZGhaOEhHODNlRU9nM0Nxb18wYjZmSFNZWjE1SFhBWGJ5eTJKc3djV0FuYnBOQ25oekpHa2F0Z203OWNqTm02WUdkNGpIN1F6Qg?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/jlo-faces-negative-dating-report-144500654.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/f2675ddc4ad1350ca998127b5d0f51f06cac56d839405d0dd4fe5d135e278620/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2Ff356e132e8a5d444f72c621c6e19ab1c.jpg"
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://s.yimg.com/lo/mysterio/api/f2675ddc4ad1350ca998127b5d0f51f06cac56d839405d0dd4fe5d135e278620/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2Ff356e132e8a5d444f72c621c6e19ab1c.jpg",
+    "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/jlo-faces-negative-dating-report-144500654.html",
     "batch": "2026-10-26 18:00"
   },
   {
@@ -1662,8 +1662,8 @@
       {
         "source": "AOL.com",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXVSTjc2aGhQYXVVVmRWZlVWOTBCN3A5QnV3b1c0TExKeEFBUGJKVmh1clhxMzVpbXVYMlRNNkxFTzJ0Q1BlNzNPQjVrNVlrNFRoZkRVLVYwQTh3VlJFMnRvOXd1SGN3SEJOMW1aVTFyTnhGdUgyZnNSM01GMzVoVEszVlAwWkVX?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.aol.com/articles/delta-goodrem-sends-emotional-message-143901000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/10/25/5ac7f39e-4cd4-3e46-b3ce-a568109725b6/1448d904-f510-4533-b8c5-d5ac1510d270.jpg"
       },
       {
         "source": "The Independent",
@@ -1672,8 +1672,8 @@
         "image": ""
       }
     ],
-    "image": "",
-    "image_source": "",
+    "image": "https://hermes.media.static.aol.com/media/2026/10/25/5ac7f39e-4cd4-3e46-b3ce-a568109725b6/1448d904-f510-4533-b8c5-d5ac1510d270.jpg",
+    "image_source": "https://www.aol.com/articles/delta-goodrem-sends-emotional-message-143901000.html",
     "batch": "2026-10-25 04:00"
   },
   {
