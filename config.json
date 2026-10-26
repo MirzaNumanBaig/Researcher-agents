@@ -29,9 +29,9 @@
     "Aksel Hennie",
     "Alisha Boe",
     "Tobias Santelmann",
-    "Ingrid Bolsø Berdal",
+    "Ingrid Bols\u00f8 Berdal",
     "Anders Danielsen Lie",
-    "Thorbjørn Harr",
+    "Thorbj\u00f8rn Harr",
     "Liv Ullmann",
     "Ryan Reynolds",
     "Ryan Gosling",
@@ -194,6 +194,143 @@
     "Sam Worthington": {
       "photo": "img/sam-worthington.jpg",
       "photo_credit": "https://commons.wikimedia.org/wiki/File:Avatar_The_Way_of_Water_Tokyo_Press_Conference_Sam_Worthington_%2852563252594%29_%28cropped%29.jpg"
+    },
+    "Dacre Montgomery": {
+      "instagram": "https://www.instagram.com/dacremontgomery/",
+      "x": "https://x.com/dacremontgomery",
+      "photo": "img/dacre-montgomery.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Dacre_Montgomery.jpg"
+    },
+    "Heath Ledger": {
+      "photo": "img/heath-ledger.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Heath_Ledger.jpg"
+    },
+    "Kristofer Hivju": {
+      "instagram": "https://www.instagram.com/khivju/",
+      "x": "https://x.com/KristoferHivju",
+      "facebook": "https://www.facebook.com/kristoferhivjuofficial",
+      "photo": "img/kristofer-hivju.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Kristofer_Hivju_%28Cropped%2C_2015%29.jpg"
+    },
+    "Renate Reinsve": {
+      "instagram": "https://www.instagram.com/renatereinsve/",
+      "facebook": "https://www.facebook.com/reinsve",
+      "photo": "img/renate-reinsve.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Renate_Reinsve-9937.jpg"
+    },
+    "Aksel Hennie": {
+      "instagram": "https://www.instagram.com/akselhennie/",
+      "photo": "img/aksel-hennie.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Aksel_Hennie_2012_%28cropped%29.jpg"
+    },
+    "Alisha Boe": {
+      "instagram": "https://www.instagram.com/alishaboe/",
+      "x": "https://x.com/AlishaBoe",
+      "photo": "img/alisha-boe.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Alisha_Boe_in_2018_crop.jpg"
+    },
+    "Tobias Santelmann": {},
+    "Ingrid Bols\u00f8 Berdal": {
+      "instagram": "https://www.instagram.com/ingridbb_/",
+      "x": "https://x.com/ingridbb_",
+      "website": "http://www.ingridbb.com/",
+      "photo": "img/ingrid-bols-berdal.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Ingrid_Bolso_Berdal_by_Gage_Skidmore.jpg"
+    },
+    "Anders Danielsen Lie": {
+      "website": "http://www.andersdanielsenlie.com/",
+      "photo": "img/anders-danielsen-lie.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Anders_Danielsen_Lie.jpg"
+    },
+    "Thorbj\u00f8rn Harr": {
+      "photo": "img/thorbj-rn-harr.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Thorbj%C3%B8rn_Harr.jpg"
+    },
+    "Liv Ullmann": {
+      "photo": "img/liv-ullmann.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Liv_Ullmann_2014.jpg"
+    },
+    "Ryan Reynolds": {
+      "instagram": "https://www.instagram.com/vancityreynolds/",
+      "tiktok": "https://www.tiktok.com/@vancityreynolds",
+      "x": "https://x.com/VancityReynolds",
+      "facebook": "https://www.facebook.com/VancityReynolds",
+      "youtube": "https://www.youtube.com/channel/UCA3-nIYWu4PTWkb6NwhEpzg",
+      "photo": "img/ryan-reynolds.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg"
+    },
+    "Ryan Gosling": {
+      "x": "https://x.com/RyanGosling",
+      "photo": "img/ryan-gosling.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:GoslingBFI081223_%2822_of_30%29_%2853388157347%29_%28cropped%29.jpg"
+    },
+    "Keanu Reeves": {
+      "photo": "img/keanu-reeves.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg"
+    },
+    "Michael J. Fox": {
+      "instagram": "https://www.instagram.com/realmikejfox/",
+      "x": "https://x.com/realmikefox",
+      "facebook": "https://www.facebook.com/teamfox",
+      "website": "https://www.michaeljfox.org",
+      "photo": "img/michael-j-fox.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Michael_J_Fox_2020.jpg"
+    },
+    "Sandra Oh": {
+      "instagram": "https://www.instagram.com/iamsandraohinsta/",
+      "x": "https://x.com/IamSandraOh",
+      "facebook": "https://www.facebook.com/officialsandraoh",
+      "photo": "img/sandra-oh.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Sandra_Oh_Peabody_Awards%2C_June_2021.png"
+    },
+    "Pamela Anderson": {
+      "instagram": "https://www.instagram.com/pamelaanderson/",
+      "x": "https://x.com/pamfoundation",
+      "facebook": "https://www.facebook.com/pamelaandersonfoundation",
+      "website": "https://www.pamelaandersonfoundation.org/",
+      "photo": "img/pamela-anderson.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Pamela_Anderson_2024_Headshot_by_Norman_Wong.jpg"
+    },
+    "Connor Storrie": {
+      "instagram": "https://www.instagram.com/connorstorrieofficial/",
+      "photo": "img/connor-storrie.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn.jpg"
+    },
+    "Hudson Williams": {
+      "instagram": "https://www.instagram.com/hudsonwilliamsofficial/",
+      "youtube": "https://www.youtube.com/channel/UCSIZtQKkYXbw2lkosMjBoIQ",
+      "photo": "img/hudson-williams.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Hudson_Williams_at_2026_Toronto_International_Film_Festival_-_%22YAGA%22_Premiere_16-2.jpg"
+    },
+    "Catherine O'Hara": {
+      "photo": "img/catherine-o-hara.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:CATHERINE_OHARA.jpg"
+    },
+    "Martin Short": {
+      "photo": "img/martin-short.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Martin_Short_2021.jpg"
+    },
+    "Seth Rogen": {
+      "instagram": "https://www.instagram.com/sethrogen/",
+      "x": "https://x.com/Sethrogen",
+      "facebook": "https://www.facebook.com/sethrogen",
+      "photo": "img/seth-rogen.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Seth_Rogen_-_Good_Fortune_LA_Premiere.jpg"
+    },
+    "Michael Cera": {
+      "youtube": "https://www.youtube.com/channel/UCkFKjLkuAtJA0wiWpNhfEUQ",
+      "photo": "img/michael-cera.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Michael_Cera_2012_%28Cropped%29.jpg"
+    },
+    "Jim Carrey": {
+      "x": "https://x.com/JimCarrey",
+      "youtube": "https://www.youtube.com/channel/UCTgQPlOvwOMcMtv63EhTrLw",
+      "photo": "img/jim-carrey.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Jim_Carrey_2020_cropped.jpg"
+    },
+    "Rachel McAdams": {
+      "photo": "img/rachel-mcadams.jpg",
+      "photo_credit": "https://commons.wikimedia.org/wiki/File:Rachel_McAdams_-_Walk_of_Fame.jpg"
     }
   },
   "interval_hours": 3,
