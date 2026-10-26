@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams: Yaga Reviewed, and a Hockey Script Teased"
 description: "Hudson Williams plays two roles in the witchy series Yaga and says he is writing a film with an ex-hockey player. Here is what we know."
-status: pending
+status: sent
 wp_status: pending
 batch: "2026-10-27 08:00"
 celebrity: "Hudson Williams"
@@ -11,6 +11,9 @@ image_prompt: "A foggy fishing town at dusk with a lone wooden house on stilts a
 sources:
   - "https://mashable.com/entertainment/yaga-review-hudson-williams"
   - "https://www.out.com/celebs/hudson-williams-hockey-player"
+wp_id: 1017
+wp_link: "https://moduscarry.com/?p=1017"
+wp_synced: pending
 ---
 
 **Quick summary**
