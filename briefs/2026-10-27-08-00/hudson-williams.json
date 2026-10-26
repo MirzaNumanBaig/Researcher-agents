@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-27 08:00",
+  "celebrity": "Hudson Williams",
+  "stories": [
+    {
+      "title": "'Yaga' isn't the show Hudson Williams fans want it to be",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IOUctVEZjUnd1czNaXzVncG1tX0JmU1czWnlnQUtGOXFSOVA4U3l3MEJUWng0enJaYzliWjNqTThjWkotOVRNX3NXMnpGd2xVXzRuSzVqSVZ5SWNZRjVtenE0WGs2X3lhVHl1RFItNA?oc=5",
+      "published": "2026-10-26T20:51:41+00:00",
+      "outlets": [
+        {
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IOUctVEZjUnd1czNaXzVncG1tX0JmU1czWnlnQUtGOXFSOVA4U3l3MEJUWng0enJaYzliWjNqTThjWkotOVRNX3NXMnpGd2xVXzRuSzVqSVZ5SWNZRjVtenE0WGs2X3lhVHl1RFItNA?oc=5",
+          "article_url": "https://mashable.com/entertainment/yaga-review-hudson-williams",
+          "image": "https://helios-i.mashable.com/imagery/articles/01xDCSQbGSprH7A2sJG8NnX/hero-image.fill.size_1200x675.v1792441926.jpg"
+        }
+      ],
+      "image": "https://helios-i.mashable.com/imagery/articles/01xDCSQbGSprH7A2sJG8NnX/hero-image.fill.size_1200x675.v1792441926.jpg",
+      "image_source": "https://mashable.com/entertainment/yaga-review-hudson-williams"
+    },
+    {
+      "title": "Sound familiar? Hudson Williams' next film script features an ex-hockey player",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMWW1pV0VvdjVLQW9vZWZTSkI3Szc4T1FaWjBsZUZMU1JkTThmOU5uY2FvNXlCVTNaMmZlZjZ0S0VYNnljY3NPRGlyYzZOV2FoRS1GNEpNZHI3emdHTDRMcVNwWkZQaTA?oc=5",
+      "published": "2026-10-26T17:24:39+00:00",
+      "outlets": [
+        {
+          "source": "Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMWW1pV0VvdjVLQW9vZWZTSkI3Szc4T1FaWjBsZUZMU1JkTThmOU5uY2FvNXlCVTNaMmZlZjZ0S0VYNnljY3NPRGlyYzZOV2FoRS1GNEpNZHI3emdHTDRMcVNwWkZQaTA?oc=5",
+          "article_url": "https://www.out.com/celebs/hudson-williams-hockey-player",
+          "image": "https://www.out.com/media-library/hudson-williams-as-shane-hollander-on-heated-rivalry-season-1.jpg?id=62254869&width=1200&height=600&coordinates=0%2C100%2C0%2C100"
+        }
+      ],
+      "image": "https://www.out.com/media-library/hudson-williams-as-shane-hollander-on-heated-rivalry-season-1.jpg?id=62254869&width=1200&height=600&coordinates=0%2C100%2C0%2C100",
+      "image_source": "https://www.out.com/celebs/hudson-williams-hockey-player"
+    }
+  ]
+}

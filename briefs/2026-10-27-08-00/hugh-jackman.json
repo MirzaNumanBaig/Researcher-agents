@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-27 08:00",
+  "celebrity": "Hugh Jackman",
+  "stories": [
+    {
+      "title": "Hugh Jackman’s Logan-Inspired Streaming Hit Officially Loses to Edward Norton",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vbmVxM1g5SDVuLWVxWGFsTjJ4UzNnOHNucTJOMG1NVFUxRkE0c0RGUG04VVNwc1ZhYng2ZHkyTlVTZm9UVHpXVDB5NmFNRml5cHVQQ0hKLURqaW1BcEpkSzJDVS1Xb28?oc=5",
+      "published": "2026-10-26T20:12:03+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vbmVxM1g5SDVuLWVxWGFsTjJ4UzNnOHNucTJOMG1NVFUxRkE0c0RGUG04VVNwc1ZhYng2ZHkyTlVTZm9UVHpXVDB5NmFNRml5cHVQQ0hKLURqaW1BcEpkSzJDVS1Xb28?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66081000/?ref_=ttnw_art_perm",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "‘24 Jump Street,’ Hugh Jackman’s ‘Treasure Island’ Remake Get Holiday 2027 Release Dates",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ZnUyb1lwWldoRTBKQ0ZPWW9ybkl3X3QxNkpUM2N5RGwtMnRBLVZIOGlPRFZTMks0WGx1T0lQSUxjNmwzamJkUnZydVloVElsTUE?oc=5",
+      "published": "2026-10-25T14:35:04+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ZnUyb1lwWldoRTBKQ0ZPWW9ybkl3X3QxNkpUM2N5RGwtMnRBLVZIOGlPRFZTMks0WGx1T0lQSUxjNmwzamJkUnZydVloVElsTUE?oc=5",
+          "article_url": "https://www.imdb.com/es/news/ni66040802/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

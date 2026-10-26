@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-27 08:00",
+  "celebrity": "Seth Rogen",
+  "stories": [
+    {
+      "title": "Beauty Updates: Seth Rogen Stars in Sephora Campaign & More",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1RXBkamI2YWphTVdFbXNJRjhGR3RWYkwycTQwVmszQVpmdTJhOEYzajJEa19XbkVvQnVBSEVsRmlZaHJVLW9DSXBtdEJ5Nm1zQTZlemZuZm9CZDhER3NmRWt2MDFMekpxT3JfM1hOQWVPaG96Smc?oc=5",
+      "published": "2026-10-26T18:09:14+00:00",
+      "outlets": [
+        {
+          "source": "BeautyNewsDaily",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1RXBkamI2YWphTVdFbXNJRjhGR3RWYkwycTQwVmszQVpmdTJhOEYzajJEa19XbkVvQnVBSEVsRmlZaHJVLW9DSXBtdEJ5Nm1zQTZlemZuZm9CZDhER3NmRWt2MDFMekpxT3JfM1hOQWVPaG96Smc?oc=5",
+          "article_url": "https://beautynewsdaily.com/beauty-notes-sephora-shark-chanel-ouai/",
+          "image": "https://beautynewsdaily.com/app/uploads/BeautyNewsDaily_Beauty-Notes_26.10.26-1.jpg"
+        }
+      ],
+      "image": "https://beautynewsdaily.com/app/uploads/BeautyNewsDaily_Beauty-Notes_26.10.26-1.jpg",
+      "image_source": "https://beautynewsdaily.com/beauty-notes-sephora-shark-chanel-ouai/"
+    },
+    {
+      "title": "Seth Rogen Checks Off His Gift List in Sephora’s Holiday Campaign",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHlRQ3RkcmZsM0FDaDVRN0tJQnVrZzhtWkk2X3VHT0lGV0cxc0s3aDN6RS02MDJ6cVM1T2piQVBfRjNNT0x5SlhyQV9vaWRFN1dsSU01MnVMU2VCNURIbGdEOEFYRXZVWnVQN1N0eTNMV1NTZFBfbWRua1JUY1lSYkhndzBOR1BrNFZZRkE0TE9uMzVudE91X0d0UzIyWjNlUnNjMzBoYw?oc=5",
+      "published": "2026-10-26T16:40:41+00:00",
+      "outlets": [
+        {
+          "source": "ADWEEK",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHlRQ3RkcmZsM0FDaDVRN0tJQnVrZzhtWkk2X3VHT0lGV0cxc0s3aDN6RS02MDJ6cVM1T2piQVBfRjNNT0x5SlhyQV9vaWRFN1dsSU01MnVMU2VCNURIbGdEOEFYRXZVWnVQN1N0eTNMV1NTZFBfbWRua1JUY1lSYkhndzBOR1BrNFZZRkE0TE9uMzVudE91X0d0UzIyWjNlUnNjMzBoYw?oc=5",
+          "article_url": "https://www.adweek.com/brand-marketing/seth-rogen-checks-off-his-gift-list-in-sephoras-holiday-campaign/",
+          "image": "https://static-www.adweek.com/wp-content/uploads/2026/10/sephora-holiday-campaign-seth-rogan-2026.png?w=600&h=315&crop=1"
+        }
+      ],
+      "image": "https://static-www.adweek.com/wp-content/uploads/2026/10/sephora-holiday-campaign-seth-rogan-2026.png?w=600&h=315&crop=1",
+      "image_source": "https://www.adweek.com/brand-marketing/seth-rogen-checks-off-his-gift-list-in-sephoras-holiday-campaign/"
+    }
+  ]
+}
