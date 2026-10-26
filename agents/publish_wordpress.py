@@ -67,15 +67,33 @@ def wp_get(path):
         return json.loads(r.read())
 
 
+def all_terms(kind):
+    """Every term of a taxonomy (all pages), so an existing tag is never mistaken for a missing one."""
+    terms, page = [], 1
+    while True:
+        chunk = wp_get(f"{kind}?per_page=100&page={page}&_fields=id,name")
+        terms += chunk
+        if len(chunk) < 100:
+            return terms
+        page += 1
+
+
 def term_ids(kind, names, create):
     """Map category/tag names to WordPress ids; tags are created if missing, unknown categories are skipped."""
-    known = {html.unescape(t["name"]).lower(): t["id"] for t in wp_get(f"{kind}?per_page=100")}
+    known = {html.unescape(t["name"]).lower(): t["id"] for t in all_terms(kind)}
     ids = []
     for n in names[:5 if kind == "tags" else 2]:
         if n.lower() in known:
             ids.append(known[n.lower()])
         elif create:
-            ids.append(wp(kind, {"name": n})["id"])
+            try:
+                ids.append(wp(kind, {"name": n})["id"])
+            except urllib.error.HTTPError as e:
+                body = error_body(e)
+                if e.code == 400 and body.get("code") == "term_exists":  # WordPress names the existing term
+                    ids.append(body["data"]["term_id"])
+                else:
+                    raise
         else:
             print(f"  category {n!r} does not exist on the site; skipped")
     return ids
@@ -117,6 +135,14 @@ def to_html(md):
             para.append(line.strip())
     flush()
     return "\n".join(out)
+
+
+def error_body(e):
+    """Parsed JSON body of an HTTPError ({} when it is not JSON), so failures say what WordPress objected to."""
+    try:
+        return json.loads(e.read())
+    except Exception:
+        return {}
 
 
 def wp(path, payload):
@@ -271,7 +297,11 @@ def main():
             print(f"ok {f.name} -> WordPress #{post['id']} ({want})")
         except Exception as e:  # keep going; failed files stay approved and retry on the next run
             failed = True
-            print(f"FAIL {f.name}: {e}", file=sys.stderr)
+            detail = ""
+            if isinstance(e, urllib.error.HTTPError):
+                b = error_body(e)
+                detail = f" [{b.get('code')}: {b.get('message')}]" if b else ""
+            print(f"FAIL {f.name}: {e}{detail}", file=sys.stderr)
     try:
         site_totals()
     except Exception as e:
