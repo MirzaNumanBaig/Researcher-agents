@@ -21,7 +21,32 @@
     "Miranda Kerr",
     "Liam Hemsworth",
     "The Kid LAROI",
-    "Sam Worthington"
+    "Sam Worthington",
+    "Dacre Montgomery",
+    "Heath Ledger",
+    "Kristofer Hivju",
+    "Renate Reinsve",
+    "Aksel Hennie",
+    "Alisha Boe",
+    "Tobias Santelmann",
+    "Ingrid Bolsø Berdal",
+    "Anders Danielsen Lie",
+    "Thorbjørn Harr",
+    "Liv Ullmann",
+    "Ryan Reynolds",
+    "Ryan Gosling",
+    "Keanu Reeves",
+    "Michael J. Fox",
+    "Sandra Oh",
+    "Pamela Anderson",
+    "Connor Storrie",
+    "Hudson Williams",
+    "Catherine O'Hara",
+    "Martin Short",
+    "Seth Rogen",
+    "Michael Cera",
+    "Jim Carrey",
+    "Rachel McAdams"
   ],
   "general_feeds": [
     "https://www.theguardian.com/au/culture/rss",
@@ -187,5 +212,12 @@
   ],
   "max_age_hours": 48,
   "headline_must_name": true,
-  "ai_images": false
+  "ai_images": false,
+  "headline_full_name_only": [
+    "Michael J. Fox",
+    "Sandra Oh",
+    "Martin Short",
+    "Hudson Williams",
+    "Pamela Anderson"
+  ]
 }

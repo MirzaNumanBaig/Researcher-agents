@@ -42,3 +42,21 @@ class PruneBriefs(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class HeadlineNames(unittest.TestCase):
+    def test_surname_alone_is_enough_by_default(self):
+        self.assertTrue(collect_news.names_person("Hemsworth shares family photo", "Chris Hemsworth"))
+        self.assertFalse(collect_news.names_person("Weather turns cold in Sydney", "Chris Hemsworth"))
+
+    def test_common_word_surnames_need_the_full_name(self):
+        only = ["Michael J. Fox", "Sandra Oh", "Martin Short"]
+        self.assertFalse(collect_news.names_person("Fox News host quits", "Michael J. Fox", only))
+        self.assertFalse(collect_news.names_person("Oh what a night for the Swans", "Sandra Oh", only))
+        self.assertFalse(collect_news.names_person("A short history of cinema", "Martin Short", only))
+        self.assertTrue(collect_news.names_person("Michael J. Fox honoured at gala", "Michael J. Fox", only))
+        self.assertTrue(collect_news.names_person("Sandra Oh joins new drama", "Sandra Oh", only))
+
+    def test_apostrophe_and_accents(self):
+        self.assertTrue(collect_news.names_person("O'Hara returns for Beetlejuice sequel", "Catherine O'Hara"))
+        self.assertTrue(collect_news.names_person("Thorbjørn Harr on Vikings", "Thorbjørn Harr"))

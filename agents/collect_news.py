@@ -89,10 +89,13 @@ def mentioned(lead, names):
     return [n for n in names if n.lower() in text]
 
 
-def names_person(title, name):
-    """True when the headline uses the person's full name or surname as a whole word."""
+def names_person(title, name, full_only=()):
+    """True when the headline uses the person's full name or surname as a whole word.
+    Names in config `headline_full_name_only` (surname is an ordinary word: Fox, Oh, Short...) need the full name."""
     t = title.lower()
     full, last = name.lower(), name.lower().split()[-1]
+    if name in full_only:
+        return full in t
     return full in t or re.search(rf"\b{re.escape(last)}\b", t) is not None
 
 
@@ -102,7 +105,7 @@ def relevant(lead, cfg):
     if any(x.lower() in src for x in cfg.get("exclude_sources", [])):
         return False
     if cfg.get("headline_must_name", True):
-        return any(names_person(lead["title"], n) for n in lead.get("celebrities", []))
+        return any(names_person(lead["title"], n, cfg.get("headline_full_name_only", ())) for n in lead.get("celebrities", []))
     return True
 
 
