@@ -1,5 +1,19 @@
 [
   {
+    "path": "articles/2026-10-26-19-00-delta-goodrem.md",
+    "title": "Delta Goodrem",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-26 19:00",
+    "celebrity": "Delta Goodrem",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Only one truncated readable source (Daily Mail); the Sun pages were unreadable; same rib-injury/Strictly story already covered by eight earlier articles.",
+    "rewrite_note": ""
+  },
+  {
     "path": "articles/2026-10-26-19-00-hugh-jackman.md",
     "title": "Hugh Jackman",
     "description": "",
@@ -11,6 +25,20 @@
     "wp_link": "",
     "wp_id": null,
     "skip_reason": "no readable source text; the only story is an old Forbes 2014 Power Actors gallery page (dated 2015), not news",
+    "rewrite_note": ""
+  },
+  {
+    "path": "articles/2026-10-26-19-00-margot-robbie.md",
+    "title": "Margot Robbie",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-26 19:00",
+    "celebrity": "Margot Robbie",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text",
     "rewrite_note": ""
   },
   {
