@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Tom's Guide",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQckpXSHNmUk5oTm0tNTRneW5SVE5BYjUwMndQaEFzNk1VOTZYUUs3Tlh1VnJWaWJRUkdlUGpNclZ0RTdFNGZHSUdBeEx1Z2stRjhDZS12aGNQbnpCTkNhUWtpVzloMUFkRjZadmFnUElNRlVuYlZIaVd6RVVoc0x0WFU1cmlmZWwxQ1FMejlXdkxZLWVTbGgwY2hHOU1nY2FmT0ZsYUVPaEpnTFhzWUVPV2MyVDJEM2pJS0dUYjF1aV9HblA5VmFqUlhPM1RHalFrdDQ1WWxmSW0yalR6a05SQktEX21pOHRMckJrRFcwNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQckpXSHNmUk5oTm0tNTRneW5SVE5BYjUwMndQaEFzNk1VOTZYUUs3Tlh1VnJWaWJRUkdlUGpNclZ0RTdFNGZHSUdBeEx1Z2stRjhDZS12aGNQbnpCTkNhUWtpVzloMUFkRjZadmFnUElNRlVuYlZIaVd6RVVoc0x0WFU1cmlmZWwxQ1FMejlXdkxZLWVTbGgwY2hHOU1nY2FmT0ZsYUVPaEpnTFhzWUVPV2MyVDJEM2pJS0dUYjF1aV9HblA5VmFqUlhPM1RHalFrdDQ1WWxmSW0yalR6a05SQktEX21pOHRMckJrRFcwNA?oc=5",
+          "article_url": "https://www.tomsguide.com/entertainment/netflix/3-new-to-netflix-movies-to-watch-this-weekend-including-russell-crowes-iconic-historical-action-epic-oct-23-25",
+          "image": "https://cdn.mos.cms.futurecdn.net/xgLKfGx4fjQtGCCtCDQdYC-2000-80.jpg"
         }
-      ]
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/xgLKfGx4fjQtGCCtCDQdYC-2000-80.jpg",
+      "image_source": "https://www.tomsguide.com/entertainment/netflix/3-new-to-netflix-movies-to-watch-this-weekend-including-russell-crowes-iconic-historical-action-epic-oct-23-25"
     }
   ]
 }

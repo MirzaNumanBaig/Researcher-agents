@@ -31,9 +31,13 @@
       "outlets": [
         {
           "source": "World of Reel",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR09tTnRiemNJazFVYlppdnZtdkZQd0lqTXV4cnZIYURZNU1haVpMaVBLRC0zNmJYM01QcmJFNkhRRVBwOU1XQ2dUako1a2k0blNidkYwWkxjVXRPZXQzdlk0ZzI0U3lORHE3enhpVWNNSnZBVUo1S3FWUk9RRnpVRUV4cUJvSTdneU9QNkk2Um9pWGQ0WnFKNnBpUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR09tTnRiemNJazFVYlppdnZtdkZQd0lqTXV4cnZIYURZNU1haVpMaVBLRC0zNmJYM01QcmJFNkhRRVBwOU1XQ2dUako1a2k0blNidkYwWkxjVXRPZXQzdlk0ZzI0U3lORHE3enhpVWNNSnZBVUo1S3FWUk9RRnpVRUV4cUJvSTdneU9QNkk2Um9pWGQ0WnFKNnBpUQ?oc=5",
+          "article_url": "https://www.worldofreel.com/blog/2026/10/23/todd-haynes-to-direct-the-maids-with-cate-blanchett",
+          "image": "http://static1.squarespace.com/static/5bbcad0f2727be3646b9fee1/t/6adb6e945f8ea16d0f114e09/1792765588495/IMG_1031.jpeg?format=1500w"
         }
-      ]
+      ],
+      "image": "http://static1.squarespace.com/static/5bbcad0f2727be3646b9fee1/t/6adb6e945f8ea16d0f114e09/1792765588495/IMG_1031.jpeg?format=1500w",
+      "image_source": "https://www.worldofreel.com/blog/2026/10/23/todd-haynes-to-direct-the-maids-with-cate-blanchett"
     },
     {
       "title": "Prince William will rub shoulders with Cate Blanchett, Robert Irwin and Hannah Waddingham ✨",

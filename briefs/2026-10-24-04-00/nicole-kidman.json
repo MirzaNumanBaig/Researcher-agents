@@ -9,9 +9,19 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzhzN21TUVZZclk0dzc4Mk1FYTduaE0zMTF5VnR2QWJVaEcyMVBLTm5EdjdFdlZXRmpSWnJDR3JncjBONkZQTEsxaVh0bDdBLUdCR3Y1SEEybnN5dmcydXVMUEttdWdSanNYWmNPV1R3blF0M2VZN3ROMXZJS050TlNXTzNfUk1sNjR6dWpiUjk0aGNZMU5FWjRMTzBFeGtOSXdpVjh6OA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzhzN21TUVZZclk0dzc4Mk1FYTduaE0zMTF5VnR2QWJVaEcyMVBLTm5EdjdFdlZXRmpSWnJDR3JncjBONkZQTEsxaVh0bDdBLUdCR3Y1SEEybnN5dmcydXVMUEttdWdSanNYWmNPV1R3blF0M2VZN3ROMXZJS050TlNXTzNfUk1sNjR6dWpiUjk0aGNZMU5FWjRMTzBFeGtOSXdpVjh6OA?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/nicole-kidman-keith-urban-daughter-160144266.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/a64ffc94e85476969eab9a8cc9ea47f6e975e626ca4a86712d3cf3372ce96fb5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2F81a54367c63834d0d58da3fc8b6bb1b3.jpg"
+        },
+        {
+          "source": "StyleCaster",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONTgxMm5aRW1VR0IwdlJVRHpweFZTWHZWZWZ4bTN4NVJhNHhFV05WMGJ2a2dXT3JvVUE3TkVWeHdEdUdXVFFmN0llTnlDM0dxdDNSV01tajhDNzZiNmpyRlZtZnFFWDVUa1JfOVpuU0JUSUF5dzQtV3BLLXBvWUo2Z20wUV9rb1NvaFplZHpVLTFUT3pSNlpseXpURjJTblAyZHNERQ?oc=5",
+          "article_url": "https://stylecaster.com/entertainment/celebrity-news/1234956114/nicole-kidman-keith-urban-sunday-rose/",
+          "image": "https://stylecaster.com/wp-content/uploads/2025/10/nicole-kidman-keith-urban-sunday-rose.jpg?w=650"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/a64ffc94e85476969eab9a8cc9ea47f6e975e626ca4a86712d3cf3372ce96fb5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2F81a54367c63834d0d58da3fc8b6bb1b3.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/nicole-kidman-keith-urban-daughter-160144266.html"
     },
     {
       "title": "ADÉLA Makes Late Night Debut with “Nicole Kidman” and “Ain’t in LA” on Fallon: Watch",
@@ -20,9 +30,13 @@
       "outlets": [
         {
           "source": "Consequence of Sound",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPODV4RUNQdmpKc2R2TnlfQ0tUaXlCNGhoYkRSQ2NoTG9mR0VPOXMwZHZXMVBNN0lJbEllQWlCVlhwUmt5RFBuYmljdjFMRmhjeFEtZFZ3emRwTXNBcDAzTnc3Wkx6eTNFejdiem9pUlAxNHE4Rlo1LVlFaFoyMGpZUDVn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPODV4RUNQdmpKc2R2TnlfQ0tUaXlCNGhoYkRSQ2NoTG9mR0VPOXMwZHZXMVBNN0lJbEllQWlCVlhwUmt5RFBuYmljdjFMRmhjeFEtZFZ3emRwTXNBcDAzTnc3Wkx6eTNFejdiem9pUlAxNHE4Rlo1LVlFaFoyMGpZUDVn?oc=5",
+          "article_url": "https://consequence.net/2026/10/adela-nicole-kidman-aint-in-la-fallon-watch/",
+          "image": "https://consequence.net/wp-content/uploads/2026/10/ADELA-Fallon-Nicole-Kidman-Aint-in-LA-Watch.jpg"
         }
-      ]
+      ],
+      "image": "https://consequence.net/wp-content/uploads/2026/10/ADELA-Fallon-Nicole-Kidman-Aint-in-LA-Watch.jpg",
+      "image_source": "https://consequence.net/2026/10/adela-nicole-kidman-aint-in-la-fallon-watch/"
     },
     {
       "title": "Nicole Kidman’s daughter Sunday Rose is turning heads with her runway and off-duty looks",
@@ -53,9 +67,13 @@
       "outlets": [
         {
           "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnlhdWtFaFl2N1ZnRTgzOEM3U2lvVHFaWnNpbDRVRTljRjJLTnlta01oSGxzSFNrQmg4dEpodFhCRTJ4NVVyRTQtZVdPUHpUUVRqNTZNWnJoX0h0ZWZMOUhOcEstWG5XT3hKVTdJcTNpa1Q0ZHlaUi1LdnBqV19FRlNPbWE5cm1kdkxGdjRmT2hiSTZQRWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnlhdWtFaFl2N1ZnRTgzOEM3U2lvVHFaWnNpbDRVRTljRjJLTnlta01oSGxzSFNrQmg4dEpodFhCRTJ4NVVyRTQtZVdPUHpUUVRqNTZNWnJoX0h0ZWZMOUhOcEstWG5XT3hKVTdJcTNpa1Q0ZHlaUi1LdnBqV19FRlNPbWE5cm1kdkxGdjRmT2hiSTZQRWc?oc=5",
+          "article_url": "https://www.theguardian.com/uk-news/2026/oct/23/digested-week-house-arrest-books-about-soil",
+          "image": "https://i.guim.co.uk/img/media/5464984437d90f92e0b687813cd4108c83d5d86e/386_0_2231_1785/master/2231.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=b1111073711afaa82165e916761e7ce3"
         }
-      ]
+      ],
+      "image": "https://i.guim.co.uk/img/media/5464984437d90f92e0b687813cd4108c83d5d86e/386_0_2231_1785/master/2231.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=b1111073711afaa82165e916761e7ce3",
+      "image_source": "https://www.theguardian.com/uk-news/2026/oct/23/digested-week-house-arrest-books-about-soil"
     },
     {
       "title": "ADÉLA Reacts to Nicole Kidman Mentioning Her, Teaches Swaggerina Moves",

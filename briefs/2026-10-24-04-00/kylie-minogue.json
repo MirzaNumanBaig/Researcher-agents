@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdW5QTmFZbEh4NjNQa2IzNXNMdjJBUlU0ZkxHOFl3eTBESEstSWVtODFVbTlPaGxwZnl5VFR3MHo5eHhNZDV6RGlydHF3ZVR6R0RSeGVjaWQ0MUF2eGl4WjhmUzE3a3JnUnZDbUF0NDVRY0dmcHRwNGNiRURBWUNkS1pYVGdNZ1VFY0ZmOFhmMEtVWnN4RUNjdjRGMkR5YkR5cmktNWs0cFl2Vk55NUtB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdW5QTmFZbEh4NjNQa2IzNXNMdjJBUlU0ZkxHOFl3eTBESEstSWVtODFVbTlPaGxwZnl5VFR3MHo5eHhNZDV6RGlydHF3ZVR6R0RSeGVjaWQ0MUF2eGl4WjhmUzE3a3JnUnZDbUF0NDVRY0dmcHRwNGNiRURBWUNkS1pYVGdNZ1VFY0ZmOFhmMEtVWnN4RUNjdjRGMkR5YkR5cmktNWs0cFl2Vk55NUtB?oc=5",
+          "article_url": "https://www.rttnews.com/amp/3701970/kylie-minogue-joins-voice-cast-of-animated-musical-comedy-bad-fairies.aspx",
+          "image": "https://cdn.rttnews.com/articleimages/ustopstories/2026/may/kylieminogue-07052026-lt.jpg"
         }
-      ]
+      ],
+      "image": "https://cdn.rttnews.com/articleimages/ustopstories/2026/may/kylieminogue-07052026-lt.jpg",
+      "image_source": "https://www.rttnews.com/amp/3701970/kylie-minogue-joins-voice-cast-of-animated-musical-comedy-bad-fairies.aspx"
     }
   ]
 }

@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Dark Horizons",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kMl9WaktXOTJyeENPekRFWFUtWTBoaEx2a1pIZy16Zlo2Wi12OEVyS1oyQzJ4Skx0YjhscHVYY296SjlBd3RJajFaMXdZVUZjRFNkdUVXamZfT3dqLXlsTnl3OFFSU0ROeXZ5UzJIRGlURnpH?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kMl9WaktXOTJyeENPekRFWFUtWTBoaEx2a1pIZy16Zlo2Wi12OEVyS1oyQzJ4Skx0YjhscHVYY296SjlBd3RJajFaMXdZVUZjRFNkdUVXamZfT3dqLXlsTnl3OFFSU0ROeXZ5UzJIRGlURnpH?oc=5",
+          "article_url": "https://www.darkhorizons.com/blanchett-haynes-plan-the-maids-film/",
+          "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/10/blanchett-haynes-plan-the-maids-film.jpg"
         }
-      ]
+      ],
+      "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/10/blanchett-haynes-plan-the-maids-film.jpg",
+      "image_source": "https://www.darkhorizons.com/blanchett-haynes-plan-the-maids-film/"
     },
     {
       "title": "Todd Haynes Reveals Next Movie After Pedro Pascal’s De Noche, Cate Blanchett Will Star",
@@ -31,13 +35,19 @@
       "outlets": [
         {
           "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScHNvUW9CQVlwbzRVcUJScGRkUjhPMlJSbThtUDU1UVJwTXFTQm1neGpUaDlDaFJRTll3a1REX3ZlYjNHVkxtdUN6SlVCVHFISFpXZXBDQzNRcktobjhWVlB5X1hZOUpYUDlXb1B5em1HY0hNRzZKNFJLblJjYUU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScHNvUW9CQVlwbzRVcUJScGRkUjhPMlJSbThtUDU1UVJwTXFTQm1neGpUaDlDaFJRTll3a1REX3ZlYjNHVkxtdUN6SlVCVHFISFpXZXBDQzNRcktobjhWVlB5X1hZOUpYUDlXb1B5em1HY0hNRzZKNFJLblJjYUU?oc=5",
+          "article_url": "https://www.aol.com/articles/todd-haynes-reveals-next-movie-163551000.html",
+          "image": "https://hermes.media.transform.aol.com/e85ac6efc57dbc8bb55afa022a569fc71dbfeba8/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/23/831cbbd7-9a14-3843-a493-50ea6bc2fffb/f6654b8d-baee-48a0-aba6-46c41315dc26.jpg"
         },
         {
           "source": "ComingSoon.net",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdHpPWkNZdy0zT1NIY2dDUThuWGlUYVRKNWlqaEhrTDRCVU5sT3VNU0pkb3BwUEVjeW9ZN3BySWhyQUhRQWpNQTJjamQ3aVNUVDNMMlFsRGxXdmU5WHJybEZaNVJaZ3BvOGpmNTBYQ1VBS2ZfYUk2NnBmdGZQQTNaZGIwOFlRaFRJUGZPcFZnNkhHdGlGSVBjNG9PcUFBVGFMa3YzMWV5RlBZQdIBrwFBVV95cUxPLXhhTGd3U3ZtdGxvZHhwZVR6V1RXT2FuNlktNTN2SjZXM0cyb19JUWJQSGFhNU5uU2Zvdk5ybnViX3EtMndQU0kzU3VMZWlRNnhVYm0xTGJENm5OeUJ1T3Y1ZTJFdXlrTDF6NEk3N1BodFEzTDFLd3A2VURRSXYzVWdFZFVhVTdfM3NZajRtYW4zd2lNSFJLUzUxVGlUOElIcmhxRmwyRDBYSXpsX0Q4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdHpPWkNZdy0zT1NIY2dDUThuWGlUYVRKNWlqaEhrTDRCVU5sT3VNU0pkb3BwUEVjeW9ZN3BySWhyQUhRQWpNQTJjamQ3aVNUVDNMMlFsRGxXdmU5WHJybEZaNVJaZ3BvOGpmNTBYQ1VBS2ZfYUk2NnBmdGZQQTNaZGIwOFlRaFRJUGZPcFZnNkhHdGlGSVBjNG9PcUFBVGFMa3YzMWV5RlBZQdIBrwFBVV95cUxPLXhhTGd3U3ZtdGxvZHhwZVR6V1RXT2FuNlktNTN2SjZXM0cyb19JUWJQSGFhNU5uU2Zvdk5ybnViX3EtMndQU0kzU3VMZWlRNnhVYm0xTGJENm5OeUJ1T3Y1ZTJFdXlrTDF6NEk3N1BodFEzTDFLd3A2VURRSXYzVWdFZFVhVTdfM3NZajRtYW4zd2lNSFJLUzUxVGlUOElIcmhxRmwyRDBYSXpsX0Q4?oc=5",
+          "article_url": "https://www.comingsoon.net/movies/news/2211708-todd-haynes-next-movie-pedro-pascal-de-noche-cate-blanchett",
+          "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/Pedro-Pascal.jpg?resize=1200,630"
         }
-      ]
+      ],
+      "image": "https://hermes.media.transform.aol.com/e85ac6efc57dbc8bb55afa022a569fc71dbfeba8/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/23/831cbbd7-9a14-3843-a493-50ea6bc2fffb/f6654b8d-baee-48a0-aba6-46c41315dc26.jpg",
+      "image_source": "https://www.aol.com/articles/todd-haynes-reveals-next-movie-163551000.html"
     }
   ]
 }

@@ -9,13 +9,25 @@
       "outlets": [
         {
           "source": "smh.com.au",
-          "url": "https://www.smh.com.au/culture/movies/rebel-wilson-wins-legal-feud-with-producers-of-her-film-the-deb-20261023-p6187l.html?ref=rss&utm_medium=rss&utm_source=rss_culture"
+          "url": "https://www.smh.com.au/culture/movies/rebel-wilson-wins-legal-feud-with-producers-of-her-film-the-deb-20261023-p6187l.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
+          "article_url": "https://www.smh.com.au/culture/movies/rebel-wilson-wins-legal-feud-with-producers-of-her-film-the-deb-20261023-p6187l.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
+          "image": "https://static.ffx.io/images/$zoom_0.5072137490678599%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1154%2C$y_508/t_crop_custom/q_86%2Cf_auto/43fa59f4ef2694f3119c6a571dacee809dfd05ee"
         },
         {
           "source": "The Age",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTmEyakZKSWpUWW5zWjdrSHRfN0dSMWQtLS13bFVRY2F1RTFmdkJjbUR4UzRoUHh0YXQ5MVBMYXN4OTgxSEg0YzM1MU9GZ1RENDdlalFzY0otdGtDTG00X3ZEaW1CM2Y3ZkpjenktaG8zSFBONkp5aGdwS29aLWdhRmxjLUUxY2d2dEs0MEFvNWJyZWUtQ2Fwb2FXQTVCN1hNcDVCZUtZQW1kUFc5QWtDYmk4R3VKSi1FUXZzblB1TF9nV00?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTmEyakZKSWpUWW5zWjdrSHRfN0dSMWQtLS13bFVRY2F1RTFmdkJjbUR4UzRoUHh0YXQ5MVBMYXN4OTgxSEg0YzM1MU9GZ1RENDdlalFzY0otdGtDTG00X3ZEaW1CM2Y3ZkpjenktaG8zSFBONkp5aGdwS29aLWdhRmxjLUUxY2d2dEs0MEFvNWJyZWUtQ2Fwb2FXQTVCN1hNcDVCZUtZQW1kUFc5QWtDYmk4R3VKSi1FUXZzblB1TF9nV00?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "SMH.com.au",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVNiYnFzS1JMMXNrVHBCVDNFZkVzQlJ1R19UdXRqU3M3cTJzZFlfOVRva3p0UHNrV3V2M1pMVVBIbVVUamJESzRkRWtPbnRaaDdNQWlmZk9FVXIyZlNpXzltZUxWeGhhUUlrRms3WFcxWFl4cFlQWFhEa1V4OE5PRFJzLWZQeXVudjBqVmFSanczd3hnb0lyWVRMaVNiWUFrb3p0MTBIQUZ6YWt0RmFST21yTHZmM21PSjl4dGNIYw?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://static.ffx.io/images/$zoom_0.5072137490678599%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1154%2C$y_508/t_crop_custom/q_86%2Cf_auto/43fa59f4ef2694f3119c6a571dacee809dfd05ee",
+      "image_source": "https://www.smh.com.au/culture/movies/rebel-wilson-wins-legal-feud-with-producers-of-her-film-the-deb-20261023-p6187l.html?ref=rss&utm_medium=rss&utm_source=rss_culture"
     },
     {
       "title": "Rebel Wilson awarded $359k in second legal win over film",
@@ -235,13 +247,19 @@
       "outlets": [
         {
           "source": "UrbanMatter",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF9VT3VhRjlqN0NqcUNNMXh5dmlaYWlkckdMSVBuUVZGaEo5WXVlWHAtczhtTnpVZldMT2ozTHNMeFV3aGUxYnBSODNhcEZRZVlMSnQxdzk4QlFYSmpnaDREeU1rQjNjejc1R2Rjc0Iwd3Q5YVlRbTROZmJycE1DX1dnX24ydkduaUJQUkYtWFhTMEJGdENKOFVvLUJwR3ZVSE9lU1J5SndfZ1hqVWQ2a19Ib9IBswFBVV95cUxPZF9VT3VhRjlqN0NqcUNNMXh5dmlaYWlkckdMSVBuUVZGaEo5WXVlWHAtczhtTnpVZldMT2ozTHNMeFV3aGUxYnBSODNhcEZRZVlMSnQxdzk4QlFYSmpnaDREeU1rQjNjejc1R2Rjc0Iwd3Q5YVlRbTROZmJycE1DX1dnX24ydkduaUJQUkYtWFhTMEJGdENKOFVvLUJwR3ZVSE9lU1J5SndfZ1hqVWQ2a19Ibw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF9VT3VhRjlqN0NqcUNNMXh5dmlaYWlkckdMSVBuUVZGaEo5WXVlWHAtczhtTnpVZldMT2ozTHNMeFV3aGUxYnBSODNhcEZRZVlMSnQxdzk4QlFYSmpnaDREeU1rQjNjejc1R2Rjc0Iwd3Q5YVlRbTROZmJycE1DX1dnX24ydkduaUJQUkYtWFhTMEJGdENKOFVvLUJwR3ZVSE9lU1J5SndfZ1hqVWQ2a19Ib9IBswFBVV95cUxPZF9VT3VhRjlqN0NqcUNNMXh5dmlaYWlkckdMSVBuUVZGaEo5WXVlWHAtczhtTnpVZldMT2ozTHNMeFV3aGUxYnBSODNhcEZRZVlMSnQxdzk4QlFYSmpnaDREeU1rQjNjejc1R2Rjc0Iwd3Q5YVlRbTROZmJycE1DX1dnX24ydkduaUJQUkYtWFhTMEJGdENKOFVvLUJwR3ZVSE9lU1J5SndfZ1hqVWQ2a19Ibw?oc=5",
+          "article_url": "https://urbanmatter.com/judge-rejects-bid-to-sanction-rebel-wilson-over-alleged-fraud-amid-smear-website-scandal/",
+          "image": "https://urbanmatter.com/wp-content/uploads/2026/10/Judge-Rejects-Bid-to-Sanction-Rebel-Wilson-Over-Alleged-‘Fraud-Amid-Smear-Website-Scandal.jpg"
         },
         {
           "source": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeU9aT0ROTHp4cEVvSVA3NXo3X1BaQ25GS0dQV2NLSWNhdm5pdGpVLUR5OHdBeG80ckozU3dtb18tclp5Nmp2cTU3bGVpNXlweUg3RUw3MnBxUEhMNGtyS2NHWW1kemRwRERRTV9FYXZMZ1ZNazZSQ3NJclB3bEMzNTBiRTJLUDN1Vl9jYWRzSkJoTHMtX2pOWXBWOHdieDhRR002eWJBcHRmQ2Q1U1E2b0Y2NXBud1hDT3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeU9aT0ROTHp4cEVvSVA3NXo3X1BaQ25GS0dQV2NLSWNhdm5pdGpVLUR5OHdBeG80ckozU3dtb18tclp5Nmp2cTU3bGVpNXlweUg3RUw3MnBxUEhMNGtyS2NHWW1kemRwRERRTV9FYXZMZ1ZNazZSQ3NJclB3bEMzNTBiRTJLUDN1Vl9jYWRzSkJoTHMtX2pOWXBWOHdieDhRR002eWJBcHRmQ2Q1U1E2b0Y2NXBud1hDT3c?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://urbanmatter.com/wp-content/uploads/2026/10/Judge-Rejects-Bid-to-Sanction-Rebel-Wilson-Over-Alleged-‘Fraud-Amid-Smear-Website-Scandal.jpg",
+      "image_source": "https://urbanmatter.com/judge-rejects-bid-to-sanction-rebel-wilson-over-alleged-fraud-amid-smear-website-scandal/"
     },
     {
       "title": "Rebel Wilson Trial Over ‘The Deb’ Producers’ Defamation Claims Likely To Be Delayed",

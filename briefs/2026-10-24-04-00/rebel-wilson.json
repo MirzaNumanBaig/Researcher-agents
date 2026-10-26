@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzI5VmZ4M2RBTURhaFYtbWxXc3ZVZENVOGxVX1Voa2pHUHN1YlJBc0ZNbUlWbjRMV2ZMcnZ2T1c3Z3Zwc25nX0ROLW5NWnNaRTdNaE44eGtVZ2Z3bUJxSzlQZ04teV9BNFFpSzBnc1M4am5jcmtrMzVRbUI0WGtUV1FQMHRZWmhmQzZzWkFlb3ljZWtRRW1HTnVTOVgwNXhrZ1JybkxBdDNmSlN2cFQtWXhPbmt0MGxFMVdRZmpkUGw3bmvSAcMBQVVfeXFMTU8yOVZmeDNkQU1EYWhWLW1sV3N2VWRDVThsVV9VaGtqR1BzdWJSQXNGTW1JVm40TFdmTHJ2dk9XN2d2cHNuZ19ETi1uTVpzWkU3TWhOOHhrVWdmd21CcUs5UGdOLXlfQTRRaUswZ3NTOGpuY3JrazM1UW1CNFhrVFdRUDB0WVpoZkM2c1pBZW95Y2VrUUVtR051UzlYMDV4a2dScm5MQXQzZkpTdnBULVl4T25rdDBsRTFXUWZqZFBsN25r?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzI5VmZ4M2RBTURhaFYtbWxXc3ZVZENVOGxVX1Voa2pHUHN1YlJBc0ZNbUlWbjRMV2ZMcnZ2T1c3Z3Zwc25nX0ROLW5NWnNaRTdNaE44eGtVZ2Z3bUJxSzlQZ04teV9BNFFpSzBnc1M4am5jcmtrMzVRbUI0WGtUV1FQMHRZWmhmQzZzWkFlb3ljZWtRRW1HTnVTOVgwNXhrZ1JybkxBdDNmSlN2cFQtWXhPbmt0MGxFMVdRZmpkUGw3bmvSAcMBQVVfeXFMTU8yOVZmeDNkQU1EYWhWLW1sV3N2VWRDVThsVV9VaGtqR1BzdWJSQXNGTW1JVm40TFdmTHJ2dk9XN2d2cHNuZ19ETi1uTVpzWkU3TWhOOHhrVWdmd21CcUs5UGdOLXlfQTRRaUswZ3NTOGpuY3JrazM1UW1CNFhrVFdRUDB0WVpoZkM2c1pBZW95Y2VrUUVtR051UzlYMDV4a2dScm5MQXQzZkpTdnBULVl4T25rdDBsRTFXUWZqZFBsN25r?oc=5",
+          "article_url": "https://tribune.com.pk/story/2636498/rebel-wilson-wins-359000-in-legal-battle-over-the-deb-as-producers-receive-just-10?amp=1",
+          "image": "https://i.tribune.com.pk/media/images/Eminem-and-his-daugher-Hallie-(1)1720848500-0/Eminem-and-his-daugher-Hallie-(1)1720848500-0.png"
         }
-      ]
+      ],
+      "image": "https://i.tribune.com.pk/media/images/Eminem-and-his-daugher-Hallie-(1)1720848500-0/Eminem-and-his-daugher-Hallie-(1)1720848500-0.png",
+      "image_source": "https://tribune.com.pk/story/2636498/rebel-wilson-wins-359000-in-legal-battle-over-the-deb-as-producers-receive-just-10?amp=1"
     },
     {
       "title": "Rebel Wilson awarded $359,000 in The Deb case",
@@ -20,9 +24,13 @@
       "outlets": [
         {
           "source": "Oz Arab Media",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaaHhRVnZ4cklOYl9EVmlPR0dZTDd6am4wZzJQNTNCaFdrRmcwMkIyYTU0STl3cHF1RW5wZWhpZ014TXd0aUFjVHZZUExqaHVOVjlZRzhsWmRiT1FKd3c0OFktS05HQ0hLbFFaWndGdGVWYjQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaaHhRVnZ4cklOYl9EVmlPR0dZTDd6am4wZzJQNTNCaFdrRmcwMkIyYTU0STl3cHF1RW5wZWhpZ014TXd0aUFjVHZZUExqaHVOVjlZRzhsWmRiT1FKd3c0OFktS05HQ0hLbFFaWndGdGVWYjQ?oc=5",
+          "article_url": "https://ozarab.media/rebel-wilson-awarded-359000-in-the-deb-case/",
+          "image": "https://ozarab.media/wp-content/uploads/2026/10/ozarab-img-gaxw4k-1024x683.png"
         }
-      ]
+      ],
+      "image": "https://ozarab.media/wp-content/uploads/2026/10/ozarab-img-gaxw4k-1024x683.png",
+      "image_source": "https://ozarab.media/rebel-wilson-awarded-359000-in-the-deb-case/"
     },
     {
       "title": "What is Rebel Wilson's net worth? 'The Deb' actress ordered to pay $10 to producers in court battle",

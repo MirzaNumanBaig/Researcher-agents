@@ -42,13 +42,19 @@
       "outlets": [
         {
           "source": "PinkNews",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVlaX0dlVHFHY3QwNXgxbm9DMVNCVnViRVVpdEg1Mm9Na2ZIVHZNMzNnZTQyYU5SbWdFa0pmWUVhS01BN2F4a1JfMk55OGZJMmZMeUNsdTZCZTBrNFEwT3VlT2M3RFU4TS1JZW9FM2lfRlV6YjlQOWdRRzNuMnJ2US1JZzF3RWJSVW5YRG9BODZjNVlBT25rMnZvTDFpdVJHckE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVlaX0dlVHFHY3QwNXgxbm9DMVNCVnViRVVpdEg1Mm9Na2ZIVHZNMzNnZTQyYU5SbWdFa0pmWUVhS01BN2F4a1JfMk55OGZJMmZMeUNsdTZCZTBrNFEwT3VlT2M3RFU4TS1JZW9FM2lfRlV6YjlQOWdRRzNuMnJ2US1JZzF3RWJSVW5YRG9BODZjNVlBT25rMnZvTDFpdVJHckE?oc=5",
+          "article_url": "https://www.thepinknews.com/2026/10/23/troye-sivan-opens-up-about-complicated-relationship-with-men/",
+          "image": "https://www.thepinknews.com/wp-content/uploads/2026/10/Troye-Sivan.jpg"
         },
         {
           "source": "Queerty",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFkwa1dvWnNJYmFYZm9OMGpJOUtWZ0ZJeGE3Qm9KQ0l0c3Nrc0VsbHhKTUUtOWI3bS1wbFBoMnloYU1teFh4ZFB0NzFDMmJnT2gwQnVPUzl0RTlIU2pEVEpyY2s5R2ZGSlJEbk0wRlozNWJXNXVUSEQxNUk0XzBfMEctRVdsTkhQSUI1b2RqRXp5QmRDYjNzSHlnaW5tSXgzcUhr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFkwa1dvWnNJYmFYZm9OMGpJOUtWZ0ZJeGE3Qm9KQ0l0c3Nrc0VsbHhKTUUtOWI3bS1wbFBoMnloYU1teFh4ZFB0NzFDMmJnT2gwQnVPUzl0RTlIU2pEVEpyY2s5R2ZGSlJEbk0wRlozNWJXNXVUSEQxNUk0XzBfMEctRVdsTkhQSUI1b2RqRXp5QmRDYjNzSHlnaW5tSXgzcUhr?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://www.thepinknews.com/wp-content/uploads/2026/10/Troye-Sivan.jpg",
+      "image_source": "https://www.thepinknews.com/2026/10/23/troye-sivan-opens-up-about-complicated-relationship-with-men/"
     }
   ]
 }

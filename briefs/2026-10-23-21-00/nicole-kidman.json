@@ -31,9 +31,13 @@
       "outlets": [
         {
           "source": "Billboard",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNEZJWGdqSTlCTmRwN2t5NGxjVVlWZ3VTYnR5WEtSTzZZV2NmcUJaTFlWeVpvV2ZDYnV1ZHFfTWNIdjh0aFlobGtvSUptMFozUE9nX2Q1UW9zMl9iVXJyTGlrZktIU0FDUllubkpiMVJnei1CbnQyTU1SMnNJVGlnVDAxX0YwV3M4TnZSVW5rSC1HM2oxRkVMMkVmRng3anBFUTZzVlRwZlVaVDhSNVk5UlVfZ3NBSXdNRTRzdldiQUttelhQb2pNRUxFbWdhcWZ2LWhzTTBZQ0pOWVF3UGI3NG4yZ1VuWWd2ekhMbUFYa2Q0eWxqSUtPYUlKR3FHX0dySmFUS3dMQzVBaEZSS1VLQmExRFNQZjBDYjA4RjIwZEp6UDdJdTVDbG5nZlZEb3lab3R5Y0ZWanZ5WHpSSGZpaW84X3JKT0k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNEZJWGdqSTlCTmRwN2t5NGxjVVlWZ3VTYnR5WEtSTzZZV2NmcUJaTFlWeVpvV2ZDYnV1ZHFfTWNIdjh0aFlobGtvSUptMFozUE9nX2Q1UW9zMl9iVXJyTGlrZktIU0FDUllubkpiMVJnei1CbnQyTU1SMnNJVGlnVDAxX0YwV3M4TnZSVW5rSC1HM2oxRkVMMkVmRng3anBFUTZzVlRwZlVaVDhSNVk5UlVfZ3NBSXdNRTRzdldiQUttelhQb2pNRUxFbWdhcWZ2LWhzTTBZQ0pOWVF3UGI3NG4yZ1VuWWd2ekhMbUFYa2Q0eWxqSUtPYUlKR3FHX0dySmFUS3dMQzVBaEZSS1VLQmExRFNQZjBDYjA4RjIwZEp6UDdJdTVDbG5nZlZEb3lab3R5Y0ZWanZ5WHpSSGZpaW84X3JKT0k?oc=5",
+          "article_url": "https://ca.billboard.com/music/pop/adela-nicole-kidman-interview-performance-fallon-1236367047/?mc_cid=fac9cdc993&bil=554&debugld=stickybtest&g=&utm_=&q=Fay+Olson-Vickery&%23038%3Bmc_cid=fac9cdc993&%23038%3Bmc_eid=e93eb860cc",
+          "image": "https://ca.billboard.com/media-library/adela.png?id=67740416&width=1200&height=600&coordinates=0%2C141%2C0%2C141"
         }
-      ]
+      ],
+      "image": "https://ca.billboard.com/media-library/adela.png?id=67740416&width=1200&height=600&coordinates=0%2C141%2C0%2C141",
+      "image_source": "https://ca.billboard.com/music/pop/adela-nicole-kidman-interview-performance-fallon-1236367047/?mc_cid=fac9cdc993&bil=554&debugld=stickybtest&g=&utm_=&q=Fay+Olson-Vickery&%23038%3Bmc_cid=fac9cdc993&%23038%3Bmc_eid=e93eb860cc"
     }
   ]
 }
