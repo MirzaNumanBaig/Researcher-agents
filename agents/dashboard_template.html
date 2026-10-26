@@ -40,7 +40,11 @@ h1{font-size:18px;line-height:1.2;margin:0;font-weight:650;letter-spacing:-.01em
 .stat{display:flex;gap:6px;align-items:baseline;font-size:13px;color:var(--mut)}.stat b{color:var(--ink);font-size:17px;font-weight:650;font-variant-numeric:tabular-nums}
 
 /* people */
-.people{display:flex;gap:8px;overflow-x:auto;padding-block:12px 6px;scrollbar-width:thin}
+.peoplebar{display:flex;gap:8px;align-items:center;padding-top:12px}
+.peoplebar input{flex:1;min-width:0;max-width:280px;padding:7px 12px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--ink);font-size:14px}
+.people{display:flex;flex-wrap:wrap;gap:8px;padding-block:10px 6px;max-height:98px;overflow:hidden}
+.people.open{max-height:none}
+.who.zero{opacity:.55}
 .who{flex:none;display:flex;align-items:center;gap:8px;padding:5px 12px 5px 5px;border-radius:99px;border:1px solid var(--line);background:var(--surface);font-size:14px;white-space:nowrap}
 .who.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .who .n{font-size:12px;opacity:.65;font-variant-numeric:tabular-nums}
@@ -154,6 +158,7 @@ details>div{padding:0 14px 12px}
 <main class="wrap">
 <section class="strip"><span class="pill" id="state"></span><span class="muted" id="timer"></span><button class="btn sm" id="pause"></button><label class="qwps muted">New articles go to <select id="q-wps" aria-label="Where new articles go on the website"><option value="draft">Draft</option><option value="pending">Pending review</option><option value="publish">Published (live)</option></select></label><label class="qwps muted" title="On: each new article gets an AI-generated featured image (needs the Cloudflare keys). Off: articles go out without an image."><input type="checkbox" id="q-img"> AI images</label><button class="btn sm" id="wp-sync" title="Check the website now and update these numbers">Sync site</button><div class="stats" id="stats"></div><div id="msg" role="status"></div></section>
 <section class="health" id="health" aria-label="Pipeline status"></section>
+<div class="peoplebar"><input id="pfind" type="search" placeholder="Find an actor…" aria-label="Find an actor"><button class="btn" id="pmore" type="button"></button></div>
 <div class="people" id="people"></div>
 <div id="profile"></div>
 <div class="toolbar">
@@ -300,8 +305,14 @@ bs.forEach(b=>$("batch").add(new Option(b==="Earlier"?"Earlier":b+" ("+D.leads.f
 batch=bs.includes(keep)?keep:"";$("batch").value=batch}
 const cnt=n=>D.leads.filter(l=>inPool(l)&&(l.celebrities||[]).includes(n)).length;
 function av(n,cls){const p=D.profiles[n]||{},ph=safeImg(p.photo);return'<span class="av '+(cls||"")+'" style="background-color:'+col(n)+(ph?';background-image:url('+esc(ph)+')':'')+'">'+(ph?'':esc(ini(n)))+'</span>'}
-function people(){$("people").innerHTML='<button class="who all'+(celeb===""?' on':'')+'" data-v="">All</button>'+D.celebrities.map(n=>'<button class="who'+(n===celeb?' on':'')+'" data-v="'+esc(n)+'">'+av(n)+esc(n)+' <span class="n">'+cnt(n)+'</span></button>').join("");
+let pOpen=false;
+function people(){const f=$("pfind").value.trim().toLowerCase(),all=D.celebrities,
+list=all.filter(n=>!f||n.toLowerCase().includes(f)).sort((a,b)=>cnt(b)-cnt(a)||a.localeCompare(b)); /* most stories first */
+const open=pOpen||!!f;$("people").classList.toggle("open",open);
+$("people").innerHTML='<button class="who all'+(celeb===""?' on':'')+'" data-v="">All</button>'+list.map(n=>'<button class="who'+(n===celeb?' on':'')+(cnt(n)?'':' zero')+'" data-v="'+esc(n)+'">'+av(n)+esc(n)+' <span class="n">'+cnt(n)+'</span></button>').join("")+(list.length?'':'<span class="muted">No actor matches "'+esc(f)+'".</span>');
+$("pmore").textContent=open?"Show less":"Show all "+all.length;$("pmore").hidden=!!f||all.length<8;
 document.querySelectorAll(".who").forEach(b=>b.onclick=()=>{celeb=celeb===b.dataset.v?"":b.dataset.v;people();render()})}
+$("pfind").oninput=people;$("pmore").onclick=()=>{pOpen=!pOpen;people()};
 const ICONS={instagram:"instagram",tiktok:"tiktok",x:"x",facebook:"facebook",youtube:"youtube",website:"googlechrome"};
 function profile(){const n=celeb;if(!n||view!=="stories"){$("profile").innerHTML="";return}const p=D.profiles[n]||{};
 $("profile").innerHTML='<div class="profile">'+av(n,"lg")+'<div style="min-width:0"><h2>'+esc(n)+'</h2><div class="muted small">'+cnt(n)+' stories tracked</div><div class="icos">'+Object.keys(ICONS).map(k=>p[k]&&safeUrl(p[k])!=="#"?'<a class="ico" href="'+esc(safeUrl(p[k]))+'" target="_blank" rel="noopener" title="'+k+'"><img alt="'+k+'" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></a>':'<span class="ico off" title="'+k+': not added yet"><img alt="" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/'+ICONS[k]+'.svg"></span>').join("")+'</div></div></div>'}
