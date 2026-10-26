@@ -172,7 +172,7 @@
   },
   "interval_hours": 3,
   "auto_send": true,
-  "wp_default_status": "publish",
+  "wp_default_status": "pending",
   "article_batches_back": 20,
   "max_articles_per_run": 50,
   "site": {
