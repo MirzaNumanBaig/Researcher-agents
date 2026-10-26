@@ -82,9 +82,13 @@
       "outlets": [
         {
           "source": "BroadwayWorld",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1hXbXVPa1BaT1JKejVPdS1lSlBULXBZTE4yNkp4VlFvQ2x2cTNMN1ZrWU1uT3NxcFF0NVJHTEJCeXRaUW4wekhRaVU1Q2pmNHZQN2NNM2JuNWhiQ0RFYmF1UVQzTTkxZ21nMUVNMnpfTHIxNEc1dUhFV3cxQzRTek1sVG9YTTNpNDVIZm1NZEtEcmlpb3RBdFQ1RE1sOHVTR0FiMUx5VUhoU0lPSEVYYmwtQWJLRktVTzVfbXBn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1hXbXVPa1BaT1JKejVPdS1lSlBULXBZTE4yNkp4VlFvQ2x2cTNMN1ZrWU1uT3NxcFF0NVJHTEJCeXRaUW4wekhRaVU1Q2pmNHZQN2NNM2JuNWhiQ0RFYmF1UVQzTTkxZ21nMUVNMnpfTHIxNEc1dUhFV3cxQzRTek1sVG9YTTNpNDVIZm1NZEtEcmlpb3RBdFQ1RE1sOHVTR0FiMUx5VUhoU0lPSEVYYmwtQWJLRktVTzVfbXBn?oc=5",
+          "article_url": "https://www.broadwayworld.com/bwwtv/article/ADLA-Reacts-to-Nicole-Kidman-Mentioning-Her-Teaches-Swaggerina-Moves-20261023",
+          "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/1792751536-77041-1e190d92.jpg?format=jpeg&quality=80&width=1200"
         }
-      ]
+      ],
+      "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/1792751536-77041-1e190d92.jpg?format=jpeg&quality=80&width=1200",
+      "image_source": "https://www.broadwayworld.com/bwwtv/article/ADLA-Reacts-to-Nicole-Kidman-Mentioning-Her-Teaches-Swaggerina-Moves-20261023"
     },
     {
       "title": "ADÉLA Performs 'Nicole Kidman'/'Ain't In LA' Medley On Fallon",
@@ -93,9 +97,13 @@
       "outlets": [
         {
           "source": "BroadwayWorld",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZEpqRmViQmpJWGFQWFQxbDJOS0o3RVBsTEJBT3pfNUZLUnVNbHdBSGhqa0s5VWpuV0JkYXRkVXhzc3VyVE45TUhfOU9xMmtQV3MwLUptMS1pcUhoVlBmZnBnTDQ3bUNqYzFtRjFoNmVYTnR3bHhleUFtM0xidzBWeHRkcDN5dXlRRy0tV0VCU3ExcDYtdzk1WURSbjUtN1JCX3R4WExqdm56eEE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZEpqRmViQmpJWGFQWFQxbDJOS0o3RVBsTEJBT3pfNUZLUnVNbHdBSGhqa0s5VWpuV0JkYXRkVXhzc3VyVE45TUhfOU9xMmtQV3MwLUptMS1pcUhoVlBmZnBnTDQ3bUNqYzFtRjFoNmVYTnR3bHhleUFtM0xidzBWeHRkcDN5dXlRRy0tV0VCU3ExcDYtdzk1WURSbjUtN1JCX3R4WExqdm56eEE?oc=5",
+          "article_url": "https://www.broadwayworld.com/bwwtv/article/ADLA-Performs-Nicole-KidmanAint-In-LA-Medley-On-Fallon-20261023",
+          "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/1792751535-77039-776b0eab.jpg?format=jpeg&quality=80&width=1200"
         }
-      ]
+      ],
+      "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/1792751535-77039-776b0eab.jpg?format=jpeg&quality=80&width=1200",
+      "image_source": "https://www.broadwayworld.com/bwwtv/article/ADLA-Performs-Nicole-KidmanAint-In-LA-Medley-On-Fallon-20261023"
     }
   ]
 }

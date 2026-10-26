@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Geo News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYzRCOUkxV3ZmbDl1UzZEYU1wV0VLdF9DVElHLXI1ZkU2djRya1R6X1NWV2NpVjFzVW5CS3JJY21NMHBTMHZ6TUtEbHFNeFl1WG1OamV0alJ4SUY1bTlCdUU0bExfbUlNaVc1azd5UG5WRmNpNkM5OVdXcjd1NHlTd01ibWZtZWQwLTU0STY4MVdxdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYzRCOUkxV3ZmbDl1UzZEYU1wV0VLdF9DVElHLXI1ZkU2djRya1R6X1NWV2NpVjFzVW5CS3JJY21NMHBTMHZ6TUtEbHFNeFl1WG1OamV0alJ4SUY1bTlCdUU0bExfbUlNaVc1azd5UG5WRmNpNkM5OVdXcjd1NHlTd01ibWZtZWQwLTU0STY4MVdxdw?oc=5",
+          "article_url": "https://www.geo.tv/latest/687940-rebel-wilson-faces-fresh-delay-over-the-deb-legal-fight",
+          "image": "https://www.geo.tv/assets/uploads/updates/2026-10-23/687940_033015_updates.jpg"
         }
-      ]
+      ],
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-10-23/687940_033015_updates.jpg",
+      "image_source": "https://www.geo.tv/latest/687940-rebel-wilson-faces-fresh-delay-over-the-deb-legal-fight"
     },
     {
       "title": "Rebel Wilson trial pushed back to March 2027",

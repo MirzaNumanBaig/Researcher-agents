@@ -57,9 +57,13 @@
       "outlets": [
         {
           "source": "Scottish Daily Express",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR09WR2RSRWdkc216eVJFN0s0TlM5d1JKaFBYblBadkIyZXhzclJKWE50SWZWdEtTekhWVFlBNV9kU1EyZUgxUHpNQTRmb0NnU2V1N01rcEYzd3lDZnFyRllIZjBhSDBxQzVxNU1oT1RVdm8zQnFHaDVXVTIwSlFJSko1LTdUeXM0UG5uSW1Nc9IBlAFBVV95cUxOOXpOQklhZXRUbUJPeWl5eFRvRGNRU0hmRDdMT3FIbVk2ZEI5Zy1BYS12V0hfLVR5SXF0UDVGMkNFV3JObUY2Z3pSZHBZclh1MFlKS3RCSTBtdkJka3loRDFwYjlmS0N1NnhzTjdodFV3aUI0UHFIeUtFSkZjUWhvTHREY3VvLXF6a3pKSHdlOS1LZ3RB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR09WR2RSRWdkc216eVJFN0s0TlM5d1JKaFBYblBadkIyZXhzclJKWE50SWZWdEtTekhWVFlBNV9kU1EyZUgxUHpNQTRmb0NnU2V1N01rcEYzd3lDZnFyRllIZjBhSDBxQzVxNU1oT1RVdm8zQnFHaDVXVTIwSlFJSko1LTdUeXM0UG5uSW1Nc9IBlAFBVV95cUxOOXpOQklhZXRUbUJPeWl5eFRvRGNRU0hmRDdMT3FIbVk2ZEI5Zy1BYS12V0hfLVR5SXF0UDVGMkNFV3JObUY2Z3pSZHBZclh1MFlKS3RCSTBtdkJka3loRDFwYjlmS0N1NnhzTjdodFV3aUI0UHFIeUtFSkZjUWhvTHREY3VvLXF6a3pKSHdlOS1LZ3RB?oc=5",
+          "article_url": "https://www.scottishdailyexpress.co.uk/comment/mairis-musings-im-joining-kate-37803237",
+          "image": "https://i2-prod.scottishdailyexpress.co.uk/article37803282.ece/ALTERNATES/s1200d/0_GettyImages-2300658575.jpg"
         }
-      ]
+      ],
+      "image": "https://i2-prod.scottishdailyexpress.co.uk/article37803282.ece/ALTERNATES/s1200d/0_GettyImages-2300658575.jpg",
+      "image_source": "https://www.scottishdailyexpress.co.uk/comment/mairis-musings-im-joining-kate-37803237"
     },
     {
       "title": "Todd Haynes Says He May Reunite With Cate Blanchett For ‘The Maids,’ A Jean Genet Adaptation",

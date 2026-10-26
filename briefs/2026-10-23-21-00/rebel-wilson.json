@@ -36,13 +36,19 @@
       "outlets": [
         {
           "source": "cedarnews.net",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanlVWUVoMk4xUFRHbi0zZ254LVl4UUlqcE1fVGhRbmFaSkIzM3FCUHhFbGhkUDBjM2lFOFA1RFJNQVJzampxZkJaenR5d1E5d1ZQYU5qVFNBRDZQWkR0VFV5RzdsWVhoYjV2OVRMemxmandwV0ZOc3A3V3JNelJQZHY3NEFlSGVLQTRN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanlVWUVoMk4xUFRHbi0zZ254LVl4UUlqcE1fVGhRbmFaSkIzM3FCUHhFbGhkUDBjM2lFOFA1RFJNQVJzampxZkJaenR5d1E5d1ZQYU5qVFNBRDZQWkR0VFV5RzdsWVhoYjV2OVRMemxmandwV0ZOc3A3V3JNelJQZHY3NEFlSGVLQTRN?oc=5",
+          "article_url": "",
+          "image": ""
         },
         {
           "source": "Brisbane Times",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWFVcFQ1dWxWSS00bld0a3NoS2J2cHdGQmZyLUZlTVo4dV9ZTDZwRnhLVHI3eVd0STFPVDk1aUttNmhpTXphRDFGdUtJYUxzV1hLU0tiNmV0WS12TE9KVnktZ05SS3RobGxfX2VoazNETW5vR0w3M21qc0x5X3Q3ZUp2R1FMa0VsNk93bEQ4WV9aclN0YzNhUGpZbVlyYWJvVUYwMlYyX0s?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWFVcFQ1dWxWSS00bld0a3NoS2J2cHdGQmZyLUZlTVo4dV9ZTDZwRnhLVHI3eVd0STFPVDk1aUttNmhpTXphRDFGdUtJYUxzV1hLU0tiNmV0WS12TE9KVnktZ05SS3RobGxfX2VoazNETW5vR0w3M21qc0x5X3Q3ZUp2R1FMa0VsNk93bEQ4WV9aclN0YzNhUGpZbVlyYWJvVUYwMlYyX0s?oc=5",
+          "article_url": "https://www.brisbanetimes.com.au/national/rebel-wilson-awarded-359k-in-legal-victory-20261023-p6187o.html",
+          "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/812d18a48fb33ba795c51a9b68301036c1444975"
         }
-      ]
+      ],
+      "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/812d18a48fb33ba795c51a9b68301036c1444975",
+      "image_source": "https://www.brisbanetimes.com.au/national/rebel-wilson-awarded-359k-in-legal-victory-20261023-p6187o.html"
     },
     {
       "title": "Rebel Wilson wins second court case with company awarded $10",
@@ -62,9 +68,13 @@
       "outlets": [
         {
           "source": "Mid-Day",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEZEUUdzSEpSaGJGcmhReDA4TVFYSDhSZWhNZmpCTkZmVlhlZVBhNm5jXzlsNFE4b0IyYWVUWVdCcmo0STJnWUtZUm5YdndubUxZaFBPYkptbXBDNkxWOGhteU9LTWFEUXpWSVQ2b2d1QW5UMlc5cXFzY3h1UFFoRTNwZW5GMXpRcXhBckRrZUNQM0o0LXBXRVc4a2Y3UWdzYklLbHM5bzJrXzhFSmhuek5PYmFKS2ZWaGxOZUlveTVCeWE4UHgtQmxNTDZ3b2ZPektZMXNwNGJyT2hDcGfSAeMBQVVfeXFMTmpYU21QM0Z1Ty15MHFJVUV4cmtIM2VrZUI0T3pUMnlFSnFkOTloOXJ2TVJkWlFULTNYNHF4N0djZy1hVG1aMFJhRXc2NlAtV3dWOU1vVDJiSHNreHdvbkctZmRncGdUX2syTTFUaHFRWlpYallBUXhtWjJpRUs5cnBWV2dwM0NlQXZuSFVCdTVidEQ1YkhIZkZWb2U1TFllRkxaVF96NUMwRlRDQnJ4RHlJbXJkV0dFRF9HazV2amJ0aGY5TTZGNEM0Rk1xcXkwRkNrWWlsUVVsSjRucDlrQV9sbjQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEZEUUdzSEpSaGJGcmhReDA4TVFYSDhSZWhNZmpCTkZmVlhlZVBhNm5jXzlsNFE4b0IyYWVUWVdCcmo0STJnWUtZUm5YdndubUxZaFBPYkptbXBDNkxWOGhteU9LTWFEUXpWSVQ2b2d1QW5UMlc5cXFzY3h1UFFoRTNwZW5GMXpRcXhBckRrZUNQM0o0LXBXRVc4a2Y3UWdzYklLbHM5bzJrXzhFSmhuek5PYmFKS2ZWaGxOZUlveTVCeWE4UHgtQmxNTDZ3b2ZPektZMXNwNGJyT2hDcGfSAeMBQVVfeXFMTmpYU21QM0Z1Ty15MHFJVUV4cmtIM2VrZUI0T3pUMnlFSnFkOTloOXJ2TVJkWlFULTNYNHF4N0djZy1hVG1aMFJhRXc2NlAtV3dWOU1vVDJiSHNreHdvbkctZmRncGdUX2syTTFUaHFRWlpYallBUXhtWjJpRUs5cnBWV2dwM0NlQXZuSFVCdTVidEQ1YkhIZkZWb2U1TFllRkxaVF96NUMwRlRDQnJ4RHlJbXJkV0dFRF9HazV2amJ0aGY5TTZGNEM0Rk1xcXkwRkNrWWlsUVVsSjRucDlrQV9sbjQ?oc=5",
+          "article_url": "https://www.mid-day.com/entertainment/hollywood-news/article/rebel-wilson-scores-second-legal-victory-thanks-court-after-the-deb-dispute-23656529",
+          "image": "https://images.mid-day.com/images/images/2026/oct/rebel-inst_1792727630256_d.jpg"
         }
-      ]
+      ],
+      "image": "https://images.mid-day.com/images/images/2026/oct/rebel-inst_1792727630256_d.jpg",
+      "image_source": "https://www.mid-day.com/entertainment/hollywood-news/article/rebel-wilson-scores-second-legal-victory-thanks-court-after-the-deb-dispute-23656529"
     },
     {
       "title": "Rebel Wilson Emerges Victorious in Legal Battle Over Film 'The Deb' Despite $10 Damages Award",
@@ -73,9 +83,13 @@
       "outlets": [
         {
           "source": "SSBCrack",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmZQN3BZLXNuckVjbXJyQ1duNUh5TjVoSHU4UUNPN2JhdGJBZHNVX3E0X1BsWjI2TmJRLVBXMXhmRk01Tkd3TVJxWmE5TkRUbWFHNzNJSFU1MWtvMUppMVJFZlRFRTVGQ3hRcjVDQS03Z25LM2cyS2lXeS1PVHJUbFA4d3Rodlg0VTRzQWJEVnhHcXREOVV0aDlKMVZhbTlobHRNbXNBa3ZQZWpDTy05UDQxUHR3a0xt?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmZQN3BZLXNuckVjbXJyQ1duNUh5TjVoSHU4UUNPN2JhdGJBZHNVX3E0X1BsWjI2TmJRLVBXMXhmRk01Tkd3TVJxWmE5TkRUbWFHNzNJSFU1MWtvMUppMVJFZlRFRTVGQ3hRcjVDQS03Z25LM2cyS2lXeS1PVHJUbFA4d3Rodlg0VTRzQWJEVnhHcXREOVV0aDlKMVZhbTlobHRNbXNBa3ZQZWpDTy05UDQxUHR3a0xt?oc=5",
+          "article_url": "https://news.ssbcrack.com/rebel-wilson-emerges-victorious-in-legal-battle-over-film-the-deb-despite-10-damages-award/",
+          "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Rebel-Wilson-Emerges-Victorious-in-Legal-Battle-Over-Film-The.jpeg"
         }
-      ]
+      ],
+      "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Rebel-Wilson-Emerges-Victorious-in-Legal-Battle-Over-Film-The.jpeg",
+      "image_source": "https://news.ssbcrack.com/rebel-wilson-emerges-victorious-in-legal-battle-over-film-the-deb-despite-10-damages-award/"
     },
     {
       "title": "Rebel Wilson trial faces delay due to health woes",
@@ -84,9 +98,13 @@
       "outlets": [
         {
           "source": "The News International",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYWlHUGFoT0VITkFYalBrUUF4QkRpbUVFMW5wTFk1dERMckY5MlB3RVRQdE9DU2dqSzg4S3B4dXB3cUZHX05xcXRRZnVJS1p5c005ekdzQkUtNi16a1Y4RFRKLXNyR0VCTjU4QmNXcnVseFJsbjRJWnk4cENrQi1PQVR4WDB2cW41elBEVDdmaVNKaW1aQ3fSAZIBQVVfeXFMTWFJVUJxdUtOUVVvMkpKOVd1SFlsTF9HeUFlT2ZPeFFMbXRuc0EwLTBaQ1JOaUVIUGFHdGd6SG9oX21vUEZwMVlpQTQ1MUQtajY5bjM4RTZtWHk5RkZ4MjNEUkpJM3hCSXFZMFRna2tZQ1BmUkdFOWl5dFI2c0lEdmpLYW1TM3RmMV9GMnVYR0lpcHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYWlHUGFoT0VITkFYalBrUUF4QkRpbUVFMW5wTFk1dERMckY5MlB3RVRQdE9DU2dqSzg4S3B4dXB3cUZHX05xcXRRZnVJS1p5c005ekdzQkUtNi16a1Y4RFRKLXNyR0VCTjU4QmNXcnVseFJsbjRJWnk4cENrQi1PQVR4WDB2cW41elBEVDdmaVNKaW1aQ3fSAZIBQVVfeXFMTWFJVUJxdUtOUVVvMkpKOVd1SFlsTF9HeUFlT2ZPeFFMbXRuc0EwLTBaQ1JOaUVIUGFHdGd6SG9oX21vUEZwMVlpQTQ1MUQtajY5bjM4RTZtWHk5RkZ4MjNEUkpJM3hCSXFZMFRna2tZQ1BmUkdFOWl5dFI2c0lEdmpLYW1TM3RmMV9GMnVYR0lpcHc?oc=5",
+          "article_url": "https://www.thenews.com.pk/latest/1420971-rebel-wilson-trial-faces-delay-due-to-health-woes",
+          "image": "https://www.thenews.com.pk/assets/uploads/2026-10-23/1420971_110137_updates.jpg"
         }
-      ]
+      ],
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-10-23/1420971_110137_updates.jpg",
+      "image_source": "https://www.thenews.com.pk/latest/1420971-rebel-wilson-trial-faces-delay-due-to-health-woes"
     },
     {
       "title": "Rebel Wilson scores second legal victory, says ‘two lawsuits, two wins’",
@@ -213,17 +231,25 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVWdITHNIRUNOUEpxeUFGaWl3Nkw0NXRhSXRZbmx4Q0FMdWI4MzR5cHNHZHRNem9UdW1LRjE2bTFiTVh2bVJkVF9LT2thcmlEdWpSVUg1V01MLVRYNzQ5aC1scXdhd3hRX1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVWdITHNIRUNOUEpxeUFGaWl3Nkw0NXRhSXRZbmx4Q0FMdWI4MzR5cHNHZHRNem9UdW1LRjE2bTFiTVh2bVJkVF9LT2thcmlEdWpSVUg1V01MLVRYNzQ5aC1scXdhd3hRX1E?oc=5",
+          "article_url": "https://www.imdb.com/it/news/ni66076210/?ref_=nwc_art_perm",
+          "image": ""
         },
         {
           "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWGZIWWhqeHdKQ01Ib2xsRWRuQk1vT09IN0JnZ2trakh5WGtJMFpKdmpXRWtIOXpjeDdjRkJJbnNldmg2cERlREUwOWc0ejRSWUd2T3ZBQjhLWFh0SFF3eWRzZHRVZzlWNjlyenJWYzZ1YXFyaEJBZE1JRE5kRzNPblBUU1ExWVJmQlQta29jNTZYYlNYemdfdHEzSHU4d0YwbzRnSU9NQ2NtakR0NGVndg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWGZIWWhqeHdKQ01Ib2xsRWRuQk1vT09IN0JnZ2trakh5WGtJMFpKdmpXRWtIOXpjeDdjRkJJbnNldmg2cERlREUwOWc0ejRSWUd2T3ZBQjhLWFh0SFF3eWRzZHRVZzlWNjlyenJWYzZ1YXFyaEJBZE1JRE5kRzNPblBUU1ExWVJmQlQta29jNTZYYlNYemdfdHEzSHU4d0YwbzRnSU9NQ2NtakR0NGVndg?oc=5",
+          "article_url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/31201c1760c6e17c017d649709e8347212f4ae61/843_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c18d68ffff68fdc17b6895d6095b5566"
         },
         {
           "source": "theguardian.com",
-          "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb"
+          "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://i.guim.co.uk/img/media/31201c1760c6e17c017d649709e8347212f4ae61/843_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c18d68ffff68fdc17b6895d6095b5566",
+      "image_source": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb"
     },
     {
       "title": "Rebel Wilson scores second legal victory, says ‘two lawsuits, two wins’",

@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Daily Mail",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObktodjN2WDZTWm0yX1lkWFBOd1VZal9UcDN4M0tzTl9FZEwwdUl4MW9JWWN5Vlo3d3dGeFFReWh2elUxeDk1R2sxZ1Y3dFNRVkNxNk9lTnlrNkxPREJRN0VtU21GVVZMSHdjZWlYaXRoMFBmdEpfYVpjV2J6VEhzNFpFaFBpcDktMGxsS1dMWGdDaVhGM3MxSV9GWdIBoAFBVV95cUxPc1NXczB1bGoweHNZVmlJbVZhc1lCVDJCTzFaT05qazVJWUMzS2hxVndYazl6eUNSdjRQc2NnLXNWRk01RVlFWHpKUzR2dDdtQm5iM0tCck9CU0FEek5lVTNVc0Y5cDBzcGQ2ck9sSmp4N29rWlRCeHNXb28xd2JkNkU5dU43WW5kU1huMzMzWnlMRlo3VXBaZDB3Y1FDUENZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObktodjN2WDZTWm0yX1lkWFBOd1VZal9UcDN4M0tzTl9FZEwwdUl4MW9JWWN5Vlo3d3dGeFFReWh2elUxeDk1R2sxZ1Y3dFNRVkNxNk9lTnlrNkxPREJRN0VtU21GVVZMSHdjZWlYaXRoMFBmdEpfYVpjV2J6VEhzNFpFaFBpcDktMGxsS1dMWGdDaVhGM3MxSV9GWdIBoAFBVV95cUxPc1NXczB1bGoweHNZVmlJbVZhc1lCVDJCTzFaT05qazVJWUMzS2hxVndYazl6eUNSdjRQc2NnLXNWRk01RVlFWHpKUzR2dDdtQm5iM0tCck9CU0FEek5lVTNVc0Y5cDBzcGQ2ck9sSmp4N29rWlRCeHNXb28xd2JkNkU5dU43WW5kU1huMzMzWnlMRlo3VXBaZDB3Y1FDUENZ?oc=5",
+          "article_url": "https://www.dailymail.com/tvshowbiz/article-16232501/Hugh-Jackman-girlfriend-Sutton-Foster.html",
+          "image": "https://i.dailymail.com/1s/2026/10/23/10/112044123-0-image-m-94_1792749085121.jpg"
         }
-      ]
+      ],
+      "image": "https://i.dailymail.com/1s/2026/10/23/10/112044123-0-image-m-94_1792749085121.jpg",
+      "image_source": "https://www.dailymail.com/tvshowbiz/article-16232501/Hugh-Jackman-girlfriend-Sutton-Foster.html"
     }
   ]
 }

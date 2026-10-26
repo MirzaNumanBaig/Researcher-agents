@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Fashion Times UK",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmRpTnE2ZDBEZmRBOVpwUkZFTHVybHhoMElacXUtUjhQTjIzZUY4cTJSdHIyWjFhSkRzaElLZnJuWnFLdzMyM2EyTDRLU3AyM1hReVRrN1ZSeTgwM3ZVeVBNRWtsY2IwY0pmQmNBb3A1aHFma1VONDRUVE5hQmRVaUtoc2lkWWwyTENJTXFMYThpVDFjbW9CVzRR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmRpTnE2ZDBEZmRBOVpwUkZFTHVybHhoMElacXUtUjhQTjIzZUY4cTJSdHIyWjFhSkRzaElLZnJuWnFLdzMyM2EyTDRLU3AyM1hReVRrN1ZSeTgwM3ZVeVBNRWtsY2IwY0pmQmNBb3A1aHFma1VONDRUVE5hQmRVaUtoc2lkWWwyTENJTXFMYThpVDFjbW9CVzRR?oc=5",
+          "article_url": "https://www.fashiontimes.co.uk/margot-robbie-sheer-armani-prive-gown-naked-dress-trend-1766183",
+          "image": "https://d.fashiontimes.co.uk/en/full/1784059/margot-robbie-naked-dress.png"
         }
-      ]
+      ],
+      "image": "https://d.fashiontimes.co.uk/en/full/1784059/margot-robbie-naked-dress.png",
+      "image_source": "https://www.fashiontimes.co.uk/margot-robbie-sheer-armani-prive-gown-naked-dress-trend-1766183"
     }
   ]
 }

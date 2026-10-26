@@ -9,9 +9,19 @@
       "outlets": [
         {
           "source": "Wales Online",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenVjQWo4eEJVWnZpZDg2akJtcFBwdGJidUtvbVdwcjhOUkJLakpFM1Fma1BNZHVvajhSWXlLTmFzajNCWXBZV3ZHaFR0TW1WZDFtN1lrd1NjSmdRR3IzMElGdlJobHYtOGtBRno4NGVESElPNkJHclpVTUZHUWJMTllWX1Z3cU1EckxaXzZvONIBlAFBVV95cUxQN1N1dFJ4YmxSTUpsNUtyeUF6OURYSkw1cVBGQ1pjM0ZTMnRYNzhHelZMbzBjeUh1SmEtaThXWVgyUHNkcE54SklCeThBelBwUWpfb2ZkcHVaQ0VPV2U2dmdaY0dxaWlOamlGWlhVeEFESU9nZ0ViYmo1M2xkTUI3ZWNkblBXd294ZEtvRHhaUXRHUWpC?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenVjQWo4eEJVWnZpZDg2akJtcFBwdGJidUtvbVdwcjhOUkJLakpFM1Fma1BNZHVvajhSWXlLTmFzajNCWXBZV3ZHaFR0TW1WZDFtN1lrd1NjSmdRR3IzMElGdlJobHYtOGtBRno4NGVESElPNkJHclpVTUZHUWJMTllWX1Z3cU1EckxaXzZvONIBlAFBVV95cUxQN1N1dFJ4YmxSTUpsNUtyeUF6OURYSkw1cVBGQ1pjM0ZTMnRYNzhHelZMbzBjeUh1SmEtaThXWVgyUHNkcE54SklCeThBelBwUWpfb2ZkcHVaQ0VPV2U2dmdaY0dxaWlOamlGWlhVeEFESU9nZ0ViYmo1M2xkTUI3ZWNkblBXd294ZEtvRHhaUXRHUWpC?oc=5",
+          "article_url": "https://www.walesonline.co.uk/lifestyle/tv/strictlys-delta-goodrem-set-suffer-34791729",
+          "image": "https://i2-prod.walesonline.co.uk/article34785472.ece/ALTERNATES/s1200d/3_580714.jpg"
+        },
+        {
+          "source": "Teesside Live",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU3kwSVF0dTZvZnJqTHFSYi1nNDg5YUNtRHBDYUlIemdEQUQ1Q1lsUWFJR3gtS0VvdDJranBfa1MxZ2l6Ymd5OVkwR3VrWjlQUEVHYUdGOWwtb2dOcXZDckZ3el9IVXpkRXdsRDh5VnRSenBPMHdQV2JIdndiNkREbnlENEU5RzU2?oc=5",
+          "article_url": "https://www.gazettelive.co.uk/news/tv/strictlys-delta-goodrem-set-suffer-34791729",
+          "image": "https://i2-prod.liverpoolecho.co.uk/news/tv/article34785472.ece/ALTERNATES/s1200/3_580714.jpg"
         }
-      ]
+      ],
+      "image": "https://i2-prod.walesonline.co.uk/article34785472.ece/ALTERNATES/s1200d/3_580714.jpg",
+      "image_source": "https://www.walesonline.co.uk/lifestyle/tv/strictlys-delta-goodrem-set-suffer-34791729"
     },
     {
       "title": "Who is Delta Goodrem? Meet Strictly Come Dancing 2026 contestant and singer",
@@ -20,9 +30,13 @@
       "outlets": [
         {
           "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0x6Z1ZvelE5Wm4zTGFudEpMNFd0RWRjakV1eHFTUmlqVlBjUGo4SjJVc053ZmFKVXZmMjBzRGhXaEVxX2dpNld5Z2c4SEJHZFNfUEdXX1RvTjYwSmd4SGhRdjU5RXNZWTBOako2UTdKZUt5V0ZPY1NmRUE0YVNJNjlJM1B6YXhzSmxhZlI4WmY2c2EtbEdwNjEtWm1KYm9uNm1VYl9iZ0NwYWZ0LVRIV0tEMXRNWHg4S0N6aQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0x6Z1ZvelE5Wm4zTGFudEpMNFd0RWRjakV1eHFTUmlqVlBjUGo4SjJVc053ZmFKVXZmMjBzRGhXaEVxX2dpNld5Z2c4SEJHZFNfUEdXX1RvTjYwSmd4SGhRdjU5RXNZWTBOako2UTdKZUt5V0ZPY1NmRUE0YVNJNjlJM1B6YXhzSmxhZlI4WmY2c2EtbEdwNjEtWm1KYm9uNm1VYl9iZ0NwYWZ0LVRIV0tEMXRNWHg4S0N6aQ?oc=5",
+          "article_url": "https://www.radiotimes.com/tv/entertainment/delta-goodrem-strictly-come-dancing-2026-contestant-age-instagram-explained/",
+          "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/09/strictly-come-dancin-2-89df732.jpg?resize=1200%2C630"
         }
-      ]
+      ],
+      "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/09/strictly-come-dancin-2-89df732.jpg?resize=1200%2C630",
+      "image_source": "https://www.radiotimes.com/tv/entertainment/delta-goodrem-strictly-come-dancing-2026-contestant-age-instagram-explained/"
     },
     {
       "title": "Delta Goodrem gives candid glimpse at injury recovery after Strictly Come Dancing future confirmed",

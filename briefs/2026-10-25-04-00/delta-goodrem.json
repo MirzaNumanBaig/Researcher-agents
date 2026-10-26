@@ -41,9 +41,13 @@
       "outlets": [
         {
           "source": "Eurovisionworld",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2OUlPV1dMbjBTUW8zTEdXdTdMZGxhUlcwbUlhZXY1dEdoUmV6VGJqZnFua2UwaG9ScE9jZjlBcXZUR3BfZ09tTGwyUnE2S0RCRG4zVTY5b01sVWhLUVZ3ZUhQTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2OUlPV1dMbjBTUW8zTEdXdTdMZGxhUlcwbUlhZXY1dEdoUmV6VGJqZnFua2UwaG9ScE9jZjlBcXZUR3BfZ09tTGwyUnE2S0RCRG4zVTY5b01sVWhLUVZ3ZUhQTQ?oc=5",
+          "article_url": "https://eurovisionworld.com/eurovision/2026/australia",
+          "image": "https://pix.eurovisionworld.com/pix/australia-2026-delta-goodrem-8.jpg"
         }
-      ]
+      ],
+      "image": "https://pix.eurovisionworld.com/pix/australia-2026-delta-goodrem-8.jpg",
+      "image_source": "https://eurovisionworld.com/eurovision/2026/australia"
     },
     {
       "title": "Delta Goodrem sends emotional message to fans ahead of Strictly return",

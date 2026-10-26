@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Daily Star",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSXpsbkpIWEg1X0tSSzZPT1NXdjJrR0ZRRm1xQktfdUpLeGpSV1dsVkRZaTM1andjSlRzWTFWUHY2cmJXTXc0R1FILUNTOV9sM3lNV2FzcU5wSlM0TVcwTUxRdExTWGRzX1JFdkt2M212TmV4QTV2V1ZLbWcwUW8xMg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSXpsbkpIWEg1X0tSSzZPT1NXdjJrR0ZRRm1xQktfdUpLeGpSV1dsVkRZaTM1andjSlRzWTFWUHY2cmJXTXc0R1FILUNTOV9sM3lNV2FzcU5wSlM0TVcwTUxRdExTWGRzX1JFdkt2M212TmV4QTV2V1ZLbWcwUW8xMg?oc=5",
+          "article_url": "https://www.dailystar.co.uk/tv/delta-goodrems-worrying-fate-sealed-37791866",
+          "image": "https://i2-prod.dailystar.co.uk/article37791864.ece/ALTERNATES/s1200d/1_Strictly-Come-Dancing-2026.jpg"
         }
-      ]
+      ],
+      "image": "https://i2-prod.dailystar.co.uk/article37791864.ece/ALTERNATES/s1200d/1_Strictly-Come-Dancing-2026.jpg",
+      "image_source": "https://www.dailystar.co.uk/tv/delta-goodrems-worrying-fate-sealed-37791866"
     }
   ]
 }
