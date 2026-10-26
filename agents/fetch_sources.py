@@ -5,6 +5,7 @@ Google News links are resolved to the real article first. Text is for reading/fa
 """
 import base64
 import html
+import http.cookiejar
 import json
 import re
 import sys
@@ -16,13 +17,18 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36", "Cookie": "CONSENT=YES+cb"}
-MAX_STORIES, MAX_OUTLETS, MAX_CHARS = 6, 3, 5000
+BROWSER = {"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "Accept-Language": "en-AU,en;q=0.9"}
+MAX_STORIES, MAX_OUTLETS, MAX_CHARS, ENOUGH = 6, 5, 5000, 2  # per story: try up to MAX_OUTLETS outlets, stop at ENOUGH readable ones
 MIN_CHARS = 300  # shorter than this is a cookie banner or a paywall stub, not an article
+NOT_ARTICLE = re.compile(r"/(list|lists|pictures|gallery|galleries|photos|mediaviewer|slideshow|video|videos)/", re.I)  # no story text to read there
+COOKIE_WALL = re.compile(r"no cookies|enable cookies|cookies (are|have been) (disabled|blocked)|we value your privacy|accept (all )?cookies|manage (your )?(cookie|privacy) (settings|preferences)", re.I)
 
 
 def get(url, data=None, headers=None):
-    req = urllib.request.Request(url, data=data, headers={**UA, **(headers or {})})
-    with urllib.request.urlopen(req, timeout=25) as r:
+    # a fresh cookie jar per request: sites such as News Corp bounce cookie-less visitors to a "No Cookies" page, then accept the redirect
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+    req = urllib.request.Request(url, data=data, headers={**UA, **BROWSER, **(headers or {})})
+    with opener.open(req, timeout=25) as r:
         return r.read().decode("utf-8", "replace")
 
 
@@ -109,12 +115,41 @@ class Text(HTMLParser):
             self.cur.append(data)
 
 
+def structured_text(page):
+    """Article text the page publishes as JSON-LD (articleBody) - complete even when the visible text is script-rendered."""
+    best = ""
+    for block in re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', page, re.S | re.I):
+        try:
+            data = json.loads(block)
+        except ValueError:
+            continue
+        stack = [data]
+        while stack:
+            x = stack.pop()
+            if isinstance(x, dict):
+                if isinstance(x.get("articleBody"), str) and len(x["articleBody"]) > len(best):
+                    best = x["articleBody"]
+                stack += list(x.values())
+            elif isinstance(x, list):
+                stack += x
+    return " ".join(html.unescape(re.sub(r"<[^>]+>", " ", best)).split())
+
+
 def read_page(url):
     real = resolve(url)
+    if NOT_ARTICLE.search(urllib.parse.urlparse(real).path):
+        raise RuntimeError("not an article (gallery, list or video page)")
+    page = get(real)
     p = Text()
-    p.feed(get(real))
+    p.feed(page)
     text = "\n\n".join(dict.fromkeys(p.paras))[:MAX_CHARS]
-    return real, " ".join(html.unescape(p.title).split()), text
+    body = structured_text(page)
+    if len(body) > len(text):
+        text = body[:MAX_CHARS]
+    title = " ".join(html.unescape(p.title).split())
+    if COOKIE_WALL.search(title) or (COOKIE_WALL.search(text) and len(text) < 1500):
+        raise RuntimeError("cookie or consent page instead of the article")
+    return real, title, text
 
 
 def main():
@@ -125,12 +160,16 @@ def main():
     parts, readable, tried = [], 0, 0
     for i, story in enumerate(brief["stories"][:MAX_STORIES], 1):
         parts.append(f"\n## Story {i}: {story['title']}\n")
+        got = 0
         for o in story["outlets"][:MAX_OUTLETS]:
+            if got >= ENOUGH:
+                break
             tried += 1
             try:
                 real, title, text = read_page(o["url"])
                 if len(text) >= MIN_CHARS:
                     readable += 1
+                    got += 1
                     parts.append(f"\n### {o['source']}: {title}\nURL: {real}\n\n{text}\n")
                 else:
                     parts.append(f"\n### {o['source']}\nURL: {real}\n(not usable: {'no readable text, likely paywalled or script-rendered' if not text else 'only a short stub'})\n")
