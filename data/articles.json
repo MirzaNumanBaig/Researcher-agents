@@ -1,5 +1,19 @@
 [
   {
+    "path": "articles/2026-10-26-21-00-rebel-wilson.md",
+    "title": "Rebel Wilson",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-26 21:00",
+    "celebrity": "Rebel Wilson",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text (only a paywalled Law360 stub; the site already covers this ruling)",
+    "rewrite_note": ""
+  },
+  {
     "path": "articles/2026-10-26-19-00-delta-goodrem.md",
     "title": "Delta Goodrem",
     "description": "",
