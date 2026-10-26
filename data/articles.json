@@ -1,5 +1,47 @@
 [
   {
+    "path": "articles/2026-10-26-18-00-chris-hemsworth.md",
+    "title": "",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-10-26 18:00",
+    "celebrity": "Chris Hemsworth",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text (only an IMDb list page with no news content)",
+    "rewrite_note": ""
+  },
+  {
+    "path": "articles/2026-10-26-18-00-margot-robbie.md",
+    "title": "Margot Robbie",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-26 18:00",
+    "celebrity": "Margot Robbie",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Both sources are Go Fug Yourself opinion slideshows (a Chanel retrospective and old Suicide Squad promo looks) with no new, verifiable news.",
+    "rewrite_note": ""
+  },
+  {
+    "path": "articles/2026-10-26-18-00-nicole-kidman.md",
+    "title": "Nicole Kidman",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-26 18:00",
+    "celebrity": "Nicole Kidman",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "The only story is a gossip piece about Jennifer Lopez's dating life that mentions Kidman only through anonymous tabloid claims about her marriage; no confirmed news.",
+    "rewrite_note": ""
+  },
+  {
     "path": "articles/2026-10-26-17-00-chris-hemsworth.md",
     "title": "Chris Hemsworth on the 2015 shoot he called brutal",
     "description": "Chris Hemsworth says making In the Heart of the Sea was exhausting and 'not fun', and he won't repeat the weight loss it demanded.",
