@@ -112,6 +112,28 @@ def fresh(lead, cfg, now):
     return not d or now - d <= timedelta(hours=cfg.get("max_age_hours", 48))
 
 
+def expired(lead, cutoff):
+    """True when the story is older than the cutoff (publish time, else the time we found it)."""
+    d = parse_date(lead.get("published")) or parse_date(lead.get("found"))
+    return bool(d and d < cutoff)
+
+
+def prune_briefs(cutoff):
+    """Delete briefs/<yyyy-mm-dd-hh-mm>/ folders older than the cutoff (articles are kept: they are the WordPress record)."""
+    removed = 0
+    for d in sorted((ROOT / "briefs").glob("*")):
+        try:
+            day = datetime.strptime(d.name[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
+        if d.is_dir() and day < cutoff:
+            for f in d.glob("*"):
+                f.unlink()
+            d.rmdir()
+            removed += 1
+    return removed
+
+
 def main():
     cfg = json.loads((ROOT / "config.json").read_text())
     names = cfg["celebrities"]
@@ -165,13 +187,15 @@ def main():
         if not l.get("celebrities") or not any(n in names for n in l["celebrities"]):
             continue  # celebrity was removed from config.json
         l["celebrities"] = [n for n in l["celebrities"] if n in names]
-        d = parse_date(l["published"])
-        if d and d < cutoff:
+        if expired(l, cutoff):
             continue
         if not relevant(l, cfg):
             continue
         leads.append(l)
     leads.sort(key=lambda l: l["published"] or "", reverse=True)
+    pruned = prune_briefs(cutoff)
+    if pruned:
+        print(f"{pruned} brief folder(s) older than {cfg['keep_days']} days deleted")
     LEADS.parent.mkdir(exist_ok=True)
     LEADS.write_text(json.dumps(leads, indent=2, ensure_ascii=False))
     new = sum(1 for l in leads if l.get("batch") == batch)

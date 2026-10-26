@@ -34,7 +34,8 @@
     "https://pagesix.com/feed/"
   ],
   "max_items_per_feed": 50,
-  "keep_days": 14,
+  "keep_days": 30,
+  "dashboard_hours": 48,
   "paused": false,
   "timezone": "Australia/Sydney",
   "profiles": {

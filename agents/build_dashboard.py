@@ -109,6 +109,8 @@ data = {
     "auto_send": cfg.get("auto_send", True),
     "ai_images": cfg.get("ai_images", True),
     "timezone": cfg.get("timezone", "UTC"),
+    "dashboard_hours": cfg.get("dashboard_hours", 48),
+    "keep_days": cfg.get("keep_days", 30),
     "interval_hours": cfg.get("interval_hours", 3),
     "last_run": usage.get("last_run"),
     "profiles": cfg.get("profiles", {}),

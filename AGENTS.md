@@ -55,7 +55,7 @@ Set `"ai_images": false` in `config.json` to stop generating images (posts then 
 Website truth: `publish_wordpress.py` runs hourly (`publish-wordpress.yml` cron) and after every collection. It checks every sent post against WordPress in batches (trashed or deleted -> `status: removed`, status changes follow)
 and writes the real post counts per status to `data/wp_sync.json`; the dashboard shows those numbers (drafts / pending review / published) and has a "Sync site" button to check now.
 Publish mode: the dashboard's "New articles go to" selector (also Setup) sets `wp_default_status` (draft / pending / publish); auto-send stamps every article it sends with the current value.
-Dashboard Stories view has Fresh / Used tabs: a story is Used once every celebrity in it has a finished article (sent, skipped, rejected, removed) for its run.
+Dashboard Stories view has two tabs: **Last 48 hours** (`dashboard_hours`, default 48) and **Archive** (older). Each story carries a chip with its article state (Published, Skipped by writer, Removed...). `collect_news.py` deletes stories and `briefs/` folders older than `keep_days` (default 30) on every run; `articles/` are never deleted (they are the WordPress record).
 
 ## Provider independence (who writes the articles is swappable)
 The repo is the hub: `briefs/` (input) -> any AI worker following `prompts/article.md` -> `articles/` (output) -> GitHub sends to WordPress.
