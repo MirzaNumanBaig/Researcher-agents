@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-27 02:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Troye Sivan Craves More Than the Dance Floor",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tYTd2UHBlc2lPbWhSMUdMWVlKckVnSWotcElZRzdySjhIUmJabVd3WThkcDFvYjVHeWFmb2dPUXNqOG9kTV9oNUNENld3Y3lMY0l1elRiUTNEcjhmM3NZZ0MyWHpUcXZnSnVwZU1XTF9SRk1nbEl1dQ?oc=5",
+      "published": "2026-10-26T12:00:25+00:00",
+      "outlets": [
+        {
+          "source": "W Magazine",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tYTd2UHBlc2lPbWhSMUdMWVlKckVnSWotcElZRzdySjhIUmJabVd3WThkcDFvYjVHeWFmb2dPUXNqOG9kTV9oNUNENld3Y3lMY0l1elRiUTNEcjhmM3NZZ0MyWHpUcXZnSnVwZU1XTF9SRk1nbEl1dQ?oc=5",
+          "article_url": "https://www.wmagazine.com/culture/troye-sivan-interview-shes-the-best",
+          "image": "https://imgix.bustle.com/uploads/image/2026/10/10/9019ffc0/wmag0526originalstroyesivan-extra-1.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4165&fp-y=0.385"
+        }
+      ],
+      "image": "https://imgix.bustle.com/uploads/image/2026/10/10/9019ffc0/wmag0526originalstroyesivan-extra-1.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4165&fp-y=0.385",
+      "image_source": "https://www.wmagazine.com/culture/troye-sivan-interview-shes-the-best"
+    }
+  ]
+}

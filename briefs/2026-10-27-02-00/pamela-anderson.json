@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-27 02:00",
+  "celebrity": "Pamela Anderson",
+  "stories": [
+    {
+      "title": "Pamela Anderson's 15,000-square-foot garden in Canada feeds food banks, churches, and neighbors",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjluNXBDZGxIOXVJUVBMRW00NmsyQkZTcFJER003a0JLRzRycVRMUXg5Qm5nR05GQ25zZGc2czBiYjFpOTAtRUNzQ2pqODFsWHl4QlREV2RKX1IybVJxZHc4bHZDZ3A3MHg2enVVRUtoaFM1b0t3bUlFRE5jZDZuQzZiVHAteFZpOGlJMGlMeGNzSkNuMlFSQ213QlItempiYXc?oc=5",
+      "published": "2026-10-26T02:15:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjluNXBDZGxIOXVJUVBMRW00NmsyQkZTcFJER003a0JLRzRycVRMUXg5Qm5nR05GQ25zZGc2czBiYjFpOTAtRUNzQ2pqODFsWHl4QlREV2RKX1IybVJxZHc4bHZDZ3A3MHg2enVVRUtoaFM1b0t3bUlFRE5jZDZuQzZiVHAteFZpOGlJMGlMeGNzSkNuMlFSQ213QlItempiYXc?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/pamela-andersons-15-000-square-021500766.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/a04f3761cbd617721636926330b79bbf55460ceab8afdc053a9fe9485f54bc1e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fa93fd3c84974f1fa0208bd854309733a.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/a04f3761cbd617721636926330b79bbf55460ceab8afdc053a9fe9485f54bc1e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fa93fd3c84974f1fa0208bd854309733a.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/pamela-andersons-15-000-square-021500766.html"
+    },
+    {
+      "title": "10 Times Pamela Anderson Landed Herself On The Worst-Dressed List",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUhJNDhQa0hYMWdDNWE4MXRpcGl4SXIwbGlvWmJRR2ZKX2NGU2VyWk9NOVdXdXNkcGtpNVVGSDB0YmE0ZGFmYWctc3JPNjFHTlFaZzJtTElHSlVtVzdpbTVlQVNLNTg3Vy1BTE1DeGN4elJ3cGJNTHZkZEZEQk9ZQ3pkZllscXN2RlpidzdzdHVkcVBMNTJRbWtR?oc=5",
+      "published": "2026-10-24T16:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Nicki Swift",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUhJNDhQa0hYMWdDNWE4MXRpcGl4SXIwbGlvWmJRR2ZKX2NGU2VyWk9NOVdXdXNkcGtpNVVGSDB0YmE0ZGFmYWctc3JPNjFHTlFaZzJtTElHSlVtVzdpbTVlQVNLNTg3Vy1BTE1DeGN4elJ3cGJNTHZkZEZEQk9ZQ3pkZllscXN2RlpidzdzdHVkcVBMNTJRbWtR?oc=5",
+          "article_url": "https://www.nickiswift.com/2289606/times-pamela-anderson-landed-herself-on-worst-dressed-list/",
+          "image": "https://www.nickiswift.com/img/gallery/10-times-pamela-anderson-landed-herself-on-the-worst-dressed-list/l-intro-1792077733.jpg"
+        }
+      ],
+      "image": "https://www.nickiswift.com/img/gallery/10-times-pamela-anderson-landed-herself-on-the-worst-dressed-list/l-intro-1792077733.jpg",
+      "image_source": "https://www.nickiswift.com/2289606/times-pamela-anderson-landed-herself-on-worst-dressed-list/"
+    }
+  ]
+}
