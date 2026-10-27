@@ -154,6 +154,12 @@ def wp(path, payload):
         return json.loads(r.read())
 
 
+def image_caption():
+    """Caption under AI featured images. IMG_CAPTION or config.json image_pipeline.caption; "off" (or empty) turns it off."""
+    c = os.environ.get("IMG_CAPTION", (CONFIG.get("image_pipeline") or {}).get("caption", "Illustration generated with AI"))
+    return "" if c.strip().lower() in ("", "off", "none", "false") else c.strip()
+
+
 def media_url(m):
     """Dashboard-sized picture URL of a WordPress media item (medium_large, else medium, else large, else the original)."""
     sizes = (m.get("media_details") or {}).get("sizes") or {}
@@ -321,7 +327,7 @@ def main():
                 img = featured_image(front)
                 if img:
                     try:
-                        media_id, image_url = upload_media(img[0], img[1], "Illustration generated with AI")
+                        media_id, image_url = upload_media(img[0], img[1], image_caption())
                         payload["featured_media"] = media_id
                         front = set_field(set_field(front, "wp_media_id", media_id), "wp_image", image_url)
                     except Exception as e:  # the article still goes out without its picture; it is retried on the next run
@@ -339,7 +345,7 @@ def main():
                 front = set_field(front, "status", "sent")
             elif status == "sent" and field(front, "wp_id") and featured_image(front):
                 img = featured_image(front)  # a sent article that got its image later (or whose upload failed)
-                media_id, image_url = upload_media(img[0], img[1], "Illustration generated with AI")
+                media_id, image_url = upload_media(img[0], img[1], image_caption())
                 post = wp(f"posts/{field(front, 'wp_id')}", {"featured_media": media_id})
                 front = set_field(set_field(front, "wp_media_id", media_id), "wp_image", image_url)
                 if want != field(front, "wp_synced"):

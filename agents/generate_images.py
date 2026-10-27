@@ -184,6 +184,16 @@ def sample():
     print(f"ok {MODEL}: {out} ({len(data) // 1024} KB, {OUT_W}x{OUT_H} {ext})")
 
 
+def brief_image(front):
+    """The news photo link in this article's brief (only used when image_pipeline.reference_images is on), else ''."""
+    slug = lambda t: re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")  # noqa: E731
+    try:
+        brief = json.loads((ROOT / "briefs" / slug(field(front, "batch")) / f"{slug(field(front, 'celebrity'))}.json").read_text())
+        return next((st["image"] for st in brief["stories"] if st.get("image")), "")
+    except (OSError, ValueError, KeyError):
+        return ""
+
+
 def main():
     if "--sample" in sys.argv:
         return sample()
@@ -197,6 +207,12 @@ def main():
     out_dir = ROOT / "articles" / "images"
     now = datetime.now(timezone.utc)
     done = failed = 0
+    try:  # the Article -> Image pipeline (agents/imagegen); any problem falls back to the writer's scene prompt below
+        from imagegen import config as icfg, llm as illm, pipeline as ipipe
+        use_pipeline, llm = icfg.get("enabled"), illm.get_llm()
+    except Exception as e:
+        print(f"image pipeline unavailable ({e}); using the writer's scene prompt", file=sys.stderr)
+        use_pipeline, llm = False, None
     for f in sorted((ROOT / "articles").glob("*.md"), reverse=True):
         if done >= limit:
             break
@@ -204,6 +220,29 @@ def main():
         have = field(front, "image") and (ROOT / "articles" / field(front, "image")).exists()
         # images are not stored in git: an article needs one until WordPress has it (wp_media_id) or the file exists in this run
         if field(front, "wp_media_id") or have or not wants_image(field(front, "status"), f.stem, "--include-pending" in sys.argv, now):
+            continue
+        res = None
+        if use_pipeline:
+            try:
+                res = ipipe.run(ipipe.article_from_front(front, body, f.stem, field, brief_image(front) if icfg.get("reference_images") else ""), llm=llm)
+            except Exception as e:
+                print(f"pipeline error for {f.name}: {e}; using the writer's scene prompt", file=sys.stderr)
+        if res is not None:
+            if not res["ok"]:  # rejected by the quality check on every attempt, or the API failed: better no image than a bad one
+                failed += 1
+                why = res["error"] or "; ".join(r for a in res["attempts"] for r in a["reasons"]) or "unknown"
+                print(f"FAIL {f.name}: no usable image ({why})", file=sys.stderr)
+                if any(c in res["error"] for c in ("HTTP 401", "HTTP 403", "HTTP 429")):
+                    break  # bad key or rate limit: stop instead of hammering the API
+                continue
+            data, ext = res["webp"], "webp"
+            front = set_field(front, "image_alt", res["alt"])
+            out_dir.mkdir(parents=True, exist_ok=True)
+            (out_dir / f"{f.stem}.{ext}").write_bytes(data)
+            front = set_field(front, "image", f"images/{f.stem}.{ext}")
+            f.write_text(f"---\n{front}\n---\n\n{body}")
+            done += 1
+            print(f"ok {f.name} -> images/{f.stem}.{ext} ({len(data)//1024} KB, {res['analysis']['story_type']}, {res['prompt_source']} prompt)")
             continue
         scene = scene_for(front)
         try:
