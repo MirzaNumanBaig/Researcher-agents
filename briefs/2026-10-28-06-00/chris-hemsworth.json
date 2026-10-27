@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-28 06:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "Luke Hemsworth’s Recovery Formula Involves a Wolverine Peptide Stack and PRP Injections",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qRGR4dTEwRHpwaDRnVXlqR2x2S3hxVlRvR1dlbWtPcmxueTh5RS1YSVBrU1RQTHAyeDRFd2tGazdOalpmSGt2LWw1V2NOSzNsRENRX2Z5Yl9hRFIyY0NwekRwSTkxWDVCbTVNWUhyUmtDTkU?oc=5",
+      "published": "2026-10-27T18:15:05+00:00",
+      "outlets": [
+        {
+          "source": "GQ",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qRGR4dTEwRHpwaDRnVXlqR2x2S3hxVlRvR1dlbWtPcmxueTh5RS1YSVBrU1RQTHAyeDRFd2tGazdOalpmSGt2LWw1V2NOSzNsRENRX2Z5Yl9hRFIyY0NwekRwSTkxWDVCbTVNWUhyUmtDTkU?oc=5",
+          "article_url": "https://www.gq.com/story/luke-hemsworth-recovery-routine-peptides",
+          "image": "https://media.gq.com/photos/6ae0b94b783db1490e00fbd9/16:9/w_1280,c_limit/108-L-Hemms.jpg"
+        }
+      ],
+      "image": "https://media.gq.com/photos/6ae0b94b783db1490e00fbd9/16:9/w_1280,c_limit/108-L-Hemms.jpg",
+      "image_source": "https://www.gq.com/story/luke-hemsworth-recovery-routine-peptides"
+    }
+  ]
+}
