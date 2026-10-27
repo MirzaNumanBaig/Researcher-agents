@@ -29,9 +29,9 @@
     "Aksel Hennie",
     "Alisha Boe",
     "Tobias Santelmann",
-    "Ingrid Bols\u00f8 Berdal",
+    "Ingrid Bolsø Berdal",
     "Anders Danielsen Lie",
-    "Thorbj\u00f8rn Harr",
+    "Thorbjørn Harr",
     "Liv Ullmann",
     "Ryan Reynolds",
     "Ryan Gosling",
@@ -230,7 +230,7 @@
       "photo_credit": "https://commons.wikimedia.org/wiki/File:Alisha_Boe_in_2018_crop.jpg"
     },
     "Tobias Santelmann": {},
-    "Ingrid Bols\u00f8 Berdal": {
+    "Ingrid Bolsø Berdal": {
       "instagram": "https://www.instagram.com/ingridbb_/",
       "x": "https://x.com/ingridbb_",
       "website": "http://www.ingridbb.com/",
@@ -242,7 +242,7 @@
       "photo": "img/anders-danielsen-lie.jpg",
       "photo_credit": "https://commons.wikimedia.org/wiki/File:Anders_Danielsen_Lie.jpg"
     },
-    "Thorbj\u00f8rn Harr": {
+    "Thorbjørn Harr": {
       "photo": "img/thorbj-rn-harr.jpg",
       "photo_credit": "https://commons.wikimedia.org/wiki/File:Thorbj%C3%B8rn_Harr.jpg"
     },
@@ -335,7 +335,7 @@
   },
   "interval_hours": 3,
   "auto_send": true,
-  "wp_default_status": "pending",
+  "wp_default_status": "publish",
   "article_batches_back": 20,
   "max_articles_per_run": 50,
   "site": {
