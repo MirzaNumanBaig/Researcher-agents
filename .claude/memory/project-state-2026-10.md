@@ -7,7 +7,7 @@ type: project
 Shipped and on `main` (all via branches then merge): publish fix (WordPress 400 from reading only 100 tags), publish fallback + failure-alert issue + tests, per-article image links, better source reading (cookie walls, JSON-LD, up to 5 outlets), dashboard Last-48-hours / Archive tabs with article-state chips, 30-day cleanup (`keep_days: 30`, `dashboard_hours: 48`), push retry script, wrapped actor picker with search (PR #6), 40 tracked actors (25 added; surnames Fox/Oh/Short/Williams/Anderson need full-name match), image generation only for approved / just-sent articles, FLUX model support plus a manual `test-image-model.yml` workflow.
 
 Decisions made 2026-10-27:
-- Featured-image model is **FLUX.1 schnell** (`@cf/black-forest-labs/flux-1-schnell`), chosen by the user after the sample comparison (klein 4B was the close second; DreamShaper looked bad). It is the code default; do not set a `CF_IMAGE_MODEL` secret, because a secret overrides the default. `ai_images` is turned on in the same change.
+- Featured-image model is **FLUX.1 schnell** (`@cf/black-forest-labs/flux-1-schnell`), chosen by the user after the sample comparison (klein 4B was the close second; DreamShaper looked bad). It is the code default (`MODEL` in agents/generate_images.py); the sending workflows do not pass a `CF_IMAGE_MODEL` secret, so a secret of that name has no effect. `ai_images` is turned on in the same change.
 - Memory lives in the repo at `.claude/memory/` (the cloud container is temporary), loaded by `CLAUDE.md` and `.claude/rules/memory.md`. The repo is public: never put secrets in memory.
 
 Pending / open:

@@ -1,6 +1,6 @@
 """Create one featured image per article with Cloudflare Workers AI (standard library only).
 
-Env (GitHub Actions secrets): CF_ACCOUNT_ID, CF_API_TOKEN.  Optional: CF_IMAGE_MODEL (default @cf/black-forest-labs/flux-1-schnell).
+Env (GitHub Actions secrets): CF_ACCOUNT_ID, CF_API_TOKEN.  The model is MODEL below (FLUX.1 schnell). CF_IMAGE_MODEL overrides it only where it is set explicitly (the test-image-model workflow, local runs); the sending workflows do not pass it.
 For every article whose status is pending/approved/sent and that has no `image:` yet, it reads the front matter `image_prompt`
 (a scene description the writer produced; never a real person), asks Cloudflare for an image, resizes and centre-crops it to exactly 1500x900 (config: OUT_WIDTH/OUT_HEIGHT), converts it to WebP (Pillow) and saves it as
 articles/images/<article-name>.webp (git-ignored; the publish step uploads it in the same run) and adds `image:` and `image_alt:` to the front matter. publish_wordpress.py uploads it
@@ -11,7 +11,7 @@ Only articles that are about to be (or were just) sent get an image, so no reque
   sent without wp_media_id         only when the article is at most RETRY_HOURS old (retries a failed upload; never backfills old posts)
 usage: generate_images.py [--max N] [--include-pending]
        generate_images.py --sample "scene" [--out file.webp]   one test image with CF_IMAGE_MODEL (nothing is saved to articles or WordPress)
-Models (override with CF_IMAGE_MODEL), all inside Cloudflare's free 10,000 neurons/day at your volume (neurons per 1536x896 image, 6 tiles, rounded up):
+Models (to change the live model, edit the MODEL default below), all inside Cloudflare's free 10,000 neurons/day at your volume (neurons per 1536x896 image, 6 tiles, rounded up):
   @cf/black-forest-labs/flux-2-klein-4b   ~156 (about 60 images/day free; multipart request, 1024x576 as proven in PR #5)
   @cf/black-forest-labs/flux-1-schnell    DEFAULT. ~70-110 (about 90+ images/day free; JSON, size not selectable)
   @cf/lykon/dreamshaper-8-lcm             the old default (its sample pictures were poor; price not in Cloudflare's table)
