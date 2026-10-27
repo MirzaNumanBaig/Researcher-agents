@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1paE1JbjZCUTdfUTVMU1ptRnlkT19uUlB2SjlFMmxLdWNEb0ROcmV3OWNnb1BSWWlPMFRhZnBPSzJEMmNuMU9VNkd3dmVONWJ4V0Z3TEFjdmtWa2k3d0h4N0FNb2t5WG8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1paE1JbjZCUTdfUTVMU1ptRnlkT19uUlB2SjlFMmxLdWNEb0ROcmV3OWNnb1BSWWlPMFRhZnBPSzJEMmNuMU9VNkd3dmVONWJ4V0Z3TEFjdmtWa2k3d0h4N0FNb2t5WG8?oc=5",
+          "article_url": "https://www.forbes.com/pictures/ehjh45edjhg/miranda-kerr/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/da07036237e9c774079cedf184269389/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
         }
-      ]
+      ],
+      "image": "https://imageio.forbes.com/specials-images/imageserve/da07036237e9c774079cedf184269389/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+      "image_source": "https://www.forbes.com/pictures/ehjh45edjhg/miranda-kerr/"
     }
   ]
 }

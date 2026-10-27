@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEFGbG5fYl9SVnN3Wm51bzZrbkFMNHpqY185QUo4bmwxRWVVUWFYS21Nb3NWR28wZll3dkFaUnVuc2JnNFNQXzFhZE1zSkl0aDZOenZOM1otbEFBNk1jYnF4Mmg2MXhMdm8zeDdfY3NsNkZicjhiTlRrZE42emFYeS1jOUw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEFGbG5fYl9SVnN3Wm51bzZrbkFMNHpqY185QUo4bmwxRWVVUWFYS21Nb3NWR28wZll3dkFaUnVuc2JnNFNQXzFhZE1zSkl0aDZOenZOM1otbEFBNk1jYnF4Mmg2MXhMdm8zeDdfY3NsNkZicjhiTlRrZE42emFYeS1jOUw?oc=5",
+          "article_url": "https://www.forbes.com/pictures/ehgm45egejk/margot-robbie-in-van-cleef-arpels/",
+          "image": "https://imageio.forbes.com/blogs-images/anthonydemarco/files/2015/02/7836b8880de16e6be804e82ecba53370_13167.jpg?format=jpg&height=491&width=655&fit=bounds"
         }
-      ]
+      ],
+      "image": "https://imageio.forbes.com/blogs-images/anthonydemarco/files/2015/02/7836b8880de16e6be804e82ecba53370_13167.jpg?format=jpg&height=491&width=655&fit=bounds",
+      "image_source": "https://www.forbes.com/pictures/ehgm45egejk/margot-robbie-in-van-cleef-arpels/"
     }
   ]
 }

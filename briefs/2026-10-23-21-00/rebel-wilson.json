@@ -217,9 +217,13 @@
       "outlets": [
         {
           "source": "Yahoo Creators",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYjF5QkZpeW1IUXFmVkxjRm9PQVFrQjRORU9abnFMd0E4clp0eWlOaVNqSFNUYWlaakY0Nk13U25oalJIV2hxQkoyQ3M2aTY1dVJORGNxZWxIM3FJY0hFbjJBeE9pYXQ2akN0elJpQW9nYlRPTUxWcVpPUFhKai00bjBkeGY2Y19nWVFhaVQydXVpY2FTSFptRzZLdEt5UkZ5bURhaWFCVGl3TFVfR25qRXV6SjJTSURmWUd2UUgyZDdBZ0hjZ2NzT0FZTVA4M3hVS1JnQU5LRHVoUUF2QmxuZkkxaVZ1WGZoU2xmYXRqNVdpd2tXUlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYjF5QkZpeW1IUXFmVkxjRm9PQVFrQjRORU9abnFMd0E4clp0eWlOaVNqSFNUYWlaakY0Nk13U25oalJIV2hxQkoyQ3M2aTY1dVJORGNxZWxIM3FJY0hFbjJBeE9pYXQ2akN0elJpQW9nYlRPTUxWcVpPUFhKai00bjBkeGY2Y19nWVFhaVQydXVpY2FTSFptRzZLdEt5UkZ5bURhaWFCVGl3TFVfR25qRXV6SjJTSURmWUd2UUgyZDdBZ0hjZ2NzT0FZTVA4M3hVS1JnQU5LRHVoUUF2QmxuZkkxaVZ1WGZoU2xmYXRqNVdpd2tXUlE?oc=5",
+          "article_url": "https://creators.yahoo.com/lifestyle/story/i-dont-think-ill-ever-have-a-bikini-body-rebel-wilson-shares-candid-weight-loss-update-many-can-relate-to-175827634.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/f8c26443cf6e9b978e22482a95fff51fb38c9b44c65882f7a57e38e11ce81b9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Frebel-wilson-feature-image_7083.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/f8c26443cf6e9b978e22482a95fff51fb38c9b44c65882f7a57e38e11ce81b9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Frebel-wilson-feature-image_7083.jpg",
+      "image_source": "https://creators.yahoo.com/lifestyle/story/i-dont-think-ill-ever-have-a-bikini-body-rebel-wilson-shares-candid-weight-loss-update-many-can-relate-to-175827634.html"
     },
     {
       "title": "Rebel Wilson gives up Sydney home amid Aussie property exodus",

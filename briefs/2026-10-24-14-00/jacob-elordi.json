@@ -20,13 +20,19 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9INGx0enkxSkdfMW5oTzB2YV9yeE1zVXZ4a1BveGp3YWM2TTl4UmF1dV9va0ZfdWV0TFpNOWR0LXFHam1HZmlZdExXNFA3S2xCX1p1UlNNVDRfYngyWEprWHVuWmwxbTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9INGx0enkxSkdfMW5oTzB2YV9yeE1zVXZ4a1BveGp3YWM2TTl4UmF1dV9va0ZfdWV0TFpNOWR0LXFHam1HZmlZdExXNFA3S2xCX1p1UlNNVDRfYngyWEprWHVuWmwxbTQ?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66079193/?ref_=ttnw_art_perm",
+          "image": ""
         },
         {
           "source": "MovieWeb",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13cnlaeUtkTkgwUGtPQ2xqRzRWWXRIOTBGbk95eEtrUVdUVzU0dnhKc2NPdnk2MUI2cTE0MWJFYUU4eVgybjFjSnNwdXpuejlCelpoNkRYYjU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13cnlaeUtkTkgwUGtPQ2xqRzRWWXRIOTBGbk95eEtrUVdUVzU0dnhKc2NPdnk2MUI2cTE0MWJFYUU4eVgybjFjSnNwdXpuejlCelpoNkRYYjU?oc=5",
+          "article_url": "https://movieweb.com/james-bond-26-finalists/",
+          "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2025/11/daniel-craig-as-james-bond-in-skyfall.jpg?w=1600&h=900&fit=crop"
         }
-      ]
+      ],
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2025/11/daniel-craig-as-james-bond-in-skyfall.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://movieweb.com/james-bond-26-finalists/"
     }
   ]
 }

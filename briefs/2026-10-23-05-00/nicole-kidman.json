@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "HELLO! Magazine",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDZ6cXlGb0loWEF1Z2pEMFFubTE4VzB1akpRRDVkc2dIc19aRTEwVVpiRklMRFJhUzU2Z082TTBjV3JhY19SQ3pZWUdxSVNhaWkyZ3RrNWVfdlFZWlF2aWFZUkFVckNtdzkyWENKNXo5R200NER6dXQxb1pnZ1JzbGt4aHhCb2ZOT1Q1d0xraFZYNTF2NG0w?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDZ6cXlGb0loWEF1Z2pEMFFubTE4VzB1akpRRDVkc2dIc19aRTEwVVpiRklMRFJhUzU2Z082TTBjV3JhY19SQ3pZWUdxSVNhaWkyZ3RrNWVfdlFZWlF2aWFZUkFVckNtdzkyWENKNXo5R200NER6dXQxb1pnZ1JzbGt4aHhCb2ZOT1Q1d0xraFZYNTF2NG0w?oc=5",
+          "article_url": "https://www.hellomagazine.com/us/930671/nicole-kidman-daughters-sunday-faith-big-difference/",
+          "image": "https://images.hellomagazine.com/horizon/landscape/1200/351e0566ca80-nicole-sunday-faith.jpg"
         }
-      ]
+      ],
+      "image": "https://images.hellomagazine.com/horizon/landscape/1200/351e0566ca80-nicole-sunday-faith.jpg",
+      "image_source": "https://www.hellomagazine.com/us/930671/nicole-kidman-daughters-sunday-faith-big-difference/"
     },
     {
       "title": "Nicole Kidman brings back her ‘Babygirl’ energy in a striking suit look at the Victoria’s Secret fashion show",

@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUtxbUVDSGdnb2pHM2NQVnYwemxrNW1EaFZrMU9jTHNvWjRFRXlLWlN2cUZ2V0RrNV9jQVN6SVNIWlRWVkhGVGkxYlhCZU83XzBNdl83dUxKUTJWaGNPcHRSOGhleWlJSW9qSUhDV0tRWU9heEprcmk1aVdUZ1FQanFjcGhsMnlJSXZOdjY4UldpOTJDaHVZcFRSOU0weHJOcHQwZGgtS3prMlpkVUF6a2Fn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUtxbUVDSGdnb2pHM2NQVnYwemxrNW1EaFZrMU9jTHNvWjRFRXlLWlN2cUZ2V0RrNV9jQVN6SVNIWlRWVkhGVGkxYlhCZU83XzBNdl83dUxKUTJWaGNPcHRSOGhleWlJSW9qSUhDV0tRWU9heEprcmk1aVdUZ1FQanFjcGhsMnlJSXZOdjY4UldpOTJDaHVZcFRSOU0weHJOcHQwZGgtS3prMlpkVUF6a2Fn?oc=5",
+          "article_url": "https://tribune.com.pk/story/2636300/jacob-elordi-emerges-as-james-bond-favourite-amid-fresh-007-casting-rumours",
+          "image": "https://i.tribune.com.pk/media/images/fizza-fi-2026-02-19t115848-4011771484172-0/fizza-fi-2026-02-19t115848-4011771484172-0-640x480.webp"
         }
-      ]
+      ],
+      "image": "https://i.tribune.com.pk/media/images/fizza-fi-2026-02-19t115848-4011771484172-0/fizza-fi-2026-02-19t115848-4011771484172-0-640x480.webp",
+      "image_source": "https://tribune.com.pk/story/2636300/jacob-elordi-emerges-as-james-bond-favourite-amid-fresh-007-casting-rumours"
     }
   ]
 }

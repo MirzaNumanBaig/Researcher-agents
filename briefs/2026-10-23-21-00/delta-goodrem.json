@@ -45,9 +45,13 @@
       "outlets": [
         {
           "source": "Manchester Evening News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZkxrTGNOaVFjRzJmLWducENqSmxfazdKenVxREsxcHF6T05POVFVejh1SzJQZ2ZLckFDeWNIcWVMaGVIN0p2QTBtUjVPTHVmLU51NndlZ2FrWnVpSGctU3hIYUI0TGVrdGt6X1RpaVJOOUN2MUdQeGNzWFIwT2pZa1pfXzlXY2dFUEttSTRZZGwxSnd4V1dxSm1FUdIBmwFBVV95cUxNZkxrTGNOaVFjRzJmLWducENqSmxfazdKenVxREsxcHF6T05POVFVejh1SzJQZ2ZLckFDeWNIcWVMaGVIN0p2QTBtUjVPTHVmLU51NndlZ2FrWnVpSGctU3hIYUI0TGVrdGt6X1RpaVJOOUN2MUdQeGNzWFIwT2pZa1pfXzlXY2dFUEttSTRZZGwxSnd4V1dxSm1FUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZkxrTGNOaVFjRzJmLWducENqSmxfazdKenVxREsxcHF6T05POVFVejh1SzJQZ2ZLckFDeWNIcWVMaGVIN0p2QTBtUjVPTHVmLU51NndlZ2FrWnVpSGctU3hIYUI0TGVrdGt6X1RpaVJOOUN2MUdQeGNzWFIwT2pZa1pfXzlXY2dFUEttSTRZZGwxSnd4V1dxSm1FUdIBmwFBVV95cUxNZkxrTGNOaVFjRzJmLWducENqSmxfazdKenVxREsxcHF6T05POVFVejh1SzJQZ2ZLckFDeWNIcWVMaGVIN0p2QTBtUjVPTHVmLU51NndlZ2FrWnVpSGctU3hIYUI0TGVrdGt6X1RpaVJOOUN2MUdQeGNzWFIwT2pZa1pfXzlXY2dFUEttSTRZZGwxSnd4V1dxSm1FUQ?oc=5",
+          "article_url": "https://www.manchestereveningnews.co.uk/news/tv/delta-goodrem-gives-candid-glimpse-34799793.amp",
+          "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34799918.ece/ALTERNATES/s1200/1_JSR_MEN_221026_deltaGoodremjfif.jpg"
         }
-      ]
+      ],
+      "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34799918.ece/ALTERNATES/s1200/1_JSR_MEN_221026_deltaGoodremjfif.jpg",
+      "image_source": "https://www.manchestereveningnews.co.uk/news/tv/delta-goodrem-gives-candid-glimpse-34799793.amp"
     },
     {
       "title": "Strictly Come Dancing's Delta Goodrem \"in waves of tears\" ahead of comeback",

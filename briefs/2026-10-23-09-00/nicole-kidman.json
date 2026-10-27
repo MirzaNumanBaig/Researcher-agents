@@ -24,9 +24,13 @@
       "outlets": [
         {
           "source": "Far Out Magazine",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb2ZnNy1SNEpFd0xRbWpsQVdoaXJTaGZQSno3U184OG93ejdJTlhtMW1qRzBEVV85aEg5VV9hNm95Ylh4MkVVUXhiV1ptRkxhQ0taQWo1eW1oMms5c3RLQ29YOFQtWFZYWk9ZUnhHbHZueTlqb2V3NC1nLUNWcnNUdzB1TGw5NHVGYjFtMGhZY3hyVjRveHNoeS1Kaw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb2ZnNy1SNEpFd0xRbWpsQVdoaXJTaGZQSno3U184OG93ejdJTlhtMW1qRzBEVV85aEg5VV9hNm95Ylh4MkVVUXhiV1ptRkxhQ0taQWo1eW1oMms5c3RLQ29YOFQtWFZYWk9ZUnhHbHZueTlqb2V3NC1nLUNWcnNUdzB1TGw5NHVGYjFtMGhZY3hyVjRveHNoeS1Kaw?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/in-2014-nicole-kidman-walked-away-from-a-controversial-movie-role/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/10/In-2014-Nicole-Kidman-walked-away-from-a-controversial-movie-role.-Years-later-Eddie-Redmayne-regretted-taking-it-Far-Out-Magazine.jpg"
         }
-      ]
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/10/In-2014-Nicole-Kidman-walked-away-from-a-controversial-movie-role.-Years-later-Eddie-Redmayne-regretted-taking-it-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/in-2014-nicole-kidman-walked-away-from-a-controversial-movie-role/"
     }
   ]
 }
