@@ -7,10 +7,10 @@ on:
       model:
         description: Cloudflare model id
         type: choice
-        default: "@cf/black-forest-labs/flux-2-klein-4b"
+        default: "@cf/black-forest-labs/flux-1-schnell"
         options:
-          - "@cf/black-forest-labs/flux-2-klein-4b"
           - "@cf/black-forest-labs/flux-1-schnell"
+          - "@cf/black-forest-labs/flux-2-klein-4b"
           - "@cf/lykon/dreamshaper-8-lcm"
       scene:
         description: Scene to draw (never a real person)
