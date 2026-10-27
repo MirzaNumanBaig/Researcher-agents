@@ -13,6 +13,10 @@ sources:
 wp_id: 1039
 wp_link: "https://moduscarry.com/?p=1039"
 wp_synced: pending
+image: "images/2026-10-28-00-00-liam-hemsworth.webp"
+image_alt: "AI-generated illustration for: Liam Hemsworth and his brothers: careers and family"
+wp_media_id: 1070
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-liam-hemsworth-768x461.webp"
 ---
 
 **Quick summary**

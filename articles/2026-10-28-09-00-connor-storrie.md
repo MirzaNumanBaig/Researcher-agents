@@ -17,6 +17,10 @@ sources:
 wp_id: 1051
 wp_link: "https://moduscarry.com/?p=1051"
 wp_synced: pending
+image: "images/2026-10-28-09-00-connor-storrie.webp"
+image_alt: "AI-generated illustration for: Connor Storrie in Talks for Ryan Gosling's Ghost Rider"
+wp_media_id: 1094
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-connor-storrie-768x461.webp"
 ---
 
 **Quick summary**

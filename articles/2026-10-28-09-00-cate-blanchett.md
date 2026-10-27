@@ -15,6 +15,10 @@ sources:
 wp_id: 1050
 wp_link: "https://moduscarry.com/?p=1050"
 wp_synced: pending
+image: "images/2026-10-28-09-00-cate-blanchett.webp"
+image_alt: "AI-generated illustration for: Cate Blanchett receives Praemium Imperiale in Tokyo"
+wp_media_id: 1092
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-cate-blanchett-768x461.webp"
 ---
 
 **Quick summary**

@@ -13,6 +13,10 @@ sources:
 wp_id: 1037
 wp_link: "https://moduscarry.com/?p=1037"
 wp_synced: pending
+image: "images/2026-10-28-00-00-hudson-williams.webp"
+image_alt: "AI-generated illustration for: Hudson Williams' Yaga Lands on Lionsgate Play on 6 November"
+wp_media_id: 1066
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-hudson-williams-768x461.webp"
 ---
 
 **Quick summary**
