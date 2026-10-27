@@ -112,9 +112,13 @@
       "outlets": [
         {
           "source": "GeekTyrant",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXlQNjNmZFNZWUEyM2F2WjZqeEJuMERxQlUtbHpCN1JPeXdvMUFHek1ueFRSSy1kUUFPVk1nZUtsZWdLVkVrU18xaFdsTVZaRzZlakpDX2otQ3lURHBNSmpQVlZoRjcxSXU3NVVTM3hFMlJiU19hN2FMRDdSa3BDSHoxQm15T19IdnFMWUdzUzBNa0hXRVVQWjY0Z20?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXlQNjNmZFNZWUEyM2F2WjZqeEJuMERxQlUtbHpCN1JPeXdvMUFHek1ueFRSSy1kUUFPVk1nZUtsZWdLVkVrU18xaFdsTVZaRzZlakpDX2otQ3lURHBNSmpQVlZoRjcxSXU3NVVTM3hFMlJiU19hN2FMRDdSa3BDSHoxQm15T19IdnFMWUdzUzBNa0hXRVVQWjY0Z20?oc=5",
+          "article_url": "https://geektyrant.com/news/jacob-elordi-reportedly-cast-as-the-next-007-in-james-bond-franchise",
+          "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ad8b424ff2023131e162b30/1792603633780/New%2B007%2BReport%2BClaims%2BJacob%2BElordi%2BIs%2BEmerging%2Bas%2Bthe%2BFavorite%2Bfor%2Bthe%2BNext%2BJames%2BBond.webp?format=1500w"
         }
-      ]
+      ],
+      "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ad8b424ff2023131e162b30/1792603633780/New%2B007%2BReport%2BClaims%2BJacob%2BElordi%2BIs%2BEmerging%2Bas%2Bthe%2BFavorite%2Bfor%2Bthe%2BNext%2BJames%2BBond.webp?format=1500w",
+      "image_source": "https://geektyrant.com/news/jacob-elordi-reportedly-cast-as-the-next-007-in-james-bond-franchise"
     },
     {
       "title": "James Bond Is Down to Jacob Elordi, Jack Lowden and a Mystery Actor — Announcement Expected Soon",

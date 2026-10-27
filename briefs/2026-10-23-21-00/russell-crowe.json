@@ -46,9 +46,13 @@
       "outlets": [
         {
           "source": "Media Play News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNE1xRjEtbUN5V1B6Tl9pd0Y0VElsRXpIRGVPRzhacDhCek1HTERSZVVrLVkzeE9uSWVxYkhITExTQVNFdWRYNUJqZ2FKd1NzR1NqeEFKMWk0eTVvSUZMZlZZTkZOVVZtZHk3bXktbEZZMVJ4NUZMZWVKcW11SzNzQ0g3Tm0zVE9Pb2ROLWQtTXNHNkRwaVhhbFFlYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNE1xRjEtbUN5V1B6Tl9pd0Y0VElsRXpIRGVPRzhacDhCek1HTERSZVVrLVkzeE9uSWVxYkhITExTQVNFdWRYNUJqZ2FKd1NzR1NqeEFKMWk0eTVvSUZMZlZZTkZOVVZtZHk3bXktbEZZMVJ4NUZMZWVKcW11SzNzQ0g3Tm0zVE9Pb2ROLWQtTXNHNkRwaVhhbFFlYw?oc=5",
+          "article_url": "https://www.mediaplaynews.com/ethan-hawke-russell-crowe-movie-the-weight-now-available-via-vod/",
+          "image": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/10/Weight-trio.jpg"
         }
-      ]
+      ],
+      "image": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/10/Weight-trio.jpg",
+      "image_source": "https://www.mediaplaynews.com/ethan-hawke-russell-crowe-movie-the-weight-now-available-via-vod/"
     },
     {
       "title": "Russell Crowe’s ‘Mindhunter’ Replacement Officially Nears 500 Million Minute Mark",
@@ -111,13 +115,19 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwMXNjT3MzQVpCcjRxY1BYTzhlMHlNT2ZrczRybE1aQTk4UWFJeWVGTjFuMlg0WG5rZzcxZ2F0cVo1VGlHRVF6eml2blhPZkpoXzN3RkxkREhqSzZwMzlFajhOVGVkdTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwMXNjT3MzQVpCcjRxY1BYTzhlMHlNT2ZrczRybE1aQTk4UWFJeWVGTjFuMlg0WG5rZzcxZ2F0cVo1VGlHRVF6eml2blhPZkpoXzN3RkxkREhqSzZwMzlFajhOVGVkdTQ?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66078719/?ref_=ttnw_art_perm",
+          "image": ""
         },
         {
           "source": "Collider",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFY5WWFCcXJ3X1lFcnBYLW9QOTA2am41cFBqSGRmVWFpWGt3U2Fmbk9wOFJHdUR6cDctSGhLSVp0d3ZraHFDYmFERmo5WU5vSGRDeENiY3kyU1BWVHN5ZWFpRll2MmIybkI4QTYyUFdCYkVmSWczYXhub1YxY0pGUnlmRGpEc3RPclBMbE55b2FOa1FPckxaRGxNYlZvTVY3Y1Iw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFY5WWFCcXJ3X1lFcnBYLW9QOTA2am41cFBqSGRmVWFpWGt3U2Fmbk9wOFJHdUR6cDctSGhLSVp0d3ZraHFDYmFERmo5WU5vSGRDeENiY3kyU1BWVHN5ZWFpRll2MmIybkI4QTYyUFdCYkVmSWczYXhub1YxY0pGUnlmRGpEc3RPclBMbE55b2FOa1FPckxaRGxNYlZvTVY3Y1Iw?oc=5",
+          "article_url": "https://collider.com/russell-crowe-unabomber-streaming-success-netflix-october-2026-50-million-views/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/sleeping-dogs-russell-crowe.jpg?w=1600&h=900&fit=crop"
         }
-      ]
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/sleeping-dogs-russell-crowe.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://collider.com/russell-crowe-unabomber-streaming-success-netflix-october-2026-50-million-views/"
     }
   ]
 }

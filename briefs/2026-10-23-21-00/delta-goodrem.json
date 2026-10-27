@@ -60,9 +60,13 @@
       "outlets": [
         {
           "source": "Digital Spy",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjFTS2VDeXVuVnRCUXpyazg3ZDNDcjBWcFJYY2dJbXUyc2xuTTBydldmTWR3cUhXTElxVU9ENzRmX3JCQVVfTkp1TFN6c3MySmtGNjllS0E5VXY4SHZQOTBZUFNWZ09jTldjYVNPYnFxQ3ZXNVdaTUEzMDNYTm85VzhtMjJuWDZzdzcxTkc2U04yeGdXbDc2SXQ2N3JGbjc5SnFRcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjFTS2VDeXVuVnRCUXpyazg3ZDNDcjBWcFJYY2dJbXUyc2xuTTBydldmTWR3cUhXTElxVU9ENzRmX3JCQVVfTkp1TFN6c3MySmtGNjllS0E5VXY4SHZQOTBZUFNWZ09jTldjYVNPYnFxQ3ZXNVdaTUEzMDNYTm85VzhtMjJuWDZzdzcxTkc2U04yeGdXbDc2SXQ2N3JGbjc5SnFRcw?oc=5",
+          "article_url": "https://www.digitalspy.com/tv/reality-tv/a74209314/strictly-come-dancing-delta-goodrem-tears-comeback/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/abf19a89-f9fe-44e0-99f6-ce9c269bedb0.jpg?crop=0.755xw:0.669xh;0.204xw,0.0482xh&resize=1200:*"
         }
-      ]
+      ],
+      "image": "https://hips.hearstapps.com/hmg-prod/images/abf19a89-f9fe-44e0-99f6-ce9c269bedb0.jpg?crop=0.755xw:0.669xh;0.204xw,0.0482xh&resize=1200:*",
+      "image_source": "https://www.digitalspy.com/tv/reality-tv/a74209314/strictly-come-dancing-delta-goodrem-tears-comeback/"
     },
     {
       "title": "Strictly Come Dancing Delta Goodrem's promise to fans in fresh update after injury",

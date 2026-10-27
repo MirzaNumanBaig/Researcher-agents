@@ -1,5 +1,35 @@
 [
   {
+    "path": "articles/2026-10-28-10-00-chris-hemsworth.md",
+    "title": "Chris Hemsworth",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-28 10:00",
+    "celebrity": "Chris Hemsworth",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Only one thin aggregator story (SSBCrack) repeating an unverified Express Gazette property-value guess, with conflicting purchase dates (2014 vs 2017); no confirmed news.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-10-28-10-00-jacob-elordi.md",
+    "title": "Jacob Elordi",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-28 10:00",
+    "celebrity": "Jacob Elordi",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Only one source: an unnamed-insider Substack rumour (via Geo News) linking Kendall Jenner to Elordi missing out on James Bond, which the outlet itself says has no verified evidence; the site already has several posts on this topic.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
     "path": "articles/2026-10-28-09-00-cate-blanchett.md",
     "title": "Cate Blanchett receives Praemium Imperiale in Tokyo",
     "description": "Cate Blanchett is honoured with the 2026 Praemium Imperiale for Theatre/Film at a Tokyo ceremony on 28 October, alongside four other laureates.",

@@ -43,17 +43,25 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0U283RTk5THVpMkV6aTN3ZG1SNFVyRkN1NTU2dUlRRUhTQTIzWlJyMmxHWWtGRy1YLVNOck5KU0RJNDFfRUQ0TGRialh4U1pnTmFjcV9MTkJ3QmxDZHExdHZKTWpJUXB0UTJPM3lRWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0U283RTk5THVpMkV6aTN3ZG1SNFVyRkN1NTU2dUlRRUhTQTIzWlJyMmxHWWtGRy1YLVNOck5KU0RJNDFfRUQ0TGRialh4U1pnTmFjcV9MTkJ3QmxDZHExdHZKTWpJUXB0UTJPM3lRWQ?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66073565/?ref_=int_nwr_3",
+          "image": ""
         },
         {
           "source": "BroadwayWorld",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR0hRYTVKN01oRUx3MWFmWElVNmQ3SGpPaWc1VmYzdnpjSDRQeFdpdW5ZUXNWZ3dqX1R2Z3JXVU13SUFoRXg5alI4M2FJOUlQenRUbWZDZ0tKRi1CMk8yRnliQUNvYzJqLXMyM0M5Wko5bW5pSVJUVmtTcnJ6bnk4Rk1RdzVBbERnWlRWQmFRY3loWHpfc1ZvSFMxNmhSTzRsbi13VHNLMEhGaTFVUDFUNkgzMGZTM0NHaHpIZkZkTnVWR0U2VmVz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR0hRYTVKN01oRUx3MWFmWElVNmQ3SGpPaWc1VmYzdnpjSDRQeFdpdW5ZUXNWZ3dqX1R2Z3JXVU13SUFoRXg5alI4M2FJOUlQenRUbWZDZ0tKRi1CMk8yRnliQUNvYzJqLXMyM0M5Wko5bW5pSVJUVmtTcnJ6bnk4Rk1RdzVBbERnWlRWQmFRY3loWHpfc1ZvSFMxNmhSTzRsbi13VHNLMEhGaTFVUDFUNkgzMGZTM0NHaHpIZkZkTnVWR0U2VmVz?oc=5",
+          "article_url": "https://www.broadwayworld.com/article/Video-Sutton-Foster-Hugh-Jackman-Duet-on-Million-Dreams-From-THE-GREATEST-SHOWMAN-20261021",
+          "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/Video-Sutton-Foster-Hugh-Jackman-Duet-on-Million-Dreams-From-THE-GREATEST-SHOWMAN-1792599897.jpg?format=jpeg&quality=80&width=1200"
         },
         {
           "source": "Playbill",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGZXeGxoMDMzWUtYNjEyLUp4ajRYZElLa0d3dDE4aEtiTlg1SU00am1ISUdnZk1CUFVla3pVTjZlN0lQNVozYnNpand6RzFHaXQ5LVoyWDIyZW5kLW9wekJvOTl4ZmxOQkVtNHE2Z2p3WTE3anlBWkZHYzBKZnh0X1RCVkhROTZGREpqNVdNZjFZcmZhOXloQnNIbF9aeEltdWJ1NUFwLXdZdHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGZXeGxoMDMzWUtYNjEyLUp4ajRYZElLa0d3dDE4aEtiTlg1SU00am1ISUdnZk1CUFVla3pVTjZlN0lQNVozYnNpand6RzFHaXQ5LVoyWDIyZW5kLW9wekJvOTl4ZmxOQkVtNHE2Z2p3WTE3anlBWkZHYzBKZnh0X1RCVkhROTZGREpqNVdNZjFZcmZhOXloQnNIbF9aeEltdWJ1NUFwLXdZdHc?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/Video-Sutton-Foster-Hugh-Jackman-Duet-on-Million-Dreams-From-THE-GREATEST-SHOWMAN-1792599897.jpg?format=jpeg&quality=80&width=1200",
+      "image_source": "https://www.broadwayworld.com/article/Video-Sutton-Foster-Hugh-Jackman-Duet-on-Million-Dreams-From-THE-GREATEST-SHOWMAN-20261021"
     }
   ]
 }

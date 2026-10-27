@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "B&T",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTVzOEFQSFdpbjJnMkQ3S21xYWpvRmUyOWM5Y2M4dFVYYjBRVm1DczMyeEhGX0NIZjM4cW5KN0dBX0puNzNuTVpMQ3RfNU5TZjVtb1l1V1pjeEFHNjhUZDhiX1c0clBIOV96NkZnUGRfN1NXb2RXay1OV290VDFGM3hacDVBRlhCMHJ1bWRsZE5xT0JWQ3l5VkdHMmkxOUpjeDBMcnJB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTVzOEFQSFdpbjJnMkQ3S21xYWpvRmUyOWM5Y2M4dFVYYjBRVm1DczMyeEhGX0NIZjM4cW5KN0dBX0puNzNuTVpMQ3RfNU5TZjVtb1l1V1pjeEFHNjhUZDhiX1c0clBIOV96NkZnUGRfN1NXb2RXay1OV290VDFGM3hacDVBRlhCMHJ1bWRsZE5xT0JWQ3l5VkdHMmkxOUpjeDBMcnJB?oc=5",
+          "article_url": "https://www.bandt.com.au/archie-rose-pours-itself-into-the-us-market-with-cosmo5-group-chris-hemsworth/",
+          "image": "https://www.bandt.com.au/information/uploads/2026/10/ChrisHemsworth_WillEdwards_BottleLineup-scaled.jpg"
         }
-      ]
+      ],
+      "image": "https://www.bandt.com.au/information/uploads/2026/10/ChrisHemsworth_WillEdwards_BottleLineup-scaled.jpg",
+      "image_source": "https://www.bandt.com.au/archie-rose-pours-itself-into-the-us-market-with-cosmo5-group-chris-hemsworth/"
     }
   ]
 }

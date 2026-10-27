@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Social News XYZ",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNendoUnNrc3RkR0MxcWdpRUI5S3B6X0FyTWJxN212d0RNVm45blBKZzZjcnlNVFRVQ1Y1WkM3WHY3WUw5c21zWHZ6bU9WR2oxNkxCZDFaaDBfWi1hUDdHRkhBcmFleWdQeWg3ZEowc1ZGdXF6dHFSRmIzMUoyWHlHZ3NMS2EwekV3NzR6SlpxaVlNWjhSYXZJTmFobHhrbS1DaDlUaVVmZTIzd2U4Z3hMVWNWSnJ2NFE0MDMtNElZZ3FXYWN3dlMzdnpqQl95ZUlrbmVNb2ZJNNIB1wFBVV95cUxNendoUnNrc3RkR0MxcWdpRUI5S3B6X0FyTWJxN212d0RNVm45blBKZzZjcnlNVFRVQ1Y1WkM3WHY3WUw5c21zWHZ6bU9WR2oxNkxCZDFaaDBfWi1hUDdHRkhBcmFleWdQeWg3ZEowc1ZGdXF6dHFSRmIzMUoyWHlHZ3NMS2EwekV3NzR6SlpxaVlNWjhSYXZJTmFobHhrbS1DaDlUaVVmZTIzd2U4Z3hMVWNWSnJ2NFE0MDMtNElZZ3FXYWN3dlMzdnpqQl95ZUlrbmVNb2ZJNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNendoUnNrc3RkR0MxcWdpRUI5S3B6X0FyTWJxN212d0RNVm45blBKZzZjcnlNVFRVQ1Y1WkM3WHY3WUw5c21zWHZ6bU9WR2oxNkxCZDFaaDBfWi1hUDdHRkhBcmFleWdQeWg3ZEowc1ZGdXF6dHFSRmIzMUoyWHlHZ3NMS2EwekV3NzR6SlpxaVlNWjhSYXZJTmFobHhrbS1DaDlUaVVmZTIzd2U4Z3hMVWNWSnJ2NFE0MDMtNElZZ3FXYWN3dlMzdnpqQl95ZUlrbmVNb2ZJNNIB1wFBVV95cUxNendoUnNrc3RkR0MxcWdpRUI5S3B6X0FyTWJxN212d0RNVm45blBKZzZjcnlNVFRVQ1Y1WkM3WHY3WUw5c21zWHZ6bU9WR2oxNkxCZDFaaDBfWi1hUDdHRkhBcmFleWdQeWg3ZEowc1ZGdXF6dHFSRmIzMUoyWHlHZ3NMS2EwekV3NzR6SlpxaVlNWjhSYXZJTmFobHhrbS1DaDlUaVVmZTIzd2U4Z3hMVWNWSnJ2NFE0MDMtNElZZ3FXYWN3dlMzdnpqQl95ZUlrbmVNb2ZJNA?oc=5",
+          "article_url": "https://www.socialnews.xyz/2026/10/22/hugh-jackman-announces-the-prestige-return-to-theatres-for-its-twentieth-anniversary-in-imax-and-70mm/",
+          "image": "https://s3.socialnews.xyz/wp-content/uploads/2026/10/22/prestige8619701.jpg"
         }
-      ]
+      ],
+      "image": "https://s3.socialnews.xyz/wp-content/uploads/2026/10/22/prestige8619701.jpg",
+      "image_source": "https://www.socialnews.xyz/2026/10/22/hugh-jackman-announces-the-prestige-return-to-theatres-for-its-twentieth-anniversary-in-imax-and-70mm/"
     }
   ]
 }

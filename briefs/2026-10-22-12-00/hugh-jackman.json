@@ -20,13 +20,19 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16MEJvLXMxYnJ0UUZkWEE4ck1HaDl4VEtsTnNvZmlCNGdQREpoeFJsZnpHN3JMcHFIblFhcnY5ZDZmZEh1WmtJSGp1SU5TQkxKRFNJMXZ4eHF0MVpfaGQzcnBwR0ZUb28?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16MEJvLXMxYnJ0UUZkWEE4ck1HaDl4VEtsTnNvZmlCNGdQREpoeFJsZnpHN3JMcHFIblFhcnY5ZDZmZEh1WmtJSGp1SU5TQkxKRFNJMXZ4eHF0MVpfaGQzcnBwR0ZUb28?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66078707/?ref_=ttnw_art_perm",
+          "image": ""
         },
         {
           "source": "Collider",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2RGUzg0NlJZQk9fMkwyUlZaeDdhM3hCQzQwc3dBTkFLV2VZNE9aMkxCZWVoOWVoTVhxYWVmT0ZZbkowd3F5MUI5TXlaOWpXNE9rQlYxd0t0YU9uajhIenJPOWhYeGtpb2I0ZlJLT0J4THJ1UGhoYnpNdzg2WjRwS0RycU5PdDkzNkU4M1ltbzFJMmV3WFhSQW1LZTMydw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2RGUzg0NlJZQk9fMkwyUlZaeDdhM3hCQzQwc3dBTkFLV2VZNE9aMkxCZWVoOWVoTVhxYWVmT0ZZbkowd3F5MUI5TXlaOWpXNE9rQlYxd0t0YU9uajhIenJPOWhYeGtpb2I0ZlJLT0J4THJ1UGhoYnpNdzg2WjRwS0RycU5PdDkzNkU4M1ltbzFJMmV3WFhSQW1LZTMydw?oc=5",
+          "article_url": "https://collider.com/hugh-jackman-the-death-of-robin-hood-streaming-success-hbo-max-october-2026/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/the-death-of-robin-hood-hugh-jackman-interviews.jpg?w=1600&h=900&fit=crop"
         }
-      ]
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/the-death-of-robin-hood-hugh-jackman-interviews.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://collider.com/hugh-jackman-the-death-of-robin-hood-streaming-success-hbo-max-october-2026/"
     }
   ]
 }
