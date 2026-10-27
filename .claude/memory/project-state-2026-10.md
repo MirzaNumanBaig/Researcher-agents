@@ -12,12 +12,14 @@ Decisions made 2026-10-27:
 
 - Dashboard Articles view now has status tabs (Pending review / Drafts / Published / To approve / Skipped & other) and each card shows the post's featured image (`wp_image`, synced from WordPress by publish_wordpress.py).
 
-Pending / open:
-- Merge the branch that turns schnell images on; after it, recent sent posts (under 48 hours old) without an image get one on the next run, and posts then carry featured images.
+Merged to `main` 2026-10-27 23:07 UTC (commit fdf8dea): schnell is the default model, `ai_images` is true, dashboard cards show featured images with status tabs, memory lives in the repo. Tests, collect and Pages runs passed after the merge.
+
+Pending / open (verify each; they may be done by the time you read this):
+- Check the FIRST real image run: the hourly publisher (:17 past the hour) and the writer run's publish step. Look at the `generate_images.py` lines in the logs (`N image(s) created, M failed`), then confirm the dashboard Articles cards show images. Recent sent posts (under 48 hours old) without an image should get one. If it fails (401/403/429), read the error body before changing anything; sample runs on 2026-10-27 proved the two Cloudflare secrets work.
 - PR #5 (klein4b + featured-image skill) is open and conflicts with `main`; offer to rebase it (it would then only add the skill and prompt tweaks) or close it.
 - 12 merged remote branches are still on GitHub (deletion is blocked from this sandbox); the user can delete them. Only feature/klein4b-featured-images must stay.
-- The "Fill profiles" workflow was dispatched on 2026-10-26 and had not started (queued behind the long writer run on the shared `repo-writes` lock). Photos for the 25 new actors depend on it.
-- Writer is a single Claude account; many actors can hit its usage limit.
+- Profile fill finished: 39 of 40 actors have photos; Tobias Santelmann has none.
+- Writer is a single Claude account; with 40 actors it can hit its usage limit.
 
 **Why:** Context for resuming without re-deriving it.
 
