@@ -15,6 +15,8 @@ wp_link: "https://moduscarry.com/?p=1034"
 wp_synced: pending
 image: "images/2026-10-28-00-00-connor-storrie.webp"
 image_alt: "AI-generated illustration for: Connor Storrie's sci-fi thriller April X sets 27 November date"
+wp_media_id: 1106
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-connor-storrie-1-768x461.webp"
 ---
 
 **Quick summary**
