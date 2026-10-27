@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams' New Show Yaga: Noah Reid Steals Early Praise"
 description: "Hudson Williams stars in the new mystery series Yaga, but early reviews single out co-star Noah Reid. Here is what we know and when episode three arrives."
-status: pending
+status: sent
 wp_status: pending
 batch: "2026-10-27 12:00"
 celebrity: "Hudson Williams"
@@ -10,6 +10,9 @@ tags: ["Hudson Williams", "Heated Rivalry", "Schitt's Creek"]
 image_prompt: "A foggy small coastal fishing town at dusk, a lone hotel window glowing above a quiet harbour"
 sources:
   - "https://www.cinemablend.com/streaming-news/hudson-williams-new-show-yaga-noah-reid-stole-show"
+wp_id: 1027
+wp_link: "https://moduscarry.com/?p=1027"
+wp_synced: pending
 ---
 
 **Quick summary**
