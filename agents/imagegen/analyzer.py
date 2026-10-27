@@ -1,7 +1,10 @@
 """Step 1: understand the story. One LLM call returns JSON; rule-based fallbacks and safety checks guarantee a complete, valid result."""
+import logging
 import re
 
 from . import llm as llmmod
+
+log = logging.getLogger("imagegen")
 
 STORY_TYPES = ["relationship", "breakup", "wedding", "pregnancy", "red_carpet", "film_release", "trailer", "box_office", "award", "music_release",
                "concert", "feud", "legal", "scandal", "health", "tribute", "interview", "fashion", "travel", "reality_tv", "other"]
@@ -141,6 +144,7 @@ def analyze(headline, body="", category="", source_url="", reference="", llm=Non
         try:
             return normalize(llmmod.parse_json(llm.complete(SYSTEM, build_user(headline, body, category, source_url, reference), max_tokens=500, temperature=0.2)),
                              headline, body, category)
-        except (ValueError, llmmod.LLMError):
-            continue
+        except (ValueError, llmmod.LLMError) as e:
+            log.warning("story analysis: LLM answer unusable (%s)", str(e)[:300])
+    log.warning("story analysis: using the keyword rules")
     return heuristic(headline, body, category)

@@ -66,7 +66,7 @@ def run(article, preset=None, seed=None, llm="auto", save_meta=True):
               "model": config.get("image_model"), "variation": {k: pr[k] for k in ("shot", "angle", "lens", "palette")}}
     if save_meta:
         meta.save(key, {"article": key, "story_type": analysis["story_type"], "analysis": analysis, "prompt": pr["prompt"], "prompt_source": pr["source"],
-                        "prompt_notes": pr["notes"], "seed": used_seed, "model": result["model"], "preset": result["preset"], "alt": alt,
+                        "prompt_notes": pr["notes"], "seed": used_seed, "seed_supported": generator.seed_supported(), "model": result["model"], "preset": result["preset"], "alt": alt,
                         "ok": result["ok"], "error": error, "quality": attempts})
         if result["ok"]:
             meta.add_history({"article": key, **result["variation"], "prompt": pr["prompt"]})

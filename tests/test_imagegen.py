@@ -169,6 +169,7 @@ class PromptWriter(unittest.TestCase):
 class Mock(BaseHTTPRequestHandler):
     image_plan = []   # status codes to answer in order before success
     size_rejected = False
+    strict = False    # behave like Cloudflare's real schnell schema: only prompt and steps are accepted
     bodies = []
 
     def log_message(self, *a):
@@ -184,6 +185,13 @@ class Mock(BaseHTTPRequestHandler):
                 self.end_headers()
                 self.wfile.write(b'{"success": false}')
                 return
+            if Mock.strict:
+                extra = [k for k in ("seed", "width", "height") if k in body]
+                if extra:
+                    self.send_response(400)
+                    self.end_headers()
+                    self.wfile.write(json.dumps({"errors": [{"message": f"AiError: Bad input: Error: Additional or unevaluated properties '/{extra[0]}' at '/' not allowed", "code": 5006}], "success": False}).encode())
+                    return
             if "width" in body and Mock.size_rejected:
                 self.send_response(400)
                 self.end_headers()
@@ -201,14 +209,14 @@ class Mock(BaseHTTPRequestHandler):
 
 class Generator(unittest.TestCase):
     def setUp(self):
-        Mock.image_plan, Mock.size_rejected, Mock.bodies = [], False, []
+        Mock.image_plan, Mock.size_rejected, Mock.strict, Mock.bodies = [], False, False, []
         self.srv = HTTPServer(("127.0.0.1", 0), Mock)
         threading.Thread(target=self.srv.serve_forever, daemon=True).start()
         patcher = mock.patch.dict(os.environ, {"CF_ACCOUNT_ID": "a", "CF_API_TOKEN": "t", "CF_API_BASE": f"http://127.0.0.1:{self.srv.server_port}", "IMG_STEPS": "8"})
         patcher.start()
         self.addCleanup(patcher.stop)
         self.addCleanup(self.srv.shutdown)
-        generator._size_rejected = False
+        generator._rejected.clear()
         p = mock.patch.object(generator, "_sleep", lambda s: None)
         p.start()
         self.addCleanup(p.stop)
@@ -240,6 +248,17 @@ class Generator(unittest.TestCase):
         generator.generate("p")
         self.assertIn("width", Mock.bodies[0][1])
         self.assertNotIn("width", Mock.bodies[1][1])
+
+    def test_strict_api_drops_seed_and_size_one_field_at_a_time(self):
+        Mock.strict = True
+        raw, seed = generator.generate("p")
+        self.assertIsNone(seed)  # the API has no seed input: nothing is claimed
+        self.assertFalse(generator.seed_supported())
+        self.assertEqual([sorted(b) for _, b in Mock.bodies][0], ["height", "prompt", "seed", "steps", "width"])
+        self.assertEqual(sorted(Mock.bodies[-1][1]), ["prompt", "steps"])
+        n = len(Mock.bodies)
+        generator.generate("p")  # remembered: the next call goes out clean at once
+        self.assertEqual(len(Mock.bodies), n + 1)
 
     def test_fit_crops_to_target_without_stretching(self):
         from PIL import Image
@@ -275,14 +294,14 @@ class Checker(unittest.TestCase):
 
 class PipelineEndToEnd(unittest.TestCase):
     def setUp(self):
-        Mock.image_plan, Mock.size_rejected, Mock.bodies = [], False, []
+        Mock.image_plan, Mock.size_rejected, Mock.strict, Mock.bodies = [], False, False, []
         self.srv = HTTPServer(("127.0.0.1", 0), Mock)
         threading.Thread(target=self.srv.serve_forever, daemon=True).start()
         self.tmp = tempfile.TemporaryDirectory()
         patcher = mock.patch.dict(os.environ, {"CF_ACCOUNT_ID": "a", "CF_API_TOKEN": "t", "CF_API_BASE": f"http://127.0.0.1:{self.srv.server_port}",
                                                "IMG_META_DIR": self.tmp.name, "IMG_LLM_PROVIDER": "none"})
         patcher.start()
-        generator._size_rejected = False
+        generator._rejected.clear()
         for cleanup in (patcher.stop, self.srv.shutdown, self.tmp.cleanup):
             self.addCleanup(cleanup)
 
@@ -331,6 +350,12 @@ class AltAndCaption(unittest.TestCase):
         self.assertNotIn("Marlowe", alt)
         self.assertLessEqual(len(alt), 126)
         self.assertTrue(alt.startswith("Illustration of") and alt.endswith("."))
+
+    def test_long_alt_text_is_cut_at_a_phrase_not_mid_word(self):
+        a = dict(analyzer.heuristic("x"), setting="a flower-covered wedding venue", key_objects=["wedding rings", "a long white veil", "roses"],
+                 time_and_light="golden-hour sun from low behind the guests")
+        alt = publisher.alt_text(a, NAMES)
+        self.assertTrue(alt.endswith("a long white veil."), alt)
 
     def test_caption_can_be_turned_off(self):
         with mock.patch.dict(os.environ, {"IMG_CAPTION": "off"}):

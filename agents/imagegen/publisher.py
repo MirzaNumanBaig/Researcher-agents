@@ -24,7 +24,8 @@ def alt_text(analysis, names):
     text, _ = concept.strip_names(text, names)
     text = re.sub(r"\ban anonymous figure\b|\bthe figure\b", "a person", text)
     if len(text) > 125:
-        text = text[:125].rsplit(",", 1)[0].rsplit(" ", 1)[0] if "," in text[:125] else text[:125].rsplit(" ", 1)[0]
+        cut = text[:125]
+        text = cut.rsplit(",", 1)[0] if "," in cut else cut.rsplit(" ", 1)[0]  # cut at the last comma (whole phrases), else at a word boundary
     return text.rstrip(" ,.;") + "."
 
 

@@ -1,11 +1,14 @@
 """Step 3: write ONE natural-language FLUX.1 schnell prompt (60-120 words) in the order Subject, Action, Setting, Props, Camera, Lighting, Mood, Palette, Style.
 An LLM writes it when available; every result is cleaned and checked by concept.py, and a deterministic template is the fallback."""
 import json
+import logging
 import re
 from collections import Counter
 
 from . import concept, presets
 from . import llm as llmmod
+
+log = logging.getLogger("imagegen")
 
 SHOTS = ["wide establishing shot", "medium-wide shot", "medium shot", "close-up detail shot", "over-the-shoulder shot", "overhead shot"]
 ANGLES = ["eye-level", "slightly low angle", "high angle", "tilted angle", "from behind", "side-on view"]
@@ -124,12 +127,14 @@ def write_prompt(analysis, preset_name, history, names, llm=None, key=""):
                 raw = llm.complete(SYSTEM, user, max_tokens=400, temperature=0.8)
             except llmmod.LLMError as e:
                 notes.append(f"llm error: {e}")
+                log.warning("prompt writer: LLM error (%s); using the template", str(e)[:300])
                 break
             cleaned = concept.sanitize_prompt(raw, names)
             problems = concept.check_prompt(cleaned, names, analysis.get("sensitivity", "safe") if concept.is_sensitive(analysis) else "safe")
             if not problems:
                 return {"prompt": cleaned, **variation, "palette": palette, "source": "llm", "notes": notes}
             notes.append(f"attempt {attempt + 1} rejected: {'; '.join(problems)}")
+            log.info("prompt writer: LLM prompt rejected (%s)", "; ".join(problems))
             user += f"\nYour last prompt was rejected: {'; '.join(problems)}. Write it again and fix this."
     prompt = compose(analysis, preset, variation, palette, names)
     return {"prompt": prompt, **variation, "palette": palette, "source": "template", "notes": notes}
