@@ -9,13 +9,19 @@
       "outlets": [
         {
           "source": "Nine.com.au",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNG85UHp5eVNKY2d4M2hvRWNqYkljR0xxQWZEaXpoN1JpZ2xSbzlKTi1YdXZTM3BSRFNHYjZMMDlnWTZxa1drZDFpMXZ0WmdUTmVGZjYzTnNxd3pvX0dhVWJaZ3h6V1ZPTUU3RVdqUVV4TU5QcjQwMERvX1doRHFqcndaS3k4S2dVbHJMUGpWekN4RU5VR3JkcUFnenhKd1hsdXZ4YWdFSFJVbEt4MEVTQzRPU2lmWTkwTFJ1R3RiQWZPUzk3a1d6T2QybW9BVHVTd2s2VVl6REo?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNG85UHp5eVNKY2d4M2hvRWNqYkljR0xxQWZEaXpoN1JpZ2xSbzlKTi1YdXZTM3BSRFNHYjZMMDlnWTZxa1drZDFpMXZ0WmdUTmVGZjYzTnNxd3pvX0dhVWJaZ3h6V1ZPTUU3RVdqUVV4TU5QcjQwMERvX1doRHFqcndaS3k4S2dVbHJMUGpWekN4RU5VR3JkcUFnenhKd1hsdXZ4YWdFSFJVbEt4MEVTQzRPU2lmWTkwTFJ1R3RiQWZPUzk3a1d6T2QybW9BVHVTd2s2VVl6REo?oc=5",
+          "article_url": "https://www.nine.com.au/australia-news/today-show/videos/james-bond-shortlist-revealed-after-jacob-elordi-ruled-out/cmvk3brjh003k0hkpf7h7orrq",
+          "image": "https://imageresizer.static9.net.au/nNKux4coC_KiOF_0P29aZ_IUCDQ=/800x0/filters:no_upscale()/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F10%2F802512%2Fbond.jpg"
         },
         {
           "source": "7NEWS",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnZTanJpem0wWUJnT3RVU0ZjSG1xbjdoaFFHTGRHeWV6WktGMGh2QjRlSDBlYy1BWlg0ZWhuRkdfeVVvVlBOc2RSQnpHTmJPaFF2c1prRUM4emo2ZnBjVlVIZ1RVOWJXUDlqWUhMNnpmMl91dWRrTEdodjVuWmFpTFVQU2Q1aVVGbjFock5FSVVtbE1jSHRXeFUxVjY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnZTanJpem0wWUJnT3RVU0ZjSG1xbjdoaFFHTGRHeWV6WktGMGh2QjRlSDBlYy1BWlg0ZWhuRkdfeVVvVlBOc2RSQnpHTmJPaFF2c1prRUM4emo2ZnBjVlVIZ1RVOWJXUDlqWUhMNnpmMl91dWRrTEdodjVuWmFpTFVQU2Q1aVVGbjFock5FSVVtbE1jSHRXeFUxVjY?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://imageresizer.static9.net.au/nNKux4coC_KiOF_0P29aZ_IUCDQ=/800x0/filters:no_upscale()/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F10%2F802512%2Fbond.jpg",
+      "image_source": "https://www.nine.com.au/australia-news/today-show/videos/james-bond-shortlist-revealed-after-jacob-elordi-ruled-out/cmvk3brjh003k0hkpf7h7orrq"
     },
     {
       "title": "Jacob Elordi Won’t Screen Test for James Bond as Callum Turner and Jack Lowden Make the Cut (Report)",

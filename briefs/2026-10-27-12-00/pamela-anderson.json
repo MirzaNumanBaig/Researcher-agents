@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-27 12:00",
+  "celebrity": "Pamela Anderson",
+  "stories": [
+    {
+      "title": "Pamela Anderson: 5 Underrated Performances to Watch (October 2026)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX0h1UVJiWFZkcS1GMHdTWWhrbENUN21jTnp1SWZCSTBTN0ZXWEF5QURIdUhvQXRYWGY4MFluTy1oSWh6c255a1dYOHd0aEo2eGo0WDdWQWU5SXpUVS16eWItTllHSmJBZkNxVE8zeGl4S2ZqQnVqcFFsR3Z1bm9ZelJB?oc=5",
+      "published": "2026-10-26T23:00:27+00:00",
+      "outlets": [
+        {
+          "source": "Young Hollywood",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX0h1UVJiWFZkcS1GMHdTWWhrbENUN21jTnp1SWZCSTBTN0ZXWEF5QURIdUhvQXRYWGY4MFluTy1oSWh6c255a1dYOHd0aEo2eGo0WDdWQWU5SXpUVS16eWItTllHSmJBZkNxVE8zeGl4S2ZqQnVqcFFsR3Z1bm9ZelJB?oc=5",
+          "article_url": "https://younghollywood.com/scene/pamela-anderson-underrated-career-gems.html",
+          "image": "https://aqqqzixeryfsazahbard.supabase.co/storage/v1/render/image/public/media/heroes/feb58fa46c58d06aec5c85f48b431bd0b3a0148c.jpeg?width=1200&height=675&resize=cover&quality=85&format=webp"
+        }
+      ],
+      "image": "https://aqqqzixeryfsazahbard.supabase.co/storage/v1/render/image/public/media/heroes/feb58fa46c58d06aec5c85f48b431bd0b3a0148c.jpeg?width=1200&height=675&resize=cover&quality=85&format=webp",
+      "image_source": "https://younghollywood.com/scene/pamela-anderson-underrated-career-gems.html"
+    }
+  ]
+}

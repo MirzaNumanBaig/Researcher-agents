@@ -165,9 +165,13 @@
       "outlets": [
         {
           "source": "JournalArta",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNDFpSkpCT3JQWE41SGJTTWtTUVhsRmxIVktRcEo0OGlRQkdkOUN6eE5uTTk0U3Q2UlFhclJ0dXZfRGJwMS1ZaVJFR0RqeFNDZ2d0QW82NmVMbEIxWmxMWjdmTGZpcEVpejMtcFpqYXoxNmFmdDcxQ1YtbGc2SE8zaWxGWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNDFpSkpCT3JQWE41SGJTTWtTUVhsRmxIVktRcEo0OGlRQkdkOUN6eE5uTTk0U3Q2UlFhclJ0dXZfRGJwMS1ZaVJFR0RqeFNDZ2d0QW82NmVMbEIxWmxMWjdmTGZpcEVpejMtcFpqYXoxNmFmdDcxQ1YtbGc2SE8zaWxGWQ?oc=5",
+          "article_url": "https://journalarta.com/en/2026/10/23/rebel-wilson-secures-another-court-win/",
+          "image": "https://journalarta.com/wp-content/uploads/2026/10/tokoh-rebel-wilson-1792716477-ai-ja-discover-1200x675.jpg"
         }
-      ]
+      ],
+      "image": "https://journalarta.com/wp-content/uploads/2026/10/tokoh-rebel-wilson-1792716477-ai-ja-discover-1200x675.jpg",
+      "image_source": "https://journalarta.com/en/2026/10/23/rebel-wilson-secures-another-court-win/"
     },
     {
       "title": "'Deb' Producers Accuse Rebel Wilson Of Evidence Destruction",
@@ -176,9 +180,13 @@
       "outlets": [
         {
           "source": "Law360",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFAwVm14Z1U2a1dmQTd3SEhhUTFuVHFtMzJEUVJUUEpEb3owQTk0bDB0M21YN3ZIdW5Ld1ZpVTFhQmhuSjN6SE41YjdaSklhd1lqQmM1Zlo0cHdzcFFkeFFJTkRZSUR1SlB4bHVaRjg0MXdiWnhNcUJJWTZ0blhXWTRTVGVKVW1aem45Z2V2cjFodTB4N2tMT2JSNzJPRG9tR1l6ZXNvWUtDZDlidmppQkVjZl9oOHZ1RTRYZnBSOWdMUmhNQ2Qw0gFWQVVfeXFMTjJjaUd3dS0tY1JDbDQ3RG5IanRWMGpKcTYzdmZidEdFVmphMU5JQjNwTEhRcFJDN1prbkF5ajZfMndUUGlNZWZ5bEVMUXMwWTNnczdsQXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFAwVm14Z1U2a1dmQTd3SEhhUTFuVHFtMzJEUVJUUEpEb3owQTk0bDB0M21YN3ZIdW5Ld1ZpVTFhQmhuSjN6SE41YjdaSklhd1lqQmM1Zlo0cHdzcFFkeFFJTkRZSUR1SlB4bHVaRjg0MXdiWnhNcUJJWTZ0blhXWTRTVGVKVW1aem45Z2V2cjFodTB4N2tMT2JSNzJPRG9tR1l6ZXNvWUtDZDlidmppQkVjZl9oOHZ1RTRYZnBSOWdMUmhNQ2Qw0gFWQVVfeXFMTjJjaUd3dS0tY1JDbDQ3RG5IanRWMGpKcTYzdmZidEdFVmphMU5JQjNwTEhRcFJDN1prbkF5ajZfMndUUGlNZWZ5bEVMUXMwWTNnczdsQXc?oc=5",
+          "article_url": "https://www.law360.com/legalethics/articles/2541521/-deb-producers-accuse-rebel-wilson-of-evidence-destruction?about=legalethics",
+          "image": "https://www.law360.com/images/law360-stacked.png"
         }
-      ]
+      ],
+      "image": "https://www.law360.com/images/law360-stacked.png",
+      "image_source": "https://www.law360.com/legalethics/articles/2541521/-deb-producers-accuse-rebel-wilson-of-evidence-destruction?about=legalethics"
     },
     {
       "title": "‘Two wins’: Wilson speaks after court ruling",

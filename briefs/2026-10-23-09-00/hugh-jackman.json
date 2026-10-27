@@ -36,6 +36,12 @@
           "image": ""
         },
         {
+          "source": "Comic Basics",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWV2X2hVZ21FNThic1NlQTRpVEVxWlgyZnFGMnNzdjBwNU11OE5XTVJYUGw2TUtGUkRwV3RtbDUxSDZ1TFhxNDBETXlyQjBxdGM4ZFFfT0pTU1h4azI4cTljeHNNSFhONkYzd0VsVXcya3RKNzhqU1JrcWZBMlJqOHZnQktCeEJwS1o5MnZGTW1EemtnVlozcm9sazg?oc=5",
+          "article_url": "https://www.comicbasics.com/mcu-star-hugh-jackman-steps-out-for-a-lunch-date-with-sutton-foster/",
+          "image": "https://www.comicbasics.com/wp-content/uploads/2026/06/Hugh-Jackman-.webp"
+        },
+        {
           "source": "Just Jared",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlFWSXdZNWRfR29tUWIwbjVKNFFFejM0U2QyNE8zQnprbmpjSTNXRmhmdzVERFl3UHJCQ3FNeEpvT3ZvVjU0WndvdlQ0djBJSWpoQVNYV0lTZFRqNk9rUzdJYWlacUZoQlZwTlFlVzJiMVF4TG44MHh5MVc1dHJZQUtYRGd3MUpDSUNWalR6Y01rOE14OVdpUEEyS2FoLUNNQjBBQjNnZFlWdHNKOUs3aQ?oc=5",
           "article_url": "",
@@ -48,8 +54,8 @@
           "image": ""
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://www.comicbasics.com/wp-content/uploads/2026/06/Hugh-Jackman-.webp",
+      "image_source": "https://www.comicbasics.com/mcu-star-hugh-jackman-steps-out-for-a-lunch-date-with-sutton-foster/"
     }
   ]
 }

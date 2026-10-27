@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Northern Transmissions",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvMTlwd0Jmc0tIUExaX1dGNjNmUjdtZURJTmpfVlYwT1BiSmVybnA4VnctaHg1aDJEZmJTcEhXNkl2OUQ4WktidnVSSlRkM3JsVHdUM0FGQ2UyVEwtaVhNaWtvYlRLazQxU3pIc2ViNDR4Rml0NEhvT2FOUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvMTlwd0Jmc0tIUExaX1dGNjNmUjdtZURJTmpfVlYwT1BiSmVybnA4VnctaHg1aDJEZmJTcEhXNkl2OUQ4WktidnVSSlRkM3JsVHdUM0FGQ2UyVEwtaVhNaWtvYlRLazQxU3pIc2ViNDR4Rml0NEhvT2FOUQ?oc=5",
+          "article_url": "https://northerntransmissions.com/jennylee-covers-the-kid-larois-girls/",
+          "image": "https://northerntransmissions.com/wp-content/uploads/2026/10/unnamed-2026-10-02T100636.545.jpg"
         }
-      ]
+      ],
+      "image": "https://northerntransmissions.com/wp-content/uploads/2026/10/unnamed-2026-10-02T100636.545.jpg",
+      "image_source": "https://northerntransmissions.com/jennylee-covers-the-kid-larois-girls/"
     }
   ]
 }

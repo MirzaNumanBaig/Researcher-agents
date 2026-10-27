@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-27 12:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "The Hemsworth Brothers: Inside Chris, Liam & Luke’s Lives",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFSjVEeERRSHFfRHIzN19qTGo2UXZ0U2NIMjZtdEJubk9aM0RoN2dLQzRIMkNacWNTWllaS0h4bDNpY1lEMFhFTDlXdWRhTlc1NlZQQkZ2MTFfZEVOUGVHU1pldlEzaXMtajlB?oc=5",
+      "published": "2026-10-26T23:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Parade Magazine",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFSjVEeERRSHFfRHIzN19qTGo2UXZ0U2NIMjZtdEJubk9aM0RoN2dLQzRIMkNacWNTWllaS0h4bDNpY1lEMFhFTDlXdWRhTlc1NlZQQkZ2MTFfZEVOUGVHU1pldlEzaXMtajlB?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "ONE Championship Superstars Rodtang and Ben Woolliss Meet Chris Hemsworth in Thailand",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1BHN3BOXzZvVlUzQzJsTkpLMUNFaktnemQ3VDc4S2NRemJDRmtfbkV1Z0g5MWVaZTM5bHNEN1NPOVRGV051cmFIZ2J2Y3JudTBsR1RCOUFmR3JUQXJDNVZ1OEFqZFNEUm0tSGlValZPb1NoRGNZX0NXbEFRYy11TGVsUmxDNjJ1WVVaYzE5WGRtOTN6RVJPQ3d4cHlySXA3c05xQngwU2pwaURZSmxFS3pn?oc=5",
+      "published": "2026-10-26T22:12:18+00:00",
+      "outlets": [
+        {
+          "source": "MMA Sucka",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1BHN3BOXzZvVlUzQzJsTkpLMUNFaktnemQ3VDc4S2NRemJDRmtfbkV1Z0g5MWVaZTM5bHNEN1NPOVRGV051cmFIZ2J2Y3JudTBsR1RCOUFmR3JUQXJDNVZ1OEFqZFNEUm0tSGlValZPb1NoRGNZX0NXbEFRYy11TGVsUmxDNjJ1WVVaYzE5WGRtOTN6RVJPQ3d4cHlySXA3c05xQngwU2pwaURZSmxFS3pn?oc=5",
+          "article_url": "https://mmasucka.com/news/one-championship-superstars-rodtang-and-ben-woolliss-meet-chris-hemsworth-in-thailand/",
+          "image": "https://mmasucka.com/api/media/file/ChrisHemsworth-Rodtang.webp"
+        }
+      ],
+      "image": "https://mmasucka.com/api/media/file/ChrisHemsworth-Rodtang.webp",
+      "image_source": "https://mmasucka.com/news/one-championship-superstars-rodtang-and-ben-woolliss-meet-chris-hemsworth-in-thailand/"
+    }
+  ]
+}
