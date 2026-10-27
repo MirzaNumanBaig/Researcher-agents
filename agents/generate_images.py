@@ -10,6 +10,9 @@ Only articles that are about to be (or were just) sent get an image, so no reque
   pending                          only with --include-pending (the writer workflow, which auto-approves and sends right after)
   sent without wp_media_id         only when the article is at most RETRY_HOURS old (retries a failed upload; never backfills old posts)
 usage: generate_images.py [--max N] [--include-pending]
+       generate_images.py --sample "scene" [--out file.webp]   one test image with CF_IMAGE_MODEL (nothing is saved to articles or WordPress)
+Models (set CF_IMAGE_MODEL): @cf/lykon/dreamshaper-8-lcm (default), @cf/leonardo/lucid-origin, @cf/leonardo/phoenix-1.0. Each has its own request
+settings in MODEL_SETTINGS below; Leonardo models are partner models billed per 512x512 tile and per step, not from the free neuron allowance.
 """
 import base64
 import io
@@ -76,6 +79,26 @@ def scene_for(front):
     return DEFAULT_SCENE
 
 
+# Request settings per model (Workers AI REST, JSON body). A model not listed gets the dreamshaper-style defaults.
+MODEL_SETTINGS = {
+    "@cf/lykon/dreamshaper-8-lcm": {"steps_key": "num_steps", "steps": 8},
+    "@cf/leonardo/lucid-origin": {"steps_key": "steps", "steps": 25, "guidance": 4.5},
+    "@cf/leonardo/phoenix-1.0": {"steps_key": "num_steps", "steps": 25, "guidance": 2,
+                                 "negative_prompt": "people, faces, hands, text, letters, logos, watermark, distorted, blurry"},
+}
+
+
+def build_body(model, prompt, width, height):
+    """JSON request for one image. CF_IMAGE_STEPS overrides the step count."""
+    cfg = MODEL_SETTINGS.get(model, MODEL_SETTINGS["@cf/lykon/dreamshaper-8-lcm"])
+    body = {"prompt": f"{prompt}, {STYLE}", "width": width, "height": height,
+            cfg["steps_key"]: int(os.environ.get("CF_IMAGE_STEPS") or cfg["steps"])}
+    for key in ("guidance", "negative_prompt"):
+        if key in cfg:
+            body[key] = cfg[key]
+    return body
+
+
 def wants_image(status, stem, include_pending, now):
     """Whether an article of this status should get an image now. stem is the file name: YYYY-MM-DD-HH-MM-celebrity."""
     if status == "approved":
@@ -92,7 +115,7 @@ def wants_image(status, stem, include_pending, now):
 
 
 def render(prompt):
-    body = json.dumps({"prompt": f"{prompt}, {STYLE}", "width": GEN_W, "height": GEN_H, "num_steps": 8}).encode()
+    body = json.dumps(build_body(MODEL, prompt, GEN_W, GEN_H)).encode()
     req = urllib.request.Request(f"{BASE}/accounts/{ACCOUNT}/ai/run/{MODEL}", data=body, method="POST",
                                  headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json", "User-Agent": "researcher-agents"})
     with urllib.request.urlopen(req, timeout=120) as r:
@@ -125,7 +148,23 @@ def to_webp(raw):
     return out.getvalue(), "webp"
 
 
+def sample():
+    """One test image with the configured model, to compare models before switching the pipeline over."""
+    if not (ACCOUNT and TOKEN):
+        sys.exit("CF_ACCOUNT_ID / CF_API_TOKEN are not set.")
+    scene = sys.argv[sys.argv.index("--sample") + 1]
+    out = Path(sys.argv[sys.argv.index("--out") + 1]) if "--out" in sys.argv else Path("sample.webp")
+    try:
+        data, ext = to_webp(render(scene))
+    except urllib.error.HTTPError as e:
+        sys.exit(f"{MODEL}: HTTP {e.code} {e.read().decode('utf-8', 'replace')[:300]}")
+    out.write_bytes(data)
+    print(f"ok {MODEL}: {out} ({len(data) // 1024} KB, {OUT_W}x{OUT_H} {ext})")
+
+
 def main():
+    if "--sample" in sys.argv:
+        return sample()
     if json.loads((ROOT / "config.json").read_text()).get("ai_images", True) is False:
         print("ai_images is false in config.json; no images generated.")
         return

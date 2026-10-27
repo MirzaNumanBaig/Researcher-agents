@@ -1,0 +1,39 @@
+name: Test image model
+# Manual. Makes ONE picture with the chosen Cloudflare model and attaches it to the run (nothing goes to WordPress or the repo).
+# Use it to compare models. Each Leonardo image costs a few cents (see agents/generate_images.py).
+on:
+  workflow_dispatch:
+    inputs:
+      model:
+        description: Cloudflare model id
+        type: choice
+        default: "@cf/leonardo/lucid-origin"
+        options:
+          - "@cf/leonardo/lucid-origin"
+          - "@cf/leonardo/phoenix-1.0"
+          - "@cf/lykon/dreamshaper-8-lcm"
+      scene:
+        description: Scene to draw (never a real person)
+        default: "a glossy magazine cover shoot set with soft studio lights, a velvet chair and a rack of vintage dresses, warm evening glow"
+permissions:
+  contents: read
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q pillow
+      - name: Generate one sample
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_IMAGE_MODEL: ${{ inputs.model }}
+          SCENE: ${{ inputs.scene }}
+        run: python agents/generate_images.py --sample "$SCENE" --out sample.webp
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sample-${{ github.run_id }}
+          path: sample.webp
+          retention-days: 7
