@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams' Yaga Scores 95% With Rotten Tomatoes Viewers"
 description: "Hudson Williams' witchy AMC+ thriller Yaga holds a 95% audience score on Rotten Tomatoes two days after its quiet 23 October premiere."
-status: pending
+status: sent
 wp_status: pending
 batch: "2026-10-28 06:00"
 celebrity: "Hudson Williams"
@@ -11,6 +11,9 @@ image_prompt: "A misty pine forest at dusk with a lone wooden hut glowing with w
 sources:
   - "https://movieweb.com/yaga-rotten-tomatoes-score/"
   - "https://www.thepinknews.com/2026/07/23/first-look-at-hudson-williams-in-new-witchy-thriller-yaga/"
+wp_id: 1046
+wp_link: "https://moduscarry.com/?p=1046"
+wp_synced: pending
 ---
 
 **Quick summary**
