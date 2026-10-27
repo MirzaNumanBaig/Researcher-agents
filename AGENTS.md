@@ -22,6 +22,7 @@ Never commit secrets. WordPress/GitHub tokens belong in GitHub Actions secrets.
   Each run first syncs the newest 60 sent posts back from WordPress (published/unpublished/trashed there -> the article follows).
   Both sending jobs share the `wordpress` concurrency group so a post is never created twice. After sending, `scripts/push_dashboard.sh`
   rebuilds the dashboard and `data/articles.json` (the dashboard reads that file live through the GitHub API when a token is saved).
+- Dashboard Articles view: tabs **Pending review / Drafts / Published / To approve / Skipped & other** (by the post's WordPress status), and every card shows the post's featured image. `publish_wordpress.py` copies the real featured image of each sent post (a dashboard-sized URL, also when it was set or changed by hand in WordPress) into the article front matter as `wp_image`; posts without one show a "No featured image yet" box.
 - Dashboard: with a GitHub token saved (Setup -> Schedule & access) it shows live run status (Collect / Write / Send), article cards with
   Preview, Edit in WordPress, Publish now, Approve/Reject and Rewrite. Without a token it shows the last built snapshot.
 

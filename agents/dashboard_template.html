@@ -108,6 +108,13 @@ h2.sec{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.0
 .acard{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:8px}
 .acard .hd{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
 .acard h3{font-size:15.5px;line-height:1.35;margin:0;font-weight:650;flex:1 1 260px;min-width:0}
+.acard .am{display:flex;gap:14px;align-items:flex-start}
+.acard .ab{flex:1 1 0;min-width:0}
+.acard .afig{flex:none;width:168px;aspect-ratio:5/3;border-radius:8px;overflow:hidden;background:var(--soft);display:flex;align-items:center;justify-content:center;text-align:center;font-size:12px;color:var(--mut);border:1px solid var(--line)}
+.acard .afig img{width:100%;height:100%;object-fit:cover;display:block}
+.acard .afig.none{border-style:dashed;padding:6px}
+@media(max-width:640px){.acard .am{flex-direction:column}.acard .afig{width:100%}}
+.atabs{margin:2px 0 10px;flex-wrap:wrap}
 .acard .ds{margin:4px 0 0;color:var(--mut);font-size:13.5px}
 .acard .why{margin:4px 0 0;font-size:13px}
 .acard .ops{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:10px}
@@ -257,7 +264,7 @@ claude setup-token</pre><button class="btn sm copy">Copy</button></div></div></d
 const D=__DATA__,REPO=D.repo;
 const $=i=>document.getElementById(i),esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const store={get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}}};
-let paused=D.paused,celeb="",batch="",view="stories",pool="recent",showOld=false;
+let paused=D.paused,celeb="",batch="",atab="",view="stories",pool="recent",showOld=false;
 const COL=["#a8740a","#2b6cb0","#2f855a","#c05621","#6b46c1","#b83280","#2c7a7b"];
 const col=n=>COL[[...n].reduce((a,c)=>a+c.charCodeAt(0),0)%COL.length];
 const ini=n=>n.split(/\s+/).map(w=>w[0]).slice(0,2).join("").toUpperCase();
@@ -340,8 +347,11 @@ const site=a.wp_synced&&a.wp_status!==a.wp_synced?["Changing to "+(a.wp_status==
 const m={pending:["Awaiting approval","warn"],approved:["Approved, sending…","ok"],sent:site,rejected:["Rejected","no"],skipped:["Skipped",""],rewrite:["Rewrite queued…","warn"],removed:["Removed from WordPress","no"]}[a.status]||[a.status||"Unknown",""];
 return'<span class="chip2 '+m[1]+'">'+esc(m[0])+'</span>'}
 const wpSel=a=>'<select data-wp="'+esc(a.path)+'" aria-label="Website status">'+["draft","pending","publish"].map(x=>'<option value="'+x+'"'+(x===a.wp_status?" selected":"")+'>'+(x==="pending"?"Pending review":x==="publish"?"Published":"Draft")+'</option>').join("")+'</select>';
+const artFig=a=>{const u=a.image&&safeUrl(a.image)!=="#"?safeUrl(a.image):"";
+if(u)return'<a class="afig" href="'+esc(u)+'" target="_blank" rel="noopener" title="Open the featured image"><img loading="lazy" referrerpolicy="no-referrer" alt="Featured image of: '+esc(a.title||"")+'" src="'+esc(u)+'" onerror="this.parentNode.className=\'afig none\';this.parentNode.textContent=\'Image not loading\'"></a>';
+return["sent","approved"].includes(a.status)?'<div class="afig none">No featured image yet</div>':""};
 function artCard(a){const c=a.celebrity||"";
-let h='<div class="acard"><div class="hd"><h3>'+esc(a.title&&a.title!==c?a.title:c+(a.status==="skipped"?" (no article)":""))+'</h3>'+statusChip(a)+'</div>';
+let h='<div class="acard"><div class="am">'+artFig(a)+'<div class="ab"><div class="hd"><h3>'+esc(a.title&&a.title!==c?a.title:c+(a.status==="skipped"?" (no article)":""))+'</h3>'+statusChip(a)+'</div>';
 h+='<div class="meta">'+(c?'<span class="nm">'+esc(c)+'</span>':'')+(a.batch?'<span>Run '+esc(a.batch)+'</span>':'')+(a.wp_id?'<span>Post #'+esc(a.wp_id)+'</span>':'')+'</div>';
 if(a.description&&a.status!=="skipped")h+='<p class="ds">'+esc(a.description)+'</p>';
 if(a.skip_reason&&a.status==="skipped")h+='<p class="why"><b>Why skipped:</b> '+esc(a.skip_reason)+'</p>';
@@ -354,7 +364,7 @@ if(a.status==="sent"&&a.wp_status!=="publish")h+='<button class="btn sm pri" dat
 if(a.status==="sent")h+=wpSel(a);
 if(a.status==="pending")h+=wpSel(a)+'<button class="btn sm pri" data-act="approved" data-path="'+esc(a.path)+'">Approve</button><button class="btn sm" data-act="rejected" data-path="'+esc(a.path)+'">Reject</button>';
 if(!a.wp_id&&["skipped","rejected","pending"].includes(a.status))h+='<button class="btn sm" data-rw="'+esc(a.path)+'">Rewrite</button>';
-return h+'<a class="btn sm" href="'+BLOB+esc(a.path)+'" target="_blank" rel="noopener">File ↗</a></div><div class="pv" hidden></div></div>'}
+return h+'<a class="btn sm" href="'+BLOB+esc(a.path)+'" target="_blank" rel="noopener">File ↗</a></div></div></div><div class="pv" hidden></div></div>'}
 function artRow(a,c,b,n){if(a)return artCard(a);
 const p="Open "+REPO+" and follow CLAUDE.md. Write the article for "+c+" from batch "+b+" (briefs/"+slug(b)+"/"+slug(c)+".json) and save it as a pending draft.";
 return'<div class="arow"><span class="nm">'+esc(c)+(n!=null?' <span class="muted small">· '+n+' stories</span>':'')+'</span>'+statusChip(null)+'<span class="sp"></span><button class="btn sm" data-prompt="'+esc(p)+'">Copy Claude prompt</button></div>'}
@@ -398,10 +408,17 @@ $("p-recent").classList.toggle("on",pool==="recent");$("p-archive").classList.to
 $("p-recent").textContent="Last "+(D.dashboard_hours||48)+" hours ("+D.leads.filter(isRecent).length+")";$("p-archive").textContent="Archive ("+D.leads.filter(l=>!isRecent(l)).length+")";
 batchOptions();people();profile();
 if(view==="articles"){$("top").innerHTML="";
-const isDraft=a=>a.status==="approved"||(a.status==="sent"&&a.wp_status!=="publish"),isPub=a=>a.status==="sent"&&a.wp_status==="publish";
-const g=[["Waiting for your approval",a=>a.status==="pending"],["Drafts on the website",isDraft],["Published",isPub],["Being rewritten",a=>a.status==="rewrite"],["Skipped, rejected or removed",a=>!["pending","rewrite"].includes(a.status)&&!isDraft(a)&&!isPub(a)]];
-const list=D.articles.filter(a=>!celeb||a.celebrity===celeb);
-$("list").innerHTML=list.length?g.map(([t,f])=>{const r=list.filter(f);return r.length?'<h2 class="sec">'+t+' <span class="count">'+r.length+'</span></h2>'+r.map(artCard).join(""):""}).join(""):'<div class="empty">No articles yet. Run now collects news and writes them automatically.</div>';
+const T=[["pr","Pending review",a=>a.status==="sent"&&a.wp_status==="pending"],
+["dr","Drafts",a=>a.status==="approved"||(a.status==="sent"&&["draft","private"].includes(a.wp_status))],
+["pb","Published",a=>a.status==="sent"&&a.wp_status==="publish"],
+["ap","To approve",a=>a.status==="pending"],
+["ot","Skipped & other",a=>!["pending","approved","sent"].includes(a.status)]];
+const list=D.articles.filter(a=>!celeb||a.celebrity===celeb),cnts=T.map(([k,n,f])=>list.filter(f).length);
+if(!atab||!T.some(t=>t[0]===atab))atab=(T[cnts.findIndex(n=>n>0)]||T[0])[0];
+$("top").innerHTML='<div class="seg atabs" role="tablist">'+T.map(([k,n],i)=>'<button data-atab="'+k+'"'+(k===atab?' class="on"':'')+'>'+n+' ('+cnts[i]+')</button>').join("")+'</div>';
+$("top").querySelectorAll("[data-atab]").forEach(b=>b.onclick=()=>{atab=b.dataset.atab;render()});
+const cur=T.find(t=>t[0]===atab),shown=list.filter(cur[2]);
+$("list").innerHTML=shown.length?shown.map(artCard).join(""):'<div class="empty">'+(list.length?'Nothing in "'+cur[1]+'".':'No articles yet. Run now collects news and writes them automatically.')+'</div>';
 wireArt($("list"));return}
 const q=$("q").value.toLowerCase(),s=$("src").value,w=+$("when").value,so=$("sort").value;
 let ls=D.leads.filter(l=>inPool(l)&&(!celeb||(l.celebrities||[]).includes(celeb))&&(!s||l.outlets.some(o=>o.source===s))&&(!batch||l.batch===batch)&&(!q||(l.title+" "+l.summary+" "+l.outlets.map(o=>o.source).join(" ")).toLowerCase().includes(q))&&(!w||age(l)<=w));

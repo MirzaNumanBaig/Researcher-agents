@@ -44,7 +44,7 @@ def field(front, key):
 
 
 def set_field(front, key, value):
-    line = f"{key}: {json.dumps(value) if key in ('title', 'wp_link') else value}"
+    line = f"{key}: {json.dumps(value) if key in ('title', 'wp_link', 'wp_image') else value}"
     if re.search(rf"^{key}: ?.*$", front, re.M):
         return re.sub(rf"^{key}: ?.*$", lambda _: line, front, count=1, flags=re.M)
     return front + "\n" + line
@@ -154,6 +154,15 @@ def wp(path, payload):
         return json.loads(r.read())
 
 
+def media_url(m):
+    """Dashboard-sized picture URL of a WordPress media item (medium_large, else medium, else large, else the original)."""
+    sizes = (m.get("media_details") or {}).get("sizes") or {}
+    for k in ("medium_large", "medium", "large"):
+        if sizes.get(k, {}).get("source_url"):
+            return sizes[k]["source_url"]
+    return m.get("source_url", "")
+
+
 def upload_media(image_path, alt, caption):
     """Upload an image to the WordPress media library and return its id (needs upload rights for WP_USER)."""
     data = image_path.read_bytes()
@@ -165,7 +174,7 @@ def upload_media(image_path, alt, caption):
     with urllib.request.urlopen(req, timeout=120) as r:
         media = json.loads(r.read())
     wp(f"media/{media['id']}", {"alt_text": alt, "caption": caption, "title": alt})
-    return media["id"]
+    return media["id"], media_url(media)
 
 
 def featured_image(front):
@@ -190,7 +199,7 @@ def live_posts(articles):
     try:
         for i in range(0, len(ids), 100):
             chunk = ",".join(map(str, ids[i:i + 100]))
-            res = wp_get(f"posts?include={chunk}&per_page=100&orderby=id&status=publish,future,draft,pending,private,trash&context=edit&_fields=id,status,link")
+            res = wp_get(f"posts?include={chunk}&per_page=100&orderby=id&status=publish,future,draft,pending,private,trash&context=edit&_fields=id,status,link,featured_media")
             if not isinstance(res, list):
                 return None
             found.update({p["id"]: p for p in res})
@@ -198,6 +207,42 @@ def live_posts(articles):
         print(f"could not check posts in WordPress: {e}", file=sys.stderr)
         return None
     return found
+
+
+def live_media(live):
+    """{media id: dashboard picture URL} for the featured images of the posts in `live`, fetched 100 ids per request. None when the lookup failed."""
+    ids = sorted({p.get("featured_media") for p in (live or {}).values() if p.get("featured_media")})
+    found = {}
+    try:
+        for i in range(0, len(ids), 100):
+            res = wp_get(f"media?include={','.join(map(str, ids[i:i + 100]))}&per_page=100&_fields=id,source_url,media_details")
+            if not isinstance(res, list):
+                return None
+            found.update({m["id"]: media_url(m) for m in res})
+    except Exception as e:
+        print(f"could not check media in WordPress: {e}", file=sys.stderr)
+        return None
+    return found
+
+
+def sync_image(f, front, body, live, media):
+    """Show the post's real featured image on the dashboard (wp_image), also when it was set or changed in WordPress.
+    wp_media_id is only ever set here, never cleared, so the generator does not overwrite a picture that was removed on purpose."""
+    wp_id = field(front, "wp_id")
+    if live is None or media is None or not wp_id.isdigit() or int(wp_id) not in live:
+        return front
+    mid = live[int(wp_id)].get("featured_media") or 0
+    url = media.get(mid, "") if mid else ""
+    if mid and not url:
+        return front  # media item not returned: leave things as they are
+    if url == field(front, "wp_image") and (not mid or str(mid) == field(front, "wp_media_id")):
+        return front
+    if mid:
+        front = set_field(front, "wp_media_id", mid)
+    front = set_field(front, "wp_image", url)
+    f.write_text(f"---\n{front}\n---\n\n{body}")
+    print(f"image {f.name}: {'featured image ' + str(mid) if mid else 'featured image removed in WordPress'}")
+    return front
 
 
 def sync_from_wp(f, front, body, live):
@@ -244,10 +289,12 @@ def main():
     failed = False
     files = sorted((ROOT / "articles").glob("*.md"))
     live = live_posts(files)
+    media = live_media(live)
     for f in files:
         front, body = split(f.read_text())
         try:
             front = sync_from_wp(f, front, body, live)
+            front = sync_image(f, front, body, live, media)
         except Exception as e:  # a sync problem must not block sending new articles
             print(f"  could not check {f.name} in WordPress: {e}", file=sys.stderr)
         status, want = field(front, "status"), field(front, "wp_status") or "draft"
@@ -274,9 +321,9 @@ def main():
                 img = featured_image(front)
                 if img:
                     try:
-                        media_id = upload_media(img[0], img[1], "Illustration generated with AI")
+                        media_id, image_url = upload_media(img[0], img[1], "Illustration generated with AI")
                         payload["featured_media"] = media_id
-                        front = set_field(front, "wp_media_id", media_id)
+                        front = set_field(set_field(front, "wp_media_id", media_id), "wp_image", image_url)
                     except Exception as e:  # the article still goes out without its picture; it is retried on the next run
                         print(f"  image upload failed for {f.name}: {e}", file=sys.stderr)
                 try:
@@ -292,9 +339,9 @@ def main():
                 front = set_field(front, "status", "sent")
             elif status == "sent" and field(front, "wp_id") and featured_image(front):
                 img = featured_image(front)  # a sent article that got its image later (or whose upload failed)
-                media_id = upload_media(img[0], img[1], "Illustration generated with AI")
+                media_id, image_url = upload_media(img[0], img[1], "Illustration generated with AI")
                 post = wp(f"posts/{field(front, 'wp_id')}", {"featured_media": media_id})
-                front = set_field(front, "wp_media_id", media_id)
+                front = set_field(set_field(front, "wp_media_id", media_id), "wp_image", image_url)
                 if want != field(front, "wp_synced"):
                     post = wp(f"posts/{field(front, 'wp_id')}", {"status": want})
             elif status == "sent" and field(front, "wp_id") and want != field(front, "wp_synced"):
