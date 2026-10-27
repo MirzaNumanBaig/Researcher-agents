@@ -184,6 +184,23 @@ def sample():
     print(f"ok {MODEL}: {out} ({len(data) // 1024} KB, {OUT_W}x{OUT_H} {ext})")
 
 
+def usage_file():
+    return ROOT / "articles" / "image-meta" / "_usage.json"
+
+
+def used_today(today):
+    try:
+        u = json.loads(usage_file().read_text())
+        return u["images"] if u.get("date") == today else 0
+    except (OSError, ValueError, KeyError):
+        return 0
+
+
+def add_used(today, n):
+    usage_file().parent.mkdir(parents=True, exist_ok=True)
+    usage_file().write_text(json.dumps({"date": today, "images": used_today(today) + n}) + "\n")
+
+
 def brief_image(front):
     """The news photo link in this article's brief (only used when image_pipeline.reference_images is on), else ''."""
     slug = lambda t: re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")  # noqa: E731
@@ -207,6 +224,11 @@ def main():
     out_dir = ROOT / "articles" / "images"
     now = datetime.now(timezone.utc)
     done = failed = 0
+    today = now.strftime("%Y-%m-%d")
+    try:
+        cap = int(os.environ.get("IMG_DAILY_IMAGE_CAP") or (json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("daily_image_cap", 40))
+    except (OSError, ValueError):
+        cap = 40
     try:  # the Article -> Image pipeline (agents/imagegen); any problem falls back to the writer's scene prompt below
         from imagegen import config as icfg, llm as illm, pipeline as ipipe
         use_pipeline, llm = icfg.get("enabled"), illm.get_llm()
@@ -221,6 +243,9 @@ def main():
         # images are not stored in git: an article needs one until WordPress has it (wp_media_id) or the file exists in this run
         if field(front, "wp_media_id") or have or not wants_image(field(front, "status"), f.stem, "--include-pending" in sys.argv, now):
             continue
+        if used_today(today) >= cap:
+            print(f"daily image cap reached ({cap} attempts today, UTC); the remaining articles wait until tomorrow so the free allowance is not used up")
+            break
         res = None
         if use_pipeline:
             try:
@@ -228,6 +253,7 @@ def main():
             except Exception as e:
                 print(f"pipeline error for {f.name}: {e}; using the writer's scene prompt", file=sys.stderr)
         if res is not None:
+            add_used(today, max(1, len(res["attempts"])))
             if not res["ok"]:  # rejected by the quality check on every attempt, or the API failed: better no image than a bad one
                 failed += 1
                 why = res["error"] or "; ".join(r for a in res["attempts"] for r in a["reasons"]) or "unknown"
@@ -245,6 +271,7 @@ def main():
             print(f"ok {f.name} -> images/{f.stem}.{ext} ({len(data)//1024} KB, {res['analysis']['story_type']}, {res['prompt_source']} prompt)")
             continue
         scene = scene_for(front)
+        add_used(today, 1)
         try:
             data, ext = to_webp(render(scene))
         except urllib.error.HTTPError as e:

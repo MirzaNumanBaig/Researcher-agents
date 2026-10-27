@@ -31,6 +31,8 @@ scripts/generate-image --post-id 123 --dry-run --preset glossy_magazine --seed 4
 
 Every setting is listed in `.env.example` (environment variable `IMG_*`, or `config.json` → `image_pipeline`). Per article it saves `articles/image-meta/<article>.json` (article id, story type, analysis, final prompt, seed, model, preset, timestamp, quality result per attempt) and keeps the last 20 prompts in `articles/image-meta/_history.json`, so neighbouring images use different shots, angles and palettes.
 
+**Cost guard:** Cloudflare's free allowance is 10,000 neurons a day (it resets at 00:00 UTC) and an image costs roughly 170 of them, so `IMG_DAILY_IMAGE_CAP` (default 40 image attempts per UTC day, counted in `articles/image-meta/_usage.json`) stops the run before the allowance is spent. A "daily allocation used up" error is never retried.
+
 **Rules enforced in code** (`concept.py`, not just asked of the model): no real name or likeness in a prompt or alt text; no readable text, signs or logos; no children; no weighting syntax or negative prompts; sensitive and high-risk stories (death, health, legal, abuse, rumours) get a calm symbolic scene with no people; the prompt always ends with "No text, no logos, no watermark."
 
 **Style presets** (`--preset`, `IMG_PRESET`): `candid_news_photo` (default), `glossy_magazine`, `cinematic_still`, `soft_illustration`. Add one by adding an entry to `PRESETS` in `agents/imagegen/presets.py` (a label and one style sentence).

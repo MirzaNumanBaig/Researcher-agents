@@ -169,6 +169,7 @@ class PromptWriter(unittest.TestCase):
 class Mock(BaseHTTPRequestHandler):
     image_plan = []   # status codes to answer in order before success
     size_rejected = False
+    quota = False     # answer 429s with the "daily free allocation" message
     strict = False    # behave like Cloudflare's real schnell schema: only prompt and steps are accepted
     bodies = []
 
@@ -183,7 +184,8 @@ class Mock(BaseHTTPRequestHandler):
                 code = Mock.image_plan.pop(0)
                 self.send_response(code)
                 self.end_headers()
-                self.wfile.write(b'{"success": false}')
+                self.wfile.write(b'{"errors":[{"message":"AiError: you have used up your daily free allocation of 10,000 neurons","code":4006}],"success":false}'
+                                 if Mock.quota else b'{"success": false}')
                 return
             if Mock.strict:
                 extra = [k for k in ("seed", "width", "height") if k in body]
@@ -209,7 +211,7 @@ class Mock(BaseHTTPRequestHandler):
 
 class Generator(unittest.TestCase):
     def setUp(self):
-        Mock.image_plan, Mock.size_rejected, Mock.strict, Mock.bodies = [], False, False, []
+        Mock.image_plan, Mock.size_rejected, Mock.strict, Mock.quota, Mock.bodies = [], False, False, False, []
         self.srv = HTTPServer(("127.0.0.1", 0), Mock)
         threading.Thread(target=self.srv.serve_forever, daemon=True).start()
         patcher = mock.patch.dict(os.environ, {"CF_ACCOUNT_ID": "a", "CF_API_TOKEN": "t", "CF_API_BASE": f"http://127.0.0.1:{self.srv.server_port}", "IMG_STEPS": "8"})
@@ -248,6 +250,14 @@ class Generator(unittest.TestCase):
         generator.generate("p")
         self.assertIn("width", Mock.bodies[0][1])
         self.assertNotIn("width", Mock.bodies[1][1])
+
+    def test_spent_daily_allowance_fails_at_once_without_backoff(self):
+        Mock.image_plan, Mock.quota = [429, 429, 429], True
+        slept = []
+        with mock.patch.object(generator, "_sleep", slept.append), self.assertRaises(generator.GenerationError) as cm:
+            generator.generate("p")
+        self.assertIn("daily free allocation", str(cm.exception))
+        self.assertEqual((len(Mock.bodies), slept), (1, []))
 
     def test_strict_api_drops_seed_and_size_one_field_at_a_time(self):
         Mock.strict = True
@@ -294,7 +304,7 @@ class Checker(unittest.TestCase):
 
 class PipelineEndToEnd(unittest.TestCase):
     def setUp(self):
-        Mock.image_plan, Mock.size_rejected, Mock.strict, Mock.bodies = [], False, False, []
+        Mock.image_plan, Mock.size_rejected, Mock.strict, Mock.quota, Mock.bodies = [], False, False, False, []
         self.srv = HTTPServer(("127.0.0.1", 0), Mock)
         threading.Thread(target=self.srv.serve_forever, daemon=True).start()
         self.tmp = tempfile.TemporaryDirectory()
@@ -343,6 +353,30 @@ class PipelineEndToEnd(unittest.TestCase):
         self.assertNotRegex(res["prompt"].lower(), r"\b(woman|man|people|crowd|figure|silhouette)\b")
 
 
+class LlmQuota(unittest.TestCase):
+    def test_spent_allowance_is_not_retried(self):
+        hits = []
+
+        class H(BaseHTTPRequestHandler):
+            def log_message(self, *a):
+                pass
+
+            def do_POST(self):
+                self.rfile.read(int(self.headers["Content-Length"]))
+                hits.append(1)
+                self.send_response(429)
+                self.end_headers()
+                self.wfile.write(b'{"errors":[{"message":"you have used up your daily free allocation of 10,000 neurons"}]}')
+
+        srv = HTTPServer(("127.0.0.1", 0), H)
+        threading.Thread(target=srv.serve_forever, daemon=True).start()
+        slept = []
+        with mock.patch.object(llmmod, "_sleep", slept.append), self.assertRaises(llmmod.LLMError):
+            llmmod.post_json(f"http://127.0.0.1:{srv.server_port}/x", {}, {})
+        srv.shutdown()
+        self.assertEqual((len(hits), slept), (1, []))
+
+
 class AltAndCaption(unittest.TestCase):
     def test_alt_text_is_one_short_factual_sentence_without_names(self):
         a = dict(analyzer.heuristic("x"), story_type="wedding", setting="a clifftop venue with Elena Marlowe's guests")
@@ -367,7 +401,7 @@ class AltAndCaption(unittest.TestCase):
 class GenerateImagesIntegration(unittest.TestCase):
     """The real generate_images.py on a temp copy of the repo: pipeline on, and the fallback when the pipeline is off."""
 
-    def run_script(self, **extra):
+    def run_script(self, usage=None, **extra):
         srv = HTTPServer(("127.0.0.1", 0), Mock)
         threading.Thread(target=srv.serve_forever, daemon=True).start()
         Mock.bodies = []
@@ -379,11 +413,16 @@ class GenerateImagesIntegration(unittest.TestCase):
             (root / "articles" / "2026-10-28-09-00-elena-marlowe.md").write_text(
                 '---\ntitle: "Elena Marlowe weds Tom Hargrove"\nstatus: approved\nwp_status: pending\ncelebrity: "Elena Marlowe"\ncategories: ["Celebrity News"]\n'
                 'image_prompt: "an empty cinema auditorium"\n---\n\nThey married on Saturday.\n')
+            if usage is not None:
+                (root / "articles" / "image-meta").mkdir()
+                (root / "articles" / "image-meta" / "_usage.json").write_text(json.dumps(usage))
             env = dict(os.environ, CF_ACCOUNT_ID="a", CF_API_TOKEN="t", CF_API_BASE=f"http://127.0.0.1:{srv.server_port}", IMG_LLM_PROVIDER="none", **extra)
             r = subprocess.run([sys.executable, str(root / "agents" / "generate_images.py"), "--max", "5"], env=env, capture_output=True, text=True)
             front = (root / "articles" / "2026-10-28-09-00-elena-marlowe.md").read_text()
             meta_files = sorted(p.name for p in (root / "articles" / "image-meta").glob("*")) if (root / "articles" / "image-meta").exists() else []
             has_img = (root / "articles" / "images" / "2026-10-28-09-00-elena-marlowe.webp").exists()
+            uf = root / "articles" / "image-meta" / "_usage.json"
+            self.usage_after = json.loads(uf.read_text()) if uf.exists() else None
         srv.shutdown()
         return r, front, meta_files, has_img
 
@@ -399,11 +438,25 @@ class GenerateImagesIntegration(unittest.TestCase):
         self.assertNotIn("cinema auditorium", prompt)  # built from the story, not the writer's one-liner
         self.assertNotIn("Marlowe", prompt)
 
+    def test_usage_is_counted_and_the_daily_cap_stops_the_run(self):
+        from datetime import datetime, timezone
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        r, front, meta_files, has_img = self.run_script()
+        self.assertEqual(self.usage_after, {"date": today, "images": 1})
+        r, front, meta_files, has_img = self.run_script(usage={"date": today, "images": 40})
+        self.assertIn("daily image cap reached", r.stdout)
+        self.assertFalse(has_img)
+        self.assertEqual(Mock.bodies, [])  # not a single request was spent
+        r, front, meta_files, has_img = self.run_script(usage={"date": "2000-01-01", "images": 999})  # an old day does not count
+        self.assertTrue(has_img)
+        r, front, meta_files, has_img = self.run_script(usage={"date": today, "images": 5}, IMG_DAILY_IMAGE_CAP="5")
+        self.assertIn("daily image cap reached", r.stdout)
+
     def test_pipeline_switched_off_keeps_the_old_scene_prompt(self):
         r, front, meta_files, has_img = self.run_script(IMG_ENABLED="false")
         self.assertIn("1 image(s) created", r.stdout, r.stderr)
         self.assertIn("an empty cinema auditorium", Mock.bodies[0][1]["prompt"])
-        self.assertEqual(meta_files, [])
+        self.assertEqual([f for f in meta_files if not f.startswith("_")], [])  # no per-article metadata; only the usage counter
 
 
 if __name__ == "__main__":

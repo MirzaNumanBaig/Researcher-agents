@@ -71,8 +71,8 @@ def generate(prompt, seed=None, attempts=3):
                     drops += 1
                     continue  # retry at once without those fields (the image is cropped to size afterwards)
                 raise GenerationError(last)
-            if e.code not in (429, 500, 502, 503, 504):
-                raise GenerationError(last)
+            if e.code not in (429, 500, 502, 503, 504) or "daily free allocation" in body:
+                raise GenerationError(last)  # a spent daily allowance cannot be fixed by waiting a few seconds
         except (urllib.error.URLError, TimeoutError, OSError, ValueError) as e:
             last = str(e)
         tries += 1

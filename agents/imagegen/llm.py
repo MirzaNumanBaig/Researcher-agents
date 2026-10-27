@@ -42,8 +42,8 @@ def post_json(url, headers, payload, timeout=90, attempts=3):
         except urllib.error.HTTPError as e:
             body = e.read().decode("utf-8", "replace")[:300]
             last = f"HTTP {e.code} {body}"
-            if e.code not in (429, 500, 502, 503, 504):
-                raise LLMError(last)
+            if e.code not in (429, 500, 502, 503, 504) or "daily free allocation" in body:
+                raise LLMError(last)  # a spent daily allowance cannot be fixed by waiting a few seconds
         except (urllib.error.URLError, TimeoutError, OSError) as e:
             last = str(e)
         if i < attempts - 1:

@@ -20,6 +20,7 @@ DEFAULTS = {
     "seed": "",                                             # empty = random per attempt; the seed used is always saved
     "max_retries": 2,                                       # new seed after a failed quality check
     "preset": "candid_news_photo",                          # candid_news_photo | glossy_magazine | cinematic_still | soft_illustration
+    "daily_image_cap": 40,                                  # image attempts per UTC day across all runs; protects the 10,000 free neurons a day
     "history_size": 20,                                     # last prompts remembered to vary shot, angle and palette
     "caption": "Illustration generated with AI",            # "" or "off" turns the caption off
     "reference_images": False,                              # analyse the news photo's composition (needs the vision model); never copied
