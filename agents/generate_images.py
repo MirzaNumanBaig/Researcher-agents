@@ -11,8 +11,11 @@ Only articles that are about to be (or were just) sent get an image, so no reque
   sent without wp_media_id         only when the article is at most RETRY_HOURS old (retries a failed upload; never backfills old posts)
 usage: generate_images.py [--max N] [--include-pending]
        generate_images.py --sample "scene" [--out file.webp]   one test image with CF_IMAGE_MODEL (nothing is saved to articles or WordPress)
-Models (set CF_IMAGE_MODEL): @cf/lykon/dreamshaper-8-lcm (default), @cf/leonardo/lucid-origin, @cf/leonardo/phoenix-1.0. Each has its own request
-settings in MODEL_SETTINGS below; Leonardo models are partner models billed per 512x512 tile and per step, not from the free neuron allowance.
+Models (set CF_IMAGE_MODEL), all inside Cloudflare's free 10,000 neurons/day at your volume (neurons per 1536x896 image, 6 tiles, rounded up):
+  @cf/black-forest-labs/flux-2-klein-4b   ~156 (about 60 images/day free; multipart request, 1024x576 as proven in PR #5)
+  @cf/black-forest-labs/flux-1-schnell    ~70-110 (about 90+ images/day free; JSON, size not selectable)
+  @cf/lykon/dreamshaper-8-lcm             current default (price not in Cloudflare's table)
+Each has its own request settings in MODEL_SETTINGS below. Leonardo Lucid/Phoenix cost 3,400-4,100 neurons per image (2-3 images/day free), so they are not offered.
 """
 import base64
 import io
@@ -36,10 +39,9 @@ FALLBACK = {  # used only when the writer gave no image_prompt; scenes, never pe
     "music": "a concert stage with warm spotlights and an empty microphone stand",
     "fashion": "a runway with soft spotlights and rows of empty chairs",
 }
-# Final file: 1500x900 WebP. The model is asked for a slightly larger multiple-of-8 canvas (1536x896, Cloudflare accepts 256-2048)
+# Final file: 1500x900 WebP. The model is asked for a canvas near that size (see gen_size)
 # and the result is cover-cropped to the exact size, so the picture is never stretched.
 OUT_W, OUT_H = int(os.environ.get("OUT_WIDTH", "1500")), int(os.environ.get("OUT_HEIGHT", "900"))
-GEN_W, GEN_H = int(os.environ.get("CF_GEN_WIDTH", "1536")), int(os.environ.get("CF_GEN_HEIGHT", "896"))
 WEBP_QUALITY = int(os.environ.get("WEBP_QUALITY", "82"))
 RETRY_HOURS = 48
 DEFAULT_SCENE = "a red carpet at night with camera flashes and velvet ropes, no people"
@@ -79,24 +81,44 @@ def scene_for(front):
     return DEFAULT_SCENE
 
 
-# Request settings per model (Workers AI REST, JSON body). A model not listed gets the dreamshaper-style defaults.
+# Request settings per model (Workers AI REST). A model not listed gets the dreamshaper-style defaults.
+#   steps_key/steps: diffusion steps parameter (None: the model takes none)   multipart: FLUX.2 wants multipart form data, not JSON
+#   size: (width, height) to ask for when CF_GEN_WIDTH/HEIGHT are not set     no_size: the model has no width/height input
 MODEL_SETTINGS = {
     "@cf/lykon/dreamshaper-8-lcm": {"steps_key": "num_steps", "steps": 8},
-    "@cf/leonardo/lucid-origin": {"steps_key": "steps", "steps": 25, "guidance": 4.5},
-    "@cf/leonardo/phoenix-1.0": {"steps_key": "num_steps", "steps": 25, "guidance": 2,
-                                 "negative_prompt": "people, faces, hands, text, letters, logos, watermark, distorted, blurry"},
+    "@cf/black-forest-labs/flux-2-klein-4b": {"steps_key": None, "multipart": True, "size": (1024, 576)},
+    "@cf/black-forest-labs/flux-1-schnell": {"steps_key": "steps", "steps": 4, "no_size": True},
 }
 
 
+def settings(model):
+    return MODEL_SETTINGS.get(model, MODEL_SETTINGS["@cf/lykon/dreamshaper-8-lcm"])
+
+
+def gen_size(model):
+    """Size requested from the model: env override, else the model's own proven size, else 1536x896."""
+    w, h = settings(model).get("size", (1536, 896))
+    return int(os.environ.get("CF_GEN_WIDTH") or w), int(os.environ.get("CF_GEN_HEIGHT") or h)
+
+
 def build_body(model, prompt, width, height):
-    """JSON request for one image. CF_IMAGE_STEPS overrides the step count."""
-    cfg = MODEL_SETTINGS.get(model, MODEL_SETTINGS["@cf/lykon/dreamshaper-8-lcm"])
-    body = {"prompt": f"{prompt}, {STYLE}", "width": width, "height": height,
-            cfg["steps_key"]: int(os.environ.get("CF_IMAGE_STEPS") or cfg["steps"])}
-    for key in ("guidance", "negative_prompt"):
-        if key in cfg:
-            body[key] = cfg[key]
+    """Request fields for one image. CF_IMAGE_STEPS overrides the step count."""
+    cfg = settings(model)
+    body = {"prompt": f"{prompt}, {STYLE}"}
+    if not cfg.get("no_size"):
+        body.update(width=width, height=height)
+    if cfg.get("steps_key"):
+        body[cfg["steps_key"]] = int(os.environ.get("CF_IMAGE_STEPS") or cfg["steps"])
     return body
+
+
+def encode(model, fields):
+    """(bytes, content-type): multipart form data for FLUX.2, JSON for the others."""
+    if settings(model).get("multipart"):
+        boundary = "----ra" + os.urandom(8).hex()
+        parts = [f'--{boundary}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'.encode() for k, v in fields.items()]
+        return b"".join(parts) + f"--{boundary}--\r\n".encode(), f"multipart/form-data; boundary={boundary}"
+    return json.dumps(fields).encode(), "application/json"
 
 
 def wants_image(status, stem, include_pending, now):
@@ -115,9 +137,9 @@ def wants_image(status, stem, include_pending, now):
 
 
 def render(prompt):
-    body = json.dumps(build_body(MODEL, prompt, GEN_W, GEN_H)).encode()
+    body, ctype_in = encode(MODEL, build_body(MODEL, prompt, *gen_size(MODEL)))
     req = urllib.request.Request(f"{BASE}/accounts/{ACCOUNT}/ai/run/{MODEL}", data=body, method="POST",
-                                 headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json", "User-Agent": "researcher-agents"})
+                                 headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": ctype_in, "User-Agent": "researcher-agents"})
     with urllib.request.urlopen(req, timeout=120) as r:
         raw, ctype = r.read(), r.headers.get("Content-Type", "")
     if ctype.startswith("image/"):

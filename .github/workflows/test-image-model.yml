@@ -1,16 +1,16 @@
 name: Test image model
 # Manual. Makes ONE picture with the chosen Cloudflare model and attaches it to the run (nothing goes to WordPress or the repo).
-# Use it to compare models. Each Leonardo image costs a few cents (see agents/generate_images.py).
+# Only models inside Cloudflare's free daily allowance are offered (see agents/generate_images.py).
 on:
   workflow_dispatch:
     inputs:
       model:
         description: Cloudflare model id
         type: choice
-        default: "@cf/leonardo/lucid-origin"
+        default: "@cf/black-forest-labs/flux-2-klein-4b"
         options:
-          - "@cf/leonardo/lucid-origin"
-          - "@cf/leonardo/phoenix-1.0"
+          - "@cf/black-forest-labs/flux-2-klein-4b"
+          - "@cf/black-forest-labs/flux-1-schnell"
           - "@cf/lykon/dreamshaper-8-lcm"
       scene:
         description: Scene to draw (never a real person)
