@@ -30,6 +30,21 @@
     "image": ""
   },
   {
+    "path": "articles/2026-10-28-10-00-keanu-reeves.md",
+    "title": "Kyle MacLachlan Jokes He Lost a Keanu Reeves Role",
+    "description": "Kyle MacLachlan pokes fun at auditioning for the part Keanu Reeves played in Bram Stoker's Dracula, in a new clip tied to his memoir.",
+    "status": "sent",
+    "wp_status": "publish",
+    "wp_synced": "publish",
+    "batch": "2026-10-28 10:00",
+    "celebrity": "Keanu Reeves",
+    "wp_link": "https://moduscarry.com/kyle-maclachlan-jokes-he-lost-a-keanu-reeves-role/",
+    "wp_id": 1157,
+    "skip_reason": "",
+    "rewrite_note": "",
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-10-00-keanu-reeves-768x461.webp"
+  },
+  {
     "path": "articles/2026-10-28-10-00-miranda-kerr.md",
     "title": "Miranda Kerr",
     "description": "",
@@ -41,6 +56,36 @@
     "wp_link": "",
     "wp_id": null,
     "skip_reason": "no readable source text",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-10-28-10-00-russell-crowe.md",
+    "title": "Russell Crowe",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-10-28 10:00",
+    "celebrity": "Russell Crowe",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Only source is a months-old JoBlo release-date announcement for The Weight (September 18 date has already passed); no new news, and the site has already covered the film's streaming run.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-10-28-10-00-ryan-reynolds.md",
+    "title": "Ryan Reynolds",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-10-28 10:00",
+    "celebrity": "Ryan Reynolds",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "The only story is a US high school football report about a different Ryan Reynolds (Sutter Union High head coach), not the actor.",
     "rewrite_note": "",
     "image": ""
   },
@@ -657,7 +702,7 @@
     "wp_id": 1031,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-18-00-hudson-williams-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-18-00-jacob-elordi.md",
@@ -807,7 +852,7 @@
     "wp_id": 1025,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-chris-hemsworth-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-12-00-delta-goodrem.md",
@@ -822,7 +867,7 @@
     "wp_id": 1026,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-delta-goodrem-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-12-00-hudson-williams.md",
@@ -837,7 +882,7 @@
     "wp_id": 1027,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-hudson-williams-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-12-00-hugh-jackman.md",
@@ -852,7 +897,7 @@
     "wp_id": 1028,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-hugh-jackman-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-12-00-jim-carrey.md",
@@ -867,7 +912,7 @@
     "wp_id": 1029,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-jim-carrey-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-12-00-keanu-reeves.md",
@@ -882,7 +927,7 @@
     "wp_id": 1030,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-keanu-reeves-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-12-00-liam-hemsworth.md",
@@ -1002,7 +1047,7 @@
     "wp_id": 1016,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-connor-storrie-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-08-00-hudson-williams.md",
@@ -1017,7 +1062,7 @@
     "wp_id": 1017,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-hudson-williams-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-08-00-hugh-jackman.md",
@@ -1062,7 +1107,7 @@
     "wp_id": 1018,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-keanu-reeves-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-08-00-margot-robbie.md",
@@ -1107,7 +1152,7 @@
     "wp_id": 1019,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-michael-j-fox-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-08-00-miranda-kerr.md",
@@ -1137,7 +1182,7 @@
     "wp_id": 1020,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-nicole-kidman-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-08-00-rachel-mcadams.md",
@@ -1152,7 +1197,7 @@
     "wp_id": 1021,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-rachel-mcadams-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-08-00-rebel-wilson.md",
@@ -1167,7 +1212,7 @@
     "wp_id": 1022,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-rebel-wilson-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-08-00-renate-reinsve.md",
@@ -1182,7 +1227,7 @@
     "wp_id": 1023,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-renate-reinsve-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-08-00-russell-crowe.md",
@@ -1212,7 +1257,7 @@
     "wp_id": 1024,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-seth-rogen-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-08-00-troye-sivan.md",
@@ -1422,7 +1467,7 @@
     "wp_id": 1008,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-pamela-anderson-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-02-00-rachel-mcadams.md",
@@ -1452,7 +1497,7 @@
     "wp_id": 1009,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-rebel-wilson-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-02-00-renate-reinsve.md",
@@ -1467,7 +1512,7 @@
     "wp_id": 1010,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-renate-reinsve-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-02-00-russell-crowe.md",
@@ -1482,7 +1527,7 @@
     "wp_id": 1011,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-russell-crowe-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-02-00-ryan-gosling.md",
@@ -1497,7 +1542,7 @@
     "wp_id": 1012,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-ryan-gosling-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-02-00-ryan-reynolds.md",
@@ -1512,7 +1557,7 @@
     "wp_id": 1013,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-ryan-reynolds-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-02-00-sandra-oh.md",
@@ -1542,7 +1587,7 @@
     "wp_id": 1014,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-seth-rogen-768x461.webp"
   },
   {
     "path": "articles/2026-10-27-02-00-troye-sivan.md",
@@ -1557,7 +1602,7 @@
     "wp_id": 1015,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-troye-sivan-768x461.webp"
   },
   {
     "path": "articles/2026-10-26-21-00-rebel-wilson.md",
