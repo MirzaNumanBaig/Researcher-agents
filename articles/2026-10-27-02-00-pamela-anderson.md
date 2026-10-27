@@ -14,6 +14,10 @@ sources:
 wp_id: 1008
 wp_link: "https://moduscarry.com/?p=1008"
 wp_synced: pending
+image: "images/2026-10-27-02-00-pamela-anderson.webp"
+image_alt: "AI-generated illustration for: Pamela Anderson's Vancouver Island Garden Feeds Her Community"
+wp_media_id: 1108
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-pamela-anderson-768x461.webp"
 ---
 
 **Quick summary**

@@ -14,6 +14,10 @@ sources:
 wp_id: 1023
 wp_link: "https://moduscarry.com/?p=1023"
 wp_synced: pending
+image: "images/2026-10-27-08-00-renate-reinsve.webp"
+image_alt: "AI-generated illustration for: Renate Reinsve and Sebastian Stan Lead Mungiu's Fjord"
+wp_media_id: 1138
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-renate-reinsve-768x461.webp"
 ---
 
 **Quick summary**

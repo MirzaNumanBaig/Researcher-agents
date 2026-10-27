@@ -15,6 +15,10 @@ sources:
 wp_id: 1010
 wp_link: "https://moduscarry.com/?p=1010"
 wp_synced: pending
+image: "images/2026-10-27-02-00-renate-reinsve.webp"
+image_alt: "AI-generated illustration for: Renate Reinsve reportedly met Marvel about X-Men role"
+wp_media_id: 1112
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-renate-reinsve-768x461.webp"
 ---
 
 **Quick summary**

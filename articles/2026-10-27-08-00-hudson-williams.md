@@ -14,6 +14,10 @@ sources:
 wp_id: 1017
 wp_link: "https://moduscarry.com/?p=1017"
 wp_synced: pending
+image: "images/2026-10-27-08-00-hudson-williams.webp"
+image_alt: "AI-generated illustration for: Hudson Williams: Yaga Reviewed, and a Hockey Script Teased"
+wp_media_id: 1126
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-hudson-williams-768x461.webp"
 ---
 
 **Quick summary**

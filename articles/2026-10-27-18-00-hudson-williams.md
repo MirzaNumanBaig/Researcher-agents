@@ -13,6 +13,10 @@ sources:
 wp_id: 1031
 wp_link: "https://moduscarry.com/?p=1031"
 wp_synced: pending
+image: "images/2026-10-27-18-00-hudson-williams.webp"
+image_alt: "AI-generated illustration for: Hudson Williams Stars in AMC+ Folk Horror Series Yaga"
+wp_media_id: 1154
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-18-00-hudson-williams-768x461.webp"
 ---
 
 **Quick summary**
