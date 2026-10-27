@@ -65,9 +65,13 @@
       "outlets": [
         {
           "source": "Nine.com.au",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRk5FSV9hSHRpMVB2X1JTSjhXRGVPRE1zNlpqbk05elhDdkpIcDJpemJtYnFfOG45dzhyVldrdDJPMDBnNTdZekdUWHZqWkVGM2ZOT1poRUQ0blo3UDJ4bWotUjlQVFliNmJDbVZ0N3B2VGdlbFp4VTZfYmZlNjRWSDhCYzhWb3hMQ2t1eEVQa2hJdC1aYVo4c0NXSUFJbnZ4WUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRk5FSV9hSHRpMVB2X1JTSjhXRGVPRE1zNlpqbk05elhDdkpIcDJpemJtYnFfOG45dzhyVldrdDJPMDBnNTdZekdUWHZqWkVGM2ZOT1poRUQ0blo3UDJ4bWotUjlQVFliNmJDbVZ0N3B2VGdlbFp4VTZfYmZlNjRWSDhCYzhWb3hMQ2t1eEVQa2hJdC1aYVo4c0NXSUFJbnZ4WUE?oc=5",
+          "article_url": "https://www.nine.com.au/entertainment/videos/delta-goodrem-drops-new-music/cmqtzlf8o002a0hr719erdeww",
+          "image": "https://imageresizer.static9.net.au/QNuZR9eQYTLsRxnkwYHvpRuufHU=/800x0/filters:no_upscale()/https%3A%2F%2Fvms-network-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F780539%2Fdelta.png"
         }
-      ]
+      ],
+      "image": "https://imageresizer.static9.net.au/QNuZR9eQYTLsRxnkwYHvpRuufHU=/800x0/filters:no_upscale()/https%3A%2F%2Fvms-network-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F780539%2Fdelta.png",
+      "image_source": "https://www.nine.com.au/entertainment/videos/delta-goodrem-drops-new-music/cmqtzlf8o002a0hr719erdeww"
     },
     {
       "title": "Delta Goodrem shares emotional health update hours before TV comeback",

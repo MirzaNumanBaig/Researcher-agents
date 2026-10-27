@@ -20,9 +20,13 @@
       "outlets": [
         {
           "source": "Comic Book Resources",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwbGNQOTJWMWV5MlhHRWkycVhNR0JMRWI2M0lDZHhuUW9RVkxHUDZJYlQ2YXFmMXZxVGN5VFZZQWJFcE1jNjNBWkdsUjAyZ2hiQk1BZlcxYUtael9BbXZYc3RETXZLSW9HRDFCaDBuSnBGclBsemxxMzlvMTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwbGNQOTJWMWV5MlhHRWkycVhNR0JMRWI2M0lDZHhuUW9RVkxHUDZJYlQ2YXFmMXZxVGN5VFZZQWJFcE1jNjNBWkdsUjAyZ2hiQk1BZlcxYUtael9BbXZYc3RETXZLSW9HRDFCaDBuSnBGclBsemxxMzlvMTQ?oc=5",
+          "article_url": "https://www.cbr.com/the-weight-defeats-runner-pvod-success-october-2026/",
+          "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/the-weight-russell-crowe.jpg?w=1200&h=675&fit=crop"
         }
-      ]
+      ],
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/the-weight-russell-crowe.jpg?w=1200&h=675&fit=crop",
+      "image_source": "https://www.cbr.com/the-weight-defeats-runner-pvod-success-october-2026/"
     },
     {
       "title": "Russell Crowe’s New Crime Thriller Officially Hits 50 Million Views",

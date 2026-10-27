@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-28 00:00",
+  "celebrity": "Keanu Reeves",
+  "stories": [
+    {
+      "title": "Keanu Reeves 'to replace Alan Ritchson' in major project",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTJfOXRVd1lfUFJUQWxHT01PQmJTWnluWXBHMzIzLWZTRjg2ZElWUlRjdlAwYzZvWHJ3NWpVbDRmTm1QSHlCVk44QXRjMkgzLU03QWNyczN4N2ZpSVJGMl9qc2NvSGJfVHQxNmpCVG5VVzV4NkRpd0kyOWFUQUhGX0xEWnN6eTA?oc=5",
+      "published": "2026-10-27T10:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo Lifestyle Australia",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTJfOXRVd1lfUFJUQWxHT01PQmJTWnluWXBHMzIzLWZTRjg2ZElWUlRjdlAwYzZvWHJ3NWpVbDRmTm1QSHlCVk44QXRjMkgzLU03QWNyczN4N2ZpSVJGMl9qc2NvSGJfVHQxNmpCVG5VVzV4NkRpd0kyOWFUQUhGX0xEWnN6eTA?oc=5",
+          "article_url": "https://au.lifestyle.yahoo.com/keanu-reeves-replace-alan-ritchson-100000061.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/8bf630cd25ff5874fd450c583e2e9c9491912ed31a302329a45002f8ef611d08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbang_showbiz_au_766%2F7c405b081718256ea3b6d8eb46f318ad.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/8bf630cd25ff5874fd450c583e2e9c9491912ed31a302329a45002f8ef611d08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbang_showbiz_au_766%2F7c405b081718256ea3b6d8eb46f318ad.jpg",
+      "image_source": "https://au.lifestyle.yahoo.com/keanu-reeves-replace-alan-ritchson-100000061.html"
+    },
+    {
+      "title": "Dogstar & Keanu Reeves Pay Tribute To Minneapolis Alt-Rock History at The Fillmore (PHOTOS)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUlBOGJWeU1vQjhUX3pLRE83c3A2aVdacnhPZUotMjdnR283aG5ZLWc1eEsybzFQalJTU2NUZERJYVo3R0IzZG1IenlELUlENTJOa3Jxb3ZvMDdiR2xSb25vQUoyUzJhNklIY2xab3ZJRGlobVRTMFFFcUpzWkh1b1l3eUpoenZCdnNQcGYyNVJlZVBOS1JpOUNrUjBVNHl6TTA3Qm9USGFVc3JWdi1scG14LXJCZng3a0JxRlh3?oc=5",
+      "published": "2026-10-27T05:19:42+00:00",
+      "outlets": [
+        {
+          "source": "Glide Magazine",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUlBOGJWeU1vQjhUX3pLRE83c3A2aVdacnhPZUotMjdnR283aG5ZLWc1eEsybzFQalJTU2NUZERJYVo3R0IzZG1IenlELUlENTJOa3Jxb3ZvMDdiR2xSb25vQUoyUzJhNklIY2xab3ZJRGlobVRTMFFFcUpzWkh1b1l3eUpoenZCdnNQcGYyNVJlZVBOS1JpOUNrUjBVNHl6TTA3Qm9USGFVc3JWdi1scG14LXJCZng3a0JxRlh3?oc=5",
+          "article_url": "https://glidemagazine.com/332097/dogstar-keanu-reeves-pay-tribute-to-minneapolis-alt-rock-history-at-the-fillmore-photos/",
+          "image": "https://cdn.glidemagazine.com/wp-content/uploads/2026/10/26234322/17_Dogstar.Fillmore.10232026.BillyBriggs.jpg"
+        }
+      ],
+      "image": "https://cdn.glidemagazine.com/wp-content/uploads/2026/10/26234322/17_Dogstar.Fillmore.10232026.BillyBriggs.jpg",
+      "image_source": "https://glidemagazine.com/332097/dogstar-keanu-reeves-pay-tribute-to-minneapolis-alt-rock-history-at-the-fillmore-photos/"
+    }
+  ]
+}

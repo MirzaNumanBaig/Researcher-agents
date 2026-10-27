@@ -302,21 +302,31 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51UVd1MkZwa2Y1WmdoWHh6T2xISThyVnV3ZVBkaXhOUWw0dGw2SE1ya0V3dXNzeGxGbWk1TWlpZ2t0MTdobzlTMVVDV0RGeVU4MzRnLW9WdnptR1lpcTNwQldlWGo?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51UVd1MkZwa2Y1WmdoWHh6T2xISThyVnV3ZVBkaXhOUWw0dGw2SE1ya0V3dXNzeGxGbWk1TWlpZ2t0MTdobzlTMVVDV0RGeVU4MzRnLW9WdnptR1lpcTNwQldlWGo?oc=5",
+          "article_url": "https://www.imdb.com/de/news/ni66075720/?ref_=nm_nwr_1",
+          "image": ""
         },
         {
           "source": "Yahoo News UK",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMS2UyZmh0MlpvQzZCOHFlMVRrZVZQUllpN21rSWhuOXFoSDZWTU5menFKa3FCTUtfZ2hLbmZrME5kNU9kMFY5MUhZMlRBc2FTSDk3cG9ySDVFZ0hwWXZzZmY4STVfeHlpd28yOGp2MDlRVVp3OG9z?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMS2UyZmh0MlpvQzZCOHFlMVRrZVZQUllpN21rSWhuOXFoSDZWTU5menFKa3FCTUtfZ2hLbmZrME5kNU9kMFY5MUhZMlRBc2FTSDk3cG9ySDVFZ0hwWXZzZmY4STVfeHlpd28yOGp2MDlRVVp3OG9z?oc=5",
+          "article_url": "https://uk.news.yahoo.com/rebel-wilson-trial-over-deb-212842159.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/7320dc3545805e11a38082276a5542f5fb759d1fdb1689f28494a9a5df0f80e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F61c27034da9cdf7488138de1fd801a45.jpg"
         },
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQelVtejI1NHg3R1h3dGVYUjFCUFY1QS1NcjhsNnVjM1ZEN0VRNjJrS0ZUSGttZVktVFNTWC1ab3VJOUV1UjJzNjhWaE9MdUZxWWs3Y0JqeGNKUk1ldnBieXM4Rk9zZGg0YzAtQ1R3c2pRVTZqU1pmS0ZwZTd3dXZncUVmMGZndWdsUVV2c0lqSFpsMnYtVUtIUW5n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQelVtejI1NHg3R1h3dGVYUjFCUFY1QS1NcjhsNnVjM1ZEN0VRNjJrS0ZUSGttZVktVFNTWC1ab3VJOUV1UjJzNjhWaE9MdUZxWWs3Y0JqeGNKUk1ldnBieXM4Rk9zZGg0YzAtQ1R3c2pRVTZqU1pmS0ZwZTd3dXZncUVmMGZndWdsUVV2c0lqSFpsMnYtVUtIUW5n?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/movies/articles/rebel-wilson-trial-over-deb-212842159.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/7320dc3545805e11a38082276a5542f5fb759d1fdb1689f28494a9a5df0f80e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F61c27034da9cdf7488138de1fd801a45.jpg"
         },
         {
           "source": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wVjJsNzZSR2NVMGhTVGRSMzIzREd3aDB1c29jNklJTkwxY25PUU1YbGp2X0E0cS0tR1VkWE9iYl9va3FzN0tKRU1XdHNpUmN3eUNkWDByVUFjSlBqX1g1T2cxQUg5MHl1WDQ4dmV1VlhDcTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wVjJsNzZSR2NVMGhTVGRSMzIzREd3aDB1c29jNklJTkwxY25PUU1YbGp2X0E0cS0tR1VkWE9iYl9va3FzN0tKRU1XdHNpUmN3eUNkWDByVUFjSlBqX1g1T2cxQUg5MHl1WDQ4dmV1VlhDcTA?oc=5",
+          "article_url": "https://deadline.com/2026/10/rebel-wilson-trial-delay-1237171175/",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/7320dc3545805e11a38082276a5542f5fb759d1fdb1689f28494a9a5df0f80e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F61c27034da9cdf7488138de1fd801a45.jpg",
+      "image_source": "https://uk.news.yahoo.com/rebel-wilson-trial-over-deb-212842159.html"
     },
     {
       "title": "Rebel Wilson wins second court case over directorial debut film The Deb against production company AI Film",

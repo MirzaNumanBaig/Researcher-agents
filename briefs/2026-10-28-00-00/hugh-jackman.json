@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-28 00:00",
+  "celebrity": "Hugh Jackman",
+  "stories": [
+    {
+      "title": "Hugh Jackman's \"Greatest Superhero Movie of All Time\" Was a Secret Remake of a Clint Eastwood Western Masterpiece",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMms0cjdxaXV6WTdlcGUwLVlUM2NHRk5jYXBmellIUkRtdDBVT0lkYjRteHRTRU9UT0lubzhya1kwWFVVN25tSWZfWmpFWFZpUWx5azI4RHJsNURndnJxT0RxSjlhVlg4?oc=5",
+      "published": "2026-10-27T13:00:17+00:00",
+      "outlets": [
+        {
+          "source": "MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMms0cjdxaXV6WTdlcGUwLVlUM2NHRk5jYXBmellIUkRtdDBVT0lkYjRteHRTRU9UT0lubzhya1kwWFVVN25tSWZfWmpFWFZpUWx5azI4RHJsNURndnJxT0RxSjlhVlg4?oc=5",
+          "article_url": "https://movieweb.com/logan-clint-eastwood-western-remake/",
+          "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/06/hugh-jackman-at-the-sheep-detectives-premiere.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/06/hugh-jackman-at-the-sheep-detectives-premiere.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://movieweb.com/logan-clint-eastwood-western-remake/"
+    }
+  ]
+}

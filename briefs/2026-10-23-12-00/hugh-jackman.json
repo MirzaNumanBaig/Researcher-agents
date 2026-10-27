@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "ComicBook.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlAtcnlCQkg0QV85cXFCbmlDUDlYbnVZa0tueWUzWkFoeFVMamxyZHctZVRUWEJ3LXV2MkNiTklzN2R1WHlHdG1GMTlVekdUU1pUd3VaTEEwb0hGT0s5bnNJQXlTMU1fWUJ5Ym1vVUJBM083RFdzVThQNnpmckdHR05GSWRKODNUVVRjQlZJdWVDTkRxaDR1Y3hvd1BYTHFtcTB6QzczQmwxSzNHM3BWTmxWaFF0WlZTYkdXU2xpbjZHam44ZzZQZHlfRURBeHNVelE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlAtcnlCQkg0QV85cXFCbmlDUDlYbnVZa0tueWUzWkFoeFVMamxyZHctZVRUWEJ3LXV2MkNiTklzN2R1WHlHdG1GMTlVekdUU1pUd3VaTEEwb0hGT0s5bnNJQXlTMU1fWUJ5Ym1vVUJBM083RFdzVThQNnpmckdHR05GSWRKODNUVVRjQlZJdWVDTkRxaDR1Y3hvd1BYTHFtcTB6QzczQmwxSzNHM3BWTmxWaFF0WlZTYkdXU2xpbjZHam44ZzZQZHlfRURBeHNVelE?oc=5",
+          "article_url": "https://comicbook.com/movies/list/5-great-hugh-jackman-performances-outside-of-wolverine-including-a-10-10-thriller-with-2-marvel-stars/",
+          "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/12/Hugh-Jackman-in-Deadpool-and-Wolverine.jpg?resize=2000,1125"
         }
-      ]
+      ],
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/12/Hugh-Jackman-in-Deadpool-and-Wolverine.jpg?resize=2000,1125",
+      "image_source": "https://comicbook.com/movies/list/5-great-hugh-jackman-performances-outside-of-wolverine-including-a-10-10-thriller-with-2-marvel-stars/"
     }
   ]
 }
