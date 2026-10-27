@@ -10,6 +10,8 @@ Decisions made 2026-10-27:
 - Featured-image model is **FLUX.1 schnell** (`@cf/black-forest-labs/flux-1-schnell`), chosen by the user after the sample comparison (klein 4B was the close second; DreamShaper looked bad). It is the code default (`MODEL` in agents/generate_images.py); the sending workflows do not pass a `CF_IMAGE_MODEL` secret, so a secret of that name has no effect. `ai_images` is turned on in the same change.
 - Memory lives in the repo at `.claude/memory/` (the cloud container is temporary), loaded by `CLAUDE.md` and `.claude/rules/memory.md`. The repo is public: never put secrets in memory.
 
+- Dashboard Articles view now has status tabs (Pending review / Drafts / Published / To approve / Skipped & other) and each card shows the post's featured image (`wp_image`, synced from WordPress by publish_wordpress.py).
+
 Pending / open:
 - Merge the branch that turns schnell images on; after it, recent sent posts (under 48 hours old) without an image get one on the next run, and posts then carry featured images.
 - PR #5 (klein4b + featured-image skill) is open and conflicts with `main`; offer to rebase it (it would then only add the skill and prompt tweaks) or close it.
