@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams' Yaga Lands on Lionsgate Play on 6 November"
 description: "Lionsgate Play has set 6 November for Yaga, with Hudson Williams as a missing heir, and 27 November for Connor Storrie's film April X."
-status: pending
+status: sent
 wp_status: pending
 batch: "2026-10-28 00:00"
 celebrity: "Hudson Williams"
@@ -10,6 +10,9 @@ tags: ["Hudson Williams", "Yaga", "Heated Rivalry", "Connor Storrie", "Lionsgate
 image_prompt: "A fog-covered coastal fishing town at dusk, a lone lit window above a quiet harbour and pine forest behind"
 sources:
   - "https://www.keralatv.in/yaga-april-x-ott-release-date-lionsgate-play/"
+wp_id: 1037
+wp_link: "https://moduscarry.com/?p=1037"
+wp_synced: pending
 ---
 
 **Quick summary**

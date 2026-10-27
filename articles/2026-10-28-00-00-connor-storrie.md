@@ -1,7 +1,7 @@
 ---
 title: "Connor Storrie's sci-fi thriller April X sets 27 November date"
 description: "Connor Storrie leads sci-fi thriller April X on Lionsgate Play from 27 November, after Heated Rivalry. Here is the cast, plot and what to know."
-status: pending
+status: sent
 wp_status: pending
 batch: "2026-10-28 00:00"
 celebrity: "Connor Storrie"
@@ -10,6 +10,9 @@ tags: ["Connor Storrie", "Hudson Williams", "Heated Rivalry", "Lionsgate Play"]
 image_prompt: "A neon-lit futuristic city street at night in the rain, glowing signs reflected on wet pavement, moody sci-fi atmosphere"
 sources:
   - "https://www.keralatv.in/yaga-april-x-ott-release-date-lionsgate-play/"
+wp_id: 1034
+wp_link: "https://moduscarry.com/?p=1034"
+wp_synced: pending
 ---
 
 **Quick summary**
