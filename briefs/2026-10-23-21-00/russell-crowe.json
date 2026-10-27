@@ -86,13 +86,19 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05S0VkRi0tZXFmTjh0QWxYa0ZGTGprbWo0VEhsWF92TG8tejFqMGktaUpRbDBzQzd6VlRremxWc0FtcE5jRU81V0RfNUZMc3dHdjZoVHgxUFZqcG8xSWNjUG5RQWxISFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05S0VkRi0tZXFmTjh0QWxYa0ZGTGprbWo0VEhsWF92TG8tejFqMGktaUpRbDBzQzd6VlRremxWc0FtcE5jRU81V0RfNUZMc3dHdjZoVHgxUFZqcG8xSWNjUG5RQWxISFE?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66079776/?ref_=nmnw_art_perm",
+          "image": ""
         },
         {
           "source": "Collider",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNEZOZzhOU0VlOWUwandVa2JWaGc3UThFeGVNNFZfbXU4ekdtZkp3UWxEcDdtRjZDRGhBZl9zVDhvRVdHVTJmR0NPajFCUGJSbzN0Y0VJT0RTOEx5bEtYUHo2SGJvUmV4N3Q5aUV0ZXlDZlBkTjlzRTNfUVhSbi00enhxOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNEZOZzhOU0VlOWUwandVa2JWaGc3UThFeGVNNFZfbXU4ekdtZkp3UWxEcDdtRjZDRGhBZl9zVDhvRVdHVTJmR0NPajFCUGJSbzN0Y0VJT0RTOEx5bEtYUHo2SGJvUmV4N3Q5aUV0ZXlDZlBkTjlzRTNfUVhSbi00enhxOA?oc=5",
+          "article_url": "https://collider.com/russell-crowe-the-weight-streaming-digital-october-2026/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/01/the-weight-russell-crowe.jpg?w=1200&h=675&fit=crop"
         }
-      ]
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/01/the-weight-russell-crowe.jpg?w=1200&h=675&fit=crop",
+      "image_source": "https://collider.com/russell-crowe-the-weight-streaming-digital-october-2026/"
     },
     {
       "title": "Russell Crowe’s New Crime Thriller Officially Hits 50 Million Views",

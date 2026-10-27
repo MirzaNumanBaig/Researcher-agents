@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-27 18:00",
+  "celebrity": "Seth Rogen",
+  "stories": [
+    {
+      "title": "Sephora Turned Into ‘Sethphora’ for Seth Rogen’s Holiday Campaign",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZV3BKWFpuOG9kaG5IZHlDbmlENE4zV19lSW8zQTJ0ak9GZ0hLcG0wZDNSSE9pNkFZdmJmRFZKM1owaGVPTTBvRmJ1SGNaY1pENDgxT2tNcFZKazZvSnFrOWZ2dVpaSGZuamd4aFVtSWpYeVc2NjdZNnVKU0RaQQ?oc=5",
+      "published": "2026-10-27T06:55:02+00:00",
+      "outlets": [
+        {
+          "source": "Totally The Bomb",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZV3BKWFpuOG9kaG5IZHlDbmlENE4zV19lSW8zQTJ0ak9GZ0hLcG0wZDNSSE9pNkFZdmJmRFZKM1owaGVPTTBvRmJ1SGNaY1pENDgxT2tNcFZKazZvSnFrOWZ2dVpaSGZuamd4aFVtSWpYeVc2NjdZNnVKU0RaQQ?oc=5",
+          "article_url": "https://totallythebomb.com/sephora-sethphora-seth-rogen-holiday-campaign/",
+          "image": "https://cdn.totallythebomb.com/wp-content/uploads/2026/10/seth-rogen-sephora-hero.jpg"
+        }
+      ],
+      "image": "https://cdn.totallythebomb.com/wp-content/uploads/2026/10/seth-rogen-sephora-hero.jpg",
+      "image_source": "https://totallythebomb.com/sephora-sethphora-seth-rogen-holiday-campaign/"
+    },
+    {
+      "title": "Sephora's Seth Rogen holiday campaign takes over LA",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WejM4cEt0MWw1S2FpV2NzWFVrbFlFRHJsOGtYd1BKbnJwNDBLMnhGRHpGZ1M2M2VTRy03ZmVhWnQyOUZ5MUZNMnVSWVl2RXRNR2Y2NmhuMUZWVDJNSlhjTmpKT3UwUQ?oc=5",
+      "published": "2026-10-27T03:06:26+00:00",
+      "outlets": [
+        {
+          "source": "ContentGrip",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WejM4cEt0MWw1S2FpV2NzWFVrbFlFRHJsOGtYd1BKbnJwNDBLMnhGRHpGZ1M2M2VTRy03ZmVhWnQyOUZ5MUZNMnVSWVl2RXRNR2Y2NmhuMUZWVDJNSlhjTmpKT3UwUQ?oc=5",
+          "article_url": "https://www.contentgrip.com/sephora-seth-rogen-holiday/",
+          "image": "https://contentgrip-media.b-cdn.net/featured/Sephoras-Seth-Rogen-holiday-campaign-takes-over-LA.webp"
+        }
+      ],
+      "image": "https://contentgrip-media.b-cdn.net/featured/Sephoras-Seth-Rogen-holiday-campaign-takes-over-LA.webp",
+      "image_source": "https://www.contentgrip.com/sephora-seth-rogen-holiday/"
+    }
+  ]
+}

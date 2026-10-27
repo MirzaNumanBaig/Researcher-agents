@@ -24,9 +24,13 @@
       "outlets": [
         {
           "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JLVFiUFZnOGpBZ01WT25pZVhYTzBHSVFSc25kenpmN2J4eHpCRzc0OHN0cXcyREYxM0p5X1pyWVE0SUlnMTIyVG5LaVdQS1Nq?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JLVFiUFZnOGpBZ01WT25pZVhYTzBHSVFSc25kenpmN2J4eHpCRzc0OHN0cXcyREYxM0p5X1pyWVE0SUlnMTIyVG5LaVdQS1Nq?oc=5",
+          "article_url": "https://www.bbc.com/audio/play/w3ct98kv",
+          "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pj0bdt.jpg"
         }
-      ]
+      ],
+      "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pj0bdt.jpg",
+      "image_source": "https://www.bbc.com/audio/play/w3ct98kv"
     },
     {
       "title": "Gasps as Prince William joins Cate Blanchett and Robert Irwin on Graham Norton",
