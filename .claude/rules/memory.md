@@ -1,5 +1,10 @@
 # Memory
 
+Memory for this project lives IN THE REPO, in `.claude/memory/` (the cloud container is temporary, so files kept elsewhere are lost).
+`CLAUDE.md` loads `.claude/memory/MEMORY.md` at the start of every session. The repo is public: never write secrets, tokens, keys or
+personal contact details into memory. A memory change only persists once it is committed and pushed, so after saving one, tell the user
+or commit it on a branch like any other change (the working style is in `feedback-working-style.md`).
+
 ## Recall — Before Responding
 
 Check memory when the message involves past decisions, preferences, system
@@ -21,7 +26,7 @@ Run this decision tree after every substantive response:
 
 ## Memory File Format
 
-Save each memory as its own file in the memory directory:
+Save each memory as its own file in `.claude/memory/`:
 
 ```markdown
 ---
