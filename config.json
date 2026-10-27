@@ -349,7 +349,7 @@
   ],
   "max_age_hours": 48,
   "headline_must_name": true,
-  "ai_images": false,
+  "ai_images": true,
   "headline_full_name_only": [
     "Michael J. Fox",
     "Sandra Oh",

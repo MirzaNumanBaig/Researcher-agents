@@ -54,3 +54,10 @@ class EncodeAndSize(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class DefaultModel(unittest.TestCase):
+    def test_default_is_flux_schnell(self):
+        if "CF_IMAGE_MODEL" in os.environ:
+            self.skipTest("CF_IMAGE_MODEL is set in this environment")
+        self.assertEqual(gi.MODEL, SCHNELL)

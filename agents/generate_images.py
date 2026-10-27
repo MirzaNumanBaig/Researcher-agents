@@ -1,6 +1,6 @@
 """Create one featured image per article with Cloudflare Workers AI (standard library only).
 
-Env (GitHub Actions secrets): CF_ACCOUNT_ID, CF_API_TOKEN.  Optional: CF_IMAGE_MODEL (default @cf/lykon/dreamshaper-8-lcm).
+Env (GitHub Actions secrets): CF_ACCOUNT_ID, CF_API_TOKEN.  Optional: CF_IMAGE_MODEL (default @cf/black-forest-labs/flux-1-schnell).
 For every article whose status is pending/approved/sent and that has no `image:` yet, it reads the front matter `image_prompt`
 (a scene description the writer produced; never a real person), asks Cloudflare for an image, resizes and centre-crops it to exactly 1500x900 (config: OUT_WIDTH/OUT_HEIGHT), converts it to WebP (Pillow) and saves it as
 articles/images/<article-name>.webp (git-ignored; the publish step uploads it in the same run) and adds `image:` and `image_alt:` to the front matter. publish_wordpress.py uploads it
@@ -11,10 +11,10 @@ Only articles that are about to be (or were just) sent get an image, so no reque
   sent without wp_media_id         only when the article is at most RETRY_HOURS old (retries a failed upload; never backfills old posts)
 usage: generate_images.py [--max N] [--include-pending]
        generate_images.py --sample "scene" [--out file.webp]   one test image with CF_IMAGE_MODEL (nothing is saved to articles or WordPress)
-Models (set CF_IMAGE_MODEL), all inside Cloudflare's free 10,000 neurons/day at your volume (neurons per 1536x896 image, 6 tiles, rounded up):
+Models (override with CF_IMAGE_MODEL), all inside Cloudflare's free 10,000 neurons/day at your volume (neurons per 1536x896 image, 6 tiles, rounded up):
   @cf/black-forest-labs/flux-2-klein-4b   ~156 (about 60 images/day free; multipart request, 1024x576 as proven in PR #5)
-  @cf/black-forest-labs/flux-1-schnell    ~70-110 (about 90+ images/day free; JSON, size not selectable)
-  @cf/lykon/dreamshaper-8-lcm             current default (price not in Cloudflare's table)
+  @cf/black-forest-labs/flux-1-schnell    DEFAULT. ~70-110 (about 90+ images/day free; JSON, size not selectable)
+  @cf/lykon/dreamshaper-8-lcm             the old default (its sample pictures were poor; price not in Cloudflare's table)
 Each has its own request settings in MODEL_SETTINGS below. Leonardo Lucid/Phoenix cost 3,400-4,100 neurons per image (2-3 images/day free), so they are not offered.
 """
 import base64
@@ -30,7 +30,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 ACCOUNT, TOKEN = os.environ.get("CF_ACCOUNT_ID", "").strip(), os.environ.get("CF_API_TOKEN", "").strip()
-MODEL = os.environ.get("CF_IMAGE_MODEL", "@cf/lykon/dreamshaper-8-lcm")
+MODEL = os.environ.get("CF_IMAGE_MODEL", "@cf/black-forest-labs/flux-1-schnell")
 BASE = os.environ.get("CF_API_BASE", "https://api.cloudflare.com/client/v4").rstrip("/")
 STYLE = "editorial photograph, cinematic lighting, shallow depth of field, rich colour, no text, no logos, no watermark, no people's faces"
 FALLBACK = {  # used only when the writer gave no image_prompt; scenes, never people
