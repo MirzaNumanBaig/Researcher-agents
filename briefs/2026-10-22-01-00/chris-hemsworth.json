@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "myKhel",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR2ZxSVZXcW5DRTItLUc1THBJQ1gxdnlPUHNkaVJPMzRTb19OMzEyMmIwd0pLdUdzQzdVSndyMGN3dlY5c1lZaGhYbEMtTDZIR2hBdTBkOUsyUXBBRkVRT1k5Z0xPbG9HUXBFM0JCQUtydVlTMmRIaXBodnhzcVJVMWRjZXAtSjYxYjlxSXRCN0RmdXBMcXdScnNKZk1vRmg3ZFZnd2Yxc0NhODVJdmFLcVFjcHpra2tYLUprbWN2aVFVc05pR3NHSDg3bHZPMUhzV3lQSDZ4U2ZOdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR2ZxSVZXcW5DRTItLUc1THBJQ1gxdnlPUHNkaVJPMzRTb19OMzEyMmIwd0pLdUdzQzdVSndyMGN3dlY5c1lZaGhYbEMtTDZIR2hBdTBkOUsyUXBBRkVRT1k5Z0xPbG9HUXBFM0JCQUtydVlTMmRIaXBodnhzcVJVMWRjZXAtSjYxYjlxSXRCN0RmdXBMcXdScnNKZk1vRmg3ZFZnd2Yxc0NhODVJdmFLcVFjcHpra2tYLUprbWN2aVFVc05pR3NHSDg3bHZPMUhzV3lQSDZ4U2ZOdw?oc=5",
+          "article_url": "https://www.mykhel.com/more-sports/one-championship-s-rodtang-meets-hollywood-star-chris-hemsworth-on-extraction-3-set-in-thailand-456933.html",
+          "image": "https://images.mykhel.com/img/2026/10/chris-hemsworth-and-rodtang-27491792573190.jpg"
         }
-      ]
+      ],
+      "image": "https://images.mykhel.com/img/2026/10/chris-hemsworth-and-rodtang-27491792573190.jpg",
+      "image_source": "https://www.mykhel.com/more-sports/one-championship-s-rodtang-meets-hollywood-star-chris-hemsworth-on-extraction-3-set-in-thailand-456933.html"
     }
   ]
 }

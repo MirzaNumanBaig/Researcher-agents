@@ -50,9 +50,13 @@
       "outlets": [
         {
           "source": "Animation World Network",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDU5MFJjalZRLUFBZ2xxTjRRRnRaWk5KS0FOemI1LWVWUk82bHBZeVo4dU9hZ1o1cnZQM0hfTTlKVFdEdEJSUXZ2Q1cxOElUOC1kX1psMVhBUnhEYXdIWGZtczF5XzNxRF80TVR5MV9yUGRXM0NlZDJyX1N6ZVlyZkVzVlVVWTJ1d2UteA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDU5MFJjalZRLUFBZ2xxTjRRRnRaWk5KS0FOemI1LWVWUk82bHBZeVo4dU9hZ1o1cnZQM0hfTTlKVFdEdEJSUXZ2Q1cxOElUOC1kX1psMVhBUnhEYXdIWGZtczF5XzNxRF80TVR5MV9yUGRXM0NlZDJyX1N6ZVlyZkVzVlVVWTJ1d2UteA?oc=5",
+          "article_url": "https://www.awn.com/news/bad-fairies-fills-out-its-fairy-gang-minogue-groff-and-tate",
+          "image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081571-bfcastgrid4x2-1280.jpg?itok=FytBfoNP"
         }
-      ]
+      ],
+      "image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081571-bfcastgrid4x2-1280.jpg?itok=FytBfoNP",
+      "image_source": "https://www.awn.com/news/bad-fairies-fills-out-its-fairy-gang-minogue-groff-and-tate"
     },
     {
       "title": "Best-dressed celebrities of October 2026: 45 looks not to miss, from Maya Jama to Kylie Minogue",
@@ -61,9 +65,13 @@
       "outlets": [
         {
           "source": "Yahoo Lifestyle Canada",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUjExR25SRGY3bXhSaDM4YTRKbVdtWnpYVURqNFY4NmV1Vkl6SmMwcFczRGwxdnV2WVJvenNnSHQzZVN6blhZMnJDaXN0c0dESTZwZzBSRW1Sb2ZtekQ3YUVzTVY3ZVZjcldBVUNlQWx2ZDNaQ1I2QlJ2TE1FN3g2c0UxWm5Vdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUjExR25SRGY3bXhSaDM4YTRKbVdtWnpYVURqNFY4NmV1Vkl6SmMwcFczRGwxdnV2WVJvenNnSHQzZVN6blhZMnJDaXN0c0dESTZwZzBSRW1Sb2ZtekQ3YUVzTVY3ZVZjcldBVUNlQWx2ZDNaQ1I2QlJ2TE1FN3g2c0UxWm5Vdw?oc=5",
+          "article_url": "https://ca.style.yahoo.com/best-dressed-celebrities-october-2026-122900791.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/d46f24814316d9ee393e6535f8bcb139686f4bc9fd36427ba1cb1536cc1c7fa5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_111%2F2301d9d3334e5ed87fb705f6ae253804.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/d46f24814316d9ee393e6535f8bcb139686f4bc9fd36427ba1cb1536cc1c7fa5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_111%2F2301d9d3334e5ed87fb705f6ae253804.jpg",
+      "image_source": "https://ca.style.yahoo.com/best-dressed-celebrities-october-2026-122900791.html"
     }
   ]
 }

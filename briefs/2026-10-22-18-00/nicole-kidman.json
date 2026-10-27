@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "The Handbook",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56bUp0SlNHbEhFdDJTVHpmbnhPa1FkOHFnenpPQzhyUy1OVUZ6RVJYeGpHdTE2ajBhZ1Jhdk9uaUNId1pDSmhxWVNZa1Z1aUk1aXJrbFB4Tk0zOVNmdlNheHFoR0w?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56bUp0SlNHbEhFdDJTVHpmbnhPa1FkOHFnenpPQzhyUy1OVUZ6RVJYeGpHdTE2ajBhZ1Jhdk9uaUNId1pDSmhxWVNZa1Z1aUk1aXJrbFB4Tk0zOVNmdlNheHFoR0w?oc=5",
+          "article_url": "https://www.thehandbook.com/nicole-kidman-office-chic/",
+          "image": "https://files.thehandbook.com/uploads/2026/10/untitled-design-2026-10-21t093027071.jpg"
         }
-      ]
+      ],
+      "image": "https://files.thehandbook.com/uploads/2026/10/untitled-design-2026-10-21t093027071.jpg",
+      "image_source": "https://www.thehandbook.com/nicole-kidman-office-chic/"
     },
     {
       "title": "Nicole Kidman's daughter reveals future plans amid international model status",
@@ -20,9 +24,13 @@
       "outlets": [
         {
           "source": "HELLO! Magazine",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkFLNUQ1NXBwR2s4RFhwMDJ3eEQ5UTgyZ2RwRlZmSnB2Xy1VbFlDQTlobnNaRFpXQmVqZXNjdmpfaDM2bzQ4UjV1ZHlJNUNzSldVdkIwTFNteFpDbTVRdkMwT1g0RXZqMnNEcVZjY2dkZDF5WHVWOWJRSTRhY0I4MnFVM1ZuU2lhVzBhdktwcnlhR3FpYks4UW9CYjFpTzFVaGsyX3N3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkFLNUQ1NXBwR2s4RFhwMDJ3eEQ5UTgyZ2RwRlZmSnB2Xy1VbFlDQTlobnNaRFpXQmVqZXNjdmpfaDM2bzQ4UjV1ZHlJNUNzSldVdkIwTFNteFpDbTVRdkMwT1g0RXZqMnNEcVZjY2dkZDF5WHVWOWJRSTRhY0I4MnFVM1ZuU2lhVzBhdktwcnlhR3FpYks4UW9CYjFpTzFVaGsyX3N3?oc=5",
+          "article_url": "https://www.hellomagazine.com/us/930330/nicole-kidmans-daughter-reveals-future-plans-amid-model-status/",
+          "image": "https://images.hellomagazine.com/horizon/landscape/1200/301fab26989a-nicole-sunday-dior.jpg"
         }
-      ]
+      ],
+      "image": "https://images.hellomagazine.com/horizon/landscape/1200/301fab26989a-nicole-sunday-dior.jpg",
+      "image_source": "https://www.hellomagazine.com/us/930330/nicole-kidmans-daughter-reveals-future-plans-amid-model-status/"
     },
     {
       "title": "Nicole Kidman Wore Ballerina Sneakers to the Airport—Shop the Chic Fall Shoe Trend, From $18 at Amazon",

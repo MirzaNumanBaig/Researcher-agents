@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "MovieWeb",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1McjlJVlN6YkFQV2owVTd3MTdEOTVUUkd6aUF0TC1zOGoxMnhZTWdOWldXTFNtYk4wZVhBU0pjQmcwbEpwd1lfNkttdEs0c2JvaHU3TWYxQ0JFZnlUWi1BeXE5aWVJOEExZzgzQWU0Qjc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1McjlJVlN6YkFQV2owVTd3MTdEOTVUUkd6aUF0TC1zOGoxMnhZTWdOWldXTFNtYk4wZVhBU0pjQmcwbEpwd1lfNkttdEs0c2JvaHU3TWYxQ0JFZnlUWi1BeXE5aWVJOEExZzgzQWU0Qjc?oc=5",
+          "article_url": "https://movieweb.com/the-prestige-hugh-jackman-theater-release/",
+          "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/08/hugh-jackman-as-nick-bannister-in-reminiscence.jpg?w=1600&h=900&fit=crop"
         }
-      ]
+      ],
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/08/hugh-jackman-as-nick-bannister-in-reminiscence.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://movieweb.com/the-prestige-hugh-jackman-theater-release/"
     },
     {
       "title": "Hugh Jackman’s Near-Perfect British Mystery Is Officially a Streaming Hit",

@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Daily Trojan",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3BIakZHbHE1TGpUU1otQm91emtWX01BRUJEM0l3UWZIYUpEQnpQZ1dRdnkwVzJWYi1jbklQZ21HNk91ZXlTdlNTaE93TDY4b2FjTE9zOVRRdE9NcFdyck4zcTFkV2tETDdOUGJkN0xGdFdKdGlKeXhoUVRWUDYtOFhhWWtCQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3BIakZHbHE1TGpUU1otQm91emtWX01BRUJEM0l3UWZIYUpEQnpQZ1dRdnkwVzJWYi1jbklQZ21HNk91ZXlTdlNTaE93TDY4b2FjTE9zOVRRdE9NcFdyck4zcTFkV2tETDdOUGJkN0xGdFdKdGlKeXhoUVRWUDYtOFhhWWtCQQ?oc=5",
+          "article_url": "https://dailytrojan.com/2026/10/21/nicole-kidman-gets-candid-with-usc-students/",
+          "image": "https://dailytrojan.com/wp-content/uploads/2026/10/nicole_kidman.jpg"
         }
-      ]
+      ],
+      "image": "https://dailytrojan.com/wp-content/uploads/2026/10/nicole_kidman.jpg",
+      "image_source": "https://dailytrojan.com/2026/10/21/nicole-kidman-gets-candid-with-usc-students/"
     },
     {
       "title": "Nicole Kidman’s Daughter Sunday Rose, 18, Is Starting College Applications",
