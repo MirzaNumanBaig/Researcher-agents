@@ -92,6 +92,14 @@ class Analyzer(unittest.TestCase):
         self.assertEqual((a["story_type"], a["source"], a["setting"]), ("film_release", "llm", "film set"))
 
 
+class RedCarpetRule(unittest.TestCase):
+    def test_a_red_carpet_headline_is_a_red_carpet_story_even_when_it_says_film(self):
+        a = analyzer.heuristic("Nina Calloway and Marcus Reid walk the red carpet together at the Sydney film gala")
+        self.assertEqual(a["story_type"], "red_carpet")
+        self.assertEqual(blueprint.default_blueprint(a)["people_count"], 2)
+        self.assertEqual(analyzer.heuristic("New film sequel gets a December cinema release")["story_type"], "film_release")
+
+
 class SafetyRules(unittest.TestCase):
     def test_strip_names_full_surname_and_shared_words(self):
         clean, removed = concept.strip_names("Elena Marlowe and later Hargrove stand together", NAMES)
