@@ -1,6 +1,7 @@
 """Step 4: the image. FLUX.1 schnell on Cloudflare Workers AI (4 steps, no guidance), saved seed, backoff on errors. Upscaling, cropping and encoding live in finish.py."""
 import base64
 import json
+import os
 import random
 import re
 import time
@@ -23,24 +24,53 @@ def seed_supported():
     return "seed" not in _rejected
 
 
+SCHNELL = "@cf/black-forest-labs/flux-1-schnell"
+KLEIN = "@cf/black-forest-labs/flux-2-klein-4b"
+# per model: steps (None = the model takes none), multipart form data instead of JSON, and the size it is asked for when IMG_WIDTH / IMG_HEIGHT are 0
+MODELS = {SCHNELL: {"steps": True, "multipart": False, "size": (1536, 864)},
+          KLEIN: {"steps": False, "multipart": True, "size": (1024, 576)}}  # 1024x576 is the size proven for klein; the picture is upscaled afterwards
+
+
+def model_settings():
+    return MODELS.get(config.get("image_model"), MODELS[SCHNELL])
+
+
+def size():
+    w, h = model_settings()["size"]
+    return config.get("width") or w, config.get("height") or h
+
+
 def _body(prompt, seed):
-    body = {"prompt": prompt, "steps": config.steps()}  # no guidance: schnell does not use it
+    body = {"prompt": prompt}
+    if model_settings()["steps"]:
+        body["steps"] = config.steps()  # no guidance: schnell does not use it
     if seed is not None:
         body["seed"] = seed
     if config.get("send_size"):
-        body.update(width=config.get("width"), height=config.get("height"))
+        body["width"], body["height"] = size()
     return {k: v for k, v in body.items() if k not in _rejected}
+
+
+def _encode(fields):
+    """(bytes, content type): multipart form data for klein, JSON for schnell."""
+    if model_settings()["multipart"]:
+        boundary = "----ra" + os.urandom(8).hex()
+        parts = [f'--{boundary}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'.encode() for k, v in fields.items()]
+        return b"".join(parts) + f"--{boundary}--\r\n".encode(), f"multipart/form-data; boundary={boundary}"
+    return json.dumps(fields).encode(), "application/json"
 
 
 def _request(prompt, seed, creds=None):
     account, token = creds or cf_accounts.active() or (None, None)
     if not (account and token):
-        raise GenerationError("no Cloudflare account is configured or every one has used up its free allowance (CF_ACCOUNT_ID / CF_API_TOKEN, _2, _3 ...)")
+        raise GenerationError(cf_accounts.none_left_message())
     base = (config.secret("CF_API_BASE") or "https://api.cloudflare.com/client/v4").rstrip("/")
-    req = urllib.request.Request(f"{base}/accounts/{account}/ai/run/{config.get('image_model')}", data=json.dumps(_body(prompt, seed)).encode(),
-                                 method="POST", headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json", "User-Agent": "researcher-agents"})
+    data, ctype_in = _encode(_body(prompt, seed))
+    req = urllib.request.Request(f"{base}/accounts/{account}/ai/run/{config.get('image_model')}", data=data,
+                                 method="POST", headers={"Authorization": f"Bearer {token}", "Content-Type": ctype_in, "User-Agent": "researcher-agents"})
     with urllib.request.urlopen(req, timeout=120) as r:
         raw, ctype = r.read(), r.headers.get("Content-Type", "")
+    cf_accounts.record(account, cf_accounts.cost("image", config.get("image_model")))  # estimated neurons for the daily budget
     if ctype.startswith("image/"):
         return raw
     j = json.loads(raw)
@@ -64,6 +94,8 @@ def generate(prompt, seed=None, attempts=3):
         except urllib.error.HTTPError as e:
             body = e.read().decode("utf-8", "replace")[:300]
             last = f"HTTP {e.code} {body}"
+            if e.code in (400, 422) and "flagged" in body:
+                raise GenerationError(last)  # Cloudflare's safety filter flagged this output: not a size problem; the caller tries a new seed
             if e.code in (400, 422):
                 named = {m for m in re.findall(r"'/(\w+)'", body) if m in OPTIONAL}
                 new = (named or ({"width", "height"} if config.get("send_size") else set())) - _rejected  # unnamed error: suspect the size first

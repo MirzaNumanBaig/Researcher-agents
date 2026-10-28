@@ -64,6 +64,10 @@ def run(article, preset=None, seed=None, llm="auto", save_meta=True):
         try:
             rec, image, info, used_seed = _attempt(pr["prompt"], seed if i == 0 else None, analysis, bp, llm, key, i + 1)
         except (generator.GenerationError, OSError, ValueError) as e:
+            if "flagged" in str(e):  # Cloudflare's safety filter flagged this output: a new seed may pass, so count it as a rejected attempt and go on
+                attempts.append({"seed": None, "passed": False, "reasons": ["the output was flagged by Cloudflare's safety filter"], "scores": {}, "vision_ran": False, "vision_skipped": ""})
+                log.warning("[%s] attempt %d flagged by the safety filter", key, i + 1)
+                continue
             error = str(e)
             log.warning("[%s] attempt %d failed: %s", key, i + 1, e)
             break

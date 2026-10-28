@@ -15,6 +15,12 @@ from unittest import mock
 REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "agents"))
 import cf_accounts  # noqa: E402
+
+# the whole module runs against a scratch usage file, with the neuron budget off and schnell as the model (tests that need klein or a budget set them)
+os.environ.setdefault("IMG_META_DIR", tempfile.mkdtemp())
+os.environ.setdefault("IMG_NEURON_BUDGET", "0")
+os.environ.setdefault("IMG_IMAGE_MODEL", "@cf/black-forest-labs/flux-1-schnell")
+os.environ.setdefault("CF_IMAGE_MODEL", "@cf/black-forest-labs/flux-1-schnell")  # the old one-line path reads this one
 from imagegen import analyzer, blueprint, cast, checker, concept, config, finish, generator, meta, pipeline, prompt_writer, publisher  # noqa: E402
 from imagegen import llm as llmmod  # noqa: E402
 
@@ -217,9 +223,21 @@ class Mock(BaseHTTPRequestHandler):
     def log_message(self, *a):
         pass
 
+    flagged = 0  # answer this many image requests like Cloudflare's safety filter does
+
     def do_POST(self):
-        body = json.loads(self.rfile.read(int(self.headers["Content-Length"])))
+        raw_body = self.rfile.read(int(self.headers["Content-Length"]))
+        if self.headers.get("Content-Type", "").startswith("multipart/form-data"):  # klein: form fields, all strings
+            body = dict(re.findall(r'name="(\w+)"\r\n\r\n(.*?)\r\n--', raw_body.decode(), re.S))
+        else:
+            body = json.loads(raw_body)
         Mock.bodies.append((self.path, body))
+        if "flux" in self.path and Mock.flagged > 0:
+            Mock.flagged -= 1
+            self.send_response(400)
+            self.end_headers()
+            self.wfile.write(b'{"errors":[{"message":"AiError: AiError: Your output has been flagged. Please choose another prompt / input image combination","code":3030}],"success":false}')
+            return
         if self.path.split("/accounts/")[1].split("/")[0] in Mock.spent_accounts:
             self.send_response(429)
             self.end_headers()
@@ -489,7 +507,7 @@ class MultipleAccounts(unittest.TestCase):
         Mock.image_plan, Mock.size_rejected, Mock.strict, Mock.quota, Mock.bodies, Mock.spent_accounts = [], False, False, False, [], set()
         self.srv = HTTPServer(("127.0.0.1", 0), Mock)
         threading.Thread(target=self.srv.serve_forever, daemon=True).start()
-        env = {k: v for k, v in os.environ.items() if not k.startswith("CF_")}
+        env = {k: v for k, v in os.environ.items() if not k.startswith(("CF_ACCOUNT", "CF_API"))}
         env.update(self.ENV, CF_API_BASE=f"http://127.0.0.1:{self.srv.server_port}")
         patcher = mock.patch.dict(os.environ, env, clear=True)
         patcher.start()
@@ -554,6 +572,133 @@ class MultipleAccounts(unittest.TestCase):
                 usage={"date": today, "images": 40}, CF_ACCOUNT_ID="a", CF_API_TOKEN="ta", CF_ACCOUNT_ID_2="b", CF_API_TOKEN_2="tb", **extra)
             self.assertTrue(has_img, r.stdout + r.stderr)  # 40 attempts used, but two accounts allow 80
             self.assertEqual(self.accounts_used()[-1], "b")
+
+
+class NeuronBudget(MultipleAccounts):
+    """Each account has a daily budget of estimated neurons; the next account takes over at the budget, before Cloudflare's own limit."""
+    def setUp(self):
+        super().setUp()
+        self.meta = tempfile.mkdtemp()
+        env = mock.patch.dict(os.environ, {"IMG_META_DIR": self.meta, "IMG_NEURON_BUDGET": "340"})  # two schnell pictures (170 each) fill an account
+        env.start()
+        self.addCleanup(env.stop)
+
+    def usage(self):
+        return json.loads((Path(self.meta) / "_usage.json").read_text())
+
+    def test_the_second_account_takes_over_when_the_first_reaches_its_budget(self):
+        for _ in range(3):
+            generator.generate("p")
+        self.assertEqual(self.accounts_used(), ["a", "a", "b"])  # no 429 involved: the budget switched it
+        self.assertEqual(cf_accounts.used("a"), 340)
+        self.assertEqual(cf_accounts.used("b"), 170)
+
+    def test_usage_is_stored_per_account_under_a_hash_and_keeps_the_image_counter(self):
+        (Path(self.meta) / "_usage.json").write_text(json.dumps({"date": cf_accounts._today(), "images": 7}))
+        generator.generate("p")
+        u = self.usage()
+        self.assertEqual(u["images"], 7)
+        self.assertEqual(list(u["neurons"].values()), [170])
+        self.assertNotIn('"a"', json.dumps(u["neurons"]))  # the account id itself is never written
+        self.assertEqual(list(u["neurons"]), [cf_accounts.label("a")])
+
+    def test_a_new_day_starts_from_zero(self):
+        (Path(self.meta) / "_usage.json").write_text(json.dumps({"date": "2000-01-01", "neurons": {cf_accounts.label("a"): 99999}}))
+        self.assertEqual(cf_accounts.used("a"), 0)
+        generator.generate("p")
+        self.assertEqual(self.accounts_used(), ["a"])
+
+    def test_every_account_at_its_budget_stops_with_a_clear_reason_and_no_request(self):
+        for _ in range(4):
+            generator.generate("p")
+        n = len(Mock.bodies)
+        with self.assertRaises(generator.GenerationError) as ctx:
+            generator.generate("p")
+        self.assertIn("daily budget of 340 neurons", str(ctx.exception))
+        self.assertEqual(len(Mock.bodies), n)
+
+    def test_text_and_vision_calls_count_toward_the_same_budget(self):
+        with mock.patch.dict(os.environ, {"IMG_NEURON_BUDGET": "100"}):
+            llm = llmmod.Cloudflare()
+            llm.complete("s", "u")       # 20
+            llm.vision("s", "u", b"x")   # 80 -> account a is now at its budget
+            llm.complete("s", "u")       # goes to b
+        self.assertEqual(self.accounts_used(), ["a", "a", "b"])
+
+    def test_budget_zero_turns_it_off_and_the_real_limit_still_switches(self):
+        with mock.patch.dict(os.environ, {"IMG_NEURON_BUDGET": "0"}):
+            for _ in range(4):
+                generator.generate("p")
+            self.assertEqual(set(self.accounts_used()), {"a"})
+            Mock.spent_accounts = {"a"}
+            generator.generate("p")
+        self.assertEqual(self.accounts_used()[-1], "b")
+
+    def test_the_budget_comes_from_config_json_when_the_variable_is_missing(self):
+        with mock.patch.dict(os.environ):
+            os.environ.pop("IMG_NEURON_BUDGET", None)
+            self.assertEqual(cf_accounts.budget(), 9000)  # the default in config.json
+
+
+class Klein(unittest.TestCase):
+    KLEIN = "@cf/black-forest-labs/flux-2-klein-4b"
+
+    def setUp(self):
+        Mock.image_plan, Mock.size_rejected, Mock.strict, Mock.quota, Mock.bodies, Mock.flagged = [], False, False, False, [], 0
+        self.srv = HTTPServer(("127.0.0.1", 0), Mock)
+        threading.Thread(target=self.srv.serve_forever, daemon=True).start()
+        self.tmp = tempfile.mkdtemp()
+        patcher = mock.patch.dict(os.environ, {"CF_ACCOUNT_ID": "a", "CF_API_TOKEN": "t", "CF_API_BASE": f"http://127.0.0.1:{self.srv.server_port}", "IMG_IMAGE_MODEL": self.KLEIN,
+                                               "IMG_META_DIR": self.tmp, "IMG_LLM_PROVIDER": "none"})
+        patcher.start()
+        cf_accounts.reset()
+        generator._rejected.clear()
+        sleeper = mock.patch.object(generator, "_sleep", lambda s: None)
+        sleeper.start()
+        for cleanup in (patcher.stop, sleeper.stop, self.srv.shutdown, cf_accounts.reset):
+            self.addCleanup(cleanup)
+
+    def test_klein_is_the_default_model_and_schnell_stays_selectable(self):
+        self.assertEqual(config.DEFAULTS["image_model"], self.KLEIN)
+        self.assertIn(generator.SCHNELL, generator.MODELS)
+
+    def test_klein_gets_a_multipart_request_with_its_own_size_and_no_steps(self):
+        raw, seed = generator.generate("a prompt", seed=5)
+        path, body = Mock.bodies[0]
+        self.assertIn("flux-2-klein-4b", path)
+        self.assertEqual((body["prompt"], body["width"], body["height"]), ("a prompt", "1024", "576"))
+        self.assertNotIn("steps", body)
+        self.assertEqual(seed, 5)
+
+    def test_default_sizes_per_model_and_overrides(self):
+        self.assertEqual(generator.size(), (1024, 576))
+        with mock.patch.dict(os.environ, {"IMG_IMAGE_MODEL": generator.SCHNELL}):
+            self.assertEqual(generator.size(), (1536, 864))
+        with mock.patch.dict(os.environ, {"IMG_WIDTH": "1280", "IMG_HEIGHT": "720"}):
+            self.assertEqual(generator.size(), (1280, 720))
+
+    def test_klein_picture_is_upscaled_and_cropped_to_1600x900(self):
+        from PIL import Image
+        res = pipeline.run({"key": "k", "headline": "Film sequel release date announced", "body": "x", "category": "News", "names": []}, llm=None)
+        self.assertTrue(res["ok"], res["error"])
+        self.assertEqual(Image.open(io.BytesIO(res["image"])).size, (1600, 900))
+        self.assertEqual(res["model"], self.KLEIN)
+
+    def test_a_flagged_output_is_not_mistaken_for_a_size_error_and_a_new_seed_is_tried(self):
+        Mock.flagged = 1
+        with self.assertRaises(generator.GenerationError) as ctx:
+            generator.generate("p")
+        self.assertIn("flagged", str(ctx.exception))
+        self.assertNotIn("width", generator._rejected)  # the size was not dropped
+        Mock.flagged = 1
+        res = pipeline.run({"key": "k2", "headline": "Film sequel release date announced", "body": "x", "category": "News", "names": []}, llm=None)
+        self.assertTrue(res["ok"], res["error"])
+        self.assertEqual([a["passed"] for a in res["attempts"]], [False, True])
+        self.assertIn("safety filter", res["attempts"][0]["reasons"][0])
+
+    def test_neuron_estimate_for_klein_is_150(self):
+        generator.generate("p")
+        self.assertEqual(cf_accounts.used("a"), 150)
 
 
 class Finish(unittest.TestCase):
@@ -827,7 +972,7 @@ class GenerateImagesIntegration(unittest.TestCase):
             if usage is not None:
                 (root / "articles" / "image-meta").mkdir()
                 (root / "articles" / "image-meta" / "_usage.json").write_text(json.dumps(usage))
-            env = {**os.environ, "CF_ACCOUNT_ID": "a", "CF_API_TOKEN": "t", "CF_API_BASE": f"http://127.0.0.1:{srv.server_port}", "IMG_LLM_PROVIDER": "none", **extra}
+            env = {**{k: v for k, v in os.environ.items() if k != "IMG_META_DIR"}, "CF_ACCOUNT_ID": "a", "CF_API_TOKEN": "t", "CF_API_BASE": f"http://127.0.0.1:{srv.server_port}", "IMG_LLM_PROVIDER": "none", **extra}
             r = subprocess.run([sys.executable, str(root / "agents" / "generate_images.py"), "--max", "5"], env=env, capture_output=True, text=True)
             front = (root / "articles" / "2026-10-28-09-00-elena-marlowe.md").read_text()
             meta_files = sorted(p.name for p in (root / "articles" / "image-meta").glob("*")) if (root / "articles" / "image-meta").exists() else []
@@ -853,7 +998,8 @@ class GenerateImagesIntegration(unittest.TestCase):
         from datetime import datetime, timezone
         today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         r, front, meta_files, has_img = self.run_script()
-        self.assertEqual(self.usage_after, {"date": today, "images": 1})
+        self.assertEqual((self.usage_after["date"], self.usage_after["images"]), (today, 1))
+        self.assertEqual(list(self.usage_after["neurons"].values()), [170])  # one schnell picture on the only account, kept under a hash, never the id
         r, front, meta_files, has_img = self.run_script(usage={"date": today, "images": 40})
         self.assertIn("daily image cap reached", r.stdout)
         self.assertFalse(has_img)

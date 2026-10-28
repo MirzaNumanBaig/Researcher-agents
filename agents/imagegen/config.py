@@ -12,10 +12,10 @@ DEFAULTS = {
     "llm_model": "@cf/meta/llama-3.1-8b-instruct-fp8-fast",  # cheap and fits the free neurons; "@cf/meta/llama-3.3-70b-instruct-fp8-fast" is better but ~6x the cost
     "vision_model": "@cf/meta/llama-3.2-11b-vision-instruct",
     "vision_check": True,                                   # skipped automatically when the vision model is unavailable (e.g. licence not accepted)
-    "image_model": "@cf/black-forest-labs/flux-1-schnell",
+    "image_model": "@cf/black-forest-labs/flux-2-klein-4b",  # default; "@cf/black-forest-labs/flux-1-schnell" is the other free-tier model (see generator.MODELS)
     "steps": 4,                                             # schnell is distilled for 4 steps; never more than 4
-    "width": 1536,                                          # generation size, 16:9, multiples of 32; schnell gets worse above ~1.3 MP
-    "height": 864,
+    "width": 0,                                             # generation size; 0 = the model's own (klein 1024x576, schnell 1536x864: 16:9, schnell gets worse above ~1.3 MP)
+    "height": 0,
     "send_size": True,                                      # ask the API for width x height; retried without when rejected (Cloudflare's schnell may ignore it)
     "seed": "",                                             # empty = random per attempt; the seed used is always saved
     "max_retries": 2,                                       # new seed after a failed quality check (3 attempts in all), then one symbolic-scene fallback
@@ -35,6 +35,10 @@ DEFAULTS = {
     "face_restore_cmd": "",                                 # e.g. a CodeFormer or GFPGAN wrapper using {input} {output}; use a LOW strength so skin stays natural
     "cast_file": "agents/imagegen/cast.json",               # fictional stand-in characters used instead of real people
     "preset": "candid_news_photo",                          # candid_news_photo | glossy_magazine | cinematic_still | soft_illustration
+    "neuron_budget": 9000,                                  # per account and UTC day, estimated; the next account takes over at this point (0 = off). Cloudflare's free limit is 10,000
+    "neurons_per_image": 0,                                 # estimate per picture; 0 = the model's default (schnell 170, klein 150)
+    "neurons_per_text": 20,                                 # estimate per text call
+    "neurons_per_vision": 80,                               # estimate per vision call
     "daily_image_cap": 40,                                  # image attempts per UTC day across all runs; protects the 10,000 free neurons a day
     "history_size": 20,                                     # last prompts remembered to vary shot, angle and palette
     "caption": "",                                          # visible caption under the image. OFF by default (empty or "off"); set text to turn it on. The AI flag is always kept in the log

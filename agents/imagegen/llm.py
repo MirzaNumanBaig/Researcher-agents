@@ -60,13 +60,14 @@ class Cloudflare:
         if not cf_accounts.load():
             raise LLMError("CF_ACCOUNT_ID / CF_API_TOKEN are not set")
 
-    def _run(self, model, payload):
+    def _run(self, model, payload, kind="text"):
         while True:
             creds = cf_accounts.active()
             if creds is None:
-                raise LLMError("every Cloudflare account has used up its free allowance")
+                raise LLMError(cf_accounts.none_left_message())
             try:
                 j = post_json(f"{self.base}/accounts/{creds[0]}/ai/run/{model}", {"Authorization": f"Bearer {creds[1]}"}, payload)
+                cf_accounts.record(creds[0], cf_accounts.cost(kind))  # estimated neurons for the daily budget
                 break
             except LLMError as e:
                 if not cf_accounts.is_quota_error(str(e)):
@@ -83,18 +84,18 @@ class Cloudflare:
 
     def complete(self, system, user, max_tokens=700, temperature=0.4):
         return self._run(config.get("llm_model"), {"messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
-                                                    "max_tokens": max_tokens, "temperature": temperature})
+                                                    "max_tokens": max_tokens, "temperature": temperature}, "text")
 
     def vision(self, system, user, image, mime="image/webp"):
         uri = f"data:{mime};base64,{base64.b64encode(image).decode()}"
         msgs = [{"role": "system", "content": system},
                 {"role": "user", "content": [{"type": "text", "text": user}, {"type": "image_url", "image_url": {"url": uri}}]}]
         try:
-            return self._run(config.get("vision_model"), {"messages": msgs, "max_tokens": 400, "temperature": 0.1})
+            return self._run(config.get("vision_model"), {"messages": msgs, "max_tokens": 400, "temperature": 0.1}, "vision")
         except LLMError as e:
             if "HTTP 400" not in str(e) and "HTTP 422" not in str(e):
                 raise
-        return self._run(config.get("vision_model"), {"prompt": f"{system}\n\n{user}", "image": list(image), "max_tokens": 400})  # older image input shape
+        return self._run(config.get("vision_model"), {"prompt": f"{system}\n\n{user}", "image": list(image), "max_tokens": 400}, "vision")  # older image input shape
 
     def accept_vision_license(self):
         """One-time acceptance of Meta's licence for the vision model. Only ever called when the user explicitly asks for it."""

@@ -7,7 +7,7 @@ on:
       model:
         description: Cloudflare model id
         type: choice
-        default: "@cf/black-forest-labs/flux-1-schnell"
+        default: "@cf/black-forest-labs/flux-2-klein-4b"
         options:
           - "@cf/black-forest-labs/flux-1-schnell"
           - "@cf/black-forest-labs/flux-2-klein-4b"

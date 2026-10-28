@@ -41,6 +41,10 @@ scripts/generate-image --post-id 123 --dry-run --preset glossy_magazine --seed 4
 
 Every setting is in `.env.example` (environment variable `IMG_*`, or `config.json` -> `image_pipeline`): sizes, steps, upscaler, output size and format, quality and file-size target, sharpening and grain, minimum score, caption, cast file. The history of the last 20 prompts (`_history.json`) makes neighbouring images use different shots, angles, palettes and stand-ins.
 
+**Model:** FLUX.2 klein 4B (`@cf/black-forest-labs/flux-2-klein-4b`) is the default; FLUX.1 schnell stays available (`IMG_IMAGE_MODEL`). Klein is asked for 1024x576 (multipart request, no steps) and upscaled 2x; schnell for 1536x864. If Cloudflare's safety filter flags a picture, a new seed is tried like any other rejected attempt.
+
+**Daily budget per account:** each call adds an estimate of its neurons (klein picture 150, schnell 170, text 20, vision 80) to `articles/image-meta/_usage.json`, kept per account under a hash. At `IMG_NEURON_BUDGET` (default 9,000 of the 10,000 free neurons) the next account takes over; Cloudflare's own limit is still the safety net. When every account is at its budget the run stops with a clear message. The numbers are estimates, so keep the margin.
+
 **More than one Cloudflare account:** add `CF_ACCOUNT_ID_2` + `CF_API_TOKEN_2` (and `_3`, `_4`) as GitHub secrets. The first account is used until Cloudflare says its free neurons are used up; the next one then takes over at once, for images, text and vision alike. The daily cap grows with the number of accounts. Only complete pairs count. Check Cloudflare's terms before opening extra free accounts; paying as you go on one account is the other way to get more.
 
 **Cost guard:** Cloudflare's free allowance is 10,000 neurons a day, and an image attempt costs roughly 170 of them plus the text and vision calls, so `IMG_DAILY_IMAGE_CAP` (default 40 attempts per UTC day, counted in `articles/image-meta/_usage.json`) stops the run before the allowance is spent. A "daily allocation used up" error is never retried.

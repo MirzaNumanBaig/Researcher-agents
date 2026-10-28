@@ -31,7 +31,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 import cf_accounts  # noqa: E402  several Cloudflare accounts: CF_ACCOUNT_ID/CF_API_TOKEN, then _2, _3 ...
 ACCOUNT, TOKEN = (cf_accounts.load() or [("", "")])[0]
-MODEL = os.environ.get("CF_IMAGE_MODEL", "@cf/black-forest-labs/flux-1-schnell")
+MODEL = os.environ.get("CF_IMAGE_MODEL", "@cf/black-forest-labs/flux-2-klein-4b")
 BASE = os.environ.get("CF_API_BASE", "https://api.cloudflare.com/client/v4").rstrip("/")
 _style = os.environ.get("CF_STYLE", "").strip()  # only the sample/test workflow sets it: "none" sends the scene as written
 STYLE = "" if _style.lower() == "none" else (_style or "editorial photograph, cinematic lighting, shallow depth of field, rich colour, no text, no logos, no watermark, no people's faces")
@@ -143,12 +143,13 @@ def render(prompt):
     while True:
         creds = cf_accounts.active()
         if creds is None:
-            raise RuntimeError("no Cloudflare account is configured or every one has used up its free allowance")
+            raise RuntimeError(cf_accounts.none_left_message())
         req = urllib.request.Request(f"{BASE}/accounts/{creds[0]}/ai/run/{MODEL}", data=body, method="POST",
                                      headers={"Authorization": f"Bearer {creds[1]}", "Content-Type": ctype_in, "User-Agent": "researcher-agents"})
         try:
             with urllib.request.urlopen(req, timeout=120) as r:
                 raw, ctype = r.read(), r.headers.get("Content-Type", "")
+            cf_accounts.record(creds[0], cf_accounts.cost("image", MODEL))  # estimated neurons for the daily budget
             break
         except urllib.error.HTTPError as e:
             body_bytes = e.read()
@@ -201,7 +202,7 @@ def sample():
 
 
 def usage_file():
-    return ROOT / "articles" / "image-meta" / "_usage.json"
+    return cf_accounts.usage_path()  # articles/image-meta/_usage.json (IMG_META_DIR moves it); also holds the per-account neuron estimates
 
 
 def used_today(today):
@@ -213,8 +214,15 @@ def used_today(today):
 
 
 def add_used(today, n):
+    """Count image attempts for today; the per-account neuron estimates kept by cf_accounts in the same file are preserved."""
+    try:
+        u = json.loads(usage_file().read_text())
+    except (OSError, ValueError):
+        u = {}
+    u = u if isinstance(u, dict) and u.get("date") == today else {"date": today}
+    u["images"] = u.get("images", 0) + n
     usage_file().parent.mkdir(parents=True, exist_ok=True)
-    usage_file().write_text(json.dumps({"date": today, "images": used_today(today) + n}) + "\n")
+    usage_file().write_text(json.dumps(u) + "\n")
 
 
 def brief_image(front):
