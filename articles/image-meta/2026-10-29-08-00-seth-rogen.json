@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-10-28T21:57:28.342171+00:00",
+  "article": "2026-10-29-08-00-seth-rogen",
+  "ai_generated": true,
+  "story_type": "award",
+  "analysis": {
+    "story_type": "award",
+    "core_event": "an anonymous figure and an anonymous figure the figure win the figure the figure at the figure the figure International Film Awards",
+    "emotion": "celebratory",
+    "setting": "film festival",
+    "key_objects": [
+      "the figure the figure",
+      "the figure the figure Convention Center",
+      "dinner party",
+      "film"
+    ],
+    "time_and_light": "daytime, spotlight",
+    "palette": [
+      "gold",
+      "red",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "level and calm",
+          "eyes": "bright and steady",
+          "mouth": "a restrained smile",
+          "jaw": "set"
+        },
+        "gaze": "out toward the audience",
+        "head": "level, chin up",
+        "posture": "upright, shoulders back",
+        "hands": "one hand holding a trophy against the chest",
+        "interaction": "",
+        "clothing": "a formal dark suit"
+      }
+    ],
+    "setting": "film festival",
+    "props": [
+      "the figure the figure",
+      "the figure the figure Convention Center",
+      "dinner party",
+      "film"
+    ],
+    "time_of_day": "daytime, spotlight",
+    "light": {
+      "source": "daytime, spotlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "gold",
+      "red",
+      "black"
+    ],
+    "mood": "celebratory",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-07"
+  ],
+  "prompt": "A medium-wide shot of an anonymous woman in her early 20s with loose curly dark brown hair and rich brown skin, standing center stage at the film festival. Her eyebrows are level and calm, her bright and steady eyes fixed on the audience with a gaze that is both confident and humbled. Her mouth is set in a restrained smile, the corners of her lips slightly upturned, and her jaw is firmly set, betraying a sense of determination. Her head is level, her chin up, and her posture is upright, with her shoulders back and her chest out, conveying a sense of pride and accomplishment. One hand holds a trophy against her chest, a symbol of her hard work and dedication to the craft. She is surrounded by the vibrant colors of the film festival, with the gold, red, and black palette shining brightly in the spotlight. The Convention Center's grand hall stretches out to her right, a sea of faces and cameras blurring into a soft haze and bokeh in the background. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3417740096,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film festival, lit by daytime, spotlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 141.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3417740096,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

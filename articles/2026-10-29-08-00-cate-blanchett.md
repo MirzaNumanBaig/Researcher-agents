@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett Honoured in Tokyo, Then Paris Lights Await"
 description: "Cate Blanchett received Japan's Praemium Imperiale in Tokyo on 28 October and will switch on the Champs-Élysées Christmas lights on 22 November."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-29 08:00"
 celebrity: "Cate Blanchett"
@@ -11,6 +11,14 @@ image_prompt: "A quiet Tokyo ceremony hall with empty gold chairs and a lectern,
 sources:
   - "https://www.wmagazine.com/fashion/cate-blanchett-praemium-imperiale-japan-royalty-suit"
   - "https://sg.finance.yahoo.com/news/champs-lys-es-banks-cate-191432505.html"
+image: "images/2026-10-29-08-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cast and Crew Father Mother Sister Brother at the 2025 Venice Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1271
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-08-00-cate-blanchett-768x432.webp"
+wp_id: 1272
+wp_link: "https://moduscarry.com/cate-blanchett-honoured-in-tokyo-then-paris-lights-await/"
+wp_synced: publish
 ---
 
 **Quick summary**

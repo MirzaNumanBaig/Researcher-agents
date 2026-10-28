@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-10-28T21:58:00.502296+00:00",
+  "article": "2026-10-29-08-00-heath-ledger",
+  "ai_generated": true,
+  "story_type": "tribute",
+  "analysis": {
+    "story_type": "tribute",
+    "core_event": "an anonymous figure pays tribute to an anonymous figure on an anonymous figure",
+    "emotion": "emotional",
+    "setting": "TV studio",
+    "key_objects": [
+      "red rose",
+      "photo of an anonymous figure",
+      "song 'Can't Take My Eyes Off You'"
+    ],
+    "time_and_light": "evening, studio lights",
+    "palette": [
+      "soft pink",
+      "deep blue",
+      "golden yellow"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "red rose",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "TV studio",
+    "props": [
+      "red rose",
+      "photo of an anonymous figure",
+      "song 'Can't Take My Eyes Off You'"
+    ],
+    "time_of_day": "evening, studio lights",
+    "light": {
+      "source": "evening, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft pink",
+      "deep blue",
+      "golden yellow"
+    ],
+    "mood": "emotional",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A single empty wooden chair beside a tall window, a row of lit white candles on a small table. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Close-up detail shot, 50mm lens, slightly low angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "template",
+  "prompt_notes": [
+    "attempt 1 rejected: shows people in a sensitive story",
+    "attempt 2 rejected: shows people in a sensitive story; 210 words (needs 60-200)"
+  ],
+  "seed": 2900290526,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 160.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2900290526,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

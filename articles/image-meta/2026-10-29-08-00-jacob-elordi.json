@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-28T21:57:38.951353+00:00",
+  "article": "2026-10-29-08-00-jacob-elordi",
+  "ai_generated": true,
+  "story_type": "relationship",
+  "analysis": {
+    "story_type": "relationship",
+    "core_event": "an anonymous figure in LA with an anonymous figure's help",
+    "emotion": "romantic",
+    "setting": "Los Angeles real estate",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "Los Angeles home",
+      "red carpet"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "soft pink",
+      "calming blue",
+      "warm beige"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "Los Angeles real estate",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "Los Angeles home",
+      "red carpet"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft pink",
+      "calming blue",
+      "warm beige"
+    ],
+    "mood": "romantic",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot from a high angle, taken with an 85mm lens, of a luxurious, empty living room in a Los Angeles real estate, with a high ceiling and large windows that let in soft, natural light. A plush, beige-colored sofa sits against one wall, with a single, empty armchair placed at a slight angle in front of it, as if waiting for someone to return. The armchair is positioned near a large window with a red carpet that stretches out from beneath it, a hint of luxury and grandeur. Soft pink and calming blue hues from the surrounding decor subtly blend with the warm beige tones of the furniture. The atmosphere is calm and respectful, with a sense of anticipation hanging in the air. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3481490904,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 169.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3481490904,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
