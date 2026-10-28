@@ -1,5 +1,20 @@
 [
   {
+    "path": "articles/2026-10-28-18-00-nicole-kidman.md",
+    "title": "Nicole Kidman",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-10-28 18:00",
+    "celebrity": "Nicole Kidman",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text (only one gossip headline about an ex-partner's feelings, source page returned 404)",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
     "path": "articles/2026-10-28-17-00-chris-hemsworth.md",
     "title": "Chris Hemsworth wraps Thailand shoot for Extraction 3",
     "description": "Chris Hemsworth says he has finished his weeks in Thailand filming Extraction 3, sharing photos of weekend adventures. Here is what is known about the sequel.",
@@ -12,7 +27,7 @@
     "wp_id": 1245,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-17-00-chris-hemsworth-768x432.webp"
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/image-1793170579038-768x432.webp"
   },
   {
     "path": "articles/2026-10-28-17-00-connor-storrie.md",
