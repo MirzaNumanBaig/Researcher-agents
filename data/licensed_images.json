@@ -1,0 +1,12 @@
+{
+  "_help": "Images you hold a licence for. Each image is used (cover-cropped to 1600x900) for a post whose title or tags contain one of its keywords; the credit link is printed as the image caption. Add entries; the pipeline does the rest.",
+  "sources": [
+    {
+      "name": "Netflix",
+      "credit_text": "Netflix",
+      "credit_url": "https://media.netflix.com/",
+      "nofollow": true,
+      "images": []
+    }
+  ]
+}

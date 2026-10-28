@@ -354,6 +354,7 @@
   "image_pipeline": {
     "enabled": true,
     "real_photos": true,
+    "licensed_images": true,
     "preset": "candid_news_photo",
     "caption": "",
     "image_model": "@cf/black-forest-labs/flux-2-klein-4b",

@@ -228,6 +228,37 @@ def brief_image(front):
         return ""
 
 
+def licensed_photo(front):
+    """(webp bytes, alt, credit html) from data/licensed_images.json when the post's title or tags match one of the licensed images, else None.
+    The image is cover-cropped to 1600x900 (image `focus`: top / center / bottom picks the strip that is kept)."""
+    path = ROOT / "data" / "licensed_images.json"
+    if not ((json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("licensed_images") and path.exists()):
+        return None
+    try:
+        from PIL import Image
+        import html as _h
+        text = (field(front, "title") + " " + " ".join(re.findall(r'"([^"]+)"', (re.search(r"^tags: ?(\[.*\])$", front, re.M) or [None, ""])[1]))).lower()
+        for src in json.loads(path.read_text()).get("sources", []):
+            for im in src.get("images", []):
+                if not any(k.lower() in text for k in im.get("keywords", [])):
+                    continue
+                req = urllib.request.Request(im["url"], headers={"User-Agent": "Mozilla/5.0 (ModusCarry image fetch)"})
+                with urllib.request.urlopen(req, timeout=60) as r:
+                    img = Image.open(io.BytesIO(r.read())).convert("RGB")
+                scale = max(OUT_W / img.width, OUT_H / img.height)
+                img = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
+                top = {"top": 0, "bottom": img.height - OUT_H}.get(im.get("focus", "center"), (img.height - OUT_H) // 2)
+                left = (img.width - OUT_W) // 2
+                out = io.BytesIO()
+                img.crop((left, top, left + OUT_W, top + OUT_H)).save(out, "WEBP", quality=WEBP_QUALITY, method=6)
+                rel = "nofollow noopener" if src.get("nofollow") else "noopener"
+                credit = f'Image: <a href="{_h.escape(src["credit_url"])}" rel="{rel}">{_h.escape(src["credit_text"])}</a>'
+                return out.getvalue(), im.get("alt") or field(front, "title"), credit
+    except Exception as e:
+        print(f"licensed image unavailable for {field(front, 'title')} ({e})", file=sys.stderr)
+    return None
+
+
 def real_photo(front):
     """(webp bytes, alt, credit) from data/character-sheet.json (newest free-licence Commons photo of the article's celebrity), else None.
     Portrait photos are centred on a blurred copy of themselves so the face is never cropped. Needs image_pipeline.real_photos true."""
@@ -278,7 +309,7 @@ def main():
     limit = int(sys.argv[sys.argv.index("--max") + 1]) if "--max" in sys.argv else 20
     out_dir = ROOT / "articles" / "images"
     now = datetime.now(timezone.utc)
-    real_on = bool((json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("real_photos"))
+    real_on = bool(any((json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get(k) for k in ("real_photos", "licensed_images")))
     done = failed = 0
     today = now.strftime("%Y-%m-%d")
     try:
@@ -305,7 +336,7 @@ def main():
         if used_today(today) >= cap:
             print(f"daily image cap reached ({cap} attempts today, UTC); the remaining articles wait until tomorrow so the free allowance is not used up")
             break
-        rp = real_photo(front)
+        rp = licensed_photo(front) or real_photo(front)  # licensed press image first, then the real free-licence photo
         if redo and not rp:
             continue
         if rp:  # a real, free-licence photo of the person beats any AI picture; no Cloudflare neurons used
