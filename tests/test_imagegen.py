@@ -155,6 +155,12 @@ class PromptWriter(unittest.TestCase):
             for prop in analyzer.DEFAULTS[kind][2]:
                 self.assertLessEqual(p.count(prop.lower()), 1, (kind, prop, p))
 
+    def test_foreground_prop_does_not_repeat_the_scene_noun(self):
+        for kind, sens in (("tribute", "high_risk"), ("film_release", "safe")):
+            p = prompt_writer.write_prompt(self.analysis(kind, sens), "candid_news_photo", [], NAMES, None, kind)["prompt"]
+            subject, fg = p.split(". Softly out of focus in the foreground: ")[0], p.split("foreground: ")[1].split(".")[0]
+            self.assertFalse(prompt_writer._used(fg, subject), (kind, subject, fg))
+
     def test_prompt_follows_the_order_and_names_a_light_source(self):
         p = prompt_writer.write_prompt(self.analysis("breakup"), "candid_news_photo", [], NAMES, None, "k")["prompt"]
         self.assertLess(p.index("lens"), p.index("Lit by"))

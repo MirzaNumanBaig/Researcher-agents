@@ -73,6 +73,13 @@ def pick_palette(analysis, history):
     return next((a for a in alts if a not in used), alts[0])
 
 
+def _used(prop, text):
+    """True when the prop's key noun already appears in the text ("an empty chair" vs "an empty wooden chair", "seats" vs "seat")."""
+    key = prop.lower().split()[-1]
+    key = key[:-1] if key.endswith("s") and len(key) > 3 else key
+    return key in text.lower()
+
+
 def _join(items):
     items = [i for i in items if i]
     return items[0] if len(items) == 1 else ", ".join(items[:-1]) + " and " + items[-1] if items else ""
@@ -93,7 +100,7 @@ def compose(analysis, preset, variation, palette, names):
         emotion, light = analysis["emotion"], analysis["time_and_light"]
     subject = subject[0].upper() + subject[1:] + ("" if subject.endswith(".") else ".")
     atmosphere = ATMOSPHERE.get(emotion.split()[0].lower(), "soft haze and gentle bokeh")
-    fg = next((x for x in o if x.lower() not in f"{subject} {light}".lower()), o[-1])  # a prop neither the scene sentence nor the light source already uses
+    fg = next((x for x in o if not _used(x, f"{subject} {light}")), o[-1])  # a prop neither the scene sentence nor the light source already uses
     text = (f"{subject} Softly out of focus in the foreground: {fg}. The background fades into {atmosphere}. "
             f"{variation['shot'].capitalize()}, {variation['lens']} lens, {variation['angle']}, shallow depth of field. "
             f"Lit by {light}. {emotion.capitalize()} mood, {palette} palette. {preset['style']}")
