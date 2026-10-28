@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-29 03:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ryan Gosling: 4 Unforgettable Career Moments (October 2026)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONmRHNXp6Vmx0eFdhQ0hvQWpCRW9fU193THozaUk4cXgtaGxxWF81X1hwOXFfRG5Idk9fVTRCcWU2OU1aY0d0VWFTUGlhUldaa2c4MjJwbE9CUXBFeHpTUTJhX1RuNUpPNlJxUy1lUmNxclJER3RtZkxWbHYxZHRKVW9rbkVudw?oc=5",
+      "published": "2026-10-28T13:00:26+00:00",
+      "outlets": [
+        {
+          "source": "Young Hollywood",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONmRHNXp6Vmx0eFdhQ0hvQWpCRW9fU193THozaUk4cXgtaGxxWF81X1hwOXFfRG5Idk9fVTRCcWU2OU1aY0d0VWFTUGlhUldaa2c4MjJwbE9CUXBFeHpTUTJhX1RuNUpPNlJxUy1lUmNxclJER3RtZkxWbHYxZHRKVW9rbkVudw?oc=5",
+          "article_url": "https://younghollywood.com/scene/ryan-gosling-unforgettable-career-moments.html",
+          "image": "https://aqqqzixeryfsazahbard.supabase.co/storage/v1/render/image/public/media/talent/1792110683433-38d7tl.jpg?width=1200&height=675&resize=cover&quality=85&format=webp"
+        }
+      ],
+      "image": "https://aqqqzixeryfsazahbard.supabase.co/storage/v1/render/image/public/media/talent/1792110683433-38d7tl.jpg?width=1200&height=675&resize=cover&quality=85&format=webp",
+      "image_source": "https://younghollywood.com/scene/ryan-gosling-unforgettable-career-moments.html"
+    }
+  ]
+}
