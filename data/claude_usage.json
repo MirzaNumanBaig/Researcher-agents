@@ -1,0 +1,20 @@
+{
+ "records": [
+  {
+   "date": "2026-10-28",
+   "time": "2026-10-28T03:41:04+00:00",
+   "batch": "2026-10-28 14:00",
+   "celebrity": "Chris Hemsworth",
+   "article": "2026-10-28-14-00-chris-hemsworth.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 1123,
+   "cache_read_tokens": 72683,
+   "cache_write_tokens": 18147,
+   "turns": 6,
+   "seconds": 11,
+   "cost_usd": 0.0912
+  }
+ ]
+}
