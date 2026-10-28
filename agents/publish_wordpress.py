@@ -154,6 +154,28 @@ def wp(path, payload):
         return json.loads(r.read())
 
 
+def wp_get(path):
+    req = urllib.request.Request(f"{URL}/wp-json/wp/v2/{path}", headers={"User-Agent": "researcher-agents",
+                                 "Authorization": "Basic " + base64.b64encode(f"{USER}:{PW}".encode()).decode()})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.loads(r.read())
+
+
+def backfill_embed(f, front, body):
+    """A post sent before embeds existed: look for the person's official post once, add it to the live content, remember that we looked."""
+    import embeds
+    emb = embeds.find(items(front, "sources"), field(front, "celebrity"))
+    front = set_field(front, "embed_checked", "1")
+    if emb:
+        raw = wp_get(f"posts/{field(front, 'wp_id')}?context=edit&_fields=content")["content"]["raw"]
+        if emb["url"].split("/status/")[-1].split("/")[-1] not in raw:
+            wp(f"posts/{field(front, 'wp_id')}", {"content": embeds.insert(raw, emb)})
+        front = set_field(front, "embed", json.dumps(emb))
+        print(f"  embed added to {f.name}: {emb['url']}")
+    f.write_text(f"---\n{front}\n---\n\n{body}")
+    return front
+
+
 def image_caption():
     """Visible caption under featured images. OFF by default; IMG_CAPTION or config.json image_pipeline.caption turns it on with the given text."""
     c = os.environ.get("IMG_CAPTION", (CONFIG.get("image_pipeline") or {}).get("caption", ""))
@@ -296,6 +318,7 @@ def main():
     files = sorted((ROOT / "articles").glob("*.md"))
     live = live_posts(files)
     media = live_media(live)
+    backfill_budget = 10
     for f in files:
         front, body = split(f.read_text())
         try:
@@ -304,6 +327,12 @@ def main():
         except Exception as e:  # a sync problem must not block sending new articles
             print(f"  could not check {f.name} in WordPress: {e}", file=sys.stderr)
         status, want = field(front, "status"), field(front, "wp_status") or "draft"
+        if status == "sent" and field(front, "wp_id") and not field(front, "embed_checked") and backfill_budget > 0 and field(front, "wp_synced") in WP_STATUSES:
+            backfill_budget -= 1  # a few per run so a long backlog never slows sending
+            try:
+                front = backfill_embed(f, front, body)
+            except Exception as e:
+                print(f"  embed backfill failed for {f.name}: {e}", file=sys.stderr)
         if AUTO and status == "pending":
             status = "approved"
             front = set_field(front, "status", "approved")
@@ -316,7 +345,17 @@ def main():
             continue
         try:
             if status == "approved" and not field(front, "wp_id"):
-                payload = {"title": field(front, "title"), "content": to_html(body), "status": want}
+                content = to_html(body)
+                try:  # an official post from the person (or the studio) shown as the original picture; never blocks sending
+                    import embeds
+                    emb = json.loads(field(front, "embed") or "null") or embeds.find(items(front, "sources"), field(front, "celebrity"))
+                    if emb:
+                        content = embeds.insert(content, emb)
+                        front = set_field(front, "embed", json.dumps(emb))
+                        print(f"  embed for {f.name}: {emb['url']}")
+                except Exception as e:
+                    print(f"  embed lookup failed for {f.name}: {e}", file=sys.stderr)
+                payload = {"title": field(front, "title"), "content": content, "status": want}
                 if field(front, "description"):
                     payload["excerpt"] = field(front, "description")
                 cats, tags = items(front, "categories"), items(front, "tags")

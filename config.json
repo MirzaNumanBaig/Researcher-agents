@@ -350,6 +350,7 @@
   "max_age_hours": 48,
   "headline_must_name": true,
   "ai_images": true,
+  "embed_accounts": ["netflix", "netflixfilm", "marvel", "marvelstudios", "a24", "hbo", "max", "disney", "disneystudios", "universalpictures", "warnerbros", "sonypictures", "paramountpics", "primevideo", "applestudios", "neonrated"],
   "image_pipeline": {
     "enabled": true,
     "real_photos": true,

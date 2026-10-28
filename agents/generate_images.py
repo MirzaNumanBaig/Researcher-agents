@@ -46,6 +46,7 @@ FALLBACK = {  # used only when the writer gave no image_prompt; scenes, never pe
 OUT_W, OUT_H = int(os.environ.get("OUT_WIDTH", "1600")), int(os.environ.get("OUT_HEIGHT", "900"))
 WEBP_QUALITY = int(os.environ.get("WEBP_QUALITY", "82"))
 RETRY_HOURS = 48
+REDO_DAYS = 30  # how far back posts get the real photo added
 DEFAULT_SCENE = "a red carpet at night with camera flashes and velvet ropes, no people"
 
 
@@ -255,7 +256,11 @@ def real_photo(front):
         out = io.BytesIO()
         canvas.save(out, "WEBP", quality=WEBP_QUALITY, method=6)
         import html; desc = html.unescape(photo.get("description") or "photographed in 2026")
-        return out.getvalue(), f"{field(front, 'celebrity')}: {desc}"[:200], photo["credit"]
+        import html as _h
+        credit = (f'Photo: <a href="{_h.escape(photo["page"])}" rel="noopener">{_h.escape(photo.get("author") or "Wikimedia Commons contributor")}</a>, '
+                  f'<a href="{_h.escape(photo.get("license_url") or photo["page"])}" rel="noopener">{_h.escape(photo["license"])}</a>, '
+                  f'via <a href="{_h.escape(photo["page"])}" rel="noopener">Wikimedia Commons</a>')
+        return out.getvalue(), f"{field(front, 'celebrity')}: {desc}"[:200], credit
     except Exception as e:
         print(f"real photo unavailable for {field(front, 'celebrity')} ({e}); using an AI scene", file=sys.stderr)
         return None
@@ -273,6 +278,7 @@ def main():
     limit = int(sys.argv[sys.argv.index("--max") + 1]) if "--max" in sys.argv else 20
     out_dir = ROOT / "articles" / "images"
     now = datetime.now(timezone.utc)
+    real_on = bool((json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("real_photos"))
     done = failed = 0
     today = now.strftime("%Y-%m-%d")
     try:
@@ -291,19 +297,25 @@ def main():
         front, body = split(f.read_text())
         have = field(front, "image") and (ROOT / "articles" / field(front, "image")).exists()
         # images are not stored in git: an article needs one until WordPress has it (wp_media_id) or the file exists in this run
-        if field(front, "wp_media_id") or have or not wants_image(field(front, "status"), f.stem, "--include-pending" in sys.argv, now):
+        # redo: a post made earlier with one of OUR AI pictures (file name = article name) gets the real photo too; hand-picked images are never touched
+        redo = bool(real_on and field(front, "status") == "sent" and field(front, "wp_media_id") and not field(front, "image_credit")
+                    and f.stem in field(front, "wp_image") and now - datetime.strptime(f.stem[:16], "%Y-%m-%d-%H-%M").replace(tzinfo=timezone.utc) <= timedelta(days=REDO_DAYS))
+        if (field(front, "wp_media_id") and not redo) or have or (not redo and not wants_image(field(front, "status"), f.stem, "--include-pending" in sys.argv, now)):
             continue
         if used_today(today) >= cap:
             print(f"daily image cap reached ({cap} attempts today, UTC); the remaining articles wait until tomorrow so the free allowance is not used up")
             break
         rp = real_photo(front)
+        if redo and not rp:
+            continue
         if rp:  # a real, free-licence photo of the person beats any AI picture; no Cloudflare neurons used
             out_dir.mkdir(parents=True, exist_ok=True)
             (out_dir / f"{f.stem}.webp").write_bytes(rp[0])
             front = set_field(set_field(set_field(front, "image", f"images/{f.stem}.webp"), "image_alt", rp[1]), "image_credit", rp[2])
+            front = re.sub(r"^wp_media_id: ?.*\n?", "", front, flags=re.M).strip("\n")  # the publish step then uploads the new picture and sets it as the featured image
             f.write_text(f"---\n{front}\n---\n\n{body}")
             done += 1
-            print(f"ok {f.name} -> real photo ({rp[2]})")
+            print(f"ok {f.name} -> real photo")
             continue
         res = None
         if use_pipeline:
