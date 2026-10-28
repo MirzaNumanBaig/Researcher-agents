@@ -25,7 +25,7 @@ def call(params, tries=6):
             return json.load(urllib.request.urlopen(req, timeout=30))
         except Exception:
             time.sleep(10 * (i + 1))
-    return {}
+    raise RuntimeError("Wikimedia kept refusing the request (rate limit)")
 
 
 def clean(s):
@@ -78,7 +78,13 @@ def main():
     for name in cfg["celebrities"]:
         if only and name != only:
             continue
-        found = candidates(name)
+        if (sheet.get(name) or {}).get("status") == "ok":
+            continue  # already found; a re-run only fills the gaps
+        try:
+            found = candidates(name)
+        except RuntimeError as e:  # a throttled request is not "no photo": leave it for the next run
+            print("retry", name, e, flush=True)
+            continue
         if not found:
             sheet[name] = {"status": "no_free_photo", "photos": []}
             print("none ", name, flush=True)

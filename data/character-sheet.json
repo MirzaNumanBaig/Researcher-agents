@@ -314,8 +314,54 @@
   ]
  },
  "Delta Goodrem": {
-  "status": "no_free_photo",
-  "photos": []
+  "status": "ok",
+  "photos": [
+   {
+    "file": "File:20260516 Delta Goodrem Z09 9446.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20260516_Delta_Goodrem_Z09_9446.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/20260516_Delta_Goodrem_Z09_9446.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/20260516_Delta_Goodrem_Z09_9446.jpg/960px-20260516_Delta_Goodrem_Z09_9446.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 8256,
+    "height": 5504,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Granada",
+    "date": "2026-05-16",
+    "description": "Eurovision Song Contest 2026 Vienna, Grand Final, Picture shows: Delta Goodrem from Australia",
+    "category": "Category:Delta Goodrem in 2026",
+    "credit": "Photo: Granada, CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "File:20260516 Delta Goodrem Z09 9450.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20260516_Delta_Goodrem_Z09_9450.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/20260516_Delta_Goodrem_Z09_9450.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/20260516_Delta_Goodrem_Z09_9450.jpg/960px-20260516_Delta_Goodrem_Z09_9450.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 8256,
+    "height": 5504,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Granada",
+    "date": "2026-05-16",
+    "description": "Eurovision Song Contest 2026 Vienna, Grand Final, Picture shows: Delta Goodrem from Australia",
+    "category": "Category:Delta Goodrem in 2026",
+    "credit": "Photo: Granada, CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "File:20260516 Delta Goodrem Z09 9863.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20260516_Delta_Goodrem_Z09_9863.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/20260516_Delta_Goodrem_Z09_9863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/20260516_Delta_Goodrem_Z09_9863.jpg/960px-20260516_Delta_Goodrem_Z09_9863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 7150,
+    "height": 4767,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Granada",
+    "date": "2026-05-16",
+    "description": "Eurovision Song Contest 2026 Vienna, Grand Final, Picture shows: Delta Goodrem from Australia",
+    "category": "Category:Delta Goodrem in 2026",
+    "credit": "Photo: Granada, CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ]
  },
  "Rebel Wilson": {
   "status": "ok",
