@@ -33,7 +33,8 @@ import cf_accounts  # noqa: E402  several Cloudflare accounts: CF_ACCOUNT_ID/CF_
 ACCOUNT, TOKEN = (cf_accounts.load() or [("", "")])[0]
 MODEL = os.environ.get("CF_IMAGE_MODEL", "@cf/black-forest-labs/flux-1-schnell")
 BASE = os.environ.get("CF_API_BASE", "https://api.cloudflare.com/client/v4").rstrip("/")
-STYLE = "editorial photograph, cinematic lighting, shallow depth of field, rich colour, no text, no logos, no watermark, no people's faces"
+_style = os.environ.get("CF_STYLE", "").strip()  # only the sample/test workflow sets it: "none" sends the scene as written
+STYLE = "" if _style.lower() == "none" else (_style or "editorial photograph, cinematic lighting, shallow depth of field, rich colour, no text, no logos, no watermark, no people's faces")
 FALLBACK = {  # used only when the writer gave no image_prompt; scenes, never people
     "movies": "a empty cinema auditorium with red seats and a bright projector beam",
     "tv": "a cosy living room with a glowing television in the evening",
@@ -105,7 +106,7 @@ def gen_size(model):
 def build_body(model, prompt, width, height):
     """Request fields for one image. CF_IMAGE_STEPS overrides the step count."""
     cfg = settings(model)
-    body = {"prompt": f"{prompt}, {STYLE}"}
+    body = {"prompt": f"{prompt}, {STYLE}" if STYLE else prompt}
     if not cfg.get("no_size"):
         body.update(width=width, height=height)
     if cfg.get("steps_key"):

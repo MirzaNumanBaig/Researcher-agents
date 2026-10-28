@@ -12,6 +12,21 @@ on:
           - "@cf/black-forest-labs/flux-1-schnell"
           - "@cf/black-forest-labs/flux-2-klein-4b"
           - "@cf/lykon/dreamshaper-8-lcm"
+      gen_width:
+        description: "Optional size to ask the model for (klein accepts it, schnell ignores it), e.g. 832"
+        default: ""
+      gen_height:
+        description: "Optional, e.g. 1024"
+        default: ""
+      out_width:
+        description: "Final picture width (default 1600)"
+        default: "1600"
+      out_height:
+        description: "Final picture height (default 900); 1200 x 1500 is 4:5 vertical"
+        default: "900"
+      style:
+        description: "Style words added after the scene. Empty = the pipeline default; none = send the scene exactly as written"
+        default: ""
       scene:
         description: Scene to draw (never a real person)
         default: "a glossy magazine cover shoot set with soft studio lights, a velvet chair and a rack of vintage dresses, warm evening glow"
@@ -37,6 +52,11 @@ jobs:
           CF_API_TOKEN_4: ${{ secrets.CF_API_TOKEN_4 }}
           CF_IMAGE_MODEL: ${{ inputs.model }}
           SCENE: ${{ inputs.scene }}
+          CF_GEN_WIDTH: ${{ inputs.gen_width }}
+          CF_GEN_HEIGHT: ${{ inputs.gen_height }}
+          OUT_WIDTH: ${{ inputs.out_width || '1600' }}
+          OUT_HEIGHT: ${{ inputs.out_height || '900' }}
+          CF_STYLE: ${{ inputs.style }}
         run: python agents/generate_images.py --sample "$SCENE" --out sample.webp
       - uses: actions/upload-artifact@v4
         with:
