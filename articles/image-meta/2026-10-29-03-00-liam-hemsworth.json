@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-10-28T17:28:56.367156+00:00",
+  "article": "2026-10-29-03-00-liam-hemsworth",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure denies eating tuna or garlic to put off an anonymous figure before kissing scenes in an anonymous figure.",
+    "emotion": "defensive",
+    "setting": "podcast recording studio",
+    "key_objects": [
+      "tuna",
+      "garlic",
+      "kissing scenes",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "neutral beige",
+      "muted blue",
+      "soft gray"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "tuna",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "podcast recording studio",
+    "props": [
+      "tuna",
+      "garlic",
+      "kissing scenes",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neutral beige",
+      "muted blue",
+      "soft gray"
+    ],
+    "mood": "defensive",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05",
+    "cast-06"
+  ],
+  "prompt": "A wide shot from a slightly high angle, taken with an 85mm lens, captures the left side of the podcast recording studio. The woman, a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, sits at a low table, her shoulders low and her head resting slightly back as she gazes off-frame toward a window. Her facial expression is one of gentle defensiveness, her eyebrows drawn up slightly at the centre, her eyes unfocused and distant, her mouth just closed, and her jaw soft. She holds a mug wrapped in her hands, her fingers curled around it. Her burgundy blazer adds a pop of colour to the otherwise neutral beige and muted blue setting. The neutral beige, muted blue, and soft gray palette adds to the sense of calm, while the woman's gaze off-frame and the man's tilt of his head create a sense of tension. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3050905004,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in podcast recording studio, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 75.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3050905004,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

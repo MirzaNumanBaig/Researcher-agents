@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Lawrence answers Liam Hemsworth's tuna kiss claim"
 description: "Jennifer Lawrence told Call Her Daddy she never ate tuna or garlic on purpose before kissing Liam Hemsworth on The Hunger Games."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-29 03:00"
 celebrity: "Liam Hemsworth"
@@ -11,6 +11,13 @@ image_prompt: "A quiet film set at dusk with a empty director's chair, a clapper
 sources:
   - "https://www.ladbible.com/entertainment/celebrity/jennifer-lawrence-hunger-games-kiss-scenes-liam-hemsworth-bad-breath-427733-20261028"
   - "https://www.justjared.com/2026/10/28/jennifer-lawrence-responds-to-liam-hemsworths-tuna-sandwich-dig-reveals-cringey-remark-she-made-to-bradley-cooper/"
+image_alt: "Illustration of a woman and a man in podcast recording studio, lit by daytime, studio lights."
+image: "images/2026-10-29-03-00-liam-hemsworth.webp"
+wp_media_id: 1265
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-03-00-liam-hemsworth-768x432.webp"
+wp_id: 1266
+wp_link: "https://moduscarry.com/jennifer-lawrence-answers-liam-hemsworths-tuna-kiss-claim/"
+wp_synced: publish
 ---
 
 **Quick summary**

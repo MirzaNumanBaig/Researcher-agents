@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-10-28T17:28:16.729059+00:00",
+  "article": "2026-10-29-03-00-seth-rogen",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure as an anonymous figure pushes forward",
+    "emotion": "relatable humor",
+    "setting": "beauty store",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure store",
+      "gift list",
+      "setting sprays",
+      "red light LED masks"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "warm beige",
+      "rich gold",
+      "deep red"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "beauty store",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure store",
+      "gift list",
+      "setting sprays"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "warm beige",
+      "rich gold",
+      "deep red"
+    ],
+    "mood": "relatable humor",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot from a low angle, captured with a 24mm lens, presents the interior of a bustling beauty store. The wide establishing shot is taken from behind the store's central counter, where a warm beige wall, adorned with rich gold accents, forms the backdrop for an array of products. The camera is tilted slightly, allowing the viewer's gaze to sweep across the space, passing over the anonymous figure, who stands confidently in front of a colorful display of setting sprays, their hands resting on the counter as they survey their surroundings with a look of quiet determination. The store's shelves, stacked with rows of red light LED masks and various beauty products, stretch out behind them, creating a sense of depth and visual interest. Natural light pours in through the windows, casting a warm glow over the scene. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2996721539,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of beauty store with a person and a person store, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 259.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2996721539,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

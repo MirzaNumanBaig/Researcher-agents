@@ -1,7 +1,7 @@
 ---
 title: "Extraction 3 wraps, and Netflix's spinoff slate takes shape"
 description: "With Extraction 3 filming done, Chris Hemsworth's Netflix franchise has two spinoffs in the works and a 2027 release expected. Here is where it all stands."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-29 03:00"
 celebrity: "Chris Hemsworth"
@@ -12,6 +12,14 @@ sources:
   - "https://www.cbr.com/chris-hemsworth-extraction-3-wraps-filming/"
   - "https://screenrant.com/chris-hemsworth-extraction-3-netflix-filming-milestone-wrap/"
   - "https://www.hellomagazine.com/us/931735/chris-hemsworth-and-elsa-patakys-twin-sons-look-so-tall-next-to-63-dad/"
+image: "images/2026-10-29-03-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1255
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-03-00-chris-hemsworth-768x432.webp"
+wp_id: 1256
+wp_link: "https://moduscarry.com/extraction-3-wraps-and-netflixs-spinoff-slate-takes-shape/"
+wp_synced: publish
 ---
 
 **Quick summary**
