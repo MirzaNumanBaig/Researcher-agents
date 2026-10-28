@@ -17,7 +17,17 @@ Enable the dashboard: repo Settings → Pages → deploy from branch, folder `/d
 
 ## Article → Image pipeline (featured images)
 
-`agents/imagegen/` turns each article into an original FLUX.1 schnell picture: **analyze** the story (story type, event, emotion, setting, props, light, palette, sensitivity) → apply the **visual rules** → write a 60-120 word **prompt** → **generate** → **quality-check** (retry with a new seed, up to 2 times) → attach to WordPress with alt text and a caption. It runs automatically inside `generate_images.py`; if anything fails there the old one-line `image_prompt` path is used, so publishing never stops.
+`agents/imagegen/` turns each article into an original FLUX.1 schnell picture:
+
+1. **Analyze** the story (story type, event, emotion, setting, props, light, palette, sensitivity).
+2. **Scene blueprint** (`blueprint.py`): shot size, camera, composition, depth layers, and for at most two people a body-language card (eyebrows, eyes, mouth, jaw, gaze, head, posture, hands, interaction, clothing). With `IMG_REFERENCE_IMAGES=true` and a news photo, a vision model fills it in from the photo (visual facts only, never who the people are). Otherwise it is built from the story. Sensitive stories get no people.
+3. **Stand-in cast** (`cast.py`, `cast.json`): every person in a picture is one of 12 fictional characters, matched by gender presentation, age range and clothing and rotated so the site shows varied people. A prompt never contains a real name or "looks like".
+4. **Prompt** (90-150 words, up to about 190 for two people): shot size and subject, face, body language, clothing and props, setting and depth, camera, light, mood and palette, realism tail, "No text, no logos, no watermark."
+5. **Generate** at 1536x864, **upscale** 2x (Lanczos, or Real-ESRGAN when installed), crop to **1600x900** (1920x1080 by setting), light sharpening and tiny grain, WebP or JPEG under 400 KB where possible (`finish.py`).
+6. **Score** with a vision model (1-5: face naturalness, expression match, hands and anatomy, composition match, realism, no text or logos). Any score under 4 means a new seed, up to 3 attempts; if all fail, one calm symbolic scene (props, setting, no faces) is made instead. Nothing is used if that fails too.
+7. **WordPress**: featured image with a factual one-sentence alt text. **No visible caption or credit is added** (set `IMG_CAPTION` to a text to turn one on). The AI flag, prompt, seed, model, blueprint, stand-in ids and scores are kept in `articles/image-meta/<article>.json`.
+
+It runs automatically inside `generate_images.py`; if anything fails there the old one-line `image_prompt` path is used, so publishing never stops.
 
 **Run it by hand** (needs `CF_ACCOUNT_ID` and `CF_API_TOKEN`; WordPress modes also `WP_URL`, `WP_USER`, `WP_APP_PASSWORD`):
 
@@ -29,14 +39,19 @@ scripts/generate-image --demo --out demo-out      # three fictional sample stori
 scripts/generate-image --post-id 123 --dry-run --preset glossy_magazine --seed 42
 ```
 
-Every setting is listed in `.env.example` (environment variable `IMG_*`, or `config.json` → `image_pipeline`). Per article it saves `articles/image-meta/<article>.json` (article id, story type, analysis, final prompt, seed, model, preset, timestamp, quality result per attempt) and keeps the last 20 prompts in `articles/image-meta/_history.json`, so neighbouring images use different shots, angles and palettes.
+Every setting is in `.env.example` (environment variable `IMG_*`, or `config.json` -> `image_pipeline`): sizes, steps, upscaler, output size and format, quality and file-size target, sharpening and grain, minimum score, caption, cast file. The history of the last 20 prompts (`_history.json`) makes neighbouring images use different shots, angles, palettes and stand-ins.
 
-**Cost guard:** Cloudflare's free allowance is 10,000 neurons a day (it resets at 00:00 UTC) and an image costs roughly 170 of them, so `IMG_DAILY_IMAGE_CAP` (default 40 image attempts per UTC day, counted in `articles/image-meta/_usage.json`) stops the run before the allowance is spent. A "daily allocation used up" error is never retried.
+**Cost guard:** Cloudflare's free allowance is 10,000 neurons a day, and an image attempt costs roughly 170 of them plus the text and vision calls, so `IMG_DAILY_IMAGE_CAP` (default 40 attempts per UTC day, counted in `articles/image-meta/_usage.json`) stops the run before the allowance is spent. A "daily allocation used up" error is never retried.
 
-**Rules enforced in code** (`concept.py`, not just asked of the model): no real name or likeness in a prompt or alt text; no readable text, signs or logos; no children; no weighting syntax or negative prompts; sensitive and high-risk stories (death, health, legal, abuse, rumours) get a calm symbolic scene with no people; the prompt always ends with "No text, no logos, no watermark."
+**Rules enforced in code** (`concept.py`, not just asked of the model): no real name or likeness in a prompt or alt text; no readable text, signs or logos; no children; no weighting syntax or negative prompts; at most two people; sensitive and high-risk stories (death, health, legal, abuse, rumours) get a calm symbolic scene with no people; the prompt always ends with "No text, no logos, no watermark."
 
-**Style presets** (`--preset`, `IMG_PRESET`): `candid_news_photo` (default), `glossy_magazine`, `cinematic_still`, `soft_illustration`. Add one by adding an entry to `PRESETS` in `agents/imagegen/presets.py` (a label and one style sentence).
+**Style presets** (`--preset`, `IMG_PRESET`): `candid_news_photo` (default), `glossy_magazine`, `cinematic_still`, `soft_illustration`. Add one by adding an entry to `PRESETS` in `agents/imagegen/presets.py` (a label, a style sentence and a realism `tail`).
 
-**Add a story type:** add its name to `STORY_TYPES` and a row to `DEFAULTS` (emotion, setting, three props, light, palette) in `analyzer.py`, optionally a keyword rule in `TYPE_WORDS`, and a scene sentence in `SCENES` in `prompt_writer.py` (for sensitive types also an entry in `SYMBOLIC` in `concept.py`). `tests/test_imagegen.py` checks every story type automatically.
+**Add a story type:** add its name to `STORY_TYPES` and a row to `DEFAULTS` (emotion, setting, three props, light, palette) in `analyzer.py`, optionally a keyword rule in `TYPE_WORDS`, a scene sentence in `SCENES` in `prompt_writer.py` (for sensitive types also an entry in `SYMBOLIC` in `concept.py`), and, if it should show people, a row in `PLAN` in `blueprint.py` (number of people, how they stand, clothing hint). `tests/test_imagegen.py` checks every story type automatically.
 
-**LLM provider:** `IMG_LLM_PROVIDER=cloudflare` (default, same secrets as the image model), `anthropic` (needs `ANTHROPIC_API_KEY`), or `none` (keyword analysis and template prompts). The vision quality check needs Meta's licence accepted once on your Cloudflare account (`scripts/generate-image --accept-vision-license`, run only by you); until then it is skipped and only the pixel checks run.
+**Add or edit a stand-in:** edit `agents/imagegen/cast.json` (id, gender presentation, age, hair, build, skin, three clothing styles). Keep them fictional, 8-12 cards.
+
+**Real-ESRGAN:** set `IMG_UPSCALER=realesrgan` on a machine that has the `realesrgan-ncnn-vulkan` program (or change `IMG_UPSCALE_CMD`); if it is missing or fails, Lanczos is used. GitHub's standard runners have no GPU, so the default stays Lanczos. Face restoration (CodeFormer / GFPGAN) is off; `IMG_FACE_RESTORE=command` runs `IMG_FACE_RESTORE_CMD` on accepted images.
+
+**LLM provider:** `IMG_LLM_PROVIDER=cloudflare` (default, same secrets as the image model), `anthropic` (needs `ANTHROPIC_API_KEY`), or `none` (keyword analysis and template prompts). The vision steps (blueprint from a photo, scored check) need Meta's licence accepted once on your Cloudflare account (`scripts/generate-image --accept-vision-license`, run only by you); until then the scored check is skipped and only the pixel checks run.
+

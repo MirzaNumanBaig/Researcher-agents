@@ -1,5 +1,5 @@
 """Step 2: the non-negotiable visual rules, enforced in code (not just asked of the model).
- - no real person's name or likeness in a prompt or alt text
+ - no real person's name or likeness in a prompt or alt text; people in an image are always fictional stand-ins (cast.py)
  - no readable text, signs, logos; no children; weighting syntax and negative prompts removed
  - sensitive / high-risk stories get a calm symbolic scene with no people
 """
@@ -8,7 +8,7 @@ import re
 from . import config
 
 FINAL_SENTENCE = "No text, no logos, no watermark."
-MAX_WORDS, HARD_MAX_WORDS, MIN_WORDS = 120, 180, 40
+MAX_WORDS, HARD_MAX_WORDS, MIN_WORDS, MIN_WORDS_NO_PEOPLE = 196, 200, 90, 60  # the writer aims for 90-150; two people with full face and body cards need up to ~190; schnell reads about 256 tokens
 
 PLACE_CUES = {"in", "near", "at", "outside", "across", "from", "to", "around", "off", "over", "into", "through"}  # "near Byron Bay": a place, not a person
 COMMON_CAPS = {"veteran", "australian", "american", "british", "canadian", "irish", "french", "german", "italian", "indian", "korean", "japanese", "chinese",
@@ -90,10 +90,10 @@ def words(text):
 
 
 def limit_words(text, cap=MAX_WORDS):
-    """Cut whole sentences from the end (keeping the opening ones) until the prompt fits."""
+    """Cut whole sentences until the prompt fits, keeping the opening sentences and the last one (the realism / style tail)."""
     parts = re.split(r"(?<=[.!?])\s+", text.strip())
-    while len(parts) > 2 and words(" ".join(parts)) > cap:
-        parts.pop()
+    while len(parts) > 3 and words(" ".join(parts)) > cap:
+        parts.pop(-2)
     return " ".join(parts)
 
 
@@ -110,13 +110,13 @@ def sanitize_prompt(prompt, names, final=True):
     s = re.sub(r"\bno (?:logos?|watermarks?)[^.]*\.?", "", s, flags=re.I)
     s = re.sub(r"\s+([,.;])", r"\1", re.sub(r"([,;])\s*([,;.])", r"\2", s))
     s = re.sub(r"\s{2,}", " ", s).strip(" ,;")
-    s = limit_words(s, MAX_WORDS - 7)  # room for the closing 6-word sentence
+    s = limit_words(s, MAX_WORDS - 6)  # room for the closing 5-word sentence
     if final:
         s = s.rstrip(" .") + ". " + FINAL_SENTENCE
     return s
 
 
-def check_prompt(prompt, names, sensitivity="safe"):
+def check_prompt(prompt, names, sensitivity="safe", people=True):
     """Problems that cannot be fixed by cleaning (the caller rewrites the prompt or uses the safe template)."""
     problems = []
     if names_in(prompt, names):
@@ -127,9 +127,9 @@ def check_prompt(prompt, names, sensitivity="safe"):
         problems.append("shows people in a sensitive story")
     if LIKENESS.search(prompt) or WEIGHT.search(prompt) or NEGATIVE.search(prompt):
         problems.append("contains likeness phrases, weighting syntax or a negative prompt")
-    n = words(prompt)
-    if n > HARD_MAX_WORDS or n < MIN_WORDS:
-        problems.append(f"{n} words (needs {MIN_WORDS}-{HARD_MAX_WORDS})")
+    n, low = words(prompt), (MIN_WORDS if people and sensitivity == "safe" else MIN_WORDS_NO_PEOPLE)
+    if n > HARD_MAX_WORDS or n < low:
+        problems.append(f"{n} words (needs {low}-{HARD_MAX_WORDS})")
     if not prompt.rstrip().endswith(FINAL_SENTENCE):
         problems.append("does not end with the no-text sentence")
     return problems

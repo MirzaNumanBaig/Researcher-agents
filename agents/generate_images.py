@@ -2,7 +2,7 @@
 
 Env (GitHub Actions secrets): CF_ACCOUNT_ID, CF_API_TOKEN.  The model is MODEL below (FLUX.1 schnell). CF_IMAGE_MODEL overrides it only where it is set explicitly (the test-image-model workflow, local runs); the sending workflows do not pass it.
 For every article whose status is pending/approved/sent and that has no `image:` yet, it reads the front matter `image_prompt`
-(a scene description the writer produced; never a real person), asks Cloudflare for an image, resizes and centre-crops it to exactly 1500x900 (config: OUT_WIDTH/OUT_HEIGHT), converts it to WebP (Pillow) and saves it as
+(a scene description the writer produced; never a real person), asks Cloudflare for an image, resizes and centre-crops it to exactly 1600x900 (config: OUT_WIDTH/OUT_HEIGHT), converts it to WebP (Pillow) and saves it as
 articles/images/<article-name>.webp (git-ignored; the publish step uploads it in the same run) and adds `image:` and `image_alt:` to the front matter. publish_wordpress.py uploads it
 and sets it as the post's featured image. Without the secrets, or with "ai_images": false in config.json, this does nothing, so the pipeline keeps working.
 Only articles that are about to be (or were just) sent get an image, so no request is wasted on a drafts waiting for a human:
@@ -39,9 +39,9 @@ FALLBACK = {  # used only when the writer gave no image_prompt; scenes, never pe
     "music": "a concert stage with warm spotlights and an empty microphone stand",
     "fashion": "a runway with soft spotlights and rows of empty chairs",
 }
-# Final file: 1500x900 WebP. The model is asked for a canvas near that size (see gen_size)
+# Final file: 1600x900 WebP. The model is asked for a canvas near that size (see gen_size)
 # and the result is cover-cropped to the exact size, so the picture is never stretched.
-OUT_W, OUT_H = int(os.environ.get("OUT_WIDTH", "1500")), int(os.environ.get("OUT_HEIGHT", "900"))
+OUT_W, OUT_H = int(os.environ.get("OUT_WIDTH", "1600")), int(os.environ.get("OUT_HEIGHT", "900"))
 WEBP_QUALITY = int(os.environ.get("WEBP_QUALITY", "82"))
 RETRY_HOURS = 48
 DEFAULT_SCENE = "a red carpet at night with camera flashes and velvet ropes, no people"
@@ -261,7 +261,7 @@ def main():
                 if any(c in res["error"] for c in ("HTTP 401", "HTTP 403", "HTTP 429")):
                     break  # bad key or rate limit: stop instead of hammering the API
                 continue
-            data, ext = res["webp"], "webp"
+            data, ext = res["image"], res["ext"]
             front = set_field(front, "image_alt", res["alt"])
             out_dir.mkdir(parents=True, exist_ok=True)
             (out_dir / f"{f.stem}.{ext}").write_bytes(data)

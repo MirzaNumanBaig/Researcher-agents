@@ -24,19 +24,22 @@ def _save_outputs(out, name, res):
     d = Path(out) / name
     d.mkdir(parents=True, exist_ok=True)
     (d / "analysis.json").write_text(json.dumps(res["analysis"], indent=2, ensure_ascii=False) + "\n")
+    (d / "scene_blueprint.json").write_text(json.dumps({**res["blueprint"], "stand_ins": res["stand_ins"]}, indent=2, ensure_ascii=False) + "\n")
     (d / "prompt.txt").write_text(res["prompt"] + "\n")
-    (d / "result.json").write_text(json.dumps({k: res[k] for k in ("ok", "alt", "caption", "seed", "model", "preset", "prompt_source", "attempts", "error", "variation")},
+    (d / "result.json").write_text(json.dumps({k: res[k] for k in ("ok", "alt", "caption", "seed", "model", "preset", "prompt_source", "attempts", "error", "fallback", "finish", "variation")},
                                               indent=2, ensure_ascii=False) + "\n")
-    if res["webp"]:
-        (d / "image.webp").write_bytes(res["webp"])
+    if res["image"]:
+        (d / f"image.{res['ext']}").write_bytes(res["image"])
     return d
 
 
 def _summary(name, res):
     a = res["analysis"]
-    print(f"\n=== {name} ===\nANALYSIS ({a['source']}):\n{json.dumps(a, indent=2, ensure_ascii=False)}\nPROMPT ({res['prompt_source']}, "
+    print(f"\n=== {name} ===\nANALYSIS ({a['source']}):\n{json.dumps(a, indent=2, ensure_ascii=False)}\nSCENE BLUEPRINT ({res['blueprint']['source']}, stand-ins "
+          f"{res['stand_ins'] or 'none'}):\n{json.dumps(res['blueprint'], indent=2, ensure_ascii=False)}\nPROMPT ({res['prompt_source']}, "
           f"{len(res['prompt'].split())} words):\n{res['prompt']}\nALT: {res['alt']}\nRESULT: ok={res['ok']} seed={res['seed']} "
-          f"attempts={json.dumps(res['attempts'], ensure_ascii=False)} {('error=' + res['error']) if res['error'] else ''}")
+          f"fallback={res['fallback'] or 'none'} finish={json.dumps(res['finish'])} attempts={json.dumps(res['attempts'], ensure_ascii=False)} "
+          f"{('error=' + res['error']) if res['error'] else ''}")
 
 
 def main(argv=None):
@@ -51,13 +54,13 @@ def main(argv=None):
     p.add_argument("--limit", type=int, default=20)
     p.add_argument("--preset", help="candid_news_photo | glossy_magazine | cinematic_still | soft_illustration")
     p.add_argument("--seed")
-    p.add_argument("--out", help="folder for analysis.json, prompt.txt, image.webp, result.json")
+    p.add_argument("--out", help="folder for analysis.json, scene_blueprint.json, prompt.txt, image, result.json")
     p.add_argument("--dry-run", action="store_true")
-    p.add_argument("--no-caption", action="store_true")
+    p.add_argument("--caption", help="turn the visible caption on with this text (it is OFF by default)")
     a = p.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(message)s", stream=sys.stderr)
-    if a.no_caption:
-        os.environ["IMG_CAPTION"] = "off"
+    if a.caption:
+        os.environ["IMG_CAPTION"] = a.caption
 
     if a.list_presets:
         for k, v in presets.PRESETS.items():
@@ -104,7 +107,7 @@ def main(argv=None):
         if a.out:
             _save_outputs(a.out, name, res)
         if res["ok"] and post_id and not a.dry_run:
-            media_id, url = publisher.attach(post_id, res["webp"], f"{name}.webp", res["alt"], res["caption"])
+            media_id, url = publisher.attach(post_id, res["image"], f"{name}.{res['ext']}", res["alt"], res["caption"])
             print(f"attached media {media_id} to post {post_id}: {url}")
         failed += not res["ok"]
     return 1 if failed else 0

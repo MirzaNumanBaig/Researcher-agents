@@ -14,7 +14,7 @@ from unittest import mock
 
 REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "agents"))
-from imagegen import analyzer, checker, concept, config, generator, meta, pipeline, prompt_writer, publisher  # noqa: E402
+from imagegen import analyzer, blueprint, cast, checker, concept, config, finish, generator, meta, pipeline, prompt_writer, publisher  # noqa: E402
 from imagegen import llm as llmmod  # noqa: E402
 
 NAMES = ["Elena Marlowe", "Tom Hargrove", "Margaret Ellison"]
@@ -50,8 +50,8 @@ class FakeLLM:
         return json.dumps(v)
 
 
-GOOD_VERDICT = {"visible_text_or_logos": False, "distorted_hands_or_faces": False, "recognizable_real_person": False, "nudity": False,
-                "graphic_injury": False, "matches_story_mood": True, "notes": "fine"}
+GOOD_VERDICT = {"face_naturalness": 5, "expression_match": 5, "hands_anatomy": 5, "composition_match": 5, "realism": 5, "no_text_or_logos": 5,
+                "recognizable_real_person": False, "nudity": False, "graphic_injury": False, "notes": "fine"}
 
 
 class ParseJson(unittest.TestCase):
@@ -120,8 +120,10 @@ class SafetyRules(unittest.TestCase):
         self.assertEqual(s.count("No text"), 1)
 
     def test_check_prompt_flags_names_children_people_and_length(self):
-        base = " ".join(["quiet"] * 60) + ". " + concept.FINAL_SENTENCE
+        base = " ".join(["quiet"] * 95) + ". " + concept.FINAL_SENTENCE
         self.assertEqual(concept.check_prompt(base, NAMES), [])
+        self.assertTrue(any("words" in p for p in concept.check_prompt(" ".join(["quiet"] * 70) + ". " + concept.FINAL_SENTENCE, NAMES)))  # people prompts need 90+
+        self.assertEqual(concept.check_prompt(" ".join(["quiet"] * 70) + ". " + concept.FINAL_SENTENCE, NAMES, people=False), [])  # object scenes need 60+
         self.assertTrue(any("name" in p for p in concept.check_prompt(base + " Marlowe", NAMES)))
         self.assertTrue(any("child" in p for p in concept.check_prompt("A child " + base, NAMES)))
         self.assertTrue(any("sensitive" in p for p in concept.check_prompt("A woman " + base, NAMES, "sensitive")))
@@ -145,7 +147,7 @@ class PromptWriter(unittest.TestCase):
             for sens in analyzer.SENSITIVITY:
                 a = self.analysis(kind, sens)
                 p = prompt_writer.write_prompt(a, "candid_news_photo", [], NAMES, None, kind)["prompt"]
-                self.assertEqual(concept.check_prompt(p, NAMES, sens if concept.is_sensitive(a) else "safe"), [], (kind, sens, p))
+                self.assertEqual(concept.check_prompt(p, NAMES, sens if concept.is_sensitive(a) else "safe", people=False), [], (kind, sens, p))
                 self.assertTrue(60 <= concept.words(p) <= 120, (kind, concept.words(p)))
 
     def test_no_prop_is_named_twice(self):
@@ -258,7 +260,7 @@ class Generator(unittest.TestCase):
         body = Mock.bodies[0][1]
         self.assertEqual((body["steps"], body["seed"]), (4, 1234))  # IMG_STEPS=8 is clamped
         self.assertNotIn("guidance", body)
-        self.assertEqual((body["width"], body["height"]), (1344, 768))
+        self.assertEqual((body["width"], body["height"]), (1536, 864))  # generated at 1536x864 (16:9, multiples of 32)
 
     def test_random_seed_by_default(self):
         self.assertNotEqual(generator.generate("p")[1], generator.generate("p")[1])
@@ -299,12 +301,6 @@ class Generator(unittest.TestCase):
         generator.generate("p")  # remembered: the next call goes out clean at once
         self.assertEqual(len(Mock.bodies), n + 1)
 
-    def test_fit_crops_to_target_without_stretching(self):
-        from PIL import Image
-        webp, raw_size = generator.fit(png(1024, 1024), 1344, 768)
-        self.assertEqual(raw_size, (1024, 1024))
-        self.assertEqual(Image.open(io.BytesIO(webp)).size, (1344, 768))
-
 
 class Checker(unittest.TestCase):
     A = {"core_event": "x", "emotion": "joyful", "setting": "y"}
@@ -313,16 +309,26 @@ class Checker(unittest.TestCase):
         self.assertTrue(any("blank" in r for r in checker.rule_check(png(flat=True))))
         self.assertEqual(checker.rule_check(png()), [])
 
-    def test_vision_flags_reject_with_reasons(self):
-        verdict = dict(GOOD_VERDICT, visible_text_or_logos=True, recognizable_real_person=True)
-        qc = checker.check(png(), self.A, FakeLLM(verdicts=[verdict]))
+    def test_any_score_under_four_rejects_with_the_reason(self):
+        qc = checker.check(png(), self.A, FakeLLM(verdicts=[dict(GOOD_VERDICT, face_naturalness=3, no_text_or_logos=2)]))
         self.assertFalse(qc["passed"])
-        self.assertIn("visible text or logos", qc["reasons"])
-        self.assertIn("a clearly recognizable real person", qc["reasons"])
+        self.assertIn("face naturalness scored 3/5", qc["reasons"])
+        self.assertIn("no visible text or logos scored 2/5", qc["reasons"])
+        self.assertEqual(qc["scores"]["realism"], 5)
 
-    def test_mood_mismatch_rejects(self):
-        qc = checker.check(png(), self.A, FakeLLM(verdicts=[dict(GOOD_VERDICT, matches_story_mood=False)]))
+    def test_all_fours_and_fives_pass_and_scores_are_kept(self):
+        qc = checker.check(png(), self.A, FakeLLM(verdicts=[dict(GOOD_VERDICT, realism=4, hands_anatomy=4)]))
+        self.assertTrue(qc["passed"])
+        self.assertEqual(len(qc["scores"]), 6)
+
+    def test_the_minimum_score_is_a_setting(self):
+        with mock.patch.dict(os.environ, {"IMG_MIN_SCORE": "5"}):
+            self.assertFalse(checker.check(png(), self.A, FakeLLM(verdicts=[dict(GOOD_VERDICT, realism=4)]))["passed"])
+
+    def test_safety_flags_still_reject(self):
+        qc = checker.check(png(), self.A, FakeLLM(verdicts=[dict(GOOD_VERDICT, recognizable_real_person=True, nudity=True)]))
         self.assertFalse(qc["passed"])
+        self.assertIn("a clearly recognizable real person", qc["reasons"])
 
     def test_unavailable_vision_model_is_skipped_not_failed(self):
         qc = checker.check(png(), self.A, FakeLLM(verdicts=[llmmod.LLMError("licence not accepted")]))
@@ -354,31 +360,63 @@ class PipelineEndToEnd(unittest.TestCase):
         for name in NAMES[:2]:
             self.assertNotIn(name, res["prompt"] + res["alt"])
         m = json.loads((Path(self.tmp.name) / "2026-10-28-00-00-sample.json").read_text())
-        for k in ("article", "story_type", "prompt", "seed", "model", "timestamp", "quality", "preset", "alt"):
+        for k in ("article", "story_type", "prompt", "seed", "model", "timestamp", "quality", "preset", "alt", "scene_blueprint", "stand_ins", "finish"):
             self.assertIn(k, m)
+        self.assertIs(m["ai_generated"], True)  # the AI flag lives in the log, not on the page
+        self.assertEqual(m["caption"], "")
+        self.assertEqual(len(res["stand_ins"]), 2)
         self.assertEqual(len(meta.load_history()), 1)
         self.assertEqual(Mock.bodies[0][1]["seed"], m["seed"])
 
     def test_rejected_image_is_regenerated_with_a_new_seed_then_passes(self):
-        llm = FakeLLM(verdicts=[dict(GOOD_VERDICT, visible_text_or_logos=True), GOOD_VERDICT])
+        llm = FakeLLM(verdicts=[dict(GOOD_VERDICT, no_text_or_logos=2), GOOD_VERDICT])
         res = pipeline.run(self.ARTICLE, llm=llm)
         self.assertTrue(res["ok"])
         self.assertEqual([a["passed"] for a in res["attempts"]], [False, True])
         self.assertNotEqual(res["attempts"][0]["seed"], res["attempts"][1]["seed"])
 
     def test_all_attempts_rejected_gives_no_image_and_no_history(self):
-        bad = dict(GOOD_VERDICT, nudity=True)
-        res = pipeline.run(self.ARTICLE, llm=FakeLLM(verdicts=[bad, bad, bad]))
+        bad = dict(GOOD_VERDICT, realism=2)
+        res = pipeline.run(self.ARTICLE, llm=FakeLLM(verdicts=[bad, bad, bad, bad]))
         self.assertFalse(res["ok"])
-        self.assertIsNone(res["webp"])
-        self.assertEqual(len(res["attempts"]), 3)  # first try plus two retries
+        self.assertIsNone(res["image"])
+        self.assertEqual(len(res["attempts"]), 4)  # first try, two retries, then the symbolic fallback (also rejected here)
         self.assertEqual(meta.load_history(), [])
+
+    def test_three_rejected_face_led_attempts_fall_back_to_a_symbolic_scene(self):
+        bad = dict(GOOD_VERDICT, face_naturalness=2)
+        res = pipeline.run(self.ARTICLE, llm=FakeLLM(verdicts=[bad, bad, bad, GOOD_VERDICT]))
+        self.assertTrue(res["ok"])
+        self.assertEqual(res["fallback"], "symbolic")
+        self.assertEqual(len(res["attempts"]), 4)
+        self.assertEqual(res["stand_ins"], [])
+        self.assertNotRegex(res["prompt"].lower(), r"\b(woman|man|people|face|brows)\b")
+        self.assertEqual(meta.load_history()[-1]["cast"], [])
+
+    def test_final_image_is_1600x900_webp_and_no_caption_is_set(self):
+        from PIL import Image
+        res = pipeline.run(self.ARTICLE, llm=None)
+        im = Image.open(io.BytesIO(res["image"]))
+        self.assertEqual((im.size, im.format, res["ext"]), ((1600, 900), "WEBP", "webp"))
+        self.assertEqual(res["caption"], "")
+        self.assertEqual(res["finish"]["size"], [1600, 900])
+
+    def test_blueprint_from_the_news_photo_is_used_when_reference_images_are_on(self):
+        vision = dict(shot_size="medium", angle="eye-level", people=[{"gender_presentation": "woman", "age_range": "late 20s", "facial_expression": {"eyebrows": "raised", "eyes": "glassy", "mouth": "pressed", "jaw": "tense"},
+                                                                      "gaze": "down", "head": "bowed", "posture": "rounded shoulders", "hands": "in pockets", "clothing": "a camel coat"}], setting="a rain-wet street")
+        llm = FakeLLM(verdicts=[vision, GOOD_VERDICT])
+        with mock.patch.dict(os.environ, {"IMG_REFERENCE_IMAGES": "true"}), mock.patch.object(pipeline, "fetch_reference", return_value=(b"x", "image/jpeg")):
+            res = pipeline.run(self.ARTICLE, llm=llm)
+        self.assertEqual(res["blueprint"]["source"], "vision")
+        self.assertEqual(res["blueprint"]["people_count"], 1)
+        self.assertIn("glassy", res["prompt"])
 
     def test_sensitive_story_gets_a_people_free_symbolic_scene(self):
         res = pipeline.run({"key": "s", "headline": "Veteran actress Margaret Ellison dies aged 84", "body": "She died peacefully at home.", "category": "News",
                             "names": ["Margaret Ellison"]}, llm=None)
         self.assertEqual(res["analysis"]["sensitivity"], "high_risk")
-        self.assertEqual(concept.check_prompt(res["prompt"], NAMES, "high_risk"), [])
+        self.assertEqual((res["blueprint"]["people_count"], res["stand_ins"]), (0, []))
+        self.assertEqual(concept.check_prompt(res["prompt"], NAMES, "high_risk", people=False), [])
         self.assertNotRegex(res["prompt"].lower(), r"\b(woman|man|people|crowd|figure|silhouette)\b")
 
 
@@ -425,6 +463,259 @@ class AltAndCaption(unittest.TestCase):
             self.assertEqual(config.caption(), "")
         with mock.patch.dict(os.environ, {"IMG_CAPTION": "Illustration generated with AI"}):
             self.assertEqual(config.caption(), "Illustration generated with AI")
+
+
+class Finish(unittest.TestCase):
+    def test_default_output_is_1600x900_webp_upscaled_from_the_raw_size(self):
+        from PIL import Image
+        data, info = finish.finish(png(1536, 864))
+        im = Image.open(io.BytesIO(data))
+        self.assertEqual((im.size, im.format), ((1600, 900), "WEBP"))
+        self.assertEqual((info["raw_size"], info["upscaled_size"], info["upscaler"]), ([1536, 864], [3072, 1728], "lanczos"))
+
+    def test_a_square_raw_image_is_cropped_not_stretched(self):
+        from PIL import Image
+        data, info = finish.finish(png(1024, 1024))
+        self.assertEqual(Image.open(io.BytesIO(data)).size, (1600, 900))
+        self.assertEqual(info["raw_size"], [1024, 1024])
+
+    def test_size_format_and_upscaler_come_from_settings(self):
+        from PIL import Image
+        with mock.patch.dict(os.environ, {"IMG_OUT_WIDTH": "1920", "IMG_OUT_HEIGHT": "1080", "IMG_OUT_FORMAT": "jpeg", "IMG_UPSCALER": "none"}):
+            data, info = finish.finish(png(1536, 864))
+        im = Image.open(io.BytesIO(data))
+        self.assertEqual((im.size, im.format, info["ext"], info["upscaler"]), ((1920, 1080), "JPEG", "jpg", "none"))
+
+    def test_quality_is_lowered_until_the_file_fits_but_never_below_the_floor(self):
+        noisy = png(1536, 864)
+        with mock.patch.dict(os.environ, {"IMG_MAX_KB": "1"}):  # impossible budget: the floor wins
+            _, info = finish.finish(noisy)
+        self.assertEqual(info["quality"], config.get("min_quality"))
+        with mock.patch.dict(os.environ, {"IMG_MAX_KB": "100000"}):
+            self.assertEqual(finish.finish(noisy)[1]["quality"], config.get("out_quality"))
+
+    def test_jpeg_keeps_quality_90_or_more_when_it_fits(self):
+        with mock.patch.dict(os.environ, {"IMG_OUT_FORMAT": "jpg", "IMG_MAX_KB": "100000"}):
+            self.assertGreaterEqual(finish.finish(png(1536, 864))[1]["quality"], 90)
+
+    def test_realesrgan_runs_the_command_and_falls_back_to_lanczos_when_missing(self):
+        calls = []
+
+        def fake_run(cmd, **kw):
+            calls.append(cmd)
+            from PIL import Image
+            Image.open(cmd[2]).resize((3072, 1728)).save(cmd[4])  # -i in -o out
+            return subprocess.CompletedProcess(cmd, 0)
+
+        with mock.patch.dict(os.environ, {"IMG_UPSCALER": "realesrgan", "IMG_UPSCALE_CMD": "python3 -i {input} -o {output} -s {scale}"}), \
+                mock.patch.object(finish, "_run", fake_run):
+            _, info = finish.finish(png(1536, 864))
+        self.assertEqual(info["upscaler"], "realesrgan")
+        self.assertIn("-s", calls[0])
+        self.assertEqual(calls[0][-1], "2")
+        with mock.patch.dict(os.environ, {"IMG_UPSCALER": "realesrgan", "IMG_UPSCALE_CMD": "no-such-program-xyz -i {input} -o {output}"}):
+            self.assertEqual(finish.finish(png(1536, 864))[1]["upscaler"], "lanczos")
+
+    def test_finishing_is_light(self):
+        from PIL import Image, ImageChops, ImageStat
+        base = Image.open(io.BytesIO(png(1600, 900))).convert("RGB")
+        out = finish.polish(base.copy())
+        diff = ImageStat.Stat(ImageChops.difference(base, out)).mean
+        self.assertLess(max(diff), 8)  # grain and sharpening move the average pixel by only a few levels
+        with mock.patch.dict(os.environ, {"IMG_SHARPEN": "0", "IMG_GRAIN": "0"}):
+            self.assertEqual(list(finish.polish(base.copy()).getdata())[:50], list(base.getdata())[:50])
+
+    def test_face_restoration_is_off_by_default_and_a_failure_keeps_the_original(self):
+        from PIL import Image
+        img = Image.open(io.BytesIO(png(400, 300)))
+        self.assertEqual(finish.restore_faces(img)[1], False)
+        with mock.patch.dict(os.environ, {"IMG_FACE_RESTORE": "command", "IMG_FACE_RESTORE_CMD": "no-such-restorer {input} {output}"}):
+            out, done = finish.restore_faces(img)
+        self.assertFalse(done)
+        self.assertIs(out, img)
+
+
+VISION = {"shot_size": "extreme close-up", "angle": "low angle", "lens_feel": "85mm", "camera_height": "chest height",
+          "composition": {"layout": "two people on the left third", "leading_lines": "the carpet edge", "depth_layers": {"foreground": "a rope", "midground": "the pair", "background": "flashes"}},
+          "people_count": 3,
+          "people": [{"gender_presentation": "woman", "age_range": "early 30s", "facial_expression": {"eyebrows": "inner brows raised", "eyes": "glassy", "mouth": "lips pressed", "jaw": "slight tension"},
+                      "gaze": "off-frame left", "head": "tilted", "posture": "shoulders rounded", "hands": "holding a clutch", "interaction": "standing a metre from the man",
+                      "clothing": "an emerald satin gown"},
+                     {"gender_presentation": "man", "age_range": "late 30s", "facial_expression": {"eyebrows": "level", "eyes": "steady", "mouth": "closed", "jaw": "set"},
+                      "gaze": "at the camera", "head": "turned", "posture": "upright", "hands": "in a pocket", "clothing": "a black tuxedo"},
+                     {"gender_presentation": "man", "age_range": "40s", "facial_expression": {}, "gaze": "x", "head": "x", "posture": "x", "hands": "x"}],
+          "setting": "a red carpet at night", "props": ["velvet ropes", "camera flashes"], "time_of_day": "night", "light": {"source": "camera flashes", "direction": "from the front"},
+          "palette": ["emerald", "gold"], "mood": "tense"}
+
+
+class Blueprint(unittest.TestCase):
+    A = dict(analyzer.heuristic("Nina Calloway and Marcus Reid walk the red carpet"), story_type="red_carpet", sensitivity="safe")
+
+    def test_vision_json_is_parsed_capped_at_two_people_and_close_ups_softened(self):
+        bp = blueprint.normalize(VISION, self.A, ["Nina Calloway"])
+        self.assertEqual((bp["people_count"], len(bp["people"])), (2, 2))
+        self.assertEqual(bp["shot_size"], "medium close-up")  # never an extreme close-up
+        self.assertEqual(bp["people"][0]["facial_expression"]["jaw"], "slight tension")
+        self.assertEqual(bp["people"][0]["clothing"], "an emerald satin gown")
+        self.assertEqual(bp["light"]["source"], "camera flashes")
+
+    def test_names_and_identity_traits_are_removed(self):
+        raw = dict(VISION, setting="the red carpet where Nina Calloway poses")
+        raw["people"] = [dict(VISION["people"][0], gaze="at the camera, round face, hooked nose", clothing="a gown that makes her look like a famous star, emerald silk")]
+        bp = blueprint.normalize(raw, self.A, ["Nina Calloway"])
+        flat = json.dumps(bp)
+        for banned in ("Calloway", "hooked", "round face", "famous", "look like"):
+            self.assertNotIn(banned, flat)
+
+    def test_sensitive_stories_lose_all_people(self):
+        sensitive = dict(self.A, story_type="tribute", sensitivity="high_risk")
+        self.assertEqual(blueprint.normalize(VISION, sensitive, [])["people"], [])
+        self.assertEqual(blueprint.default_blueprint(sensitive)["people_count"], 0)
+
+    def test_garbage_or_missing_fields_fall_back_to_the_story_defaults(self):
+        self.assertEqual(blueprint.normalize("nonsense", self.A, [])["source"], "template")
+        bp = blueprint.normalize({"people": [{"gender_presentation": "robot"}]}, self.A, [])
+        self.assertEqual(bp["people"][0]["gender_presentation"], "unspecified")
+        self.assertTrue(bp["people"][0]["facial_expression"]["eyes"])
+        self.assertTrue(bp["setting"])
+
+    def test_reply_parsing_tolerates_fences_and_unusable_replies_return_none(self):
+        class L:
+            def vision(self, *a, **k):
+                return "```json\n" + json.dumps(VISION) + "\n```"
+        self.assertEqual(blueprint.from_reference(b"img", self.A, [], L())["people_count"], 2)
+
+        class Bad:
+            def vision(self, *a, **k):
+                return "I cannot help with that"
+        self.assertIsNone(blueprint.from_reference(b"img", self.A, [], Bad()))
+        self.assertIsNone(blueprint.from_reference(None, self.A, [], L()))
+
+    def test_every_people_story_type_has_a_full_body_language_card(self):
+        for kind, (n, _, _) in blueprint.PLAN.items():
+            bp = blueprint.default_blueprint(dict(self.A, story_type=kind, emotion="joyful"))
+            self.assertEqual(bp["people_count"], n, kind)
+            for p in bp["people"]:
+                self.assertTrue(all(p["facial_expression"][k] for k in ("eyebrows", "eyes", "mouth", "jaw")), kind)
+                self.assertTrue(all(p[k] for k in ("gaze", "head", "posture", "hands")), kind)
+
+
+class Cast(unittest.TestCase):
+    def test_cast_file_has_8_to_12_fictional_cards_with_no_real_names(self):
+        cards = cast.load()
+        self.assertTrue(8 <= len(cards) <= 12)
+        self.assertEqual(len({c["id"] for c in cards}), len(cards))
+        self.assertTrue({"woman", "man"} <= {c["presentation"] for c in cards})
+        self.assertGreaterEqual(len({c["skin"] for c in cards}), 8)  # skin tone variety
+        for c in cards:
+            self.assertEqual(concept.names_in(json.dumps(c), NAMES), [])
+
+    def test_two_people_get_two_different_cards_matching_presentation_and_age(self):
+        bp = {"people": [{"gender_presentation": "woman", "age_range": "late 20s", "clothing": "an emerald gown"}, {"gender_presentation": "man", "age_range": "late 40s", "clothing": ""}]}
+        a = cast.assign(bp, [], "k")
+        self.assertEqual([s["presentation"] for s in a], ["woman", "man"])
+        self.assertNotEqual(a[0]["id"], a[1]["id"])
+        self.assertRegex(a[0]["descriptor"], r"(early|mid|late) (20|30)s")  # within about five years of the blueprint age
+        self.assertRegex(a[1]["descriptor"], r"(mid|late) (40|50)s|early 40s")
+
+    def test_descriptions_have_no_names_no_likeness_words_and_no_clothes(self):
+        for c in cast.load():
+            d = cast.describe(c)
+            self.assertNotRegex(d.lower(), r"looks? like|resembl|famous|wearing")
+            self.assertTrue(d.startswith("a woman") or d.startswith("a man"))
+
+    def test_least_recently_used_cards_are_chosen_so_the_site_shows_varied_people(self):
+        bp = {"people": [{"gender_presentation": "woman", "age_range": "", "clothing": ""}]}
+        seen, history = [], []
+        for i in range(5):
+            a = cast.assign(bp, history, f"k{i}")
+            seen.append(a[0]["id"])
+            history.append({"cast": [a[0]["id"]]})
+        self.assertEqual(len(set(seen)), 5)
+
+    def test_clothing_hint_picks_the_closest_style(self):
+        card = next(c for c in cast.load() if c["id"] == "cast-01")
+        self.assertEqual(cast._style(card, "a fitted black satin dress", "k"), "a black satin dress")
+        self.assertIn(cast._style(card, "", "k"), card["styles"])
+
+
+class PeoplePrompt(unittest.TestCase):
+    def build(self, kind, llm=None, history=()):
+        a = dict(analyzer.heuristic("headline"), story_type=kind, sensitivity="safe")
+        emo, setting, objs, light, pal = analyzer.DEFAULTS[kind]
+        a.update(emotion=emo, setting=setting, key_objects=list(objs), time_and_light=light, palette=list(pal))
+        bp = blueprint.default_blueprint(a)
+        st = cast.assign(bp, list(history), kind)
+        return a, bp, st, prompt_writer.write_prompt(a, "candid_news_photo", list(history), NAMES, llm, kind, bp, st)
+
+    def test_every_people_story_type_makes_a_valid_prompt_in_the_specified_order(self):
+        order = ["A ", "brows", "head ", "wears", "The setting is", "mm lens", "Lit by", "mood", "Natural skin texture", "No text, no logos, no watermark."]
+        for kind in blueprint.PLAN:
+            a, bp, st, r = self.build(kind)
+            p = r["prompt"]
+            self.assertEqual(concept.check_prompt(p, NAMES, "safe", people=True), [], (kind, p))
+            self.assertTrue(90 <= concept.words(p) <= 200, (kind, concept.words(p)))
+            self.assertLessEqual(len(st), 2)
+            pos = [p.find(x) for x in order]
+            self.assertTrue(all(i >= 0 for i in pos), (kind, [o for o, i in zip(order, pos) if i < 0]))
+            self.assertEqual(pos, sorted(pos), (kind, p))
+            self.assertNotRegex(p.lower(), r"\b(masterpiece|ultra-detailed|8k)\b")
+            self.assertNotRegex(p, r"extreme close")
+
+    def test_only_medium_shots_and_simple_hands_for_people(self):
+        for i in range(8):
+            r = self.build("red_carpet", history=[{"shot": "medium shot", "angle": "eye-level", "lens": "50mm"}] * i)[3]
+            self.assertIn(r["shot"], prompt_writer.PEOPLE_SHOTS)
+            self.assertNotIn("close-up", r["shot"])
+        for kind in blueprint.PLAN:
+            self.assertNotRegex(self.build(kind)[3]["prompt"].lower(), r"interlaced|fingers spread|clasped fingers")
+
+    def test_llm_prompt_gets_the_stand_in_cards_and_never_a_name(self):
+        llm = FakeLLM(prompts=["x"] * 2)
+        a, bp, st, r = self.build("relationship", llm)
+        user = llm.seen[0]
+        self.assertIn(st[0]["descriptor"], user)
+        self.assertIn("facial_expression", user)
+        self.assertIn("Realism tail", user)
+        self.assertEqual(concept.names_in(user, NAMES), [])
+        self.assertEqual(r["source"], "template")  # "x" is not a valid prompt, so the template took over
+
+    def test_good_llm_people_prompt_is_cleaned_and_used(self):
+        a, bp, st, template = self.build("relationship")
+        text = template["prompt"].replace("No text, no logos, no watermark.", "").strip() + " Looks like Elena Marlowe (famous:1.3)."
+        a, bp, st, r = self.build("relationship", FakeLLM(prompts=[text]))
+        self.assertEqual(r["source"], "llm")
+        self.assertNotIn("Marlowe", r["prompt"])
+        self.assertTrue(r["prompt"].endswith(concept.FINAL_SENTENCE))
+
+    def test_sensitive_stories_never_get_people_even_with_a_blueprint(self):
+        a = dict(self.build("red_carpet")[0], sensitivity="high_risk")
+        bp = blueprint.normalize(VISION, a, [])
+        r = prompt_writer.write_prompt(a, "candid_news_photo", [], NAMES, None, "k", bp, [{"id": "cast-01", "presentation": "woman", "descriptor": "a woman", "style": "x", "label": "The woman"}])
+        self.assertNotRegex(r["prompt"].lower(), r"\b(woman|man|people|face|brows|skin)\b")
+
+
+class NoVisibleCaption(unittest.TestCase):
+    def test_caption_is_off_by_default_and_a_setting_turns_it_on(self):
+        self.assertEqual(config.caption(), "")
+        self.assertEqual(config.DEFAULTS["caption"], "")
+        with mock.patch.dict(os.environ, {"IMG_CAPTION": "Image: AI"}):
+            self.assertEqual(config.caption(), "Image: AI")
+
+    def test_wordpress_upload_uses_an_empty_caption_unless_switched_on(self):
+        code = ("import sys,os; sys.path.insert(0,'agents'); import publish_wordpress as p; print(repr(p.image_caption()))")
+        for env, want in (({}, "''"), ({"IMG_CAPTION": "off"}, "''"), ({"IMG_CAPTION": "AI image"}, "'AI image'")):
+            e = {k: v for k, v in os.environ.items() if k != "IMG_CAPTION"}
+            r = subprocess.run([sys.executable, "-c", code], cwd=REPO, env=dict(e, **env), capture_output=True, text=True)
+            self.assertEqual(r.stdout.strip(), want, r.stderr)
+
+    def test_no_visible_ai_wording_in_the_alt_text_or_the_prompt_sources(self):
+        a = dict(analyzer.heuristic("x"), story_type="red_carpet", setting="a red carpet at night", time_and_light="camera flashes")
+        bp = blueprint.default_blueprint(a)
+        alt = publisher.alt_text(a, NAMES, bp, cast.assign(bp, [], "k"))
+        self.assertRegex(alt, r"^Illustration of a (woman|man) and a (man|woman)|^Illustration of two (women|men)")
+        self.assertLessEqual(len(alt), 126)
+        self.assertNotRegex(alt, r"AI|generated|credit")
 
 
 class GenerateImagesIntegration(unittest.TestCase):

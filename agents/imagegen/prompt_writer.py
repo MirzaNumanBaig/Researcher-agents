@@ -1,4 +1,5 @@
-"""Step 3: write ONE natural-language FLUX.1 schnell prompt (60-120 words) in the order Subject, Action, Setting, Props, Camera, Lighting, Mood, Palette, Style.
+"""Step 3: write ONE natural-language FLUX.1 schnell prompt (90-150 words with people, 60+ without) from the scene blueprint and the stand-in cast.
+Order for people: shot size and subject, face and expression, body language, clothing and props, setting and depth, camera, light, mood and palette, realism tail, "no text, no logos, no watermark."
 An LLM writes it when available; every result is cleaned and checked by concept.py, and a deterministic template is the fallback."""
 import json
 import logging
@@ -13,6 +14,10 @@ log = logging.getLogger("imagegen")
 SHOTS = ["wide establishing shot", "medium-wide shot", "medium shot", "close-up detail shot", "over-the-shoulder shot", "overhead shot"]
 ANGLES = ["eye-level", "slightly low angle", "high angle", "tilted angle", "from behind", "side-on view"]
 LENSES = ["24mm", "35mm", "50mm", "85mm"]
+TARGET_WORDS = 185  # the tiers below drop optional detail above this; the hard limit is concept.HARD_MAX_WORDS
+PEOPLE_SHOTS = ["medium shot", "medium-wide shot", "wide shot"]  # no extreme close-ups: schnell bends faces up close
+PEOPLE_ANGLES = ["eye-level", "slightly low angle", "slightly high angle", "three-quarter view", "side-on view"]
+PEOPLE_LENSES = ["35mm", "50mm", "85mm"]
 
 SCENES = {  # story_type -> subject and action sentence; {o1}{o2}{o3} are key objects, {setting} the place
     "relationship": "Two anonymous figures seen from behind sharing a small table in {setting}, their hands almost touching beside {o1}, {o2} nearby.",
@@ -39,20 +44,24 @@ ATMOSPHERE = {"joyful": "warm haze and soft bokeh", "glamorous": "flaring lights
               "tense": "hard shadows and a thin haze", "tender": "soft bokeh and a gentle glow", "sombre": "still air and soft grey haze"}
 
 SYSTEM = (
-    "You write image prompts for FLUX.1 schnell. Output ONE prompt of 60-120 words as flowing descriptive sentences, nothing else.\n"
-    "Order: Subject, action or pose, setting, props, camera (shot size, angle, lens, depth of field), lighting (name the real source and direction), "
-    "mood, colour palette, style. Put the most important thing first. Build depth with a foreground element, a midground subject and a background atmosphere. "
-    "Use only 1-2 clear subjects.\n"
-    "Hard rules: never use any real person's name or say someone looks like anyone; show people only as anonymous figures (seen from behind, silhouettes, hands, "
-    "out-of-focus shapes); no children; no readable text, signs, posters, logos or brands; do not copy any existing photo, film, album cover or poster; "
-    "no negative prompts and no weighting syntax; no hype words like masterpiece or 8k. It is an editorial illustration, never a depiction of a real event. "
-    "End with the sentence: No text, no logos, no watermark."
+    "You write image prompts for FLUX.1 schnell. Output ONE prompt of 90-150 words (never over 190) as flowing descriptive sentences, nothing else.\n"
+    "When the brief lists stand-in people, use exactly those descriptions and body-language cards, in this order: "
+    "1 shot size and subject (\"A medium shot of a woman in her early 30s...\"); 2 face and expression in detail (eyebrows, eyes, mouth, jaw, gaze direction); "
+    "3 body language (head tilt, shoulders, posture, hand position, distance or touch between people); 4 clothing and props; "
+    "5 setting and depth (foreground, midground, background blur); 6 camera (lens, angle, shallow depth of field); 7 lighting (name the real source and direction); "
+    "8 mood and colour palette; 9 the realism tail given in the brief; 10 end with the sentence: No text, no logos, no watermark.\n"
+    "When there are no people, describe the scene and objects in the same order and skip steps 2, 3 and the realism tail.\n"
+    "Rules: never use a real person's name or say someone looks like anyone; the people are original stand-ins, never real people; at most 2 faces; medium or medium-wide shots, "
+    "no extreme close-ups; keep hands simple (holding an object, resting on a surface, in a pocket), never fingers spread or interlaced in the foreground; "
+    "describe emotion through specific muscle cues, not just sad or happy; no children; no readable text, signs, posters, logos or brands; "
+    "do not copy any existing photo, film, album cover or poster; no negative prompts and no weighting syntax; no hype words like masterpiece, ultra-detailed or 8k."
 )
 
 
-def pick_variation(history, key=""):
+def pick_variation(history, key="", people=False):
     """Least-used shot, angle and lens in the recent history (ties broken by a stable hash of the article key) so neighbouring images differ."""
     recent = history[-20:]
+    shots, angles, lenses = (PEOPLE_SHOTS, PEOPLE_ANGLES, PEOPLE_LENSES) if people else (SHOTS, ANGLES, LENSES)
 
     def choose(options, field):
         used = Counter(h.get(field) for h in recent)
@@ -60,7 +69,7 @@ def pick_variation(history, key=""):
         pool = [o for o in options if used.get(o, 0) == low]
         return pool[sum(map(ord, key + field)) % len(pool)]
 
-    return {"shot": choose(SHOTS, "shot"), "angle": choose(ANGLES, "angle"), "lens": choose(LENSES, "lens")}
+    return {"shot": choose(shots, "shot"), "angle": choose(angles, "angle"), "lens": choose(lenses, "lens")}
 
 
 def pick_palette(analysis, history):
@@ -85,6 +94,57 @@ def _join(items):
     return items[0] if len(items) == 1 else ", ".join(items[:-1]) + " and " + items[-1] if items else ""
 
 
+def _pron(stand_in):
+    return ("Her", "her") if stand_in["presentation"] == "woman" else ("His", "his")
+
+
+def _lower(s):
+    return s[0].lower() + s[1:] if s else s
+
+
+def compose_people(analysis, preset, variation, palette, blueprint, standins):
+    """Deterministic people prompt in the spec's order. One face sentence and one body sentence per stand-in, using the blueprint's cards as written.
+    Kept near 150 words (two people about 165) so the camera, light and realism sentences are never the part that gets cut."""
+    people, n = blueprint["people"], len(blueprint["people"])
+    shot = variation["shot"]
+    interaction = next((p["interaction"] for p in people if p.get("interaction")), "")
+    s1 = f"A {shot} of {' and '.join(st['descriptor'] for st in standins)}" + (f", {interaction}" if interaction else "") + "."
+    same = n == 2 and standins[0]["presentation"] == standins[1]["presentation"]
+    people_text = []
+    for st, p in zip(standins, people):
+        fe, label = p["facial_expression"], st["label"]
+        owner = f"{label}'s" if same else ("Her" if st["presentation"] == "woman" else "His")
+        face = f"{label}'s brows {fe['eyebrows']}, eyes {fe['eyes']}, {fe['mouth']}, jaw {fe['jaw']}, gaze {p['gaze']}"
+        body = f"head {_lower(p['head'])}, {_lower(p['posture'])}, {_lower(p['hands'])}"
+        # one person: two sentences (face, then body). Two people: one sentence each (face, then body) so the whole prompt stays readable by schnell.
+        people_text += [face + ".", f"{owner} pose: {body}."] if n == 1 else [f"{face}; {body}."]
+    wears = "; ".join(f"{st['label'].lower()} wears {st['style']}" for st in standins)
+    depth = blueprint["composition"]["depth_layers"]
+    fg = _lower(depth["foreground"])
+    prop = next((x for x in blueprint.get("props", []) if x.lower().split()[-1][:5] not in (fg + " " + wears).lower()), "")
+    camera = f"{variation['lens']} lens, {variation['angle']}, shallow depth of field."
+    light = f"Lit by {blueprint['light']['source']}" + (f", {blueprint['light']['direction']}" if blueprint["light"].get("direction") else "") + "."
+    mood = f"{blueprint['mood'].capitalize()} mood, {palette} palette."
+    tail = preset.get("tail") or preset["style"]
+    short_tail = preset.get("tail_short") or tail
+
+    def build(with_prop, with_fg, tail_text=tail):  # least important detail goes first when the prompt is too long, so camera, light and the realism tail always survive
+        setting = f"{_cap(wears)}. The setting is {blueprint['setting']}" + (f", {prop} nearby" if prop and with_prop else "") + \
+                  (f", {fg} soft in the foreground" if with_fg else "") + f", {_lower(depth['background'])} behind."
+        return " ".join([s1, *people_text, setting, camera, light, mood, tail_text])
+
+    text = build(True, True)
+    for args in ((False, True), (False, False), (False, False, short_tail)):
+        if concept.words(text) <= TARGET_WORDS:
+            break
+        text = build(*args)
+    return concept.sanitize_prompt(text, [])
+
+
+def _cap(s):
+    return s[:1].upper() + s[1:]
+
+
 def compose(analysis, preset, variation, palette, names):
     """Deterministic prompt used when no LLM is available or its answer fails the checks."""
     sym = concept.is_sensitive(analysis)
@@ -107,13 +167,24 @@ def compose(analysis, preset, variation, palette, names):
     return concept.sanitize_prompt(text, names)
 
 
-def _llm_user(analysis, preset, variation, palette, history, names):
+def _llm_user(analysis, preset, variation, palette, history, names, blueprint=None, standins=()):
     safe, _ = concept.strip_names(analysis.get("core_event", ""), names)
     brief = {k: analysis[k] for k in ("story_type", "emotion", "setting", "key_objects", "time_and_light", "sensitivity")}
     brief["core_event"] = safe
     brief["palette"] = palette
     lines = [f"Story analysis (names removed): {json.dumps(brief)}",
-             f"Use this camera: {variation['shot']}, {variation['angle']}, {variation['lens']} lens. Style sentence to close with before the final sentence: {preset['style']}"]
+             f"Use this camera: {variation['shot']}, {variation['angle']}, {variation['lens']} lens."]
+    if standins and blueprint and blueprint.get("people"):
+        cards = []
+        for st, p in zip(standins, blueprint["people"]):
+            cards.append({"who": f"{st['label']}: {st['descriptor']}", "wears": st["style"], "facial_expression": p["facial_expression"], "gaze": p["gaze"], "head": p["head"],
+                          "posture": p["posture"], "hands": p["hands"], "interaction": p.get("interaction", "")})
+        lines.append("Stand-in people (original fictional characters; describe them exactly like this): " + json.dumps(cards))
+        lines.append(f"Scene blueprint: setting {blueprint['setting']}; props {blueprint['props']}; light {blueprint['light']}; mood {blueprint['mood']}; "
+                     f"composition {blueprint['composition']['layout']}; depth {blueprint['composition']['depth_layers']}")
+        lines.append("Realism tail to use before the final sentence: " + (preset.get("tail") or preset["style"]))
+    else:
+        lines.append(f"Style sentence to close with before the final sentence: {preset['style']}")
     if concept.is_sensitive(analysis):
         lines.append(f"This story is {analysis['sensitivity']}: show only a calm, respectful, symbolic scene with NO people, for example {concept.symbolic_scene(analysis)}.")
     avoid = [" ".join(h.get("prompt", "").split()[:10]) for h in history[-5:] if h.get("prompt")]
@@ -122,27 +193,33 @@ def _llm_user(analysis, preset, variation, palette, history, names):
     return "\n".join(lines)
 
 
-def write_prompt(analysis, preset_name, history, names, llm=None, key=""):
-    """Returns {prompt, shot, angle, lens, palette, source, notes}. Never returns a prompt that fails concept.check_prompt."""
+def write_prompt(analysis, preset_name, history, names, llm=None, key="", blueprint=None, standins=()):
+    """Returns {prompt, shot, angle, lens, palette, source, notes}. Never returns a prompt that fails concept.check_prompt.
+    blueprint + standins (from blueprint.py / cast.py) make it a people prompt; without them it is an object scene."""
     preset = presets.get(preset_name)
-    variation = pick_variation(history, key)
+    with_people = bool(standins and blueprint and blueprint.get("people")) and not concept.is_sensitive(analysis)
+    variation = pick_variation(history, key, with_people)
     palette = pick_palette(analysis, history)
     notes = []
+    sens = analysis.get("sensitivity", "safe") if concept.is_sensitive(analysis) else "safe"
     if llm is not None:
-        user = _llm_user(analysis, preset, variation, palette, history, names)
+        user = _llm_user(analysis, preset, variation, palette, history, names, blueprint if with_people else None, standins if with_people else ())
         for attempt in range(2):
             try:
-                raw = llm.complete(SYSTEM, user, max_tokens=400, temperature=0.8)
+                raw = llm.complete(SYSTEM, user, max_tokens=500, temperature=0.8)
             except llmmod.LLMError as e:
                 notes.append(f"llm error: {e}")
                 log.warning("prompt writer: LLM error (%s); using the template", str(e)[:300])
                 break
             cleaned = concept.sanitize_prompt(raw, names)
-            problems = concept.check_prompt(cleaned, names, analysis.get("sensitivity", "safe") if concept.is_sensitive(analysis) else "safe")
+            problems = concept.check_prompt(cleaned, names, sens, people=with_people)
             if not problems:
                 return {"prompt": cleaned, **variation, "palette": palette, "source": "llm", "notes": notes}
             notes.append(f"attempt {attempt + 1} rejected: {'; '.join(problems)}")
             log.info("prompt writer: LLM prompt rejected (%s)", "; ".join(problems))
             user += f"\nYour last prompt was rejected: {'; '.join(problems)}. Write it again and fix this."
-    prompt = compose(analysis, preset, variation, palette, names)
+    if with_people:
+        prompt = compose_people(analysis, preset, variation, palette, blueprint, standins)
+    else:
+        prompt = compose(analysis, preset, variation, palette, names)
     return {"prompt": prompt, **variation, "palette": palette, "source": "template", "notes": notes}

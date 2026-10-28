@@ -14,10 +14,15 @@ def _pw():
     return pw
 
 
-def alt_text(analysis, names):
-    """One factual sentence describing only what is visible. Never names a person."""
+def alt_text(analysis, names, blueprint=None, standins=()):
+    """One factual sentence describing only what is visible. Never names a person; stand-ins are described as 'a woman' / 'a man'."""
     if concept.is_sensitive(analysis):
         text = f"Illustration of {concept.symbolic_scene(analysis)}"
+    elif blueprint and blueprint.get("people") and standins:
+        who = [s["presentation"] for s in standins]
+        phrase = f"a {who[0]}" if len(who) == 1 else (f"a {who[0]} and a {who[1]}" if who[0] != who[1] else f"two {who[0]}s")
+        light = blueprint.get("light", {}).get("source") or analysis["time_and_light"]
+        text = f"Illustration of {phrase} in {blueprint.get('setting') or analysis['setting']}, lit by {light}"
     else:
         objs = list(analysis.get("key_objects", [])) + ["soft light"]
         text = f"Illustration of {analysis['setting']} with {objs[0]} and {objs[1]}, lit by {analysis['time_and_light']}"

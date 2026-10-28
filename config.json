@@ -353,7 +353,13 @@
   "image_pipeline": {
     "enabled": true,
     "preset": "candid_news_photo",
-    "caption": "Illustration generated with AI"
+    "caption": "",
+    "width": 1536,
+    "height": 864,
+    "upscaler": "lanczos",
+    "out_width": 1600,
+    "out_height": 900,
+    "out_format": "webp"
   },
   "headline_full_name_only": [
     "Michael J. Fox",

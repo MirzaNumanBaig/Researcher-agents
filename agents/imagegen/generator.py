@@ -1,6 +1,5 @@
-"""Step 4: the image. FLUX.1 schnell on Cloudflare Workers AI (4 steps, no guidance), saved seed, backoff on errors, cover-crop to the target size."""
+"""Step 4: the image. FLUX.1 schnell on Cloudflare Workers AI (4 steps, no guidance), saved seed, backoff on errors. Upscaling, cropping and encoding live in finish.py."""
 import base64
-import io
 import json
 import random
 import re
@@ -79,17 +78,3 @@ def generate(prompt, seed=None, attempts=3):
         if tries < attempts:
             _sleep(2 * 3 ** (tries - 1))
     raise GenerationError(f"gave up after {attempts} attempts: {last}")
-
-
-def fit(raw, width=None, height=None, quality=82):
-    """Cover-crop to width x height (never stretched) and convert to WebP. Returns (webp bytes, (raw width, raw height))."""
-    from PIL import Image
-    width, height = width or config.get("width"), height or config.get("height")
-    img = Image.open(io.BytesIO(raw)).convert("RGB")
-    raw_size = img.size
-    scale = max(width / img.width, height / img.height)
-    img = img.resize((max(width, round(img.width * scale)), max(height, round(img.height * scale))), Image.LANCZOS)
-    left, top = (img.width - width) // 2, (img.height - height) // 2
-    out = io.BytesIO()
-    img.crop((left, top, left + width, top + height)).save(out, "WEBP", quality=quality)
-    return out.getvalue(), raw_size

@@ -8,7 +8,7 @@ stories about them, each with the outlets and links that covered it).
 - `.claude/skills/geo-aeo-writing/SKILL.md`: answer-first layout, key facts, FAQ, on-page SEO, AI-search citability, safety.
 - `.claude/skills/linking/SKILL.md`: external links on first mention of every named actor/actress/public figure, plus internal links to the site's own pages. Uses the verified menu in the links file you are given.
 - `.claude/skills/humanizer/SKILL.md`: final editing pass to strip AI writing tells. Run it on your draft before saving.
-- `.claude/skills/article-featured-image/SKILL.md`: how to write the `image_prompt` so FLUX.1 schnell draws a good, safe, article-specific featured image.
+- `.claude/skills/article-featured-image/SKILL.md`: how the featured image is imagined (blueprint, fictional stand-in cast, prompt order). You only write the short, people-free `image_prompt` scene; the pipeline builds the full prompt itself.
 
 ## Process
 1. Read the brief. Decide which stories are real news (skip ads, product plugs, old stories, "net worth" filler, pure SEO bait).

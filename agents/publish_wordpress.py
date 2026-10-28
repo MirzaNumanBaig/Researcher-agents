@@ -155,8 +155,8 @@ def wp(path, payload):
 
 
 def image_caption():
-    """Caption under AI featured images. IMG_CAPTION or config.json image_pipeline.caption; "off" (or empty) turns it off."""
-    c = os.environ.get("IMG_CAPTION", (CONFIG.get("image_pipeline") or {}).get("caption", "Illustration generated with AI"))
+    """Visible caption under featured images. OFF by default; IMG_CAPTION or config.json image_pipeline.caption turns it on with the given text."""
+    c = os.environ.get("IMG_CAPTION", (CONFIG.get("image_pipeline") or {}).get("caption", ""))
     return "" if c.strip().lower() in ("", "off", "none", "false") else c.strip()
 
 
@@ -172,7 +172,7 @@ def media_url(m):
 def upload_media(image_path, alt, caption):
     """Upload an image to the WordPress media library and return its id (needs upload rights for WP_USER)."""
     data = image_path.read_bytes()
-    ctype = {".png": "image/png", ".webp": "image/webp"}.get(image_path.suffix.lower(), "image/jpeg")
+    ctype = {".png": "image/png", ".webp": "image/webp", ".jpg": "image/jpeg", ".jpeg": "image/jpeg"}.get(image_path.suffix.lower(), "image/jpeg")
     req = urllib.request.Request(
         f"{URL}/wp-json/wp/v2/media", data=data, method="POST",
         headers={"Content-Type": ctype, "Content-Disposition": f'attachment; filename="{image_path.name}"', "User-Agent": "researcher-agents",

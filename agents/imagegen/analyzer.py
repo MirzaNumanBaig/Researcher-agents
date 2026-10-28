@@ -80,7 +80,7 @@ def heuristic(headline, body="", category=""):
     kind = next((k for k, rx in TYPE_WORDS if re.search(rx, head)), None) or next((k for k, rx in TYPE_WORDS if re.search(rx, text)), "other")
     emo, setting, objs, light, pal = DEFAULTS[kind]
     return {"story_type": kind, "core_event": headline.strip().rstrip(".") + ".", "emotion": emo, "setting": setting, "key_objects": list(objs),
-            "time_and_light": light, "palette": list(pal), "sensitivity": rule_sensitivity(text), "reference_analysis": "", "source": "rules"}
+            "time_and_light": light, "palette": list(pal), "sensitivity": rule_sensitivity(text), "source": "rules"}
 
 
 def _str(v, default=""):
@@ -114,7 +114,6 @@ def normalize(raw, headline, body="", category=""):
     out["palette"] = pal if len(pal) >= 2 else out["palette"]
     llm_sens = _str(raw.get("sensitivity")).lower().replace(" ", "_")
     out["sensitivity"] = worst(llm_sens if llm_sens in SENSITIVITY else "safe", base["sensitivity"])
-    out["reference_analysis"] = _str(raw.get("reference_analysis"))
     out["source"] = "llm"
     return out
 
@@ -126,15 +125,14 @@ SYSTEM = ("You are a picture editor at an entertainment news site. Read the news
 def build_user(headline, body, category, source_url, reference):
     return (
         f"Headline: {headline}\nCategory: {category or 'n/a'}\nSource URL: {source_url or 'n/a'}\n"
-        f"Reference image analysis (composition only): {reference or 'none'}\n\nArticle:\n{(body or '')[:3500]}\n\n"
+        f"\nArticle:\n{(body or '')[:3500]}\n\n"
         "Return JSON with exactly these keys:\n"
         f'"story_type": one of {STORY_TYPES}\n'
         '"core_event": one plain sentence\n"emotion": 1-2 words\n'
         '"setting": the most likely real-world place or scene type (courthouse steps, airport arrivals, red carpet, recording studio, wedding venue, hospital corridor, film set, stage)\n'
         '"key_objects": 3-5 concrete visual props tied to the story, as a list of short phrases\n'
         '"time_and_light": time of day and a named light source\n"palette": 2-3 colours that suit the mood, as a list\n'
-        '"sensitivity": one of ["safe","sensitive","high_risk"]; use sensitive or high_risk for death, health, legal, abuse, minors or unverified rumours\n'
-        '"reference_analysis": if a reference was given, only its composition, camera angle, framing, mood, colour and setting, otherwise ""'
+        '"sensitivity": one of ["safe","sensitive","high_risk"]; use sensitive or high_risk for death, health, legal, abuse, minors or unverified rumours'
     )
 
 

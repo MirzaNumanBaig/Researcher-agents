@@ -1,5 +1,5 @@
 name: Image pipeline demo
-# Runs the three fictional sample stories (wedding, film release, sensitive) through the whole pipeline with the real Cloudflare keys.
+# Runs the three fictional sample stories (red-carpet couple with two people, film release, sensitive) through the whole pipeline with the real Cloudflare keys.
 # Nothing is published and nothing is committed: the analysis, prompt, picture and quality log are attached to the run as an artifact.
 on:
   workflow_dispatch:

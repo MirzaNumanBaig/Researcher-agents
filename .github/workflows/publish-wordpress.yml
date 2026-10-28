@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - name: Generate featured images (Cloudflare Workers AI, 1500x900 WebP; skipped when the secrets are not set)
+      - name: Generate featured images (Cloudflare Workers AI, 1600x900 WebP; skipped when the secrets are not set)
         continue-on-error: true
         run: |
           pip install -q pillow
