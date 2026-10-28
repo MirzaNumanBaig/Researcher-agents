@@ -350,6 +350,17 @@
   "max_age_hours": 48,
   "headline_must_name": true,
   "ai_images": true,
+  "image_pipeline": {
+    "enabled": true,
+    "preset": "candid_news_photo",
+    "caption": "",
+    "image_model": "@cf/black-forest-labs/flux-2-klein-4b",
+    "neuron_budget": 9000,
+    "upscaler": "lanczos",
+    "out_width": 1600,
+    "out_height": 900,
+    "out_format": "webp"
+  },
   "headline_full_name_only": [
     "Michael J. Fox",
     "Sandra Oh",

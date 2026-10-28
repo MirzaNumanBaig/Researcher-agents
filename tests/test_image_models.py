@@ -1,11 +1,13 @@
 """Per-model image request settings: python3 -m unittest discover tests"""
 import os
+import subprocess
 import sys
 import unittest
 from pathlib import Path
 from unittest import mock
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "agents"))
+REPO = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO / "agents"))
 import generate_images as gi  # noqa: E402
 
 KLEIN, SCHNELL, DREAM = "@cf/black-forest-labs/flux-2-klein-4b", "@cf/black-forest-labs/flux-1-schnell", "@cf/lykon/dreamshaper-8-lcm"
@@ -57,7 +59,8 @@ if __name__ == "__main__":
 
 
 class DefaultModel(unittest.TestCase):
-    def test_default_is_flux_schnell(self):
-        if "CF_IMAGE_MODEL" in os.environ:
-            self.skipTest("CF_IMAGE_MODEL is set in this environment")
-        self.assertEqual(gi.MODEL, SCHNELL)
+    def test_default_is_flux_2_klein_4b(self):
+        env = {k: v for k, v in os.environ.items() if not k.startswith(("CF_IMAGE_MODEL", "IMG_"))}
+        code = "import sys; sys.path.insert(0, 'agents'); import generate_images as g; from imagegen import config; print(g.MODEL, config.get('image_model'))"
+        out = subprocess.run([sys.executable, "-c", code], cwd=REPO, env=env, capture_output=True, text=True).stdout.split()
+        self.assertEqual(out, [KLEIN, KLEIN])

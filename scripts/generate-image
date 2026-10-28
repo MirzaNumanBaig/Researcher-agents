@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# generate-image --post-id 123 | --batch | --article articles/x.md | --demo   (see: scripts/generate-image --help)
+cd "$(dirname "$0")/.." && PYTHONPATH=agents exec python3 -m imagegen "$@"

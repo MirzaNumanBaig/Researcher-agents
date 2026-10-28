@@ -154,6 +154,12 @@ def wp(path, payload):
         return json.loads(r.read())
 
 
+def image_caption():
+    """Visible caption under featured images. OFF by default; IMG_CAPTION or config.json image_pipeline.caption turns it on with the given text."""
+    c = os.environ.get("IMG_CAPTION", (CONFIG.get("image_pipeline") or {}).get("caption", ""))
+    return "" if c.strip().lower() in ("", "off", "none", "false") else c.strip()
+
+
 def media_url(m):
     """Dashboard-sized picture URL of a WordPress media item (medium_large, else medium, else large, else the original)."""
     sizes = (m.get("media_details") or {}).get("sizes") or {}
@@ -166,7 +172,7 @@ def media_url(m):
 def upload_media(image_path, alt, caption):
     """Upload an image to the WordPress media library and return its id (needs upload rights for WP_USER)."""
     data = image_path.read_bytes()
-    ctype = {".png": "image/png", ".webp": "image/webp"}.get(image_path.suffix.lower(), "image/jpeg")
+    ctype = {".png": "image/png", ".webp": "image/webp", ".jpg": "image/jpeg", ".jpeg": "image/jpeg"}.get(image_path.suffix.lower(), "image/jpeg")
     req = urllib.request.Request(
         f"{URL}/wp-json/wp/v2/media", data=data, method="POST",
         headers={"Content-Type": ctype, "Content-Disposition": f'attachment; filename="{image_path.name}"', "User-Agent": "researcher-agents",
@@ -321,7 +327,7 @@ def main():
                 img = featured_image(front)
                 if img:
                     try:
-                        media_id, image_url = upload_media(img[0], img[1], "Illustration generated with AI")
+                        media_id, image_url = upload_media(img[0], img[1], image_caption())
                         payload["featured_media"] = media_id
                         front = set_field(set_field(front, "wp_media_id", media_id), "wp_image", image_url)
                     except Exception as e:  # the article still goes out without its picture; it is retried on the next run
@@ -339,7 +345,7 @@ def main():
                 front = set_field(front, "status", "sent")
             elif status == "sent" and field(front, "wp_id") and featured_image(front):
                 img = featured_image(front)  # a sent article that got its image later (or whose upload failed)
-                media_id, image_url = upload_media(img[0], img[1], "Illustration generated with AI")
+                media_id, image_url = upload_media(img[0], img[1], image_caption())
                 post = wp(f"posts/{field(front, 'wp_id')}", {"featured_media": media_id})
                 front = set_field(set_field(front, "wp_media_id", media_id), "wp_image", image_url)
                 if want != field(front, "wp_synced"):

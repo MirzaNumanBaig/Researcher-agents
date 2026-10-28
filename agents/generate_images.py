@@ -2,7 +2,7 @@
 
 Env (GitHub Actions secrets): CF_ACCOUNT_ID, CF_API_TOKEN.  The model is MODEL below (FLUX.1 schnell). CF_IMAGE_MODEL overrides it only where it is set explicitly (the test-image-model workflow, local runs); the sending workflows do not pass it.
 For every article whose status is pending/approved/sent and that has no `image:` yet, it reads the front matter `image_prompt`
-(a scene description the writer produced; never a real person), asks Cloudflare for an image, resizes and centre-crops it to exactly 1500x900 (config: OUT_WIDTH/OUT_HEIGHT), converts it to WebP (Pillow) and saves it as
+(a scene description the writer produced; never a real person), asks Cloudflare for an image, resizes and centre-crops it to exactly 1600x900 (config: OUT_WIDTH/OUT_HEIGHT), converts it to WebP (Pillow) and saves it as
 articles/images/<article-name>.webp (git-ignored; the publish step uploads it in the same run) and adds `image:` and `image_alt:` to the front matter. publish_wordpress.py uploads it
 and sets it as the post's featured image. Without the secrets, or with "ai_images": false in config.json, this does nothing, so the pipeline keeps working.
 Only articles that are about to be (or were just) sent get an image, so no request is wasted on a drafts waiting for a human:
@@ -29,19 +29,21 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-ACCOUNT, TOKEN = os.environ.get("CF_ACCOUNT_ID", "").strip(), os.environ.get("CF_API_TOKEN", "").strip()
-MODEL = os.environ.get("CF_IMAGE_MODEL", "@cf/black-forest-labs/flux-1-schnell")
+import cf_accounts  # noqa: E402  several Cloudflare accounts: CF_ACCOUNT_ID/CF_API_TOKEN, then _2, _3 ...
+ACCOUNT, TOKEN = (cf_accounts.load() or [("", "")])[0]
+MODEL = os.environ.get("CF_IMAGE_MODEL", "@cf/black-forest-labs/flux-2-klein-4b")
 BASE = os.environ.get("CF_API_BASE", "https://api.cloudflare.com/client/v4").rstrip("/")
-STYLE = "editorial photograph, cinematic lighting, shallow depth of field, rich colour, no text, no logos, no watermark, no people's faces"
+_style = os.environ.get("CF_STYLE", "").strip()  # only the sample/test workflow sets it: "none" sends the scene as written
+STYLE = "" if _style.lower() == "none" else (_style or "editorial photograph, cinematic lighting, shallow depth of field, rich colour, no text, no logos, no watermark, no people's faces")
 FALLBACK = {  # used only when the writer gave no image_prompt; scenes, never people
     "movies": "a empty cinema auditorium with red seats and a bright projector beam",
     "tv": "a cosy living room with a glowing television in the evening",
     "music": "a concert stage with warm spotlights and an empty microphone stand",
     "fashion": "a runway with soft spotlights and rows of empty chairs",
 }
-# Final file: 1500x900 WebP. The model is asked for a canvas near that size (see gen_size)
+# Final file: 1600x900 WebP. The model is asked for a canvas near that size (see gen_size)
 # and the result is cover-cropped to the exact size, so the picture is never stretched.
-OUT_W, OUT_H = int(os.environ.get("OUT_WIDTH", "1500")), int(os.environ.get("OUT_HEIGHT", "900"))
+OUT_W, OUT_H = int(os.environ.get("OUT_WIDTH", "1600")), int(os.environ.get("OUT_HEIGHT", "900"))
 WEBP_QUALITY = int(os.environ.get("WEBP_QUALITY", "82"))
 RETRY_HOURS = 48
 DEFAULT_SCENE = "a red carpet at night with camera flashes and velvet ropes, no people"
@@ -104,7 +106,7 @@ def gen_size(model):
 def build_body(model, prompt, width, height):
     """Request fields for one image. CF_IMAGE_STEPS overrides the step count."""
     cfg = settings(model)
-    body = {"prompt": f"{prompt}, {STYLE}"}
+    body = {"prompt": f"{prompt}, {STYLE}" if STYLE else prompt}
     if not cfg.get("no_size"):
         body.update(width=width, height=height)
     if cfg.get("steps_key"):
@@ -138,10 +140,25 @@ def wants_image(status, stem, include_pending, now):
 
 def render(prompt):
     body, ctype_in = encode(MODEL, build_body(MODEL, prompt, *gen_size(MODEL)))
-    req = urllib.request.Request(f"{BASE}/accounts/{ACCOUNT}/ai/run/{MODEL}", data=body, method="POST",
-                                 headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": ctype_in, "User-Agent": "researcher-agents"})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        raw, ctype = r.read(), r.headers.get("Content-Type", "")
+    while True:
+        creds = cf_accounts.active()
+        if creds is None:
+            raise RuntimeError(cf_accounts.none_left_message())
+        req = urllib.request.Request(f"{BASE}/accounts/{creds[0]}/ai/run/{MODEL}", data=body, method="POST",
+                                     headers={"Authorization": f"Bearer {creds[1]}", "Content-Type": ctype_in, "User-Agent": "researcher-agents"})
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                raw, ctype = r.read(), r.headers.get("Content-Type", "")
+            cf_accounts.record(creds[0], cf_accounts.cost("image", MODEL))  # estimated neurons for the daily budget
+            break
+        except urllib.error.HTTPError as e:
+            body_bytes = e.read()
+            text = body_bytes.decode("utf-8", "replace")
+            if cf_accounts.is_quota_error(text):
+                cf_accounts.mark_spent(creds[0])  # this account is spent for today: the next one takes over
+                if cf_accounts.active() is not None:
+                    continue
+            raise urllib.error.HTTPError(e.url, e.code, e.msg, e.headers, io.BytesIO(body_bytes))  # callers read the body to print the reason
     if ctype.startswith("image/"):
         return raw
     j = json.loads(raw)
@@ -184,6 +201,32 @@ def sample():
     print(f"ok {MODEL}: {out} ({len(data) // 1024} KB, {OUT_W}x{OUT_H} {ext})")
 
 
+def usage_file():
+    return cf_accounts.usage_path()  # articles/image-meta/_usage.json (IMG_META_DIR moves it); also holds the per-account neuron estimates
+
+
+def used_today(today):
+    u = cf_accounts.read_today()
+    return u.get("images", 0) if u.get("date") == today else 0
+
+
+def add_used(today, n):
+    """Count image attempts for today; the per-account neuron estimates and the history kept by cf_accounts in the same file are preserved."""
+    u = cf_accounts.read_today()
+    u["images"] = u.get("images", 0) + n
+    cf_accounts.write(u)
+
+
+def brief_image(front):
+    """The news photo link in this article's brief (only used when image_pipeline.reference_images is on), else ''."""
+    slug = lambda t: re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")  # noqa: E731
+    try:
+        brief = json.loads((ROOT / "briefs" / slug(field(front, "batch")) / f"{slug(field(front, 'celebrity'))}.json").read_text())
+        return next((st["image"] for st in brief["stories"] if st.get("image")), "")
+    except (OSError, ValueError, KeyError):
+        return ""
+
+
 def main():
     if "--sample" in sys.argv:
         return sample()
@@ -197,6 +240,17 @@ def main():
     out_dir = ROOT / "articles" / "images"
     now = datetime.now(timezone.utc)
     done = failed = 0
+    today = now.strftime("%Y-%m-%d")
+    try:
+        cap = max(1, cf_accounts.count()) * int(os.environ.get("IMG_DAILY_IMAGE_CAP") or (json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("daily_image_cap", 40))  # the cap is per account: two accounts, twice the attempts
+    except (OSError, ValueError):
+        cap = 40
+    try:  # the Article -> Image pipeline (agents/imagegen); any problem falls back to the writer's scene prompt below
+        from imagegen import config as icfg, llm as illm, pipeline as ipipe
+        use_pipeline, llm = icfg.get("enabled"), illm.get_llm()
+    except Exception as e:
+        print(f"image pipeline unavailable ({e}); using the writer's scene prompt", file=sys.stderr)
+        use_pipeline, llm = False, None
     for f in sorted((ROOT / "articles").glob("*.md"), reverse=True):
         if done >= limit:
             break
@@ -205,7 +259,35 @@ def main():
         # images are not stored in git: an article needs one until WordPress has it (wp_media_id) or the file exists in this run
         if field(front, "wp_media_id") or have or not wants_image(field(front, "status"), f.stem, "--include-pending" in sys.argv, now):
             continue
+        if used_today(today) >= cap:
+            print(f"daily image cap reached ({cap} attempts today, UTC); the remaining articles wait until tomorrow so the free allowance is not used up")
+            break
+        res = None
+        if use_pipeline:
+            try:
+                res = ipipe.run(ipipe.article_from_front(front, body, f.stem, field, brief_image(front) if icfg.get("reference_images") else ""), llm=llm)
+            except Exception as e:
+                print(f"pipeline error for {f.name}: {e}; using the writer's scene prompt", file=sys.stderr)
+        if res is not None:
+            add_used(today, max(1, len(res["attempts"])))
+            if not res["ok"]:  # rejected by the quality check on every attempt, or the API failed: better no image than a bad one
+                failed += 1
+                why = res["error"] or "; ".join(r for a in res["attempts"] for r in a["reasons"]) or "unknown"
+                print(f"FAIL {f.name}: no usable image ({why})", file=sys.stderr)
+                if any(c in res["error"] for c in ("HTTP 401", "HTTP 403", "HTTP 429")):
+                    break  # bad key or rate limit: stop instead of hammering the API
+                continue
+            data, ext = res["image"], res["ext"]
+            front = set_field(front, "image_alt", res["alt"])
+            out_dir.mkdir(parents=True, exist_ok=True)
+            (out_dir / f"{f.stem}.{ext}").write_bytes(data)
+            front = set_field(front, "image", f"images/{f.stem}.{ext}")
+            f.write_text(f"---\n{front}\n---\n\n{body}")
+            done += 1
+            print(f"ok {f.name} -> images/{f.stem}.{ext} ({len(data)//1024} KB, {res['analysis']['story_type']}, {res['prompt_source']} prompt)")
+            continue
         scene = scene_for(front)
+        add_used(today, 1)
         try:
             data, ext = to_webp(render(scene))
         except urllib.error.HTTPError as e:

@@ -125,6 +125,21 @@ h2.sec{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.0
 .pv p{margin:0 0 10px}.pv a{text-decoration:underline}.pv ul{margin:0 0 10px;padding-left:20px}
 footer{color:var(--mut);font-size:12px;padding-block:28px 40px;max-width:70ch}
 
+/* usage view */
+.peoplebar[hidden],.people[hidden],#profile[hidden]{display:none}
+.usage{display:grid;gap:16px;margin:4px 0 24px}
+.ucard{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;min-width:0}
+.ucard h2{margin:0 0 2px;font-size:16px;letter-spacing:-.01em}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:12px 0}
+.tile{background:var(--soft);border-radius:10px;padding:10px 12px}.tile b{display:block;font-size:20px;line-height:1.25}.tile span{font-size:12px;color:var(--mut)}
+.acc{display:grid;grid-template-columns:90px 1fr auto;gap:10px;align-items:center;margin:10px 0}
+.meter{position:relative;height:12px;background:var(--soft);border-radius:7px;overflow:hidden}
+.meter i{display:block;height:100%;background:var(--ok)}.meter i.warn{background:var(--acc)}.meter i.bad{background:var(--bad)}
+.meter u{position:absolute;top:0;bottom:0;width:2px;background:var(--ink);opacity:.55}
+.bars{display:flex;align-items:flex-end;gap:4px;height:70px;margin-top:8px}.bars div{flex:1;background:var(--acc);border-radius:3px 3px 0 0;min-height:2px}.bars div.zero{background:var(--line)}
+.bl{display:flex;gap:4px;margin-top:3px;font-size:10px;color:var(--mut)}.bl span{flex:1;text-align:center;overflow:hidden}
+.tw{overflow-x:auto}table.ut{width:100%;border-collapse:collapse;font-size:13px}.ut th,.ut td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);white-space:nowrap}.ut th{color:var(--mut);font-weight:500}.ut .n{text-align:right;font-variant-numeric:tabular-nums}
+@media(max-width:560px){.acc{grid-template-columns:70px 1fr}.acc .muted{grid-column:1/-1}}
 /* setup window */
 dialog{width:min(720px,calc(100vw - 24px));max-height:min(88vh,860px);padding:0;border:1px solid var(--line);border-radius:16px;background:var(--surface);color:var(--ink);overflow:hidden}
 dialog[open]{display:flex;flex-direction:column}
@@ -169,7 +184,7 @@ details>div{padding:0 14px 12px}
 <div class="people" id="people"></div>
 <div id="profile"></div>
 <div class="toolbar">
-<div class="seg" role="tablist"><button id="v-stories" class="on">Stories</button><button id="v-articles">Articles</button></div>
+<div class="seg" role="tablist"><button id="v-stories" class="on">Stories</button><button id="v-articles">Articles</button><button id="v-usage">Usage</button></div>
 <div class="seg" id="pool-seg" role="tablist"><button id="p-recent" class="on">Last 48 hours</button><button id="p-archive">Archive</button></div>
 <input id="q" type="search" placeholder="Search headlines" aria-label="Search headlines">
 <select id="batch" aria-label="Run"></select>
@@ -401,9 +416,11 @@ const feed=ls=>'<div class="feed">'+ls.map(rowCard).join("")+'</div>';
 const olderBtn=n=>n?'<div style="text-align:center;margin:16px 0"><button class="btn" id="show-old">Show '+n+' older fresh stories</button></div>':"";
 function wireOlder(){const b=$("show-old");if(b)b.onclick=()=>{showOld=true;render()}}
 function render(){
-$("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");
+$("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");$("v-usage").classList.toggle("on",view==="usage");
 ["q","batch","src","when","sort"].forEach(i=>$(i).hidden=view!=="stories");
 $("pool-seg").hidden=view!=="stories";
+[document.querySelector(".peoplebar"),$("people"),$("profile")].forEach(e=>{if(e)e.hidden=view==="usage"});
+if(view==="usage"){$("top").innerHTML="";$("list").innerHTML=usageView();return}
 $("p-recent").classList.toggle("on",pool==="recent");$("p-archive").classList.toggle("on",pool==="archive");
 $("p-recent").textContent="Last "+(D.dashboard_hours||48)+" hours ("+D.leads.filter(isRecent).length+")";$("p-archive").textContent="Archive ("+D.leads.filter(l=>!isRecent(l)).length+")";
 batchOptions();people();profile();
@@ -441,8 +458,36 @@ $("list").innerHTML=Object.keys(g).sort().map(k=>'<h2 class="sec">'+esc(k)+' <sp
 ["q","src","when","sort"].forEach(i=>$(i).oninput=render);
 $("batch").onchange=()=>{batch=$("batch").value;render()};
 $("p-recent").onclick=()=>{pool="recent";render()};$("p-archive").onclick=()=>{pool="archive";render()};
-$("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};
+$("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};$("v-usage").onclick=()=>{view="usage";render()};
 
+
+/* --- Usage view: Cloudflare neuron estimates per account, and Claude tokens spent writing articles --- */
+const nf=n=>(+n||0).toLocaleString("en-AU");
+const kf=n=>{n=+n||0;return n>=1e6?(n/1e6).toFixed(n>=1e7?0:1)+"M":n>=1e4?Math.round(n/1e3)+"k":n>=1e3?(n/1e3).toFixed(1)+"k":String(n)};
+const dshort=d=>{const p=(d||"").split("-");return p.length===3?(+p[2])+"/"+(+p[1]):d};
+const bars=(rows,key,unit)=>{const mx=Math.max(1,...rows.map(r=>r[key]||0));
+return'<div class="bars" role="img" aria-label="Last '+rows.length+' days">'+rows.map(r=>'<div class="'+((r[key]||0)?"":"zero")+'" style="height:'+Math.max(3,Math.round((r[key]||0)/mx*100))+'%" title="'+esc(r.date)+': '+nf(r[key])+' '+unit+'"></div>').join("")+'</div>'+
+'<div class="bl">'+rows.map((r,i)=>'<span>'+(i%2===0||rows.length<9?esc(dshort(r.date)):"")+'</span>').join("")+'</div>'};
+function neuronCard(){const N=D.neurons||{},acc=N.accounts||[{slot:1,used:0}],lim=N.free_limit||10000,bud=N.budget||0;
+const rows=acc.map(a=>{const pct=bud?a.used/bud:a.used/lim,cls=pct>=1?"bad":pct>=.7?"warn":"";
+return'<div class="acc"><b>Account '+a.slot+'</b><div class="meter" role="img" aria-label="Account '+a.slot+': '+nf(a.used)+' of '+nf(bud||lim)+' neurons"><i class="'+cls+'" style="width:'+Math.min(100,Math.round(a.used/lim*100))+'%"></i>'+(bud?'<u style="left:'+Math.round(bud/lim*100)+'%" title="Budget '+nf(bud)+'"></u>':"")+'</div><span class="muted small">'+nf(a.used)+(bud?' of '+nf(bud):"")+' ('+Math.round(pct*100)+'%)</span></div>'}).join("");
+const total=acc.reduce((t,a)=>t+a.used,0),hist=(N.history||[]).slice(-14);
+return'<section class="ucard"><h2>Picture generation · Cloudflare neurons</h2><div class="muted small">'+esc((N.model||"").replace("@cf/black-forest-labs/",""))+' · today, '+esc(N.date||"")+' (UTC). Estimates from the calls we send, not Cloudflare\'s own meter. Free limit '+nf(lim)+' per account per day'+(bud?'; the next account takes over at '+nf(bud):"")+'.</div>'+
+(N.has_data?"":'<div class="empty" style="margin:12px 0">No picture usage recorded yet. It appears after the first picture is made with the updated pipeline.</div>')+
+'<div class="tiles"><div class="tile"><b>'+nf(total)+'</b><span>neurons today, all accounts</span></div><div class="tile"><b>'+nf(N.images_today||0)+'</b><span>picture attempts today</span></div><div class="tile"><b>'+acc.length+'</b><span>account'+(acc.length===1?"":"s")+' in use</span></div></div>'+
+rows+(hist.length>1?'<div class="muted small" style="margin-top:14px">Neurons per day, all accounts</div>'+bars(hist,"total","neurons"):"")+'</section>'}
+function claudeCard(){const C=D.claude_usage||{},T=C.today||{},W=C.week||{},M=C.month||{};
+const tile=(t,l)=>'<div class="tile"><b>'+kf(t.tokens)+'</b><span>'+l+' · '+nf(t.articles)+' article'+(t.articles===1?"":"s")+' · '+kf(t.cache_read_tokens)+' cached</span></div>';
+const wn={claude1:"Claude account 1",claude2:"Claude account 2",claude3:"Claude account 3"};
+const wr=Object.entries(C.writers||{}).map(([k,v])=>'<tr><td>'+esc(wn[k]||k)+'</td><td class="n">'+nf(v.runs)+'</td><td class="n">'+nf(v.input_tokens)+'</td><td class="n">'+nf(v.output_tokens)+'</td><td class="n">'+nf(v.cache_read_tokens)+'</td><td class="n">$'+(v.cost_usd||0).toFixed(2)+'</td></tr>').join("");
+const rec=(C.recent||[]).map(r=>'<tr><td>'+esc(ago(r.time))+'</td><td>'+esc(r.celebrity||"")+'</td><td>'+esc(wn[r.writer]||r.writer||"")+'</td><td class="n">'+nf(r.input_tokens)+'</td><td class="n">'+nf(r.output_tokens)+'</td><td class="n">'+nf(r.cache_read_tokens)+'</td><td class="n">'+nf(r.turns)+'</td><td>'+(r.ok?"done":"stopped")+'</td></tr>').join("");
+return'<section class="ucard"><h2>Article writing · Claude tokens</h2><div class="muted small">Exact counts from each writer run. Input and output are what the run was charged for; cached tokens are re-read context and are shown apart because they are most of the volume. A Claude plan is not billed per token; the dollar figure is the API-equivalent price.</div>'+
+(C.has_data?"":'<div class="empty" style="margin:12px 0">No Claude usage recorded yet. It appears after the next article is written by the updated workflow.</div>')+
+'<div class="tiles">'+tile(T,"Today")+tile(W,"Last 7 days")+tile(M,"Last 30 days")+'<div class="tile"><b>$'+((M.cost_usd||0)).toFixed(2)+'</b><span>API-equivalent, 30 days</span></div></div>'+
+((C.days||[]).some(d=>d.tokens)?'<div class="muted small">Input + output tokens per day</div>'+bars(C.days,"tokens","tokens"):"")+
+(wr?'<h3 class="sec" style="margin-top:16px">By writer account · 30 days</h3><div class="tw"><table class="ut"><tr><th>Writer</th><th class="n">Runs</th><th class="n">Input</th><th class="n">Output</th><th class="n">Cached</th><th class="n">Cost</th></tr>'+wr+'</table></div>':"")+
+(rec?'<h3 class="sec" style="margin-top:16px">Latest writer runs</h3><div class="tw"><table class="ut"><tr><th>When</th><th>Celebrity</th><th>Writer</th><th class="n">Input</th><th class="n">Output</th><th class="n">Cached</th><th class="n">Turns</th><th>Result</th></tr>'+rec+'</table></div>':"")+'</section>'}
+const usageView=()=>'<div class="usage">'+neuronCard()+claudeCard()+'</div>';
 /* status */
 function nextRun(){if(!D.last_run)return null;return new Date(new Date(D.last_run).getTime()+D.interval_hours*36e5)}
 function tick(){$("state").className="pill"+(paused?" off":"");$("state").innerHTML='<span class="dot"></span>'+(paused?"Paused":"Runs every "+D.interval_hours+"h");

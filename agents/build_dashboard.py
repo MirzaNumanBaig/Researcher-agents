@@ -5,6 +5,8 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
+import usage_stats
+
 ROOT = Path(__file__).resolve().parent.parent
 cfg = json.loads((ROOT / "config.json").read_text())
 leads = json.loads((ROOT / "data" / "leads.json").read_text())
@@ -123,6 +125,8 @@ data = {
     "updated": datetime.now(timezone.utc).isoformat(),
     "leads": stories,
     "wp": json.loads((ROOT / "data" / "wp_sync.json").read_text()) if (ROOT / "data" / "wp_sync.json").exists() else None,
+    "neurons": usage_stats.neuron_summary(ROOT, cfg),       # Usage view: Cloudflare neuron estimates per account
+    "claude_usage": usage_stats.claude_summary(ROOT),       # Usage view: Claude tokens spent on writing articles
 }
 
 TEMPLATE = (Path(__file__).parent / "dashboard_template.html").read_text()

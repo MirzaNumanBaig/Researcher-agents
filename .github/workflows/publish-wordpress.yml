@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - name: Generate featured images (Cloudflare Workers AI, 1500x900 WebP; skipped when the secrets are not set)
+      - name: Generate featured images (Cloudflare Workers AI, 1600x900 WebP; skipped when the secrets are not set)
         continue-on-error: true
         run: |
           pip install -q pillow
@@ -29,6 +29,12 @@ jobs:
         env:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID_2: ${{ secrets.CF_ACCOUNT_ID_2 }}
+          CF_API_TOKEN_2: ${{ secrets.CF_API_TOKEN_2 }}
+          CF_ACCOUNT_ID_3: ${{ secrets.CF_ACCOUNT_ID_3 }}
+          CF_API_TOKEN_3: ${{ secrets.CF_API_TOKEN_3 }}
+          CF_ACCOUNT_ID_4: ${{ secrets.CF_ACCOUNT_ID_4 }}
+          CF_API_TOKEN_4: ${{ secrets.CF_API_TOKEN_4 }}
       - name: Self-test the publisher
         run: python -m unittest discover tests
       - id: send

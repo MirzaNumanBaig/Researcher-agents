@@ -1,0 +1,161 @@
+{
+  "_note": "Fictional stand-in characters. They are NOT based on any real person. A prompt describes a stand-in by these traits only (never a name), so the site shows varied, consistent, natural-looking people. Edit freely; keep 8-12 cards.",
+  "cast": [
+    {
+      "id": "cast-01",
+      "presentation": "woman",
+      "age": "early 30s",
+      "hair": "shoulder-length wavy chestnut hair",
+      "build": "slim",
+      "skin": "light olive skin",
+      "styles": [
+        "a charcoal wool coat",
+        "a black satin dress",
+        "a white linen shirt"
+      ]
+    },
+    {
+      "id": "cast-02",
+      "presentation": "man",
+      "age": "late 30s",
+      "hair": "short dark greying hair",
+      "build": "broad-shouldered",
+      "skin": "medium-brown skin",
+      "styles": [
+        "a navy suit, open collar",
+        "a charcoal knit sweater",
+        "a black tuxedo"
+      ]
+    },
+    {
+      "id": "cast-03",
+      "presentation": "woman",
+      "age": "late 20s",
+      "hair": "long straight black hair",
+      "build": "petite",
+      "skin": "warm beige skin",
+      "styles": [
+        "an emerald silk dress",
+        "a cropped denim jacket",
+        "a camel trench coat"
+      ]
+    },
+    {
+      "id": "cast-04",
+      "presentation": "man",
+      "age": "mid 20s",
+      "hair": "tousled sandy-blond hair",
+      "build": "lean",
+      "skin": "fair skin",
+      "styles": [
+        "a denim jacket over a grey tee",
+        "a slim black suit",
+        "a cream fisherman knit"
+      ]
+    },
+    {
+      "id": "cast-05",
+      "presentation": "woman",
+      "age": "mid 40s",
+      "hair": "a sleek silver-streaked bob",
+      "build": "athletic",
+      "skin": "deep brown skin",
+      "styles": [
+        "a burgundy blazer",
+        "a midnight-blue gown",
+        "a soft grey wrap"
+      ]
+    },
+    {
+      "id": "cast-06",
+      "presentation": "man",
+      "age": "mid 50s",
+      "hair": "short grey-flecked hair and a beard",
+      "build": "sturdy",
+      "skin": "tan skin",
+      "styles": [
+        "a dark green wool jacket",
+        "a white shirt, sleeves rolled",
+        "a grey three-piece suit"
+      ]
+    },
+    {
+      "id": "cast-07",
+      "presentation": "woman",
+      "age": "early 20s",
+      "hair": "loose curly dark brown hair",
+      "build": "medium",
+      "skin": "rich brown skin",
+      "styles": [
+        "a mustard knit dress",
+        "a blush pink satin gown",
+        "an oversized black blazer"
+      ]
+    },
+    {
+      "id": "cast-08",
+      "presentation": "man",
+      "age": "early 40s",
+      "hair": "close-cropped black hair",
+      "build": "tall and slim",
+      "skin": "dark brown skin",
+      "styles": [
+        "a burnt-orange bomber jacket",
+        "a slate-grey suit",
+        "a black turtleneck and long coat"
+      ]
+    },
+    {
+      "id": "cast-09",
+      "presentation": "woman",
+      "age": "late 50s",
+      "hair": "short wavy white hair",
+      "build": "slim",
+      "skin": "pale skin",
+      "styles": [
+        "a pearl-grey silk blouse",
+        "a deep red evening dress",
+        "a navy cardigan"
+      ]
+    },
+    {
+      "id": "cast-10",
+      "presentation": "man",
+      "age": "early 30s",
+      "hair": "medium-length wavy auburn hair",
+      "build": "medium",
+      "skin": "light skin",
+      "styles": [
+        "a rust corduroy jacket",
+        "a dark teal suit",
+        "a cream cable-knit sweater"
+      ]
+    },
+    {
+      "id": "cast-11",
+      "presentation": "woman",
+      "age": "mid 30s",
+      "hair": "a high dark-blonde ponytail",
+      "build": "athletic",
+      "skin": "sun-warmed tan skin",
+      "styles": [
+        "an ivory jumpsuit",
+        "a forest-green wrap dress",
+        "a black leather jacket"
+      ]
+    },
+    {
+      "id": "cast-12",
+      "presentation": "man",
+      "age": "late 40s",
+      "hair": "thinning dark hair and round glasses",
+      "build": "stocky",
+      "skin": "olive skin",
+      "styles": [
+        "a tweed blazer",
+        "a plain navy suit",
+        "a brown suede jacket"
+      ]
+    }
+  ]
+}
