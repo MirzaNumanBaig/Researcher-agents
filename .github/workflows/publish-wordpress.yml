@@ -24,7 +24,7 @@ jobs:
       - name: Generate featured images (Cloudflare Workers AI, 1600x900 WebP; skipped when the secrets are not set)
         continue-on-error: true
         run: |
-          pip install -q pillow
+          pip install -q pillow "opencv-python-headless==4.10.0.84" "numpy<2.3"
           python agents/generate_images.py --max 25
         env:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}

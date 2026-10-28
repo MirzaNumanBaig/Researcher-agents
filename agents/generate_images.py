@@ -228,6 +228,27 @@ def brief_image(front):
         return ""
 
 
+def face_top(img, height):
+    """Top edge of an OUT_H-high window (img is already scaled to cover) that keeps the faces in frame, else None. Needs opencv (optional)."""
+    try:
+        import cv2
+        import numpy as np
+        gray = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2GRAY)
+        k = 800 / max(gray.shape)
+        small = cv2.resize(gray, None, fx=k, fy=k) if k < 1 else gray
+        k = min(k, 1)
+        det = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+        faces = det.detectMultiScale(small, 1.1, 5, minSize=(max(30, int(small.shape[0] * 0.04)),) * 2)
+        if not len(faces):
+            return None
+        top = min(y for _, y, _, h in faces) / k
+        bottom = max(y + h for _, y, _, h in faces) / k
+        want = top - 0.25 * (bottom - top) if bottom - top > height * 0.5 else (top + bottom) / 2 - height * 0.4  # close-up: keep the hair; else faces sit in the upper-middle
+        return int(min(max(want, 0), img.height - height))
+    except Exception:
+        return None
+
+
 def licensed_photo(front):
     """(webp bytes, alt, credit html) from data/licensed_images.json when the post's title or tags match one of the licensed images, else None.
     The image is cover-cropped to 1600x900 (image `focus`: top / center / bottom picks the strip that is kept)."""
@@ -247,7 +268,10 @@ def licensed_photo(front):
                     img = Image.open(io.BytesIO(r.read())).convert("RGB")
                 scale = max(OUT_W / img.width, OUT_H / img.height)
                 img = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
-                top = {"top": 0, "bottom": img.height - OUT_H}.get(im.get("focus", "center"), (img.height - OUT_H) // 2)
+                focus = im.get("focus", "auto")  # auto: keep the faces in frame; else top / center / bottom
+                top = face_top(img, OUT_H) if focus == "auto" else None
+                if top is None:
+                    top = {"top": 0, "bottom": img.height - OUT_H}.get(focus, (img.height - OUT_H) // 3)
                 left = (img.width - OUT_W) // 2
                 out = io.BytesIO()
                 img.crop((left, top, left + OUT_W, top + OUT_H)).save(out, "WEBP", quality=WEBP_QUALITY, method=6)
