@@ -133,7 +133,14 @@ def none_left_message():
 
 
 def mark_spent(account_id):
+    """Cloudflare said this account's free allowance is used up. Remembered for this run, and written to today's usage file (slot number only)
+    so the dashboard can show it. A later run still asks again, because Cloudflare's reset time is not exactly midnight UTC."""
     _spent.add(account_id)
+    u = read_today()
+    slots = set(u.get("spent") or [])
+    if label(account_id) not in slots and label(account_id) != "0":
+        u["spent"] = sorted(slots | {label(account_id)})
+        write(u)
 
 
 def is_quota_error(text):

@@ -7,6 +7,7 @@ import subprocess
 import sys
 import tempfile
 import unittest
+import unittest.mock
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -113,21 +114,21 @@ class Summaries(unittest.TestCase):
         self.assertFalse(c["has_data"])
         self.assertEqual((c["today"]["tokens"], c["recent"], c["writers"]), (0, [], {}))
         n = us.neuron_summary(self.tmp, {})
-        self.assertEqual((n["has_data"], n["budget"], n["accounts"]), (False, 9000, [{"slot": 1, "used": 0}]))
+        self.assertEqual((n["has_data"], n["budget"], n["accounts"]), (False, 9000, [{"slot": 1, "used": 0, "spent": False}]))
 
     def test_neurons_per_account_budget_and_history(self):
         (self.tmp / "articles" / "image-meta" / "_usage.json").write_text(json.dumps({
             "date": TODAY, "images": 31, "neurons": {"1": 7650, "2": 2100},
             "history": {day(2): {"neurons": {"1": 3000}, "images": 20}, day(1): {"neurons": {"1": 4000, "2": 500}, "images": 30}}}))
         n = us.neuron_summary(self.tmp, {"image_pipeline": {"neuron_budget": 9000, "image_model": "@cf/black-forest-labs/flux-1-schnell"}})
-        self.assertEqual(n["accounts"], [{"slot": 1, "used": 7650}, {"slot": 2, "used": 2100}])
+        self.assertEqual(n["accounts"], [{"slot": 1, "used": 7650, "spent": False}, {"slot": 2, "used": 2100, "spent": False}])
         self.assertEqual((n["budget"], n["images_today"], n["free_limit"], n["model"]), (9000, 31, 10000, "@cf/black-forest-labs/flux-1-schnell"))
         self.assertEqual([(h["date"], h["total"]) for h in n["history"]], [(day(2), 3000), (day(1), 4500), (TODAY, 9750)])
 
     def test_yesterdays_file_is_history_not_todays_usage(self):
         (self.tmp / "articles" / "image-meta" / "_usage.json").write_text(json.dumps({"date": day(1), "images": 5, "neurons": {"1": 800}}))
         n = us.neuron_summary(self.tmp, {})
-        self.assertEqual(n["accounts"], [{"slot": 1, "used": 0}])
+        self.assertEqual(n["accounts"], [{"slot": 1, "used": 0, "spent": False}])
         self.assertEqual(n["history"], [{"date": day(1), "total": 800, "images": 5}])
 
     def test_an_unreadable_file_does_not_break_the_dashboard(self):
@@ -135,6 +136,25 @@ class Summaries(unittest.TestCase):
         (self.tmp / "articles" / "image-meta" / "_usage.json").write_text("[1,2")
         self.assertFalse(us.claude_summary(self.tmp)["has_data"])
         self.assertFalse(us.neuron_summary(self.tmp, {})["has_data"])
+
+
+class SpentAccounts(unittest.TestCase):
+    def test_an_account_cloudflare_stopped_is_saved_by_slot_and_shown_as_full(self):
+        import cf_accounts
+        tmp = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, tmp, True)
+        env = {"IMG_META_DIR": str(tmp / "articles" / "image-meta"), "CF_ACCOUNT_ID": "acct-one", "CF_API_TOKEN": "t1", "CF_ACCOUNT_ID_2": "acct-two", "CF_API_TOKEN_2": "t2"}
+        with unittest.mock.patch.dict(os.environ, env):
+            cf_accounts.reset()
+            cf_accounts.mark_spent("acct-one")
+            cf_accounts.mark_spent("acct-one")  # twice: still one entry
+            cf_accounts.record("acct-two", 4220)
+            self.addCleanup(cf_accounts.reset)
+        saved = json.loads((tmp / "articles" / "image-meta" / "_usage.json").read_text())
+        self.assertEqual((saved["spent"], saved["neurons"]), (["1"], {"2": 4220}))
+        self.assertNotIn("acct-one", json.dumps(saved))  # slot numbers only, never an account id
+        n = us.neuron_summary(tmp, {})
+        self.assertEqual(n["accounts"], [{"slot": 1, "used": 10000, "spent": True}, {"slot": 2, "used": 4220, "spent": False}])
 
 
 class BuiltDashboard(unittest.TestCase):
@@ -154,10 +174,12 @@ class BuiltDashboard(unittest.TestCase):
         self.assertEqual(r.returncode, 0, r.stderr)
         page = (tmp / "docs" / "index.html").read_text()
         data = json.loads(re.search(r"const D=(\{.*\}),REPO=D\.repo;", page).group(1).replace("<\\/", "</"))
-        self.assertEqual(data["neurons"]["accounts"], [{"slot": 1, "used": 450}])
+        self.assertEqual(data["neurons"]["accounts"], [{"slot": 1, "used": 450, "spent": False}])
         self.assertEqual(data["claude_usage"]["today"]["tokens"], 3)
         self.assertIn('id="v-usage"', page)
         self.assertIn("usageView", page)
+        self.assertRegex(page, r'<main class="wrap">\s*<section class="health usagebar" id="usagebar"')  # the strip sits first, right under the header
+        self.assertIn("function usageBar()", page)
 
 
 if __name__ == "__main__":
