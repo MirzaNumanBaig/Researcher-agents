@@ -41,6 +41,8 @@ scripts/generate-image --post-id 123 --dry-run --preset glossy_magazine --seed 4
 
 Every setting is in `.env.example` (environment variable `IMG_*`, or `config.json` -> `image_pipeline`): sizes, steps, upscaler, output size and format, quality and file-size target, sharpening and grain, minimum score, caption, cast file. The history of the last 20 prompts (`_history.json`) makes neighbouring images use different shots, angles, palettes and stand-ins.
 
+**More than one Cloudflare account:** add `CF_ACCOUNT_ID_2` + `CF_API_TOKEN_2` (and `_3`, `_4`) as GitHub secrets. The first account is used until Cloudflare says its free neurons are used up; the next one then takes over at once, for images, text and vision alike. The daily cap grows with the number of accounts. Only complete pairs count. Check Cloudflare's terms before opening extra free accounts; paying as you go on one account is the other way to get more.
+
 **Cost guard:** Cloudflare's free allowance is 10,000 neurons a day, and an image attempt costs roughly 170 of them plus the text and vision calls, so `IMG_DAILY_IMAGE_CAP` (default 40 attempts per UTC day, counted in `articles/image-meta/_usage.json`) stops the run before the allowance is spent. A "daily allocation used up" error is never retried.
 
 **Rules enforced in code** (`concept.py`, not just asked of the model): no real name or likeness in a prompt or alt text; no readable text, signs or logos; no children; no weighting syntax or negative prompts; at most two people; sensitive and high-risk stories (death, health, legal, abuse, rumours) get a calm symbolic scene with no people; the prompt always ends with "No text, no logos, no watermark."

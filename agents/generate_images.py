@@ -29,7 +29,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-ACCOUNT, TOKEN = os.environ.get("CF_ACCOUNT_ID", "").strip(), os.environ.get("CF_API_TOKEN", "").strip()
+import cf_accounts  # noqa: E402  several Cloudflare accounts: CF_ACCOUNT_ID/CF_API_TOKEN, then _2, _3 ...
+ACCOUNT, TOKEN = (cf_accounts.load() or [("", "")])[0]
 MODEL = os.environ.get("CF_IMAGE_MODEL", "@cf/black-forest-labs/flux-1-schnell")
 BASE = os.environ.get("CF_API_BASE", "https://api.cloudflare.com/client/v4").rstrip("/")
 STYLE = "editorial photograph, cinematic lighting, shallow depth of field, rich colour, no text, no logos, no watermark, no people's faces"
@@ -138,10 +139,24 @@ def wants_image(status, stem, include_pending, now):
 
 def render(prompt):
     body, ctype_in = encode(MODEL, build_body(MODEL, prompt, *gen_size(MODEL)))
-    req = urllib.request.Request(f"{BASE}/accounts/{ACCOUNT}/ai/run/{MODEL}", data=body, method="POST",
-                                 headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": ctype_in, "User-Agent": "researcher-agents"})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        raw, ctype = r.read(), r.headers.get("Content-Type", "")
+    while True:
+        creds = cf_accounts.active()
+        if creds is None:
+            raise RuntimeError("no Cloudflare account is configured or every one has used up its free allowance")
+        req = urllib.request.Request(f"{BASE}/accounts/{creds[0]}/ai/run/{MODEL}", data=body, method="POST",
+                                     headers={"Authorization": f"Bearer {creds[1]}", "Content-Type": ctype_in, "User-Agent": "researcher-agents"})
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                raw, ctype = r.read(), r.headers.get("Content-Type", "")
+            break
+        except urllib.error.HTTPError as e:
+            body_bytes = e.read()
+            text = body_bytes.decode("utf-8", "replace")
+            if cf_accounts.is_quota_error(text):
+                cf_accounts.mark_spent(creds[0])  # this account is spent for today: the next one takes over
+                if cf_accounts.active() is not None:
+                    continue
+            raise urllib.error.HTTPError(e.url, e.code, e.msg, e.headers, io.BytesIO(body_bytes))  # callers read the body to print the reason
     if ctype.startswith("image/"):
         return raw
     j = json.loads(raw)
@@ -226,7 +241,7 @@ def main():
     done = failed = 0
     today = now.strftime("%Y-%m-%d")
     try:
-        cap = int(os.environ.get("IMG_DAILY_IMAGE_CAP") or (json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("daily_image_cap", 40))
+        cap = max(1, cf_accounts.count()) * int(os.environ.get("IMG_DAILY_IMAGE_CAP") or (json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("daily_image_cap", 40))  # the cap is per account: two accounts, twice the attempts
     except (OSError, ValueError):
         cap = 40
     try:  # the Article -> Image pipeline (agents/imagegen); any problem falls back to the writer's scene prompt below

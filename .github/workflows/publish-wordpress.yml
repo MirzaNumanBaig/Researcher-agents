@@ -29,6 +29,12 @@ jobs:
         env:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID_2: ${{ secrets.CF_ACCOUNT_ID_2 }}
+          CF_API_TOKEN_2: ${{ secrets.CF_API_TOKEN_2 }}
+          CF_ACCOUNT_ID_3: ${{ secrets.CF_ACCOUNT_ID_3 }}
+          CF_API_TOKEN_3: ${{ secrets.CF_API_TOKEN_3 }}
+          CF_ACCOUNT_ID_4: ${{ secrets.CF_ACCOUNT_ID_4 }}
+          CF_API_TOKEN_4: ${{ secrets.CF_API_TOKEN_4 }}
       - name: Self-test the publisher
         run: python -m unittest discover tests
       - id: send

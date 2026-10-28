@@ -6,6 +6,7 @@ import time
 import urllib.error
 import urllib.request
 
+import cf_accounts
 from . import config
 
 _sleep = time.sleep  # replaced in tests
@@ -55,13 +56,22 @@ class Cloudflare:
     name = "cloudflare"
 
     def __init__(self):
-        self.account, self.token = config.secret("CF_ACCOUNT_ID"), config.secret("CF_API_TOKEN")
         self.base = (config.secret("CF_API_BASE") or "https://api.cloudflare.com/client/v4").rstrip("/")
-        if not (self.account and self.token):
+        if not cf_accounts.load():
             raise LLMError("CF_ACCOUNT_ID / CF_API_TOKEN are not set")
 
     def _run(self, model, payload):
-        j = post_json(f"{self.base}/accounts/{self.account}/ai/run/{model}", {"Authorization": f"Bearer {self.token}"}, payload)
+        while True:
+            creds = cf_accounts.active()
+            if creds is None:
+                raise LLMError("every Cloudflare account has used up its free allowance")
+            try:
+                j = post_json(f"{self.base}/accounts/{creds[0]}/ai/run/{model}", {"Authorization": f"Bearer {creds[1]}"}, payload)
+                break
+            except LLMError as e:
+                if not cf_accounts.is_quota_error(str(e)):
+                    raise
+                cf_accounts.mark_spent(creds[0])  # spent: try the next account, or fail when there is none
         if not j.get("success", True):
             raise LLMError(str(j.get("errors"))[:300])
         out = (j.get("result") or {}).get("response")

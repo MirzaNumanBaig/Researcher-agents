@@ -14,6 +14,7 @@ from unittest import mock
 
 REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "agents"))
+import cf_accounts  # noqa: E402
 from imagegen import analyzer, blueprint, cast, checker, concept, config, finish, generator, meta, pipeline, prompt_writer, publisher  # noqa: E402
 from imagegen import llm as llmmod  # noqa: E402
 
@@ -211,6 +212,7 @@ class Mock(BaseHTTPRequestHandler):
     quota = False     # answer 429s with the "daily free allocation" message
     strict = False    # behave like Cloudflare's real schnell schema: only prompt and steps are accepted
     bodies = []
+    spent_accounts = set()  # account ids whose free neurons are used up (answered with the quota 429)
 
     def log_message(self, *a):
         pass
@@ -218,6 +220,11 @@ class Mock(BaseHTTPRequestHandler):
     def do_POST(self):
         body = json.loads(self.rfile.read(int(self.headers["Content-Length"])))
         Mock.bodies.append((self.path, body))
+        if self.path.split("/accounts/")[1].split("/")[0] in Mock.spent_accounts:
+            self.send_response(429)
+            self.end_headers()
+            self.wfile.write(b'{"errors":[{"message":"AiError: you have used up your daily free allocation of 10,000 neurons","code":4006}],"success":false}')
+            return
         if "flux" in self.path:
             if Mock.image_plan:
                 code = Mock.image_plan.pop(0)
@@ -258,6 +265,7 @@ class Generator(unittest.TestCase):
         self.addCleanup(patcher.stop)
         self.addCleanup(self.srv.shutdown)
         generator._rejected.clear()
+        cf_accounts.reset()
         p = mock.patch.object(generator, "_sleep", lambda s: None)
         p.start()
         self.addCleanup(p.stop)
@@ -355,6 +363,7 @@ class PipelineEndToEnd(unittest.TestCase):
                                                "IMG_META_DIR": self.tmp.name, "IMG_LLM_PROVIDER": "none"})
         patcher.start()
         generator._rejected.clear()
+        cf_accounts.reset()
         for cleanup in (patcher.stop, self.srv.shutdown, self.tmp.cleanup):
             self.addCleanup(cleanup)
 
@@ -471,6 +480,80 @@ class AltAndCaption(unittest.TestCase):
             self.assertEqual(config.caption(), "")
         with mock.patch.dict(os.environ, {"IMG_CAPTION": "Illustration generated with AI"}):
             self.assertEqual(config.caption(), "Illustration generated with AI")
+
+
+class MultipleAccounts(unittest.TestCase):
+    ENV = {"CF_ACCOUNT_ID": "a", "CF_API_TOKEN": "ta", "CF_ACCOUNT_ID_2": "b", "CF_API_TOKEN_2": "tb", "CF_ACCOUNT_ID_3": "c"}  # the third pair is incomplete
+
+    def setUp(self):
+        Mock.image_plan, Mock.size_rejected, Mock.strict, Mock.quota, Mock.bodies, Mock.spent_accounts = [], False, False, False, [], set()
+        self.srv = HTTPServer(("127.0.0.1", 0), Mock)
+        threading.Thread(target=self.srv.serve_forever, daemon=True).start()
+        env = {k: v for k, v in os.environ.items() if not k.startswith("CF_")}
+        env.update(self.ENV, CF_API_BASE=f"http://127.0.0.1:{self.srv.server_port}")
+        patcher = mock.patch.dict(os.environ, env, clear=True)
+        patcher.start()
+        cf_accounts.reset()
+        generator._rejected.clear()
+        sleeper = mock.patch.object(generator, "_sleep", lambda s: None)
+        sleeper.start()
+        for cleanup in (patcher.stop, sleeper.stop, self.srv.shutdown, cf_accounts.reset, lambda: setattr(Mock, "spent_accounts", set())):
+            self.addCleanup(cleanup)
+
+    def accounts_used(self):
+        return [p.split("/accounts/")[1].split("/")[0] for p, _ in Mock.bodies]
+
+    def test_only_complete_pairs_count_and_duplicates_are_ignored(self):
+        self.assertEqual(cf_accounts.load(), [("a", "ta"), ("b", "tb")])
+        with mock.patch.dict(os.environ, {"CF_ACCOUNT_ID_4": "a", "CF_API_TOKEN_4": "ta", "CF_ACCOUNT_ID_5": "e", "CF_API_TOKEN_5": "te"}):
+            self.assertEqual([a for a, _ in cf_accounts.load()], ["a", "b", "e"])
+        self.assertEqual(cf_accounts.count(), 2)
+
+    def test_the_first_account_is_used_until_it_is_spent_then_the_second_takes_over(self):
+        generator.generate("p")
+        self.assertEqual(self.accounts_used(), ["a"])
+        Mock.spent_accounts = {"a"}
+        generator.generate("p")
+        self.assertEqual(self.accounts_used(), ["a", "a", "b"])  # one refused try on a, then b at once (no waiting)
+        generator.generate("p")
+        self.assertEqual(self.accounts_used()[-1], "b")  # a is remembered as spent for the rest of the run
+        self.assertEqual(self.accounts_used().count("a"), 2)
+
+    def test_every_account_spent_fails_clearly_and_stops_asking(self):
+        Mock.spent_accounts = {"a", "b"}
+        with self.assertRaises(generator.GenerationError) as ctx:
+            generator.generate("p")
+        self.assertIn("daily free allocation", str(ctx.exception))
+        self.assertEqual(self.accounts_used(), ["a", "b"])
+        with self.assertRaises(generator.GenerationError):
+            generator.generate("p")
+        self.assertEqual(self.accounts_used(), ["a", "b"])  # no more requests once all are spent
+
+    def test_text_and_vision_calls_share_the_pool_with_images(self):
+        Mock.spent_accounts = {"a"}
+        out = llmmod.Cloudflare().complete("s", "u")
+        self.assertEqual(out, "{}")
+        self.assertEqual(self.accounts_used(), ["a", "b"])
+        generator.generate("p")
+        self.assertEqual(self.accounts_used()[-1], "b")  # the image call did not retry a
+
+    def test_pipeline_run_survives_a_spent_first_account(self):
+        Mock.spent_accounts = {"a"}
+        with mock.patch.dict(os.environ, {"IMG_META_DIR": tempfile.mkdtemp(), "IMG_LLM_PROVIDER": "none"}):
+            res = pipeline.run({"key": "k", "headline": "Film sequel release date announced", "body": "x", "category": "News", "names": []}, llm=None)
+        self.assertTrue(res["ok"], res["error"])
+        self.assertEqual(self.accounts_used()[-1], "b")
+
+    def test_generate_images_script_uses_the_second_account_and_scales_the_cap(self):
+        from datetime import datetime, timezone
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        Mock.spent_accounts = {"a"}
+        for extra in ({}, {"IMG_ENABLED": "false"}):  # the pipeline path and the old one-line prompt path
+            Mock.bodies = []
+            r, front, meta_files, has_img = GenerateImagesIntegration("run_script").run_script(
+                usage={"date": today, "images": 40}, CF_ACCOUNT_ID="a", CF_API_TOKEN="ta", CF_ACCOUNT_ID_2="b", CF_API_TOKEN_2="tb", **extra)
+            self.assertTrue(has_img, r.stdout + r.stderr)  # 40 attempts used, but two accounts allow 80
+            self.assertEqual(self.accounts_used()[-1], "b")
 
 
 class Finish(unittest.TestCase):
@@ -744,7 +827,7 @@ class GenerateImagesIntegration(unittest.TestCase):
             if usage is not None:
                 (root / "articles" / "image-meta").mkdir()
                 (root / "articles" / "image-meta" / "_usage.json").write_text(json.dumps(usage))
-            env = dict(os.environ, CF_ACCOUNT_ID="a", CF_API_TOKEN="t", CF_API_BASE=f"http://127.0.0.1:{srv.server_port}", IMG_LLM_PROVIDER="none", **extra)
+            env = {**os.environ, "CF_ACCOUNT_ID": "a", "CF_API_TOKEN": "t", "CF_API_BASE": f"http://127.0.0.1:{srv.server_port}", "IMG_LLM_PROVIDER": "none", **extra}
             r = subprocess.run([sys.executable, str(root / "agents" / "generate_images.py"), "--max", "5"], env=env, capture_output=True, text=True)
             front = (root / "articles" / "2026-10-28-09-00-elena-marlowe.md").read_text()
             meta_files = sorted(p.name for p in (root / "articles" / "image-meta").glob("*")) if (root / "articles" / "image-meta").exists() else []
