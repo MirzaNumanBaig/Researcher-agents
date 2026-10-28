@@ -61,9 +61,13 @@
       "outlets": [
         {
           "source": "News of Bahrain",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUdxZjY0RWpVdTNBTmcxUy1HMi13TkRFOFFQTVBqcHZwdUJKX0ZUaVE1cktLdWEtQWtUQ2QyNWVTOWN3VHdiNzlZNm5TU2tIZUt6ZXpJbFE5YWpWX1kwcFdteGQ4ZEdfQmVCXzBVeGw1UFZMQTFXdjF4enF5WFFxd3YtbHhTVmxGdlpMenQxbFFjdHVlT3NGWUJyU21idnROdnE4b3JxMGpfazhYeUR2dEhBX0Nka1NFTC1qSnJSdkpYM2JGNDlV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUdxZjY0RWpVdTNBTmcxUy1HMi13TkRFOFFQTVBqcHZwdUJKX0ZUaVE1cktLdWEtQWtUQ2QyNWVTOWN3VHdiNzlZNm5TU2tIZUt6ZXpJbFE5YWpWX1kwcFdteGQ4ZEdfQmVCXzBVeGw1UFZMQTFXdjF4enF5WFFxd3YtbHhTVmxGdlpMenQxbFFjdHVlT3NGWUJyU21idnROdnE4b3JxMGpfazhYeUR2dEhBX0Nka1NFTC1qSnJSdkpYM2JGNDlV?oc=5",
+          "article_url": "https://www.newsofbahrain.com/en/article/extraction-3-is-on-the-way-chris-hemsworth-trains-in-thailand-for-netflix-action-sequel",
+          "image": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/og-cards/article/en/extraction-3-is-on-the-way-chris-hemsworth-trains-in-thailand-for-netflix-action-sequel/1792346224253.jpg"
         }
-      ]
+      ],
+      "image": "https://mdisebzgyrtdwsnwlszm.supabase.co/storage/v1/object/public/og-cards/article/en/extraction-3-is-on-the-way-chris-hemsworth-trains-in-thailand-for-netflix-action-sequel/1792346224253.jpg",
+      "image_source": "https://www.newsofbahrain.com/en/article/extraction-3-is-on-the-way-chris-hemsworth-trains-in-thailand-for-netflix-action-sequel"
     }
   ]
 }

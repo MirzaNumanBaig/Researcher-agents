@@ -42,9 +42,13 @@
       "outlets": [
         {
           "source": "JoBlo",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lenljYmYydmR3UFdwaTRRN0hjRy14NDBkY055cjVsUjNVY0oyYXA3TmFmb3ZtZktZN0wyVnBnb1VCdUVVeW16TDFNNE1WNW9ScUNneGtnVmx0MWRJRS1aemlrUUk4UkZYdVhz0gFwQVVfeXFMTk4tMFhONXhUc3V0eUUtZzdtR05VOGE4Y0prb01nRXMzTHJHLWhKbHZxZmN0TWFyaEhqRDdZdWNDb2Y5M2QyX0RVeEJUUDYyUGx6NmpQdTdpSjE3dWV1OFh0SHFLZmhPS2RBWWxtNlY3bA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lenljYmYydmR3UFdwaTRRN0hjRy14NDBkY055cjVsUjNVY0oyYXA3TmFmb3ZtZktZN0wyVnBnb1VCdUVVeW16TDFNNE1WNW9ScUNneGtnVmx0MWRJRS1aemlrUUk4UkZYdVhz0gFwQVVfeXFMTk4tMFhONXhUc3V0eUUtZzdtR05VOGE4Y0prb01nRXMzTHJHLWhKbHZxZmN0TWFyaEhqRDdZdWNDb2Y5M2QyX0RVeEJUUDYyUGx6NmpQdTdpSjE3dWV1OFh0SHFLZmhPS2RBWWxtNlY3bA?oc=5",
+          "article_url": "https://www.joblo.com/monica-barbaro-oceans-eleven-prequel/",
+          "image": "https://www.joblo.com/wp-content/uploads/2026/06/monica-barbaro-oceans-eleven-prequel.jpg"
         }
-      ]
+      ],
+      "image": "https://www.joblo.com/wp-content/uploads/2026/06/monica-barbaro-oceans-eleven-prequel.jpg",
+      "image_source": "https://www.joblo.com/monica-barbaro-oceans-eleven-prequel/"
     }
   ]
 }

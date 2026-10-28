@@ -50,9 +50,13 @@
       "outlets": [
         {
           "source": "X",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNzZOd2J1cnJHYjJZdWlTaXJRODJCY3RkQ3I0TWdfeFFyMVNGVUtna2o5REtzeF9LTWx0RFFrLXFnbHVZM3I2cWhTQndJNVI2YUFzVFNveTFzU0RvS0cwdVJGWTU5bUJaNGx4Xw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNzZOd2J1cnJHYjJZdWlTaXJRODJCY3RkQ3I0TWdfeFFyMVNGVUtna2o5REtzeF9LTWx0RFFrLXFnbHVZM3I2cWhTQndJNVI2YUFzVFNveTFzU0RvS0cwdVJGWTU5bUJaNGx4Xw?oc=5",
+          "article_url": "https://x.com/MarioNawfal/status/2112006570242425257",
+          "image": "https://pbs.twimg.com/amplify_video_thumb/2111975418924310528/img/S3k59_NKWnon41Od?format=webp&name=large"
         }
-      ]
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2111975418924310528/img/S3k59_NKWnon41Od?format=webp&name=large",
+      "image_source": "https://x.com/MarioNawfal/status/2112006570242425257"
     },
     {
       "title": "Madonna Joins Adéla’s Viral “Nicole Kidman” TikTok Trend",
