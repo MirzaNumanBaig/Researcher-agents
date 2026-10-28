@@ -99,9 +99,13 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmNSVDltZC14cTdkV1VmZnNlLWdkdmxrdk4tU3dadkE1SW1kT1NITWVLQXR4a2FueG1iNmxUN0dERlBGejJoZl9COV9qVUk2Um12TWVpTExaWnFtUzBPVkkxOVBLc0R5YTN6UXZJOTUzSE5yTDZuRndlQTVKMGtIMW9iVGU2MlRkaGFHVWVJTFZ0dDBWNlJ2bVY4RnVRSmpqNnBiaHB6ZVU4UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmNSVDltZC14cTdkV1VmZnNlLWdkdmxrdk4tU3dadkE1SW1kT1NITWVLQXR4a2FueG1iNmxUN0dERlBGejJoZl9COV9qVUk2Um12TWVpTExaWnFtUzBPVkkxOVBLc0R5YTN6UXZJOTUzSE5yTDZuRndlQTVKMGtIMW9iVGU2MlRkaGFHVWVJTFZ0dDBWNlJ2bVY4RnVRSmpqNnBiaHB6ZVU4UQ?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/nicole-kidman-reportedly-seeks-peace-204000530.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/bc2cce2681b795527bec3ecd558e2368c3626f57e338aeb6cce72583ca1254ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F89f46d9bdb494f2af13b35297110bbc3.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/bc2cce2681b795527bec3ecd558e2368c3626f57e338aeb6cce72583ca1254ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F89f46d9bdb494f2af13b35297110bbc3.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/nicole-kidman-reportedly-seeks-peace-204000530.html"
     }
   ]
 }

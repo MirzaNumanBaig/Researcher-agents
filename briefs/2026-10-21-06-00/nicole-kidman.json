@@ -133,13 +133,19 @@
       "outlets": [
         {
           "source": "Good Housekeeping",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdE1STkszWTY5UEFFdmQ0QlRGMHBwWnZZWDFBM0dEaGhyd2tJWS1YdHJxYTdVTVRYdEtKRXJ1cHFKRWhfRVlmcHdTbk9TaDRjcktDTXBWLWV6QjhuOFdVUEZEbDNlQnJQZ0I0dnh2QzZ4MjEtMXdOdkJ2OHNLUW5Va19QUHlTTk5O?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdE1STkszWTY5UEFFdmQ0QlRGMHBwWnZZWDFBM0dEaGhyd2tJWS1YdHJxYTdVTVRYdEtKRXJ1cHFKRWhfRVlmcHdTbk9TaDRjcktDTXBWLWV6QjhuOFdVUEZEbDNlQnJQZ0I0dnh2QzZ4MjEtMXdOdkJ2OHNLUW5Va19QUHlTTk5O?oc=5",
+          "article_url": "https://www.goodhousekeeping.com/uk/fashion/a74129315/nicole-kidman-barrel-jeans/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/1fb80f52-7f26-4aeb-afff-7da513a6605b.jpg?crop=1xw:0.749625xh;center,top&resize=1200:*"
         },
         {
           "source": "Yahoo Life UK",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CSEhtWmxnVXlfbUs1TENwWHRYV01qVXc0bWgzem5hbG9aSlNmM09TN09IVWp1VEc3QVlPZ3c3VTgwajQtMzBnTGJQY1BtXzJZM1Y4Z1phWlBZdXhjLWVVMjF2THdRTVhzd3V2cXp0cnZFT2VUejRhVVlwSXJZUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CSEhtWmxnVXlfbUs1TENwWHRYV01qVXc0bWgzem5hbG9aSlNmM09TN09IVWp1VEc3QVlPZ3c3VTgwajQtMzBnTGJQY1BtXzJZM1Y4Z1phWlBZdXhjLWVVMjF2THdRTVhzd3V2cXp0cnZFT2VUejRhVVlwSXJZUQ?oc=5",
+          "article_url": "https://uk.style.yahoo.com/nicole-kidman-just-convinced-us-104500305.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/c4a16620a868b3996e7f44904d6ddfb53c3a95ea086c530ecd426c90a5cb35c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgood_housekeeping_uk_129%2F98c92ebcf8a69bc5104d1ac9bffcdc9b.jpg"
         }
-      ]
+      ],
+      "image": "https://hips.hearstapps.com/hmg-prod/images/1fb80f52-7f26-4aeb-afff-7da513a6605b.jpg?crop=1xw:0.749625xh;center,top&resize=1200:*",
+      "image_source": "https://www.goodhousekeeping.com/uk/fashion/a74129315/nicole-kidman-barrel-jeans/"
     }
   ]
 }

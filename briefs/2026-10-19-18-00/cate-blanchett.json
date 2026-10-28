@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Just Jared",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iU25wZUpXRXZDRDgxMEpidmc2c3BkV0U3U3hZX25Sa2tQWi0wLVlLd0pQY0xSS3ZNX2FaSmJMMW9EcDJ5WmZTWWZrXzFoUkduWTRtTW1TbjFCTlRvSG5QV1lfQldVbHpBTllF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iU25wZUpXRXZDRDgxMEpidmc2c3BkV0U3U3hZX25Sa2tQWi0wLVlLd0pQY0xSS3ZNX2FaSmJMMW9EcDJ5WmZTWWZrXzFoUkduWTRtTW1TbjFCTlRvSG5QV1lfQldVbHpBTllF?oc=5",
+          "article_url": "https://www.justjared.com/photo-gallery/4974164/lv-show-15/",
+          "image": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/10/lv-show-39.jpg"
         }
-      ]
+      ],
+      "image": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/10/lv-show-39.jpg",
+      "image_source": "https://www.justjared.com/photo-gallery/4974164/lv-show-15/"
     }
   ]
 }
