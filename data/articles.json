@@ -1,5 +1,35 @@
 [
   {
+    "path": "articles/2026-10-28-19-00-chris-hemsworth.md",
+    "title": "Chris Hemsworth",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-10-28 19:00",
+    "celebrity": "Chris Hemsworth",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "The only story (Comic Basics, Thailand wrap on Extraction 3) is the same news already published in the 17:00 batch post 'Chris Hemsworth wraps Thailand shoot for Extraction 3'; a second article would duplicate it.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-10-28-19-00-nicole-kidman.md",
+    "title": "Nicole Kidman: Why She Keeps Her Phone Out of the Bedroom",
+    "description": "Nicole Kidman told Vogue Australia she meditates instead of doomscrolling and never keeps her phone in the room at night.",
+    "status": "sent",
+    "wp_status": "publish",
+    "wp_synced": "publish",
+    "batch": "2026-10-28 19:00",
+    "celebrity": "Nicole Kidman",
+    "wp_link": "https://moduscarry.com/nicole-kidman-why-she-keeps-her-phone-out-of-the-bedroom/",
+    "wp_id": 1252,
+    "skip_reason": "",
+    "rewrite_note": "",
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-19-00-nicole-kidman-768x432.webp"
+  },
+  {
     "path": "articles/2026-10-28-18-00-nicole-kidman.md",
     "title": "Nicole Kidman",
     "description": "",
