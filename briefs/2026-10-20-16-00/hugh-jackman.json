@@ -20,9 +20,13 @@
       "outlets": [
         {
           "source": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xQjVtU3NtNFotVHhNcC1lTExJamZ1UTFIZkxySTBmTFVBRUZ3d3JTZ21ISGVCR2JQNlN6NDQtdTBmbHF3NW1zRkowMklqMlZKYnhHR2JTZEZNOFVuOWt1YW5ETGtGVGl5TTRr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xQjVtU3NtNFotVHhNcC1lTExJamZ1UTFIZkxySTBmTFVBRUZ3d3JTZ21ISGVCR2JQNlN6NDQtdTBmbHF3NW1zRkowMklqMlZKYnhHR2JTZEZNOFVuOWt1YW5ETGtGVGl5TTRr?oc=5",
+          "article_url": "https://timesofindia.indiatimes.com/topic/Hugh-Jackman/news",
+          "image": "https://static.toiimg.com/imagenext/medley-topic/thumb/photo/image/show/83/Hugh-Jackman?imgsize=-1"
         }
-      ]
+      ],
+      "image": "https://static.toiimg.com/imagenext/medley-topic/thumb/photo/image/show/83/Hugh-Jackman?imgsize=-1",
+      "image_source": "https://timesofindia.indiatimes.com/topic/Hugh-Jackman/news"
     },
     {
       "title": "Hugh Jackman may be reconsidering his retirement as Wolverine",

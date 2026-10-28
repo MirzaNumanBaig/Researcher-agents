@@ -20,9 +20,13 @@
       "outlets": [
         {
           "source": "CultureMap Austin",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVpxQVd3ZGRsYnZMQWVRMU1MSHZuQVN2d2NmbW15aDBmcFRkclVrTGRYRW1XMlk4eElZcWlueWNHMVlIdmV3cjBWcGhyTlZxQVphN2tuTGVoRFRkMDVXV3lXZkdRV2thaTNkZnRWTXJCS09RMWNRQ3VRQTBrSzl5NEFKT0pncjIya053ZEI5N1M?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVpxQVd3ZGRsYnZMQWVRMU1MSHZuQVN2d2NmbW15aDBmcFRkclVrTGRYRW1XMlk4eElZcWlueWNHMVlIdmV3cjBWcGhyTlZxQVphN2tuTGVoRFRkMDVXV3lXZkdRV2thaTNkZnRWTXJCS09RMWNRQ3VRQTBrSzl5NEFKT0pncjIya053ZEI5N1M?oc=5",
+          "article_url": "https://austin.culturemap.com/11-02-17-movie-thor-ragnarok-review-marvel/?rebelltitem=2",
+          "image": "https://austin.culturemap.com/media-library/cate-blanchett-in-thor-ragnarok.jpg?id=31620932&width=1200&height=600"
         }
-      ]
+      ],
+      "image": "https://austin.culturemap.com/media-library/cate-blanchett-in-thor-ragnarok.jpg?id=31620932&width=1200&height=600",
+      "image_source": "https://austin.culturemap.com/11-02-17-movie-thor-ragnarok-review-marvel/?rebelltitem=2"
     },
     {
       "title": "George Clooney's Monuments Men out of the running for Oscar glory",

@@ -71,9 +71,13 @@
       "outlets": [
         {
           "source": "JoBlo",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JbEVuNThmOTZOVVJXcDdWS0VUSlp3WGM3RllFa2o4aG5KLWhHRnB3NktENDdPbUZLdTN6RU4ya0dOVW5mTzBuMmUxV1Y5UWlGQ2hlTzBZckcxQ2I1Rmlmb3l0aTLSAWpBVV95cUxPdmxuYXgwdXQzWTBDNGZlbXBjXzU3a2J1OWQ1MEdCMU5NSnREWFp1UGJOV1B1aUh3bUgzZ0UxcGlxM1FTcHpaczFsSTdzUi1TZHg0Tk1NQ2RuTEw0dm1tTTdqenB1eXFfRVNn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JbEVuNThmOTZOVVJXcDdWS0VUSlp3WGM3RllFa2o4aG5KLWhHRnB3NktENDdPbUZLdTN6RU4ya0dOVW5mTzBuMmUxV1Y5UWlGQ2hlTzBZckcxQ2I1Rmlmb3l0aTLSAWpBVV95cUxPdmxuYXgwdXQzWTBDNGZlbXBjXzU3a2J1OWQ1MEdCMU5NSnREWFp1UGJOV1B1aUh3bUgzZ0UxcGlxM1FTcHpaczFsSTdzUi1TZHg0Tk1NQ2RuTEw0dm1tTTdqenB1eXFfRVNn?oc=5",
+          "article_url": "https://www.joblo.com/hugh-jackman-van-helsing-reboot/",
+          "image": "https://www.joblo.com/wp-content/uploads/2026/06/van_helsing_hugh_jackman_sequel.jpg"
         }
-      ]
+      ],
+      "image": "https://www.joblo.com/wp-content/uploads/2026/06/van_helsing_hugh_jackman_sequel.jpg",
+      "image_source": "https://www.joblo.com/hugh-jackman-van-helsing-reboot/"
     },
     {
       "title": "Hugh Jackman's Gritty 126-Minute Thriller Is Officially HBO Max's Biggest Streaming Hit",
