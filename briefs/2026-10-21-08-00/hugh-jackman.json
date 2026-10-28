@@ -42,9 +42,13 @@
       "outlets": [
         {
           "source": "Entertainment.ie",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTZkREpjeVJrRzI1bGUtRjNydTE3bUtpSEkycVQ4dmxOdFhpLS1NX2JIb2NxSHNZVER0emtqTklBd1RGc0JSX1NGTkloRkEwQy16eDlsRDhZQmtKb2ZPSTRaNWl6VHlzb09HcmRHZzhzVVFyWFBHYTcyN1oxQTItS21EYVA5cDBRZzdWNm44MDNrQ1lVVFRYTFRLTkZOeks5TU4weGE4R3kxajF6bk5iaTh5SHFpTTNhNlY2cmYtaG9QS2dTeHFvVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTZkREpjeVJrRzI1bGUtRjNydTE3bUtpSEkycVQ4dmxOdFhpLS1NX2JIb2NxSHNZVER0emtqTklBd1RGc0JSX1NGTkloRkEwQy16eDlsRDhZQmtKb2ZPSTRaNWl6VHlzb09HcmRHZzhzVVFyWFBHYTcyN1oxQTItS21EYVA5cDBRZzdWNm44MDNrQ1lVVFRYTFRLTkZOeks5TU4weGE4R3kxajF6bk5iaTh5SHFpTTNhNlY2cmYtaG9QS2dTeHFvVQ?oc=5",
+          "article_url": "https://entertainment.ie/movies/movie-news/watch-logans-retrospective-is-the-perfect-send-off-for-hugh-jackmans-wolverine-231573/",
+          "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/logan-retrospective.jpg?w=1280&h=768&q=high"
         }
-      ]
+      ],
+      "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/logan-retrospective.jpg?w=1280&h=768&q=high",
+      "image_source": "https://entertainment.ie/movies/movie-news/watch-logans-retrospective-is-the-perfect-send-off-for-hugh-jackmans-wolverine-231573/"
     },
     {
       "title": "The Best Character Portrayals",

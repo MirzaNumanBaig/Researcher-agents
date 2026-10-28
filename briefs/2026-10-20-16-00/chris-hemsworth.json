@@ -46,9 +46,13 @@
       "outlets": [
         {
           "source": "Entertainment.ie",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcDktNGV2U2k4Yk9VUnJnc0tNb3JnZkpaRHVfSDlDdkhpbVhkWGZ0VXZ4SmY4MVRVVW1KbG9qS2h4MG5zZVgwUEh3NWpmaWtwZElpUFJWNTh6MjNkV09USTQtSTYxakxRQWxsUmtVd3RMN3NyMnFmUmQ1NDBOelNwUmFuMjE1WmR2Tk5OWV9vSk5UUEJhdlpBbU1tSzltRWhKZkUzNTROSGFadE5MYWxWaXpnSThUd3k2QXNMTnFzYzJ1R3ZpeGFuM0VDeGwtVFFuZlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcDktNGV2U2k4Yk9VUnJnc0tNb3JnZkpaRHVfSDlDdkhpbVhkWGZ0VXZ4SmY4MVRVVW1KbG9qS2h4MG5zZVgwUEh3NWpmaWtwZElpUFJWNTh6MjNkV09USTQtSTYxakxRQWxsUmtVd3RMN3NyMnFmUmQ1NDBOelNwUmFuMjE1WmR2Tk5OWV9vSk5UUEJhdlpBbU1tSzltRWhKZkUzNTROSGFadE5MYWxWaXpnSThUd3k2QXNMTnFzYzJ1R3ZpeGFuM0VDeGwtVFFuZlE?oc=5",
+          "article_url": "https://entertainment.ie/movies/movie-news/who-was-kissing-chris-hemsworth-at-the-end-of-thor-the-dark-world-not-natalie-portman-242082/",
+          "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/Thor2.jpg?w=1280&h=768&q=high"
         }
-      ]
+      ],
+      "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/Thor2.jpg?w=1280&h=768&q=high",
+      "image_source": "https://entertainment.ie/movies/movie-news/who-was-kissing-chris-hemsworth-at-the-end-of-thor-the-dark-world-not-natalie-portman-242082/"
     }
   ]
 }

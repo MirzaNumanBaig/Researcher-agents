@@ -46,9 +46,13 @@
       "outlets": [
         {
           "source": "Entertainment.ie",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDhXQllOTWE2MEtWd09xeVA0LUQ3N2dYeTN5NkNQY3doOVZzSndtdGpKTGd2WFVTLVRBcW9uUHpBYS1ibGhWZTY4aU5BdEd2ZzlQSW81bWFEZktGTkRoYkIzb3g0WVFjTUpkakRxdzYzT3VZYWtFbmlUNUtCUjNGWTVWazNEYWRuRnEzam93S3U4dGVEVnBsNHJNVTZ2aEZjMnFHTGpYRFFhaE1hdUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDhXQllOTWE2MEtWd09xeVA0LUQ3N2dYeTN5NkNQY3doOVZzSndtdGpKTGd2WFVTLVRBcW9uUHpBYS1ibGhWZTY4aU5BdEd2ZzlQSW81bWFEZktGTkRoYkIzb3g0WVFjTUpkakRxdzYzT3VZYWtFbmlUNUtCUjNGWTVWazNEYWRuRnEzam93S3U4dGVEVnBsNHJNVTZ2aEZjMnFHTGpYRFFhaE1hdUE?oc=5",
+          "article_url": "https://entertainment.ie/movies/movie-news/hugh-jackman-takes-break-from-acting-women-everywhere-weep-243372/",
+          "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/648900-bmsb.jpg?w=1280&h=768&q=high"
         }
-      ]
+      ],
+      "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/648900-bmsb.jpg?w=1280&h=768&q=high",
+      "image_source": "https://entertainment.ie/movies/movie-news/hugh-jackman-takes-break-from-acting-women-everywhere-weep-243372/"
     },
     {
       "title": "Hugh Jackman’s hinterland neighbour sells $20m retreat",

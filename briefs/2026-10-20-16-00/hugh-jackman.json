@@ -35,9 +35,13 @@
       "outlets": [
         {
           "source": "Entertainment.ie",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ0NxLXhwc2RjZVQxVGNZYkpoX1FtOUUwNF9wakFKWGZOQXJDZ3Z4T1F0d3ZoQUtxOWhkTG92RjBLbmtSN19oZzlEUmd2eWlhQWhvODAxa21yQVdhbDEzSTVST2YyUVBQQ0VGcW1iX214aElqZ2pQcmFRaTZjQ1p4Ujl2RXZsOWtveDJrbXAxM0FVV0lCdTRrR1ptcDk1X05LNTFUZkJMUy15WjhXeHA2VEVB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ0NxLXhwc2RjZVQxVGNZYkpoX1FtOUUwNF9wakFKWGZOQXJDZ3Z4T1F0d3ZoQUtxOWhkTG92RjBLbmtSN19oZzlEUmd2eWlhQWhvODAxa21yQVdhbDEzSTVST2YyUVBQQ0VGcW1iX214aElqZ2pQcmFRaTZjQ1p4Ujl2RXZsOWtveDJrbXAxM0FVV0lCdTRrR1ptcDk1X05LNTFUZkJMUy15WjhXeHA2VEVB?oc=5",
+          "article_url": "https://entertainment.ie/movies/movie-news/hugh-jackman-may-be-reconsidering-his-retirement-as-wolverine-228163/",
+          "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/logan-retrospective.jpg?w=1280&h=768&q=high"
         }
-      ]
+      ],
+      "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/logan-retrospective.jpg?w=1280&h=768&q=high",
+      "image_source": "https://entertainment.ie/movies/movie-news/hugh-jackman-may-be-reconsidering-his-retirement-as-wolverine-228163/"
     },
     {
       "title": "Hugh Jackman Breaks Silence On Possibly Returning As Wolverine In Avengers: Secret Wars",

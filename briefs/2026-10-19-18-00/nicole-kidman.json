@@ -113,9 +113,13 @@
       "outlets": [
         {
           "source": "Entertainment.ie",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0ZRbV94MktBZ2thSVBVVkNVTWUwOEhJYVpZMllEeTl4OFl3UThUY0NwcEE0UGw5ZVE0R3dDOHRwa3hjVHVPOU1XUE5FRS00UlN1RmJyeDBKMVA5OG56bVNIRlpLSE9qZkNYNTluWGFyVW1oU2xQYUNBeHJxYm9BOVRqZ1lfM2l2TmR1bnBDNGJBSHVmbDM0YTdEMDg1U2FKbDlFX3c5NEdVUEQ5UFlV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0ZRbV94MktBZ2thSVBVVkNVTWUwOEhJYVpZMllEeTl4OFl3UThUY0NwcEE0UGw5ZVE0R3dDOHRwa3hjVHVPOU1XUE5FRS00UlN1RmJyeDBKMVA5OG56bVNIRlpLSE9qZkNYNTluWGFyVW1oU2xQYUNBeHJxYm9BOVRqZ1lfM2l2TmR1bnBDNGJBSHVmbDM0YTdEMDg1U2FKbDlFX3c5NEdVUEQ5UFlV?oc=5",
+          "article_url": "https://entertainment.ie/movies/movie-news/homelands-damian-lewis-joins-nicole-kidman-in-big-new-movie-242536/",
+          "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/668553-bmsb.jpg?w=1280&h=768&q=high"
         }
-      ]
+      ],
+      "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/668553-bmsb.jpg?w=1280&h=768&q=high",
+      "image_source": "https://entertainment.ie/movies/movie-news/homelands-damian-lewis-joins-nicole-kidman-in-big-new-movie-242536/"
     },
     {
       "title": "Nicole Kidman’s 104-Minute Sequel Officially Heads to Digital After 32 Days in Theaters",
@@ -172,13 +176,19 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSV1EzNFI2eks0ZTl5VFlnOFhCVVQzaENqTmdKYmUtdW9Fb0RsNFFsb3lLZzZsYTJLT1RZcnU4TGdFY0tlLVgyMEZzamREZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSV1EzNFI2eks0ZTl5VFlnOFhCVVQzaENqTmdKYmUtdW9Fb0RsNFFsb3lLZzZsYTJLT1RZcnU4TGdFY0tlLVgyMEZzamREZw?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66063202/",
+          "image": ""
         },
         {
           "source": "FandomWire",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xVmFfdGZKVDk3WldKVnpucjVsb3NaTVNtLV9TQWstVzhXQS0yVVVxRVlfalhEUFl0Z3NEU3FXaVZkSHhpdUdRU1EzV01PTmh3M1E2YjVCOUhVU2piMGhmU3BpSFh3WWxFSDJBUVBQNFlDUVd0VHFvV3YzajY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xVmFfdGZKVDk3WldKVnpucjVsb3NaTVNtLV9TQWstVzhXQS0yVVVxRVlfalhEUFl0Z3NEU3FXaVZkSHhpdUdRU1EzV01PTmh3M1E2YjVCOUhVU2piMGhmU3BpSFh3WWxFSDJBUVBQNFlDUVd0VHFvV3YzajY?oc=5",
+          "article_url": "https://fandomwire.com/nicole-kidman-practical-magic-2-heads-to-digital/",
+          "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/10/14170833/nicole-kidman-practical-magic-2-streaming-platform.jpg"
         }
-      ]
+      ],
+      "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/10/14170833/nicole-kidman-practical-magic-2-streaming-platform.jpg",
+      "image_source": "https://fandomwire.com/nicole-kidman-practical-magic-2-heads-to-digital/"
     }
   ]
 }

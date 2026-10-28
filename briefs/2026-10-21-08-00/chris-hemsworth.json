@@ -20,9 +20,13 @@
       "outlets": [
         {
           "source": "Entertainment.ie",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWDAzdW9YNHVpUUlMVmhCR2tOMlJZZ1VVTzZSYWlHZnhYSnI0b2w0VlV5dEdKNWlCc2RIMjhmd0gtdG9TMl85bnAwTENrbmloandqZjhFdlVJODdDd1paQ1lNeEVWTXpHUlhuNmwtbmdreldyVFkyQmNlNzBjeHNZRGJzTHBTRlI3Rk11RnJ3QjRIYnp2bzFtLWFRSHRXVl9tNER5bTBB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWDAzdW9YNHVpUUlMVmhCR2tOMlJZZ1VVTzZSYWlHZnhYSnI0b2w0VlV5dEdKNWlCc2RIMjhmd0gtdG9TMl85bnAwTENrbmloandqZjhFdlVJODdDd1paQ1lNeEVWTXpHUlhuNmwtbmdreldyVFkyQmNlNzBjeHNZRGJzTHBTRlI3Rk11RnJ3QjRIYnp2bzFtLWFRSHRXVl9tNER5bTBB?oc=5",
+          "article_url": "https://entertainment.ie/movies/movie-news/chris-hemsworth-to-star-in-real-life-moby-dick-movie-247620/",
+          "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/wenn5860616.jpg?w=1280&h=768&q=high"
         }
-      ]
+      ],
+      "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/wenn5860616.jpg?w=1280&h=768&q=high",
+      "image_source": "https://entertainment.ie/movies/movie-news/chris-hemsworth-to-star-in-real-life-moby-dick-movie-247620/"
     },
     {
       "title": "Archie Rose and Chris Hemsworth unveil new look whisky range ahead of US launch",

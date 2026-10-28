@@ -65,9 +65,13 @@
       "outlets": [
         {
           "source": "Entertainment.ie",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWpOSXlEU0F5Qk1ZMU1zU2VxcmFNT2o1Ni1peUNETDlsSU5LWDY2LW5JWW4wXzcyLUtjWWJ2Vm16M0VpZFpXUjdzWVdQYXRmTXZ4WldrdnVFb1FiT0s4cnhHMFVVTUpqNGNreWw3eTlqdW81clZRcG9iLVZFWXN5dmhpREJCYXRqc3QwRjBXc0x6WW9fVjF3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWpOSXlEU0F5Qk1ZMU1zU2VxcmFNT2o1Ni1peUNETDlsSU5LWDY2LW5JWW4wXzcyLUtjWWJ2Vm16M0VpZFpXUjdzWVdQYXRmTXZ4WldrdnVFb1FiT0s4cnhHMFVVTUpqNGNreWw3eTlqdW81clZRcG9iLVZFWXN5dmhpREJCYXRqc3QwRjBXc0x6WW9fVjF3?oc=5",
+          "article_url": "https://entertainment.ie/movies/movie-news/chris-hemsworth-fat-thor-avengers-endgame-404024/",
+          "image": "https://images.entertainment.ie/uploads/2019/05/29094654/Chris-Hemsworth-Fat-Thor.jpg?w=1280&h=768&q=high"
         }
-      ]
+      ],
+      "image": "https://images.entertainment.ie/uploads/2019/05/29094654/Chris-Hemsworth-Fat-Thor.jpg?w=1280&h=768&q=high",
+      "image_source": "https://entertainment.ie/movies/movie-news/chris-hemsworth-fat-thor-avengers-endgame-404024/"
     },
     {
       "title": "Archie Rose and Co-Owner Chris Hemsworth Bring Australian Whisky to the U.S.",

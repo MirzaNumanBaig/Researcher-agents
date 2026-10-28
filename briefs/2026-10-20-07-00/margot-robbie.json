@@ -42,9 +42,13 @@
       "outlets": [
         {
           "source": "Entertainment.ie",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOazdZX2FCWUtGZ3ZGN2RONTk3QVJNRmFOak5OMXhPTmIzUDlmU1VoaTJmTzBIb2tfbWlRb2xDb2I0cjBTeTVCRmNiSl9OSGtBZlFrSzRKSmRNSVkxRDlGT2pVWnBLMkFXMV9KcnQ2Z3ZHRGFNMWlfQzNiNzZpSDh1cDFVbDhkbkF3OTVHZG1BVHpwcVFKckdBeXJjNGFYRlVLVUJzTmJxS1prLUt0SUwza2ZZM2R0YlgyaGpON2c1dG9iRW41RU1wdkVpX0duVDRLYTI2amgxT0ptWGg1a052d0Vn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOazdZX2FCWUtGZ3ZGN2RONTk3QVJNRmFOak5OMXhPTmIzUDlmU1VoaTJmTzBIb2tfbWlRb2xDb2I0cjBTeTVCRmNiSl9OSGtBZlFrSzRKSmRNSVkxRDlGT2pVWnBLMkFXMV9KcnQ2Z3ZHRGFNMWlfQzNiNzZpSDh1cDFVbDhkbkF3OTVHZG1BVHpwcVFKckdBeXJjNGFYRlVLVUJzTmJxS1prLUt0SUwza2ZZM2R0YlgyaGpON2c1dG9iRW41RU1wdkVpX0duVDRLYTI2amgxT0ptWGg1a052d0Vn?oc=5",
+          "article_url": "https://entertainment.ie/movies/movie-news/pics-irish-actor-domhnall-gleeson-cuddles-up-with-margot-robbie-in-new-images-for-aa-milne-biopic-233308/",
+          "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/domhnall-margot-final.jpg?w=1280&h=768&q=high"
         }
-      ]
+      ],
+      "image": "https://images.entertainment.ie/storage/images_content/rectangle/620x372/domhnall-margot-final.jpg?w=1280&h=768&q=high",
+      "image_source": "https://entertainment.ie/movies/movie-news/pics-irish-actor-domhnall-gleeson-cuddles-up-with-margot-robbie-in-new-images-for-aa-milne-biopic-233308/"
     },
     {
       "title": "‘Wuthering Heights’ Star Margot Robbie’s Viral ‘New Mom’ Photos Aren’t What Fans Think",
