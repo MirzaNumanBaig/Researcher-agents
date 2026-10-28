@@ -1,5 +1,125 @@
 [
   {
+    "path": "articles/2026-10-28-17-00-chris-hemsworth.md",
+    "title": "Chris Hemsworth wraps Thailand shoot for Extraction 3",
+    "description": "Chris Hemsworth says he has finished his weeks in Thailand filming Extraction 3, sharing photos of weekend adventures. Here is what is known about the sequel.",
+    "status": "sent",
+    "wp_status": "publish",
+    "wp_synced": "publish",
+    "batch": "2026-10-28 17:00",
+    "celebrity": "Chris Hemsworth",
+    "wp_link": "https://moduscarry.com/chris-hemsworth-wraps-thailand-shoot-for-extraction-3/",
+    "wp_id": 1245,
+    "skip_reason": "",
+    "rewrite_note": "",
+    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-17-00-chris-hemsworth-768x432.webp"
+  },
+  {
+    "path": "articles/2026-10-28-17-00-connor-storrie.md",
+    "title": "",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-28 17:00",
+    "celebrity": "Connor Storrie",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Only one readable source, a fan-theory piece that relays unconfirmed casting talks second-hand; the other outlet was blocked (403) and no first-hand report could be found.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-10-28-17-00-keanu-reeves.md",
+    "title": "Keanu Reeves",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-10-28 17:00",
+    "celebrity": "Keanu Reeves",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Reeves's Maelstrom casting rests on one opinion piece (ComingSoon via Yahoo) and no other outlet confirms it; the IMDb story was unreadable.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-10-28-17-00-nicole-kidman.md",
+    "title": "Nicole Kidman",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-10-28 17:00",
+    "celebrity": "Nicole Kidman",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text (only source, Parade Magazine, returned HTTP 403; Google News link gave no article; story is outfit gossip)",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-10-28-17-00-rebel-wilson.md",
+    "title": "Rebel Wilson",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-28 17:00",
+    "celebrity": "Rebel Wilson",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "The only story is an old ABC News piece from early 2020 (Year of Health, 2020 resolutions, age 40), not current news.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-10-28-17-00-ryan-gosling.md",
+    "title": "Ryan Gosling",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-28 17:00",
+    "celebrity": "Ryan Gosling",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-10-28-17-00-seth-rogen.md",
+    "title": "Seth Rogen at SCAD Savannah Film Festival",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-10-28 17:00",
+    "celebrity": "Seth Rogen",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Only one short festival roundup that names Seth Rogen in passing, with no news or quotes from him; too thin for a 450+ word article.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-10-28-17-00-troye-sivan.md",
+    "title": "Troye Sivan",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-10-28 17:00",
+    "celebrity": "Troye Sivan",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "The only source is a L'Officiel Philippines page where the fetched text holds a single teaser line about the album 'She's The Best'; there is not enough verified detail for an article.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
     "path": "articles/2026-10-28-14-00-chris-hemsworth.md",
     "title": "Chris Hemsworth",
     "description": "",
@@ -18,7 +138,7 @@
     "path": "articles/2026-10-28-13-00-connor-storrie.md",
     "title": "Connor Storrie's Ghost Rider Role Comes With a Film-Shot Twist",
     "description": "Connor Storrie is reportedly set to play a villain in Marvel's Ghost Rider, which will be shot on film by Linus Sandgren for a July 2028 release.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-28 13:00",
@@ -27,13 +147,13 @@
     "wp_id": 1158,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-13-00-connor-storrie-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-13-00-jacob-elordi.md",
     "title": "Jacob Elordi and Kendall Jenner at the Academy Museum Gala",
     "description": "Jacob Elordi and Kendall Jenner's first posed appearance at the Academy Museum Gala has gone viral. Here is what is known, and what is only opinion.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-28 13:00",
@@ -42,7 +162,7 @@
     "wp_id": 1159,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-13-00-jacob-elordi-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-13-00-jim-carrey.md",
@@ -63,7 +183,7 @@
     "path": "articles/2026-10-28-13-00-keanu-reeves.md",
     "title": "Keanu Reeves Reported to Lead Netflix Thriller Maelstrom",
     "description": "Keanu Reeves is reported to star in Netflix's hurricane thriller Maelstrom, as John Wick: Chapter 4 climbs Prime Video's US charts again.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-28 13:00",
@@ -72,13 +192,13 @@
     "wp_id": 1160,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-13-00-keanu-reeves-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-13-00-michael-j-fox.md",
     "title": "Michael J. Fox's Parkinson's Study Hits 50 Million Downloads",
     "description": "Data from the Michael J. Fox Foundation's PPMI study has been downloaded over 50 million times, and the project is now focused on precision medicine.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-28 13:00",
@@ -87,7 +207,7 @@
     "wp_id": 1161,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-13-00-michael-j-fox-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-13-00-nicole-kidman.md",
@@ -123,7 +243,7 @@
     "path": "articles/2026-10-28-13-00-russell-crowe.md",
     "title": "Russell Crowe's Virtuosity Joins Paramount+ on 1 November",
     "description": "Russell Crowe and Denzel Washington's 1995 sci-fi thriller Virtuosity arrives on Paramount+ on 1 November, alongside the Rambo films and Gone Girl.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-28 13:00",
@@ -132,13 +252,13 @@
     "wp_id": 1162,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-13-00-russell-crowe-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-13-00-ryan-gosling.md",
     "title": "Ryan Gosling's Dead Man's Bones Return After 17 Years",
     "description": "Dead Man's Bones, the band of Ryan Gosling and Zach Shields, released 'Lost in the Night', its first song in 17 years, and Eva Mendes has responded.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-28 13:00",
@@ -147,13 +267,13 @@
     "wp_id": 1163,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-13-00-ryan-gosling-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-13-00-seth-rogen.md",
     "title": "Seth Rogen on Doubting Jake Gyllenhaal in Donnie Darko",
     "description": "Seth Rogen says he doubted Jake Gyllenhaal's Donnie Darko performance on set, and his thriller The Invite tops HBO Max in the US.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-28 13:00",
@@ -162,7 +282,7 @@
     "wp_id": 1164,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-13-00-seth-rogen-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-10-00-chris-hemsworth.md",
@@ -198,7 +318,7 @@
     "path": "articles/2026-10-28-10-00-keanu-reeves.md",
     "title": "Kyle MacLachlan Jokes He Lost a Keanu Reeves Role",
     "description": "Kyle MacLachlan pokes fun at auditioning for the part Keanu Reeves played in Bram Stoker's Dracula, in a new clip tied to his memoir.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-28 10:00",
@@ -207,7 +327,7 @@
     "wp_id": 1157,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-10-00-keanu-reeves-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-10-00-miranda-kerr.md",
@@ -258,7 +378,7 @@
     "path": "articles/2026-10-28-09-00-cate-blanchett.md",
     "title": "Cate Blanchett receives Praemium Imperiale in Tokyo",
     "description": "Cate Blanchett is honoured with the 2026 Praemium Imperiale for Theatre/Film at a Tokyo ceremony on 28 October, alongside four other laureates.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 09:00",
@@ -267,13 +387,13 @@
     "wp_id": 1050,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-cate-blanchett-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-09-00-connor-storrie.md",
     "title": "Connor Storrie in Talks for Ryan Gosling's Ghost Rider",
     "description": "Heated Rivalry star Connor Storrie is reportedly in talks to play a villain opposite Ryan Gosling in Marvel's Ghost Rider, due in July 2028.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 09:00",
@@ -282,13 +402,13 @@
     "wp_id": 1051,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-connor-storrie-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-09-00-delta-goodrem.md",
     "title": "Delta Goodrem tipped for Eurovision Asia appearance",
     "description": "Eurovision Asia teased a mystery star on social media, and reports point to Delta Goodrem. Nothing is confirmed, with details due on 27 October.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 09:00",
@@ -297,13 +417,13 @@
     "wp_id": 1052,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-delta-goodrem-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-09-00-hudson-williams.md",
     "title": "Hudson Williams' Breakout Year: From Waiter to Met Gala",
     "description": "Hudson Williams went from Heated Rivalry newcomer to Met Gala guest and Canadian Screen Awards winner in 2026. Here is the year in dates, and what's next.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 09:00",
@@ -312,7 +432,7 @@
     "wp_id": 1053,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-hudson-williams-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-09-00-keanu-reeves.md",
@@ -348,7 +468,7 @@
     "path": "articles/2026-10-28-09-00-margot-robbie.md",
     "title": "Margot Robbie's Neighbours Microdrama Plan Draws Backlash",
     "description": "Old Neighbours episodes starring Margot Robbie will be recut by AI into vertical microdramas, and ex-cast and unions are pushing back.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 09:00",
@@ -357,7 +477,7 @@
     "wp_id": 1054,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-margot-robbie-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-09-00-michael-j-fox.md",
@@ -408,7 +528,7 @@
     "path": "articles/2026-10-28-09-00-russell-crowe.md",
     "title": "Russell Crowe's Unabomber Drops Out of Netflix Top 10",
     "description": "Russell Crowe's Unabomber has spent a full week outside Netflix's Top 10 after nearly 53 million views, according to ScreenRant and FlixPatrol.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 09:00",
@@ -417,13 +537,13 @@
     "wp_id": 1055,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-russell-crowe-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-09-00-ryan-gosling.md",
     "title": "Connor Storrie in talks to join Ryan Gosling in Ghost Rider",
     "description": "Heated Rivalry's Connor Storrie is reportedly in talks for a villain role opposite Ryan Gosling in Marvel's Ghost Rider, due in cinemas in July 2028.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 09:00",
@@ -432,13 +552,13 @@
     "wp_id": 1056,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-ryan-gosling-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-06-00-cate-blanchett.md",
     "title": "Cate Blanchett's Aviator Oscar and the Babel scene that shook her",
     "description": "Parker Posey says she knew Cate Blanchett would land The Aviator role, while Blanchett recalls a brutal first day on Babel.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 06:00",
@@ -447,7 +567,7 @@
     "wp_id": 1045,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-06-00-cate-blanchett-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-06-00-chris-hemsworth.md",
@@ -468,7 +588,7 @@
     "path": "articles/2026-10-28-06-00-hudson-williams.md",
     "title": "Hudson Williams' Yaga Scores 95% With Rotten Tomatoes Viewers",
     "description": "Hudson Williams' witchy AMC+ thriller Yaga holds a 95% audience score on Rotten Tomatoes two days after its quiet 23 October premiere.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 06:00",
@@ -477,7 +597,7 @@
     "wp_id": 1046,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-06-00-hudson-williams-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-06-00-jacob-elordi.md",
@@ -498,7 +618,7 @@
     "path": "articles/2026-10-28-06-00-keanu-reeves.md",
     "title": "Keanu Reeves, 62, Joins Netflix's Maelstrom: How He Trains",
     "description": "Keanu Reeves replaces Alan Ritchson in Netflix thriller Maelstrom. Here is how his strength and martial arts training keeps him ready for action roles.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 06:00",
@@ -507,7 +627,7 @@
     "wp_id": 1047,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-06-00-keanu-reeves-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-06-00-liam-hemsworth.md",
@@ -528,7 +648,7 @@
     "path": "articles/2026-10-28-06-00-nicole-kidman.md",
     "title": "Nicole Kidman's phone rule for mental health, and her new fringe",
     "description": "Nicole Kidman says keeping her phone out of the bedroom protects her mental health. She also set two style trends this week: A-line jeans and 'Gucci bangs'.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 06:00",
@@ -537,7 +657,7 @@
     "wp_id": 1048,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-06-00-nicole-kidman-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-06-00-russell-crowe.md",
@@ -558,7 +678,7 @@
     "path": "articles/2026-10-28-06-00-ryan-gosling.md",
     "title": "Ryan Gosling's Dead Man's Bones return with 'Lost in the Night'",
     "description": "Ryan Gosling and Zach Shields have released Dead Man's Bones' first new song in 17 years, just ahead of Halloween.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 06:00",
@@ -567,7 +687,7 @@
     "wp_id": 1049,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-06-00-ryan-gosling-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-chris-hemsworth.md",
@@ -588,7 +708,7 @@
     "path": "articles/2026-10-28-00-00-connor-storrie.md",
     "title": "Connor Storrie's sci-fi thriller April X sets 27 November date",
     "description": "Connor Storrie leads sci-fi thriller April X on Lionsgate Play from 27 November, after Heated Rivalry. Here is the cast, plot and what to know.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -597,13 +717,13 @@
     "wp_id": 1034,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-connor-storrie-1-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-delta-goodrem.md",
     "title": "Delta Goodrem sings all 11 Eurovision Asia entries",
     "description": "Delta Goodrem is recording every Eurovision Song Contest Asia entry in its original language, starting with Bangladesh's Tumi Ele, ahead of the 14 November final.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -612,13 +732,13 @@
     "wp_id": 1035,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-delta-goodrem-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-heath-ledger.md",
     "title": "Julia Stiles to Honour Heath Ledger on Dancing with the Stars",
     "description": "Julia Stiles will dedicate her Dancing with the Stars routine to late co-star Heath Ledger, set to the song he sang in 10 Things I Hate About You.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -627,13 +747,13 @@
     "wp_id": 1036,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-heath-ledger-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-hudson-williams.md",
     "title": "Hudson Williams' Yaga Lands on Lionsgate Play on 6 November",
     "description": "Lionsgate Play has set 6 November for Yaga, with Hudson Williams as a missing heir, and 27 November for Connor Storrie's film April X.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -642,7 +762,7 @@
     "wp_id": 1037,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-hudson-williams-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-hugh-jackman.md",
@@ -693,7 +813,7 @@
     "path": "articles/2026-10-28-00-00-keanu-reeves.md",
     "title": "Keanu Reeves reported to lead Netflix thriller Maelstrom",
     "description": "Keanu Reeves is reportedly set to star in Netflix's hurricane thriller Maelstrom after Alan Ritchson left the project, according to Deadline.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -702,13 +822,13 @@
     "wp_id": 1038,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-keanu-reeves-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-liam-hemsworth.md",
     "title": "Liam Hemsworth and his brothers: careers and family",
     "description": "A guide to Liam, Chris and Luke Hemsworth: their careers, the Thor audition mix-up, and Liam's September 2025 engagement to Gabriella Brooks.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -717,13 +837,13 @@
     "wp_id": 1039,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-liam-hemsworth-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-michael-j-fox.md",
     "title": "Michael J. Fox back on screen in Shrinking after 2020 retirement",
     "description": "Michael J. Fox returned to acting in Shrinking season 3 after retiring in 2020. Here is how the comeback happened and who stood by him.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -732,13 +852,13 @@
     "wp_id": 1040,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-michael-j-fox-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-nicole-kidman.md",
     "title": "Nicole Kidman wears double denim by Khaite on Instagram",
     "description": "Nicole Kidman, 59, posted a double denim look from Khaite on 26 October. Here is what she wore and how it fits her Chanel ambassador role.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -747,7 +867,7 @@
     "wp_id": 1041,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-nicole-kidman-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-pamela-anderson.md",
@@ -783,7 +903,7 @@
     "path": "articles/2026-10-28-00-00-renate-reinsve.md",
     "title": "Renate Reinsve Reportedly Meets Marvel for X-Men Role",
     "description": "Renate Reinsve has reportedly met Marvel about playing Moira MacTaggert in the X-Men reboot, set for May 2028. Nothing is confirmed.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -792,7 +912,7 @@
     "wp_id": 1042,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-renate-reinsve-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-russell-crowe.md",
@@ -813,7 +933,7 @@
     "path": "articles/2026-10-28-00-00-ryan-gosling.md",
     "title": "Ryan Gosling's Dead Man's Bones return after 17 years",
     "description": "Ryan Gosling and Zach Shields release 'Lost in the Night', the first Dead Man's Bones song since 2009, with a black-and-white video.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -822,13 +942,13 @@
     "wp_id": 1043,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-ryan-gosling-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-28-00-00-seth-rogen.md",
     "title": "Seth Rogen fronts Sephora's holiday ad as The Invite hits No. 1",
     "description": "Seth Rogen stars in Sephora's 2026 holiday campaign after a Los Angeles stunt, while his comedy The Invite tops the HBO Max US chart.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-28 00:00",
@@ -837,7 +957,7 @@
     "wp_id": 1044,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-seth-rogen-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-18-00-connor-storrie.md",
@@ -858,7 +978,7 @@
     "path": "articles/2026-10-27-18-00-hudson-williams.md",
     "title": "Hudson Williams Stars in AMC+ Folk Horror Series Yaga",
     "description": "Hudson Williams plays a missing heir in Yaga, an eight-episode AMC+ folk horror mystery that began on 23 October, according to Comic Book Resources.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 18:00",
@@ -867,7 +987,7 @@
     "wp_id": 1031,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-18-00-hudson-williams-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-18-00-jacob-elordi.md",
@@ -948,7 +1068,7 @@
     "path": "articles/2026-10-27-18-00-ryan-gosling.md",
     "title": "Ryan Gosling's Dead Man's Bones Return With 'Lost in the Night'",
     "description": "Ryan Gosling's band Dead Man's Bones has released its first new song in 17 years, with a black-and-white Halloween video.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 18:00",
@@ -957,7 +1077,7 @@
     "wp_id": 1032,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-18-00-ryan-gosling-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-18-00-ryan-reynolds.md",
@@ -993,7 +1113,7 @@
     "path": "articles/2026-10-27-18-00-seth-rogen.md",
     "title": "Seth Rogen fronts Sephora's 'Sethphora' holiday campaign",
     "description": "Sephora renamed its Los Angeles store 'Sethphora' to launch a holiday ad with Seth Rogen. Here is what was announced and when the campaign starts.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 18:00",
@@ -1002,13 +1122,13 @@
     "wp_id": 1033,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-18-00-seth-rogen-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-12-00-chris-hemsworth.md",
     "title": "Chris Hemsworth hosts Muay Thai star Rodtang on Extraction 3 set",
     "description": "Chris Hemsworth welcomed Rodtang Jitmuangnon to the Extraction 3 set in Thailand, and trained with British striker Ben Woolliss.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 12:00",
@@ -1017,13 +1137,13 @@
     "wp_id": 1025,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-chris-hemsworth-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-12-00-delta-goodrem.md",
     "title": "Delta Goodrem names likely cause of her Strictly rib injury",
     "description": "Delta Goodrem says repeated lifts may have caused her fractured rib, days before a rumba that earned Strictly's first 10 of the series.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 12:00",
@@ -1032,13 +1152,13 @@
     "wp_id": 1026,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-delta-goodrem-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-12-00-hudson-williams.md",
     "title": "Hudson Williams' New Show Yaga: Noah Reid Steals Early Praise",
     "description": "Hudson Williams stars in the new mystery series Yaga, but early reviews single out co-star Noah Reid. Here is what we know and when episode three arrives.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 12:00",
@@ -1047,13 +1167,13 @@
     "wp_id": 1027,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-hudson-williams-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-12-00-hugh-jackman.md",
     "title": "Hugh Jackman's Rise of the Guardians heads to HBO Max",
     "description": "Rise of the Guardians, with Hugh Jackman as the Easter Bunny, arrives on HBO Max on 1 November 2026 after years off subscription streaming.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 12:00",
@@ -1062,13 +1182,13 @@
     "wp_id": 1028,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-hugh-jackman-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-12-00-jim-carrey.md",
     "title": "Jim Carrey Marries Longtime Partner Min Ah in Private Ceremony",
     "description": "Jim Carrey, 64, has married Min Ah in a small Los Angeles ceremony, years after saying he would likely not wed a third time.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 12:00",
@@ -1077,13 +1197,13 @@
     "wp_id": 1029,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-jim-carrey-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-12-00-keanu-reeves.md",
     "title": "Keanu Reeves joins Netflix action thriller Maelstrom",
     "description": "Keanu Reeves has reportedly replaced Alan Ritchson in Maelstrom, a Netflix hurricane thriller directed by Jaume Collet-Serra.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 12:00",
@@ -1092,7 +1212,7 @@
     "wp_id": 1030,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-keanu-reeves-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-12-00-liam-hemsworth.md",
@@ -1203,7 +1323,7 @@
     "path": "articles/2026-10-27-08-00-connor-storrie.md",
     "title": "Owen Thiele Praises Connor Storrie's Work Ethic on Peaked",
     "description": "Owen Thiele told Variety that Connor Storrie 'cares so deeply' on the set of A24 comedy Peaked, which has no release date yet.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 08:00",
@@ -1212,13 +1332,13 @@
     "wp_id": 1016,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-connor-storrie-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-08-00-hudson-williams.md",
     "title": "Hudson Williams: Yaga Reviewed, and a Hockey Script Teased",
     "description": "Hudson Williams plays two roles in the witchy series Yaga and says he is writing a film with an ex-hockey player. Here is what we know.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 08:00",
@@ -1227,7 +1347,7 @@
     "wp_id": 1017,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-hudson-williams-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-08-00-hugh-jackman.md",
@@ -1263,7 +1383,7 @@
     "path": "articles/2026-10-27-08-00-keanu-reeves.md",
     "title": "Keanu Reeves to Star in Netflix Thriller Maelstrom",
     "description": "Keanu Reeves replaces Alan Ritchson in Netflix's Maelstrom, a hurricane siege thriller from Jaume Collet-Serra based on a 1993 spec script.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 08:00",
@@ -1272,7 +1392,7 @@
     "wp_id": 1018,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-keanu-reeves-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-08-00-margot-robbie.md",
@@ -1308,7 +1428,7 @@
     "path": "articles/2026-10-27-08-00-michael-j-fox.md",
     "title": "Christopher Lloyd on the Night Michael J. Fox Replaced Stoltz",
     "description": "Christopher Lloyd tells Michael J. Fox why he felt 'selfish' when Fox took over as Marty McFly in Back to the Future, in a new Interview Magazine chat.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 08:00",
@@ -1317,7 +1437,7 @@
     "wp_id": 1019,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-michael-j-fox-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-08-00-miranda-kerr.md",
@@ -1338,7 +1458,7 @@
     "path": "articles/2026-10-27-08-00-nicole-kidman.md",
     "title": "Nicole Kidman on being 'too tall' in Vogue Australia",
     "description": "Nicole Kidman's Vogue Australia digital cover is all Chanel, and she tells Baz Luhrmann how being the tallest in class became her strength.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 08:00",
@@ -1347,13 +1467,13 @@
     "wp_id": 1020,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-nicole-kidman-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-08-00-rachel-mcadams.md",
     "title": "Rachel McAdams Returns for The Families Stone Sequel",
     "description": "Searchlight has announced The Families Stone, a sequel to the 2005 holiday film, with Rachel McAdams and most of the original cast set to return.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 08:00",
@@ -1362,13 +1482,13 @@
     "wp_id": 1021,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-rachel-mcadams-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-08-00-rebel-wilson.md",
     "title": "Judge finds malice in Rebel Wilson's Amanda Ghost website",
     "description": "A NSW judge found a website targeting producer Amanda Ghost was made with malice by Rebel Wilson, even as Wilson's company won $359,000 in fees.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 08:00",
@@ -1377,13 +1497,13 @@
     "wp_id": 1022,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-rebel-wilson-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-08-00-renate-reinsve.md",
     "title": "Renate Reinsve and Sebastian Stan Lead Mungiu's Fjord",
     "description": "Renate Reinsve and Sebastian Stan star in Cristian Mungiu's Fjord, a drama about a Romanian-Norwegian family caught in a child protection case.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 08:00",
@@ -1392,7 +1512,7 @@
     "wp_id": 1023,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-renate-reinsve-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-08-00-russell-crowe.md",
@@ -1413,7 +1533,7 @@
     "path": "articles/2026-10-27-08-00-seth-rogen.md",
     "title": "Seth Rogen fronts Sephora's holiday campaign",
     "description": "Seth Rogen stars in Sephora's We All Sephora holiday ads, rolling out on 29 October in the US and Canada after a 'Sethphora' store stunt.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 08:00",
@@ -1422,7 +1542,7 @@
     "wp_id": 1024,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-seth-rogen-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-08-00-troye-sivan.md",
@@ -1458,7 +1578,7 @@
     "path": "articles/2026-10-27-02-00-catherine-o-hara.md",
     "title": "Catherine O'Hara and the SCTV Cast Get a Netflix Documentary",
     "description": "Netflix releases a documentary on 30 October marking 50 years of SCTV, the sketch show that launched Catherine O'Hara, Eugene Levy and Martin Short.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1467,13 +1587,13 @@
     "wp_id": 999,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-catherine-o-hara-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-connor-storrie.md",
     "title": "Connor Storrie's Heated Rivalry Returns in Spring 2027",
     "description": "Connor Storrie and Hudson Williams are back for Heated Rivalry season two, with a bigger cast and a spring 2027 premiere confirmed by Bell Media.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1482,13 +1602,13 @@
     "wp_id": 1000,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-connor-storrie-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-delta-goodrem.md",
     "title": "Delta Goodrem reportedly lined up for BBC One New Year's Eve",
     "description": "Delta Goodrem is reportedly in talks to front BBC One's New Year's Eve concert, an unconfirmed report says. Here is what we know so far.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1497,13 +1617,13 @@
     "wp_id": 1001,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-delta-goodrem-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-hudson-williams.md",
     "title": "Hudson Williams Is Writing a Film and Dodging Hockey",
     "description": "Hudson Williams says his script has an ex-hockey player, and the Heated Rivalry echo is giving his team pause. Here is what we know about his slate.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1512,7 +1632,7 @@
     "wp_id": 1002,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-hudson-williams-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-hugh-jackman.md",
@@ -1533,7 +1653,7 @@
     "path": "articles/2026-10-27-02-00-jim-carrey.md",
     "title": "Jim Carrey, 64, marries in secret and keeps a low profile",
     "description": "The Telegraph reports Jim Carrey married Min Ah in Los Angeles last month. A look at how the 1990s comedy king became one of Hollywood's quietest stars.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1542,13 +1662,13 @@
     "wp_id": 1003,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-jim-carrey-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-keanu-reeves.md",
     "title": "Keanu Reeves reportedly set for Netflix thriller Maelstrom",
     "description": "Keanu Reeves is reportedly attached to Netflix's Maelstrom, a Die Hard-style thriller first sold as a script in 1993, after Alan Ritchson left.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1557,7 +1677,7 @@
     "wp_id": 1004,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-keanu-reeves-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-margot-robbie.md",
@@ -1578,7 +1698,7 @@
     "path": "articles/2026-10-27-02-00-martin-short.md",
     "title": "Martin Short on his one-year deadline before social work",
     "description": "Martin Short says he gave himself one year to make it in show business, with a social work degree as plan B, before landing Godspell in 1972.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1587,13 +1707,13 @@
     "wp_id": 1005,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-martin-short-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-michael-j-fox.md",
     "title": "Michael J. Fox salutes Christopher Lloyd at 88 as memoir lands",
     "description": "Michael J. Fox answered Christopher Lloyd's Back to the Future birthday joke and interviewed him for Interview ahead of Lloyd's memoir, out 27 October.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1602,13 +1722,13 @@
     "wp_id": 1006,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-michael-j-fox-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-nicole-kidman.md",
     "title": "Troye Sivan on slow dancing with Nicole Kidman",
     "description": "Troye Sivan tells W Magazine what it was like to film the She's the Best video with Nicole Kidman, who plays a burlesque bar owner.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1617,13 +1737,13 @@
     "wp_id": 1007,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-nicole-kidman-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-pamela-anderson.md",
     "title": "Pamela Anderson's Vancouver Island Garden Feeds Her Community",
     "description": "Pamela Anderson's 15,000-square-foot vegetable garden on Vancouver Island reportedly sends surplus produce to food banks, soup kitchens and churches.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1632,7 +1752,7 @@
     "wp_id": 1008,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-pamela-anderson-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-rachel-mcadams.md",
@@ -1653,7 +1773,7 @@
     "path": "articles/2026-10-27-02-00-rebel-wilson.md",
     "title": "Rebel Wilson on The Deb win: 'Two lawsuits. Two wins'",
     "description": "Rebel Wilson has spoken about her court win over The Deb, joking about her law degree and describing a David and Goliath fight.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1662,13 +1782,13 @@
     "wp_id": 1009,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-rebel-wilson-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-renate-reinsve.md",
     "title": "Renate Reinsve reportedly met Marvel about X-Men role",
     "description": "Renate Reinsve has reportedly met Marvel Studios about playing Moira MacTaggert in the X-Men reboot. Nothing is confirmed, and she has doubted Marvel roles.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1677,13 +1797,13 @@
     "wp_id": 1010,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-renate-reinsve-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-russell-crowe.md",
     "title": "Drew McIntyre on Russell Crowe, His Mentor Off the Ring",
     "description": "Wrestler Drew McIntyre says Russell Crowe mentored him across Highlander and The Last Druid, and that his WWE return will wait while Hollywood keeps him busy.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1692,13 +1812,13 @@
     "wp_id": 1011,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-russell-crowe-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-ryan-gosling.md",
     "title": "Ryan Gosling Revives Dead Man's Bones After 17 Years",
     "description": "Ryan Gosling and Zach Shields are reportedly bringing back Dead Man's Bones, with new music due on 27 October, as his Ghost Rider film moves ahead.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1707,13 +1827,13 @@
     "wp_id": 1012,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-ryan-gosling-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-ryan-reynolds.md",
     "title": "Ryan Reynolds turns 50 as Blake Lively posts a 'manny' tribute",
     "description": "Blake Lively marked Ryan Reynolds' 50th birthday with a cheeky puppy video, and two of his films land on Peacock on 1 November.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1722,7 +1842,7 @@
     "wp_id": 1013,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-ryan-reynolds-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-sandra-oh.md",
@@ -1743,7 +1863,7 @@
     "path": "articles/2026-10-27-02-00-seth-rogen.md",
     "title": "Seth Rogen fronts Sephora's holiday ad as The Invite tops HBO Max",
     "description": "Seth Rogen stars in Sephora's new holiday campaign, and his comedy The Invite has reached No. 1 on HBO Max days after arriving.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1752,13 +1872,13 @@
     "wp_id": 1014,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-seth-rogen-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-27-02-00-troye-sivan.md",
     "title": "Troye Sivan on She's the Best and Life After the Party",
     "description": "Troye Sivan tells W Magazine and Dazed why She's the Best looks past the dance floor, from the Nicole Kidman video to the Sweat tour's after-effects.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "pending",
     "wp_synced": "pending",
     "batch": "2026-10-27 02:00",
@@ -1767,7 +1887,7 @@
     "wp_id": 1015,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-troye-sivan-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-26-21-00-rebel-wilson.md",
@@ -1893,7 +2013,7 @@
     "path": "articles/2026-10-26-17-00-chris-hemsworth.md",
     "title": "Chris Hemsworth on the 2015 shoot he called brutal",
     "description": "Chris Hemsworth says making In the Heart of the Sea was exhausting and 'not fun', and he won't repeat the weight loss it demanded.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-26 17:00",
@@ -1902,13 +2022,13 @@
     "wp_id": 988,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-26-17-00-chris-hemsworth-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-26-17-00-delta-goodrem.md",
     "title": "Delta Goodrem's first Strictly 10 splits viewers after injury",
     "description": "Delta Goodrem returned to Strictly with a rib fracture and earned the season's first 10. Some viewers say the 34-point score was too generous.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-26 17:00",
@@ -1917,13 +2037,13 @@
     "wp_id": 989,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-26-17-00-delta-goodrem-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-26-17-00-hugh-jackman.md",
     "title": "Hugh Jackman Plays Coy on Secret Wars as The Fountain Is Revisited",
     "description": "Hugh Jackman dodged a Secret Wars question in a Variety interview, while his 2006 film The Fountain is being reappraised as a cult classic.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-26 17:00",
@@ -1932,7 +2052,7 @@
     "wp_id": 990,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-26-17-00-hugh-jackman-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-26-17-00-jacob-elordi.md",
@@ -1953,7 +2073,7 @@
     "path": "articles/2026-10-26-17-00-margot-robbie.md",
     "title": "Margot Robbie's Neighbours Scenes Recut by AI for Phones",
     "description": "Fremantle and RoseBerry Media are recutting Margot Robbie's Neighbours storylines into vertical AI-assisted episodes, and former co-stars are objecting.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-26 17:00",
@@ -1962,7 +2082,7 @@
     "wp_id": 991,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-26-17-00-margot-robbie-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-26-17-00-miranda-kerr.md",
@@ -1998,7 +2118,7 @@
     "path": "articles/2026-10-26-17-00-rebel-wilson.md",
     "title": "Rebel Wilson wins $359,000 in The Deb fee case",
     "description": "A NSW judge dismissed AI Film's $15 million claim against Rebel Wilson, but found she was behind anonymous websites targeting a producer.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-26 17:00",
@@ -2007,13 +2127,13 @@
     "wp_id": 997,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-26-17-00-rebel-wilson-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-26-17-00-russell-crowe.md",
     "title": "Russell Crowe's Gladiator Hits Netflix as L.A. Confidential Exits",
     "description": "Gladiator is now on Netflix in the US, L.A. Confidential is leaving Prime Video, and Russell Crowe's The Weight is reviewed. Here is where to watch.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-26 17:00",
@@ -2022,7 +2142,7 @@
     "wp_id": 998,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-26-17-00-russell-crowe-768x432.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-26-17-00-sam-worthington.md",
@@ -2073,7 +2193,7 @@
     "path": "articles/2026-10-25-11-00-delta-goodrem.md",
     "title": "Delta Goodrem scores Strictly's first 10 after rib injury",
     "description": "Delta Goodrem returned to Strictly Come Dancing on 24 October after a fractured rib and earned the series' first perfect 10 for her rumba.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-25 11:00",
@@ -2133,7 +2253,7 @@
     "path": "articles/2026-10-25-07-00-delta-goodrem.md",
     "title": "Delta Goodrem on the lifts that led to her Strictly rib injury",
     "description": "In her first in-depth interview since the fracture, Delta Goodrem explains how repeated lifts hurt her rib and how she and Kai Widdrington adapted.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-25 07:00",
@@ -2178,7 +2298,7 @@
     "path": "articles/2026-10-25-04-00-delta-goodrem.md",
     "title": "Delta Goodrem's fractured rib recovery, day by day",
     "description": "Delta Goodrem's Instagram clips trace a fractured rib from hospital to the Strictly rumba, with one-week-absence rules and week five lineup.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-25 04:00",
@@ -2193,7 +2313,7 @@
     "path": "articles/2026-10-25-04-00-hugh-jackman.md",
     "title": "Hugh Jackman to play Blackbeard in Ridley Scott's Treasure Island",
     "description": "Hugh Jackman is reported to play the pirate Blackbeard in Ridley Scott's Treasure Island remake, due in cinemas on 11 November 2027.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-25 04:00",
@@ -2238,7 +2358,7 @@
     "path": "articles/2026-10-25-04-00-russell-crowe.md",
     "title": "Russell Crowe's Unabomber Slows on Netflix as The Weight Rises",
     "description": "Unabomber has passed 50 million Netflix views despite poor reviews, while Russell Crowe's Western The Weight finds a bigger audience on PVOD.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-25 04:00",
@@ -2253,7 +2373,7 @@
     "path": "articles/2026-10-25-00-00-delta-goodrem.md",
     "title": "Delta Goodrem 'grateful' as she returns to Strictly",
     "description": "Delta Goodrem is cleared to dance again on Strictly Come Dancing after a fractured rib, and will perform a rumba to Celine Dion on Saturday.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-25 00:00",
@@ -2268,7 +2388,7 @@
     "path": "articles/2026-10-25-00-00-margot-robbie.md",
     "title": "Margot Robbie's Hidden Pan Am Cameo in Tarantino's Hollywood",
     "description": "Quentin Tarantino says Margot Robbie played a second, little-noticed role in Once Upon a Time in Hollywood, as he screened 17 minutes of Cliff Booth.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-25 00:00",
@@ -2283,7 +2403,7 @@
     "path": "articles/2026-10-25-00-00-nicole-kidman.md",
     "title": "Nicole Kidman's busy 2026: Practical Magic 2 and a TV run",
     "description": "Nicole Kidman has Lioness, Scarpetta and Discretion in the works while a source defends Practical Magic 2's $30 million opening, Page Six reports.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-25 00:00",
@@ -2343,7 +2463,7 @@
     "path": "articles/2026-10-24-19-00-kylie-minogue.md",
     "title": "Kylie Minogue quizzes Nicole Kidman in Vogue Australia",
     "description": "Kylie Minogue is among almost two dozen stars who questioned Nicole Kidman for her twelfth Vogue Australia cover. Here is what Kidman revealed.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 19:00",
@@ -2373,7 +2493,7 @@
     "path": "articles/2026-10-24-19-00-nicole-kidman.md",
     "title": "Nicole Kidman on her Vogue Australia cover, and the role she never got",
     "description": "Nicole Kidman's twelfth Vogue Australia cover includes questions from Hugh Jackman and Kylie Minogue, and a confession about McDonald's.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 19:00",
@@ -2388,7 +2508,7 @@
     "path": "articles/2026-10-24-19-00-troye-sivan.md",
     "title": "Troye Sivan's She's the Best: A Review of Party and Yearning",
     "description": "A UC Irvine review of Troye Sivan's fourth album, She's the Best, finds dance-floor joy up front and a deeper search for love in the second half.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 19:00",
@@ -2433,7 +2553,7 @@
     "path": "articles/2026-10-24-14-00-hugh-jackman.md",
     "title": "Hugh Jackman on the Chicago role he turned down in 2001",
     "description": "Hugh Jackman once passed on the Richard Gere part in Chicago, saying at 30 he was too young. Here is what he said and what he made instead.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 14:00",
@@ -2448,7 +2568,7 @@
     "path": "articles/2026-10-24-14-00-jacob-elordi.md",
     "title": "Jacob Elordi Out of James Bond Race as Three Finalists Emerge",
     "description": "Jacob Elordi is reportedly no longer in contention for James Bond. Deadline names Lowden, Turner and O'Connor among four actors screen testing.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 14:00",
@@ -2478,7 +2598,7 @@
     "path": "articles/2026-10-24-14-00-margot-robbie.md",
     "title": "Margot Robbie's sheer Armani Privé gown reignites naked dress debate",
     "description": "Fans are split over Margot Robbie's sheer Armani Privé gown, with praise for the beadwork and criticism of the styling and the naked dress trend.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 14:00",
@@ -2493,7 +2613,7 @@
     "path": "articles/2026-10-24-14-00-nicole-kidman.md",
     "title": "Nicole Kidman on Vogue cover: 'Surviving' is her proudest feat",
     "description": "Nicole Kidman tells Vogue Australia her proudest achievement is surviving in the industry since 14, and shares a McDonald's dream and wardrobe-sharing rules.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 14:00",
@@ -2508,7 +2628,7 @@
     "path": "articles/2026-10-24-14-00-rebel-wilson.md",
     "title": "Judge refuses to sanction Rebel Wilson in The Deb case",
     "description": "A Los Angeles judge rejected a bid to dismiss Rebel Wilson's claims or fine her over $474,000, but left other options open to The Deb producers.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 14:00",
@@ -2523,7 +2643,7 @@
     "path": "articles/2026-10-24-14-00-russell-crowe.md",
     "title": "Russell Crowe to Star in Gold Coast Sci-Fi Thriller Bluefly",
     "description": "Russell Crowe and Priyanka Chopra Jonas will lead the sci-fi thriller Bluefly, directed by Nimród Antal and due to shoot on the Gold Coast.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 14:00",
@@ -2613,7 +2733,7 @@
     "path": "articles/2026-10-24-04-00-cate-blanchett.md",
     "title": "Cate Blanchett eyed for Todd Haynes' The Maids",
     "description": "Todd Haynes says his next film adapts Jean Genet's The Maids with Cate Blanchett likely to star, as her Displacement Film Fund releases five shorts.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 04:00",
@@ -2628,7 +2748,7 @@
     "path": "articles/2026-10-24-04-00-delta-goodrem.md",
     "title": "Delta Goodrem wants a Eurovision week on Strictly",
     "description": "Delta Goodrem backs a Eurovision-themed week on Strictly Come Dancing, returns from a rib injury this weekend and plans a London Palladium show.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 04:00",
@@ -2658,7 +2778,7 @@
     "path": "articles/2026-10-24-04-00-jacob-elordi.md",
     "title": "Jacob Elordi and Kendall Jenner: Engagement Talk Is Unconfirmed",
     "description": "An unnamed source says Kylie Jenner is frustrated by talk of a Jacob Elordi and Kendall Jenner engagement. Neither couple has announced anything.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 04:00",
@@ -2688,7 +2808,7 @@
     "path": "articles/2026-10-24-04-00-margot-robbie.md",
     "title": "Margot Robbie's Chanel Jacket Look Tops a Three-Way Style Test",
     "description": "Margot Robbie, Hailey Bieber and Jennie each wore the same Chanel Fall 2026 jacket. Here is how each styled it and who Yahoo Creators picked.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 04:00",
@@ -2718,7 +2838,7 @@
     "path": "articles/2026-10-24-04-00-nicole-kidman.md",
     "title": "Adéla performs Nicole Kidman song on Fallon, and the star laughs",
     "description": "Slovak pop star Adéla made her US late night debut on Fallon with her Nicole Kidman track, days after the actor was seen laughing at it in Los Angeles.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 04:00",
@@ -2733,7 +2853,7 @@
     "path": "articles/2026-10-24-04-00-rebel-wilson.md",
     "title": "Rebel Wilson wins $359,000 as The Deb producers get $10",
     "description": "A NSW court awarded Rebel Wilson's company $359,000 in unpaid fees and gave AI Film's subsidiary $10 in damages in the dispute over The Deb.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 04:00",
@@ -2748,7 +2868,7 @@
     "path": "articles/2026-10-24-04-00-russell-crowe.md",
     "title": "Russell Crowe's Gladiator Lands on Netflix This Weekend",
     "description": "Russell Crowe's Oscar-winning Gladiator is among the October 2026 Netflix arrivals, alongside the 2024 sequel, according to Tom's Guide.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-24 04:00",
@@ -2763,7 +2883,7 @@
     "path": "articles/2026-10-23-23-00-jacob-elordi.md",
     "title": "Jacob Elordi tipped as next James Bond in unconfirmed report",
     "description": "A fresh report says Jacob Elordi is expected to be named the next James Bond. Neither the actor nor Amazon MGM has confirmed it.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-23 23:00",
@@ -2778,7 +2898,7 @@
     "path": "articles/2026-10-23-23-00-rebel-wilson.md",
     "title": "Rebel Wilson's The Deb trial may move to March 2027",
     "description": "Rebel Wilson's January trial against The Deb producers could be delayed to March 2027 after her lawyer's cancer diagnosis, a court filing says.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-23 23:00",
@@ -2793,7 +2913,7 @@
     "path": "articles/2026-10-23-21-00-delta-goodrem.md",
     "title": "Delta Goodrem returns to Strictly after rib injury",
     "description": "Delta Goodrem has been cleared to dance again on Strictly Come Dancing this Saturday, 24 October, with a Rumba to a Celine Dion song.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-23 21:00",
@@ -2802,13 +2922,13 @@
     "wp_id": 951,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-23-21-00-delta-goodrem-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-23-21-00-jacob-elordi.md",
     "title": "Jacob Elordi Reportedly Not in the Final James Bond Screen Tests",
     "description": "Reports say Jacob Elordi is not among the actors screen-testing for James Bond, with Jack Lowden and Callum Turner named in the final group.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-23 21:00",
@@ -2817,13 +2937,13 @@
     "wp_id": 953,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-23-21-00-jacob-elordi-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-23-21-00-kylie-minogue.md",
     "title": "Kylie Minogue joins Bad Fairies cast as AI row grows",
     "description": "Kylie Minogue voices Clowder the Cat Witch in Bad Fairies, while music publishers say AI models have learned from her songs without payment.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-23 21:00",
@@ -2832,13 +2952,13 @@
     "wp_id": 955,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-23-21-00-kylie-minogue-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-23-21-00-miranda-kerr.md",
     "title": "Miranda Kerr and Evan Spiegel Help Erase $550m in Medical Debt",
     "description": "Miranda Kerr and Snap CEO Evan Spiegel funded the cancellation of more than US$550 million in medical debt for over 250,000 Californians.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-23 21:00",
@@ -2847,13 +2967,13 @@
     "wp_id": 957,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-23-21-00-miranda-kerr-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-23-21-00-nicole-kidman.md",
     "title": "Nicole Kidman Song Lifts Slovak Star Adéla Into Top 10",
     "description": "Adéla's viral track 'Nicole Kidman' has climbed to No. 6 on the Billboard Hot 100 after the actress praised it on The Tonight Show.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-23 21:00",
@@ -2862,13 +2982,13 @@
     "wp_id": 959,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-23-21-00-nicole-kidman-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-23-21-00-rebel-wilson.md",
     "title": "Rebel Wilson wins second court case over The Deb",
     "description": "Rebel Wilson was awarded $359,000 and her producers just $10 in the NSW Supreme Court, her second win over The Deb. Appeals and a US case remain.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-23 21:00",
@@ -2877,13 +2997,13 @@
     "wp_id": 961,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-23-21-00-rebel-wilson-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-23-21-00-russell-crowe.md",
     "title": "Russell Crowe's The Weight Climbs the Streaming Charts",
     "description": "Russell Crowe's Sundance Western The Weight is climbing the PVOD charts, while his Netflix film Unabomber has stayed in the global top 10 for a month.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-23 21:00",
@@ -2892,7 +3012,7 @@
     "wp_id": 963,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-23-21-00-russell-crowe-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-23-21-00-the-kid-laroi.md",
@@ -2913,7 +3033,7 @@
     "path": "articles/2026-10-23-21-00-troye-sivan.md",
     "title": "Troye Sivan on She's the Best and a school swim carnival",
     "description": "Troye Sivan talks about a painful school swim day, while reviewers read his fourth album She's the Best as a pop record about the morning after.",
-    "status": "sent",
+    "status": "removed",
     "wp_status": "publish",
     "wp_synced": "publish",
     "batch": "2026-10-23 21:00",
@@ -2922,7 +3042,7 @@
     "wp_id": 965,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-23-21-00-troye-sivan-768x461.webp"
+    "image": ""
   },
   {
     "path": "articles/2026-10-23-19-00-nicole-kidman.md",
