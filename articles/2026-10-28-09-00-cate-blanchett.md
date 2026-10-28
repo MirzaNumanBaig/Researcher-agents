@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett receives Praemium Imperiale in Tokyo"
 description: "Cate Blanchett is honoured with the 2026 Praemium Imperiale for Theatre/Film at a Tokyo ceremony on 28 October, alongside four other laureates."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-28 09:00"
 celebrity: "Cate Blanchett"
@@ -18,7 +18,7 @@ wp_synced: pending
 image: "images/2026-10-28-09-00-cate-blanchett.webp"
 image_alt: "AI-generated illustration for: Cate Blanchett receives Praemium Imperiale in Tokyo"
 wp_media_id: 1092
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-cate-blanchett-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

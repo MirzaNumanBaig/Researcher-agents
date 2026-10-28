@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth wraps Thailand shoot for Extraction 3"
 description: "Chris Hemsworth says he has finished his weeks in Thailand filming Extraction 3, sharing photos of weekend adventures. Here is what is known about the sequel."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-28 17:00"
 celebrity: "Chris Hemsworth"
@@ -12,6 +12,13 @@ sources:
   - "https://www.hungamaexpress.com/news/55144-chris-hemsworth-gives-fresh-update-about-extraction-3"
   - "https://www.khaosodenglish.com/featured/2026/10/28/chris-hemsworth-wraps-up-weeks-of-filming-in-thailand-for-extraction-3/"
   - "https://www.aol.com/articles/chris-hemsworth-shares-photos-extraction-045352000.html"
+image_alt: "Illustration of a woman in film set, lit by daytime, sunlight."
+image: "images/2026-10-28-17-00-chris-hemsworth.webp"
+wp_media_id: 1244
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-17-00-chris-hemsworth-768x432.webp"
+wp_id: 1245
+wp_link: "https://moduscarry.com/chris-hemsworth-wraps-thailand-shoot-for-extraction-3/"
+wp_synced: publish
 ---
 
 **Quick summary**

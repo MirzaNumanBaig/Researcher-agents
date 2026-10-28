@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams' Yaga Lands on Lionsgate Play on 6 November"
 description: "Lionsgate Play has set 6 November for Yaga, with Hudson Williams as a missing heir, and 27 November for Connor Storrie's film April X."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-28 00:00"
 celebrity: "Hudson Williams"
@@ -16,7 +16,7 @@ wp_synced: pending
 image: "images/2026-10-28-00-00-hudson-williams.webp"
 image_alt: "AI-generated illustration for: Hudson Williams' Yaga Lands on Lionsgate Play on 6 November"
 wp_media_id: 1066
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-hudson-williams-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

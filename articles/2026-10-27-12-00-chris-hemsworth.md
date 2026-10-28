@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth hosts Muay Thai star Rodtang on Extraction 3 set"
 description: "Chris Hemsworth welcomed Rodtang Jitmuangnon to the Extraction 3 set in Thailand, and trained with British striker Ben Woolliss."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-27 12:00"
 celebrity: "Chris Hemsworth"
@@ -16,7 +16,7 @@ wp_synced: pending
 image: "images/2026-10-27-12-00-chris-hemsworth.webp"
 image_alt: "AI-generated illustration for: Chris Hemsworth hosts Muay Thai star Rodtang on Extraction 3 set"
 wp_media_id: 1142
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-chris-hemsworth-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

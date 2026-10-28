@@ -1,7 +1,7 @@
 ---
 title: "Connor Storrie's sci-fi thriller April X sets 27 November date"
 description: "Connor Storrie leads sci-fi thriller April X on Lionsgate Play from 27 November, after Heated Rivalry. Here is the cast, plot and what to know."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-28 00:00"
 celebrity: "Connor Storrie"
@@ -16,7 +16,7 @@ wp_synced: pending
 image: "images/2026-10-28-00-00-connor-storrie.webp"
 image_alt: "AI-generated illustration for: Connor Storrie's sci-fi thriller April X sets 27 November date"
 wp_media_id: 1106
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-connor-storrie-1-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

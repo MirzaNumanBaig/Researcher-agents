@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth on the 2015 shoot he called brutal"
 description: "Chris Hemsworth says making In the Heart of the Sea was exhausting and 'not fun', and he won't repeat the weight loss it demanded."
-status: sent
+status: removed
 wp_status: publish
 batch: "2026-10-26 17:00"
 celebrity: "Chris Hemsworth"
@@ -16,7 +16,7 @@ wp_synced: publish
 image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
 image: "images/2026-10-26-17-00-chris-hemsworth.webp"
 wp_media_id: 1165
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-26-17-00-chris-hemsworth-768x432.webp"
+wp_image: ""
 ---
 
 **Quick summary**

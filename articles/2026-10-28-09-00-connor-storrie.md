@@ -1,7 +1,7 @@
 ---
 title: "Connor Storrie in Talks for Ryan Gosling's Ghost Rider"
 description: "Heated Rivalry star Connor Storrie is reportedly in talks to play a villain opposite Ryan Gosling in Marvel's Ghost Rider, due in July 2028."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-28 09:00"
 celebrity: "Connor Storrie"
@@ -20,7 +20,7 @@ wp_synced: pending
 image: "images/2026-10-28-09-00-connor-storrie.webp"
 image_alt: "AI-generated illustration for: Connor Storrie in Talks for Ryan Gosling's Ghost Rider"
 wp_media_id: 1094
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-connor-storrie-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

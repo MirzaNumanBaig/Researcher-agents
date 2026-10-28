@@ -1,7 +1,7 @@
 ---
 title: "Renate Reinsve reportedly met Marvel about X-Men role"
 description: "Renate Reinsve has reportedly met Marvel Studios about playing Moira MacTaggert in the X-Men reboot. Nothing is confirmed, and she has doubted Marvel roles."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-27 02:00"
 celebrity: "Renate Reinsve"
@@ -18,7 +18,7 @@ wp_synced: pending
 image: "images/2026-10-27-02-00-renate-reinsve.webp"
 image_alt: "AI-generated illustration for: Renate Reinsve reportedly met Marvel about X-Men role"
 wp_media_id: 1112
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-renate-reinsve-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

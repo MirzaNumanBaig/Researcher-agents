@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams' New Show Yaga: Noah Reid Steals Early Praise"
 description: "Hudson Williams stars in the new mystery series Yaga, but early reviews single out co-star Noah Reid. Here is what we know and when episode three arrives."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-27 12:00"
 celebrity: "Hudson Williams"
@@ -16,7 +16,7 @@ wp_synced: pending
 image: "images/2026-10-27-12-00-hudson-williams.webp"
 image_alt: "AI-generated illustration for: Hudson Williams' New Show Yaga: Noah Reid Steals Early Praise"
 wp_media_id: 1146
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-12-00-hudson-williams-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

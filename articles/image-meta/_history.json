@@ -1,16 +1,5 @@
 [
  {
-  "article": "2026-10-28-13-00-russell-crowe",
-  "shot": "wide shot",
-  "angle": "slightly low angle",
-  "lens": "85mm",
-  "palette": "dark grey, neon blue and silver",
-  "prompt": "A wide shot of a film set, the camera positioned slightly low, giving the scene a sense of intimacy and proximity, is framed by an 85mm lens, capturing the subject in a dynamic and expressive manner. A man in his mid 20s with tousled sandy-blond hair and fair skin, dressed in a cream fisherman knit, sits on the edge of a director's chair, his facial expression relaxed, with slightly raised eyebrows, wide and attentive eyes, and lips just parted, as if in mid-sentence. His gaze is up and off-frame right, as if lost in thought, and his head is tilted slightly up, giving him a slightly introspective air. His posture is leaning forward, elbows on knees, and his hands are holding a paper cup, his fingers wrapped casually around it. On the opposite side of the frame, Denzel Washington stands, dressed in a tailored suit, his expression calm and collected, as if observing the scene unfold before him. The soft haze and bokeh of the background blur, adding depth and texture to the scene. No text, no logos, no watermark.",
-  "cast": [
-   "cast-04"
-  ]
- },
- {
   "article": "2026-10-28-13-00-michael-j-fox",
   "shot": "wide establishing shot",
   "angle": "side-on view",
@@ -198,5 +187,16 @@
   "palette": "gritty grey, cold blue and drab brown",
   "prompt": "A medium-wide shot from a slightly low angle, capturing an empty film set, captures a worn wooden dock jutting out into the cold, grey water, its weathered planks reflecting the drab brown hues of the surrounding studio lights. The camera's eye is level with the dock's surface, a 35mm lens framing the worn wood's grainy texture. Soft, grey studio lights cast a subtle glow across the water's surface, creating a sense of stillness. A CGI whale ship's skeletal remains lie half-submerged in the cold water, its hull cracked and weathered. In the background, a drab brown wall blends into the grey studio lights, creating a sense of depth. No text, no logos, no watermark.",
   "cast": []
+ },
+ {
+  "article": "2026-10-28-17-00-chris-hemsworth",
+  "shot": "medium-wide shot",
+  "angle": "eye-level",
+  "lens": "85mm",
+  "palette": "blue, green and yellow",
+  "prompt": "A medium-wide shot from an eye-level perspective, taken with an 85mm lens, captures the film set's open layout as it stretches to the right, with the anonymous woman standing slightly left of center, leaning forward with her elbows on her knees, a look of relieved contemplation etched on her face. Her wavy chestnut hair falls around her shoulders, and her light olive skin has a natural texture with visible pores and small imperfections. Her slightly raised eyebrows and wide, attentive eyes gaze up and off-frame to the right, her lips just parted as she exhales softly. Her relaxed jawline and gentle head tilt create a sense of calmness. She wears a simple black satin dress that falls to her knees, her hands holding a paper cup with a relaxed grip. A camera and script lie on a nearby table, while Thai landmarks are visible in the soft haze and bokeh of the background, bathed in the warm, gentle light of the daytime sunlight streaming in from the side. The air is filled with a sense of accomplishment and closure, the colour palette a soothing blend of blue, green, and yellow. No text, no logos, no watermark.",
+  "cast": [
+   "cast-01"
+  ]
  }
 ]

@@ -1,7 +1,7 @@
 ---
 title: "Rachel McAdams Returns for The Families Stone Sequel"
 description: "Searchlight has announced The Families Stone, a sequel to the 2005 holiday film, with Rachel McAdams and most of the original cast set to return."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-27 08:00"
 celebrity: "Rachel McAdams"
@@ -16,7 +16,7 @@ wp_synced: pending
 image: "images/2026-10-27-08-00-rachel-mcadams.webp"
 image_alt: "AI-generated illustration for: Rachel McAdams Returns for The Families Stone Sequel"
 wp_media_id: 1134
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-rachel-mcadams-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

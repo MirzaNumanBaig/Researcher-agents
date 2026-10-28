@@ -1,7 +1,7 @@
 ---
 title: "Liam Hemsworth and his brothers: careers and family"
 description: "A guide to Liam, Chris and Luke Hemsworth: their careers, the Thor audition mix-up, and Liam's September 2025 engagement to Gabriella Brooks."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-28 00:00"
 celebrity: "Liam Hemsworth"
@@ -16,7 +16,7 @@ wp_synced: pending
 image: "images/2026-10-28-00-00-liam-hemsworth.webp"
 image_alt: "AI-generated illustration for: Liam Hemsworth and his brothers: careers and family"
 wp_media_id: 1070
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-liam-hemsworth-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

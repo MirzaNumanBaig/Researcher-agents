@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett's Aviator Oscar and the Babel scene that shook her"
 description: "Parker Posey says she knew Cate Blanchett would land The Aviator role, while Blanchett recalls a brutal first day on Babel."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-28 06:00"
 celebrity: "Cate Blanchett"
@@ -17,7 +17,7 @@ wp_synced: pending
 image: "images/2026-10-28-06-00-cate-blanchett.webp"
 image_alt: "AI-generated illustration for: Cate Blanchett's Aviator Oscar and the Babel scene that shook her"
 wp_media_id: 1082
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-06-00-cate-blanchett-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

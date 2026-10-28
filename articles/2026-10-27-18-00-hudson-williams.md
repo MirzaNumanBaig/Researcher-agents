@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams Stars in AMC+ Folk Horror Series Yaga"
 description: "Hudson Williams plays a missing heir in Yaga, an eight-episode AMC+ folk horror mystery that began on 23 October, according to Comic Book Resources."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-27 18:00"
 celebrity: "Hudson Williams"
@@ -16,7 +16,7 @@ wp_synced: pending
 image: "images/2026-10-27-18-00-hudson-williams.webp"
 image_alt: "AI-generated illustration for: Hudson Williams Stars in AMC+ Folk Horror Series Yaga"
 wp_media_id: 1154
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-18-00-hudson-williams-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

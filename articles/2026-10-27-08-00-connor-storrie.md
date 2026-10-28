@@ -1,7 +1,7 @@
 ---
 title: "Owen Thiele Praises Connor Storrie's Work Ethic on Peaked"
 description: "Owen Thiele told Variety that Connor Storrie 'cares so deeply' on the set of A24 comedy Peaked, which has no release date yet."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-27 08:00"
 celebrity: "Connor Storrie"
@@ -16,7 +16,7 @@ wp_synced: pending
 image: "images/2026-10-27-08-00-connor-storrie.webp"
 image_alt: "AI-generated illustration for: Owen Thiele Praises Connor Storrie's Work Ethic on Peaked"
 wp_media_id: 1124
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-connor-storrie-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

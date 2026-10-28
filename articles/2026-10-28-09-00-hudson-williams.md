@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams' Breakout Year: From Waiter to Met Gala"
 description: "Hudson Williams went from Heated Rivalry newcomer to Met Gala guest and Canadian Screen Awards winner in 2026. Here is the year in dates, and what's next."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-28 09:00"
 celebrity: "Hudson Williams"
@@ -17,7 +17,7 @@ wp_synced: pending
 image: "images/2026-10-28-09-00-hudson-williams.webp"
 image_alt: "AI-generated illustration for: Hudson Williams' Breakout Year: From Waiter to Met Gala"
 wp_media_id: 1098
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-09-00-hudson-williams-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams Is Writing a Film and Dodging Hockey"
 description: "Hudson Williams says his script has an ex-hockey player, and the Heated Rivalry echo is giving his team pause. Here is what we know about his slate."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-27 02:00"
 celebrity: "Hudson Williams"
@@ -19,7 +19,7 @@ wp_synced: pending
 image_alt: "Illustration of film set with film script and a person equipment, lit by daytime, studio lights."
 image: "images/2026-10-27-02-00-hudson-williams.webp"
 wp_media_id: 1183
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-hudson-williams-768x432.webp"
+wp_image: ""
 ---
 
 **Quick summary**

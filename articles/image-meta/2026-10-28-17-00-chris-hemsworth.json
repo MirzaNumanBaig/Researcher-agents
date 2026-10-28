@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-10-28T06:25:58.278935+00:00",
+  "article": "2026-10-28-17-00-chris-hemsworth",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure wraps Thailand shoot for an anonymous figure",
+    "emotion": "relieved",
+    "setting": "film set",
+    "key_objects": [
+      "camera",
+      "script",
+      "Thai landmarks"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "camera",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "camera",
+      "script",
+      "Thai landmarks"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "mood": "relieved",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-01"
+  ],
+  "prompt": "A medium-wide shot from an eye-level perspective, taken with an 85mm lens, captures the film set's open layout as it stretches to the right, with the anonymous woman standing slightly left of center, leaning forward with her elbows on her knees, a look of relieved contemplation etched on her face. Her wavy chestnut hair falls around her shoulders, and her light olive skin has a natural texture with visible pores and small imperfections. Her slightly raised eyebrows and wide, attentive eyes gaze up and off-frame to the right, her lips just parted as she exhales softly. Her relaxed jawline and gentle head tilt create a sense of calmness. She wears a simple black satin dress that falls to her knees, her hands holding a paper cup with a relaxed grip. A camera and script lie on a nearby table, while Thai landmarks are visible in the soft haze and bokeh of the background, bathed in the warm, gentle light of the daytime sunlight streaming in from the side. The air is filled with a sense of accomplishment and closure, the colour palette a soothing blend of blue, green, and yellow. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2621383804,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 91.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2621383804,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 title: "Renate Reinsve Reportedly Meets Marvel for X-Men Role"
 description: "Renate Reinsve has reportedly met Marvel about playing Moira MacTaggert in the X-Men reboot, set for May 2028. Nothing is confirmed."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-28 00:00"
 celebrity: "Renate Reinsve"
@@ -16,7 +16,7 @@ wp_synced: pending
 image: "images/2026-10-28-00-00-renate-reinsve.webp"
 image_alt: "AI-generated illustration for: Renate Reinsve Reportedly Meets Marvel for X-Men Role"
 wp_media_id: 1076
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-00-00-renate-reinsve-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**

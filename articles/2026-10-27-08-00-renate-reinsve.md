@@ -1,7 +1,7 @@
 ---
 title: "Renate Reinsve and Sebastian Stan Lead Mungiu's Fjord"
 description: "Renate Reinsve and Sebastian Stan star in Cristian Mungiu's Fjord, a drama about a Romanian-Norwegian family caught in a child protection case."
-status: sent
+status: removed
 wp_status: pending
 batch: "2026-10-27 08:00"
 celebrity: "Renate Reinsve"
@@ -17,7 +17,7 @@ wp_synced: pending
 image: "images/2026-10-27-08-00-renate-reinsve.webp"
 image_alt: "AI-generated illustration for: Renate Reinsve and Sebastian Stan Lead Mungiu's Fjord"
 wp_media_id: 1138
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-08-00-renate-reinsve-768x461.webp"
+wp_image: ""
 ---
 
 **Quick summary**
