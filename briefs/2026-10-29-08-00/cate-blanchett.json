@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-29 08:00",
+  "celebrity": "Cate Blanchett",
+  "stories": [
+    {
+      "title": "Cate Blanchett Meets Japanese Royalty In a Slightly Twisted Power Suit",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTJwSExZZ3hVNzdHWkJrRG80TExQbHZTTE45bFdCRXcxdmtzS082Zkt3NG9xNm9RUkhveEZZeWVydHlka0JOMjhNal8xYWhRSEpLdUpyMFRJTXFOaEp2dHhORGtocGhURmxqVHVfekRrVlJzVXljV2ZJNi1hUXNTanF6R0Y2NWhna0N5Uk9qMA?oc=5",
+      "published": "2026-10-28T19:34:48+00:00",
+      "outlets": [
+        {
+          "source": "W Magazine",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTJwSExZZ3hVNzdHWkJrRG80TExQbHZTTE45bFdCRXcxdmtzS082Zkt3NG9xNm9RUkhveEZZeWVydHlka0JOMjhNal8xYWhRSEpLdUpyMFRJTXFOaEp2dHhORGtocGhURmxqVHVfekRrVlJzVXljV2ZJNi1hUXNTanF6R0Y2NWhna0N5Uk9qMA?oc=5",
+          "article_url": "https://www.wmagazine.com/fashion/cate-blanchett-praemium-imperiale-japan-royalty-suit",
+          "image": "https://imgix.bustle.com/uploads/image/2026/10/28/75a1383a/tokyo-japan-october-28.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.454&fp-y=0.2312"
+        }
+      ],
+      "image": "https://imgix.bustle.com/uploads/image/2026/10/28/75a1383a/tokyo-japan-october-28.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.454&fp-y=0.2312",
+      "image_source": "https://www.wmagazine.com/fashion/cate-blanchett-praemium-imperiale-japan-royalty-suit"
+    },
+    {
+      "title": "Champs-Élysées Banks on Cate Blanchett and Holiday Attractions to Draw Crowds Back After Protests",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hTjZGMnVOWXg5bzZLVUdhTVp3WHF5d210Qy1HXzJydV91SkM0Q0NjMk1OX3pteG9pc3RGLVBGRnNGeXhCR2lkTllhdGNwblI5T0N5ajE5aTJuTkRVRUw5VlJmTlExZXNYSzNpdzFCX08xdTFmTXlTMExRSG1Tdw?oc=5",
+      "published": "2026-10-28T19:14:32+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hTjZGMnVOWXg5bzZLVUdhTVp3WHF5d210Qy1HXzJydV91SkM0Q0NjMk1OX3pteG9pc3RGLVBGRnNGeXhCR2lkTllhdGNwblI5T0N5ajE5aTJuTkRVRUw5VlJmTlExZXNYSzNpdzFCX08xdTFmTXlTMExRSG1Tdw?oc=5",
+          "article_url": "https://sg.finance.yahoo.com/news/champs-lys-es-banks-cate-191432505.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/288f2c0f698071a64ec53192f213a55ad86f214a105c8e96e91fc9d3e5e4755b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F5d75095ee2be0ed17b96e1ffbb2ced34.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/288f2c0f698071a64ec53192f213a55ad86f214a105c8e96e91fc9d3e5e4755b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F5d75095ee2be0ed17b96e1ffbb2ced34.jpg",
+      "image_source": "https://sg.finance.yahoo.com/news/champs-lys-es-banks-cate-191432505.html"
+    }
+  ]
+}

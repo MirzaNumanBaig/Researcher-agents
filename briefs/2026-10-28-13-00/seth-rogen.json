@@ -27,10 +27,16 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPejJOQWh5T2NmeXEtRThfNThXQVRlMmFtUlBMTjY0aGxCc1FCeGtOZEVCZ1VqVWxmZDNqY0FGNmpoUi1KX0VmcmJ4U0ZFejlUX29FMVJXQUpTWEdNa1EyMURRMTRZbWR5Y3FVZlpHcFBPVldsbHBiNVhxWHB6M3JWNy1EeDVCVzNQSFMtSU9JT1ZUVmg1T0FJYw?oc=5",
           "article_url": "",
           "image": ""
+        },
+        {
+          "source": "AOL.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1JoYS1oZENUNWgzcWlYS3JnN1pWM0ZMb0FuNzlJRTItaUxVbjIzVGg5enFWTnh5eTN0alE0d05ING1JaFBzeTJfS09LZklnR3U2MkEtRzlxT3JYQW5LY1o5dmxYSlBHM2oyVnFoVU96NXk2VEdaTU1SSVpfV3E0ME5KQnhCa3hHMUhj?oc=5",
+          "article_url": "https://www.aol.co.uk/articles/seth-rogen-questioned-jake-gyllenhaal-004948000.html",
+          "image": "https://hermes.media.static.aol.com/media/2026/10/28/179a7be9-035a-395f-917d-2fe089c5c831/a6bbaf0b-3ca4-4b65-90e0-7c1cae805cff.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://hermes.media.static.aol.com/media/2026/10/28/179a7be9-035a-395f-917d-2fe089c5c831/a6bbaf0b-3ca4-4b65-90e0-7c1cae805cff.jpg",
+      "image_source": "https://www.aol.co.uk/articles/seth-rogen-questioned-jake-gyllenhaal-004948000.html"
     },
     {
       "title": "Seth Rogen's New Psychological Relationship Thriller Officially Takes Over HBO Max",
@@ -120,6 +126,45 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmQ2RXlfOU1BNjlRdG8zSUtwTmN6MHVIMVNXcFJqOHFyU1VlR1hkeVN1Wm00cjBzR25JWkdEZktXbkZUbFowUzZObXJEeUROVWpqZzZoUkNWcnhkUXBKYWRyZ21LeGh1LVAySld5al9UaXJHWnZwaTkzMnV6dVZEcHc4LVVTc1dxZ1FTUzIxQ0xIdUhPVXFoNmVCOA?oc=5",
           "article_url": "https://www.thewrap.com/creative-content/movies/seth-rogen-donnie-darko-jake-gyllenhaal-doubts/",
           "image": "https://www.thewrap.com/wp-content/uploads/2026/10/Untitled-design-2026-10-27T190736.581.jpg"
+        }
+      ],
+      "image": "https://static.the-independent.com/2026/10/28/13/34/MixCollage-28-Oct-2026-09-35-AM-4110.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800",
+      "image_source": "https://www.the-independent.com/arts-entertainment/films/news/seth-rogen-jake-gyllenhaal-donnie-darko-b3074952.html"
+    },
+    {
+      "title": "Seth Rogen recalls initial reaction to Jake Gyllenhaal’s performance on ‘Donnie Darko’ set: ‘He put a level of thought into this’",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tbGhHMXhCSHJFZ1Y1clNGVXB2TE9EVGpOX3lJc1JOUnl5ejhqcFU3NkpPM2dzOXZGZzZxaTBfRXBhOEJ3dHAtSGhJRXc1NjFuUGVR?oc=5",
+      "published": "2026-10-28T19:37:00+00:00",
+      "outlets": [
+        {
+          "source": "شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tbGhHMXhCSHJFZ1Y1clNGVXB2TE9EVGpOX3lJc1JOUnl5ejhqcFU3NkpPM2dzOXZGZzZxaTBfRXBhOEJ3dHAtSGhJRXc1NjFuUGVR?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjRJZEx5eE9OSS0xNnF1cXFSZlhOTzJoNlRjdDljSWwxNTJHb1Q2S3NrWHo0ZW1hQW5sX3NmdVpGY3ljdkVIYzN0OFNEU2poQ0Vwa0xjUzFfdFNKS3hZd1VxT1NSQ3JLclVVcmFBRHlnT05nbEdZdG91RzZKMUZGbUpEREpqNHRWdkhvdGdNUGp0dUhyQkpad0ZkZVJsc1pvUmhLREdRTFJDdGdFMV9SZDhYbw?oc=5",
+          "article_url": "https://www.the-independent.com/arts-entertainment/films/news/seth-rogen-jake-gyllenhaal-donnie-darko-b3074952.html",
+          "image": "https://static.the-independent.com/2026/10/28/13/34/MixCollage-28-Oct-2026-09-35-AM-4110.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800"
+        },
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SdEQxZGtKNFU2VV83TnRsYU9zR2t4cUJWQ004NmVxYkRINWFraWp3M1FjXzZwdEhGT2djZ2hNeTU2U1lXSkI2TVY2a3hNOGliaURKLWtNV2pkdEc2MnFIeHJSX1p3dDg?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66083509/?ref_=nmnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "TheWrap",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmQ2RXlfOU1BNjlRdG8zSUtwTmN6MHVIMVNXcFJqOHFyU1VlR1hkeVN1Wm00cjBzR25JWkdEZktXbkZUbFowUzZObXJEeUROVWpqZzZoUkNWcnhkUXBKYWRyZ21LeGh1LVAySld5al9UaXJHWnZwaTkzMnV6dVZEcHc4LVVTc1dxZ1FTUzIxQ0xIdUhPVXFoNmVCOA?oc=5",
+          "article_url": "https://www.thewrap.com/creative-content/movies/seth-rogen-donnie-darko-jake-gyllenhaal-doubts/",
+          "image": "https://www.thewrap.com/wp-content/uploads/2026/10/Untitled-design-2026-10-27T190736.581.jpg"
+        },
+        {
+          "source": "Yahoo News UK",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6cnkxaTJjRFpXSENNR3dVM0R4eWo1RVJ3SHhnV3plTjNMb3R0UnNkWVZ1WnpVYk10ZURUN2hkeUFBS1dGNm9DYTMyVmZ4TEZKRWd6NFV1aW92TUhzQmNVS2NnN0JkT3dOQ2VZbFVFMjVIQkRSZGxTVmZRMk4xZw?oc=5",
+          "article_url": "https://uk.news.yahoo.com/seth-rogen-recalls-doubting-jake-021447137.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/3eadffd80ec3534ce425e63a3b2d39d9441901c49f0f346f6a86d98f058f1ad2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F04f587f4565483121efbae97dc186acc.jpg"
         }
       ],
       "image": "https://static.the-independent.com/2026/10/28/13/34/MixCollage-28-Oct-2026-09-35-AM-4110.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800",

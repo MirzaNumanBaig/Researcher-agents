@@ -1,0 +1,27 @@
+{
+  "batch": "2026-10-29 08:00",
+  "celebrity": "Seth Rogen",
+  "stories": [
+    {
+      "title": "‘The Invite’ stars Olivia Wilde, Seth Rogen, Penélope Cruz and Edward Norton set for Vanguard Award at Palm Springs Film Awards",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tMGZUaWZ6TjlQbkJMamNyRkF5amp3YUtPWDRwNVZrNFR6enh3dHgxd1FnOG5KcUxiSGFCZ1BEOGVNTWdZX1lSOEc4eTctajNNbkdVZFZUZmJxSWVvVEdTWkZsUFE?oc=5",
+      "published": "2026-10-28T18:18:20+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tMGZUaWZ6TjlQbkJMamNyRkF5amp3YUtPWDRwNVZrNFR6enh3dHgxd1FnOG5KcUxiSGFCZ1BEOGVNTWdZX1lSOEc4eTctajNNbkdVZFZUZmJxSWVvVEdTWkZsUFE?oc=5",
+          "article_url": "https://www.imdb.com/it/news/ni66084244/?ref_=tt_nwr_2",
+          "image": ""
+        },
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZl9SMXZBV2hGMHNpRU0zOTM3OUp2NC1QaTkwUGxkUVpic01uM19pczJlVGoxSV80eGVaTThoNlZyRExyT1ZBb3hZLXdFdTlMY3dlSTZhNUJ6eTd2cXhqT1ViY3NFa3BJM2xHYTBpQlVpT3FGTVVvLXBEREJ5UjRKbkxCdTE2T25aMEVzbzBZYzg5dnI2N3IweXNzLUloUQ?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/movies/articles/invite-stars-olivia-wilde-seth-170000938.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/7e1cbc7801a44ce395c1520f457a7c7a4e37eff0a2834ddadc7a15fb0676cc26/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgold_derby_993%2F9612da96892a298f2aed841aa0ea6e2f.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/7e1cbc7801a44ce395c1520f457a7c7a4e37eff0a2834ddadc7a15fb0676cc26/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgold_derby_993%2F9612da96892a298f2aed841aa0ea6e2f.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/movies/articles/invite-stars-olivia-wilde-seth-170000938.html"
+    }
+  ]
+}

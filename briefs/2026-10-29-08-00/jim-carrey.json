@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-29 08:00",
+  "celebrity": "Jim Carrey",
+  "stories": [
+    {
+      "title": "In 1983, Jim Carrey was living with his parents and struggling. Somehow, he was also dating Linda Ronstadt and his life changed",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1pMQ3duS0pxNEhkNU9OVVdWcGUxX3U4WHhIUHY5SU80dU9JMGFsX05MdmM5dnpJalhpZnQ0NGh6bXNlOUFGVW5RLUFrczNwaXd3SllWV2VxalZtT1l2ZWt3am04RzJxbGJ3cWhXVEVlSkppeXdPdlhsMUJLRU9uWDlnVjNXMUE?oc=5",
+      "published": "2026-10-28T18:45:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1pMQ3duS0pxNEhkNU9OVVdWcGUxX3U4WHhIUHY5SU80dU9JMGFsX05MdmM5dnpJalhpZnQ0NGh6bXNlOUFGVW5RLUFrczNwaXd3SllWV2VxalZtT1l2ZWt3am04RzJxbGJ3cWhXVEVlSkppeXdPdlhsMUJLRU9uWDlnVjNXMUE?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/1983-jim-carrey-living-with-parents-linda-ronstadt/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/10/Linda-Ronstadt-Jim-Carrey-Split-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/10/Linda-Ronstadt-Jim-Carrey-Split-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/1983-jim-carrey-living-with-parents-linda-ronstadt/"
+    }
+  ]
+}

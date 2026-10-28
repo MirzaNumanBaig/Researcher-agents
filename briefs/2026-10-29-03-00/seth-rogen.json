@@ -27,10 +27,16 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXJqSXpIN0RXQkR0a3dFUXlPSkNEdk9PRV9HQmtMMkxwZmhOMlVoUWRlMmlEdjlFTk83WWFRT3hybUdnQUQ0NmpjMzNyRFlWRFQ1MG9Qci1VbnYyblZTSDFTMmV6VTZrMmdGVUF4SGstNkJZVWJKRGpjZkdMZV9hWjEwZkI5VWppakNZR0VXbHBiaVBYbUdYMUZUOXpkVzJ0OEt4c3JPYlNaa0k?oc=5",
           "article_url": "",
           "image": ""
+        },
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUtvZWREVnZqc1MwbVZqWUVUdnN5X3g2NkdDX3JYNlVSdmhMbDRkMTNqSXU5ZTdhU0JvaWZnOTVvVkZ2NWI3Y3g0dXhSOGlwTXVLNmlQcWFsc1NpTGkxaUhkTi1aVlp6T0lQa1pQUW9RMkVoV0RGNHpMejJqVUhLVXRNMnlKUmNEN1RGUXpaRmpFYm55SjA5Nk1kSHdJc3NwcDA3OQ?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/sephora-casts-seth-rogen-holiday-115400955.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/5173bb112e74b0f05cad668aab8362feb963f089e8139681a9c068ad34cdedc5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketing_dive_116%2Fed4745f2a0d0446478665c48750917ed.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://s.yimg.com/lo/mysterio/api/5173bb112e74b0f05cad668aab8362feb963f089e8139681a9c068ad34cdedc5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketing_dive_116%2Fed4745f2a0d0446478665c48750917ed.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/sephora-casts-seth-rogen-holiday-115400955.html"
     },
     {
       "title": "Pedro Pascal, Seth Rogen, and Mark Ruffalo Have a Blast at AFI Fest 2026",
