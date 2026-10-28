@@ -18,6 +18,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-08-00-hu
 wp_id: 1276
 wp_link: "https://moduscarry.com/hudson-williams-is-writing-a-film-with-an-ex-hockey-player/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
