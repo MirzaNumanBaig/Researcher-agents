@@ -9,7 +9,7 @@
     {
       "id": 31,
       "name": "Celebrities",
-      "count": 1,
+      "count": 2,
       "link": "https://moduscarry.com/category/celebrities/"
     },
     {
@@ -57,22 +57,16 @@
   ],
   "tags": [
     {
-      "id": 260,
-      "name": "Idris Elba",
+      "id": 70,
+      "name": "Netflix",
       "count": 1,
-      "link": "https://moduscarry.com/tag/idris-elba/"
+      "link": "https://moduscarry.com/tag/netflix/"
     },
     {
-      "id": 43,
-      "name": "Chris Hemsworth",
+      "id": 53,
+      "name": "Nicole Kidman",
       "count": 1,
-      "link": "https://moduscarry.com/tag/chris-hemsworth/"
-    },
-    {
-      "id": 46,
-      "name": "Extraction 3",
-      "count": 1,
-      "link": "https://moduscarry.com/tag/extraction-3/"
+      "link": "https://moduscarry.com/tag/nicole-kidman/"
     },
     {
       "id": 196,
@@ -81,10 +75,46 @@
       "link": "https://moduscarry.com/tag/marvel-studios/"
     },
     {
-      "id": 70,
-      "name": "Netflix",
+      "id": 150,
+      "name": "Vogue Australia",
       "count": 1,
-      "link": "https://moduscarry.com/tag/netflix/"
+      "link": "https://moduscarry.com/tag/vogue-australia/"
+    },
+    {
+      "id": 130,
+      "name": "Troye Sivan",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/troye-sivan/"
+    },
+    {
+      "id": 262,
+      "name": "Shailene Woodley",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/shailene-woodley/"
+    },
+    {
+      "id": 46,
+      "name": "Extraction 3",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/extraction-3/"
+    },
+    {
+      "id": 260,
+      "name": "Idris Elba",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/idris-elba/"
+    },
+    {
+      "id": 261,
+      "name": "Big Little Lies",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/big-little-lies/"
+    },
+    {
+      "id": 43,
+      "name": "Chris Hemsworth",
+      "count": 1,
+      "link": "https://moduscarry.com/tag/chris-hemsworth/"
     },
     {
       "id": 191,
@@ -141,18 +171,6 @@
       "link": "https://moduscarry.com/tag/only-murders-in-the-building/"
     },
     {
-      "id": 182,
-      "name": "Martin Short",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/martin-short/"
-    },
-    {
-      "id": 181,
-      "name": "John Wick",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/john-wick/"
-    },
-    {
       "id": 192,
       "name": "Camp Sugar",
       "count": 0,
@@ -163,6 +181,12 @@
       "name": "Court case",
       "count": 0,
       "link": "https://moduscarry.com/tag/court-case/"
+    },
+    {
+      "id": 194,
+      "name": "Renate Reinsve",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/renate-reinsve/"
     },
     {
       "id": 205,
@@ -219,28 +243,46 @@
       "link": "https://moduscarry.com/tag/ryan-gosling/"
     },
     {
+      "id": 224,
+      "name": "Sebastian Stan",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/sebastian-stan/"
+    },
+    {
       "id": 195,
       "name": "X-Men",
       "count": 0,
       "link": "https://moduscarry.com/tag/x-men/"
     },
     {
-      "id": 194,
-      "name": "Renate Reinsve",
+      "id": 182,
+      "name": "Martin Short",
       "count": 0,
-      "link": "https://moduscarry.com/tag/renate-reinsve/"
+      "link": "https://moduscarry.com/tag/martin-short/"
     },
     {
-      "id": 180,
-      "name": "Maelstrom",
+      "id": 181,
+      "name": "John Wick",
       "count": 0,
-      "link": "https://moduscarry.com/tag/maelstrom/"
+      "link": "https://moduscarry.com/tag/john-wick/"
     },
     {
-      "id": 179,
-      "name": "Keanu Reeves",
+      "id": 167,
+      "name": "Catherine O'Hara",
       "count": 0,
-      "link": "https://moduscarry.com/tag/keanu-reeves/"
+      "link": "https://moduscarry.com/tag/catherine-ohara/"
+    },
+    {
+      "id": 166,
+      "name": "AI Film",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/ai-film/"
+    },
+    {
+      "id": 165,
+      "name": "Owen Cooper",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/owen-cooper/"
     },
     {
       "id": 164,
@@ -291,40 +333,28 @@
       "link": "https://moduscarry.com/tag/practical-magic-2/"
     },
     {
-      "id": 156,
-      "name": "Once Upon a Time in Hollywood",
+      "id": 168,
+      "name": "SCTV",
       "count": 0,
-      "link": "https://moduscarry.com/tag/once-upon-a-time-in-hollywood/"
+      "link": "https://moduscarry.com/tag/sctv/"
     },
     {
-      "id": 155,
-      "name": "Quentin Tarantino",
+      "id": 169,
+      "name": "Schitt's Creek",
       "count": 0,
-      "link": "https://moduscarry.com/tag/quentin-tarantino/"
+      "link": "https://moduscarry.com/tag/schitts-creek/"
     },
     {
-      "id": 154,
-      "name": "Gold Coast",
+      "id": 180,
+      "name": "Maelstrom",
       "count": 0,
-      "link": "https://moduscarry.com/tag/gold-coast/"
+      "link": "https://moduscarry.com/tag/maelstrom/"
     },
     {
-      "id": 165,
-      "name": "Owen Cooper",
+      "id": 179,
+      "name": "Keanu Reeves",
       "count": 0,
-      "link": "https://moduscarry.com/tag/owen-cooper/"
-    },
-    {
-      "id": 166,
-      "name": "AI Film",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/ai-film/"
-    },
-    {
-      "id": 167,
-      "name": "Catherine O'Hara",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/catherine-ohara/"
+      "link": "https://moduscarry.com/tag/keanu-reeves/"
     },
     {
       "id": 172,
@@ -381,28 +411,22 @@
       "link": "https://moduscarry.com/tag/connor-storrie/"
     },
     {
-      "id": 169,
-      "name": "Schitt's Creek",
+      "id": 156,
+      "name": "Once Upon a Time in Hollywood",
       "count": 0,
-      "link": "https://moduscarry.com/tag/schitts-creek/"
-    },
-    {
-      "id": 168,
-      "name": "SCTV",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/sctv/"
-    },
-    {
-      "id": 153,
-      "name": "Highland Film Group",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/highland-film-group/"
+      "link": "https://moduscarry.com/tag/once-upon-a-time-in-hollywood/"
     },
     {
       "id": 206,
       "name": "Seth Rogen",
       "count": 0,
       "link": "https://moduscarry.com/tag/seth-rogen/"
+    },
+    {
+      "id": 259,
+      "name": "Jake Gyllenhaal",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/jake-gyllenhaal/"
     },
     {
       "id": 245,
@@ -453,6 +477,12 @@
       "link": "https://moduscarry.com/tag/heath-ledger/"
     },
     {
+      "id": 208,
+      "name": "The Invite",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/the-invite/"
+    },
+    {
       "id": 237,
       "name": "Lionsgate Play",
       "count": 0,
@@ -465,12 +495,6 @@
       "link": "https://moduscarry.com/tag/mariah-carey/"
     },
     {
-      "id": 235,
-      "name": "We All Sephora",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/we-all-sephora/"
-    },
-    {
       "id": 246,
       "name": "Family Ties",
       "count": 0,
@@ -481,18 +505,6 @@
       "name": "Sentimental Value",
       "count": 0,
       "link": "https://moduscarry.com/tag/sentimental-value/"
-    },
-    {
-      "id": 248,
-      "name": "Zach Shields",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/zach-shields/"
-    },
-    {
-      "id": 259,
-      "name": "Jake Gyllenhaal",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/jake-gyllenhaal/"
     },
     {
       "id": 258,
@@ -555,16 +567,28 @@
       "link": "https://moduscarry.com/tag/lost-in-the-night/"
     },
     {
+      "id": 248,
+      "name": "Zach Shields",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/zach-shields/"
+    },
+    {
+      "id": 235,
+      "name": "We All Sephora",
+      "count": 0,
+      "link": "https://moduscarry.com/tag/we-all-sephora/"
+    },
+    {
       "id": 234,
       "name": "Noah Jupe",
       "count": 0,
       "link": "https://moduscarry.com/tag/noah-jupe/"
     },
     {
-      "id": 233,
-      "name": "Rain Spencer",
+      "id": 219,
+      "name": "Rachel McAdams",
       "count": 0,
-      "link": "https://moduscarry.com/tag/rain-spencer/"
+      "link": "https://moduscarry.com/tag/rachel-mcadams/"
     },
     {
       "id": 218,
@@ -627,37 +651,27 @@
       "link": "https://moduscarry.com/tag/peaked/"
     },
     {
-      "id": 208,
-      "name": "The Invite",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/the-invite/"
-    },
-    {
-      "id": 219,
-      "name": "Rachel McAdams",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/rachel-mcadams/"
-    },
-    {
       "id": 220,
       "name": "The Family Stone",
       "count": 0,
       "link": "https://moduscarry.com/tag/the-family-stone/"
-    },
-    {
-      "id": 221,
-      "name": "The Families Stone",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/the-families-stone/"
-    },
-    {
-      "id": 232,
-      "name": "AMC+",
-      "count": 0,
-      "link": "https://moduscarry.com/tag/amc/"
     }
   ],
   "recent_posts": [
+    {
+      "title": "Nicole Kidman: Why She Keeps Her Phone Out of the Bedroom",
+      "link": "https://moduscarry.com/nicole-kidman-why-she-keeps-her-phone-out-of-the-bedroom/",
+      "categories": [
+        31
+      ],
+      "tags": [
+        261,
+        53,
+        262,
+        130,
+        150
+      ]
+    },
     {
       "title": "Chris Hemsworth wraps Thailand shoot for Extraction 3",
       "link": "https://moduscarry.com/chris-hemsworth-wraps-thailand-shoot-for-extraction-3/",
