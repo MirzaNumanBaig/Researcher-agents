@@ -1,7 +1,7 @@
 ---
 title: "Connor Storrie's Ghost Rider Role Comes With a Film-Shot Twist"
 description: "Connor Storrie is reportedly set to play a villain in Marvel's Ghost Rider, which will be shot on film by Linus Sandgren for a July 2028 release."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-28 13:00"
 celebrity: "Connor Storrie"
@@ -11,6 +11,9 @@ image_prompt: "A lone motorcycle on a wet city street at night, trailing orange 
 sources:
   - "https://www.toy-people.com/en/?p=115833"
   - "https://www.worldofreel.com/blog/2026/10/27/linus-sandgren-to-dp-shawn-levys-ghost-rider-on-film-connor-storrie-in-talks-to-co-star"
+wp_id: 1158
+wp_link: "https://moduscarry.com/connor-storries-ghost-rider-role-comes-with-a-film-shot-twist/"
+wp_synced: publish
 ---
 
 **Quick summary**
