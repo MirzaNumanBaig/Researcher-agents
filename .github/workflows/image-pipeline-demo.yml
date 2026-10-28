@@ -1,0 +1,47 @@
+name: Image pipeline demo
+# Runs the three fictional sample stories (wedding, film release, sensitive) through the whole pipeline with the real Cloudflare keys.
+# Nothing is published and nothing is committed: the analysis, prompt, picture and quality log are attached to the run as an artifact.
+on:
+  workflow_dispatch:
+    inputs:
+      accept_vision_license:
+        description: "Accept Meta's licence for the vision model on this Cloudflare account (one-time; only tick this if YOU agree to it)"
+        type: boolean
+        default: false
+      preset:
+        description: Style preset
+        type: choice
+        default: candid_news_photo
+        options: [candid_news_photo, glossy_magazine, cinematic_still, soft_illustration]
+  push:
+    branches: [feature/image-pipeline]
+    paths: ["agents/imagegen/**"]
+permissions:
+  contents: read
+env:
+  PYTHONPATH: agents
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q pillow
+      - name: Accept the vision model licence (only when ticked)
+        if: ${{ inputs.accept_vision_license }}
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: python -m imagegen --accept-vision-license
+      - name: Run the three samples
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: python -m imagegen --demo --out demo-out --preset "${{ inputs.preset || 'candid_news_photo' }}"
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: image-pipeline-demo-${{ github.run_id }}
+          path: demo-out
+          retention-days: 14
