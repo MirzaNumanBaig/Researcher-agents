@@ -14,8 +14,8 @@ sources:
   - "https://www.aol.com/articles/chris-hemsworth-shares-photos-extraction-045352000.html"
 image_alt: "Illustration of a woman in film set, lit by daytime, sunlight."
 image: "images/2026-10-28-17-00-chris-hemsworth.webp"
-wp_media_id: 1244
-wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-17-00-chris-hemsworth-768x432.webp"
+wp_media_id: 1246
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/image-1793170579038-768x432.webp"
 wp_id: 1245
 wp_link: "https://moduscarry.com/chris-hemsworth-wraps-thailand-shoot-for-extraction-3/"
 wp_synced: publish
