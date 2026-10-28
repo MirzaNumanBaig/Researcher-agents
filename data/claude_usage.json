@@ -319,6 +319,22 @@
    "turns": 6,
    "seconds": 7,
    "cost_usd": 0.0946
+  },
+  {
+   "date": "2026-10-28",
+   "time": "2026-10-28T17:14:26+00:00",
+   "batch": "2026-10-29 03:00",
+   "celebrity": "Keanu Reeves",
+   "article": "2026-10-29-03-00-keanu-reeves.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 16,
+   "output_tokens": 4448,
+   "cache_read_tokens": 242154,
+   "cache_write_tokens": 24097,
+   "turns": 13,
+   "seconds": 57,
+   "cost_usd": 0.1829
   }
  ]
 }
