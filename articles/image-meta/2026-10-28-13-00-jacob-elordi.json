@@ -1,0 +1,170 @@
+{
+  "timestamp": "2026-10-28T03:51:40.005074+00:00",
+  "article": "2026-10-28-13-00-jacob-elordi",
+  "ai_generated": true,
+  "story_type": "red_carpet",
+  "analysis": {
+    "story_type": "red_carpet",
+    "core_event": "an anonymous figure and an anonymous figure attend the an anonymous figure",
+    "emotion": "romantic",
+    "setting": "red carpet",
+    "key_objects": [
+      "custom polka dot Valentino gown",
+      "black suit",
+      "sunglasses"
+    ],
+    "time_and_light": "evening, flash photography",
+    "palette": [
+      "polka dot",
+      "black",
+      "white"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "custom polka dot Valentino gown",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "standing side by side, shoulders almost touching",
+        "clothing": "an evening gown and a black tuxedo"
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "lifted",
+          "eyes": "bright and crinkled",
+          "mouth": "a wide natural smile",
+          "jaw": "relaxed"
+        },
+        "gaze": "on the other person",
+        "head": "tipped back mid-laugh",
+        "posture": "open chest, loose shoulders",
+        "hands": "one hand in a coat pocket",
+        "interaction": "standing side by side, shoulders almost touching",
+        "clothing": "an evening gown and a black tuxedo"
+      }
+    ],
+    "setting": "red carpet",
+    "props": [
+      "custom polka dot Valentino gown",
+      "black suit",
+      "sunglasses"
+    ],
+    "time_of_day": "evening, flash photography",
+    "light": {
+      "source": "evening, flash photography",
+      "direction": "from the side"
+    },
+    "palette": [
+      "polka dot",
+      "black",
+      "white"
+    ],
+    "mood": "romantic",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Over-the-shoulder shot, 50mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "template",
+  "prompt_notes": [],
+  "seed": 3246475225,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of red carpet with custom polka dot Valentino gown and black suit, lit by evening, flash photography.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 170.6
+  },
+  "fallback": "symbolic",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 3246475225,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre",
+      "fallback": "symbolic"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-10-28T04:03:33.518146+00:00",
+  "article": "2026-10-26-17-00-margot-robbie",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure footage the figure with AI for phone microdramas",
+    "emotion": "controversy",
+    "setting": "film studio",
+    "key_objects": [
+      "AI tool RedSnapper",
+      "an anonymous figure archive episodes",
+      "phone microdramas"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "neutral grey",
+      "digital blue",
+      "silver"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "AI tool RedSnapper",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film studio",
+    "props": [
+      "AI tool RedSnapper",
+      "an anonymous figure archive episodes",
+      "phone microdramas"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neutral grey",
+      "digital blue",
+      "silver"
+    ],
+    "mood": "controversy",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot, taken from a slightly low angle, captures an empty film studio with a hint of studio lights peeking through the window. A single armchair sits in the foreground, positioned in front of a rain-streaked glass door, the gentle grey light from the outside casting a soft glow across the floor. In the midground, a sleek, metallic RedSnapper AI tool rests on a minimalist table, its digital blue and silver hues blending seamlessly with the surrounding environment. The background is a blur of grey and white, with faint outlines of studio equipment and production lights. The 24mm lens captures a wide, cinematic view, with subtle depth of field that draws the viewer's eye to the center of the scene. Soft, neutral grey studio lights illuminate the space, casting a respectful and calm atmosphere. The colour palette is a mix of neutral grey, digital blue and silver, with a subtle grain reminiscent of film stock. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1129454474,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 150.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1129454474,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

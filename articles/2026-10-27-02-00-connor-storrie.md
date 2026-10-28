@@ -14,6 +14,10 @@ sources:
 wp_id: 1000
 wp_link: "https://moduscarry.com/?p=1000"
 wp_synced: pending
+image_alt: "Illustration of a woman and a man in hockey rink, lit by daytime, stadium lights."
+image: "images/2026-10-27-02-00-connor-storrie.webp"
+wp_media_id: 1179
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-connor-storrie-768x432.webp"
 ---
 
 **Quick summary**

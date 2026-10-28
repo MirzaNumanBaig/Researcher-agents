@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-10-28T04:02:05.256962+00:00",
+  "article": "2026-10-27-02-00-catherine-o-hara",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure 'an anonymous figure: The Greatest Show You've Never Heard Of' premieres on 30 October.",
+    "emotion": "nostalgic",
+    "setting": "television studio",
+    "key_objects": [
+      "the figure",
+      "an anonymous figure the figure",
+      "an anonymous figure",
+      "television station"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "warm beige",
+      "rich brown",
+      "deep red"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "television studio",
+    "props": [
+      "the figure",
+      "an anonymous figure the figure",
+      "an anonymous figure",
+      "television station"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "warm beige",
+      "rich brown",
+      "deep red"
+    ],
+    "mood": "nostalgic",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-09"
+  ],
+  "prompt": "A wide shot, taken from a slightly high angle, with a 35mm lens, captures a woman in her late 50s with short wavy white hair and pale skin, wearing a navy cardigan, as she sits in a television studio, leaning forward, elbows on knees, and holding a paper cup in her hands. Her eyebrows are slightly raised, her eyes are wide and attentive, and her lips are just parted, as she tilts her head slightly up, gazing up and off-frame right. The television station's backdrop is visible behind her, a soft haze and bokeh in the background, with an anonymous figure standing to her left, and another to her right, both looking at her with interest. The studio lights shine from the side, casting a warm glow on the scene. The composition is balanced with the people placed left of centre, and the setting opens up to the right, creating a sense of nostalgia. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3851512803,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in television studio, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 153.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3851512803,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

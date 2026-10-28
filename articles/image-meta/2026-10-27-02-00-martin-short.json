@@ -1,0 +1,164 @@
+{
+  "timestamp": "2026-10-28T03:59:07.336086+00:00",
+  "article": "2026-10-27-02-00-martin-short",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure reveals he gave himself one year to succeed in show business before pursuing social work",
+    "emotion": "inspirational",
+    "setting": "podcast recording studio",
+    "key_objects": [
+      "Conan O'Brien Needs a Friend podcast",
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "warm beige",
+      "rich brown",
+      "vibrant red"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Conan O'Brien Needs a Friend podcast",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "podcast recording studio",
+    "props": [
+      "Conan O'Brien Needs a Friend podcast",
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "warm beige",
+      "rich brown",
+      "vibrant red"
+    ],
+    "mood": "inspirational",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-10",
+    "cast-02"
+  ],
+  "prompt": "A medium shot, taken from a three-quarter view, captures two men seated at an angle to each other across a low table in a warm, inviting podcast recording studio. The first man, in his early 30s with medium-length wavy auburn hair and light skin, wears a cream cable-knit sweater and has his facial expression set with eyebrows drawn up gently at the centre, unfocused and distant eyes, lips just closed, and a soft jaw. He gazes off-frame toward a window, with his head resting slightly back and his shoulders low. His hands are wrapped around a mug. The second man, in his late 30s with short dark greying hair and medium-brown skin, wears a navy suit, open collar, and has a facial expression of slightly raised eyebrows, wide and attentive eyes, lips just parted, and a relaxed jaw. He gazes up and off-frame right, with his head tilted slightly up and his posture leaning forward, elbows on knees. His hands hold a paper cup. The background is a soft haze and bokeh, with the studio's soundproofing and equipment blurred into the distance. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3976017993,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of two mans in podcast recording studio, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 128.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 3976017993,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

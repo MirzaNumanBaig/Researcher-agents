@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-28T03:46:18.332919+00:00",
+  "article": "2026-10-28-13-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "health",
+  "analysis": {
+    "story_type": "health",
+    "core_event": "an anonymous figure's the figure the figure reaches 50 an anonymous figure milestone.",
+    "emotion": "inspiring",
+    "setting": "the figure lab",
+    "key_objects": [
+      "the figure the figure",
+      "data",
+      "researchers",
+      "participants"
+    ],
+    "time_and_light": "daylight",
+    "palette": [
+      "blue",
+      "white",
+      "gray"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "the figure lab",
+    "props": [
+      "the figure the figure",
+      "data",
+      "researchers",
+      "participants"
+    ],
+    "time_of_day": "daylight",
+    "light": {
+      "source": "daylight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "white",
+      "gray"
+    ],
+    "mood": "inspiring",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot of a serene, empty corridor, the camera positioned side-on to capture the full length of the space, with a 50mm lens providing a subtle perspective shift. A medium shot of the corridor floor reveals soft, warm daylight streaming through a tall window above, casting a gentle glow on the polished surface. The walls, painted a soothing blue hue, provide a calming backdrop, while the floor's gray linoleum and white baseboards create a sense of order and cleanliness. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1929840556,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a quiet empty corridor with a bench under a tall window, soft daylight on the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 199.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1929840556,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

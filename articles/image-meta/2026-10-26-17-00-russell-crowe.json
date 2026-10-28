@@ -1,0 +1,137 @@
+{
+  "timestamp": "2026-10-28T04:02:51.069992+00:00",
+  "article": "2026-10-26-17-00-russell-crowe",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "the figure arrives on an anonymous figure in the US, while L.A. an anonymous figure Prime Video",
+    "emotion": "excitement",
+    "setting": "film set",
+    "key_objects": [
+      "the figure",
+      "L.A. the figure",
+      "an anonymous figure",
+      "Prime Video"
+    ],
+    "time_and_light": "daylight",
+    "palette": [
+      "gold",
+      "red",
+      "brown"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "the figure",
+      "L.A. the figure",
+      "an anonymous figure",
+      "Prime Video"
+    ],
+    "time_of_day": "daylight",
+    "light": {
+      "source": "daylight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "gold",
+      "red",
+      "brown"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-11"
+  ],
+  "prompt": "A medium-wide shot of a woman in her mid 30s with a high dark-blonde ponytail and sun-warmed tan skin, wearing a black leather jacket, her slightly raised eyebrows and wide and attentive eyes fixed up and off-frame right as her lips just parted and relaxed jaw betray her excitement; her head is tilted slightly up, her posture leaning forward with her elbows on her knees as she holds a paper cup in one hand. In the background, a film set stretches out to the right, with a soft haze and bokeh effect, while to the left of centre, the woman sits on a stool, surrounded by props including 'the figure', 'L.A. the figure', 'an anonymous figure', and 'Prime Video', all bathed in the warm glow of daylight streaming in from the side. The camera, set to a 85mm lens, captures the scene in a three-quarter view, with the woman placed slightly off-centre. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3183057726,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by daylight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 182.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 3183057726,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

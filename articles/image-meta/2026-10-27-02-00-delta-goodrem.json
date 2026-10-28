@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-28T04:00:31.970697+00:00",
+  "article": "2026-10-27-02-00-delta-goodrem",
+  "ai_generated": true,
+  "story_type": "concert",
+  "analysis": {
+    "story_type": "concert",
+    "core_event": "an anonymous figure reportedly lined up to host BBC One's New the figure Eve concert",
+    "emotion": "exciting",
+    "setting": "TV studio or concert venue",
+    "key_objects": [
+      "an anonymous figure",
+      "BBC One",
+      "New the figure Eve concert",
+      "an anonymous figure"
+    ],
+    "time_and_light": "midnight, fireworks",
+    "palette": [
+      "silver",
+      "gold",
+      "black"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "TV studio or concert venue",
+    "props": [
+      "an anonymous figure",
+      "BBC One",
+      "New the figure Eve concert",
+      "an anonymous figure"
+    ],
+    "time_of_day": "midnight, fireworks",
+    "light": {
+      "source": "midnight, fireworks",
+      "direction": "from the side"
+    },
+    "palette": [
+      "silver",
+      "gold",
+      "black"
+    ],
+    "mood": "exciting",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot, taken from a low, tilted angle, captures the empty, dimly lit concert stage, with the iconic BBC One subtly integrated into the backdrop, a soft, silver glow emanating from the spotlights. The two vacant armchairs, positioned center stage, are positioned at a 45-degree angle to each other, as if awaiting the arrival of the hosts, the dark, rich wood grain of the chairs standing in contrast to the cool, metallic sheen of the stage. The foreground is bathed in a warm, golden light, spilling across the floor from the exit door, while the background remains shrouded in a deep, dark grey, the silver accents of the stage equipment gleaming in the dim light. A 85mm lens, at a 45-degree angle, captures the scene with a shallow depth of field, blurring the background and emphasizing the empty stage. The lighting is provided by a series of warm, golden spotlights, positioned above and to the sides of the stage, casting a sense of anticipation and expectation across the scene. The mood is calm and respectful, the colour palette a rich, metallic silver, gold and black. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2891491940,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 106.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2891491940,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

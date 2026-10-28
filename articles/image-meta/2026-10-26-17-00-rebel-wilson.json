@@ -1,0 +1,111 @@
+{
+  "timestamp": "2026-10-28T04:03:12.033824+00:00",
+  "article": "2026-10-26-17-00-rebel-wilson",
+  "ai_generated": true,
+  "story_type": "legal",
+  "analysis": {
+    "story_type": "legal",
+    "core_event": "an anonymous figure wins $359,000 in an anonymous figure fee case",
+    "emotion": "victory",
+    "setting": "courthouse",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "NSW Supreme Court",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daylight",
+    "palette": [
+      "green",
+      "gold",
+      "black"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "courthouse",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "NSW Supreme Court",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daylight",
+    "light": {
+      "source": "daylight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "green",
+      "gold",
+      "black"
+    ],
+    "mood": "victory",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wooden gavel resting on a bare desk beside a closed leather folder, soft light across the grain. Softly out of focus in the foreground: stone columns. The background fades into soft haze and gentle bokeh. Close-up detail shot, 24mm lens, from behind, shallow depth of field. Lit by soft overcast daylight. Quiet mood, stone grey and warm brown palette. Candid editorial news photograph with natural the figure-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "template",
+  "prompt_notes": [
+    "attempt 1 rejected: shows people in a sensitive story",
+    "attempt 2 rejected: shows people in a sensitive story"
+  ],
+  "seed": 3541033649,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a wooden gavel resting on a bare desk beside a closed leather folder, soft light across the grain.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 202.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3541033649,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

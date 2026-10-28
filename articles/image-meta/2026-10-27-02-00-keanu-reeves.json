@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-10-28T03:59:23.526382+00:00",
+  "article": "2026-10-27-02-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure reportedly set to star in an anonymous figure thriller an anonymous figure",
+    "emotion": "action",
+    "setting": "film set",
+    "key_objects": [
+      "federal marshal",
+      "fiancée",
+      "arms dealer",
+      "hurricane",
+      "henchmen"
+    ],
+    "time_and_light": "night, stormy weather",
+    "palette": [
+      "dark grey",
+      "stormy blue",
+      "emergency orange"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "federal marshal",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "federal marshal",
+      "fiancée",
+      "arms dealer",
+      "hurricane"
+    ],
+    "time_of_day": "night, stormy weather",
+    "light": {
+      "source": "night, stormy weather",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark grey",
+      "stormy blue",
+      "emergency orange"
+    ],
+    "mood": "action",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot, taken from a side-on view, captures the sprawling film set, its various backdrops and structures blending seamlessly into the night sky. The 24mm lens stretches the scene, compressing the distance between the buildings and the towering lighting rigs. The frame is filled with the dark grey and stormy blue hues of the night, punctuated by flashes of emergency orange from the set's safety lighting. A large, empty armchair sits at the edge of the set, its cushions worn and faded, a stark contrast to the vibrant colours of the surrounding equipment. Soft grey light seeps across the floor, casting long shadows behind the chair. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1316660602,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 273.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1316660602,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

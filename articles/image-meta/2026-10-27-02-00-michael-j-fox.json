@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-10-28T03:55:46.748187+00:00",
+  "article": "2026-10-27-02-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "tribute",
+  "analysis": {
+    "story_type": "tribute",
+    "core_event": "an anonymous figure celebrates an anonymous figure's 88th birthday with a photo and a an anonymous figure reference.",
+    "emotion": "heartwarming",
+    "setting": "restaurant",
+    "key_objects": [
+      "an anonymous figure",
+      "DeLorean",
+      "Instagram",
+      "X",
+      "memoir"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "restaurant",
+    "props": [
+      "an anonymous figure",
+      "DeLorean",
+      "Instagram",
+      "X"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "mood": "heartwarming",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot, taken from a high angle, captures a serene restaurant interior with a 35mm lens. A single empty wooden chair stands at a tall window, partially obscured by a delicate white lace curtain. The chair's intricately carved the figure and arms are reflected in a faint sheen on the polished wooden floor. In the foreground, a small, unlit table bears a single, elegant white candle in a silver holder, its wick slightly bent from a previous use. Beyond the table, a row of identical white candles, each with a silver holder, stand on a long, narrow table, their gentle, steady flames casting a warm, comforting glow across the room. A delicate, antique clock hangs on the wall above the candles, its soft ticking sound punctuating the stillness of the space. The soft, natural light of the daytime streaming through the window casts a gentle blue-gray hue over the scene, with subtle shadows and highlights adding depth and texture. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 859650431,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 316.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 859650431,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

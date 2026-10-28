@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-10-28T03:59:52.950183+00:00",
+  "article": "2026-10-27-02-00-jim-carrey",
+  "ai_generated": true,
+  "story_type": "wedding",
+  "analysis": {
+    "story_type": "wedding",
+    "core_event": "an anonymous figure marries Min Ah in a quiet Los Angeles ceremony.",
+    "emotion": "private",
+    "setting": "wedding venue",
+    "key_objects": [
+      "wedding ring",
+      "ceremony",
+      "Los Angeles"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "soft pink",
+      "ivory",
+      "gold"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "wedding ring",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "wedding venue",
+    "props": [
+      "wedding ring",
+      "ceremony",
+      "Los Angeles"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft pink",
+      "ivory",
+      "gold"
+    ],
+    "mood": "private",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A close-up detail shot, taken from a slightly low angle, captures the delicate curve of a wedding ring as it rests on a plush, ivory-colored cushion, set against the warm, sun-drenched backdrop of a Los Angeles wedding venue. The 50mm lens renders the intricate details of the ring's design in sharp focus, while the surrounding fabric is softly blurred, evoking a sense of intimacy and quiet reverence. The sunlight streaming through the windows casts a gentle glow on the surrounding area, illuminating the subtle sheen on the ring's surface. The overall mood is one of calm, serene beauty, as if the very essence of love and commitment has been distilled into this single, exquisite object. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 551051738,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 169.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 551051738,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

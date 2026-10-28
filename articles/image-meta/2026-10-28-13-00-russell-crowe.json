@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-10-28T03:45:59.191721+00:00",
+  "article": "2026-10-28-13-00-russell-crowe",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "the figure, a 1995 sci-fi thriller, the figure the figure+ on 1 November.",
+    "emotion": "reboot",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "Denzel Washington",
+      "SID 6.7",
+      "virtual-reality program",
+      "synthetic android body"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "dark grey",
+      "neon blue",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "Denzel Washington",
+      "SID 6.7",
+      "virtual-reality program"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark grey",
+      "neon blue",
+      "silver"
+    ],
+    "mood": "reboot",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-04"
+  ],
+  "prompt": "A wide shot of a film set, the camera positioned slightly low, giving the scene a sense of intimacy and proximity, is framed by an 85mm lens, capturing the subject in a dynamic and expressive manner. A man in his mid 20s with tousled sandy-blond hair and fair skin, dressed in a cream fisherman knit, sits on the edge of a director's chair, his facial expression relaxed, with slightly raised eyebrows, wide and attentive eyes, and lips just parted, as if in mid-sentence. His gaze is up and off-frame right, as if lost in thought, and his head is tilted slightly up, giving him a slightly introspective air. His posture is leaning forward, elbows on knees, and his hands are holding a paper cup, his fingers wrapped casually around it. On the opposite side of the frame, Denzel Washington stands, dressed in a tailored suit, his expression calm and collected, as if observing the scene unfold before him. The soft haze and bokeh of the background blur, adding depth and texture to the scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1231405778,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 101.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1231405778,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

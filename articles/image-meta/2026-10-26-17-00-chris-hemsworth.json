@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-28T04:04:44.409764+00:00",
+  "article": "2026-10-26-17-00-chris-hemsworth",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure describes the 2015 film In the Heart of the Sea as a 'brutal' shoot.",
+    "emotion": "tough",
+    "setting": "film set",
+    "key_objects": [
+      "whale ship",
+      "cold water",
+      "CGI",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "gritty grey",
+      "cold blue",
+      "drab brown"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "whale ship",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "whale ship",
+      "cold water",
+      "CGI",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "gritty grey",
+      "cold blue",
+      "drab brown"
+    ],
+    "mood": "tough",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot from a slightly low angle, capturing an empty film set, captures a worn wooden dock jutting out into the cold, grey water, its weathered planks reflecting the drab brown hues of the surrounding studio lights. The camera's eye is level with the dock's surface, a 35mm lens framing the worn wood's grainy texture. Soft, grey studio lights cast a subtle glow across the water's surface, creating a sense of stillness. A CGI whale ship's skeletal remains lie half-submerged in the cold water, its hull cracked and weathered. In the background, a drab brown wall blends into the grey studio lights, creating a sense of depth. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2193596090,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 221.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2193596090,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "timestamp": "2026-10-28T03:55:03.522475+00:00",
+  "article": "2026-10-27-02-00-nicole-kidman",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure discusses working with an anonymous figure on his music video",
+    "emotion": "warm",
+    "setting": "film set",
+    "key_objects": [
+      "music video",
+      "burlesque bar",
+      "slow dance",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "deep red",
+      "rich gold",
+      "velvet black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "music video",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "music video",
+      "burlesque bar",
+      "slow dance",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "deep red",
+      "rich gold",
+      "velvet black"
+    ],
+    "mood": "warm",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-06",
+    "cast-07"
+  ],
+  "prompt": "A wide shot of a film set, the camera positioned at a three-quarter view from the left, set against a soft haze and bokeh background, with a 85mm lens capturing the warm tones of the deep red, rich gold, and velvet black palette. A man in his mid 50s with short grey-flecked hair and a beard and tan skin, seated at an angle to a woman in her early 20s with loose curly dark brown hair and rich brown skin, across a low table. The man's eyebrows are drawn up gently at the centre, his eyes unfocused and distant, his lips just closed, and his jaw soft, as he gazes off-frame toward a window. His head is resting slightly back, and his shoulders are low, with his hands wrapped around a mug. The woman's eyebrows are slightly raised, her eyes are wide and attentive, her lips are just parted, and her jaw is relaxed, as she looks up and off-frame right. The studio lights cast a warm glow from the side, illuminating the scene with a sense of intimacy and camaraderie. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1685648601,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man and a woman in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 116.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 1685648601,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

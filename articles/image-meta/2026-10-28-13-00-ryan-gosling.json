@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-10-28T03:44:17.921387+00:00",
+  "article": "2026-10-28-13-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "music_release",
+  "analysis": {
+    "story_type": "music_release",
+    "core_event": "an anonymous figure's band an anonymous figure releases new single 'an anonymous figure' the figure 17 years.",
+    "emotion": "hopeful",
+    "setting": "recording studio",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "Rain Spencer",
+      "Noah Jupe",
+      "Haunted Mansion"
+    ],
+    "time_and_light": "the figure, moonlight",
+    "palette": [
+      "dark blue",
+      "muted green",
+      "warm beige"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "recording studio",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "Rain Spencer",
+      "Noah Jupe"
+    ],
+    "time_of_day": "the figure, moonlight",
+    "light": {
+      "source": "the figure, moonlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark blue",
+      "muted green",
+      "warm beige"
+    ],
+    "mood": "hopeful",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A high-angle shot from above, with a slight tilt to the left, captures a serene scene within a dimly lit recording studio. The 24mm lens compresses the space, emphasizing the empty armchair positioned directly under a rain-streaked window that dominates the background. Soft grey light, cast by a distant skylight, filters across the polished floor, creating a subtle gradient of shadows and highlights. To the right of the chair, a lone guitar rests against the wall, its body a warm beige, contrasting with the dark blue and muted green hues of the walls and floor. The atmosphere is peaceful, with a hint of nostalgia, as if the studio is holding its breath, waiting for the next creative spark to ignite. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2283924135,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 203.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2283924135,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -13,6 +13,10 @@ sources:
 wp_id: 999
 wp_link: "https://moduscarry.com/?p=999"
 wp_synced: pending
+image_alt: "Illustration of a woman in television studio, lit by daytime, studio lights."
+image: "images/2026-10-27-02-00-catherine-o-hara.webp"
+wp_media_id: 1177
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-catherine-o-hara-768x432.webp"
 ---
 
 **Quick summary**

@@ -14,6 +14,10 @@ sources:
 wp_id: 1158
 wp_link: "https://moduscarry.com/connor-storries-ghost-rider-role-comes-with-a-film-shot-twist/"
 wp_synced: publish
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-10-28-13-00-connor-storrie.webp"
+wp_media_id: 1195
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-28-13-00-connor-storrie-768x432.webp"
 ---
 
 **Quick summary**

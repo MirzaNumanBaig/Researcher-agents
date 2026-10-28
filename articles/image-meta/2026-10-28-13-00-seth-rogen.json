@@ -1,0 +1,145 @@
+{
+  "timestamp": "2026-10-28T03:41:41.960520+00:00",
+  "article": "2026-10-28-13-00-seth-rogen",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure doubted an anonymous figure's performance in an anonymous figure",
+    "emotion": "respectful",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "Ricky Danforth",
+      "rabbit costume"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "Ricky Danforth"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "mood": "respectful",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-01",
+    "cast-08"
+  ],
+  "prompt": "A medium shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin sits at a low table, her charcoal wool coat a deep contrast to the film set's neutral tones. Her eyebrows are drawn up gently at the centre, and her unfocused eyes seem distant, as if lost in thought. Her lips are just closed, and her jaw is soft, giving her a gentle, contemplative expression. Her gaze is off-frame toward a window, and her head is resting slightly back, as if she's leaning into the thought. Her shoulders are low, and her posture is relaxed, her hands wrapped around a mug in a comforting gesture. Seated across the low table from her is a man in his early 40s with close-cropped black hair and dark brown skin, dressed in a slate-grey suit. His eyebrows are slightly raised, and his wide, attentive eyes are fixed on the woman, his lips just parted in a subtle smile. The overall mood is one of respectful conversation, the two individuals engaging in a thoughtful discussion. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2419756739,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in film set, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 133.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2419756739,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

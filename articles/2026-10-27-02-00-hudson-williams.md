@@ -16,6 +16,10 @@ sources:
 wp_id: 1002
 wp_link: "https://moduscarry.com/?p=1002"
 wp_synced: pending
+image_alt: "Illustration of film set with film script and a person equipment, lit by daytime, studio lights."
+image: "images/2026-10-27-02-00-hudson-williams.webp"
+wp_media_id: 1183
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-27-02-00-hudson-williams-768x432.webp"
 ---
 
 **Quick summary**

@@ -13,6 +13,10 @@ sources:
 wp_id: 988
 wp_link: "https://moduscarry.com/chris-hemsworth-on-the-2015-shoot-he-called-brutal/"
 wp_synced: publish
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-10-26-17-00-chris-hemsworth.webp"
+wp_media_id: 1165
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-26-17-00-chris-hemsworth-768x432.webp"
 ---
 
 **Quick summary**

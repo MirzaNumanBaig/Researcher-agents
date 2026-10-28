@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-10-28T04:00:12.532058+00:00",
+  "article": "2026-10-27-02-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure a film with a character that echoes his the figure series an anonymous figure.",
+    "emotion": "conflict",
+    "setting": "film set",
+    "key_objects": [
+      "film script",
+      "the figure equipment",
+      "actor's notes"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "neutral grey",
+      "dark blue",
+      "bright white"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "film script",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "film script",
+      "the figure equipment",
+      "actor's notes"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neutral grey",
+      "dark blue",
+      "bright white"
+    ],
+    "mood": "conflict",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a woman in her mid-30s, with a slight furrow between her eyebrows and a hint of tension in her jawline, her eyes cast downward as she reads through a film script. Her eyebrows are slightly raised, and her mouth is set in a firm line, her gaze directed at the pages in her hand. Her shoulders are slightly slumped, and her head is tilted to one side, as if trying to make sense of the words on the page. Her left hand rests on the script, and her right hand holds a pen, poised to make notes. A film script lies open on a table in front of her, with a few pages turned down, and a notebook and pen nearby. The film set stretches out behind her, with a backdrop of a dark blue cityscape, and a few props scattered about, including a figure equipment stand in the foreground. This image is shot in a safe, realistic style, with a focus on capturing the emotional nuances of the scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 460053641,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film set with film script and a person equipment, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 100.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 460053641,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

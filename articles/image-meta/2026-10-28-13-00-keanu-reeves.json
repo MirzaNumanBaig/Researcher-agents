@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-10-28T03:47:20.494263+00:00",
+  "article": "2026-10-28-13-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure to star in an anonymous figure thriller Maelstrom",
+    "emotion": "action",
+    "setting": "film set",
+    "key_objects": [
+      "Federal Marshal",
+      "fiancée",
+      "arms dealer",
+      "hurricane"
+    ],
+    "time_and_light": "night, stormy weather",
+    "palette": [
+      "dark blue",
+      "stormy grey",
+      "emergency orange"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Federal Marshal",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "Federal Marshal",
+      "fiancée",
+      "arms dealer",
+      "hurricane"
+    ],
+    "time_of_day": "night, stormy weather",
+    "light": {
+      "source": "night, stormy weather",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark blue",
+      "stormy grey",
+      "emergency orange"
+    ],
+    "mood": "action",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05"
+  ],
+  "prompt": "A medium-wide shot, taken from a slightly high angle, captures the tension on set as the Federal Marshal, a rugged man in his late 50s with a gruff expression and a stern jawline, stands off to the right, his eyes fixed intently on the woman in her mid 40s with a sleek silver-streaked bob and deep brown skin. Her midnight-blue gown is draped elegantly over her legs as she leans forward, elbows on knees, her lips just parted and her eyes wide and attentive, with her slightly raised eyebrows hinting at a mixture of concern and curiosity. Her gaze is directed up and off-frame right, her head tilted slightly up as she sips from a paper cup held loosely in her hands. The only sound is the distant rumble of a hurricane, its fury subsiding as the stormy weather casts a dark, foreboding glow over the entire scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 429831367,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by night, stormy weather.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 89.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 429831367,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

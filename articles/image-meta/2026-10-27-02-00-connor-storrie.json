@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-10-28T04:01:06.556977+00:00",
+  "article": "2026-10-27-02-00-connor-storrie",
+  "ai_generated": true,
+  "story_type": "relationship",
+  "analysis": {
+    "story_type": "relationship",
+    "core_event": "an anonymous figure the figure as Ilya Rozanov in season two of an anonymous figure alongside an anonymous figure.",
+    "emotion": "romantic",
+    "setting": "hockey rink",
+    "key_objects": [
+      "hockey stick",
+      "jersey",
+      "rink"
+    ],
+    "time_and_light": "daytime, stadium lights",
+    "palette": [
+      "blue",
+      "red",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "hockey stick",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated close at a small table, knees angled toward each other, mirrored relaxed poses",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "lifted",
+          "eyes": "bright and crinkled",
+          "mouth": "a wide natural smile",
+          "jaw": "relaxed"
+        },
+        "gaze": "on the other person",
+        "head": "tipped back mid-laugh",
+        "posture": "open chest, loose shoulders",
+        "hands": "one hand in a coat pocket",
+        "interaction": "seated close at a small table, knees angled toward each other, mirrored relaxed poses",
+        "clothing": ""
+      }
+    ],
+    "setting": "hockey rink",
+    "props": [
+      "hockey stick",
+      "jersey",
+      "rink"
+    ],
+    "time_of_day": "daytime, stadium lights",
+    "light": {
+      "source": "daytime, stadium lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "red",
+      "silver"
+    ],
+    "mood": "romantic",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-03",
+    "cast-12"
+  ],
+  "prompt": "A medium shot, taken from a slightly high angle, captures the woman in her late 20s with long straight black hair and warm beige skin seated close to the man in his late 40s with thinning dark hair and round glasses and olive skin at a small table in the hockey rink. The woman's eyebrows are drawn up gently at the centre, her unfocused and distant eyes gazing off-frame toward a window, her lips just closed, and her jaw soft, as she rests her head slightly back and lowers her shoulders. She's wrapped her hands around a mug, cradling it gently. The man, on the other hand, has his eyebrows lifted, his bright and crinkled eyes shining as he gazes at the woman, his wide natural smile spreading across his face, and his jaw relaxed, as he tips his head back mid-laugh and lets his chest relax, with one hand in his coat pocket. The two are seated in relaxed mirrored poses, knees angled toward each other. The 50mm lens captures the scene with a subtle sense of intimacy, the woman and man lost in their own little world. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2918262148,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in hockey rink, lit by daytime, stadium lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 119.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2918262148,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
