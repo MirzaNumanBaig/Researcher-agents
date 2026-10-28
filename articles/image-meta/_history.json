@@ -1,14 +1,5 @@
 [
  {
-  "article": "2026-10-28-13-00-michael-j-fox",
-  "shot": "wide establishing shot",
-  "angle": "side-on view",
-  "lens": "50mm",
-  "palette": "blue, white and gray",
-  "prompt": "A wide establishing shot of a serene, empty corridor, the camera positioned side-on to capture the full length of the space, with a 50mm lens providing a subtle perspective shift. A medium shot of the corridor floor reveals soft, warm daylight streaming through a tall window above, casting a gentle glow on the polished surface. The walls, painted a soothing blue hue, provide a calming backdrop, while the floor's gray linoleum and white baseboards create a sense of order and cleanliness. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
   "article": "2026-10-28-13-00-keanu-reeves",
   "shot": "medium-wide shot",
   "angle": "slightly high angle",
@@ -197,6 +188,18 @@
   "prompt": "A medium-wide shot from an eye-level perspective, taken with an 85mm lens, captures the film set's open layout as it stretches to the right, with the anonymous woman standing slightly left of center, leaning forward with her elbows on her knees, a look of relieved contemplation etched on her face. Her wavy chestnut hair falls around her shoulders, and her light olive skin has a natural texture with visible pores and small imperfections. Her slightly raised eyebrows and wide, attentive eyes gaze up and off-frame to the right, her lips just parted as she exhales softly. Her relaxed jawline and gentle head tilt create a sense of calmness. She wears a simple black satin dress that falls to her knees, her hands holding a paper cup with a relaxed grip. A camera and script lie on a nearby table, while Thai landmarks are visible in the soft haze and bokeh of the background, bathed in the warm, gentle light of the daytime sunlight streaming in from the side. The air is filled with a sense of accomplishment and closure, the colour palette a soothing blend of blue, green, and yellow. No text, no logos, no watermark.",
   "cast": [
    "cast-01"
+  ]
+ },
+ {
+  "article": "2026-10-28-19-00-michael-j-fox",
+  "shot": "wide shot",
+  "angle": "slightly low angle",
+  "lens": "35mm",
+  "palette": "blue, silver and black",
+  "prompt": "A wide shot from a slightly low angle, captured with a 35mm lens, frames two men seated at an angle to each other across a low table on a film set, left of centre, as the setting unfolds to the right. A medium shot of a man in his early 40s with close-cropped black hair and dark brown skin, wearing a black turtleneck and long coat, rests his head slightly the figure, his shoulders low, and his hands wrapped around a mug. His facial expression is one of gentle introspection, with drawn-up eyebrows, unfocused and distant eyes, and lips just closed. His gaze is off-frame toward a window, lost in thought. A medium shot of a man in his mid 20s with tousled sandy-blond hair and fair skin, wearing a slim black suit, leans forward, elbows on knees, his posture energetic and engaged. His facial expression is one of mild curiosity, with slightly raised eyebrows, wide and attentive eyes, and lips just parted. The mood is one of relieved tension, as if the weight of a great secret has been shared. No text, no logos, no watermark.",
+  "cast": [
+   "cast-08",
+   "cast-04"
   ]
  }
 ]

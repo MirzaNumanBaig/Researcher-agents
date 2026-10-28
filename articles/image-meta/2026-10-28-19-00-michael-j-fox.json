@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-10-28T08:12:34.062654+00:00",
+  "article": "2026-10-28-19-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure recalls the moment he learned an anonymous figure would replace Eric Stoltz as Marty McFly in an anonymous figure.",
+    "emotion": "relieved",
+    "setting": "film set",
+    "key_objects": [
+      "car park",
+      "trailers",
+      "shopping mall",
+      "an anonymous figure trilogy"
+    ],
+    "time_and_light": "midnight, under the stars",
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "car park",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "car park",
+      "trailers",
+      "shopping mall",
+      "an anonymous figure trilogy"
+    ],
+    "time_of_day": "midnight, under the stars",
+    "light": {
+      "source": "midnight, under the stars",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "mood": "relieved",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-08",
+    "cast-04"
+  ],
+  "prompt": "A wide shot from a slightly low angle, captured with a 35mm lens, frames two men seated at an angle to each other across a low table on a film set, left of centre, as the setting unfolds to the right. A medium shot of a man in his early 40s with close-cropped black hair and dark brown skin, wearing a black turtleneck and long coat, rests his head slightly the figure, his shoulders low, and his hands wrapped around a mug. His facial expression is one of gentle introspection, with drawn-up eyebrows, unfocused and distant eyes, and lips just closed. His gaze is off-frame toward a window, lost in thought. A medium shot of a man in his mid 20s with tousled sandy-blond hair and fair skin, wearing a slim black suit, leans forward, elbows on knees, his posture energetic and engaged. His facial expression is one of mild curiosity, with slightly raised eyebrows, wide and attentive eyes, and lips just parted. The mood is one of relieved tension, as if the weight of a great secret has been shared. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1489744742,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of two mans in film set, lit by midnight, under the stars.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 96.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 1489744742,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
