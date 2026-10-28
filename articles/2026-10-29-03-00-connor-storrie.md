@@ -19,6 +19,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-03-00-co
 wp_id: 1258
 wp_link: "https://moduscarry.com/connor-storrie-in-talks-for-villain-role-in-ghost-rider/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

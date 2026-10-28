@@ -20,6 +20,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-03-00-ch
 wp_id: 1256
 wp_link: "https://moduscarry.com/extraction-3-wraps-and-netflixs-spinoff-slate-takes-shape/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -18,6 +18,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-03-00-li
 wp_id: 1266
 wp_link: "https://moduscarry.com/jennifer-lawrence-answers-liam-hemsworths-tuna-kiss-claim/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
