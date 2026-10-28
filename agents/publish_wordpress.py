@@ -327,7 +327,7 @@ def main():
                 img = featured_image(front)
                 if img:
                     try:
-                        media_id, image_url = upload_media(img[0], img[1], image_caption())
+                        media_id, image_url = upload_media(img[0], img[1], field(front, "image_credit") or image_caption())
                         payload["featured_media"] = media_id
                         front = set_field(set_field(front, "wp_media_id", media_id), "wp_image", image_url)
                     except Exception as e:  # the article still goes out without its picture; it is retried on the next run
@@ -345,7 +345,7 @@ def main():
                 front = set_field(front, "status", "sent")
             elif status == "sent" and field(front, "wp_id") and featured_image(front):
                 img = featured_image(front)  # a sent article that got its image later (or whose upload failed)
-                media_id, image_url = upload_media(img[0], img[1], image_caption())
+                media_id, image_url = upload_media(img[0], img[1], field(front, "image_credit") or image_caption())
                 post = wp(f"posts/{field(front, 'wp_id')}", {"featured_media": media_id})
                 front = set_field(set_field(front, "wp_media_id", media_id), "wp_image", image_url)
                 if want != field(front, "wp_synced"):

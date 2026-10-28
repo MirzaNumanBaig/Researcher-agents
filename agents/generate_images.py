@@ -227,6 +227,40 @@ def brief_image(front):
         return ""
 
 
+def real_photo(front):
+    """(webp bytes, alt, credit) from data/character-sheet.json (newest free-licence Commons photo of the article's celebrity), else None.
+    Portrait photos are centred on a blurred copy of themselves so the face is never cropped. Needs image_pipeline.real_photos true."""
+    if not (json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("real_photos"):
+        return None
+    try:
+        from PIL import Image, ImageFilter
+        entry = json.loads((ROOT / "data" / "character-sheet.json").read_text()).get(field(front, "celebrity")) or {}
+        photo = (entry.get("photos") or [None])[0]
+        if not photo:
+            return None
+        req = urllib.request.Request(photo.get("thumb") or photo["url"], headers={"User-Agent": "ModusCarry/1.0 (themoduscarry@gmail.com)"})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            img = Image.open(io.BytesIO(r.read())).convert("RGB")
+        scale = max(OUT_W / img.width, OUT_H / img.height)
+        if img.width / img.height >= OUT_W / OUT_H * 0.85:  # landscape-ish: plain cover crop
+            big = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
+            left, top = (big.width - OUT_W) // 2, (big.height - OUT_H) // 6
+            canvas = big.crop((left, top, left + OUT_W, top + OUT_H))
+        else:
+            bg = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
+            top = max(0, (bg.height - OUT_H) // 5)
+            canvas = bg.crop(((bg.width - OUT_W) // 2, top, (bg.width - OUT_W) // 2 + OUT_W, top + OUT_H)).filter(ImageFilter.GaussianBlur(40))
+            fg = img.resize((round(img.width * OUT_H / img.height), OUT_H), Image.LANCZOS)
+            canvas.paste(fg, ((OUT_W - fg.width) // 2, 0))
+        out = io.BytesIO()
+        canvas.save(out, "WEBP", quality=WEBP_QUALITY, method=6)
+        import html; desc = html.unescape(photo.get("description") or "photographed in 2026")
+        return out.getvalue(), f"{field(front, 'celebrity')}: {desc}"[:200], photo["credit"]
+    except Exception as e:
+        print(f"real photo unavailable for {field(front, 'celebrity')} ({e}); using an AI scene", file=sys.stderr)
+        return None
+
+
 def main():
     if "--sample" in sys.argv:
         return sample()
@@ -262,6 +296,15 @@ def main():
         if used_today(today) >= cap:
             print(f"daily image cap reached ({cap} attempts today, UTC); the remaining articles wait until tomorrow so the free allowance is not used up")
             break
+        rp = real_photo(front)
+        if rp:  # a real, free-licence photo of the person beats any AI picture; no Cloudflare neurons used
+            out_dir.mkdir(parents=True, exist_ok=True)
+            (out_dir / f"{f.stem}.webp").write_bytes(rp[0])
+            front = set_field(set_field(set_field(front, "image", f"images/{f.stem}.webp"), "image_alt", rp[1]), "image_credit", rp[2])
+            f.write_text(f"---\n{front}\n---\n\n{body}")
+            done += 1
+            print(f"ok {f.name} -> real photo ({rp[2]})")
+            continue
         res = None
         if use_pipeline:
             try:
