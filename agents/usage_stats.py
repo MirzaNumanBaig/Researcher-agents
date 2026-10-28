@@ -16,7 +16,8 @@ def _json(path, default):
 
 def neuron_summary(root=ROOT, cfg=None, today=None):
     """Today's estimated neurons per account slot against the budget, the picture attempts, and the last 14 days.
-    Read from articles/image-meta/_usage.json, which agents/cf_accounts.py keeps. The numbers are ESTIMATES made from the calls we sent."""
+    Read from articles/image-meta/_usage.json, which agents/cf_accounts.py keeps. The numbers are ESTIMATES made from the calls we sent;
+    an account Cloudflare itself stopped ("daily free allocation used up") counts as the full free limit and is flagged `spent`."""
     cfg = cfg or {}
     pipe = cfg.get("image_pipeline") or {}
     today = today or datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -31,10 +32,11 @@ def neuron_summary(root=ROOT, cfg=None, today=None):
         days[today] = {"neurons": todays, "images": u.get("images", 0)}
     history = [{"date": d, "total": sum(int(x) for x in (v.get("neurons") or {}).values()), "images": v.get("images", 0)}
                for d, v in sorted(days.items())[-14:]]
-    slots = sorted({int(k) for k in todays if str(k).isdigit()} | {1})
+    spent = {int(k) for k in (u.get("spent") or []) if str(k).isdigit()} if is_today else set()
+    slots = sorted({int(k) for k in todays if str(k).isdigit()} | spent | {1})
     return {"date": today, "has_data": bool(u), "budget": int(pipe.get("neuron_budget", 9000)), "free_limit": FREE_NEURONS,
             "model": pipe.get("image_model") or "@cf/black-forest-labs/flux-2-klein-4b", "images_today": u.get("images", 0) if is_today else 0,
-            "accounts": [{"slot": s, "used": int(todays.get(str(s), 0))} for s in slots], "history": history}
+            "accounts": [{"slot": s, "used": max(int(todays.get(str(s), 0)), FREE_NEURONS if s in spent else 0), "spent": s in spent} for s in slots], "history": history}
 
 
 def claude_summary(root=ROOT, today=None):

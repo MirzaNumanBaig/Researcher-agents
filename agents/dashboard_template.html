@@ -126,6 +126,7 @@ h2.sec{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.0
 footer{color:var(--mut);font-size:12px;padding-block:28px 40px;max-width:70ch}
 
 /* usage view */
+.usagebar{padding-top:12px}
 .peoplebar[hidden],.people[hidden],#profile[hidden]{display:none}
 .usage{display:grid;gap:16px;margin:4px 0 24px}
 .ucard{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;min-width:0}
@@ -178,6 +179,7 @@ details>div{padding:0 14px 12px}
 <div class="actions"><button class="btn pri" id="run">Run now</button><button class="btn" id="conn">Setup</button></div>
 </div></header>
 <main class="wrap">
+<section class="health usagebar" id="usagebar" aria-label="Usage today"></section>
 <section class="strip"><span class="pill" id="state"></span><span class="muted" id="timer"></span><button class="btn sm" id="pause"></button><label class="qwps muted">New articles go to <select id="q-wps" aria-label="Where new articles go on the website"><option value="draft">Draft</option><option value="pending">Pending review</option><option value="publish">Published (live)</option></select></label><label class="qwps muted" title="On: each new article gets an AI-generated featured image (needs the Cloudflare keys). Off: articles go out without an image."><input type="checkbox" id="q-img"> AI images</label><button class="btn sm" id="wp-sync" title="Check the website now and update these numbers">Sync site</button><div class="stats" id="stats"></div><div id="msg" role="status"></div></section>
 <section class="health" id="health" aria-label="Pipeline status"></section>
 <div class="peoplebar"><input id="pfind" type="search" placeholder="Find an actor…" aria-label="Find an actor"><button class="btn" id="pmore" type="button"></button></div>
@@ -416,6 +418,7 @@ const feed=ls=>'<div class="feed">'+ls.map(rowCard).join("")+'</div>';
 const olderBtn=n=>n?'<div style="text-align:center;margin:16px 0"><button class="btn" id="show-old">Show '+n+' older fresh stories</button></div>':"";
 function wireOlder(){const b=$("show-old");if(b)b.onclick=()=>{showOld=true;render()}}
 function render(){
+usageBar();
 $("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");$("v-usage").classList.toggle("on",view==="usage");
 ["q","batch","src","when","sort"].forEach(i=>$(i).hidden=view!=="stories");
 $("pool-seg").hidden=view!=="stories";
@@ -469,8 +472,8 @@ const bars=(rows,key,unit)=>{const mx=Math.max(1,...rows.map(r=>r[key]||0));
 return'<div class="bars" role="img" aria-label="Last '+rows.length+' days">'+rows.map(r=>'<div class="'+((r[key]||0)?"":"zero")+'" style="height:'+Math.max(3,Math.round((r[key]||0)/mx*100))+'%" title="'+esc(r.date)+': '+nf(r[key])+' '+unit+'"></div>').join("")+'</div>'+
 '<div class="bl">'+rows.map((r,i)=>'<span>'+(i%2===0||rows.length<9?esc(dshort(r.date)):"")+'</span>').join("")+'</div>'};
 function neuronCard(){const N=D.neurons||{},acc=N.accounts||[{slot:1,used:0}],lim=N.free_limit||10000,bud=N.budget||0;
-const rows=acc.map(a=>{const pct=bud?a.used/bud:a.used/lim,cls=pct>=1?"bad":pct>=.7?"warn":"";
-return'<div class="acc"><b>Account '+a.slot+'</b><div class="meter" role="img" aria-label="Account '+a.slot+': '+nf(a.used)+' of '+nf(bud||lim)+' neurons"><i class="'+cls+'" style="width:'+Math.min(100,Math.round(a.used/lim*100))+'%"></i>'+(bud?'<u style="left:'+Math.round(bud/lim*100)+'%" title="Budget '+nf(bud)+'"></u>':"")+'</div><span class="muted small">'+nf(a.used)+(bud?' of '+nf(bud):"")+' ('+Math.round(pct*100)+'%)</span></div>'}).join("");
+const rows=acc.map(a=>{const pct=a.spent?1:bud?a.used/bud:a.used/lim,cls=pct>=1?"bad":pct>=.7?"warn":"";
+return'<div class="acc"><b>Account '+a.slot+'</b><div class="meter" role="img" aria-label="Account '+a.slot+': '+nf(a.used)+' of '+nf(bud||lim)+' neurons"><i class="'+cls+'" style="width:'+Math.min(100,Math.round(a.used/lim*100))+'%"></i>'+(bud?'<u style="left:'+Math.round(bud/lim*100)+'%" title="Budget '+nf(bud)+'"></u>':"")+'</div><span class="muted small">'+(a.spent?"Cloudflare says its free limit is used up":nf(a.used)+(bud?' of '+nf(bud):"")+' ('+Math.round(pct*100)+'%)')+'</span></div>'}).join("");
 const total=acc.reduce((t,a)=>t+a.used,0),hist=(N.history||[]).slice(-14);
 return'<section class="ucard"><h2>Picture generation · Cloudflare neurons</h2><div class="muted small">'+esc((N.model||"").replace("@cf/black-forest-labs/",""))+' · today, '+esc(N.date||"")+' (UTC). Estimates from the calls we send, not Cloudflare\'s own meter. Free limit '+nf(lim)+' per account per day'+(bud?'; the next account takes over at '+nf(bud):"")+'.</div>'+
 (N.has_data?"":'<div class="empty" style="margin:12px 0">No picture usage recorded yet. It appears after the first picture is made with the updated pipeline.</div>')+
@@ -487,6 +490,14 @@ return'<section class="ucard"><h2>Article writing · Claude tokens</h2><div clas
 ((C.days||[]).some(d=>d.tokens)?'<div class="muted small">Input + output tokens per day</div>'+bars(C.days,"tokens","tokens"):"")+
 (wr?'<h3 class="sec" style="margin-top:16px">By writer account · 30 days</h3><div class="tw"><table class="ut"><tr><th>Writer</th><th class="n">Runs</th><th class="n">Input</th><th class="n">Output</th><th class="n">Cached</th><th class="n">Cost</th></tr>'+wr+'</table></div>':"")+
 (rec?'<h3 class="sec" style="margin-top:16px">Latest writer runs</h3><div class="tw"><table class="ut"><tr><th>When</th><th>Celebrity</th><th>Writer</th><th class="n">Input</th><th class="n">Output</th><th class="n">Cached</th><th class="n">Turns</th><th>Result</th></tr>'+rec+'</table></div>':"")+'</section>'}
+/* usage strip under the header: today's picture neurons per account and Claude tokens; a click opens the Usage tab */
+function usageBar(){const N=D.neurons||{},C=D.claude_usage||{},acc=N.accounts||[],bud=N.budget||0,lim=N.free_limit||1e4;
+const txt=acc.map(a=>"Acct "+a.slot+" "+(a.spent?"limit reached":nf(a.used)+(bud?" / "+nf(bud):""))).join(" · ");
+const worst=Math.max(0,...acc.map(a=>a.spent?1:bud?a.used/bud:a.used/lim)),allOut=acc.length>0&&acc.every(a=>a.spent||(bud&&a.used>=bud));
+const cls=allOut?"bad":worst>=.7?"warn":"ok",T=C.today||{},W=C.week||{};
+$("usagebar").innerHTML='<button class="hc '+cls+'" data-u title="Estimated neurons today (UTC). Click for details"><i></i><b>Pictures</b><span class="muted">'+esc(txt)+'</span></button>'+
+'<button class="hc ok" data-u title="Tokens used by the article writers. Click for details"><i></i><b>Claude</b><span class="muted">'+(C.has_data?kf(T.tokens)+" tokens today · "+nf(T.articles)+" article"+(T.articles===1?"":"s")+" · 7 days "+kf(W.tokens):"no usage recorded yet")+'</span></button>';
+$("usagebar").querySelectorAll("[data-u]").forEach(b=>b.onclick=()=>{view="usage";render();$("v-usage").scrollIntoView({block:"start"})})}
 const usageView=()=>'<div class="usage">'+neuronCard()+claudeCard()+'</div>';
 /* status */
 function nextRun(){if(!D.last_run)return null;return new Date(new Date(D.last_run).getTime()+D.interval_hours*36e5)}
