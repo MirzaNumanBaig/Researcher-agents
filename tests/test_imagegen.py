@@ -593,18 +593,19 @@ class NeuronBudget(MultipleAccounts):
         self.assertEqual(cf_accounts.used("a"), 340)
         self.assertEqual(cf_accounts.used("b"), 170)
 
-    def test_usage_is_stored_per_account_under_a_hash_and_keeps_the_image_counter(self):
+    def test_usage_is_stored_per_account_slot_and_keeps_the_image_counter(self):
         (Path(self.meta) / "_usage.json").write_text(json.dumps({"date": cf_accounts._today(), "images": 7}))
         generator.generate("p")
         u = self.usage()
         self.assertEqual(u["images"], 7)
         self.assertEqual(list(u["neurons"].values()), [170])
-        self.assertNotIn('"a"', json.dumps(u["neurons"]))  # the account id itself is never written
-        self.assertEqual(list(u["neurons"]), [cf_accounts.label("a")])
+        self.assertEqual(u["neurons"], {"1": 170})  # slot 1 = CF_ACCOUNT_ID; the account id itself is never written
+        self.assertNotIn('"a"', json.dumps(u))
 
-    def test_a_new_day_starts_from_zero(self):
-        (Path(self.meta) / "_usage.json").write_text(json.dumps({"date": "2000-01-01", "neurons": {cf_accounts.label("a"): 99999}}))
+    def test_a_new_day_starts_from_zero_and_yesterday_moves_into_history(self):
+        (Path(self.meta) / "_usage.json").write_text(json.dumps({"date": "2000-01-01", "images": 9, "neurons": {"1": 99999}}))
         self.assertEqual(cf_accounts.used("a"), 0)
+        self.assertEqual(cf_accounts.read_today()["history"]["2000-01-01"], {"neurons": {"1": 99999}, "images": 9})
         generator.generate("p")
         self.assertEqual(self.accounts_used(), ["a"])
 
@@ -999,7 +1000,7 @@ class GenerateImagesIntegration(unittest.TestCase):
         today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         r, front, meta_files, has_img = self.run_script()
         self.assertEqual((self.usage_after["date"], self.usage_after["images"]), (today, 1))
-        self.assertEqual(list(self.usage_after["neurons"].values()), [170])  # one schnell picture on the only account, kept under a hash, never the id
+        self.assertEqual(self.usage_after["neurons"], {"1": 170})  # one schnell picture on the first account, kept under its slot number, never the id
         r, front, meta_files, has_img = self.run_script(usage={"date": today, "images": 40})
         self.assertIn("daily image cap reached", r.stdout)
         self.assertFalse(has_img)

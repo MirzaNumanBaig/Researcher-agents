@@ -206,23 +206,15 @@ def usage_file():
 
 
 def used_today(today):
-    try:
-        u = json.loads(usage_file().read_text())
-        return u["images"] if u.get("date") == today else 0
-    except (OSError, ValueError, KeyError):
-        return 0
+    u = cf_accounts.read_today()
+    return u.get("images", 0) if u.get("date") == today else 0
 
 
 def add_used(today, n):
-    """Count image attempts for today; the per-account neuron estimates kept by cf_accounts in the same file are preserved."""
-    try:
-        u = json.loads(usage_file().read_text())
-    except (OSError, ValueError):
-        u = {}
-    u = u if isinstance(u, dict) and u.get("date") == today else {"date": today}
+    """Count image attempts for today; the per-account neuron estimates and the history kept by cf_accounts in the same file are preserved."""
+    u = cf_accounts.read_today()
     u["images"] = u.get("images", 0) + n
-    usage_file().parent.mkdir(parents=True, exist_ok=True)
-    usage_file().write_text(json.dumps(u) + "\n")
+    cf_accounts.write(u)
 
 
 def brief_image(front):

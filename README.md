@@ -15,6 +15,13 @@ Edit `country`, the `google_news` locale (`hl`, `gl`, `ceid`, e.g. `de` / `DE` /
 
 Enable the dashboard: repo Settings → Pages → deploy from branch, folder `/docs`.
 
+## Usage in the dashboard
+
+The dashboard's **Usage** tab shows two things:
+
+- **Picture generation (Cloudflare neurons):** today's estimated neurons per account against the 9,000 budget and the 10,000 free limit, picture attempts today, and the last 14 days. Source: `articles/image-meta/_usage.json`. These are estimates from the calls we send, not Cloudflare's own meter.
+- **Article writing (Claude tokens):** input, output and cached tokens, turns and the API-equivalent cost for today, 7 days and 30 days, per writer account, and the latest writer runs. Source: `data/claude_usage.json`, filled by `agents/record_usage.py`, which `write-articles.yml` runs after each article from the `execution_file` output of `anthropics/claude-code-action`. Tokens are exact; a Claude plan is not billed per token, so the dollar figure is only what the same work would cost on the API. Codex runs are not counted (no usage data).
+
 ## Article → Image pipeline (featured images)
 
 `agents/imagegen/` turns each article into an original FLUX.1 schnell picture:
@@ -43,7 +50,7 @@ Every setting is in `.env.example` (environment variable `IMG_*`, or `config.jso
 
 **Model:** FLUX.2 klein 4B (`@cf/black-forest-labs/flux-2-klein-4b`) is the default; FLUX.1 schnell stays available (`IMG_IMAGE_MODEL`). Klein is asked for 1024x576 (multipart request, no steps) and upscaled 2x; schnell for 1536x864. If Cloudflare's safety filter flags a picture, a new seed is tried like any other rejected attempt.
 
-**Daily budget per account:** each call adds an estimate of its neurons (klein picture 150, schnell 170, text 20, vision 80) to `articles/image-meta/_usage.json`, kept per account under a hash. At `IMG_NEURON_BUDGET` (default 9,000 of the 10,000 free neurons) the next account takes over; Cloudflare's own limit is still the safety net. When every account is at its budget the run stops with a clear message. The numbers are estimates, so keep the margin.
+**Daily budget per account:** each call adds an estimate of its neurons (klein picture 150, schnell 170, text 20, vision 80) to `articles/image-meta/_usage.json`, kept per account slot (1 = `CF_ACCOUNT_ID`, 2 = `CF_ACCOUNT_ID_2` ...), never the account id, with 30 days of history. At `IMG_NEURON_BUDGET` (default 9,000 of the 10,000 free neurons) the next account takes over; Cloudflare's own limit is still the safety net. When every account is at its budget the run stops with a clear message. The numbers are estimates, so keep the margin.
 
 **More than one Cloudflare account:** add `CF_ACCOUNT_ID_2` + `CF_API_TOKEN_2` (and `_3`, `_4`) as GitHub secrets. The first account is used until Cloudflare says its free neurons are used up; the next one then takes over at once, for images, text and vision alike. The daily cap grows with the number of accounts. Only complete pairs count. Check Cloudflare's terms before opening extra free accounts; paying as you go on one account is the other way to get more.
 

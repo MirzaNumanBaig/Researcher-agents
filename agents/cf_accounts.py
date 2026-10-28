@@ -2,11 +2,10 @@
 Secrets: CF_ACCOUNT_ID + CF_API_TOKEN (the first account), then CF_ACCOUNT_ID_2 + CF_API_TOKEN_2, ... up to _9. Only complete pairs count.
 
 Which account is used: the first one that is neither spent nor over budget.
- - budget: each call adds an ESTIMATE of its neurons to articles/image-meta/_usage.json (kept per account under a short hash, never the id). When an account's estimate for
+ - budget: each call adds an ESTIMATE of its neurons to articles/image-meta/_usage.json (kept per account slot number, never the id). When an account's estimate for
    today (UTC) reaches IMG_NEURON_BUDGET (default 9000 of Cloudflare's 10,000 free neurons) the next account takes over. 0 turns the budget off.
  - safety net: when Cloudflare itself answers "you have used up your daily free allocation", that account is marked spent for the rest of the run.
 Text, vision and image calls share one pool, because they spend the same neurons."""
-import hashlib
 import json
 import os
 from datetime import datetime, timezone
@@ -72,32 +71,45 @@ def _today():
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
-def _read():
+def read_today():
+    """Today's usage record {date, neurons: {slot: n}, images, history}. A new UTC day starts empty and moves yesterday into history (kept 30 days)."""
     try:
         u = json.loads(usage_path().read_text())
     except (OSError, ValueError):
         u = {}
-    return u if isinstance(u, dict) and u.get("date") == _today() else {"date": _today()}
+    u = u if isinstance(u, dict) else {}
+    if u.get("date") == _today():
+        return u
+    history = dict(u.get("history") or {})
+    if u.get("date") and (u.get("neurons") or u.get("images")):
+        history[u["date"]] = {"neurons": u.get("neurons") or {}, "images": u.get("images", 0)}
+    return {"date": _today(), "history": dict(sorted(history.items())[-30:])}
 
 
-def label(account_id):
-    return hashlib.sha256(account_id.encode()).hexdigest()[:10]
-
-
-def used(account_id):
-    """Estimated neurons this account has spent today (UTC)."""
-    return int((_read().get("neurons") or {}).get(label(account_id), 0))
-
-
-def record(account_id, neurons):
-    """Add an estimate to today's counter for this account. Other keys of the usage file (the image-attempt counter) are kept."""
-    u = _read()
-    u.setdefault("neurons", {})[label(account_id)] = used(account_id) + int(neurons)
+def write(u):
     try:
         usage_path().parent.mkdir(parents=True, exist_ok=True)
         usage_path().write_text(json.dumps(u) + "\n")
     except OSError:
         pass  # a counter that cannot be saved must never stop a picture
+
+
+def label(account_id):
+    """The account's slot as text: "1" for CF_ACCOUNT_ID, "2" for CF_ACCOUNT_ID_2 ... The usage file holds only slot numbers, never an account id."""
+    ids = [a[0] for a in load()]
+    return str(ids.index(account_id) + 1) if account_id in ids else "0"
+
+
+def used(account_id):
+    """Estimated neurons this account has spent today (UTC)."""
+    return int((read_today().get("neurons") or {}).get(label(account_id), 0))
+
+
+def record(account_id, neurons):
+    """Add an estimate to today's counter for this account. Other keys of the usage file (the image-attempt counter, history) are kept."""
+    u = read_today()
+    u.setdefault("neurons", {})[label(account_id)] = used(account_id) + int(neurons)
+    write(u)
 
 
 def over_budget(account_id):

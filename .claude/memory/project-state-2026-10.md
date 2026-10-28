@@ -20,6 +20,8 @@ Image pipeline v2 (branch feature/image-pipeline-v2, stacked on the whole pipeli
 
 Decisions 2026-10-28 (user): default image model is FLUX.2 klein 4B (schnell stays selectable); several Cloudflare accounts (CF_ACCOUNT_ID_2.. secrets, `agents/cf_accounts.py`) with a 9,000-neuron daily budget per account (estimates in articles/image-meta/_usage.json), switch also on Cloudflare's 429. Klein output was FLAGGED by Cloudflare's safety filter for a glamour/nightclub portrait prompt (HTTP 400 'output has been flagged'); do not reword prompts to evade the filter, a new seed is simply tried. Second account verified working with a schnell test run.
 
+Dashboard Usage tab (2026-10-28, on feature/image-pipeline-v2): Cloudflare neuron estimates per account slot + Claude tokens per article. The Claude numbers need a real writer run to confirm the claude-code-action `execution_file` format (parser is tolerant and tested only on a synthetic log); until then the tab says "No Claude usage recorded yet".
+
 Pending / open (verify each; they may be done by the time you read this):
 - Check the FIRST real image run: the hourly publisher (:17 past the hour) and the writer run's publish step. Look at the `generate_images.py` lines in the logs (`N image(s) created, M failed`), then confirm the dashboard Articles cards show images. Recent sent posts (under 48 hours old) without an image should get one. If it fails (401/403/429), read the error body before changing anything; sample runs on 2026-10-27 proved the two Cloudflare secrets work.
 - PR #5 (klein4b + featured-image skill) is open and conflicts with `main`; offer to rebase it (it would then only add the skill and prompt tweaks) or close it.
