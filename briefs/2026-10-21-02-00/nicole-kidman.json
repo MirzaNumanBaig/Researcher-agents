@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "HELLO! Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUVpLZ09oQkJwdy0zanRydV8tVjJOTXBMdDBXdVlDSkdhS1dTcndvOThfejJVYk5vejZYWGIzTWs3VTNZZVQzNV9mbXZ3NlFrbERlRG0wRGZOaV9oTXFmLVpYWHZjY1hfYmVGTzVzdnZ4am8zZzVETk9JSFNVcjgwSkdDUTRxbFhFbmttcmNhaTMyYWpMQV9DYkJ3WERDTkwyQ3Z3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUVpLZ09oQkJwdy0zanRydV8tVjJOTXBMdDBXdVlDSkdhS1dTcndvOThfejJVYk5vejZYWGIzTWs3VTNZZVQzNV9mbXZ3NlFrbERlRG0wRGZOaV9oTXFmLVpYWHZjY1hfYmVGTzVzdnZ4am8zZzVETk9JSFNVcjgwSkdDUTRxbFhFbmttcmNhaTMyYWpMQV9DYkJ3WERDTkwyQ3Z3?oc=5",
+          "article_url": "https://www.hellomagazine.com/us/930144/nicole-kidman-stands-out-in-unexpected-victorias-secret-look/",
+          "image": "https://images.hellomagazine.com/horizon/landscape/1200/54a4714fa5fb-gettyimages-2300409374.jpg"
         }
-      ]
+      ],
+      "image": "https://images.hellomagazine.com/horizon/landscape/1200/54a4714fa5fb-gettyimages-2300409374.jpg",
+      "image_source": "https://www.hellomagazine.com/us/930144/nicole-kidman-stands-out-in-unexpected-victorias-secret-look/"
     },
     {
       "title": "You Won't Believe Nicole Kidman's Reaction!",
@@ -20,9 +24,13 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXp5blFkTkpUNldhR2gxcEhwZ2VaNGFoajhLQWcyWWd6TmJWaUhjb293dU9KRmpQU1N1UHllSkJMdi1QZ2F3Ym5paHpFR1ZpcW1mTk1iVFBSekRydS1xS01FWWxleXZfOWgyb0JrM1VpTksxWkY2TG05V19DZlZwQXpBTHM4Tk1RaF81VlhFLUV3bzZi?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXp5blFkTkpUNldhR2gxcEhwZ2VaNGFoajhLQWcyWWd6TmJWaUhjb293dU9KRmpQU1N1UHllSkJMdi1QZ2F3Ym5paHpFR1ZpcW1mTk1iVFBSekRydS1xS01FWWxleXZfOWgyb0JrM1VpTksxWkY2TG05V19DZlZwQXpBTHM4Tk1RaF81VlhFLUV3bzZi?oc=5",
+          "article_url": "https://www.yahoo.com/lifestyle/videos/wont-believe-nicole-kidmans-reaction-110800433.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/2659c2796d4b3f85b29fc4441535e48bbb252c866b26255d19b63ae6344327e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarie_claire_vertical_videos_214%2F5ba5a2a951f3e5c79f06114289309ff9.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/2659c2796d4b3f85b29fc4441535e48bbb252c866b26255d19b63ae6344327e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarie_claire_vertical_videos_214%2F5ba5a2a951f3e5c79f06114289309ff9.jpg",
+      "image_source": "https://www.yahoo.com/lifestyle/videos/wont-believe-nicole-kidmans-reaction-110800433.html"
     }
   ]
 }

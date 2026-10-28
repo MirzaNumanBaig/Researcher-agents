@@ -31,9 +31,13 @@
       "outlets": [
         {
           "source": "Interview Magazine",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHB2MTB5ZU5Vb28yMjVobG9TXzFITkdRMFo0RDNmdVFVR3ZpdHJXZHFPREowYnFhWFNPcnhsNG5oV3hVLS1vcEN3bGJFOEpBWE4yM1ZkcEZrM21SVWNuQnI0eUE2YjNnOU9uRE9NQmNjMHZsOGc4UWFjc1RMUHJCZGpDUzlJSW9wdE1CVllZcUo2LURCdE5vVzhaY2dleUdz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHB2MTB5ZU5Vb28yMjVobG9TXzFITkdRMFo0RDNmdVFVR3ZpdHJXZHFPREowYnFhWFNPcnhsNG5oV3hVLS1vcEN3bGJFOEpBWE4yM1ZkcEZrM21SVWNuQnI0eUE2YjNnOU9uRE9NQmNjMHZsOGc4UWFjc1RMUHJCZGpDUzlJSW9wdE1CVllZcUo2LURCdE5vVzhaY2dleUdz?oc=5",
+          "article_url": "https://www.interviewmagazine.com/theater/ella-lily-hyland-electra-persona-cate-blanchett-nina-hoss",
+          "image": "https://www.interviewmagazine.com/wp-content/uploads/2026/10/unnamed-3.jpg"
         }
-      ]
+      ],
+      "image": "https://www.interviewmagazine.com/wp-content/uploads/2026/10/unnamed-3.jpg",
+      "image_source": "https://www.interviewmagazine.com/theater/ella-lily-hyland-electra-persona-cate-blanchett-nina-hoss"
     },
     {
       "title": "Cate in Armani",

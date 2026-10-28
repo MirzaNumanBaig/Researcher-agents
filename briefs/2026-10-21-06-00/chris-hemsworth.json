@@ -31,9 +31,19 @@
       "outlets": [
         {
           "source": "Parade Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONF9BWm8zWXc3TGMtTUpSbzcyTkJMVGtDQjRzU0ZMaXpFZU5yR0ZpTi16WXFtQ0lDdDJXMjVVQjR4NzY1Y1JtU2RFV3prTHhONlphNDRibUZUaEdWcl9UM0hiUWRjTXM4Wmo4LUVmZXlUWUlDRF9ZM0c2NVhIZXZ3UHlwbEV4LW5oYnhMTnZyQjgtaFAtaVhHaVVOb3d0WXJJaFlPQjl4enZ5dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONF9BWm8zWXc3TGMtTUpSbzcyTkJMVGtDQjRzU0ZMaXpFZU5yR0ZpTi16WXFtQ0lDdDJXMjVVQjR4NzY1Y1JtU2RFV3prTHhONlphNDRibUZUaEdWcl9UM0hiUWRjTXM4Wmo4LUVmZXlUWUlDRF9ZM0c2NVhIZXZ3UHlwbEV4LW5oYnhMTnZyQjgtaFAtaVhHaVVOb3d0WXJJaFlPQjl4enZ5dw?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOElFYTluUVVKY2RhT2NXbkUzQ2xRcEJUbncxUVc5cHpjMVVOTmU4eF85SzQ5b3VrVUdDWmQ0TlVHMGFsUmluQXlpbDhzdFl1WFBzTkxaVHVEa3ROYnd5SDVYRVFUUDNuVTVhX1BYUE51a192SmhEX2VlTDhzV2ZLS1Y0MjVnTm1DcVZuWDdnNFdLMHd6V042alJqVVNiendqVkpfMl92ejNrSzhlOEYw?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/chris-hemsworth-award-winning-australian-190233905.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/4bc2cf8c692db8bf854ce07bbcb52798c245443ef7c80fa28aefaafbbb88f91f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Fae5388b79e46e7fb8b1bba7750396148.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/4bc2cf8c692db8bf854ce07bbcb52798c245443ef7c80fa28aefaafbbb88f91f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Fae5388b79e46e7fb8b1bba7750396148.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/chris-hemsworth-award-winning-australian-190233905.html"
     },
     {
       "title": "Archie Rose Australian Whiskies Hit US with Chris Hemsworth",
@@ -42,9 +52,13 @@
       "outlets": [
         {
           "source": "The Whiskey Wash",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUxON1luRkE1RV9SN0ZaQmJKZUUzc3dkZ0xzbVEzdWczeHNwZVJicHQxb2FvSUYxSkhTdmJiMTdMU2xsQnhDLUFrT2tsTGE2RGJVUWhTTVR3eUxOd2NLZFBMVHFlX2hnZ3VXdGlvRDN4cjhoY1dpeTVGWHRPelBOQ1EzNTIweFJPZHV6MjRCQ0N4R3NPMjI5VHl6Vm5rLVBtYlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUxON1luRkE1RV9SN0ZaQmJKZUUzc3dkZ0xzbVEzdWczeHNwZVJicHQxb2FvSUYxSkhTdmJiMTdMU2xsQnhDLUFrT2tsTGE2RGJVUWhTTVR3eUxOd2NLZFBMVHFlX2hnZ3VXdGlvRDN4cjhoY1dpeTVGWHRPelBOQ1EzNTIweFJPZHV6MjRCQ0N4R3NPMjI5VHl6Vm5rLVBtYlE?oc=5",
+          "article_url": "https://thewhiskeywash.com/whiskey-news/archie-rose-australian-whiskies-hit-us-with-chris-hemsworth/",
+          "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792402509.webp"
         }
-      ]
+      ],
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792402509.webp",
+      "image_source": "https://thewhiskeywash.com/whiskey-news/archie-rose-australian-whiskies-hit-us-with-chris-hemsworth/"
     },
     {
       "title": "Hemsworth leads bold new push into US market",

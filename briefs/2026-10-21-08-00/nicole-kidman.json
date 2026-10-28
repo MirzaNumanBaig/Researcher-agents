@@ -24,9 +24,13 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQclhBZXZZdkprMVFEQVJrQ1M1ODQxaWdEaDd0YmE1YXlhQ1FwWEx4UmRhMlFqQlQyN3Y0VlJXTnJRV1FUOHZkZVRHRHlPVTJvQUhPUDdwUnpKb3Q4Z1h0RmhxT2hsUHNjYjI3OTQybFkyRjJ2WWEtUDNrMEduR1FLUG9FWkZlMHlZSFBCQ0JWMzlxNjlLN2VOWUtqUzVaVERiRnA0elBB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQclhBZXZZdkprMVFEQVJrQ1M1ODQxaWdEaDd0YmE1YXlhQ1FwWEx4UmRhMlFqQlQyN3Y0VlJXTnJRV1FUOHZkZVRHRHlPVTJvQUhPUDdwUnpKb3Q4Z1h0RmhxT2hsUHNjYjI3OTQybFkyRjJ2WWEtUDNrMEduR1FLUG9FWkZlMHlZSFBCQ0JWMzlxNjlLN2VOWUtqUzVaVERiRnA0elBB?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/sunday-rose-kidman-urban-reflects-162140529.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/06c908e75492bc411219926a794e9b52bf5f7263eb35a5c38386c55fa137d525/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Fe2f49e6d20826077a79cce335e3a00a4.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/06c908e75492bc411219926a794e9b52bf5f7263eb35a5c38386c55fa137d525/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Fe2f49e6d20826077a79cce335e3a00a4.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/sunday-rose-kidman-urban-reflects-162140529.html"
     },
     {
       "title": "Sunday Rose Kidman Urban Explains What It’s Really Like to Have Famous Parents",

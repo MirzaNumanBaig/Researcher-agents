@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Nine.com.au",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcnhNbFlwbEh6SmdrV1p1eThuajBPRlZBdGZoYzAwVzhDM203QWNGbkFTRGtoSEVFZ0Iwc1hjZXplUGRUUXBhNXRLT1pud2JuU3djVGk1LUZqRGpyRVRPZXJ5aTZPQkpPR09oRVJwY2g1X0M0czZJelh1R1VGTzZwTmhFWTZ6czFxV0NLbGtQSkZDTUJ2RGdOZWI0MlNHN250M3ZyOEQzVUlKY1dET2NmdGhSaUxSUk9nZnVyZE9sQlBXTFp6R3V6QnlfQ2xiZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcnhNbFlwbEh6SmdrV1p1eThuajBPRlZBdGZoYzAwVzhDM203QWNGbkFTRGtoSEVFZ0Iwc1hjZXplUGRUUXBhNXRLT1pud2JuU3djVGk1LUZqRGpyRVRPZXJ5aTZPQkpPR09oRVJwY2g1X0M0czZJelh1R1VGTzZwTmhFWTZ6czFxV0NLbGtQSkZDTUJ2RGdOZWI0MlNHN250M3ZyOEQzVUlKY1dET2NmdGhSaUxSUk9nZnVyZE9sQlBXTFp6R3V6QnlfQ2xiZw?oc=5",
+          "article_url": "https://www.nine.com.au/entertainment/front-row-aussie-theatre-moulin-rouge-cast-reveal-country-music-star-stunt-20261020-p616ur.html",
+          "image": "https://static.ffx.io/images/$zoom_1.021%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_200%2C$y_114/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/e5403e45c15e143df98b2710cd1ca5a8e92bf5e02140115efbcc2dfdcd8d359f"
         }
-      ]
+      ],
+      "image": "https://static.ffx.io/images/$zoom_1.021%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_200%2C$y_114/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/e5403e45c15e143df98b2710cd1ca5a8e92bf5e02140115efbcc2dfdcd8d359f",
+      "image_source": "https://www.nine.com.au/entertainment/front-row-aussie-theatre-moulin-rouge-cast-reveal-country-music-star-stunt-20261020-p616ur.html"
     },
     {
       "title": "Charli XCX brings out Adéla at LA show",
@@ -31,9 +35,19 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0gxMDBtbWQ0ZFFmWnJaaHd3dnVfa09KZ3M1bzExRk5kcGJvZGs3Vk1IRnQ0b1lGMG8zNTRmSkx5VUtKLUoyWHVpeVo0bldnNGNvTlozUXU4aFEzaDBITjRJaTJwSjlteDR6cm9MNVBVcFZ3dzVQOEFINW5iaGxuZ3l5bmtPdndlTXdvRi1rY3h6NEJLdkdBXw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0gxMDBtbWQ0ZFFmWnJaaHd3dnVfa09KZ3M1bzExRk5kcGJvZGs3Vk1IRnQ0b1lGMG8zNTRmSkx5VUtKLUoyWHVpeVo0bldnNGNvTlozUXU4aFEzaDBITjRJaTJwSjlteDR6cm9MNVBVcFZ3dzVQOEFINW5iaGxuZ3l5bmtPdndlTXdvRi1rY3h6NEJLdkdBXw?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/tv/articles/nicole-kidman-dallas-set-legal-202917738.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/a7780cefcfe8168b35c39efa294414d625f8479ff039f1f5c907f55e551b159b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffort_worth_star_telegram_mcclatchy_952%2F78e7f5b8e33c37f6b4dd87595994aec4.jpg"
+        },
+        {
+          "source": "Fort Worth Star-Telegram",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdGR6dWVoTDBZT2VoODhIOVpUdkluVXBvcVhnMWUtTFRQMWNicXlRUTZCSDNIXzF1TzFuU0prbnhiRXFkblBXY1lhaUZpQmxrODZhb2FrSUxVdDdRRFFGd3h3R3djU0wxdFJGSmNUMnIySHB6SW1KbTBPQ0hOSl9RTnF3?oc=5",
+          "article_url": "",
+          "image": ""
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/a7780cefcfe8168b35c39efa294414d625f8479ff039f1f5c907f55e551b159b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffort_worth_star_telegram_mcclatchy_952%2F78e7f5b8e33c37f6b4dd87595994aec4.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/tv/articles/nicole-kidman-dallas-set-legal-202917738.html"
     },
     {
       "title": "Nicole Kidman continues dunking on Keith Urban even when she's not trying",

@@ -20,9 +20,13 @@
       "outlets": [
         {
           "source": "MiddleEasy",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXhRZGk1bnFGRTNNM2pmNGk0M2JyVDc4M3pJUnlLb0Zod2MzT21EcEhNOS02aGFmSDVyRVdERmJpWUU2OTFLMzFGS0psZmRxemg2SVR5RW1VVnc4cG9aMTdPZHpzZzJxV3ZkaWFWTnJEdURyai1lbkpQc2YwazFlWXlHcTJVT0dPSHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXhRZGk1bnFGRTNNM2pmNGk0M2JyVDc4M3pJUnlLb0Zod2MzT21EcEhNOS02aGFmSDVyRVdERmJpWUU2OTFLMzFGS0psZmRxemg2SVR5RW1VVnc4cG9aMTdPZHpzZzJxV3ZkaWFWTnJEdURyai1lbkpQc2YwazFlWXlHcTJVT0dPSHc?oc=5",
+          "article_url": "https://middleeasy.com/muay-thai/rodtang-chris-hemsworth-extraction3-visit-gloves/",
+          "image": "https://middleeasy.com/wp-content/uploads/2026/10/rodtang-chris-hemsworth-extraction3-visit-gloves.jpg"
         }
-      ]
+      ],
+      "image": "https://middleeasy.com/wp-content/uploads/2026/10/rodtang-chris-hemsworth-extraction3-visit-gloves.jpg",
+      "image_source": "https://middleeasy.com/muay-thai/rodtang-chris-hemsworth-extraction3-visit-gloves/"
     }
   ]
 }

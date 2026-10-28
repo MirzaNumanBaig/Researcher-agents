@@ -9,13 +9,19 @@
       "outlets": [
         {
           "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFd0LXNJOXhxNm80cUMzTjEwMV96OFpBcDMwXzFraHEwakU0T09zZ1R0SDRYRTUzTUVFak43WGZnS3AyWV83VkNWa3QyLVkwajZjV0ZPNm5XQjFmQktyN0ZXcmk3c3hiU0hDTE02a2pBbDZjVUVaYTg0QmxfeHNvemRPVmdmS3BhMm0ta1lOdUthTjVZaGxhQ1hTekwtUlVldTFKLV9PajJTTEgtVlZIYmg0TkM1SWRzZ2RZTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFd0LXNJOXhxNm80cUMzTjEwMV96OFpBcDMwXzFraHEwakU0T09zZ1R0SDRYRTUzTUVFak43WGZnS3AyWV83VkNWa3QyLVkwajZjV0ZPNm5XQjFmQktyN0ZXcmk3c3hiU0hDTE02a2pBbDZjVUVaYTg0QmxfeHNvemRPVmdmS3BhMm0ta1lOdUthTjVZaGxhQ1hTekwtUlVldTFKLV9PajJTTEgtVlZIYmg0TkM1SWRzZ2RZTA?oc=5",
+          "article_url": "https://www.dallasnews.com/arts-entertainment/tv/article/downtown-dallas-filming-nicole-kidman-elle-fanning-22484176.php",
+          "image": ""
         },
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTFObjBCMm1CRUM4NnBrbmdidWpzZm5DdHhDbXdNNE4zcFhzY3lUb1g4WnN5MGU4UGZJdE03eHRiSHBESVNEV2M0LUxLY0ZCQ0pKVmdsTzFsUnRBVkNtVlE4TkdPTzl1V3JmRWFja3ZMenJreXdPMmk3c3dUajNBczVNR1I0U2xRbnVsSFNWNGlPNnpqV1BFcA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTFObjBCMm1CRUM4NnBrbmdidWpzZm5DdHhDbXdNNE4zcFhzY3lUb1g4WnN5MGU4UGZJdE03eHRiSHBESVNEV2M0LUxLY0ZCQ0pKVmdsTzFsUnRBVkNtVlE4TkdPTzl1V3JmRWFja3ZMenJreXdPMmk3c3dUajNBczVNR1I0U2xRbnVsSFNWNGlPNnpqV1BFcA?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/tv/articles/nicole-kidman-elle-fanning-led-192227041.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/c36d3f03e7388f1eefc1a443ff14fe40e4f7db7f13ff9fcb62b5ef594b83a091/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdallas_morning_news_articles_211%2F3c7c5e437f9c3655d26e1822cb428596.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/c36d3f03e7388f1eefc1a443ff14fe40e4f7db7f13ff9fcb62b5ef594b83a091/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdallas_morning_news_articles_211%2F3c7c5e437f9c3655d26e1822cb428596.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/tv/articles/nicole-kidman-elle-fanning-led-192227041.html"
     },
     {
       "title": "Nicole Kidman’s Rich-Looking Handbag Is Proof That the Right Fall Color Can Elevate Any Outfit",

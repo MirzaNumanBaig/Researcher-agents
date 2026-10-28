@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "ONE Championship",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeENqVl9sT1UxRUNJTDJyUjBvZDZjUl84MW1uVGYzNjlaaVVnVW1UMURBbXdIM0lvbU9mb0ZRc1YzNmdqX3ZQX3F6dkRoY0xMSmlmaUNaSlhuSjhzbVJZR3NFWjBfUmZ1THBzdXNtcjVVb3V5R3J5cVdsQWl5SUctaVNlUGpnSTljNkdPSGJZTnUwYkJ6dVZuYTR2ekt3eUk5dS1fVWZ6OUVVVjhSRm9vTlgxM0RvMGthMG9WbFAzMmJFbUpS?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeENqVl9sT1UxRUNJTDJyUjBvZDZjUl84MW1uVGYzNjlaaVVnVW1UMURBbXdIM0lvbU9mb0ZRc1YzNmdqX3ZQX3F6dkRoY0xMSmlmaUNaSlhuSjhzbVJZR3NFWjBfUmZ1THBzdXNtcjVVb3V5R3J5cVdsQWl5SUctaVNlUGpnSTljNkdPSGJZTnUwYkJ6dVZuYTR2ekt3eUk5dS1fVWZ6OUVVVjhSRm9vTlgxM0RvMGthMG9WbFAzMmJFbUpS?oc=5",
+          "article_url": "https://www.onefc.com/news/thor-meets-the-iron-man-chris-hemsworth-gets-surprise-visit-from-rodtang-while-filming-in-thailand/",
+          "image": "https://cdn.onefc.com/wp-content/uploads/2026/10/ONE-Article-Artwork.png"
         }
-      ]
+      ],
+      "image": "https://cdn.onefc.com/wp-content/uploads/2026/10/ONE-Article-Artwork.png",
+      "image_source": "https://www.onefc.com/news/thor-meets-the-iron-man-chris-hemsworth-gets-surprise-visit-from-rodtang-while-filming-in-thailand/"
     }
   ]
 }

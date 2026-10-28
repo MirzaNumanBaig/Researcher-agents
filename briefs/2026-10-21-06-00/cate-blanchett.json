@@ -64,13 +64,19 @@
       "outlets": [
         {
           "source": "AmNews Curtain Raiser",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGprYzBFNktKbWI4RWhkaU1iUHYwYjd4a3pnRTFyR3B4aEl0cVBxZDhNRGgtc3B1bnVJY2dCdUptbXd6VU5fWHg2SklWRTRRb2I5Z0hNdDh3SW14aXBUTmdIUjFJZkhqVDkzeEFIa0RwMHVUQTVMcUFCNC1yTE5mUF9LUFA5Uk0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGprYzBFNktKbWI4RWhkaU1iUHYwYjd4a3pnRTFyR3B4aEl0cVBxZDhNRGgtc3B1bnVJY2dCdUptbXd6VU5fWHg2SklWRTRRb2I5Z0hNdDh3SW14aXBUTmdIUjFJZkhqVDkzeEFIa0RwMHVUQTVMcUFCNC1yTE5mUF9LUFA5Uk0?oc=5",
+          "article_url": "",
+          "image": ""
         },
         {
           "source": "BroadwayWorld",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlEzclRtM1BuaDByLXg5cUdQRTZJOUpCMnRST2hYQy1IaFV5MXNiUW1pMHRKMkpuMzBmSDhqZHJIeXRlSW5IQXgzbkgySkwyODlneDAtNWhhY0hOSFRwSWtPNWROaDhoU2YwWjZzTE5teS1QZzVpMlZfb09QZWZDVFZ6Wk0yY0E4ejZSNkJ5ZklUVExIdEtNWWFicTBWVF9jMnJkZ19na3FUQnctT0Zzc0xqanl3M2JfRzBraA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlEzclRtM1BuaDByLXg5cUdQRTZJOUpCMnRST2hYQy1IaFV5MXNiUW1pMHRKMkpuMzBmSDhqZHJIeXRlSW5IQXgzbkgySkwyODlneDAtNWhhY0hOSFRwSWtPNWROaDhoU2YwWjZzTE5teS1QZzVpMlZfb09QZWZDVFZ6Wk0yY0E4ejZSNkJ5ZklUVExIdEtNWWFicTBWVF9jMnJkZ19na3FUQnctT0Zzc0xqanl3M2JfRzBraA?oc=5",
+          "article_url": "https://www.broadwayworld.com/bwwtv/article/Cate-Blanchett-to-Host-NY-Premiere-of-Displacement-Film-Fund-Shorts-20261020",
+          "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/Cate-Blanchett-to-Host-NY-Premiere-of-Displacement-Film-Fund-1792520566.jpg?format=jpeg&quality=80&width=1200"
         }
-      ]
+      ],
+      "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/Cate-Blanchett-to-Host-NY-Premiere-of-Displacement-Film-Fund-1792520566.jpg?format=jpeg&quality=80&width=1200",
+      "image_source": "https://www.broadwayworld.com/bwwtv/article/Cate-Blanchett-to-Host-NY-Premiere-of-Displacement-Film-Fund-Shorts-20261020"
     }
   ]
 }
