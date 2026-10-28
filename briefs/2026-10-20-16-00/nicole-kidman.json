@@ -56,9 +56,13 @@
       "outlets": [
         {
           "source": "LaineyGossip",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2R4NDI1cHFLeWhuWElTa19mdzVJQkdSRGoxM282aUxfRDBnREVLaXl3UXhtWXdVN182Q2hPRE0ybjBQdHZzdGsySGtOOHpaZ0lSX3BCeHlvTVVSMGx5dFpPMXN6dmdNWi1tUEZpUFlyX1hzVlF1b0dKeHktenBDWVFNWjJVeVIxeDJmNFdiT0FpSjBkemRxczVoRlMzMlpkWW0waQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2R4NDI1cHFLeWhuWElTa19mdzVJQkdSRGoxM282aUxfRDBnREVLaXl3UXhtWXdVN182Q2hPRE0ybjBQdHZzdGsySGtOOHpaZ0lSX3BCeHlvTVVSMGx5dFpPMXN6dmdNWi1tUEZpUFlyX1hzVlF1b0dKeHktenBDWVFNWjJVeVIxeDJmNFdiT0FpSjBkemRxczVoRlMzMlpkWW0waQ?oc=5",
+          "article_url": "https://www.laineygossip.com/nicole-kidman-continues-dunking-on-keith-urban-even-when-shes-not-trying/",
+          "image": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/size/w1200/2026/10/kidman-csm-19oct26.jpg"
         }
-      ]
+      ],
+      "image": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/size/w1200/2026/10/kidman-csm-19oct26.jpg",
+      "image_source": "https://www.laineygossip.com/nicole-kidman-continues-dunking-on-keith-urban-even-when-shes-not-trying/"
     }
   ]
 }

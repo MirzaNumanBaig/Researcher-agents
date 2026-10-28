@@ -63,9 +63,13 @@
       "outlets": [
         {
           "source": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByaDFUXzB3MjNPZi00Rks2OG1WWTQ1ZndDaHhzZU40ZnhRU1dmWE5OVndRcW1raG5FTElUdm5wWkRyYXZVTmVtcThtSllhenN3N3doTWJnLVBjZXpoa3NzM0N0TXhSU0VHcjBBVHk4WUFTc0cxNkFfYkZfRQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByaDFUXzB3MjNPZi00Rks2OG1WWTQ1ZndDaHhzZU40ZnhRU1dmWE5OVndRcW1raG5FTElUdm5wWkRyYXZVTmVtcThtSllhenN3N3doTWJnLVBjZXpoa3NzM0N0TXhSU0VHcjBBVHk4WUFTc0cxNkFfYkZfRQ?oc=5",
+          "article_url": "https://www.tmz.com/2026/10/19/nicole-kidman-blushes-adela-runway-song/",
+          "image": "https://imagez.tmz.com/image/45/16by9/2026/10/19/4507ed0832e649528e7349756a8196e0_xl.png"
         }
-      ]
+      ],
+      "image": "https://imagez.tmz.com/image/45/16by9/2026/10/19/4507ed0832e649528e7349756a8196e0_xl.png",
+      "image_source": "https://www.tmz.com/2026/10/19/nicole-kidman-blushes-adela-runway-song/"
     },
     {
       "title": "I’m a Loafers Expert, and I Put This Nicole Kidman-Worn Pair to the Test—They’re Worth Every Penny",

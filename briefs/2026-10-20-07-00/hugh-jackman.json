@@ -50,13 +50,19 @@
       "outlets": [
         {
           "source": "Digital Spy",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXdlbTlFMjlkel9VM3Q1T0RMR1A4bDNFTGFXNDdtakFFalFSUm84eVNGQnRYcmVqZ2J1YzF1MFJyT1VLb0V4eDFuQWpVbG9ZUE1fei1ydnZqcllWNlpUT2tMT1hTU0xtc01sM1VfOGpsVENta2RGS1k0cGdCZC1ZNw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXdlbTlFMjlkel9VM3Q1T0RMR1A4bDNFTGFXNDdtakFFalFSUm84eVNGQnRYcmVqZ2J1YzF1MFJyT1VLb0V4eDFuQWpVbG9ZUE1fei1ydnZqcllWNlpUT2tMT1hTU0xtc01sM1VfOGpsVENta2RGS1k0cGdCZC1ZNw?oc=5",
+          "article_url": "https://www.digitalspy.com/movies/a74179324/death-of-robin-hood-watch-home/",
+          "image": "https://hips.hearstapps.com/vidthumb/images/the-death-of-robin-hood-official-trailer-695d1b08d6f00.jpg?crop=0.824xw:1.00xh;0.0505xw,0&resize=1200:*"
         },
         {
           "source": "Yahoo Entertainment UK",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0I1T1BPTm1xRUVxZi1XUEVwdHlKRWdUb0hMYTM0el9fc05BeGNySC1udUVYZGVHNXptdXpFNmluZ3ZVanBwUWVXT055anpuaktNYTRwUTRBTExsUnNTb291RlUtdlllRHNwQjNuRXVZei1HbWgycG5xZVZPRVR3NXd2blNDcTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0I1T1BPTm1xRUVxZi1XUEVwdHlKRWdUb0hMYTM0el9fc05BeGNySC1udUVYZGVHNXptdXpFNmluZ3ZVanBwUWVXT055anpuaktNYTRwUTRBTExsUnNTb291RlUtdlllRHNwQjNuRXVZei1HbWgycG5xZVZPRVR3NXd2blNDcTA?oc=5",
+          "article_url": "https://uk.movies.yahoo.com/jodie-comer-hugh-jackmans-magnificent-153300202.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/c4e85f5c17fe693b6131cdd79711a575a108cb7ca6aa368ec557288174cc4e2a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_spy_281%2Fa0a326d5cc98c7a6a9d6a661f2663582.jpg"
         }
-      ]
+      ],
+      "image": "https://hips.hearstapps.com/vidthumb/images/the-death-of-robin-hood-official-trailer-695d1b08d6f00.jpg?crop=0.824xw:1.00xh;0.0505xw,0&resize=1200:*",
+      "image_source": "https://www.digitalspy.com/movies/a74179324/death-of-robin-hood-watch-home/"
     },
     {
       "title": "Exclusive: Hugh Jackman says “Never say never” to reprising his role as Van Helsing for a Mummy...",
@@ -76,13 +82,19 @@
       "outlets": [
         {
           "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGZ0lWSmhKWG1ySkNIOFcxdVBMazd0d254N1g5VTZval9BbG9KWGZmbWg5WWRUMlpobWhwUHNyVktVM1dFU2JOVmtDX1B4ZU5RVkE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGZ0lWSmhKWG1ySkNIOFcxdVBMazd0d254N1g5VTZval9BbG9KWGZmbWg5WWRUMlpobWhwUHNyVktVM1dFU2JOVmtDX1B4ZU5RVkE?oc=5",
+          "article_url": "https://www.imdb.com/de/news/ni66070223/",
+          "image": ""
         },
         {
           "source": "SlashFilm",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMS1HUXVBYXc1SGF5NlFkVGh2MkJua0FZTG5xS3hwWERCZnpzSWRocUt0OWxwZUtVcXpfSFhFblBOV1VNanBVUHlpMldacXJRZ3BMVTVsNGpQa3N0ZkRFR01fbEdlTG5rX3ZDZnZrXzFhNDlrd1hWUDFVNmNVdFRLb2ZpMUpJX0pURFRkcUpBNmdXb0t1TnVPbDMwLUliUFJyTm8wSHFySUMtdGNQdUpmMQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMS1HUXVBYXc1SGF5NlFkVGh2MkJua0FZTG5xS3hwWERCZnpzSWRocUt0OWxwZUtVcXpfSFhFblBOV1VNanBVUHlpMldacXJRZ3BMVTVsNGpQa3N0ZkRFR01fbEdlTG5rX3ZDZnZrXzFhNDlrd1hWUDFVNmNVdFRLb2ZpMUpJX0pURFRkcUpBNmdXb0t1TnVPbDMwLUliUFJyTm8wSHFySUMtdGNQdUpmMQ?oc=5",
+          "article_url": "https://www.slashfilm.com/2290580/hugh-jackman-thriller-the-death-of-robin-hood-streaming-hbo-max-october-2026/",
+          "image": "https://www.slashfilm.com/img/gallery/hugh-jackmans-gritty-126-minute-thriller-is-officially-hbo-maxs-biggest-streaming-hit/l-intro-1792430181.jpg"
         }
-      ]
+      ],
+      "image": "https://www.slashfilm.com/img/gallery/hugh-jackmans-gritty-126-minute-thriller-is-officially-hbo-maxs-biggest-streaming-hit/l-intro-1792430181.jpg",
+      "image_source": "https://www.slashfilm.com/2290580/hugh-jackman-thriller-the-death-of-robin-hood-streaming-hbo-max-october-2026/"
     },
     {
       "title": "Hugh Jackman's New R-Rated Thriller Is Officially An Instant HBO Max Sensation",
@@ -98,12 +110,12 @@
         {
           "source": "ScreenRant",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLUQ4M1g2QTF2UXFHSk5rWGV4NVZqUThJWXNKUVBneV9tclNSMlctYU9JZHRLMnIwVkZvYlNoeXR2VnNmQTdTSjRrbHpudV9qR3BBVlN6Zm8xR0piTk5WVHBua2tXZi1mbUFya0llYlV6R3BOSVpWdDRSVG5lTFBZNUhoQ0RXYzA0ZGw0ZVprQ3RJdzIxUEJ5dWZkdEFzYkly?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://screenrant.com/hugh-jackman-the-death-of-robin-hood-hbo-max-streaming-success-october-2026/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/hugh-jackman-at-the-london-photocall-of-the-death-of-robin-hood.jpg?w=1600&h=900&fit=crop"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/hugh-jackman-at-the-london-photocall-of-the-death-of-robin-hood.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/hugh-jackman-the-death-of-robin-hood-hbo-max-streaming-success-october-2026/"
     }
   ]
 }

@@ -20,9 +20,13 @@
       "outlets": [
         {
           "source": "The News International",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGVFQWlRSER6cVZReTVmRWVOS2pveVNld2FzV3lsdkp3cGV0dVROcEs5MjBDOEx6M0IwanJmYk9hdGlGUGtDWTQzQm5WdHRLaGdybk5fQTBpTEJpcnpkVGdDWFNCcXJvSjNBeDZ6aGprcTJXcDJKcDBIc0dZeTFRMGY1M1kwNTJfWkdKeGxTSHBpblkyZlFPU3RYUXNmbWlyU0xDVjBxckJKblJyMm5UWEYzaGdxd9IBsgFBVV95cUxPejgwa0JXTGp3a0N3ODdGQzl0M3ZzZ2RhU1JFVlRGYnBCYWo1d1E5Q2dQVVU5SHFjbDVTcWpjTUtxd3dTcEpvRG1Zakg0aTVROUs3Q2djMzYyOGF4elFrRl9zbkxieFl4S19VQUVOZGw3bTFDQllWVlVNdzVWenRJZjJ4S0Z2YzFSU1JDcTBlMHkyRW1NbUlTMjNiSUd0NXI1X2xlMkEtSlhScnhmeEpwcEtR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGVFQWlRSER6cVZReTVmRWVOS2pveVNld2FzV3lsdkp3cGV0dVROcEs5MjBDOEx6M0IwanJmYk9hdGlGUGtDWTQzQm5WdHRLaGdybk5fQTBpTEJpcnpkVGdDWFNCcXJvSjNBeDZ6aGprcTJXcDJKcDBIc0dZeTFRMGY1M1kwNTJfWkdKeGxTSHBpblkyZlFPU3RYUXNmbWlyU0xDVjBxckJKblJyMm5UWEYzaGdxd9IBsgFBVV95cUxPejgwa0JXTGp3a0N3ODdGQzl0M3ZzZ2RhU1JFVlRGYnBCYWo1d1E5Q2dQVVU5SHFjbDVTcWpjTUtxd3dTcEpvRG1Zakg0aTVROUs3Q2djMzYyOGF4elFrRl9zbkxieFl4S19VQUVOZGw3bTFDQllWVlVNdzVWenRJZjJ4S0Z2YzFSU1JDcTBlMHkyRW1NbUlTMjNiSUd0NXI1X2xlMkEtSlhScnhmeEpwcEtR?oc=5",
+          "article_url": "https://www.thenews.com.pk/latest/1420463-nicole-kidman-wants-to-make-amends-with-ex-keith-urban-for-one-big-reason",
+          "image": "https://www.thenews.com.pk/assets/uploads/2026-10-19/1420463_113613_updates.jpg"
         }
-      ]
+      ],
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-10-19/1420463_113613_updates.jpg",
+      "image_source": "https://www.thenews.com.pk/latest/1420463-nicole-kidman-wants-to-make-amends-with-ex-keith-urban-for-one-big-reason"
     },
     {
       "title": "Nicole Kidman gets \"momager\" tips as she plots major career move for Sunday",
@@ -31,9 +35,13 @@
       "outlets": [
         {
           "source": "New Idea",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGh0V3pMVnp5YXBvOElWUF82ektKQVh2Q1FLakFDZGVCUFRnak1yd3RCM2YwZS1Wai1TS3ZYcnFrQzlTLUxpdkY0WXdIV1kwTjI4XzZON29CaHZqbDFRT3YyVVFaWGNiMXhENGI3TFhGNU9xa0FJWUo2TWF4d212RXNwN1Y2WDFTMDdBNUV5RkpUbUtIb1YtOFln?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGh0V3pMVnp5YXBvOElWUF82ektKQVh2Q1FLakFDZGVCUFRnak1yd3RCM2YwZS1Wai1TS3ZYcnFrQzlTLUxpdkY0WXdIV1kwTjI4XzZON29CaHZqbDFRT3YyVVFaWGNiMXhENGI3TFhGNU9xa0FJWUo2TWF4d212RXNwN1Y2WDFTMDdBNUV5RkpUbUtIb1YtOFln?oc=5",
+          "article_url": "https://www.newidea.com.au/celebrity/nicole-kidman-momager-sunday-rose-victorias-secret-model/",
+          "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/17/2026/10/copy-of-wp-header-55-6ad5929d978c5.png?resize=1200%2C630&format=auto"
         }
-      ]
+      ],
+      "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/17/2026/10/copy-of-wp-header-55-6ad5929d978c5.png?resize=1200%2C630&format=auto",
+      "image_source": "https://www.newidea.com.au/celebrity/nicole-kidman-momager-sunday-rose-victorias-secret-model/"
     },
     {
       "title": "🇺🇸 Imagine putting together an entire Victoria's Secret Fashion Show with some of the world's most stunning supermodels, only for NICOLE KIDMAN to steal the spotlight with a SINGLE CAMERA SHOT 🔥 Writer: Sol",

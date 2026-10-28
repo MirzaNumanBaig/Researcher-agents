@@ -52,13 +52,19 @@
       "outlets": [
         {
           "source": "Harper's BAZAAR",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVHFOeUE4aVY2cjdLYlZBSFRwSm9WU3lQaWQzRVd5R2NzYms0NXlJaGVBc1JvcC1YNXhsQXJrRHFNSGNBLXlFdUlFUHZvdWVzTjFXLWh3Y1ZZT3lFcEoxMW5YNTRHU0s4RllnSmZhZU5kM2lIZ05RaHFEZ21yVDFsc1p4R2c0R2p6T1BSTGYtQ1FxWFFSSC02UGxLMnVWTlhNa0ptdVVkSkd2cUEt?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVHFOeUE4aVY2cjdLYlZBSFRwSm9WU3lQaWQzRVd5R2NzYms0NXlJaGVBc1JvcC1YNXhsQXJrRHFNSGNBLXlFdUlFUHZvdWVzTjFXLWh3Y1ZZT3lFcEoxMW5YNTRHU0s4RllnSmZhZU5kM2lIZ05RaHFEZ21yVDFsc1p4R2c0R2p6T1BSTGYtQ1FxWFFSSC02UGxLMnVWTlhNa0ptdVVkSkd2cUEt?oc=5",
+          "article_url": "https://www.harpersbazaar.com/uk/beauty/make-up-nails/a74174746/nicole-kidman-victorias-secret-fashion-show/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/b2d2ce2c-46e7-4ff5-9ea9-05420b1ea156.jpg?crop=0.922xw:0.308xh;0.0261xw,0.115xh&resize=1200:*"
         },
         {
           "source": "Yahoo Life UK",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHJFcUVjMG81NGt4U2JTbjVRSnZnY2xld3JCLXk4Vlc1OVZxMmVadnlxVmhoWGVMTVNLRGVNVmtUSG9RdVlKaWNEYzJ4SzRNQWIwREdMYnFQdTV2R0ptYmd1S3c3ODJmbHFxYlZfMVV5QXFnV25GdWhuVjFEbzhLTEhHXzNxQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHJFcUVjMG81NGt4U2JTbjVRSnZnY2xld3JCLXk4Vlc1OVZxMmVadnlxVmhoWGVMTVNLRGVNVmtUSG9RdVlKaWNEYzJ4SzRNQWIwREdMYnFQdTV2R0ptYmd1S3c3ODJmbHFxYlZfMVV5QXFnV25GdWhuVjFEbzhLTEhHXzNxQQ?oc=5",
+          "article_url": "https://uk.style.yahoo.com/nicole-kidmans-cashmere-coconut-nails-082000760.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/2caa9b27f9993c3b15274c1814090eed9d2bbc08320e8766033fdde33009eb68/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_111%2F12b90db8a256783ba1d5eb1491cb671d.jpg"
         }
-      ]
+      ],
+      "image": "https://hips.hearstapps.com/hmg-prod/images/b2d2ce2c-46e7-4ff5-9ea9-05420b1ea156.jpg?crop=0.922xw:0.308xh;0.0261xw,0.115xh&resize=1200:*",
+      "image_source": "https://www.harpersbazaar.com/uk/beauty/make-up-nails/a74174746/nicole-kidman-victorias-secret-fashion-show/"
     },
     {
       "title": "‘Scarpetta’ Star Nicole Kidman (59) Showed Up to Victoria’s Secret in a Tie and a Garter-Style Skirt, and the Internet Is Hot Under the Collar",

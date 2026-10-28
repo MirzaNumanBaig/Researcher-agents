@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Irish Examiner",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TR2w5QmhxSWNhU0dXaHBZUHVRTTU0bGhWYm9JOUlDOEp2V1Z5OEdiT19nSDBMaXZBSEZERE9PeGtjMFAwNzZFRGZRQnJRdnZncnVSWC1ieWlvRGhtcFVHNHFvT0piMEk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TR2w5QmhxSWNhU0dXaHBZUHVRTTU0bGhWYm9JOUlDOEp2V1Z5OEdiT19nSDBMaXZBSEZERE9PeGtjMFAwNzZFRGZRQnJRdnZncnVSWC1ieWlvRGhtcFVHNHFvT0piMEk?oc=5",
+          "article_url": "https://www.irishexaminer.com/farming/arid-41925911.html",
+          "image": "https://www.irishexaminer.com/cms_media/module_img/10529/5264630_4_org_iStock-1466632282.jpg"
         }
-      ]
+      ],
+      "image": "https://www.irishexaminer.com/cms_media/module_img/10529/5264630_4_org_iStock-1466632282.jpg",
+      "image_source": "https://www.irishexaminer.com/farming/arid-41925911.html"
     },
     {
       "title": "Cate Blanchett Venice Film Festival Retrospective",
@@ -20,9 +24,13 @@
       "outlets": [
         {
           "source": "Go Fug Yourself",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEVqNFJjSk1pNlloRmJGazJEeENpZmxUOXVKZEkxZkZGRXRoV1QxeVdyZ3NFSnNaNUluV1lkeWFhS1pVYnBXSEVMaExmYVliSkFmLUxnQnlxZWhyd0NpX2NyMWNTLUpfQkxQall2MnVoYUZEREdRUjg5NjZBeExMc2g2Sm4tU3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEVqNFJjSk1pNlloRmJGazJEeENpZmxUOXVKZEkxZkZGRXRoV1QxeVdyZ3NFSnNaNUluV1lkeWFhS1pVYnBXSEVMaExmYVliSkFmLUxnQnlxZWhyd0NpX2NyMWNTLUpfQkxQall2MnVoYUZEREdRUjg5NjZBeExMc2g2Sm4tU3c?oc=5",
+          "article_url": "https://www.gofugyourself.com/cate-blanchett-venice-film-festival-retrospective/",
+          "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg"
         }
-      ]
+      ],
+      "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg",
+      "image_source": "https://www.gofugyourself.com/cate-blanchett-venice-film-festival-retrospective/"
     },
     {
       "title": "The pubs define my suburb. I had a night so wild in one of them I feared for my life",

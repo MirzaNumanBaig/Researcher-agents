@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Vanity Fair",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrOXBfTl9aVGxuWGsxQkI4Z2ZhdXBydXdBRks2MDlIbm5QcmNEcW4xT1NaY1ZRN1JTUnBUWHhsODQydnBvWjRUUUxjMnBHeGZnZmRuOU5XeFJNTHVfOGxBRWcxUllMLVhYSk5uSi12bEw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrOXBfTl9aVGxuWGsxQkI4Z2ZhdXBydXdBRks2MDlIbm5QcmNEcW4xT1NaY1ZRN1JTUnBUWHhsODQydnBvWjRUUUxjMnBHeGZnZmRuOU5XeFJNTHVfOGxBRWcxUllMLVhYSk5uSi12bEw?oc=5",
+          "article_url": "https://www.vanityfair.fr/visual-story/6ad6241e5cbcb8be68e89920",
+          "image": "https://media.vanityfair.fr/photos/6ad62425e81ab242d06f95a4/16:9/w_1280,c_limit/6ad6241e5cbcb8be68e89920.jpg"
         }
-      ]
+      ],
+      "image": "https://media.vanityfair.fr/photos/6ad62425e81ab242d06f95a4/16:9/w_1280,c_limit/6ad6241e5cbcb8be68e89920.jpg",
+      "image_source": "https://www.vanityfair.fr/visual-story/6ad6241e5cbcb8be68e89920"
     },
     {
       "title": "Favorite Cate Blanchett Character",

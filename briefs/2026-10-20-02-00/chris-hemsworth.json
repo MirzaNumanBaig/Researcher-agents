@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmw1b05wVzZEbF9RVXVXdV9xNzlPN2s1X1dXbFAtWnoyY0J4bEdfOG1MckhjNFVTLVR3M2tFdDJ1bWxMQWJqWHlDb0lJWHJKdkswaEd2dE1DR2tNek03MDlXUy1XWlRoTjl4Wl9VdHdTMW50SVhzUDFWb1R0Um9lTnFNWWhmYl9feGtSQTQyZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmw1b05wVzZEbF9RVXVXdV9xNzlPN2s1X1dXbFAtWnoyY0J4bEdfOG1MckhjNFVTLVR3M2tFdDJ1bWxMQWJqWHlDb0lJWHJKdkswaEd2dE1DR2tNek03MDlXUy1XWlRoTjl4Wl9VdHdTMW50SVhzUDFWb1R0Um9lTnFNWWhmYl9feGtSQTQyZw?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/videos/untold-truth-chris-hemsworth-120000272.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/da3391bb39336ae8e5deb4d7cf709001463a0df2d66d9df09ba230fb64613861/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnicki_swift_591%2F270acf27d02fb4871c6f76835f6e54f4.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/da3391bb39336ae8e5deb4d7cf709001463a0df2d66d9df09ba230fb64613861/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnicki_swift_591%2F270acf27d02fb4871c6f76835f6e54f4.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/videos/untold-truth-chris-hemsworth-120000272.html"
     },
     {
       "title": "Amazon Officially Brings Chris Hemsworth's 2026 Action Thriller Flop Back to Life on Streaming",
