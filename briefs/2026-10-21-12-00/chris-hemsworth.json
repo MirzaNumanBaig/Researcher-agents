@@ -20,9 +20,13 @@
       "outlets": [
         {
           "source": "Little Black Book",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGYyZGxWZHNoVFFsMDdNRzluc2MtUVZuejFLRXlBWkUxNVN4OWsyVVg5ZFUyYnl0T3I3RVVjVF9ZWlVpWkZtMUlJdk50R2I1M3RSMHpZVG9Yc3lISU9qU0pWZk12WVd1aTVxNWFqakdVNkUzVlZNQ1JPRGZqT0FQZTFyVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGYyZGxWZHNoVFFsMDdNRzluc2MtUVZuejFLRXlBWkUxNVN4OWsyVVg5ZFUyYnl0T3I3RVVjVF9ZWlVpWkZtMUlJdk50R2I1M3RSMHpZVG9Yc3lISU9qU0pWZk12WVd1aTVxNWFqakdVNkUzVlZNQ1JPRGZqT0FQZTFyVQ?oc=5",
+          "article_url": "https://lbbonline.com/news/chris-hemsworth-archie-rose-citadel-brand-campaign",
+          "image": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/archie-rosechrishemsworthhero.FLDYB3xi.jpg"
         }
-      ]
+      ],
+      "image": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/archie-rosechrishemsworthhero.FLDYB3xi.jpg",
+      "image_source": "https://lbbonline.com/news/chris-hemsworth-archie-rose-citadel-brand-campaign"
     },
     {
       "title": "Chris Hemsworth puts his Archie Rose whisky on the global stage with new brand push",
@@ -53,9 +57,13 @@
       "outlets": [
         {
           "source": "Campaign Brief",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTzFwcGZRQTBKZ1NVRTZfRmtRRkkwMzdrUHgxT2lUUnByVkdmX1U2Q25YeC12ZzFTcmc3a1JQNk1MeFI1bzRERlpNcHJMZTR3R2RpRUFUSnVnRW5HM1E2M3h2bTN6ZVpLZmVLa2VnbkwxREY5OElmbTZmQWh4RzFhaXJsbWtkd2FOZUVKR19KTFJYMmQ2Wm9nRVhDS0d1SS13Wm1CNC1DdTFPWGRndU1lZGFDeFF6M1ZQMV9DTnNhZnByXzNjQWtubkNnMHZ3dUxnUFg0UElUOXowNkM3MGFkUXprLVN3NEF6?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTzFwcGZRQTBKZ1NVRTZfRmtRRkkwMzdrUHgxT2lUUnByVkdmX1U2Q25YeC12ZzFTcmc3a1JQNk1MeFI1bzRERlpNcHJMZTR3R2RpRUFUSnVnRW5HM1E2M3h2bTN6ZVpLZmVLa2VnbkwxREY5OElmbTZmQWh4RzFhaXJsbWtkd2FOZUVKR19KTFJYMmQ2Wm9nRVhDS0d1SS13Wm1CNC1DdTFPWGRndU1lZGFDeFF6M1ZQMV9DTnNhZnByXzNjQWtubkNnMHZ3dUxnUFg0UElUOXowNkM3MGFkUXprLVN3NEF6?oc=5",
+          "article_url": "https://campaignbrief.com/chris-hemsworth-spins-a-tall-tale-about-whisky-to-brother-luke-in-archie-roses-new-global-campaign-directed-by-justin-mcmillan/",
+          "image": "https://campaignbrief.com/wp-content/uploads/2026/10/AR-Chris-1024x574.jpg"
         }
-      ]
+      ],
+      "image": "https://campaignbrief.com/wp-content/uploads/2026/10/AR-Chris-1024x574.jpg",
+      "image_source": "https://campaignbrief.com/chris-hemsworth-spins-a-tall-tale-about-whisky-to-brother-luke-in-archie-roses-new-global-campaign-directed-by-justin-mcmillan/"
     },
     {
       "title": "‘Avengers: Secret Wars’ Delays Filming Again With New Production Target in 2027, Reveals Hollywood Insider",

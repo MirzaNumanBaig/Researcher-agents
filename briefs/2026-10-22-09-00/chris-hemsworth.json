@@ -20,9 +20,13 @@
       "outlets": [
         {
           "source": "Marketing-Interactive",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTNvM2dJTDk3NG4zT1pBSlhsMUNHTXVDT1laRFRqWl9oWU5WUGVGdHZiNVlYVDUxWjVFV1lodktTRkpIalBCZUJMX0x5NHZhVXJXMWZOZXd2NmIyT0s2S25oVVg5WWh5b3E0ei1uNm5IZzB6emgyaEpqdjRpclFJMWFwdWxIREFiRUVxcUR0WHh4RDA1bGJmY1VPWThrX1l2?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTNvM2dJTDk3NG4zT1pBSlhsMUNHTXVDT1laRFRqWl9oWU5WUGVGdHZiNVlYVDUxWjVFV1lodktTRkpIalBCZUJMX0x5NHZhVXJXMWZOZXd2NmIyT0s2S25oVVg5WWh5b3E0ei1uNm5IZzB6emgyaEpqdjRpclFJMWFwdWxIREFiRUVxcUR0WHh4RDA1bGJmY1VPWThrX1l2?oc=5",
+          "article_url": "https://www.marketing-interactive.com/chris-hemsworth-gives-archie-rose-global-push-some-star-power",
+          "image": "https://marketing-interactive-assets.b-cdn.net/article_images/chris-hemsworth-gives-archie-rose-global-push-some-star-power/1792542482_Matt%27s%20featured%20images%20%2819%29.jpg"
         }
-      ]
+      ],
+      "image": "https://marketing-interactive-assets.b-cdn.net/article_images/chris-hemsworth-gives-archie-rose-global-push-some-star-power/1792542482_Matt%27s%20featured%20images%20%2819%29.jpg",
+      "image_source": "https://www.marketing-interactive.com/chris-hemsworth-gives-archie-rose-global-push-some-star-power"
     }
   ]
 }

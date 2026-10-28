@@ -9,9 +9,13 @@
       "outlets": [
         {
           "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSU1SMkhKZzlPdU5qVHpEV3lPMXRlRkhlRU43SjNxQ3JwLURIb0NsVW8wUWxKSDdDdmxqR3FhSXcyOEVHVEQ4ZmpxQjNIR055UDBlaHlnTTRJVUl6b3RsTFZrMnFaNWNDNGtKVkV6SDlyNXYxRW9IcTljbWtCdzZqN1RwVnVxQ3poU0NnZW9DcVN4c3VTdlpENC01WDlLRjJXTi1XSnRfRmRWVElkN0c2MmttbzJ6bUJFTXl1N2c1Y0s1Q1VwMFpGMm1MR3ZnMmxaZ0xyQl9SSThZNGtNSmp4bGFlNFoxYXdULXRlQThSbjhKdGhXbGZxcg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSU1SMkhKZzlPdU5qVHpEV3lPMXRlRkhlRU43SjNxQ3JwLURIb0NsVW8wUWxKSDdDdmxqR3FhSXcyOEVHVEQ4ZmpxQjNIR055UDBlaHlnTTRJVUl6b3RsTFZrMnFaNWNDNGtKVkV6SDlyNXYxRW9IcTljbWtCdzZqN1RwVnVxQ3poU0NnZW9DcVN4c3VTdlpENC01WDlLRjJXTi1XSnRfRmRWVElkN0c2MmttbzJ6bUJFTXl1N2c1Y0s1Q1VwMFpGMm1MR3ZnMmxaZ0xyQl9SSThZNGtNSmp4bGFlNFoxYXdULXRlQThSbjhKdGhXbGZxcg?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/music/article/adela-made-the-real-nicole-kidman-blush-how-the-grungy-pink-haired-ballerina-is-shaking-up-pop-music-200833758.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/874b9726110be3b1c01b1957026b93c50cc8f81057a0ec74e1856a2c66d62d04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-adela-story_3269.jpg"
         }
-      ]
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/874b9726110be3b1c01b1957026b93c50cc8f81057a0ec74e1856a2c66d62d04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-adela-story_3269.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/music/article/adela-made-the-real-nicole-kidman-blush-how-the-grungy-pink-haired-ballerina-is-shaking-up-pop-music-200833758.html"
     },
     {
       "title": "Sunday Rose Kidman Urban Reflects on Life as Nicole Kidman and Keith Urban's Daughter",
@@ -31,9 +35,13 @@
       "outlets": [
         {
           "source": "Taste of Country",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmNHUDN1NE9GcHV1X2tyMlNBd2xjWUZkenBySmtJODJOR0Y4dkRoNV9pZmhmdFdpc2dZc3g1SGFxMnpWM2FEelhYX0k3Q21uR0lNUEdDdndCQ09uT2ZtTk9xRjdSOENjSFF3ZnhkcDB5bGtQWklKMmd6dnVJbnpLLWdjeFE4ZjZlaHdFR2lsVWVLU3dkeHVjVA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmNHUDN1NE9GcHV1X2tyMlNBd2xjWUZkenBySmtJODJOR0Y4dkRoNV9pZmhmdFdpc2dZc3g1SGFxMnpWM2FEelhYX0k3Q21uR0lNUEdDdndCQ09uT2ZtTk9xRjdSOENjSFF3ZnhkcDB5bGtQWklKMmd6dnVJbnpLLWdjeFE4ZjZlaHdFR2lsVWVLU3dkeHVjVA?oc=5",
+          "article_url": "https://tasteofcountry.com/sunday-rose-kidman-urban-famous-parents-keith-urban-nicole-kidman/",
+          "image": "https://townsquare.media/site/204/files/2026/10/attachment-taste-of-country-42.png?w=1200&format=natural"
         }
-      ]
+      ],
+      "image": "https://townsquare.media/site/204/files/2026/10/attachment-taste-of-country-42.png?w=1200&format=natural",
+      "image_source": "https://tasteofcountry.com/sunday-rose-kidman-urban-famous-parents-keith-urban-nicole-kidman/"
     }
   ]
 }

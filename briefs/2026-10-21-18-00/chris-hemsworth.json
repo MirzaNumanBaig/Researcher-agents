@@ -35,9 +35,13 @@
       "outlets": [
         {
           "source": "The Australian Women's Weekly",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIX09lQ1VIRHRYVVdqeTBpQ19QNHFodmJISDhtaGdxaVlQTWVQU3Q0RkYtX04tb0tVZ0F6WVNVZFVMa1NidVFyR0hhVmU5MWdFTHA2ZXNwVUU2M3ZlVTI3cm9qS1B4ZjV1OTFNamhfZXVlUGtON1lNM3VkT08?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIX09lQ1VIRHRYVVdqeTBpQ19QNHFodmJISDhtaGdxaVlQTWVQU3Q0RkYtX04tb0tVZ0F6WVNVZFVMa1NidVFyR0hhVmU5MWdFTHA2ZXNwVUU2M3ZlVTI3cm9qS1B4ZjV1OTFNamhfZXVlUGtON1lNM3VkT08?oc=5",
+          "article_url": "https://www.womensweekly.com.au/news/chris-hemsworth-archie-rose-whisky/",
+          "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/3/2026/08/chris-6ad7ffc670477.png?resize=1200%2C630&format=auto"
         }
-      ]
+      ],
+      "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/3/2026/08/chris-6ad7ffc670477.png?resize=1200%2C630&format=auto",
+      "image_source": "https://www.womensweekly.com.au/news/chris-hemsworth-archie-rose-whisky/"
     },
     {
       "title": "Watch: Chris Hemsworth’s new campaign for Archie Rose",
