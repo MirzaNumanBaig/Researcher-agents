@@ -21,15 +21,15 @@ SCENES = {  # story_type -> subject and action sentence; {o1}{o2}{o3} are key ob
     "pregnancy": "An adult's hands resting gently on {o2} in {setting}, {o1} placed beside them.",
     "red_carpet": "A woman in a long black gown seen from behind on {setting}, a wall of {o1} flaring ahead of her, {o2} lining the path.",
     "film_release": "A single red velvet seat in the front row of {setting}, {o1} resting on the armrest, {o3} cutting through the haze.",
-    "trailer": "{o1} glowing in the dark of {setting}, one lone silhouette in the third row, {o2} on the seat beside it.",
+    "trailer": "{o1} lighting up the dark of {setting}, one lone silhouette in the third row, {o2} on the seat beside it.",
     "box_office": "A hand holding {o1} in front of {setting}, {o2} glowing out of focus behind.",
     "award": "{o1} gleaming on a podium in {setting}, an anonymous figure in a dark suit out of focus at the edge of the frame.",
     "music_release": "{o1} standing alone in {setting}, a pair of hands adjusting {o2} on {o3}.",
     "concert": "{o1} at the centre of {setting}, a crowd of anonymous silhouettes with raised hands filling the lower frame.",
-    "feud": "Two empty chairs facing away from each other in {setting}, {o1} between them, {o2} on the floor.",
+    "feud": "{o1} facing away from each other in {setting}, {o2} between them, {o3} on the floor.",
     "legal": "{o1} resting on a desk in front of {setting}, {o2} blurred behind, a far-off anonymous figure in a dark coat.",
     "scandal": "{o1} in {setting}, light spilling across {o3}, a lone coat hanging in the foreground.",
-    "interview": "Two armchairs angled toward each other in {setting}, {o1} between them, soft light on {o2}.",
+    "interview": "{o1} angled toward each other in {setting}, {o2} between them, soft light on {o3}.",
     "fashion": "A model in a sculptural gown seen from behind on {setting}, {o1} and {o2} lining the walkway.",
     "travel": "A woman in a light trench coat seen from behind pulling {o1} through {setting}, {o2} glowing in the distance.",
     "reality_tv": "{o1} pointed at a lone sofa in {setting}, {o2} glowing out of focus, an empty chair in the foreground.",
@@ -93,7 +93,8 @@ def compose(analysis, preset, variation, palette, names):
         emotion, light = analysis["emotion"], analysis["time_and_light"]
     subject = subject[0].upper() + subject[1:] + ("" if subject.endswith(".") else ".")
     atmosphere = ATMOSPHERE.get(emotion.split()[0].lower(), "soft haze and gentle bokeh")
-    text = (f"{subject} Softly out of focus in the foreground: {o[2] if len(o) > 2 else o[0]}. The background fades into {atmosphere}. "
+    fg = next((x for x in o if x.lower() not in f"{subject} {light}".lower()), o[-1])  # a prop neither the scene sentence nor the light source already uses
+    text = (f"{subject} Softly out of focus in the foreground: {fg}. The background fades into {atmosphere}. "
             f"{variation['shot'].capitalize()}, {variation['lens']} lens, {variation['angle']}, shallow depth of field. "
             f"Lit by {light}. {emotion.capitalize()} mood, {palette} palette. {preset['style']}")
     return concept.sanitize_prompt(text, names)

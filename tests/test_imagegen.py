@@ -2,6 +2,7 @@
 import io
 import json
 import os
+import re
 import subprocess
 import sys
 import tempfile
@@ -75,6 +76,11 @@ class Analyzer(unittest.TestCase):
         self.assertEqual(analyzer.normalize({"story_type": "legal", "sensitivity": "high_risk"}, "Star seen at cafe")["sensitivity"], "high_risk")
         self.assertEqual(analyzer.normalize({}, "Court hears claim")["sensitivity"], "sensitive")
 
+    def test_the_headline_decides_the_type_not_a_passing_mention_in_the_body(self):
+        a = analyzer.heuristic("Harbour Lights, starring Jack Dunmore, gets a 12 December cinema release", "A first trailer is due next week.", "Movies")
+        self.assertEqual(a["story_type"], "film_release")
+        self.assertEqual(analyzer.heuristic("A new look at the picture", "It will premiere soon at a cinema near you.")["story_type"], "film_release")  # body used when the headline says nothing
+
     def test_unusable_llm_answer_falls_back_to_rules(self):
         a = analyzer.analyze("Couple marry on a clifftop", "", "", llm=FakeLLM(analysis=None))
         self.assertEqual((a["story_type"], a["source"]), ("wedding", "rules"))
@@ -93,6 +99,16 @@ class SafetyRules(unittest.TestCase):
         self.assertNotIn("Hargrove", clean)
         self.assertIn("an anonymous figure", clean)
         self.assertEqual(concept.strip_names("A short walk past a fox", ["Martin Short", "Michael J. Fox"])[0], "A short walk past a fox")  # common words survive
+
+    def test_places_adjectives_and_titles_are_not_mistaken_for_names(self):
+        names = concept.known_names("Veteran Australian actress Margaret Ellison dies aged 84")
+        self.assertIn("Margaret Ellison", names)
+        self.assertNotIn("Veteran Australian", names)
+        names = concept.known_names("Elena Marlowe and Tom Hargrove marry in a clifftop ceremony near Byron Bay")
+        self.assertNotIn("Byron Bay", names)
+        self.assertIn("Elena Marlowe", names)
+        self.assertNotIn("Byron Bay", concept.known_names("Stars arrive at Bondi Beach and Gold Coast events"))
+        self.assertNotIn("Coast Hotel", concept.known_names("Cast dines in Coast Hotel"))  # a pair after a place cue
 
     def test_sanitize_removes_syntax_likeness_and_text_requests(self):
         dirty = ("A (woman:1.3) who looks like Elena Marlowe holds a sign reading HELLO, in the style of a famous painter. "
@@ -131,6 +147,13 @@ class PromptWriter(unittest.TestCase):
                 p = prompt_writer.write_prompt(a, "candid_news_photo", [], NAMES, None, kind)["prompt"]
                 self.assertEqual(concept.check_prompt(p, NAMES, sens if concept.is_sensitive(a) else "safe"), [], (kind, sens, p))
                 self.assertTrue(60 <= concept.words(p) <= 120, (kind, concept.words(p)))
+
+    def test_no_prop_is_named_twice(self):
+        for kind in analyzer.STORY_TYPES:
+            p = prompt_writer.write_prompt(self.analysis(kind), "candid_news_photo", [], NAMES, None, kind)["prompt"].lower()
+            p = re.sub(r"lit by [^.]*\.", "", p)  # the named light source may be one of the props (camera flashes, a projector beam)
+            for prop in analyzer.DEFAULTS[kind][2]:
+                self.assertLessEqual(p.count(prop.lower()), 1, (kind, prop, p))
 
     def test_prompt_follows_the_order_and_names_a_light_source(self):
         p = prompt_writer.write_prompt(self.analysis("breakup"), "candid_news_photo", [], NAMES, None, "k")["prompt"]

@@ -10,8 +10,16 @@ from . import config
 FINAL_SENTENCE = "No text, no logos, no watermark."
 MAX_WORDS, HARD_MAX_WORDS, MIN_WORDS = 120, 180, 40
 
-NOT_NAMES = {"red carpet", "box office", "golden globe", "golden globes", "academy awards", "new york", "los angeles", "sydney opera", "opera house",
-             "prime video", "apple tv", "disney plus", "netflix", "hbo max", "quick summary", "celebrity news", "melbourne", "gold coast", "world tour"}
+PLACE_CUES = {"in", "near", "at", "outside", "across", "from", "to", "around", "off", "over", "into", "through"}  # "near Byron Bay": a place, not a person
+COMMON_CAPS = {"veteran", "australian", "american", "british", "canadian", "irish", "french", "german", "italian", "indian", "korean", "japanese", "chinese",
+               "former", "young", "old", "new", "great", "big", "little", "royal", "national", "international", "hollywood", "bollywood", "oscar", "emmy", "grammy",
+               "breaking", "exclusive", "first", "final", "latest", "official", "world", "global", "live", "top", "best", "star", "actor", "actress", "singer"}
+NOT_NAMES = {  # capitalised word pairs that are places, titles or brands, never people
+    "academy awards", "apple tv", "barrier reef", "blue mountains", "bondi beach", "box office", "byron bay", "celebrity news",
+    "circular quay", "disney plus", "gold coast", "golden globe", "golden globes", "great barrier", "harbour bridge", "hbo max",
+    "los angeles", "melbourne", "netflix", "new york", "new zealand", "northern beaches", "northern territory", "opera house",
+    "port douglas", "prime video", "quick summary", "red carpet", "south australia", "sunshine coast", "sydney harbour", "sydney opera",
+    "western australia", "world tour"}
 SHARED_WORDS = {"short", "fox", "oh", "williams", "anderson", "john", "james", "david", "michael", "will", "mark", "jack", "love", "grace", "hope"}
 
 LIKENESS = re.compile(r"\b(looks? like|looking like|resembl\w+|look-?alike|likeness|as played by|portrait of|photo of|picture of)\b[^.,;]*", re.I)
@@ -42,9 +50,13 @@ def known_names(headline="", extra=()):
         names |= set(json.loads((config.ROOT / "config.json").read_text()).get("celebrities", []))
     except (OSError, ValueError):
         pass
-    for m in re.finditer(r"\b[A-Z][\w'’-]+(?:\s+[A-Z][\w'’-]+)+\b", headline or ""):
-        if m.group(0).lower() not in NOT_NAMES:
-            names.add(m.group(0))
+    text = headline or ""
+    for m in re.finditer(r"\b[A-Z][\w'’-]+(?:\s+[A-Z][\w'’-]+)+\b", text):
+        words_ = [w.lower() for w in m.group(0).split()]
+        before = re.findall(r"[\w'’-]+", text[:m.start()])[-1:]  # the word in front of the pair
+        if m.group(0).lower() in NOT_NAMES or words_[0] in COMMON_CAPS or words_[-1] in COMMON_CAPS or (before and before[0].lower() in PLACE_CUES):
+            continue
+        names.add(m.group(0))
     return sorted(names, key=len, reverse=True)
 
 

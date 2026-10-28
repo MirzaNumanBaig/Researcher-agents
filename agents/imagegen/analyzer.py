@@ -47,7 +47,7 @@ TYPE_WORDS = [  # keyword rules used when no LLM is available (first match wins)
     ("feud", r"\b(feud|clash|slams|fires back|war of words)\b"),
     ("box_office", r"\b(box office|opening weekend|grossed|takings)\b"),
     ("trailer", r"\b(trailer|teaser|first look)\b"),
-    ("film_release", r"\b(film|movie|premiere|sequel|release date|streaming|series|thriller|cast)\b"),
+    ("film_release", r"\b(film|movie|premiere|sequel|release date|cinema release|cinemas?|starring|streaming|series|thriller|cast)\b"),
     ("award", r"\b(award|oscar|emmy|bafta|grammy|golden globe|nominat\w+|wins best)\b"),
     ("music_release", r"\b(album|single|new song|ep|track|music video)\b"),
     ("concert", r"\b(concert|tour|gig|festival|live show|sold out)\b"),
@@ -75,7 +75,9 @@ def worst(a, b):
 
 def heuristic(headline, body="", category=""):
     text = f"{headline} {category} {(body or '')[:600]}".lower()
-    kind = next((k for k, rx in TYPE_WORDS if re.search(rx, text)), "other")
+    head = f"{headline} {category}".lower()
+    # the headline decides the story type; the start of the body is only used when the headline matches no rule
+    kind = next((k for k, rx in TYPE_WORDS if re.search(rx, head)), None) or next((k for k, rx in TYPE_WORDS if re.search(rx, text)), "other")
     emo, setting, objs, light, pal = DEFAULTS[kind]
     return {"story_type": kind, "core_event": headline.strip().rstrip(".") + ".", "emotion": emo, "setting": setting, "key_objects": list(objs),
             "time_and_light": light, "palette": list(pal), "sensitivity": rule_sensitivity(text), "reference_analysis": "", "source": "rules"}
