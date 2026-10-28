@@ -19,6 +19,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/image-1793170579038
 wp_id: 1245
 wp_link: "https://moduscarry.com/chris-hemsworth-wraps-thailand-shoot-for-extraction-3/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
