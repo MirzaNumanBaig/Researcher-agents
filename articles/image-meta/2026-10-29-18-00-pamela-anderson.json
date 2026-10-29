@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-29T08:20:55.229859+00:00",
+  "article": "2026-10-29-18-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure shares her the figure the figure and the figure gardening the figure.",
+    "emotion": "relaxing",
+    "setting": "the figure",
+    "key_objects": [
+      "raised beds",
+      "climbing squash",
+      "pink roses",
+      "sunflowers"
+    ],
+    "time_and_light": "daylight",
+    "palette": [
+      "green",
+      "pink",
+      "yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "raised beds",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "the figure",
+    "props": [
+      "raised beds",
+      "climbing squash",
+      "pink roses",
+      "sunflowers"
+    ],
+    "time_of_day": "daylight",
+    "light": {
+      "source": "daylight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "green",
+      "pink",
+      "yellow"
+    ],
+    "mood": "relaxing",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of the anonymous figure, her early 30s, stands behind a raised bed, gently pruning a climbing squash. Her face is relaxed, with a slight upward curve to the corners of her mouth, her eyes softening as she surveys her the figure. Her shoulders are slightly rolled forward, her weight shifted onto her left leg as she reaches for a nearby pink rose. The rose clutched in her hand, its delicate petals unfolding from the stem, a few stray leaves tangled in her fingers. The warm daylight casts a gentle glow on the scene, with the midground filled with sunflowers towering above the bed, their bright yellow petals radiating outward. The background is a soft blur of lush greenery, the distant edge of the the figure fading into the horizon. The camera captures the intimate moment from behind, a 35mm lens compressing the space, and the resulting image feels like a candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2059769093,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a person with raised beds and climbing squash, lit by daylight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 293.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2059769093,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

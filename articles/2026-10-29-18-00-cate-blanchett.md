@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett's Tokyo Speech: Why Doubt Drives Her Acting"
 description: "Accepting Japan's Praemium Imperiale, Cate Blanchett called doubt her artistic starting point. Here is what she said and her Tokyo festival plans."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-29 18:00"
 celebrity: "Cate Blanchett"
@@ -11,6 +11,14 @@ image_prompt: "An empty black-tie ceremony hall in Tokyo with a lectern, a gold 
 sources:
   - "https://www.hollywoodreporter.com/movies/movie-news/cate-blanchett-japan-praemium-imperiale-award-tokyo-1236742351/"
   - "https://www.turkiyetoday.com/culture/oscar-winner-cate-blanchett-rejects-unthinking-certainty-at-japans-top-arts-prize-3231249"
+image: "images/2026-10-29-18-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cast and Crew Father Mother Sister Brother at the 2025 Venice Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1287
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-18-00-cate-blanchett-768x432.webp"
+wp_id: 1288
+wp_link: "https://moduscarry.com/cate-blanchetts-tokyo-speech-why-doubt-drives-her-acting/"
+wp_synced: publish
 ---
 
 **Quick summary**

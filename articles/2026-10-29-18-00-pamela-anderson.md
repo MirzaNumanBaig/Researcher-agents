@@ -1,7 +1,7 @@
 ---
 title: "Pamela Anderson's Storybook Garden and Her Simple Growing Rules"
 description: "Pamela Anderson's cottage-style kitchen garden on Vancouver Island is drawing attention, and her seven-rule approach suits beginners."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-29 18:00"
 celebrity: "Pamela Anderson"
@@ -10,6 +10,13 @@ tags: ["Pamela Anderson"]
 image_prompt: "A rustic cottage kitchen garden with raised wooden beds, tall sunflowers, pink roses and a squash-covered archway in soft morning light."
 sources:
   - "https://timesofindia.indiatimes.com/life-style/home-garden/pamela-andersons-garden-at-her-childhood-estate-in-vancouver-is-a-rustic-vintage-cottage-straight-out-of-a-storybook-from-embracing-imperfection-to-consistency-gardening-rules-beginners-can-follow/articleshow/135291470.cms"
+image_alt: "Illustration of a person with raised beds and climbing squash, lit by daylight."
+image: "images/2026-10-29-18-00-pamela-anderson.webp"
+wp_media_id: 1291
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-18-00-pamela-anderson-768x432.webp"
+wp_id: 1292
+wp_link: "https://moduscarry.com/pamela-andersons-storybook-garden-and-her-simple-growing-rules/"
+wp_synced: publish
 ---
 
 **Quick summary**
