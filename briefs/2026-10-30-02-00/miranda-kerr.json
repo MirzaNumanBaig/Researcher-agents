@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-30 02:00",
+  "celebrity": "Miranda Kerr",
+  "stories": [
+    {
+      "title": "Miranda Kerr",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NbU5DR2ZVOTlPNWdVOXRrYkQ3ejNncEJJbHkyc0FhRXpfYWJxVnF3OV95MHN2ZDVZRlNZT2pfVnhYQV9rdWM5ZWpmdzQyTlVuNFlSMzhYWWNJdFVZUVM0VTQ4ZXlPbVZhTXRpbUFTMjlxcXcwZ09HVTdJazI?oc=5",
+      "published": "2026-10-28T14:14:20+00:00",
+      "outlets": [
+        {
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NbU5DR2ZVOTlPNWdVOXRrYkQ3ejNncEJJbHkyc0FhRXpfYWJxVnF3OV95MHN2ZDVZRlNZT2pfVnhYQV9rdWM5ZWpmdzQyTlVuNFlSMzhYWWNJdFVZUVM0VTQ4ZXlPbVZhTXRpbUFTMjlxcXcwZ09HVTdJazI?oc=5",
+          "article_url": "https://www.forbes.com/pictures/54f4e70ada47a54de8244c86/1493934238001-1/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/2c5f488a5595846c29ee9600c203af3d/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
+        }
+      ],
+      "image": "https://imageio.forbes.com/specials-images/imageserve/2c5f488a5595846c29ee9600c203af3d/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+      "image_source": "https://www.forbes.com/pictures/54f4e70ada47a54de8244c86/1493934238001-1/"
+    },
+    {
+      "title": "Miranda Kerr announces the birth of her baby boy",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWtTX016YXVPUVpMS1oxbmhHRFoxZGNWVlFVUFo2QnV1bnBweVNkcHFFSHZnSWZPWlpyaWRSX0xVaHdNV1AxWlpENzRJR0N4dVhCQVp6a3hoOVVtcG12OUtnNWV2ZV9LN0MzVW4zMVdyb3hRODQ5bWpRSlpTM1N2NTlkcXZtcXVnYlF6Yg?oc=5",
+      "published": "2026-10-28T11:12:44+00:00",
+      "outlets": [
+        {
+          "source": "rollercoaster.ie",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWtTX016YXVPUVpMS1oxbmhHRFoxZGNWVlFVUFo2QnV1bnBweVNkcHFFSHZnSWZPWlpyaWRSX0xVaHdNV1AxWlpENzRJR0N4dVhCQVp6a3hoOVVtcG12OUtnNWV2ZV9LN0MzVW4zMVdyb3hRODQ5bWpRSlpTM1N2NTlkcXZtcXVnYlF6Yg?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}
