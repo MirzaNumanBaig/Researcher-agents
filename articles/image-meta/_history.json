@@ -1,37 +1,5 @@
 [
  {
-  "article": "2026-10-27-02-00-delta-goodrem",
-  "shot": "over-the-shoulder shot",
-  "angle": "tilted angle",
-  "lens": "85mm",
-  "palette": "silver, gold and black",
-  "prompt": "A medium-wide shot, taken from a low, tilted angle, captures the empty, dimly lit concert stage, with the iconic BBC One subtly integrated into the backdrop, a soft, silver glow emanating from the spotlights. The two vacant armchairs, positioned center stage, are positioned at a 45-degree angle to each other, as if awaiting the arrival of the hosts, the dark, rich wood grain of the chairs standing in contrast to the cool, metallic sheen of the stage. The foreground is bathed in a warm, golden light, spilling across the floor from the exit door, while the background remains shrouded in a deep, dark grey, the silver accents of the stage equipment gleaming in the dim light. A 85mm lens, at a 45-degree angle, captures the scene with a shallow depth of field, blurring the background and emphasizing the empty stage. The lighting is provided by a series of warm, golden spotlights, positioned above and to the sides of the stage, casting a sense of anticipation and expectation across the scene. The mood is calm and respectful, the colour palette a rich, metallic silver, gold and black. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-10-27-02-00-connor-storrie",
-  "shot": "medium shot",
-  "angle": "slightly high angle",
-  "lens": "50mm",
-  "palette": "blue, red and silver",
-  "prompt": "A medium shot, taken from a slightly high angle, captures the woman in her late 20s with long straight black hair and warm beige skin seated close to the man in his late 40s with thinning dark hair and round glasses and olive skin at a small table in the hockey rink. The woman's eyebrows are drawn up gently at the centre, her unfocused and distant eyes gazing off-frame toward a window, her lips just closed, and her jaw soft, as she rests her head slightly back and lowers her shoulders. She's wrapped her hands around a mug, cradling it gently. The man, on the other hand, has his eyebrows lifted, his bright and crinkled eyes shining as he gazes at the woman, his wide natural smile spreading across his face, and his jaw relaxed, as he tips his head back mid-laugh and lets his chest relax, with one hand in his coat pocket. The two are seated in relaxed mirrored poses, knees angled toward each other. The 50mm lens captures the scene with a subtle sense of intimacy, the woman and man lost in their own little world. No text, no logos, no watermark.",
-  "cast": [
-   "cast-03",
-   "cast-12"
-  ]
- },
- {
-  "article": "2026-10-27-02-00-catherine-o-hara",
-  "shot": "wide shot",
-  "angle": "slightly high angle",
-  "lens": "35mm",
-  "palette": "warm beige, rich brown and deep red",
-  "prompt": "A wide shot, taken from a slightly high angle, with a 35mm lens, captures a woman in her late 50s with short wavy white hair and pale skin, wearing a navy cardigan, as she sits in a television studio, leaning forward, elbows on knees, and holding a paper cup in her hands. Her eyebrows are slightly raised, her eyes are wide and attentive, and her lips are just parted, as she tilts her head slightly up, gazing up and off-frame right. The television station's backdrop is visible behind her, a soft haze and bokeh in the background, with an anonymous figure standing to her left, and another to her right, both looking at her with interest. The studio lights shine from the side, casting a warm glow on the scene. The composition is balanced with the people placed left of centre, and the setting opens up to the right, creating a sense of nostalgia. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
-  "cast": [
-   "cast-09"
-  ]
- },
- {
   "article": "2026-10-26-17-00-russell-crowe",
   "shot": "medium-wide shot",
   "angle": "three-quarter view",
@@ -197,6 +165,35 @@
   "lens": "50mm",
   "palette": "soft pink, deep blue and golden yellow",
   "prompt": "A single empty wooden chair beside a tall window, a row of lit white candles on a small table. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Close-up detail shot, 50mm lens, slightly low angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-10-29-12-00-ryan-gosling",
+  "shot": "overhead shot",
+  "angle": "high angle",
+  "lens": "50mm",
+  "palette": "space grey, starlight blue and cosmic purple",
+  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Overhead shot, 50mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural the figure-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-10-29-12-00-pamela-anderson",
+  "shot": "medium shot",
+  "angle": "eye-level",
+  "lens": "85mm",
+  "palette": "white, cream and green",
+  "prompt": "A medium shot of a man in his early 30s with medium-length wavy auburn hair and light skin, standing confidently in front of an anonymous figure with a the figure, subtle expression; his eyebrows are smooth and softly arched, his eyes are confident and direct, his mouth is a composed the figure smile, and his jaw is lifted slightly, gazing directly at the camera with a hint of charm. His head is quarter-turned toward the lens, his chin raised, and his posture is strong, with his shoulders back and his spine long, one hand resting on his hip in a casual yet elegant manner. He wears a rust corduroy jacket that complements his warm, earthy tones, with a subtle sheen to the fabric. In the foreground, a delicate white-to-cream manicure catches the eye, surrounded by a few strategically placed lab-grown diamonds and a personalized charm bracelet. The medium shot, taken with an 85mm lens, captures the subject's confident and direct gaze, while also framing the anonymous figure and the surrounding props in a beautiful and elegant manner. No text, no logos, no watermark.",
+  "cast": [
+   "cast-10"
+  ]
+ },
+ {
+  "article": "2026-10-29-12-00-jacob-elordi",
+  "shot": "over-the-shoulder shot",
+  "angle": "tilted angle",
+  "lens": "85mm",
+  "palette": "navy blue, silver and black",
+  "prompt": "A wide shot of a dimly lit film set, the only sound the soft hum of studio lights, Candid editorial news photograph with natural film-like colour and subtle grain. The camera pans across a row of empty director's chairs, their navy blue upholstery reflecting the silver accents of the studio equipment in the background. In the foreground, a single, worn armchair sits in front of a rain-streaked window, its grey velvet fabric worn smooth by years of use. Soft grey light spills across the floor, illuminating the faint outlines of footprints in the dust. A 85mm lens captures the scene from a tilted angle, emphasizing the sense of unease beneath the surface. The palette of navy blue, silver and black is muted, reflecting the sensitive nature of the story unfolding off-camera. No text, no logos, no watermark.",
   "cast": []
  }
 ]

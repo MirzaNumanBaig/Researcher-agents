@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-10-29T01:43:22.996040+00:00",
+  "article": "2026-10-29-12-00-jacob-elordi",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure and Jack Lowden emerge as top contenders to play James Bond",
+    "emotion": "speculation",
+    "setting": "film set",
+    "key_objects": [
+      "James Bond",
+      "an anonymous figure",
+      "Jack Lowden",
+      "film director",
+      "studio executives"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "navy blue",
+      "silver",
+      "black"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "James Bond",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "James Bond",
+      "an anonymous figure",
+      "Jack Lowden",
+      "film director"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "navy blue",
+      "silver",
+      "black"
+    ],
+    "mood": "speculation",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide shot of a dimly lit film set, the only sound the soft hum of studio lights, Candid editorial news photograph with natural film-like colour and subtle grain. The camera pans across a row of empty director's chairs, their navy blue upholstery reflecting the silver accents of the studio equipment in the background. In the foreground, a single, worn armchair sits in front of a rain-streaked window, its grey velvet fabric worn smooth by years of use. Soft grey light spills across the floor, illuminating the faint outlines of footprints in the dust. A 85mm lens captures the scene from a tilted angle, emphasizing the sense of unease beneath the surface. The palette of navy blue, silver and black is muted, reflecting the sensitive nature of the story unfolding off-camera. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 464045870,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 249.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 464045870,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

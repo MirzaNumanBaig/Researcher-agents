@@ -1,7 +1,7 @@
 ---
 title: "Pamela Anderson's Soft French Fade Nails and Bare-Faced Style"
 description: "Pamela Anderson wore a sheer ombré French manicure in New York and keeps choosing minimal makeup on red carpets, outlets report."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-29 12:00"
 celebrity: "Pamela Anderson"
@@ -11,6 +11,13 @@ image_prompt: "A quiet vanity table with soft white and cream nail polish bottle
 sources:
   - "https://www.women.com/2294469/pamela-anderson-is-jumping-on-the-ombre-manicure-trend-aka-the-french-fade/"
   - "https://latination.com/pamela-anderson-rediscovers-beauty-without-makeup/"
+image_alt: "Illustration of a man in a person, lit by daytime, natural light."
+image: "images/2026-10-29-12-00-pamela-anderson.webp"
+wp_media_id: 1283
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-12-00-pamela-anderson-768x432.webp"
+wp_id: 1284
+wp_link: "https://moduscarry.com/pamela-andersons-soft-french-fade-nails-and-bare-faced-style/"
+wp_synced: publish
 ---
 
 **Quick summary**

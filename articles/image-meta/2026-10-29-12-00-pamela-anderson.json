@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-10-29T01:43:11.787124+00:00",
+  "article": "2026-10-29-12-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure spotted with a the figure the figure the figure manicure and an anonymous figure.",
+    "emotion": "glamorous",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "the figure the figure manicure",
+      "an anonymous figure",
+      "white-to-cream the figure",
+      "lab-grown diamonds",
+      "personalised charm bracelets"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "white",
+      "cream",
+      "green"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure the figure manicure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "the figure the figure manicure",
+      "an anonymous figure",
+      "white-to-cream the figure",
+      "lab-grown diamonds"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "white",
+      "cream",
+      "green"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-10"
+  ],
+  "prompt": "A medium shot of a man in his early 30s with medium-length wavy auburn hair and light skin, standing confidently in front of an anonymous figure with a the figure, subtle expression; his eyebrows are smooth and softly arched, his eyes are confident and direct, his mouth is a composed the figure smile, and his jaw is lifted slightly, gazing directly at the camera with a hint of charm. His head is quarter-turned toward the lens, his chin raised, and his posture is strong, with his shoulders back and his spine long, one hand resting on his hip in a casual yet elegant manner. He wears a rust corduroy jacket that complements his warm, earthy tones, with a subtle sheen to the fabric. In the foreground, a delicate white-to-cream manicure catches the eye, surrounded by a few strategically placed lab-grown diamonds and a personalized charm bracelet. The medium shot, taken with an 85mm lens, captures the subject's confident and direct gaze, while also framing the anonymous figure and the surrounding props in a beautiful and elegant manner. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1129698996,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in a person, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 95.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1129698996,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
