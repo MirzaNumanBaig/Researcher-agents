@@ -703,6 +703,22 @@
    "turns": 8,
    "seconds": 28,
    "cost_usd": 0.1444
+  },
+  {
+   "date": "2026-10-29",
+   "time": "2026-10-29T01:39:46+00:00",
+   "batch": "2026-10-29 12:00",
+   "celebrity": "Ryan Gosling",
+   "article": "2026-10-29-12-00-ryan-gosling.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 3660,
+   "cache_read_tokens": 179158,
+   "cache_write_tokens": 24776,
+   "turns": 10,
+   "seconds": 28,
+   "cost_usd": 0.1538
   }
  ]
 }
