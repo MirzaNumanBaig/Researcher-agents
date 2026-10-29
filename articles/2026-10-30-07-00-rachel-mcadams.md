@@ -1,7 +1,7 @@
 ---
 title: "Rachel McAdams' The Notebook tops Pluto TV chart again"
 description: "The Notebook, starring Rachel McAdams and Ryan Gosling, held No. 1 on Pluto TV's US movie chart for seven days, 22 years after its release."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-30 07:00"
 celebrity: "Rachel McAdams"
@@ -10,6 +10,13 @@ tags: ["Rachel McAdams", "Ryan Gosling", "The Notebook", "Project Hail Mary"]
 image_prompt: "A rain-soaked wooden rowboat on a still lake at dusk, with warm lantern light on the shore and soft mist."
 sources:
   - "https://fandomwire.com/ryan-gosling-the-notebook-no-1-pluto-tv-streaming-project-hail-mary/"
+image_alt: "Illustration of a man in film set, lit by daytime, sunlight."
+image: "images/2026-10-30-07-00-rachel-mcadams.webp"
+wp_media_id: 1321
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-07-00-rachel-mcadams-768x432.webp"
+wp_id: 1322
+wp_link: "https://moduscarry.com/rachel-mcadams-the-notebook-tops-pluto-tv-chart-again/"
+wp_synced: publish
 ---
 
 **Quick summary**

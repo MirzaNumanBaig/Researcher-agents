@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-10-29T21:36:00.774792+00:00",
+  "article": "2026-10-30-07-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure reaches No. 1 on the figure TV's US movie the figure.",
+    "emotion": "romance",
+    "setting": "1940s South Carolina",
+    "key_objects": [
+      "an anonymous figure",
+      "the figure TV",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "soft pink",
+      "deep blue",
+      "golden yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "1940s South Carolina",
+    "props": [
+      "an anonymous figure",
+      "the figure TV",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft pink",
+      "deep blue",
+      "golden yellow"
+    ],
+    "mood": "romance",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-03"
+  ],
+  "prompt": "A medium shot of a woman in her late 20s with long straight black hair and warm beige skin, standing slightly left of center in the frame, her back to the right edge. Her facial expression is one of quiet concentration, with her eyebrows slightly raised, her wide and attentive eyes fixed on the figure TV in the distance, her lips just parted in a gentle smile, and her relaxed jawline softened by a hint of a lean forward. Her head is tilted slightly up, her gaze directed up and off-frame right, as if lost in thought. Her posture is relaxed, leaning forward slightly with her elbows resting on her knees, her hands clasped tightly around a paper cup. She wears a cropped denim jacket, its faded blue hue a testament to many washes, and her long hair falls in a straight line down her back. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2192774501,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in 1940s South Carolina, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 239.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2192774501,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

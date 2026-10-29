@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-10-29T21:36:22.974170+00:00",
+  "article": "2026-10-30-07-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure shares conflicting opinions on his the figure the figure an anonymous figure.",
+    "emotion": "mixed",
+    "setting": "the figure set",
+    "key_objects": [
+      "an anonymous figure the figure",
+      "ice hockey",
+      "Volvo",
+      "French-Canadian accent"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "the figure set",
+    "props": [
+      "an anonymous figure the figure",
+      "ice hockey",
+      "Volvo",
+      "French-Canadian accent"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "mood": "mixed",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-01",
+    "cast-08"
+  ],
+  "prompt": "A medium-wide shot of the scene, taken from a slightly low angle with a 35mm lens, frames the woman and the man seated at an angle to each other across a low table, left of centre in the frame, as the setting opens up to the right. The woman, a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, wears a white linen shirt, her eyebrows drawn up gently at the centre, eyes unfocused and distant, lips just closed, and a soft jawline, gazing off-frame toward a window with her head resting slightly back and shoulders low, her hands wrapped around a mug. The man, a man in his early 40s with close-cropped black hair and dark brown skin, wears a burnt-orange bomber jacket, his eyebrows slightly raised, eyes wide and attentive, lips just parted, and a relaxed jawline, gazing up and off-frame right with his head tilted slightly up and leaning forward, elbows on knees, his hands holding a paper cup. The natural light casts a gentle glow from the side, illuminating the woman's and man's features. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3102431510,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in a person set, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 146.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3102431510,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

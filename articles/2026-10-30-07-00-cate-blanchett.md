@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett Meets Hideo Kojima, Sparking Fan Talk"
 description: "Hideo Kojima posted photos with Cate Blanchett, and Metal Gear Solid fans are asking about The Boss. No casting has been announced."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-30 07:00"
 celebrity: "Cate Blanchett"
@@ -11,6 +11,14 @@ image_prompt: "A quiet game studio at night with glowing monitors, concept art p
 sources:
   - "https://www.aol.com/articles/cate-blanchett-kojima-productions-visit-180901000.html"
   - "https://moduscarry.com/cate-blanchett-to-chair-uniqlos-new-literary-magazine/"
+image: "images/2026-10-30-07-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cast and Crew Father Mother Sister Brother at the 2025 Venice Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1309
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-07-00-cate-blanchett-768x432.webp"
+wp_id: 1310
+wp_link: "https://moduscarry.com/cate-blanchett-meets-hideo-kojima-sparking-fan-talk/"
+wp_synced: publish
 ---
 
 **Quick summary**

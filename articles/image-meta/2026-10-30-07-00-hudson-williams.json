@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-10-29T21:36:51.328536+00:00",
+  "article": "2026-10-30-07-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure",
+    "emotion": "excitement",
+    "setting": "an anonymous figure event",
+    "key_objects": [
+      "the figure",
+      "Section 35",
+      "an anonymous figure",
+      "the figure the figure Day"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "the figure",
+      "black",
+      "cream"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure event",
+    "props": [
+      "the figure",
+      "Section 35",
+      "an anonymous figure",
+      "the figure the figure Day"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "the figure",
+      "black",
+      "cream"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-04"
+  ],
+  "prompt": "A medium-wide shot, taken from a slightly high angle with a 35mm lens, captures The man: a man in his mid 20s with tousled sandy-blond hair and fair skin, his smooth and softly arched eyebrows slightly raised in anticipation as his confident and direct eyes sparkle with excitement, his mouth curled into a composed soft smile as his lifted jawline conveys a sense of pride. His quarter-turned head, chin raised, is positioned toward the lens, with his shoulders back and spine long, exuding confidence. One hand rests on his hip, while the other is free to gesture or react to the scene unfolding before him. The anonymous figure event is set in the background, with Section 35 prominently displayed on a nearby, and the soft haze of a summer day blurring the edges of the midground. The atmosphere is electric with excitement, the warm natural light from the side illuminating the scene with a soft golden glow. The realism is heightened by the Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1400636779,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in a person event, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 231.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1400636779,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

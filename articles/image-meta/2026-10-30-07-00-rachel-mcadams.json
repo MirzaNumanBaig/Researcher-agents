@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-10-29T21:36:11.174207+00:00",
+  "article": "2026-10-30-07-00-rachel-mcadams",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure reaches No. 1 on an anonymous figure's US movie chart",
+    "emotion": "romance",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "FlixPatrol"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "soft pink",
+      "deep blue",
+      "golden yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft pink",
+      "deep blue",
+      "golden yellow"
+    ],
+    "mood": "romance",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-12"
+  ],
+  "prompt": "A medium shot of a man in his late 40s with thinning dark hair and round glasses and olive skin, wearing a tweed blazer, leans forward, elbows on knees, as he gazes up and off-frame right with slightly raised eyebrows and wide, attentive eyes, his lips just parted in a gentle smile, with a relaxed jaw. The man's hands hold a paper cup, his head tilted slightly up, as he sits in the midst of a film set, surrounded by the soft glow of warm amber lighting from the side, casting a romantic mood over the scene. The man is positioned to the left of centre, with the film set opening up to the right, featuring 'an anonymous figure', 'an anonymous figure', 'an anonymous figure', and 'an anonymous figure' standing around him, while 'FlixPatrol' displays on a nearby screen. In the background, a soft haze and bokeh create a sense of depth, with the 50mm lens capturing a three-quarter view of the man, his tweed blazer and dark hair blending seamlessly into the warm tones of the film set. 1 on an anonymous figure's US movie chart. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3069640411,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 166.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3069640411,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
