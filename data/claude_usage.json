@@ -719,6 +719,22 @@
    "turns": 10,
    "seconds": 28,
    "cost_usd": 0.1538
+  },
+  {
+   "date": "2026-10-29",
+   "time": "2026-10-29T01:40:55+00:00",
+   "batch": "2026-10-29 12:00",
+   "celebrity": "Ryan Reynolds",
+   "article": "2026-10-29-12-00-ryan-reynolds.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 899,
+   "cache_read_tokens": 72323,
+   "cache_write_tokens": 17519,
+   "turns": 6,
+   "seconds": 7,
+   "cost_usd": 0.0865
   }
  ]
 }
