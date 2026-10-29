@@ -847,6 +847,22 @@
    "turns": 8,
    "seconds": 26,
    "cost_usd": 0.1376
+  },
+  {
+   "date": "2026-10-29",
+   "time": "2026-10-29T08:13:24+00:00",
+   "batch": "2026-10-29 18:00",
+   "celebrity": "Michael J. Fox",
+   "article": "2026-10-29-18-00-michael-j-fox.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 786,
+   "cache_read_tokens": 71522,
+   "cache_write_tokens": 16599,
+   "turns": 6,
+   "seconds": 11,
+   "cost_usd": 0.0816
   }
  ]
 }
