@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-29 12:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "James Reynolds Remembers Joining Days of Our Lives While Celebrating 45 Years",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSE1zdlZXbDdTVzJGMFdmYUEzOTA2SGZ4cWhSdTBRbDVhb1RPNmV6MVRFU1hPMm9weFZSYWFacHBSM3V6cTRhNGVxeXVTVjA5RVIyMzAyYml4Vno1bVRDeHY5WVJHX2VQaFRyLUhZRjVsVGh5UkhCQU0tMWxKbWpoNnlhX25UT05E?oc=5",
+      "published": "2026-10-28T21:23:19+00:00",
+      "outlets": [
+        {
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSE1zdlZXbDdTVzJGMFdmYUEzOTA2SGZ4cWhSdTBRbDVhb1RPNmV6MVRFU1hPMm9weFZSYWFacHBSM3V6cTRhNGVxeXVTVjA5RVIyMzAyYml4Vno1bVRDeHY5WVJHX2VQaFRyLUhZRjVsVGh5UkhCQU0tMWxKbWpoNnlhX25UT05E?oc=5",
+          "article_url": "https://www.aol.com/articles/james-reynolds-remembers-joining-days-212319000.html",
+          "image": "https://hermes.media.static.aol.com/media/2026/10/29/4b90b518-9074-3619-ad7c-e048d5d48111/6428954e-f253-4753-91a4-08e8ff5e10f2.jpg"
+        }
+      ],
+      "image": "https://hermes.media.static.aol.com/media/2026/10/29/4b90b518-9074-3619-ad7c-e048d5d48111/6428954e-f253-4753-91a4-08e8ff5e10f2.jpg",
+      "image_source": "https://www.aol.com/articles/james-reynolds-remembers-joining-days-212319000.html"
+    }
+  ]
+}

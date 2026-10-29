@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-29 12:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Manny’S Movie News Now: Ryan Gosling’S Ghost Rider Gets A New Villain, Jafar Panahi Faces Prison, And David Bowie Returns To The Big Screen!",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52YzNnWjd3UnFPQTl2V3hWVFhtUXZocDNLbkt5YXM1NnVLa3VuQWRVVUh1MWtwbXJmaU1OYW5MZ1ZFeU1NaktpLXJVeE94dVMwRjllSUpOYkhTYWlfT0xRcklYWlRPV1k?oc=5",
+      "published": "2026-10-28T17:59:24+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52YzNnWjd3UnFPQTl2V3hWVFhtUXZocDNLbkt5YXM1NnVLa3VuQWRVVUh1MWtwbXJmaU1OYW5MZ1ZFeU1NaktpLXJVeE94dVMwRjllSUpOYkhTYWlfT0xRcklYWlRPV1k?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66084335/?ref_=ttnw_art_perm",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "STAR WARS: STARFIGHTER Rumor Reveals Eva Mendes’ Role Alongside Ryan Gosling",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONXNaelZvSzJ1R3hvd2Q1UHFkS0Y2cGp1TDNTa1g4X0lVZEF4cjNtVDBKbjdoOTBzZGZfeUVyTXcwS0lqeUJfV3d4RHFweEpjX3loMXRYX0g4VVd1alBWMC1IZ0RySWFOTEpuUXNCUXh4dUZ5dzV4UW1idW0taWFfbnBoakdjZl9tM3hhRzVWZDNNTTZFQVlfUl9mUmJYblFPMGE3LQ?oc=5",
+      "published": "2026-10-28T16:01:04+00:00",
+      "outlets": [
+        {
+          "source": "GeekTyrant",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONXNaelZvSzJ1R3hvd2Q1UHFkS0Y2cGp1TDNTa1g4X0lVZEF4cjNtVDBKbjdoOTBzZGZfeUVyTXcwS0lqeUJfV3d4RHFweEpjX3loMXRYX0g4VVd1alBWMC1IZ0RySWFOTEpuUXNCUXh4dUZ5dzV4UW1idW0taWFfbnBoakdjZl9tM3hhRzVWZDNNTTZFQVlfUl9mUmJYblFPMGE3LQ?oc=5",
+          "article_url": "https://geektyrant.com/news/star-wars-starfighter-rumor-reveals-eva-mendes-role-alongside-ryan-gosling",
+          "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ae13410b7c0b85610ee1b43/1793203081304/IMG_3465.jpeg?format=1500w"
+        }
+      ],
+      "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ae13410b7c0b85610ee1b43/1793203081304/IMG_3465.jpeg?format=1500w",
+      "image_source": "https://geektyrant.com/news/star-wars-starfighter-rumor-reveals-eva-mendes-role-alongside-ryan-gosling"
+    }
+  ]
+}

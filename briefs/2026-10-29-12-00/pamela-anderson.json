@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-29 12:00",
+  "celebrity": "Pamela Anderson",
+  "stories": [
+    {
+      "title": "Pamela Anderson Is Jumping On The Ombré Manicure Trend, Aka 'The French Fade'",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0pyeHFBMGEtQVYwb2NNY0FBb2Y4UXExalYzTU55enlOS1dSMFEzVFB4XzNTSWNBR1RwMmhSbG1VRnlBT3FOVXVfZEhoXzlJTHBGWnFmSi1SSXlXQjB6WEFjTGtIWExPaERUc0ZJV2M0U0htUWRQNVhoUEFvNjB2c2pkZW44QUxnems2dmZNaHhlUEtVMWcxUHE2b2hqUmd5ZjBacGdjZHc?oc=5",
+      "published": "2026-10-28T23:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Women.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0pyeHFBMGEtQVYwb2NNY0FBb2Y4UXExalYzTU55enlOS1dSMFEzVFB4XzNTSWNBR1RwMmhSbG1VRnlBT3FOVXVfZEhoXzlJTHBGWnFmSi1SSXlXQjB6WEFjTGtIWExPaERUc0ZJV2M0U0htUWRQNVhoUEFvNjB2c2pkZW44QUxnems2dmZNaHhlUEtVMWcxUHE2b2hqUmd5ZjBacGdjZHc?oc=5",
+          "article_url": "https://www.women.com/2294469/pamela-anderson-is-jumping-on-the-ombre-manicure-trend-aka-the-french-fade/",
+          "image": "https://www.women.com/img/gallery/pamela-anderson-is-jumping-on-the-ombr-manicure-trend-aka-the-french-fade/l-intro-1792082169.jpg"
+        }
+      ],
+      "image": "https://www.women.com/img/gallery/pamela-anderson-is-jumping-on-the-ombr-manicure-trend-aka-the-french-fade/l-intro-1792082169.jpg",
+      "image_source": "https://www.women.com/2294469/pamela-anderson-is-jumping-on-the-ombre-manicure-trend-aka-the-french-fade/"
+    },
+    {
+      "title": "Pamela Anderson leaves her Hollywood glamour behind for a different kind of beauty",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zQXBUVEFGQ1QzdVlzQlRiWTZEYUs5NzNYQVdpbVZmVzFJbXQ5NE5RdDZ6dlNFNG9XMVJXbUJLMVJsRVNqT1dXZXBuOEM3bXVGaE5xaDRBNlI4YlhNd2s5OWVuN0g4XzhsRzNVbEpVelJwTkxhZ0pFVWpLcU1mUQ?oc=5",
+      "published": "2026-10-28T21:49:40+00:00",
+      "outlets": [
+        {
+          "source": "https://latination.com/",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zQXBUVEFGQ1QzdVlzQlRiWTZEYUs5NzNYQVdpbVZmVzFJbXQ5NE5RdDZ6dlNFNG9XMVJXbUJLMVJsRVNqT1dXZXBuOEM3bXVGaE5xaDRBNlI4YlhNd2s5OWVuN0g4XzhsRzNVbEpVelJwTkxhZ0pFVWpLcU1mUQ?oc=5",
+          "article_url": "https://latination.com/pamela-anderson-rediscovers-beauty-without-makeup/",
+          "image": "https://storage.googleapis.com/latination-website-bucket-new/uploads/26791c4a-pamela-anderson-600x400.jpg"
+        }
+      ],
+      "image": "https://storage.googleapis.com/latination-website-bucket-new/uploads/26791c4a-pamela-anderson-600x400.jpg",
+      "image_source": "https://latination.com/pamela-anderson-rediscovers-beauty-without-makeup/"
+    }
+  ]
+}
