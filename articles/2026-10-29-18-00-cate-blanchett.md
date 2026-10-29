@@ -19,6 +19,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-18-00-ca
 wp_id: 1288
 wp_link: "https://moduscarry.com/cate-blanchetts-tokyo-speech-why-doubt-drives-her-acting/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

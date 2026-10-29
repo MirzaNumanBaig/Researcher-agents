@@ -17,6 +17,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-18-00-pa
 wp_id: 1292
 wp_link: "https://moduscarry.com/pamela-andersons-storybook-garden-and-her-simple-growing-rules/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
