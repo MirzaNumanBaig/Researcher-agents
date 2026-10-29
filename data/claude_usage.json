@@ -1167,6 +1167,22 @@
    "turns": 6,
    "seconds": 8,
    "cost_usd": 0.0895
+  },
+  {
+   "date": "2026-10-29",
+   "time": "2026-10-29T20:57:17+00:00",
+   "batch": "2026-10-30 07:00",
+   "celebrity": "Heath Ledger",
+   "article": "2026-10-30-07-00-heath-ledger.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 853,
+   "cache_read_tokens": 71955,
+   "cache_write_tokens": 17107,
+   "turns": 6,
+   "seconds": 8,
+   "cost_usd": 0.0843
   }
  ]
 }
