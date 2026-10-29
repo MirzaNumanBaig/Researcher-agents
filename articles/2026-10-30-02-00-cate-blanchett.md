@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett to Chair Uniqlo's New Literary Magazine"
 description: "Cate Blanchett will chair the selection committee for Uniqlo's first literary magazine, Stories She Tells, launching with the University of Tokyo."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-30 02:00"
 celebrity: "Cate Blanchett"
@@ -11,6 +11,14 @@ image_prompt: "A quiet university library at dusk with open books and handwritte
 sources:
   - "https://wwd.com/fashion-news/fashion-features/uniqlo-cate-blanchett-literary-magazine-launch-1239390854/"
   - "https://www.moneycontrol.com/entertainment/cate-blanchett-receives-praemium-imperiale-award-in-tokyo-doubt-vital-to-creative-process-article-14063631.html"
+image: "images/2026-10-30-02-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cast and Crew Father Mother Sister Brother at the 2025 Venice Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1295
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-02-00-cate-blanchett-768x432.webp"
+wp_id: 1296
+wp_link: "https://moduscarry.com/cate-blanchett-to-chair-uniqlos-new-literary-magazine/"
+wp_synced: publish
 ---
 
 **Quick summary**

@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth's gym photos fuel Secret Wars Thor talk"
 description: "Chris Hemsworth shared new gym photos, and fans read them as a hint about Thor's fate in Avengers: Doomsday and Secret Wars."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-30 02:00"
 celebrity: "Chris Hemsworth"
@@ -10,6 +10,14 @@ tags: ["Chris Hemsworth", "Marvel Studios", "Extraction 3"]
 image_prompt: "A quiet empty home gym at dawn with heavy dumbbells on a rack and a stormy sky glowing through a large window."
 sources:
   - "https://www.cinemablend.com/movies/chris-hemsworth-thor-fit-swole-pics-feel-like-secret-wars-hint"
+image: "images/2026-10-30-02-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1297
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-02-00-chris-hemsworth-768x432.webp"
+wp_id: 1298
+wp_link: "https://moduscarry.com/chris-hemsworths-gym-photos-fuel-secret-wars-thor-talk/"
+wp_synced: publish
 ---
 
 **Quick summary**

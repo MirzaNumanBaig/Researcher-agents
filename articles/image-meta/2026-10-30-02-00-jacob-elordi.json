@@ -1,0 +1,138 @@
+{
+  "timestamp": "2026-10-29T15:33:19.459665+00:00",
+  "article": "2026-10-30-02-00-jacob-elordi",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "The Dog the figure the figure the figure the figure the figure",
+    "emotion": "surprise",
+    "setting": "film set",
+    "key_objects": [
+      "film",
+      "the figure",
+      "iTunes",
+      "Apple",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "gray",
+      "brown"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "film",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "film",
+      "the figure",
+      "iTunes",
+      "Apple"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "brown"
+    ],
+    "mood": "surprise",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-02"
+  ],
+  "prompt": "A wide shot of a film set, taken from a three-quarter view with a 35mm lens, captures the scene unfolding before the camera. A man in his late 30s, with short dark greying hair and medium-brown skin, sits in the foreground, wearing a black tuxedo. His slightly raised eyebrows and wide, attentive eyes convey a mix of surprise and curiosity as he holds a paper cup in his hands. His lips are just parted, and his jaw is relaxed, giving him a calm yet engaged appearance. He leans forward, elbows on knees, his head tilted slightly up, as if taking in the scene before him. To his left, the setting of the film set opens up, with a soft haze and bokeh in the background, giving the scene a sense of depth. The film and the main subject of the scene, \"the figure,\" are placed in the midground, with the iTunes and Apple props nearby. Natural light streams in from the side, casting a warm glow on the scene. The overall mood is one of surprise, as if something unexpected has just occurred. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 117162511,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 120.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 117162511,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

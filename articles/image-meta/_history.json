@@ -1,23 +1,5 @@
 [
  {
-  "article": "2026-10-26-17-00-rebel-wilson",
-  "shot": "close-up detail shot",
-  "angle": "from behind",
-  "lens": "24mm",
-  "palette": "green, gold and black",
-  "prompt": "A wooden gavel resting on a bare desk beside a closed leather folder, soft light across the grain. Softly out of focus in the foreground: stone columns. The background fades into soft haze and gentle bokeh. Close-up detail shot, 24mm lens, from behind, shallow depth of field. Lit by soft overcast daylight. Quiet mood, stone grey and warm brown palette. Candid editorial news photograph with natural the figure-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-10-26-17-00-margot-robbie",
-  "shot": "over-the-shoulder shot",
-  "angle": "side-on view",
-  "lens": "24mm",
-  "palette": "neutral grey, digital blue and silver",
-  "prompt": "A medium-wide shot, taken from a slightly low angle, captures an empty film studio with a hint of studio lights peeking through the window. A single armchair sits in the foreground, positioned in front of a rain-streaked glass door, the gentle grey light from the outside casting a soft glow across the floor. In the midground, a sleek, metallic RedSnapper AI tool rests on a minimalist table, its digital blue and silver hues blending seamlessly with the surrounding environment. The background is a blur of grey and white, with faint outlines of studio equipment and production lights. The 24mm lens captures a wide, cinematic view, with subtle depth of field that draws the viewer's eye to the center of the scene. Soft, neutral grey studio lights illuminate the space, casting a respectful and calm atmosphere. The colour palette is a mix of neutral grey, digital blue and silver, with a subtle grain reminiscent of film stock. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
   "article": "2026-10-26-17-00-hugh-jackman",
   "shot": "medium shot",
   "angle": "slightly low angle",
@@ -193,5 +175,25 @@
   "palette": "green, pink and yellow",
   "prompt": "A medium shot of the anonymous figure, her early 30s, stands behind a raised bed, gently pruning a climbing squash. Her face is relaxed, with a slight upward curve to the corners of her mouth, her eyes softening as she surveys her the figure. Her shoulders are slightly rolled forward, her weight shifted onto her left leg as she reaches for a nearby pink rose. The rose clutched in her hand, its delicate petals unfolding from the stem, a few stray leaves tangled in her fingers. The warm daylight casts a gentle glow on the scene, with the midground filled with sunflowers towering above the bed, their bright yellow petals radiating outward. The background is a soft blur of lush greenery, the distant edge of the the figure fading into the horizon. The camera captures the intimate moment from behind, a 35mm lens compressing the space, and the resulting image feels like a candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "cast": []
+ },
+ {
+  "article": "2026-10-30-02-00-renate-reinsve",
+  "shot": "medium-wide shot",
+  "angle": "eye-level",
+  "lens": "85mm",
+  "palette": "blue, grey and white",
+  "prompt": "A medium-wide shot of an empty courtroom, taken at eye-level, with a 85mm lens, captures the solemn atmosphere of a Norwegian village courthouse. The wooden pews, polished to a warm sheen, stretch towards the back of the room, their straight lines and gentle slope evoking a sense of calm. In the foreground, a single, worn armchair sits at the front of the room, its empty space a poignant reminder of the weighty decisions made here. Soft grey light, cast through a high window, streams across the floor, casting a gentle glow on the empty pews. The walls, a muted blue, seem to recede into the background, their colour a subtle nod to the emotional palette of the story. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-10-30-02-00-jacob-elordi",
+  "shot": "wide shot",
+  "angle": "three-quarter view",
+  "lens": "35mm",
+  "palette": "blue, gray and brown",
+  "prompt": "A wide shot of a film set, taken from a three-quarter view with a 35mm lens, captures the scene unfolding before the camera. A man in his late 30s, with short dark greying hair and medium-brown skin, sits in the foreground, wearing a black tuxedo. His slightly raised eyebrows and wide, attentive eyes convey a mix of surprise and curiosity as he holds a paper cup in his hands. His lips are just parted, and his jaw is relaxed, giving him a calm yet engaged appearance. He leans forward, elbows on knees, his head tilted slightly up, as if taking in the scene before him. To his left, the setting of the film set opens up, with a soft haze and bokeh in the background, giving the scene a sense of depth. The film and the main subject of the scene, \"the figure,\" are placed in the midground, with the iTunes and Apple props nearby. Natural light streams in from the side, casting a warm glow on the scene. The overall mood is one of surprise, as if something unexpected has just occurred. No text, no logos, no watermark.",
+  "cast": [
+   "cast-02"
+  ]
  }
 ]

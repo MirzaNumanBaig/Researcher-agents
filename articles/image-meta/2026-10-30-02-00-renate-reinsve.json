@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-29T15:32:59.372000+00:00",
+  "article": "2026-10-30-02-00-renate-reinsve",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "A Romanian family's life is investigated in Norway, leading to a trial.",
+    "emotion": "distancing",
+    "setting": "Norwegian village, courthouse",
+    "key_objects": [
+      "investigation",
+      "child protective services",
+      "trial",
+      "nurse's uniform"
+    ],
+    "time_and_light": "daylight",
+    "palette": [
+      "blue",
+      "grey",
+      "white"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "investigation",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "Norwegian village, courthouse",
+    "props": [
+      "investigation",
+      "child protective services",
+      "trial",
+      "nurse's uniform"
+    ],
+    "time_of_day": "daylight",
+    "light": {
+      "source": "daylight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "grey",
+      "white"
+    ],
+    "mood": "distancing",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot of an empty courtroom, taken at eye-level, with a 85mm lens, captures the solemn atmosphere of a Norwegian village courthouse. The wooden pews, polished to a warm sheen, stretch towards the back of the room, their straight lines and gentle slope evoking a sense of calm. In the foreground, a single, worn armchair sits at the front of the room, its empty space a poignant reminder of the weighty decisions made here. Soft grey light, cast through a high window, streams across the floor, casting a gentle glow on the empty pews. The walls, a muted blue, seem to recede into the background, their colour a subtle nod to the emotional palette of the story. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3202413524,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 312.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3202413524,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
