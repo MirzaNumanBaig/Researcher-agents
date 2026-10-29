@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-29 18:00",
+  "celebrity": "Rachel McAdams",
+  "stories": [
+    {
+      "title": "The Rachel McAdams Retrospective",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13RUJ1NGZfYnlWdzgzTnFNam9iXzhQTjJQUUNzOFROX0MzOXhEY01STmU4STRMY0JUZ3lpT1VvX05aWEZsYXpLdHBrcGRYZDhpZUQ2aWtTTFhvaXdNSXNwUTlFNTJ4WjNOby1mY2NHVmM?oc=5",
+      "published": "2026-10-29T02:40:29+00:00",
+      "outlets": [
+        {
+          "source": "Go Fug Yourself",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13RUJ1NGZfYnlWdzgzTnFNam9iXzhQTjJQUUNzOFROX0MzOXhEY01STmU4STRMY0JUZ3lpT1VvX05aWEZsYXpLdHBrcGRYZDhpZUQ2aWtTTFhvaXdNSXNwUTlFNTJ4WjNOby1mY2NHVmM?oc=5",
+          "article_url": "https://www.gofugyourself.com/the-rachel-mcadams-retrospective/",
+          "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg"
+        }
+      ],
+      "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg",
+      "image_source": "https://www.gofugyourself.com/the-rachel-mcadams-retrospective/"
+    }
+  ]
+}

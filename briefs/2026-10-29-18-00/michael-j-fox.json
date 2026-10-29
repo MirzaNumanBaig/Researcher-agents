@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-29 18:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "Michael J. Fox - 2014-02-10 - The Most Trustworthy Celebrities 2014",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GeFFlOE5WbmFuRkhPTnJMTmxZaW1URUhmZ3RhNm8tbk02MHgxT2xaakpXWm5ySmVncVR0UHVWYmZKNVdUOFg4VWFTMnMxLWl6Zzg3cEVSMkx2ZjRIWVp1NHBWaFRtUklOVEF5T2IxNnpZXy1xQS12Q1R3?oc=5",
+      "published": "2026-10-28T18:33:21+00:00",
+      "outlets": [
+        {
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GeFFlOE5WbmFuRkhPTnJMTmxZaW1URUhmZ3RhNm8tbk02MHgxT2xaakpXWm5ySmVncVR0UHVWYmZKNVdUOFg4VWFTMnMxLWl6Zzg3cEVSMkx2ZjRIWVp1NHBWaFRtUklOVEF5T2IxNnpZXy1xQS12Q1R3?oc=5",
+          "article_url": "https://www.forbes.com/pictures/54f4e706da47a54de82447d2/michael-j-fox/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/da1d1d8dc19fcc341d8ea0825a0eb23d/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
+        }
+      ],
+      "image": "https://imageio.forbes.com/specials-images/imageserve/da1d1d8dc19fcc341d8ea0825a0eb23d/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+      "image_source": "https://www.forbes.com/pictures/54f4e706da47a54de82447d2/michael-j-fox/"
+    }
+  ]
+}
