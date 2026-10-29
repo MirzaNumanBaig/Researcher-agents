@@ -17,6 +17,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-07-00-ra
 wp_id: 1322
 wp_link: "https://moduscarry.com/rachel-mcadams-the-notebook-tops-pluto-tv-chart-again/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

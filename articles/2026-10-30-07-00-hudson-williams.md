@@ -17,6 +17,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-07-00-hu
 wp_id: 1312
 wp_link: "https://moduscarry.com/hudson-williams-orange-shirt-day-cardigan-sells-out/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
