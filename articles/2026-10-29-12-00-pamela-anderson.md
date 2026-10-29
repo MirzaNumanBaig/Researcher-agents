@@ -18,6 +18,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-12-00-pa
 wp_id: 1284
 wp_link: "https://moduscarry.com/pamela-andersons-soft-french-fade-nails-and-bare-faced-style/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
