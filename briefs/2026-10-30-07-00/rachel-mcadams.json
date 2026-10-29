@@ -1,0 +1,27 @@
+{
+  "batch": "2026-10-30 07:00",
+  "celebrity": "Rachel McAdams",
+  "stories": [
+    {
+      "title": "Ryan Gosling’s 2004 Movie More Iconic Than Project Hail Mary Is Officially a Streaming Hit",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yZ2VHZ2NBTGREb2lqLVpzVExaQVhOMTYwXzY5MElvOUh3d1M3VDBIaEhMMGlYNHdNZXJDSV9HWkVkRlBQX2xQN0N5WEJHbTN6VGZvU3Jzb2k1VENIamlJWEpsU3dMY00?oc=5",
+      "published": "2026-10-29T13:02:03+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yZ2VHZ2NBTGREb2lqLVpzVExaQVhOMTYwXzY5MElvOUh3d1M3VDBIaEhMMGlYNHdNZXJDSV9HWkVkRlBQX2xQN0N5WEJHbTN6VGZvU3Jzb2k1VENIamlJWEpsU3dMY00?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66085451/?ref_=nmnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "FandomWire",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGVacmtreE5KTkNWdTk5MUN5aTlwNzBYUncydXJhZnEweHZFeXFGUHU4SHRGaTN2THFvaEJORTBPeEtDVnVvalNpYWthQ0VfQjU1OEV3RzVkcVJfa1UxaWh3dHBaX1Q1Um5oaFVDM1Zmb0d6RTZpMlE3bjNlMjFxYjNJUDNCY0pQS0NUbThrdjJqYnRfV2c?oc=5",
+          "article_url": "https://fandomwire.com/ryan-gosling-the-notebook-no-1-pluto-tv-streaming-project-hail-mary/",
+          "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/10/29081926/ryan-gosling-the-notebook-1.jpg"
+        }
+      ],
+      "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/10/29081926/ryan-gosling-the-notebook-1.jpg",
+      "image_source": "https://fandomwire.com/ryan-gosling-the-notebook-no-1-pluto-tv-streaming-project-hail-mary/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-30 07:00",
+  "celebrity": "Delta Goodrem",
+  "stories": [
+    {
+      "title": "Delta Goodrem",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6TDk4QkdpOWgxaWdTLVdPN0Z0clRSbWR4c2p2UmtXeUo5U2VmT0xiWHpCSG90MnFvZE95VGN4M0w0Ylo4MlFkMmZiV1I4ZFl6aktzRE1GY2JMcFcxR2c?oc=5",
+      "published": "2026-10-29T13:27:48+00:00",
+      "outlets": [
+        {
+          "source": "The Mirror",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6TDk4QkdpOWgxaWdTLVdPN0Z0clRSbWR4c2p2UmtXeUo5U2VmT0xiWHpCSG90MnFvZE95VGN4M0w0Ylo4MlFkMmZiV1I4ZFl6aktzRE1GY2JMcFcxR2c?oc=5",
+          "article_url": "https://www.mirror.co.uk/all-about/delta-goodrem/",
+          "image": "https://www.mirror.co.uk/nav-web-static/main-87bac421972ba8a3b4cb8982cfa404878ba82c15/public/assets/mirror/logos/logo-mirror-social-sharing.png"
+        }
+      ],
+      "image": "https://www.mirror.co.uk/nav-web-static/main-87bac421972ba8a3b4cb8982cfa404878ba82c15/public/assets/mirror/logos/logo-mirror-social-sharing.png",
+      "image_source": "https://www.mirror.co.uk/all-about/delta-goodrem/"
+    }
+  ]
+}
