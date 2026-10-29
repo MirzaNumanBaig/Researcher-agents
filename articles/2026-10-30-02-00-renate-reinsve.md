@@ -17,6 +17,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-02-00-re
 wp_id: 1306
 wp_link: "https://moduscarry.com/renate-reinsve-shines-in-cristian-mungius-fjord-critic-says/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

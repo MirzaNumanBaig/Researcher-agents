@@ -18,6 +18,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-02-00-ch
 wp_id: 1298
 wp_link: "https://moduscarry.com/chris-hemsworths-gym-photos-fuel-secret-wars-thor-talk/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
