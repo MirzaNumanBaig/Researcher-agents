@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams Joins CBC's The Assembly for Season 2"
 description: "Heated Rivalry star Hudson Williams is a guest on The Assembly season 2, premiering 1 November on CBC, where autistic interviewers ask the questions."
-status: pending
+status: approved
 wp_status: publish
 batch: "2026-10-31 00:00"
 celebrity: "Hudson Williams"
@@ -10,6 +10,8 @@ tags: ["Hudson Williams", "The Assembly", "Jay Baruchel", "Heated Rivalry", "CBC
 image_prompt: "An empty television studio with a single armchair facing a semicircle of chairs under warm lights, quiet and inviting."
 sources:
   - "https://ca.news.yahoo.com/assembly-returns-season-hudson-mack-180027484.html"
+image_alt: "Illustration of a man and a woman in TV studio, lit by evening, studio lights."
+image: "images/2026-10-31-00-00-hudson-williams.webp"
 ---
 
 **Quick summary**

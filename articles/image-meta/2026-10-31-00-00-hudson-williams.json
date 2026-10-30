@@ -1,0 +1,152 @@
+{
+  "timestamp": "2026-10-30T14:21:19.998056+00:00",
+  "article": "2026-10-31-00-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure for Season 2",
+    "emotion": "authentic",
+    "setting": "TV studio",
+    "key_objects": [
+      "celebrity interview",
+      "autistic interviewers",
+      "an anonymous figure series"
+    ],
+    "time_and_light": "evening, studio lights",
+    "palette": [
+      "neutral",
+      "calm",
+      "honest"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "celebrity interview",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "TV studio",
+    "props": [
+      "celebrity interview",
+      "autistic interviewers",
+      "an anonymous figure series"
+    ],
+    "time_of_day": "evening, studio lights",
+    "light": {
+      "source": "evening, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neutral",
+      "calm",
+      "honest"
+    ],
+    "mood": "authentic",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-02",
+    "cast-09"
+  ],
+  "prompt": "A medium-wide shot of a TV studio, captured from a side-on view with a 50mm lens, frames the scene with the subject matter situated left of centre. The evening studio lights cast a warm glow from the side, illuminating the faces of two individuals seated at a low table across from each other. A celebrity interview prop sits in the foreground, a symbol of the series' purpose. The main subject, a man in his late 30s with short dark greying hair and medium-brown skin, wears a black tuxedo and exudes an air of quiet introspection. His eyebrows are drawn up gently at the centre, his unfocused and distant eyes gazing off-frame toward a window. His lips are just closed, and his jaw is soft. He rests his head slightly back, with his shoulders low and his hands wrapped around a mug. The soft haze and bokeh of the background blur subtly highlights the genuine connection between these two individuals, captured in a candid unposed moment. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3777229448,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man and a woman in TV studio, lit by evening, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 158.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 3777229448,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

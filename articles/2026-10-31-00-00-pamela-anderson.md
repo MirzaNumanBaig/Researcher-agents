@@ -1,7 +1,7 @@
 ---
 title: "Pamela Anderson's Garden Video and Tomato-Red Nails"
 description: "Pamela Anderson's autumn Instagram video from her Vancouver Island garden has fans talking, and so has her glossy tomato-red manicure."
-status: pending
+status: approved
 wp_status: publish
 batch: "2026-10-31 00:00"
 celebrity: "Pamela Anderson"
@@ -14,6 +14,8 @@ sources:
   - "https://economictimes.indiatimes.com/magazines/panache/pamela-andersons-peaceful-garden-inside-baywatch-stars-vancouver-island-home-and-her-love-for-gardening/articleshow/135359599.cms"
   - "https://news.ssbcrack.com/pamela-anderson-embraces-the-ombre-manicure-trend-with-a-chic-french-twist/"
   - "https://news.ssbcrack.com/pamela-anderson-redefines-hollywood-glamour-with-natural-look-and-sustainable-fashion-choices/"
+image_alt: "Illustration of a man in a person on Vancouver Island, lit by autumn sunset."
+image: "images/2026-10-31-00-00-pamela-anderson.webp"
 ---
 
 **Quick summary**

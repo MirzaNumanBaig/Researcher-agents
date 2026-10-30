@@ -1,34 +1,5 @@
 [
  {
-  "article": "2026-10-29-03-00-connor-storrie",
-  "shot": "over-the-shoulder shot",
-  "angle": "tilted angle",
-  "lens": "24mm",
-  "palette": "red, black and silver",
-  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Over-the-shoulder shot, 24mm lens, tilted angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-10-29-08-00-seth-rogen",
-  "shot": "medium-wide shot",
-  "angle": "three-quarter view",
-  "lens": "35mm",
-  "palette": "gold, red and black",
-  "prompt": "A medium-wide shot of an anonymous woman in her early 20s with loose curly dark brown hair and rich brown skin, standing center stage at the film festival. Her eyebrows are level and calm, her bright and steady eyes fixed on the audience with a gaze that is both confident and humbled. Her mouth is set in a restrained smile, the corners of her lips slightly upturned, and her jaw is firmly set, betraying a sense of determination. Her head is level, her chin up, and her posture is upright, with her shoulders back and her chest out, conveying a sense of pride and accomplishment. One hand holds a trophy against her chest, a symbol of her hard work and dedication to the craft. She is surrounded by the vibrant colors of the film festival, with the gold, red, and black palette shining brightly in the spotlight. The Convention Center's grand hall stretches out to her right, a sea of faces and cameras blurring into a soft haze and bokeh in the background. No text, no logos, no watermark.",
-  "cast": [
-   "cast-07"
-  ]
- },
- {
-  "article": "2026-10-29-08-00-jacob-elordi",
-  "shot": "medium shot",
-  "angle": "high angle",
-  "lens": "85mm",
-  "palette": "soft pink, calming blue and warm beige",
-  "prompt": "A medium shot from a high angle, taken with an 85mm lens, of a luxurious, empty living room in a Los Angeles real estate, with a high ceiling and large windows that let in soft, natural light. A plush, beige-colored sofa sits against one wall, with a single, empty armchair placed at a slight angle in front of it, as if waiting for someone to return. The armchair is positioned near a large window with a red carpet that stretches out from beneath it, a hint of luxury and grandeur. Soft pink and calming blue hues from the surrounding decor subtly blend with the warm beige tones of the furniture. The atmosphere is calm and respectful, with a sense of anticipation hanging in the air. No text, no logos, no watermark.",
-  "cast": []
- },
- {
   "article": "2026-10-29-08-00-hudson-williams",
   "shot": "wide establishing shot",
   "angle": "side-on view",
@@ -198,5 +169,39 @@
   "palette": "red, black and white",
   "prompt": "A single empty wooden chair beside a tall window, a row of lit white candles on a small table. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Wide establishing shot, 24mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "cast": []
+ },
+ {
+  "article": "2026-10-31-00-00-pamela-anderson",
+  "shot": "wide shot",
+  "angle": "slightly low angle",
+  "lens": "85mm",
+  "palette": "warm red, golden brown and soft green",
+  "prompt": "A wide shot of the figure on Vancouver Island, taken from a slightly low angle, captures the serene atmosphere of a rainy day. A man in his mid 50s with short grey-flecked hair and a beard, tan skin, and a white shirt with sleeves rolled stands confidently beside the figure, one hand resting on his hip, his head quarter-turned toward the lens with his chin raised. His smooth and softly arched eyebrows, confident and direct eyes, and a composed soft smile convey a sense of warmth. His gaze is steady and direct, toward the camera, as if sharing a moment of peace with the viewer. The main subject, an anonymous figure, sits beside a book on the figure's lap, surrounded by the soft haze and bokeh of the rainy day setting, which opens up to the right, creating a sense of depth. The setting is serene, with a natural skin texture on the man's face, visible pores, and small imperfections, creating a candid and unposed moment, captured on a full-frame camera with a fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "cast": [
+   "cast-06"
+  ]
+ },
+ {
+  "article": "2026-10-31-00-00-hudson-williams",
+  "shot": "medium-wide shot",
+  "angle": "side-on view",
+  "lens": "50mm",
+  "palette": "neutral, calm and honest",
+  "prompt": "A medium-wide shot of a TV studio, captured from a side-on view with a 50mm lens, frames the scene with the subject matter situated left of centre. The evening studio lights cast a warm glow from the side, illuminating the faces of two individuals seated at a low table across from each other. A celebrity interview prop sits in the foreground, a symbol of the series' purpose. The main subject, a man in his late 30s with short dark greying hair and medium-brown skin, wears a black tuxedo and exudes an air of quiet introspection. His eyebrows are drawn up gently at the centre, his unfocused and distant eyes gazing off-frame toward a window. His lips are just closed, and his jaw is soft. He rests his head slightly back, with his shoulders low and his hands wrapped around a mug. The soft haze and bokeh of the background blur subtly highlights the genuine connection between these two individuals, captured in a candid unposed moment. No text, no logos, no watermark.",
+  "cast": [
+   "cast-02",
+   "cast-09"
+  ]
+ },
+ {
+  "article": "2026-10-31-00-00-alisha-boe",
+  "shot": "wide shot",
+  "angle": "slightly high angle",
+  "lens": "35mm",
+  "palette": "pink, the figure and gold",
+  "prompt": "A wide shot, taken from a slightly high angle, captures the vibrant atmosphere of a bustling fashion studio. The woman, a woman in her early 20s with loose curly dark brown hair and rich brown skin, stands confidently, wearing a blush pink satin gown that accentuates her curves. Her smooth and softly arched eyebrows are raised slightly, her confident and direct eyes locked onto the camera as she gazes toward it. A composed soft smile plays on her lips, and her lifted jawline gives her an air of determination. Her quarter-turned head and raised chin convey a sense of poise, while her shoulders back and spine long exude self-assurance. One hand rests on her hip, adding a touch of elegance to her overall demeanor. The subject of the fragrance campaign, a prominent celebrity, stands beside her, but their focus is on the camera, not the other woman. The pink and gold palette of the set and the women's outfits adds to the glamorous atmosphere, as the studio lights from the side cast a flattering glow on the scene. No text, no logos, no watermark.",
+  "cast": [
+   "cast-07"
+  ]
  }
 ]

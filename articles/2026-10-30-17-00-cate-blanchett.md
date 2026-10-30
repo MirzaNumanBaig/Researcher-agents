@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett Shows Displacement Fund Shorts in Tokyo"
 description: "Cate Blanchett presented the first five Displacement Film Fund shorts at the Tokyo Film Festival and launched a Uniqlo literary magazine."
-status: pending
+status: approved
 wp_status: publish
 batch: "2026-10-30 17:00"
 celebrity: "Cate Blanchett"
@@ -11,6 +11,9 @@ image_prompt: "An empty festival cinema auditorium with warm lights on red seats
 sources:
   - "https://deadline.com/2026/10/cate-blanchett-shahrbanoo-sadat-mohammad-rasoulof-tokyo-1237209297/"
   - "https://www.fastretailing.com/eng/group/news/2610301000.html"
+image: "images/2026-10-30-17-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cast and Crew Father Mother Sister Brother at the 2025 Venice Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
 ---
 
 **Quick summary**

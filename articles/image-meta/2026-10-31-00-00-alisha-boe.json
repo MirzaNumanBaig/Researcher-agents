@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-10-30T14:21:44.834262+00:00",
+  "article": "2026-10-31-00-00-alisha-boe",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure the new face of an anonymous figure fragrance campaign.",
+    "emotion": "glamorous",
+    "setting": "fashion studio",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure fragrance",
+      "an anonymous figure",
+      "Britney Spears"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "pink",
+      "the figure",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "fashion studio",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure fragrance",
+      "an anonymous figure",
+      "Britney Spears"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "pink",
+      "the figure",
+      "gold"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-07"
+  ],
+  "prompt": "A wide shot, taken from a slightly high angle, captures the vibrant atmosphere of a bustling fashion studio. The woman, a woman in her early 20s with loose curly dark brown hair and rich brown skin, stands confidently, wearing a blush pink satin gown that accentuates her curves. Her smooth and softly arched eyebrows are raised slightly, her confident and direct eyes locked onto the camera as she gazes toward it. A composed soft smile plays on her lips, and her lifted jawline gives her an air of determination. Her quarter-turned head and raised chin convey a sense of poise, while her shoulders back and spine long exude self-assurance. One hand rests on her hip, adding a touch of elegance to her overall demeanor. The subject of the fragrance campaign, a prominent celebrity, stands beside her, but their focus is on the camera, not the other woman. The pink and gold palette of the set and the women's outfits adds to the glamorous atmosphere, as the studio lights from the side cast a flattering glow on the scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1550096365,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in fashion studio, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 141.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1550096365,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-10-30T14:20:57.635785+00:00",
+  "article": "2026-10-31-00-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure shares a peaceful the figure the figure and her autumn nail look",
+    "emotion": "serene",
+    "setting": "the figure on Vancouver Island",
+    "key_objects": [
+      "the figure",
+      "rainy day",
+      "book",
+      "an anonymous figure"
+    ],
+    "time_and_light": "autumn sunset",
+    "palette": [
+      "warm red",
+      "golden brown",
+      "soft green"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "the figure on Vancouver Island",
+    "props": [
+      "the figure",
+      "rainy day",
+      "book",
+      "an anonymous figure"
+    ],
+    "time_of_day": "autumn sunset",
+    "light": {
+      "source": "autumn sunset",
+      "direction": "from the side"
+    },
+    "palette": [
+      "warm red",
+      "golden brown",
+      "soft green"
+    ],
+    "mood": "serene",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-06"
+  ],
+  "prompt": "A wide shot of the figure on Vancouver Island, taken from a slightly low angle, captures the serene atmosphere of a rainy day. A man in his mid 50s with short grey-flecked hair and a beard, tan skin, and a white shirt with sleeves rolled stands confidently beside the figure, one hand resting on his hip, his head quarter-turned toward the lens with his chin raised. His smooth and softly arched eyebrows, confident and direct eyes, and a composed soft smile convey a sense of warmth. His gaze is steady and direct, toward the camera, as if sharing a moment of peace with the viewer. The main subject, an anonymous figure, sits beside a book on the figure's lap, surrounded by the soft haze and bokeh of the rainy day setting, which opens up to the right, creating a sense of depth. The setting is serene, with a natural skin texture on the man's face, visible pores, and small imperfections, creating a candid and unposed moment, captured on a full-frame camera with a fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3327976598,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in a person on Vancouver Island, lit by autumn sunset.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 131.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3327976598,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
