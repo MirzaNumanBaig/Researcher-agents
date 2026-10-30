@@ -19,6 +19,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-11-00-ca
 wp_id: 1328
 wp_link: "https://moduscarry.com/cate-blanchett-hosts-displacement-film-fund-shorts-in-new-york/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

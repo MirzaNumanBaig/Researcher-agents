@@ -17,6 +17,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-11-00-hu
 wp_id: 1332
 wp_link: "https://moduscarry.com/hudson-williams-plays-two-roles-in-craves-yaga/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
