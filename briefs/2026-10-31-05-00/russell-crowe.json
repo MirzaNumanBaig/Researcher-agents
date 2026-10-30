@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-31 05:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "Russell Crowe",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3NXl3V0RYVEpSY3p4N1FMZE4yaGUxbGE5Q0wwcks1blRyLXJqczJoSUdzb0wtOGJSVXNLM25oQXpvcVdlUURFRlJVQVlRZE9neU1ILUt0TmJCd3dlaGN6b1VkM3VRb3MwUE5IU2NrYy0?oc=5",
+      "published": "2026-10-30T13:47:25+00:00",
+      "outlets": [
+        {
+          "source": "The Mirror",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3NXl3V0RYVEpSY3p4N1FMZE4yaGUxbGE5Q0wwcks1blRyLXJqczJoSUdzb0wtOGJSVXNLM25oQXpvcVdlUURFRlJVQVlRZE9neU1ILUt0TmJCd3dlaGN6b1VkM3VRb3MwUE5IU2NrYy0?oc=5",
+          "article_url": "https://www.mirror.co.uk/all-about/russell-crowe/?pageNumber=12",
+          "image": "https://www.mirror.co.uk/nav-web-static/main-87bac421972ba8a3b4cb8982cfa404878ba82c15/public/assets/mirror/logos/logo-mirror-social-sharing.png"
+        }
+      ],
+      "image": "https://www.mirror.co.uk/nav-web-static/main-87bac421972ba8a3b4cb8982cfa404878ba82c15/public/assets/mirror/logos/logo-mirror-social-sharing.png",
+      "image_source": "https://www.mirror.co.uk/all-about/russell-crowe/?pageNumber=12"
+    }
+  ]
+}

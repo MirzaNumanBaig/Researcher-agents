@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-31 05:00",
+  "celebrity": "Kylie Minogue",
+  "stories": [
+    {
+      "title": "Video: Rita Ora reveals why Kylie Minogue is like a 'sister' to her",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVpIN1VUUl91OFg0M1lIMzZVR1FaSkZ5OURycEd1bDktMTBSY3lrYWtnQ2ljdXBUUHFuNmE0Tk80b2RhYll6NnplZlpZd1ZiYVZEMGRSZlVob3pBRWMzVk5YaHpnbS1KTEdKcVowVmF1eW8wbHRkNEdrcFFFVzIxdi1qMkNkNnVJMDl0Z01qVFU0OExNb0RaQS15SjA1M2FlbHhHYVRPcDF6R3VnM3RhemprNA?oc=5",
+      "published": "2026-10-30T13:33:28+00:00",
+      "outlets": [
+        {
+          "source": "Daily Mail",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVpIN1VUUl91OFg0M1lIMzZVR1FaSkZ5OURycEd1bDktMTBSY3lrYWtnQ2ljdXBUUHFuNmE0Tk80b2RhYll6NnplZlpZd1ZiYVZEMGRSZlVob3pBRWMzVk5YaHpnbS1KTEdKcVowVmF1eW8wbHRkNEdrcFFFVzIxdi1qMkNkNnVJMDl0Z01qVFU0OExNb0RaQS15SjA1M2FlbHhHYVRPcDF6R3VnM3RhemprNA?oc=5",
+          "article_url": "https://www.dailymail.com/video/tvshowbiz/video-3516911/Video-Rita-Ora-reveals-Kylie-Minogue-like-sister-her.html",
+          "image": "https://i.dailymail.co.uk/1s/2025/09/24/16/102418561-0-image-a-14_1758726579487.jpg"
+        }
+      ],
+      "image": "https://i.dailymail.co.uk/1s/2025/09/24/16/102418561-0-image-a-14_1758726579487.jpg",
+      "image_source": "https://www.dailymail.com/video/tvshowbiz/video-3516911/Video-Rita-Ora-reveals-Kylie-Minogue-like-sister-her.html"
+    },
+    {
+      "title": "Kylie Minogue",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qT3JrblVubkJYbjFreTQ2bWJjMTQtZzAydll1ZVM5clA1MmtzUEZ2VU5UQTZZVDNEMDh3ZmJNWVRadjRsakx3Q1djNHFpSkQxeE5KTXlKdVAyVWs5eFltQkFPVUV0NXFLN1gzS296WFk?oc=5",
+      "published": "2026-10-30T10:36:50+00:00",
+      "outlets": [
+        {
+          "source": "The Mirror",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qT3JrblVubkJYbjFreTQ2bWJjMTQtZzAydll1ZVM5clA1MmtzUEZ2VU5UQTZZVDNEMDh3ZmJNWVRadjRsakx3Q1djNHFpSkQxeE5KTXlKdVAyVWs5eFltQkFPVUV0NXFLN1gzS296WFk?oc=5",
+          "article_url": "https://www.mirror.co.uk/all-about/kylie-minogue/?pageNumber=55",
+          "image": "https://www.mirror.co.uk/nav-web-static/main-87bac421972ba8a3b4cb8982cfa404878ba82c15/public/assets/mirror/logos/logo-mirror-social-sharing.png"
+        }
+      ],
+      "image": "https://www.mirror.co.uk/nav-web-static/main-87bac421972ba8a3b4cb8982cfa404878ba82c15/public/assets/mirror/logos/logo-mirror-social-sharing.png",
+      "image_source": "https://www.mirror.co.uk/all-about/kylie-minogue/?pageNumber=55"
+    }
+  ]
+}

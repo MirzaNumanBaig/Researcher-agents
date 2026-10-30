@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-31 05:00",
+  "celebrity": "Pamela Anderson",
+  "stories": [
+    {
+      "title": "‘Naked Gun’ Star Pamela Anderson (59) Floats Down the Academy Museum Gala Carpet in a Breezy Springtime Look",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGR1pWRTFnRGNfYndHXzE3amtOVDJLQzVtSUdDMWVZXy0tUkw1UDZzUnZobGRZRjl2UTVzRVRIRnB2Y1BlZFVubzJrbThaZHFCQWxOR2EtWEttNklQaU96cHYtMk0?oc=5",
+      "published": "2026-10-30T02:15:41+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGR1pWRTFnRGNfYndHXzE3amtOVDJLQzVtSUdDMWVZXy0tUkw1UDZzUnZobGRZRjl2UTVzRVRIRnB2Y1BlZFVubzJrbThaZHFCQWxOR2EtWEttNklQaU96cHYtMk0?oc=5",
+          "article_url": "https://www.imdb.com/fr/news/ni66068155/?ref_=tt_nwr_2",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Pamela Anderson's secret message in intimate garden video: 'There's nothing to worry about'",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbmxObTE3STRYSG5pUDlUX3cwNlBqcFlZbnRmMW9GNGNBVXBmMGdPTXpVUjRkaTEyVUU2WnF2TnFVLTZwVkREOUVMQjBjYWVTa0lXQ2R0Y05vOGx4SXAxSlQtVmhHa1ZMUVgzS2RUM1BKSERZWDFjbUFDdlYzZl81bURGMUxuU3lTRk9pdXBEWG9WZ0c2VUZFLVJB?oc=5",
+      "published": "2026-10-29T22:06:56+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbmxObTE3STRYSG5pUDlUX3cwNlBqcFlZbnRmMW9GNGNBVXBmMGdPTXpVUjRkaTEyVUU2WnF2TnFVLTZwVkREOUVMQjBjYWVTa0lXQ2R0Y05vOGx4SXAxSlQtVmhHa1ZMUVgzS2RUM1BKSERZWDFjbUFDdlYzZl81bURGMUxuU3lTRk9pdXBEWG9WZ0c2VUZFLVJB?oc=5",
+          "article_url": "https://www.yahoo.com/lifestyle/videos/pamela-andersons-secret-message-intimate-220656885.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/cff0920e6e010b61e2ebf984c202c8eb5aef7ff2949d0356d4f16ef6f3b23442/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fec07ed0a5ba02a31ddaa06b2bdd5a277.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/cff0920e6e010b61e2ebf984c202c8eb5aef7ff2949d0356d4f16ef6f3b23442/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fec07ed0a5ba02a31ddaa06b2bdd5a277.jpg",
+      "image_source": "https://www.yahoo.com/lifestyle/videos/pamela-andersons-secret-message-intimate-220656885.html"
+    }
+  ]
+}
