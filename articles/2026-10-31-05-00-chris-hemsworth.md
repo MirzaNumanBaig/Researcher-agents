@@ -18,6 +18,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-05-00-ch
 wp_id: 1360
 wp_link: "https://moduscarry.com/chris-hemsworth-wraps-thailand-stint-on-extraction-3/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

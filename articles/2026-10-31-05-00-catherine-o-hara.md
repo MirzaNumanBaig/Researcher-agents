@@ -18,6 +18,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-05-00-ca
 wp_id: 1358
 wp_link: "https://moduscarry.com/catherine-oharas-last-screen-reunion-lands-on-netflix/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
