@@ -1,0 +1,111 @@
+{
+  "timestamp": "2026-10-30T23:01:52.896789+00:00",
+  "article": "2026-10-31-09-00-seth-rogen",
+  "ai_generated": true,
+  "story_type": "scandal",
+  "analysis": {
+    "story_type": "scandal",
+    "core_event": "the figure an anonymous figure for an anonymous figure",
+    "emotion": "frustration",
+    "setting": "the figure set",
+    "key_objects": [
+      "the figure the figure",
+      "Sony hack",
+      "The Interview",
+      "Angelina Jolie"
+    ],
+    "time_and_light": "daylight",
+    "palette": [
+      "dark grey",
+      "red",
+      "black"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "the figure set",
+    "props": [
+      "the figure the figure",
+      "Sony hack",
+      "The Interview",
+      "Angelina Jolie"
+    ],
+    "time_of_day": "daylight",
+    "light": {
+      "source": "daylight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark grey",
+      "red",
+      "black"
+    ],
+    "mood": "frustration",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A half-open door at the end of a dim hallway, warm light spilling across the floorboards. Softly out of focus in the foreground: a coat on a hook. The background fades into soft haze and gentle bokeh. Overhead shot, 85mm lens, eye-level, shallow depth of field. Lit by a single warm lamp in a dark room. Quiet mood, charcoal and amber palette. Candid editorial news photograph with natural the figure-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "template",
+  "prompt_notes": [
+    "attempt 1 rejected: shows people in a sensitive story",
+    "attempt 2 rejected: shows people in a sensitive story"
+  ],
+  "seed": 1489732241,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a half-open door at the end of a dim hallway, warm light spilling across the floorboards.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 128.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1489732241,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

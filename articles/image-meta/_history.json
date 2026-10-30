@@ -1,28 +1,5 @@
 [
  {
-  "article": "2026-10-30-02-00-jacob-elordi",
-  "shot": "wide shot",
-  "angle": "three-quarter view",
-  "lens": "35mm",
-  "palette": "blue, gray and brown",
-  "prompt": "A wide shot of a film set, taken from a three-quarter view with a 35mm lens, captures the scene unfolding before the camera. A man in his late 30s, with short dark greying hair and medium-brown skin, sits in the foreground, wearing a black tuxedo. His slightly raised eyebrows and wide, attentive eyes convey a mix of surprise and curiosity as he holds a paper cup in his hands. His lips are just parted, and his jaw is relaxed, giving him a calm yet engaged appearance. He leans forward, elbows on knees, his head tilted slightly up, as if taking in the scene before him. To his left, the setting of the film set opens up, with a soft haze and bokeh in the background, giving the scene a sense of depth. The film and the main subject of the scene, \"the figure,\" are placed in the midground, with the iTunes and Apple props nearby. Natural light streams in from the side, casting a warm glow on the scene. The overall mood is one of surprise, as if something unexpected has just occurred. No text, no logos, no watermark.",
-  "cast": [
-   "cast-02"
-  ]
- },
- {
-  "article": "2026-10-30-07-00-seth-rogen",
-  "shot": "wide shot",
-  "angle": "slightly high angle",
-  "lens": "50mm",
-  "palette": "blue, gray and beige",
-  "prompt": "A wide shot, taken from a slightly high angle, captures the film set with its sprawling backdrop of drapery and props, the camera's 50mm lens framing the scene with a sense of stability and clarity. The first woman, a woman in her late 50s with short wavy white hair and pale skin, sits at a low table, her deep red evening dress a vibrant splash of colour amidst the muted tones of the set. Her facial expression is one of gentle introspection, her eyebrows drawn up slightly at the centre, her eyes unfocused and distant, her lips just closed, and her jaw soft. She rests her head slightly back, her shoulders low, and her hands wrapped around a mug. The second woman, a woman in her mid 30s with a high dark-blonde ponytail and sun-warmed tan skin, sits across from her, her ivory jumpsuit a striking contrast to the first woman's dress. The mood is one of reflective contemplation, the people and the setting imbued with a sense of quiet introspection. No text, no logos, no watermark.",
-  "cast": [
-   "cast-09",
-   "cast-11"
-  ]
- },
- {
   "article": "2026-10-30-07-00-ryan-gosling",
   "shot": "medium shot",
   "angle": "side-on view",
@@ -211,5 +188,26 @@
   "palette": "gold, green and black",
   "prompt": "A medium shot of an anonymous figure in their early 60s, dressed in a tailored black blazer and a crisp white shirt, stands proudly with their arms crossed, a triumphant smile spreading across their face as they gaze up at the giant football trophy on display behind them, their eyes squinting slightly with a mix of happiness and nostalgia. Their face is etched with deep wrinkles and laugh lines, and their eyes crinkle at the corners as they raise their chin, their eyebrows arched upwards in celebration. Their posture is relaxed, with their weight shifted onto one leg, and their right hand rests in the pocket of their trousers, while their left hand is clenched into a fist, a subtle gesture of triumph. They wear a gold and green football club scarf draped over their shoulder, and a large football club flag waves proudly behind them, flapping gently in the breeze. The camera is positioned at a tilted angle, a 24mm lens capturing the intimate details of the moment, and the image is bathed in the rich, warm tones of natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "cast": []
+ },
+ {
+  "article": "2026-10-31-09-00-seth-rogen",
+  "shot": "overhead shot",
+  "angle": "eye-level",
+  "lens": "85mm",
+  "palette": "dark grey, red and black",
+  "prompt": "A half-open door at the end of a dim hallway, warm light spilling across the floorboards. Softly out of focus in the foreground: a coat on a hook. The background fades into soft haze and gentle bokeh. Overhead shot, 85mm lens, eye-level, shallow depth of field. Lit by a single warm lamp in a dark room. Quiet mood, charcoal and amber palette. Candid editorial news photograph with natural the figure-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-10-31-09-00-hudson-williams",
+  "shot": "wide shot",
+  "angle": "three-quarter view",
+  "lens": "35mm",
+  "palette": "neutral beige, muted blue and soft gray",
+  "prompt": "A wide shot of a TV studio, taken from a three-quarter view with a 35mm lens, frames the two men seated at an angle to each other across a low table, left of centre, with the setting opening up to the right. A medium shot of a woman in her early 30s, with drawn-up eyebrows at the centre, unfocused and distant eyes, and lips just closed, rests her head slightly back and leans forward, elbows on knees, her posture low and shoulders slumped, her hands wrapped around a mug. She wears a beige sweater and has a soft, relaxed jawline. Her gaze is directed off-frame right, but her facial expression exudes a cautious mood. Behind her, a dark teal suit-clad man sits at an angle, his posture low, his head resting back, and his gaze off-frame toward a window, his facial expression a, with his eyebrows drawn up gently at the centre and his mouth in a subtle, closed-lipped line. The studio lights from the side create a neutral beige, muted blue, and soft gray palette, evoking a cautious mood. No text, no logos, no watermark.",
+  "cast": [
+   "cast-10",
+   "cast-02"
+  ]
  }
 ]

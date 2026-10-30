@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-10-30T23:02:04.343813+00:00",
+  "article": "2026-10-31-09-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure discusses the figure relationships with fans",
+    "emotion": "cautious",
+    "setting": "TV studio",
+    "key_objects": [
+      "an anonymous figure",
+      "The Assembly",
+      "the figure relationships",
+      "fans"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "neutral beige",
+      "muted blue",
+      "soft gray"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "TV studio",
+    "props": [
+      "an anonymous figure",
+      "The Assembly",
+      "the figure relationships",
+      "fans"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neutral beige",
+      "muted blue",
+      "soft gray"
+    ],
+    "mood": "cautious",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-10",
+    "cast-02"
+  ],
+  "prompt": "A wide shot of a TV studio, taken from a three-quarter view with a 35mm lens, frames the two men seated at an angle to each other across a low table, left of centre, with the setting opening up to the right. A medium shot of a woman in her early 30s, with drawn-up eyebrows at the centre, unfocused and distant eyes, and lips just closed, rests her head slightly back and leans forward, elbows on knees, her posture low and shoulders slumped, her hands wrapped around a mug. She wears a beige sweater and has a soft, relaxed jawline. Her gaze is directed off-frame right, but her facial expression exudes a cautious mood. Behind her, a dark teal suit-clad man sits at an angle, his posture low, his head resting back, and his gaze off-frame toward a window, his facial expression a, with his eyebrows drawn up gently at the centre and his mouth in a subtle, closed-lipped line. The studio lights from the side create a neutral beige, muted blue, and soft gray palette, evoking a cautious mood. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 867024980,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of two mans in TV studio, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 106.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 867024980,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

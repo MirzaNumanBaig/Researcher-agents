@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams on Fans, Parasocial Bonds and Shipping"
 description: "Hudson Williams tells CBC's The Assembly he can't relate to parasocial attachment and that fans must separate art from artists."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-31 09:00"
 celebrity: "Hudson Williams"
@@ -10,6 +10,13 @@ tags: ["Hudson Williams", "Heated Rivalry"]
 image_prompt: "A quiet television studio with empty chairs facing each other under soft warm lights, a small crowd of blurred seats in the background."
 sources:
   - "https://www.bustle.com/entertainment/heated-rivalry-hudson-williams-parasocial-fans"
+image_alt: "Illustration of two mans in TV studio, lit by daytime, studio lights."
+image: "images/2026-10-31-09-00-hudson-williams.webp"
+wp_media_id: 1374
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-09-00-hudson-williams-768x432.webp"
+wp_id: 1375
+wp_link: "https://moduscarry.com/hudson-williams-on-fans-parasocial-bonds-and-shipping/"
+wp_synced: publish
 ---
 
 **Quick summary**
