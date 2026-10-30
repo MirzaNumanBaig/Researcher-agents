@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-10-30T14:20:57.635785+00:00",
+  "timestamp": "2026-10-30T15:58:44.696991+00:00",
   "article": "2026-10-31-00-00-pamela-anderson",
   "ai_generated": true,
   "story_type": "fashion",
   "analysis": {
     "story_type": "fashion",
-    "core_event": "an anonymous figure shares a peaceful the figure the figure and her autumn nail look",
-    "emotion": "serene",
-    "setting": "the figure on Vancouver Island",
+    "core_event": "an anonymous figure shares autumn the figure the figure and an anonymous figure",
+    "emotion": "peaceful",
+    "setting": "the figure",
     "key_objects": [
       "the figure",
-      "rainy day",
+      "rain",
       "book",
       "an anonymous figure"
     ],
-    "time_and_light": "autumn sunset",
+    "time_and_light": "sunset",
     "palette": [
-      "warm red",
-      "golden brown",
-      "soft green"
+      "autumnal red",
+      "green",
+      "golden brown"
     ],
     "sensitivity": "safe",
     "source": "llm"
@@ -56,37 +56,37 @@
         "clothing": "a sculptural gown"
       }
     ],
-    "setting": "the figure on Vancouver Island",
+    "setting": "the figure",
     "props": [
       "the figure",
-      "rainy day",
+      "rain",
       "book",
       "an anonymous figure"
     ],
-    "time_of_day": "autumn sunset",
+    "time_of_day": "sunset",
     "light": {
-      "source": "autumn sunset",
+      "source": "sunset",
       "direction": "from the side"
     },
     "palette": [
-      "warm red",
-      "golden brown",
-      "soft green"
+      "autumnal red",
+      "green",
+      "golden brown"
     ],
-    "mood": "serene",
+    "mood": "peaceful",
     "source": "template"
   },
   "stand_ins": [
-    "cast-06"
+    "cast-01"
   ],
-  "prompt": "A wide shot of the figure on Vancouver Island, taken from a slightly low angle, captures the serene atmosphere of a rainy day. A man in his mid 50s with short grey-flecked hair and a beard, tan skin, and a white shirt with sleeves rolled stands confidently beside the figure, one hand resting on his hip, his head quarter-turned toward the lens with his chin raised. His smooth and softly arched eyebrows, confident and direct eyes, and a composed soft smile convey a sense of warmth. His gaze is steady and direct, toward the camera, as if sharing a moment of peace with the viewer. The main subject, an anonymous figure, sits beside a book on the figure's lap, surrounded by the soft haze and bokeh of the rainy day setting, which opens up to the right, creating a sense of depth. The setting is serene, with a natural skin texture on the man's face, visible pores, and small imperfections, creating a candid and unposed moment, captured on a full-frame camera with a fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "prompt": "A medium shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, her smooth and softly arched eyebrows slightly raised, her confident and direct eyes locking onto the camera, her mouth forming a composed soft smile, her jaw lifted slightly as she surveys the serene scene before her. Her quarter-turned head and chin raised posture convey a sense of poise and calmness, her shoulders back and spine long, giving off an aura of self-assurance. One hand rests on her hip, while the other hand is absent, as if lost in thought, adding to the candid and unposed moment. She wears a crisp white linen shirt, which contrasts beautifully with the autumnal red, green and golden brown hues of the setting. The camera captures her from a three-quarter view, using an 85mm lens, which creates a sense of depth and intimacy. The composition places the people left of centre, with the setting opening up to the right, creating a sense of balance and harmony. No text, no logos, no watermark.",
   "prompt_source": "llm",
   "prompt_notes": [],
-  "seed": 3327976598,
+  "seed": 58854083,
   "seed_supported": true,
   "model": "@cf/black-forest-labs/flux-2-klein-4b",
   "preset": "candid_news_photo",
-  "alt": "Illustration of a man in a person on Vancouver Island, lit by autumn sunset.",
+  "alt": "Illustration of a woman in a person, lit by sunset.",
   "caption": "",
   "finish": {
     "raw_size": [
@@ -105,14 +105,14 @@
     ],
     "format": "webp",
     "ext": "webp",
-    "kb": 131.3
+    "kb": 192.2
   },
   "fallback": "",
   "ok": true,
   "error": "",
   "quality": [
     {
-      "seed": 3327976598,
+      "seed": 58854083,
       "raw_size": [
         1024,
         576

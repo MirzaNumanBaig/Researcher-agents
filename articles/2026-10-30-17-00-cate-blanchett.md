@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett Shows Displacement Fund Shorts in Tokyo"
 description: "Cate Blanchett presented the first five Displacement Film Fund shorts at the Tokyo Film Festival and launched a Uniqlo literary magazine."
-status: approved
+status: sent
 wp_status: publish
 batch: "2026-10-30 17:00"
 celebrity: "Cate Blanchett"
@@ -14,6 +14,11 @@ sources:
 image: "images/2026-10-30-17-00-cate-blanchett.webp"
 image_alt: "Cate Blanchett: Cast and Crew Father Mother Sister Brother at the 2025 Venice Film Festival"
 image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1341
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-17-00-cate-blanchett-768x432.webp"
+wp_id: 1342
+wp_link: "https://moduscarry.com/cate-blanchett-shows-displacement-fund-shorts-in-tokyo/"
+wp_synced: publish
 ---
 
 **Quick summary**

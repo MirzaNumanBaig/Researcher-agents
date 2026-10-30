@@ -1,32 +1,5 @@
 [
  {
-  "article": "2026-10-29-08-00-hudson-williams",
-  "shot": "wide establishing shot",
-  "angle": "side-on view",
-  "lens": "35mm",
-  "palette": "blue, green and silver",
-  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Wide establishing shot, 35mm lens, side-on view, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural the figure-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-10-29-08-00-heath-ledger",
-  "shot": "close-up detail shot",
-  "angle": "slightly low angle",
-  "lens": "50mm",
-  "palette": "soft pink, deep blue and golden yellow",
-  "prompt": "A single empty wooden chair beside a tall window, a row of lit white candles on a small table. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Close-up detail shot, 50mm lens, slightly low angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-10-29-12-00-ryan-gosling",
-  "shot": "overhead shot",
-  "angle": "high angle",
-  "lens": "50mm",
-  "palette": "space grey, starlight blue and cosmic purple",
-  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Overhead shot, 50mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural the figure-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
   "article": "2026-10-29-12-00-pamela-anderson",
   "shot": "medium shot",
   "angle": "eye-level",
@@ -202,6 +175,40 @@
   "prompt": "A wide shot, taken from a slightly high angle, captures the vibrant atmosphere of a bustling fashion studio. The woman, a woman in her early 20s with loose curly dark brown hair and rich brown skin, stands confidently, wearing a blush pink satin gown that accentuates her curves. Her smooth and softly arched eyebrows are raised slightly, her confident and direct eyes locked onto the camera as she gazes toward it. A composed soft smile plays on her lips, and her lifted jawline gives her an air of determination. Her quarter-turned head and raised chin convey a sense of poise, while her shoulders back and spine long exude self-assurance. One hand rests on her hip, adding a touch of elegance to her overall demeanor. The subject of the fragrance campaign, a prominent celebrity, stands beside her, but their focus is on the camera, not the other woman. The pink and gold palette of the set and the women's outfits adds to the glamorous atmosphere, as the studio lights from the side cast a flattering glow on the scene. No text, no logos, no watermark.",
   "cast": [
    "cast-07"
+  ]
+ },
+ {
+  "article": "2026-10-31-00-00-pamela-anderson",
+  "shot": "medium shot",
+  "angle": "three-quarter view",
+  "lens": "85mm",
+  "palette": "autumnal red, green and golden brown",
+  "prompt": "A medium shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, her smooth and softly arched eyebrows slightly raised, her confident and direct eyes locking onto the camera, her mouth forming a composed soft smile, her jaw lifted slightly as she surveys the serene scene before her. Her quarter-turned head and chin raised posture convey a sense of poise and calmness, her shoulders back and spine long, giving off an aura of self-assurance. One hand rests on her hip, while the other hand is absent, as if lost in thought, adding to the candid and unposed moment. She wears a crisp white linen shirt, which contrasts beautifully with the autumnal red, green and golden brown hues of the setting. The camera captures her from a three-quarter view, using an 85mm lens, which creates a sense of depth and intimacy. The composition places the people left of centre, with the setting opening up to the right, creating a sense of balance and harmony. No text, no logos, no watermark.",
+  "cast": [
+   "cast-01"
+  ]
+ },
+ {
+  "article": "2026-10-31-00-00-hudson-williams",
+  "shot": "medium shot",
+  "angle": "side-on view",
+  "lens": "35mm",
+  "palette": "neutral, calm and insightful",
+  "prompt": "A medium shot of a woman in her mid 30s with a high dark-blonde ponytail and sun-warmed tan skin, wearing a black leather jacket, seated at an angle to a woman in her late 20s with long straight black hair and warm beige skin, who is wearing an emerald silk dress, across a low table in a TV studio. The first woman's eyebrows are drawn up gently at the centre, her eyes are unfocused and distant, her lips are just closed, and her jaw is soft, with a soft gaze off-frame toward a window, her head resting slightly back and her shoulders low. The second woman's eyebrows are slightly raised, her eyes are wide and attentive, her lips are just parted, and her jaw is relaxed, with a tilted head slightly up and leaning forward, elbows on knees, her hands holding a paper cup. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, and true-to-life colour. No text, no logos, no watermark.",
+  "cast": [
+   "cast-11",
+   "cast-03"
+  ]
+ },
+ {
+  "article": "2026-10-31-00-00-alisha-boe",
+  "shot": "medium-wide shot",
+  "angle": "slightly low angle",
+  "lens": "50mm",
+  "palette": "deep teal and warm amber",
+  "prompt": "A medium-wide shot of a man in his early 40s with close-cropped the figure hair and dark brown skin, positioned slightly left of center, stands confidently with his shoulders back and spine long. His quarter-turned head is raised, with his chin lifted slightly, and he gazes directly toward the camera with confident and direct eyes. His smooth and softly arched eyebrows and composed soft smile convey a sense of calm assurance. His hand rests on his hip, adding a touch of relaxed elegance to his pose. He wears a burnt-orange bomber jacket, which complements the deep teal and warm amber palette of the setting. To his right, a sleek vintage car glows with a soft pink glaze, illuminated by the neon lights of the evening setting. The background is a soft haze and bokeh, with the fragrance bottle of an anonymous figure fragrance subtly placed in the midground. The camera captures the scene with a 50mm lens, shooting from a slightly low angle, and the fine film grain and true-to-life colour of the image add to its natural and unposed quality. No text, no logos, no watermark.",
+  "cast": [
+   "cast-08"
   ]
  }
 ]

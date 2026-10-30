@@ -1,20 +1,21 @@
 {
-  "timestamp": "2026-10-30T14:21:44.834262+00:00",
+  "timestamp": "2026-10-30T15:59:25.250215+00:00",
   "article": "2026-10-31-00-00-alisha-boe",
   "ai_generated": true,
   "story_type": "fashion",
   "analysis": {
     "story_type": "fashion",
-    "core_event": "an anonymous figure the new face of an anonymous figure fragrance campaign.",
+    "core_event": "an anonymous figure becomes the new face of an anonymous figure fragrance campaign.",
     "emotion": "glamorous",
-    "setting": "fashion studio",
+    "setting": "fashion campaign shoot",
     "key_objects": [
       "an anonymous figure",
-      "an anonymous figure fragrance",
       "an anonymous figure",
-      "Britney Spears"
+      "an anonymous figure fragrance",
+      "pink glaze",
+      "vintage cars"
     ],
-    "time_and_light": "daytime, studio lights",
+    "time_and_light": "evening, neon lights",
     "palette": [
       "pink",
       "the figure",
@@ -56,16 +57,16 @@
         "clothing": "a sculptural gown"
       }
     ],
-    "setting": "fashion studio",
+    "setting": "fashion campaign shoot",
     "props": [
       "an anonymous figure",
-      "an anonymous figure fragrance",
       "an anonymous figure",
-      "Britney Spears"
+      "an anonymous figure fragrance",
+      "pink glaze"
     ],
-    "time_of_day": "daytime, studio lights",
+    "time_of_day": "evening, neon lights",
     "light": {
-      "source": "daytime, studio lights",
+      "source": "evening, neon lights",
       "direction": "from the side"
     },
     "palette": [
@@ -77,16 +78,16 @@
     "source": "template"
   },
   "stand_ins": [
-    "cast-07"
+    "cast-08"
   ],
-  "prompt": "A wide shot, taken from a slightly high angle, captures the vibrant atmosphere of a bustling fashion studio. The woman, a woman in her early 20s with loose curly dark brown hair and rich brown skin, stands confidently, wearing a blush pink satin gown that accentuates her curves. Her smooth and softly arched eyebrows are raised slightly, her confident and direct eyes locked onto the camera as she gazes toward it. A composed soft smile plays on her lips, and her lifted jawline gives her an air of determination. Her quarter-turned head and raised chin convey a sense of poise, while her shoulders back and spine long exude self-assurance. One hand rests on her hip, adding a touch of elegance to her overall demeanor. The subject of the fragrance campaign, a prominent celebrity, stands beside her, but their focus is on the camera, not the other woman. The pink and gold palette of the set and the women's outfits adds to the glamorous atmosphere, as the studio lights from the side cast a flattering glow on the scene. No text, no logos, no watermark.",
+  "prompt": "A medium-wide shot of a man in his early 40s with close-cropped the figure hair and dark brown skin, positioned slightly left of center, stands confidently with his shoulders back and spine long. His quarter-turned head is raised, with his chin lifted slightly, and he gazes directly toward the camera with confident and direct eyes. His smooth and softly arched eyebrows and composed soft smile convey a sense of calm assurance. His hand rests on his hip, adding a touch of relaxed elegance to his pose. He wears a burnt-orange bomber jacket, which complements the deep teal and warm amber palette of the setting. To his right, a sleek vintage car glows with a soft pink glaze, illuminated by the neon lights of the evening setting. The background is a soft haze and bokeh, with the fragrance bottle of an anonymous figure fragrance subtly placed in the midground. The camera captures the scene with a 50mm lens, shooting from a slightly low angle, and the fine film grain and true-to-life colour of the image add to its natural and unposed quality. No text, no logos, no watermark.",
   "prompt_source": "llm",
   "prompt_notes": [],
-  "seed": 1550096365,
+  "seed": 3140889164,
   "seed_supported": true,
   "model": "@cf/black-forest-labs/flux-2-klein-4b",
   "preset": "candid_news_photo",
-  "alt": "Illustration of a woman in fashion studio, lit by daytime, studio lights.",
+  "alt": "Illustration of a man in fashion campaign shoot, lit by evening, neon lights.",
   "caption": "",
   "finish": {
     "raw_size": [
@@ -105,14 +106,24 @@
     ],
     "format": "webp",
     "ext": "webp",
-    "kb": 141.5
+    "kb": 320.5
   },
   "fallback": "",
   "ok": true,
   "error": "",
   "quality": [
     {
-      "seed": 1550096365,
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 3140889164,
       "raw_size": [
         1024,
         576

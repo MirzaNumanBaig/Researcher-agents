@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T14:21:19.998056+00:00",
+  "timestamp": "2026-10-30T15:59:01.570422+00:00",
   "article": "2026-10-31-00-00-hudson-williams",
   "ai_generated": true,
   "story_type": "interview",
@@ -9,15 +9,17 @@
     "emotion": "authentic",
     "setting": "TV studio",
     "key_objects": [
-      "celebrity interview",
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure",
       "autistic interviewers",
-      "an anonymous figure series"
+      "celebrity guests"
     ],
     "time_and_light": "evening, studio lights",
     "palette": [
       "neutral",
       "calm",
-      "honest"
+      "insightful"
     ],
     "sensitivity": "safe",
     "source": "llm"
@@ -31,7 +33,7 @@
       "layout": "the people left of centre with the setting opening up to the right",
       "leading_lines": "",
       "depth_layers": {
-        "foreground": "celebrity interview",
+        "foreground": "an anonymous figure",
         "midground": "the main subject",
         "background": "soft haze and bokeh"
       }
@@ -73,9 +75,10 @@
     ],
     "setting": "TV studio",
     "props": [
-      "celebrity interview",
-      "autistic interviewers",
-      "an anonymous figure series"
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "autistic interviewers"
     ],
     "time_of_day": "evening, studio lights",
     "light": {
@@ -85,23 +88,23 @@
     "palette": [
       "neutral",
       "calm",
-      "honest"
+      "insightful"
     ],
     "mood": "authentic",
     "source": "template"
   },
   "stand_ins": [
-    "cast-02",
-    "cast-09"
+    "cast-11",
+    "cast-03"
   ],
-  "prompt": "A medium-wide shot of a TV studio, captured from a side-on view with a 50mm lens, frames the scene with the subject matter situated left of centre. The evening studio lights cast a warm glow from the side, illuminating the faces of two individuals seated at a low table across from each other. A celebrity interview prop sits in the foreground, a symbol of the series' purpose. The main subject, a man in his late 30s with short dark greying hair and medium-brown skin, wears a black tuxedo and exudes an air of quiet introspection. His eyebrows are drawn up gently at the centre, his unfocused and distant eyes gazing off-frame toward a window. His lips are just closed, and his jaw is soft. He rests his head slightly back, with his shoulders low and his hands wrapped around a mug. The soft haze and bokeh of the background blur subtly highlights the genuine connection between these two individuals, captured in a candid unposed moment. No text, no logos, no watermark.",
+  "prompt": "A medium shot of a woman in her mid 30s with a high dark-blonde ponytail and sun-warmed tan skin, wearing a black leather jacket, seated at an angle to a woman in her late 20s with long straight black hair and warm beige skin, who is wearing an emerald silk dress, across a low table in a TV studio. The first woman's eyebrows are drawn up gently at the centre, her eyes are unfocused and distant, her lips are just closed, and her jaw is soft, with a soft gaze off-frame toward a window, her head resting slightly back and her shoulders low. The second woman's eyebrows are slightly raised, her eyes are wide and attentive, her lips are just parted, and her jaw is relaxed, with a tilted head slightly up and leaning forward, elbows on knees, her hands holding a paper cup. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, and true-to-life colour. No text, no logos, no watermark.",
   "prompt_source": "llm",
   "prompt_notes": [],
-  "seed": 3777229448,
+  "seed": 3536016386,
   "seed_supported": true,
   "model": "@cf/black-forest-labs/flux-2-klein-4b",
   "preset": "candid_news_photo",
-  "alt": "Illustration of a man and a woman in TV studio, lit by evening, studio lights.",
+  "alt": "Illustration of two womans in TV studio, lit by evening, studio lights.",
   "caption": "",
   "finish": {
     "raw_size": [
@@ -120,24 +123,14 @@
     ],
     "format": "webp",
     "ext": "webp",
-    "kb": 158.2
+    "kb": 208.5
   },
   "fallback": "",
   "ok": true,
   "error": "",
   "quality": [
     {
-      "seed": null,
-      "passed": false,
-      "reasons": [
-        "the output was flagged by Cloudflare's safety filter"
-      ],
-      "scores": {},
-      "vision_ran": false,
-      "vision_skipped": ""
-    },
-    {
-      "seed": 3777229448,
+      "seed": 3536016386,
       "raw_size": [
         1024,
         576
