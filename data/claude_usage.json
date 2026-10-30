@@ -1471,6 +1471,22 @@
    "turns": 12,
    "seconds": 35,
    "cost_usd": 0.195
+  },
+  {
+   "date": "2026-10-30",
+   "time": "2026-10-30T06:49:40+00:00",
+   "batch": "2026-10-30 17:00",
+   "celebrity": "Cate Blanchett",
+   "article": "2026-10-30-17-00-cate-blanchett.md",
+   "writer": "claude1",
+   "ok": false,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cache_read_tokens": 0,
+   "cache_write_tokens": 0,
+   "turns": 1,
+   "seconds": 0,
+   "cost_usd": 0.0
   }
  ]
 }
