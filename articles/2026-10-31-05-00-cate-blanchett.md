@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett Honoured in Tokyo, Backs Displaced Filmmakers"
 description: "Cate Blanchett received Japan's Praemium Imperiale and presented Displacement Film Fund shorts at Tokyo International Film Festival on 30 October."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-31 05:00"
 celebrity: "Cate Blanchett"
@@ -11,6 +11,14 @@ image_prompt: "An empty Tokyo festival cinema auditorium at dusk, red seats faci
 sources:
   - "https://www.screendaily.com/news/cate-blanchett-talks-dispelling-the-toxic-narrative-around-displaced-people-through-film/5221943.article"
   - "https://www.townandcountrymag.com/leisure/arts-and-culture/a74295665/princess-hanako-cate-blanchett-praemium-imperiale/"
+image: "images/2026-10-31-05-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cast and Crew Father Mother Sister Brother at the 2025 Venice Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1355
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-05-00-cate-blanchett-768x432.webp"
+wp_id: 1356
+wp_link: "https://moduscarry.com/cate-blanchett-honoured-in-tokyo-backs-displaced-filmmakers/"
+wp_synced: publish
 ---
 
 **Quick summary**

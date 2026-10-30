@@ -18,6 +18,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-00-00-ca
 wp_id: 1346
 wp_link: "https://moduscarry.com/cate-blanchetts-fund-films-reach-tokyo-as-oscar-debate-grows/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -1,34 +1,5 @@
 [
  {
-  "article": "2026-10-29-12-00-pamela-anderson",
-  "shot": "medium shot",
-  "angle": "eye-level",
-  "lens": "85mm",
-  "palette": "white, cream and green",
-  "prompt": "A medium shot of a man in his early 30s with medium-length wavy auburn hair and light skin, standing confidently in front of an anonymous figure with a the figure, subtle expression; his eyebrows are smooth and softly arched, his eyes are confident and direct, his mouth is a composed the figure smile, and his jaw is lifted slightly, gazing directly at the camera with a hint of charm. His head is quarter-turned toward the lens, his chin raised, and his posture is strong, with his shoulders back and his spine long, one hand resting on his hip in a casual yet elegant manner. He wears a rust corduroy jacket that complements his warm, earthy tones, with a subtle sheen to the fabric. In the foreground, a delicate white-to-cream manicure catches the eye, surrounded by a few strategically placed lab-grown diamonds and a personalized charm bracelet. The medium shot, taken with an 85mm lens, captures the subject's confident and direct gaze, while also framing the anonymous figure and the surrounding props in a beautiful and elegant manner. No text, no logos, no watermark.",
-  "cast": [
-   "cast-10"
-  ]
- },
- {
-  "article": "2026-10-29-12-00-jacob-elordi",
-  "shot": "over-the-shoulder shot",
-  "angle": "tilted angle",
-  "lens": "85mm",
-  "palette": "navy blue, silver and black",
-  "prompt": "A wide shot of a dimly lit film set, the only sound the soft hum of studio lights, Candid editorial news photograph with natural film-like colour and subtle grain. The camera pans across a row of empty director's chairs, their navy blue upholstery reflecting the silver accents of the studio equipment in the background. In the foreground, a single, worn armchair sits in front of a rain-streaked window, its grey velvet fabric worn smooth by years of use. Soft grey light spills across the floor, illuminating the faint outlines of footprints in the dust. A 85mm lens captures the scene from a tilted angle, emphasizing the sense of unease beneath the surface. The palette of navy blue, silver and black is muted, reflecting the sensitive nature of the story unfolding off-camera. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-10-29-18-00-pamela-anderson",
-  "shot": "close-up detail shot",
-  "angle": "from behind",
-  "lens": "35mm",
-  "palette": "green, pink and yellow",
-  "prompt": "A medium shot of the anonymous figure, her early 30s, stands behind a raised bed, gently pruning a climbing squash. Her face is relaxed, with a slight upward curve to the corners of her mouth, her eyes softening as she surveys her the figure. Her shoulders are slightly rolled forward, her weight shifted onto her left leg as she reaches for a nearby pink rose. The rose clutched in her hand, its delicate petals unfolding from the stem, a few stray leaves tangled in her fingers. The warm daylight casts a gentle glow on the scene, with the midground filled with sunflowers towering above the bed, their bright yellow petals radiating outward. The background is a soft blur of lush greenery, the distant edge of the the figure fading into the horizon. The camera captures the intimate moment from behind, a 35mm lens compressing the space, and the resulting image feels like a candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
   "article": "2026-10-30-02-00-renate-reinsve",
   "shot": "medium-wide shot",
   "angle": "eye-level",
@@ -210,5 +181,35 @@
   "cast": [
    "cast-08"
   ]
+ },
+ {
+  "article": "2026-10-31-05-00-seth-rogen",
+  "shot": "medium-wide shot",
+  "angle": "eye-level",
+  "lens": "50mm",
+  "palette": "teal, silver and black",
+  "prompt": "A medium-wide shot of a film festival backdrop, taken from an eye-level position, with a 50mm lens, captures two individuals seated at an angle to each other across a low table, left of centre in the frame. The man, a man in his mid 50s with short grey-flecked hair and a beard and tan skin, wears a dark green wool jacket and has drawn up his eyebrows gently at the centre, unfocused and distant eyes, and his lips just closed, with a soft jawline. His gaze is off-frame toward a window, with his head resting slightly back and his shoulders low. His hands are wrapped around a mug. The woman, a woman in her early 20s with loose curly dark brown hair and rich brown skin, wears a blush pink satin gown and has slightly raised eyebrows, wide and attentive eyes, and her lips just parted, with a relaxed jawline. Her gaze is up and off-frame right, with her head tilted slightly up and her posture leaning forward, elbows on knees. Her hands hold a paper cup. The mood is amused, with a palette of teal, silver, and black. No text, no logos, no watermark.",
+  "cast": [
+   "cast-06",
+   "cast-07"
+  ]
+ },
+ {
+  "article": "2026-10-31-05-00-martin-short",
+  "shot": "close-up detail shot",
+  "angle": "high angle",
+  "lens": "24mm",
+  "palette": "warm beige, rich wood and deep blue",
+  "prompt": "A single empty wooden chair beside a tall window, a row of lit white candles on a small table. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Close-up detail shot, 24mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-10-31-05-00-catherine-o-hara",
+  "shot": "over-the-shoulder shot",
+  "angle": "tilted angle",
+  "lens": "85mm",
+  "palette": "warm beige, rich brown and soft gray",
+  "prompt": "A medium-wide shot of a dimly lit film set, taken from behind a row of old film reels stacked in the foreground. The warm beige walls of the set are lined with soft gray velvet curtains, which are slightly ajar, allowing a sliver of natural light to spill in from the outside. In the background, a rich brown couch is positioned against the wall, with a single, worn cushion lying on the floor beside it. On the coffee table in front of the couch, a collection of old clips and behind-the-scenes footage are arranged in a neat, deliberate manner. A single, unlit candle stands at the far end of the table, casting a subtle, warm glow over the scene. The 85mm lens captures the warm tones of the film set with a shallow depth of field, blurring the background and emphasizing the textures of the old film reels and the worn couch cushion. The natural light streaming in from the outside adds depth and dimension to the scene, which is bathed in a soft, warm light. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
  }
 ]

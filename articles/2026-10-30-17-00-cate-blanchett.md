@@ -19,6 +19,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-17-00-ca
 wp_id: 1342
 wp_link: "https://moduscarry.com/cate-blanchett-shows-displacement-fund-shorts-in-tokyo/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

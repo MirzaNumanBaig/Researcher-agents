@@ -21,6 +21,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-00-00-pa
 wp_id: 1354
 wp_link: "https://moduscarry.com/pamela-andersons-garden-video-and-tomato-red-nails/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-10-30T19:39:18.139239+00:00",
+  "article": "2026-10-31-05-00-seth-rogen",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure discusses an anonymous figure 2 and a an anonymous figure",
+    "emotion": "amused",
+    "setting": "film festival",
+    "key_objects": [
+      "an anonymous figure",
+      "Madonna",
+      "an anonymous figure",
+      "Sony hack"
+    ],
+    "time_and_light": "daytime, the figure lights",
+    "palette": [
+      "teal",
+      "silver",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film festival",
+    "props": [
+      "an anonymous figure",
+      "Madonna",
+      "an anonymous figure",
+      "Sony hack"
+    ],
+    "time_of_day": "daytime, the figure lights",
+    "light": {
+      "source": "daytime, the figure lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "teal",
+      "silver",
+      "black"
+    ],
+    "mood": "amused",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-06",
+    "cast-07"
+  ],
+  "prompt": "A medium-wide shot of a film festival backdrop, taken from an eye-level position, with a 50mm lens, captures two individuals seated at an angle to each other across a low table, left of centre in the frame. The man, a man in his mid 50s with short grey-flecked hair and a beard and tan skin, wears a dark green wool jacket and has drawn up his eyebrows gently at the centre, unfocused and distant eyes, and his lips just closed, with a soft jawline. His gaze is off-frame toward a window, with his head resting slightly back and his shoulders low. His hands are wrapped around a mug. The woman, a woman in her early 20s with loose curly dark brown hair and rich brown skin, wears a blush pink satin gown and has slightly raised eyebrows, wide and attentive eyes, and her lips just parted, with a relaxed jawline. Her gaze is up and off-frame right, with her head tilted slightly up and her posture leaning forward, elbows on knees. Her hands hold a paper cup. The mood is amused, with a palette of teal, silver, and black. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3600630517,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man and a woman in film festival, lit by daytime, a person lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 125.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 3600630517,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

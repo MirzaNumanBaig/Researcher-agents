@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth wraps Thailand stint on Extraction 3"
 description: "Chris Hemsworth shared family photos from Thailand as he finished several weeks of filming Extraction 3, with his three children along."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-31 05:00"
 celebrity: "Chris Hemsworth"
@@ -10,6 +10,14 @@ tags: ["Chris Hemsworth", "Extraction 3"]
 image_prompt: "A wooden fishing boat on turquoise water beside limestone cliffs at golden sunset, with distant mountains and a bright red sun."
 sources:
   - "https://www.aol.com/articles/shirtless-chris-hemsworth-shows-off-120855000.html"
+image: "images/2026-10-31-05-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1359
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-05-00-chris-hemsworth-768x432.webp"
+wp_id: 1360
+wp_link: "https://moduscarry.com/chris-hemsworth-wraps-thailand-stint-on-extraction-3/"
+wp_synced: publish
 ---
 
 **Quick summary**

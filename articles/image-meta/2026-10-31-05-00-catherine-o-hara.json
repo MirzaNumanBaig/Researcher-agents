@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-30T19:40:11.148317+00:00",
+  "article": "2026-10-31-05-00-catherine-o-hara",
+  "ai_generated": true,
+  "story_type": "tribute",
+  "analysis": {
+    "story_type": "tribute",
+    "core_event": "an anonymous figure's the figure the figure appearance is released on an anonymous figure.",
+    "emotion": "bittersweet",
+    "setting": "film set",
+    "key_objects": [
+      "couch",
+      "old clips",
+      "behind-the-scenes footage",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "warm beige",
+      "rich brown",
+      "soft gray"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "couch",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "couch",
+      "old clips",
+      "behind-the-scenes footage",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "warm beige",
+      "rich brown",
+      "soft gray"
+    ],
+    "mood": "bittersweet",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot of a dimly lit film set, taken from behind a row of old film reels stacked in the foreground. The warm beige walls of the set are lined with soft gray velvet curtains, which are slightly ajar, allowing a sliver of natural light to spill in from the outside. In the background, a rich brown couch is positioned against the wall, with a single, worn cushion lying on the floor beside it. On the coffee table in front of the couch, a collection of old clips and behind-the-scenes footage are arranged in a neat, deliberate manner. A single, unlit candle stands at the far end of the table, casting a subtle, warm glow over the scene. The 85mm lens captures the warm tones of the film set with a shallow depth of field, blurring the background and emphasizing the textures of the old film reels and the worn couch cushion. The natural light streaming in from the outside adds depth and dimension to the scene, which is bathed in a soft, warm light. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1704317087,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 175.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1704317087,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

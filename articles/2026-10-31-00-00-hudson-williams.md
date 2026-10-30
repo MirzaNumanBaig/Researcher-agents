@@ -17,6 +17,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-00-00-hu
 wp_id: 1348
 wp_link: "https://moduscarry.com/hudson-williams-joins-cbcs-the-assembly-for-season-2/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

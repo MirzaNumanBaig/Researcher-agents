@@ -1,7 +1,7 @@
 ---
 title: "Catherine O'Hara's Last Screen Reunion Lands on Netflix"
 description: "Netflix's SCTV documentary features Catherine O'Hara with her old castmates, filmed months before her death in January 2026."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-31 05:00"
 celebrity: "Catherine O'Hara"
@@ -11,6 +11,13 @@ image_prompt: "An empty vintage 1980s television studio set with a worn couch, r
 sources:
   - "https://www.yahoo.com/entertainment/celebrity/articles/catherine-oharas-last-documentary-features-134815334.html"
   - "https://www.whats-on-netflix.com/what-to-watch/sctv-the-greatest-show-youve-never-heard-of-netflix-review/"
+image_alt: "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table."
+image: "images/2026-10-31-05-00-catherine-o-hara.webp"
+wp_media_id: 1357
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-05-00-catherine-o-hara-768x432.webp"
+wp_id: 1358
+wp_link: "https://moduscarry.com/catherine-oharas-last-screen-reunion-lands-on-netflix/"
+wp_synced: publish
 ---
 
 **Quick summary**
