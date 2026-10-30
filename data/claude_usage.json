@@ -1839,6 +1839,22 @@
    "turns": 9,
    "seconds": 42,
    "cost_usd": 0.1751
+  },
+  {
+   "date": "2026-10-30",
+   "time": "2026-10-30T19:08:09+00:00",
+   "batch": "2026-10-31 05:00",
+   "celebrity": "Catherine O'Hara",
+   "article": "2026-10-31-05-00-catherine-o-hara.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4049,
+   "cache_read_tokens": 148763,
+   "cache_write_tokens": 25224,
+   "turns": 9,
+   "seconds": 35,
+   "cost_usd": 0.1565
   }
  ]
 }
