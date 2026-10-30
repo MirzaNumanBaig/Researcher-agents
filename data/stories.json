@@ -1,56 +1,356 @@
 [
   {
-    "title": "Cate Blanchett, Shahrbanoo Sadat & Mohammad Rasoulof Bring Displacement Film Fund To Tokyo With Help From ‘Godzilla’ Filmmaker Takashi Yamazaki",
-    "url": "https://deadline.com/2026/10/cate-blanchett-shahrbanoo-sadat-mohammad-rasoulof-tokyo-1237209297/",
-    "source": "deadline.com",
-    "published": "2026-10-30T06:22:35+00:00",
-    "summary": "The first five short films produced under Cate Blanchett’s Displacement Film Fund screened this afternoon at the Tokyo Film Festival, and the two-time Oscar winner was present alongside DFF fund directors Shahrbanoo Sadat and Mohammad Rasoulof for a post-screening Q&A. The five films that screened a",
+    "title": "Margot Robbie’s Harley Quinn future addressed by DC’s James Gunn",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTFnd1B3SjNwdmN6ZlY5VmFVRkdzSWlETURDUE1RaFJMd1R0UzBuRVAtYjRJbTloUEhVM2VEUnNxY2NPYVYzcV8xV2VaQ2hzR2F3d0cxOGlIUWRMeTJLWHBMdmlKb05JUmVDTlFpcUtUaXlJMUtycHdfMjhMUHQtbTd2bHZvUEpkWGJOUW1ZenBZMThVN28wWmZR?oc=5",
+    "source": "Entertainment Weekly",
+    "published": "2026-10-30T13:15:00+00:00",
+    "summary": "As James Gunn’s fledgling DC Universe continues to grow, he’s revealed that one key character will “almost certainly” return: Harley Quinn. But Margot Robbie, who played the anti-hero in three DCEU movies, may not be back. On “The Suicide Squad: Is It Canon? The Official Podcast,” Gunn was joined by",
     "celebrities": [
-      "Cate Blanchett"
+      "Margot Robbie"
     ],
     "outlets": [
       {
-        "source": "deadline.com",
-        "url": "https://deadline.com/2026/10/cate-blanchett-shahrbanoo-sadat-mohammad-rasoulof-tokyo-1237209297/",
+        "source": "Entertainment Weekly",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTFnd1B3SjNwdmN6ZlY5VmFVRkdzSWlETURDUE1RaFJMd1R0UzBuRVAtYjRJbTloUEhVM2VEUnNxY2NPYVYzcV8xV2VaQ2hzR2F3d0cxOGlIUWRMeTJLWHBMdmlKb05JUmVDTlFpcUtUaXlJMUtycHdfMjhMUHQtbTd2bHZvUEpkWGJOUW1ZenBZMThVN28wWmZR?oc=5",
         "article_url": "",
-        "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276702391.jpg"
+        "image": ""
+      },
+      {
+        "source": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNV29sWENhdGxKWENNTlFkTXJrVW9EZ003VkZteENGeUJpRVlOZl9obkpqNW5ZN210Q3RIS29MbnNqUWdlbjJmU3ZfM3RjZ2sxMGRmNGVLb3c1aEY4S0d5aU5xcDFJQ3FlS2J2MFh1R2MzT1AyU0lpcURleG04QlprRFY4MW9xM1RFWllmdEszWTloT0tvX3UwYlZhWW9aYVE1bUVabXhlVHk3c2tmQ3RYRXVhLTdxOGtJbWd2akcxbGY5TWU4SXh4dGJHOXBlUUhCVFpuY21GeW5vdjZiU29nOEQ2RXFnRm1semFOY0tnNWNsMlJGUWhJSk5MTEJMLTFYM2ZQcm5kOEc0ZWpN?oc=5",
+        "article_url": "https://www.ign.com/articles/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-and-if-margot-robbie-wants-to-play-here-hell-bend-over-backwards-to-explain-that-in-the-world",
+        "image": "https://assets-prd.ignimgs.com/2026/10/30/quinn-1793362322872.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      },
+      {
+        "source": "SciFiNow",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0JGVFpoUjlOS2kxQmlueWg1YUZpQkpiekFUVnBKejBLMVpPVm5weVR4all6UTdzU0FxZVQteGMyelJNUFdlb0FmZ0wxTFJ3RF8xNnVJa3dEZjN2aXRQTFR6TlN4cW82VjZoVHVDZGJ5WENPMW5aMVV3VWJRVGU2V09nSmIya2s0ZzdTQU04eDM3UkNpcmhxc3RnRzNZem8?oc=5",
+        "article_url": "https://www.scifinow.co.uk/news/james-gunn-on-margot-robbies-potential-harley-quinn-return-in-dcu/",
+        "image": "https://www.scifinow.co.uk/wp-content/uploads/2026/10/harleyquinn.png"
+      },
+      {
+        "source": "Female First",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDY5WUdacjcwa3VNeTRKMVpJUEFaaG9uN09EWVJjV2JsaWhLWUloUGpoWk9FWGloeTd1Q0g4VnZZS19oaDI0NEVIcmtFSUUzREw2WnJxMG9LdThUV19uaVlPZ2tsY01uakh2SDZ1Y0VlbHRsU2FnWUtxODVKckg3UTJ5dHdTaU9ZdkZBcDFEN2dBX0NVTHN3MnI3NnlCdzN0TmJUT0dJSEJFZTRidzFrSFgzOVpUQQ?oc=5",
+        "article_url": "https://www.femalefirst.co.uk/movies/movie-news/margot-robbie-may-playing-harley-quinn-says-james-gunn-1452918.html",
+        "image": "https://www.femalefirst.co.uk/image-library/partners/bang/land/500/m/margot-robbies-met-gala-gown-was-a-mammoth-effort-aW1hZ2VzMS.jpg"
+      },
+      {
+        "source": "Punch Drunk Critics",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLTVfLUJnOWdCTlJHcVhaQWV6akIxWGpRVHlkZk44NlVlSFFJTGstckxlLWpIb2VvcDRELTNMN21WWWpYQXlNNjVOTFFSempFU0ZCOGJmVXNFcFdBTUE4bi03ZWpQb1VuYVQtdE1HS0VvM1hlSWVnbFVERUEwT2FSNDU4dC1SbUhHX0dVT0wwMjFWSmRZYkhkYjRsSzVkSVBsNzJwZWljbjhMN1dqbllEcHctYkU0SElYYXdneWF0cy1TbDFEX0c0ZXJiSUktT3NnWGFv0gHTAUFVX3lxTFAtNV8tQmc5Z0JOUkdxWFpBZXpqQjFYalFUeWRmTjg2VWVIUUlMay1yTGUtakhvZW9wNEQtM0w3bVZZalhBeU02NU5MUVJ6akVTRkI4YmZVc0VwV0FNQThuLTdlalBvVW5hVC10TUdLRW8zWGVJZWdsVURFQTBPYVI0NTh0LVJtSEdfR1VPTDAyMVZKZFliSGRiNGxLNWRJUGw3MnBlaWNuOEw3V2puWURwdy1iRTRISVhhd2d5YXRzLVNsMURfRzRlcmJJSS1Pc2dYYW8?oc=5",
+        "article_url": "https://punchdrunkcritics.com/2026/10/james-gunn-is-unsure-margot-robbie-wants-to-return-as-harley-quinn-will-bend-over-backwards-for-it/",
+        "image": "https://punchdrunkcritics.com/wp-content/uploads/2021/07/pdc_harleyquinn2.jpg"
+      },
+      {
+        "source": "Yardbarker",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUTUwMHhuUEprYlZLaEpRektqMmlYdzY0czAwVUFiQUtzeGJTbG02RExmekxOV2pya2pDc185SnRtZEM3LXRYR2VnY1VtRG0yclVRME5QMEJodkRyb3c0bXNEU3I4TkN0TVk3ZmUxOE5NVHZOM2pkV2lhbDBSdEc0Q1BZMkM5UzZnMHVtNW0wa2xETjRRdURRcHFaSzhiUERDOGJMUXZKa05XM05hdkZPdFJtNlNsNnhuRTQxdFVLb1dMTmZjQS1aRU1XTHJEX25QZjR6QWxmcU5VOWh4RUI2SWF4R0hyVWxETW5Qd2hn?oc=5",
+        "article_url": "https://www.yardbarker.com/entertainment/articles/ill_bend_over_backwards_james_gunn_makes_margot_robbie_an_offer_to_return_as_harley_quinn/s1_17785_44491930",
+        "image": "https://www.yardbarker.com/media/5/0/5046f7798ad882e4bdc352f02a2a0ed40b540d45/thumb_16x9/image_1792598984105.jpg"
+      },
+      {
+        "source": "Complex",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmFFYi1HWGtXNUxBeHktNW40RVZYaUFhWldyemtkanN2YldfWkNsRy16bEoyUVBydG9xbWZqUmlYaEduUGEwcXdtOE1Bc3c3R2FLYVlfWFlOR00xdmRCUzBLVzJVUTctUXRSRHBPOXVLRXBhRmNkcjZIZVpmOHRvMG9ESHZMUG5TU3dmb3JzZzhVRmp4?oc=5",
+        "article_url": "https://www.complex.com/pop-culture/a/treyalston/james-gunn-margot-robbie-harley-quinn-dcu",
+        "image": "https://images.complex.com/complex/image/upload/c_crop,h_1083,w_1919,x_0,y_0/g_auto:aoi_768_434_384_217,ar_1.91,c_fill,q_auto,w_1200/sanity-new/rnh7jvzdt8acmvimbprs"
+      },
+      {
+        "source": "IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GV1llU2tZZzd1a0dvSTZsaF9OdVBXLVVjNmxWWWdjS1lSaG5YMUUwV1kxRUtzb3U3WVdtUkd5M05icTlydE1ISW1PV0U0ajNWeGVCRUFER1NrdGkxa0lWdVFJcXR6dw?oc=5",
+        "article_url": "https://www.imdb.com/news/ni66086630/?ref_=nwc_art_perm",
+        "image": ""
+      },
+      {
+        "source": "Variety",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzdWMkpBMk9zMkpjaFc4UGNLX045aGJYbzFtWFRtVk1CU0RaakxzUVNaeHNwemN1U1c2Ul84Y1lnTnBRaXpKREhVT2pia1IyM2pudXVNeVY2M0d3b0FKb0hoLUpFUUgtTkNNcFdGVzZOdXdxamY5bEhDQWYybjNTNHljLWVTZWMwemtwMHNmbjZTZHpXWUdyTmt2MFRBVE1rWldVNnNpMA?oc=5",
+        "article_url": "https://variety.com/2026/film/news/margot-robbie-harley-quinn-james-gunn-bend-over-backwards-1236934404/",
+        "image": ""
+      },
+      {
+        "source": "variety.com",
+        "url": "https://variety.com/2026/film/news/margot-robbie-harley-quinn-james-gunn-bend-over-backwards-1236934404/",
+        "article_url": "",
+        "image": "https://variety.com/wp-content/uploads/2022/12/MCDBIOF_WB023-e1670425121649.jpg"
+      },
+      {
+        "source": "JoBlo",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JODlpVzhjTk9xVWFMRnJOdlZnbWNFRGlHQWJnQlE1OXNjUWNVb2xFRnFmZUVVb0VVNU1aZE9BZE1MTy1fZVJxT1ota2Q1cEs2bHdwQmhPMmdXbEtXQ3NwcEIyUdIBaEFVX3lxTFAtdGJSTEttNERHTW9MMWNKaHpRQjgxSThfaHlwTWN4SndDdDhoVEh3VDNzNFNNb0NDdFIyTmZoU2djdUZTOVhDUEFjdXhHRVR5YjkyMC1BWllmMzB6aXVwOVdMajVwaGFY?oc=5",
+        "article_url": "https://www.joblo.com/harley-quinn-dcu-margot-robbie/",
+        "image": "https://www.joblo.com/wp-content/uploads/2026/10/harley-quinn-dcu-margot-robbie.jpg"
+      },
+      {
+        "source": "Nerdist",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeGxzUGUxTnpwZ3FlVzllbGdna2dMbUxhaGFjcGpXZVdWVFdzSzlBOUVUZ0Z5ejJiWUYtVFV2Rmo5RW1PRVBOdTZoeGJpQXJYZ2xDMDJ6ZTZYOHFiaGtPVHJxajBRYy0yNkxvY2U1V2hPbGVnNk8tbHQ2eHd1VGFtdWlZTU9SZGxPdms0?oc=5",
+        "article_url": "https://nerdist.com/article/james-gunn-talks-margot-robbie-harley-quinn-dcu-status/",
+        "image": "https://cdn.nerdist.com/wp-content/uploads/2026/10/29110315/Margot-Robbie-Harley-Quinn-Suicide-Squad.webp"
+      },
+      {
+        "source": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkJzTUdNTmRiaWtoNDYxN2dZSTA3MEFjYzJpWUlwbGpmUDFMa2FNZmhKVC1BcExDWVVmV3U0b0RBRGRTc3Rrd1JyT0o5bm52eWxlOUt4UEhYSW1jMHBvRTBudzJVWU83R2lFQ3g4YzF4QXpBRkN4b0JsWWFkVTVhRV91Ylg5emNuYVpzbDNQaEtycndTS3hWNG9wQ050Zw?oc=5",
+        "article_url": "https://www.yahoo.com/entertainment/movies/articles/james-gunn-talks-margot-robbie-220000239.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/5746ac997cfc1fde9fbfb9893c9b1e16c996414d1263f3af99d9c14f2c69dfbc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnerdist_761%2F6ded765784148c3de76a70e3f3560fb7.jpg"
+      },
+      {
+        "source": "GeekTyrant",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFJ6VTNMUFpaSzBHdFVXRUdVbzZKa183MENqUWhCZ0VocEFjYV9nVm9zWGMzdkZMdnRJRzU2R3VGOWJhVV9pLWRpU1dZSTJpOW1ja2tqMWFTMmlnQ01JWGY0NWFiSzhMb3N1NnZMMWpiV0hOUzhIckR0VzkxbVpfVXZYMUI1djRvZFYwZ3BPaDVucEJ1MGJudERfV1VLeWZIdU84WENWVmhVQ0R6TEg1ZnlrLWFjWWgzeVVwYUdoYUpYWXY4VlJv?oc=5",
+        "article_url": "https://geektyrant.com/news/james-gunn-says-margot-robbie-may-be-done-playing-harley-quinn-but-he-wants-the-character-in-the-dcu",
+        "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ae393f2899fdb462ecb11ff/1793309433925/James+Gunn+Says+Margot+Robbie+May+Be+Done+Playing+Harley+Quinn%2C+But+He+Wants+the+Character+in+the+DCU.jpg?format=1500w"
+      },
+      {
+        "source": "The Direct",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk1laVVicFBaTlhFbTkxT3FsNUFZN1FaRERuZ2RHOEdkbGlRa0Jwb2t4dTh3dUtJZ2IwVHpUWTcxdklOR3Voc2FsQnBkQjVFSFZSb29vZF9sVjBnSHZSb1ZWdklvZWs5enk2Nkc0LUZSeFV1RktxRTZwanlldURWSE5R?oc=5",
+        "article_url": "https://thedirect.com/article/james-gunn-dcu-plan-harley-quinn-margot-robbie",
+        "image": "https://images.thedirect.com/media/article_full/gunnquinn.jpg"
+      },
+      {
+        "source": "A.V. Club",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LYXpBMFloWS0wYVJ2S045Y1dtSlNqWFU5T0V1d3U3YUY1b0F0aTdDcG5semxWcTF0OEZJcmdIVllmTVJjSjlEUHE5dGNzNVExV1pONm0zU2pwUjFnOVBVM3pNVnZsQjhocUdNVEdQRkpXZTFSSllhRzRGbw?oc=5",
+        "article_url": "https://www.avclub.com/james-gunn-margot-robbie-harley-quinn-dcu-future",
+        "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/the-suicide-squad-margot-robbie-harley-quinn-featured.jpg"
+      },
+      {
+        "source": "Comic Book Resources",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ERlFhMkpuaGJpWVRpbFh4TTVoRWFLVXdRVVplTnZBTFpjSjFLS2xpUFBReF9nZEJOX3NXek9sYmM4Q2JPUUNSWUlEOTYwcnlnb0xRZ2xDRVFDcDFmMGl1em9hZ09TUGhkZkpSMTdnR01RZzdlTGg4?oc=5",
+        "article_url": "https://www.cbr.com/margot-robbie-dcu-future-harley-quinn-addressed/",
+        "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/mcdsusq_ec046.jpg?w=1600&h=900&fit=crop"
+      },
+      {
+        "source": "ComicBookMovie.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXR2S0dwRVpLMEkyYVVvdXFhUUg4clRqc1hTVnNxdEZBQXhVVXNfZXFrWGk0LWdQSEVkanE1TnhaVXlxVVpERnZWdlBoWk1qTVRVMnVRaGtDakxicVBTVXVXOGVlMEdYWHEyTHNYUVMzZjVrRGNsa3d6aWJYdC13Q3ltSm9QVFBCLTFNeVNfaWtsaWpPOUpodmc1UlNJMzgyMzg0TzJBb3BXQXd4YTBPUS1ROE4xcUsteVRLakhPcW4tTFc0SVgxdF9rOFRXc2tPcGcwdlZfZUhfSzVkeTFmbVlZdWNPUzc3dXhWT0poeXZXVll2UWc?oc=5",
+        "article_url": "https://comicbookmovie.com/suicide-squad/the-suicide-squad/update-james-gunn-says-hed-bend-over-backwards-if-margot-robbie-wanted-to-return-as-harley-quinn-a230720",
+        "image": "https://comicbookmovie.com/images/articles/banners/update-james-gunn-says-hed-bend-over-backwards-if-margot-robbie-wanted-to-return-as-harley-quinn-ab230720.jpg"
+      },
+      {
+        "source": "Just Jared",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWxGdnJHV3E3UV9EX0otRUlYQmRvY1BCb3pGSGZkWEdMS1hGWjdfZi1SRV9FSEE3ZVNMWGdpM1UxdTdGSy15dnlSLXV4SjZFaWNtRFNDWjBrNWduQnYzdm1KZjFoYkFVX0ptUFNfcWtEckllQkFoS0ZBelVmYVl5VTVXVVZDejR4Z3NxM1Qxci01TWthMjRwRlEtTGNCeTd3LXQ5SVZGcGszakp2RTRJMGtyUkM2NnV4SEhSaG1GOW8tY0plNVE?oc=5",
+        "article_url": "https://www.justjared.com/2026/10/29/james-gunn-drops-major-batman-casting-update-addresses-margot-robbies-harley-quinn-future/",
+        "image": "https://www.justjared.com/wp-content/uploads/2026/10/batman-actor.jpg"
+      },
+      {
+        "source": "Den of Geek",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOczczeGVJelBDX2hFRm4wTzdWZzhtMTVXQjBRTFc5VGp5TWVMcjVuZEMzSV9UQ2o1Y2c4dWVDUVpJUDAxN1FlWi1TY0NRM0txcV9BSWlDbHJ6akJoYWtZT01HT3N0TmJFLWxvbmUxZEVTN0lsWkRKZEVoWFJZd1NzWktqNF96QjZNN0Q5TTJWLWVRUWln?oc=5",
+        "article_url": "https://www.denofgeek.com/movies/james-gunn-dcu-harley-quinn-role-margot-robbies-if-wants/",
+        "image": "https://www.denofgeek.com/wp-content/uploads/2023/12/Margot-Robbie-as-Harley-Quinn-in-Suicide-Squad.jpeg?fit=1400%2C894"
+      },
+      {
+        "source": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPczM5NFBwNzNEektXektpYS1EaEJTQWUyRm93M0FoemdvMS1ZTFVDazNRNVJOczZHLUJUakg1V3JiaXlEQW1HS3ZTZ1NwRjk1MVRkUkhTZEc5Mk5wbThaQVEtU2dxdE9hdnpQUExENlEybGY2WEpMMmRDZnVUVUx0eTBhdw?oc=5",
+        "article_url": "https://www.aol.com/articles/harley-quinn-james-gunn-addresses-185050000.html",
+        "image": "https://hermes.media.transform.aol.com/7cc74ab7f9adaf187c5418b099167f41f3f7979c/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/29/f3130b6a-2979-31c7-9d8d-19a52156dcd3/47986710-a64d-4145-9023-015a0768de06.jpg"
+      },
+      {
+        "source": "ComicBook.com",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRjh4ZTJoTXJKb2NXTDh5TjdQZ1BZM19oVURMM2JOb0RsVmU1V2Z5NTNFWHJzaWN4VUNQOGl1UDB5SmtHcG9uei1NZ1F3bjZCbDlLY3BhaHRKTFg2aFlBWmZwbXBfZ0FFTzFuaHNzUVB5X1RBN2trVzlYOFJ3Wlp0SDBkU3A3MTBIZG11YU9ma0R2RHEzRjFYSkljTUhzVnJNN1Z6NnNTcmUtby1rU3lxaGVlanZOS2txQmg1eTNKMFpQdWpUZ2FzV0wyQWVRS0RfRE1PMw?oc=5",
+        "article_url": "https://comicbook.com/movies/news/harley-quinns-dcu-future-with-margot-robbie-officially-addressed-by-james-gunn-whether-hell-replace-her/",
+        "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/Is-Margot-Robbie-Harley-Quinn-In-DCU.jpg?w=1200"
+      },
+      {
+        "source": "Comic Basics",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS2c2Sjl4dmpVUlZsVU5kcnI2ckJ0SWZlM0lYVXFzT2R2QVliTnBmR0xYSXZoLWpkZmtjajZUdW1HVmVhWWpKRktKQXFhd1ZhNmQzVm05RElUU0hhV1BKQ0NRU3JyMHBnbWg1LWJiZE1Sc0pkMnkxZTBYRk9qSGlXR0dGMUx3ZzcydTh3WkRQT0ZtMWVrRXBDZWdFbDV1NXhvQzFoakI3dlEyVjlVXy14NGo2SHZMeWpjZFpPYmtlNkt1WFB0WnZUakdRWnhCMkp1ZWVJeVF6UTZNQQ?oc=5",
+        "article_url": "https://www.comicbasics.com/james-gunn-says-harley-quinn-will-almost-certainly-appear-in-the-dcu-but-margot-robbies-return-is-still-uncertain/",
+        "image": "https://www.comicbasics.com/wp-content/uploads/2026/10/Harley-Quinn-margot-robbier.webp"
+      },
+      {
+        "source": "ScreenRant",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE9KSXlZdmJoOXNRUnRrYjB5dTdBVHFiQzRGNm9ibmY3b1R4QzN1Y1E2TXgySlpQUjhoaU1IU2RoVlE3Vlk2bDBjc3NzVXp3aWNzRUxWVDhhRHN2ekVKQTlUaTY5OS02dUdfVTkzNFI1NzJiX2hWLTZMZExfajZzZkhya3pWVmVvcGVQU1RoVTdXcGFP?oc=5",
+        "article_url": "https://screenrant.com/harley-quinn-margot-robbie-dcu-future-update-definitive-james-gunn/",
+        "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/margot-robbie-as-harley-quinn-holding-a-gun.jpg?w=1600&h=900&fit=crop"
+      },
+      {
+        "source": "Deadline",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1lRR3dwZTNGVE9QYVctd0FsckVPZXpzdW14eEcwNjZHZS1xRXNOLUJQZVdTQmxSdWJvSFhVNVp5aHBCeEQwOEwxWUZENWJ0SVRsZGkxVzhROFEwbXNwc2Z2X0RUTEFrNDZfMk91SGxNNEJxci1kcy1qbnVra0RZUnJxWFhsRVZGend3emVJZ1BOUWJQOERN?oc=5",
+        "article_url": "https://deadline.com/2026/10/james-gunn-margot-robbie-returning-dcu-harley-quinn-1237208369/",
+        "image": ""
+      },
+      {
+        "source": "The Playlist",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmM3WXM2VlRBNlc4aFNNbnhnZUh3QVFMU3h6TlNwck9NeHBNRFI2TWdsbF9xa3ZEVE5ieVUwMGRDSkl5REtBRmdXVGEyTTd2MWpoRDdkTzBIRE5tYThFdm9xWkRHamgxMEZzVE5zT25MUVR4YXo2WlV0T1hqNW96ZXZybjNEM2xHaXh6THVVbmlqV19i?oc=5",
+        "article_url": "https://theplaylist.net/james-gunn-margot-robbie-harley-quinn-batman-casting-dcu-20261029/",
+        "image": "https://cdn.theplaylist.net/wp-content/uploads/2026/10/29132456/james-gunn-margot-robbie-harley-quinn.jpg"
       }
     ],
-    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276702391.jpg",
-    "image_source": "https://deadline.com/2026/10/cate-blanchett-shahrbanoo-sadat-mohammad-rasoulof-tokyo-1237209297/",
-    "batch": "2026-10-30 17:00"
+    "image": "https://assets-prd.ignimgs.com/2026/10/30/quinn-1793362322872.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "image_source": "https://www.ign.com/articles/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-and-if-margot-robbie-wants-to-play-here-hell-bend-over-backwards-to-explain-that-in-the-world",
+    "batch": "2026-10-30 07:00"
   },
   {
-    "title": "Cate Blanchett Brings Displacement Film Fund To Tokyo",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTNhaDRfTUhHQ2I5UjFja2QxTWFROVgxS3lXcUNXTFlnNDZfSUJ2aVlYSjFPVjVoQVZQanRzME4wQm9YdW5mSVBxV0ZMZlU2aE5CcUNLSmRsaWFXelJIMVoxSXdnVU5kUzZram5pUXp0N0hmMGtvRnI1V2RSOGFZRnBaZnJuLUlYTklSQTh1djc3OVhIc3pyN0ZyMkw?oc=5",
-    "source": "Deadline",
-    "published": "2026-10-30T06:22:00+00:00",
+    "title": "Pamela Anderson’s peaceful garden: Inside Baywatch star’s Vancouver Island home and her love for gardening",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd1BjTGtBT3JkZEUzUjN1U0VJS0tWMmlrb180cDZiQ2R5M3NrWWtmazdDX3FTTnpwTTdqdmpLMDJoZGxSSjlTeS1xUjhhakF1UklCaGptbXA1U3hHTFdzRC1uVlhaMHhGTmEzRU1LNXJ0cmc5UWotQ3hBVWZnY2V5NVp6X2hGRi15aTdaVW1FVlNqdXBscUNtd0xfM3pQTUwxZmNWZHhRZ1RUU21CMGtvdmFSMU11R1lrdFBkY2Fkcm5GUEN0UjJoRnNtUUJYVldHaGI2RVpXOU1maGpxaU05ZHlFMVpkd1c4TlRtdXZxcTFkaE1sQ3FKeXlINGlaTG5tNzJwN0JB0gGLAkFVX3lxTFBjUHRzd0g4QXhiY2M3cWtJTnJkZmVkcUp6QU9sMHpldHE4T0szUEVTWElEYS1qT0JER1F6UjE4aUFTeHJjaXQyZkhNSi14OFRXLVhtekwxYU9TeVNVT2R6TjZtNEFIQ28xYmtEUnhWRFVCUHpKNlk5WTdtZURhUmxfaEJabnd5ZGxzYzE4OGMyV1FuZkxZOFltS3A3aXRwb2tvWWdiQWVYLW9icDhmcWtqWDd2UTRMRGJ2ZngycndzYzYzQnd4OGF2U0tWajQ0eUpkQmdQMkpub1EtOE5zT1BwY0NiVS1PX0lHVWlhV0Q1MWtiQkVMXy1PSWN6UzFRRDg3ejhrcE9LcjEzcw?oc=5",
+    "source": "The Economic Times",
+    "published": "2026-10-30T13:13:11+00:00",
+    "summary": "",
+    "celebrities": [
+      "Pamela Anderson"
+    ],
+    "outlets": [
+      {
+        "source": "The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd1BjTGtBT3JkZEUzUjN1U0VJS0tWMmlrb180cDZiQ2R5M3NrWWtmazdDX3FTTnpwTTdqdmpLMDJoZGxSSjlTeS1xUjhhakF1UklCaGptbXA1U3hHTFdzRC1uVlhaMHhGTmEzRU1LNXJ0cmc5UWotQ3hBVWZnY2V5NVp6X2hGRi15aTdaVW1FVlNqdXBscUNtd0xfM3pQTUwxZmNWZHhRZ1RUU21CMGtvdmFSMU11R1lrdFBkY2Fkcm5GUEN0UjJoRnNtUUJYVldHaGI2RVpXOU1maGpxaU05ZHlFMVpkd1c4TlRtdXZxcTFkaE1sQ3FKeXlINGlaTG5tNzJwN0JB0gGLAkFVX3lxTFBjUHRzd0g4QXhiY2M3cWtJTnJkZmVkcUp6QU9sMHpldHE4T0szUEVTWElEYS1qT0JER1F6UjE4aUFTeHJjaXQyZkhNSi14OFRXLVhtekwxYU9TeVNVT2R6TjZtNEFIQ28xYmtEUnhWRFVCUHpKNlk5WTdtZURhUmxfaEJabnd5ZGxzYzE4OGMyV1FuZkxZOFltS3A3aXRwb2tvWWdiQWVYLW9icDhmcWtqWDd2UTRMRGJ2ZngycndzYzYzQnd4OGF2U0tWajQ0eUpkQmdQMkpub1EtOE5zT1BwY0NiVS1PX0lHVWlhV0Q1MWtiQkVMXy1PSWN6UzFRRDg3ejhrcE9LcjEzcw?oc=5",
+        "article_url": "https://economictimes.indiatimes.com/magazines/panache/pamela-andersons-peaceful-garden-inside-baywatch-stars-vancouver-island-home-and-her-love-for-gardening/articleshow/135359599.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-135363659,width-1200,height-900,imgsize-2376022,overlay-etpanache/articleshow.jpg"
+      }
+    ],
+    "image": "https://img.etimg.com/thumb/msid-135363659,width-1200,height-900,imgsize-2376022,overlay-etpanache/articleshow.jpg",
+    "image_source": "https://economictimes.indiatimes.com/magazines/panache/pamela-andersons-peaceful-garden-inside-baywatch-stars-vancouver-island-home-and-her-love-for-gardening/articleshow/135359599.cms?from=mdr",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "How ‘Yaga’ put Hudson Williams ‘through hell’ for an exposing scene",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ1liZExyVnJVdmhrZ1FJbUdzMGt4emp0cjdndktFTTdnczF2YmNKdk9zdWNsa0N0LWRucXNkSzFZTXNXTmRIQjlVWGliNXlVWndDVFJYSlBZWjBMV1ZFYkVtY000VlEwZ1pFNFV1Rm9sNDJnQk9FOUlBVUlTOUxwZ0hkWG93dzA?oc=5",
+    "source": "Entertainment Weekly",
+    "published": "2026-10-30T13:00:00+00:00",
+    "summary": "",
+    "celebrities": [
+      "Hudson Williams"
+    ],
+    "outlets": [
+      {
+        "source": "Entertainment Weekly",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ1liZExyVnJVdmhrZ1FJbUdzMGt4emp0cjdndktFTTdnczF2YmNKdk9zdWNsa0N0LWRucXNkSzFZTXNXTmRIQjlVWGliNXlVWndDVFJYSlBZWjBMV1ZFYkVtY000VlEwZ1pFNFV1Rm9sNDJnQk9FOUlBVUlTOUxwZ0hkWG93dzA?oc=5",
+        "article_url": "",
+        "image": ""
+      }
+    ],
+    "image": "",
+    "image_source": "",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Cate Blanchett’s Displacement Film Fund Debuts Five Short Films at Tokyo Film Festival",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVbFpkbFk2SmlBZ0Y1V0x4TE5UWlJ3bklPZmhTZ3N4Smt1djBMcEtCN3lGaExUYmFrVnN1blp5OV9Tc2xxUmhXdnJ5alVTLTdfRDBlbnlYMlVzclY5ZjJ2QzIxVWt4Ujg?oc=5",
+    "source": "IMDb",
+    "published": "2026-10-30T12:32:55+00:00",
     "summary": "",
     "celebrities": [
       "Cate Blanchett"
     ],
     "outlets": [
       {
+        "source": "IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVbFpkbFk2SmlBZ0Y1V0x4TE5UWlJ3bklPZmhTZ3N4Smt1djBMcEtCN3lGaExUYmFrVnN1blp5OV9Tc2xxUmhXdnJ5alVTLTdfRDBlbnlYMlVzclY5ZjJ2QzIxVWt4Ujg?oc=5",
+        "article_url": "https://www.imdb.com/news/ni66087285/?ref_=nmnw_art_perm",
+        "image": ""
+      },
+      {
         "source": "Deadline",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTNhaDRfTUhHQ2I5UjFja2QxTWFROVgxS3lXcUNXTFlnNDZfSUJ2aVlYSjFPVjVoQVZQanRzME4wQm9YdW5mSVBxV0ZMZlU2aE5CcUNLSmRsaWFXelJIMVoxSXdnVU5kUzZram5pUXp0N0hmMGtvRnI1V2RSOGFZRnBaZnJuLUlYTklSQTh1djc3OVhIc3pyN0ZyMkw?oc=5",
         "article_url": "https://deadline.com/2026/10/cate-blanchett-shahrbanoo-sadat-mohammad-rasoulof-tokyo-1237209297/",
+        "image": ""
+      },
+      {
+        "source": "Variety",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFk5aS00YnY2b1FPZFRfajcwYTlVOGhGYWR2LVZ6cTlhQWNsblV0V2VjbFRyNVdwYm5mMjlleEE5LTF3QzBfQkVvNFRtTlZkOGlmdU84cU43aE84TnBsajBfd3ROZnpoQ0FKaWR1UlBuODlZTDlJdGh0c2R5UDlUUGZIR2RpRzhrLWdqTTBPSUVSWDJRQWU3WnVpVQ?oc=5",
+        "article_url": "https://variety.com/2026/film/news/cate-blanchett-displacement-film-fund-new-yorker-1236922000/",
+        "image": ""
+      },
+      {
+        "source": "Cate Blanchett Fan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHM2SGhGejBTc3ZyTENGRE5DX0hPamtPeE51eldmX0o1eTVYS0RIRkN0M3lJSkI0cjUwenR5clhLU0FCRFZ0Y010anBvdU1nZlhuVjAzd1QydTRIS2Z5RUZnS0dxalR2RkdPTjkxOW12YmZpYkdfM0x1R1dVeVdWdVVNUnZDODBmeEJsSURwTnNtTWpVMlZrQXZmal8ybzZrOEtmRzQ4dHFjMVhveTZaOXUzLWlWZ3M3?oc=5",
+        "article_url": "https://recaptcha.cloud/?template=cpg&server=198.251.84.200&ip=128.85.45.87&http=&host=www.cate-blanchett.com&real_ip=&proto=&url=/2026/10/15/cate-blanchett-with-displacement-film-fund-at-the-bfi-london-film-festival/",
         "image": ""
       }
     ],
     "image": "",
     "image_source": "",
-    "batch": "2026-10-30 17:00"
+    "batch": "Earlier"
   },
   {
-    "title": "Celebrities React to Patrick Stewart’s Death: Ian McKellen, Hugh Jackman and More Pay Tribute",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2ZLOWtPM1FIZlplVkM5WlR1d1FLc21kV2ljOXJhb09zdmZWc2ZGc09wREUtN2RkcXJjQkRLaFV5M0hTM3FiMDhwRVhSaW1jMHNwdmNLazJTYXpQZHdnakVsT1JrUFFoblF6eE9FZkpvOWhRRnM1c2g5emN6TVpNR3NiWnRrYmxYWU5pY2o5U2cyWWNWTWhEcHQ4SXRBdFZxQVh5T1E5cw?oc=5",
-    "source": "Us Weekly",
-    "published": "2026-10-30T06:10:44+00:00",
+    "title": "Pamela Anderson's 'squoval tomato' nails are the most elegant winter manicure: how to recreate",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDNQTGdIQUpwYkhfbDRoSXRzS2RtUEZaelBEQ1FabmdqOC02TFBSLTBnUEZHRG1CZWhSZFBxa0l1U0s0bVd0LTRUYmo5MWxmYkNfRE5VRmRLQTViSDkyQmZXbUE4c0xKb3cwV25MQjBiNmpabEFESWVCQm1DRlVTMm95ejdZTEtPdFpmMGVXNUU1WlB4WlNkdWRlNTA0QzY1Smx1aTQxTWs1eHFsS0tFVHA5aw?oc=5",
+    "source": "Cosmopolitan",
+    "published": "2026-10-30T11:57:13+00:00",
+    "summary": "",
+    "celebrities": [
+      "Pamela Anderson"
+    ],
+    "outlets": [
+      {
+        "source": "Cosmopolitan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDNQTGdIQUpwYkhfbDRoSXRzS2RtUEZaelBEQ1FabmdqOC02TFBSLTBnUEZHRG1CZWhSZFBxa0l1U0s0bVd0LTRUYmo5MWxmYkNfRE5VRmRLQTViSDkyQmZXbUE4c0xKb3cwV25MQjBiNmpabEFESWVCQm1DRlVTMm95ejdZTEtPdFpmMGVXNUU1WlB4WlNkdWRlNTA0QzY1Smx1aTQxTWs1eHFsS0tFVHA5aw?oc=5",
+        "article_url": "https://www.cosmopolitan.com/uk/beauty-hair/celebrity-hair-makeup/a74293628/pamela-anderson-squoval-tomato-nails/",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/5657d020-34a8-4418-b169-47187170d798.jpg?crop=1.00xw:0.740xh;0,0.0709xh&resize=1200:*"
+      }
+    ],
+    "image": "https://hips.hearstapps.com/hmg-prod/images/5657d020-34a8-4418-b169-47187170d798.jpg?crop=1.00xw:0.740xh;0,0.0709xh&resize=1200:*",
+    "image_source": "https://www.cosmopolitan.com/uk/beauty-hair/celebrity-hair-makeup/a74293628/pamela-anderson-squoval-tomato-nails/",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Margot Robbie's (Very) R-Rated 179-Minute Modern Classic Officially Lands on Free Streaming",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tcWJmaTRQdjk4OE5ZME9fVUg2LWpIVE4zRHdXRDZZV0sxQkduTTB2dmFUWmNPTlNLQ2s5Q0xWNG15WGxFUUZoMmcxNVBveDBzSm00bHNDMTdpbFRCeWZSeXVBWGNvTk9JUmZiNk9wX3hnWWUxWEhJNmkzS0hGZw?oc=5",
+    "source": "MovieWeb",
+    "published": "2026-10-30T11:31:17+00:00",
+    "summary": "",
+    "celebrities": [
+      "Margot Robbie"
+    ],
+    "outlets": [
+      {
+        "source": "MovieWeb",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tcWJmaTRQdjk4OE5ZME9fVUg2LWpIVE4zRHdXRDZZV0sxQkduTTB2dmFUWmNPTlNLQ2s5Q0xWNG15WGxFUUZoMmcxNVBveDBzSm00bHNDMTdpbFRCeWZSeXVBWGNvTk9JUmZiNk9wX3hnWWUxWEhJNmkzS0hGZw?oc=5",
+        "article_url": "https://movieweb.com/wolf-of-wall-street-stream-free-pluto-november-2026/",
+        "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/margot-robbie-wolf-of-wall-street-stream-free-pluto-tv-november-2026-2.jpg?w=1600&h=900&fit=crop"
+      }
+    ],
+    "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/margot-robbie-wolf-of-wall-street-stream-free-pluto-tv-november-2026-2.jpg?w=1600&h=900&fit=crop",
+    "image_source": "https://movieweb.com/wolf-of-wall-street-stream-free-pluto-november-2026/",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Cure HHT Wins Inaugural Prix Galien Patient First Award in Honor of Michael J. Fox",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXhrZ3lDWVZCOUNmWXdYWThUcEpCMFU0N0NiQWZQdDRHSWhyNTRGMTMtb182UlpsWDNudXhkeDd5U1JneVdiRVNldnNMZmNFWkQ4WHZTZW5LTi0tNEk1VzNqZHBQRmtsV01yLUJtejZPdnpvZlpnV21TZkMxUzZWaEw1d25oamI3a29fWlptVW8yd1ZZeUJsYTFjR1BSMnViSGR6by0xb1FrMTNiRVhlTER1UE9DdFlIRmR6Y0xPVWdqZF9BMGw0?oc=5",
+    "source": "EIN Presswire",
+    "published": "2026-10-30T11:30:00+00:00",
+    "summary": "",
+    "celebrities": [
+      "Michael J. Fox"
+    ],
+    "outlets": [
+      {
+        "source": "EIN Presswire",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXhrZ3lDWVZCOUNmWXdYWThUcEpCMFU0N0NiQWZQdDRHSWhyNTRGMTMtb182UlpsWDNudXhkeDd5U1JneVdiRVNldnNMZmNFWkQ4WHZTZW5LTi0tNEk1VzNqZHBQRmtsV01yLUJtejZPdnpvZlpnV21TZkMxUzZWaEw1d25oamI3a29fWlptVW8yd1ZZeUJsYTFjR1BSMnViSGR6by0xb1FrMTNiRVhlTER1UE9DdFlIRmR6Y0xPVWdqZF9BMGw0?oc=5",
+        "article_url": "https://www.einpresswire.com/article/953231926/cure-hht-wins-inaugural-prix-galien-patient-first-award-in-honor-of-michael-j-fox",
+        "image": "https://img.einnews.com/facebook/1237895/galien-award-ceremony.jpeg"
+      }
+    ],
+    "image": "https://img.einnews.com/facebook/1237895/galien-award-ceremony.jpeg",
+    "image_source": "https://www.einpresswire.com/article/953231926/cure-hht-wins-inaugural-prix-galien-patient-first-award-in-honor-of-michael-j-fox",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "The Kid LAROI and Nate Sib Bring Club-Ready Energy to “Face Card (Remix)”",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFZqUWpZWF9nZnFyWENhVmJiRzc1eGFUc0wwTk03bHRnU2VCaGlhVG94NXdBbmx1S1d0QlBJX1FFVjZPV2wxa3RTazFOOTFGN1Z1LTdLbU0yOUFuelBUbTFjLWpYS1hrMVBkQmxsY0h2NUducldsSWNCME1SM19VX1htbzNRRWlOMndsUXFGc1VNOEY4bXg3aThnLXJrdDFRQXUwWnVUOU5IQnRxXzdB?oc=5",
+    "source": "Ratings Game Music",
+    "published": "2026-10-30T11:20:52+00:00",
+    "summary": "",
+    "celebrities": [
+      "The Kid LAROI"
+    ],
+    "outlets": [
+      {
+        "source": "Ratings Game Music",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFZqUWpZWF9nZnFyWENhVmJiRzc1eGFUc0wwTk03bHRnU2VCaGlhVG94NXdBbmx1S1d0QlBJX1FFVjZPV2wxa3RTazFOOTFGN1Z1LTdLbU0yOUFuelBUbTFjLWpYS1hrMVBkQmxsY0h2NUducldsSWNCME1SM19VX1htbzNRRWlOMndsUXFGc1VNOEY4bXg3aThnLXJrdDFRQXUwWnVUOU5IQnRxXzdB?oc=5",
+        "article_url": "https://ratingsgamemusic.com/2026/10/30/the-kid-laroi-and-nate-sib-bring-club-ready-energy-to-face-card-remix/",
+        "image": "https://ratingsgamemusic.com/wp-content/uploads/2026/10/img_7463.jpg"
+      }
+    ],
+    "image": "https://ratingsgamemusic.com/wp-content/uploads/2026/10/img_7463.jpg",
+    "image_source": "https://ratingsgamemusic.com/2026/10/30/the-kid-laroi-and-nate-sib-bring-club-ready-energy-to-face-card-remix/",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Ian McKellen, Hugh Jackman, William Shatner and more pay tribute to Patrick Stewart: \"A man to admire and love\"",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV2dsSy0yeUozRlQtcUNTM2F4TDVsQXRJWHpJQnV6RE1tNlA4cGRfbTFOQTEyUXBxNnlLZGtNZTctU2FRcmMxZ0JsY05PbEFaNE5VUVgyb2ViaDJYc2cxOHdGUEtOQ2k2eC04TXUyRnF6endDQjVCSHVneWR6aWlRbTd6NDVZLTVJQ1hJS1dfSm9USUlZZngxUnlOekdWZS14MHFOMWl6NDNMODhlT2FiRTVfOTBieEJTWV9mTHJyX1hqZkM5N1A2dnZ4NHdVR3BQTnZqRG03dndyWlBf?oc=5",
+    "source": "NME",
+    "published": "2026-10-30T11:02:08+00:00",
     "summary": "\"I learned so much from him. I will miss you, Patrick Stewart,\" Jackman penned in his emotional tribute.",
     "celebrities": [
       "Hugh Jackman"
     ],
     "outlets": [
+      {
+        "source": "NME",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV2dsSy0yeUozRlQtcUNTM2F4TDVsQXRJWHpJQnV6RE1tNlA4cGRfbTFOQTEyUXBxNnlLZGtNZTctU2FRcmMxZ0JsY05PbEFaNE5VUVgyb2ViaDJYc2cxOHdGUEtOQ2k2eC04TXUyRnF6endDQjVCSHVneWR6aWlRbTd6NDVZLTVJQ1hJS1dfSm9USUlZZngxUnlOekdWZS14MHFOMWl6NDNMODhlT2FiRTVfOTBieEJTWV9mTHJyX1hqZkM5N1A2dnZ4NHdVR3BQTnZqRG03dndyWlBf?oc=5",
+        "article_url": "https://www.nme.com/news/film/ian-mckellen-hugh-jackman-william-shatner-and-more-pay-tribute-to-patrick-stewart-a-man-to-admire-and-love-3974606",
+        "image": "https://www.nme.com/wp-content/uploads/2026/10/Patrick-Stewart-pictured-in-Los-Angeles-in-1990.jpg"
+      },
       {
         "source": "Us Weekly",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2ZLOWtPM1FIZlplVkM5WlR1d1FLc21kV2ljOXJhb09zdmZWc2ZGc09wREUtN2RkcXJjQkRLaFV5M0hTM3FiMDhwRVhSaW1jMHNwdmNLazJTYXpQZHdnakVsT1JrUFFoblF6eE9FZkpvOWhRRnM1c2g5emN6TVpNR3NiWnRrYmxYWU5pY2o5U2cyWWNWTWhEcHQ4SXRBdFZxQVh5T1E5cw?oc=5",
@@ -68,6 +368,12 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUWJsQVZhYUlhQVZDLUp1Zm4wRGFBb2VCcTFOSHNCYjgyUVJueFRreWp1VzdHb2QxaXBlY1JKd1RSZTNyTzJmY01ZaEQ1c1hPS0JvdjNuc1pFQnBUZE5lMzV4OHEwWllyNkFYVGZCelFNMEJJeU0tVlRWdF94NlIxR0RyaHF3eERpWl9FNDR2bw?oc=5",
         "article_url": "https://www.avclub.com/patrick-stewart-tributes-ian-mckellen-hugh-jackman-levar-burton",
         "image": "https://www.avclub.com/wp-content/uploads/2026/10/30/stewart-mckellen-feature.jpg"
+      },
+      {
+        "source": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzgxT2xJSk5iTmY4OUY1V3V1bGp0Vl9WQm9MbDZjOUZ4TFJlNW5rYWdwaFhzSFRxbVdKZk04YVlBS3JZQ0xhS19LcXlheUhGSHF3NkpWajlWSjhEODdzUFJacHFJSEc3bHAzaUY2djBCZHhyeHZMX1NZYjhaME50bUlMNk9ZdVg0SEZxbUYzQ2JSdUhwM3JlS0p1dXlWYUJrTFE?oc=5",
+        "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/ian-mckellen-hugh-jackman-more-021204047.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/fc8795fbf5d2188dcb93726007f6df730a8324b6aec5f2550da861718ffe44e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fav_club_632%2Fedc2b7154d682cf66044e16c7fcf9577.jpg"
       },
       {
         "source": "Nine.com.au",
@@ -124,12 +430,6 @@
         "image": "https://cdn.mos.cms.futurecdn.net/w2nUZ4Ka9VrknPX3ccUCsC-2200-80.jpg"
       },
       {
-        "source": "Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3gxOTJoajVaWjJNQkgxZDVJdERwTUxGWmNHdHlJV3g3ZjM5cllUNU5uaDRmcGRwem9mNmtMYTRDYXB2R2JiME1sSkNYclVXUG43TGtSdkRTVTJSeFVuaVgyVzlVVTlLMHJVSHZfWlY5Q0Y5Z3ZieEN6MHlNVW84VjkyOGl2MXJjVVM2RlQzcV9hV3VVUkx4aFZTZjhCV2MySThnV3hR?oc=5",
-        "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/hugh-jackman-william-shatner-more-214240528.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/a057ff83d4a2e2692147d599210059904d0fd9dfb6cdcee50de5b2a66a2966b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F1c905b0afca206e8e06e73fee9cf80fa.jpg"
-      },
-      {
         "source": "Detroit Free Press",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXRsRDFQZUM3UHpGeE95V2g5Y0JFdmxEejF5ZzNQVllYbUFfTXdiUWxTdzNmN1c5NHpUMGJ0RjdmSHVQV0pZWXBsQmtIX3NNeUZFcWMtaHRqcU91N0tEeGk3cXd4aFZoeXFRX0NYZ0s0NXBEV3F6OGstc2xzaDZNOWJrTldBSlYzNmtmQ25FNC0zYnhza09uc2x0b1VzaktqOTktT1RQTTR6VDdwM1kwclJGb3BHNGRCQUZ5dmJHSnc?oc=5",
         "article_url": "",
@@ -166,6 +466,24 @@
         "image": "https://www.goldderby.com/wp-content/uploads/2023/06/Patrick-Stewart.jpg?w=620"
       },
       {
+        "source": "The Spec",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYjN0S09DMmhFclRGQXVwUHZUdlhVQW1XdG1DbGZEME12UmhmVExMYVZXQThtYUMyVDZuckFINnAzVDQ3ZnRXLTNaQl9rQ3dlYm1TbVFSc3d0aURPN1pfTFVWX3BVVjVCMzJKN1FaOWlEdUlYRDBRUURIbjU1S3RPaDNxVTBkbURkZW5IX1k3cEJBdkstMm1EUnJiekxBM3l4bUM2b3duaTc1ZVNKQlJ2MlJqb2VEWnFrZGlTelcyd05EOWRsWmRDQ0hOLWU2dHdnSFNISm44amxlSEhGTkpsSGtLSktIdzEydVZNRU91VFVlU0tTU2NtOXFaaV9zTDgtYzlIYlhzaEtsTTQ?oc=5",
+        "article_url": "https://www.thespec.com/entertainment/hugh-jackman-william-shatner-and-george-takei-among-those-paying-tribute-to-patrick-stewart/article_72ec1845-9906-52b1-a6d1-3a414894be90.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/c/e3/ce3abd2a-e9fb-5428-9684-060b6525c901/6ae3b77ee10f9.image.jpg?crop=1625%2C853%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+      },
+      {
+        "source": "ClickOnDetroit | WDIV Local 4",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYW95QTdwUXhOVHZMS3ZIRUFORE9Kbnp2Ylp4UlFSQ0xoS29reXBMaHBoWjc2eTh6S1l5MWdmLUc5Zl9VMGFWb2gtdWl6ZlVPNjhKanhWRDhhWHZrQWdfZUZpRUVuc0h1cE41Qk1kZXk3enlVenN3dDcyUjEzV2tPNGFQUVdwZ1B6U2FPRjRDbE05WWZwUjdINDM3UzZsLVMtR2JnOWUzY19ObzFYN1gzWXBfQUVrV090aVlpMVZWcjhUN1NYaE9DR1ZtTzBzUlhBZ0V5OGJtUzlxLTBjcGJKUDl3?oc=5",
+        "article_url": "https://www.clickondetroit.com/entertainment/2026/10/29/hugh-jackman-william-shatner-and-george-takei-among-those-paying-tribute-to-patrick-stewart/",
+        "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/4JN2VDLPWNBDJD2F47DBCEGLEA.jpg?api_key=clickondetroit_06f87fefb2123598"
+      },
+      {
+        "source": "The Independent",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFIxc25TbjlHRWhGZEo1WWJPU3d2NEkxbUdEMEZ5UVNRQmxkQ05BRW1nT29UbWt5aGlLT1hINnlTNU9WRnJkcnpwZm1fYVRXMV9YZ1BUeTk3M0NaWTJjWDdHRGR2N081Z1ZLbjBReGxHWDBuNzhwdnFURjIzZGVteHQ0c04tUUdPeWZRaEc4WTh6UU8yNkpRYUpSTzRHT0VTRW5QVGlCZnBwbUhWekFGcVM3amFwSHRENUhpbEFR?oc=5",
+        "article_url": "https://www.independent.co.uk/news/patrick-stewart-hugh-jackman-william-shatner-marvel-studios-george-takei-b3076033.html",
+        "image": "https://static.independent.co.uk/2026/10/29/20/Patrick_Stewart_718_7.jpg?width=1200&height=800&crop=1200:800"
+      },
+      {
         "source": "TMZ",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IeDRmQlRYWFFNa193TmlaSjI2UnJoWFVWdUEyMlFhYXZmMEpRTkxEbHUtaGdGN2xSRVJucGZpQ241cl9UaWJfZnFyaGgzbURiV0cwQ3FscmpjY21SZEFNQXlaazB1RVdpUzJEZXdEVTludng4VGdJN3QtVQ?oc=5",
         "article_url": "https://www.tmz.com/2026/10/29/hugh-jackman-tribute-to-patrick-stewart/",
@@ -178,41 +496,254 @@
         "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fhugh-jackman-marvel-stars-pay-146892386.jpg?w%3D974"
       }
     ],
-    "image": "https://www.usmagazine.com/wp-content/uploads/2026/10/Celebrities-Mourn-the-Death-of-Patrick-Stewart-GettyImages-647220254.jpg?crop=20px%2C61px%2C1238px%2C648px&resize=1200%2C630&quality=40&strip=all",
-    "image_source": "https://www.usmagazine.com/celebrity-news/news/stars-mourn-patrick-stewarts-death-hugh-jackman-and-more/",
+    "image": "https://www.nme.com/wp-content/uploads/2026/10/Patrick-Stewart-pictured-in-Los-Angeles-in-1990.jpg",
+    "image_source": "https://www.nme.com/news/film/ian-mckellen-hugh-jackman-william-shatner-and-more-pay-tribute-to-patrick-stewart-a-man-to-admire-and-love-3974606",
     "batch": "2026-10-30 11:00"
   },
   {
-    "title": "Hugh Jackman Inspired Liev Schreiber to Start Lifting in His 40s – Steal His 4-Day Plan for Total-Body Muscle",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUTJ6NnVNanUxLV9ldjBnZzNUZjdkbmcwTlFnQi1GaTh3aVFITllHdlo4Rms1UHZPc2FaaGlTT3MzY0U2TGx1UDM3LXBhaEhIVko1N0hOYUpFTlk1alhjRTRNV2tIZ1NlZXVhUElXRUZXUGhHSkFVbXFfV2E4b2p6WmFPdmU4RWROUENYR1d6UQ?oc=5",
-    "source": "Men's Health",
-    "published": "2026-10-30T06:05:43+00:00",
+    "title": "Fresh-faced Pamela Anderson's intimate garden video hid a subtle detail that stopped fans in their tracks",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUFBclZHTVFLVDBvOThwX2NGZGt5MkFmLVJYbVhjYkJCdGZyaDdhcTBhOUVuWUZmMDBTRHZpUzBHOWxIQ1RpcEZoTUlYY3Y0QkRSeThKMUMwVFgxUFNHTEc5Z0lDRXNlanNhQ2NfaThlcW05SldqZ3p6Y09TcW9ELVpDUVdOcDVR?oc=5",
+    "source": "HELLO!",
+    "published": "2026-10-30T11:00:00+00:00",
+    "summary": "",
+    "celebrities": [
+      "Pamela Anderson"
+    ],
+    "outlets": [
+      {
+        "source": "HELLO!",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUFBclZHTVFLVDBvOThwX2NGZGt5MkFmLVJYbVhjYkJCdGZyaDdhcTBhOUVuWUZmMDBTRHZpUzBHOWxIQ1RpcEZoTUlYY3Y0QkRSeThKMUMwVFgxUFNHTEc5Z0lDRXNlanNhQ2NfaThlcW05SldqZ3p6Y09TcW9ELVpDUVdOcDVR?oc=5",
+        "article_url": "https://www.hellomagazine.com/homes/932167/pamela-anderson-peaceful-garden-video/",
+        "image": "https://images.hellomagazine.com/horizon/landscape/1200/c8c0cd8695ca-pamela-anderson-celebrates-wedding-news-at-59-its-an-emotional-moment.jpg"
+      }
+    ],
+    "image": "https://images.hellomagazine.com/horizon/landscape/1200/c8c0cd8695ca-pamela-anderson-celebrates-wedding-news-at-59-its-an-emotional-moment.jpg",
+    "image_source": "https://www.hellomagazine.com/homes/932167/pamela-anderson-peaceful-garden-video/",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Chris Hemsworth Netflix Action Sequel Gets Major Update — And It’s Great News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekNXX2RFZHRpdWNad1FYOGdKOUVGZnRCTVVldjRoQTZSTkZkQ1Y2VHlaQmdKZy14T3hod3U3NUl1TVVaVUdza1h4cTAxUHVxUlBQZDJtRWV6c1R1R1BFaVg4Z2hWYVF3ZUo5SU9IME92Y05zTEJMcnV0bEFSQUM3TG4wMmM3NzIyUWZicThxR3dRQXFXNS1LeDVPc1JJVmlSTXJvLVlzNEpDNU0?oc=5",
+    "source": "Men's Journal",
+    "published": "2026-10-30T10:58:43+00:00",
+    "summary": "",
+    "celebrities": [
+      "Chris Hemsworth"
+    ],
+    "outlets": [
+      {
+        "source": "Men's Journal",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekNXX2RFZHRpdWNad1FYOGdKOUVGZnRCTVVldjRoQTZSTkZkQ1Y2VHlaQmdKZy14T3hod3U3NUl1TVVaVUdza1h4cTAxUHVxUlBQZDJtRWV6c1R1R1BFaVg4Z2hWYVF3ZUo5SU9IME92Y05zTEJMcnV0bEFSQUM3TG4wMmM3NzIyUWZicThxR3dRQXFXNS1LeDVPc1JJVmlSTXJvLVlzNEpDNU0?oc=5",
+        "article_url": "",
+        "image": ""
+      }
+    ],
+    "image": "",
+    "image_source": "",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Mohammad Rasoulof, Shahrbanoo Sadat Push Back on Idea of Separate Oscar Category for Exiled Filmmakers as Cate Blanchett’s Displacement Film Fund Hits Tokyo",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR05sYUdZYkFBU1lpeC1jbHhmYW5JenY1VXJTZUNxWWw3eUYxOElGY2tQYWRjMjZpTnRUT3VPU20wNHRMQVVEYmt1eFFBdG1aazh2VmZ5YWZPT1FZTDNrSW5LeHo2RDVHLUZGWWM3MzdRNFk3dDRJVWotN3BBTV96VmNrbFl3WXN0dHdVMkNrQ09WRzUwdnlHRGxVUHByV1hkMVNaWURWQ3BUUEQ0ZHc?oc=5",
+    "source": "Variety",
+    "published": "2026-10-30T10:31:00+00:00",
+    "summary": "",
+    "celebrities": [
+      "Cate Blanchett"
+    ],
+    "outlets": [
+      {
+        "source": "Variety",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR05sYUdZYkFBU1lpeC1jbHhmYW5JenY1VXJTZUNxWWw3eUYxOElGY2tQYWRjMjZpTnRUT3VPU20wNHRMQVVEYmt1eFFBdG1aazh2VmZ5YWZPT1FZTDNrSW5LeHo2RDVHLUZGWWM3MzdRNFk3dDRJVWotN3BBTV96VmNrbFl3WXN0dHdVMkNrQ09WRzUwdnlHRGxVUHByV1hkMVNaWURWQ3BUUEQ0ZHc?oc=5",
+        "article_url": "https://variety.com/2026/film/festivals/rasoulof-sadat-push-back-oscar-category-exiled-filmmakers-1236934877/",
+        "image": ""
+      },
+      {
+        "source": "IMDb",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dUphNV83SGJhSHlaNlYtSnh3TUlJMXMyLXBhN1BGRnpDbzRscUVvY3NqWk9aR0JuZVJDZ1hnOUg1b2ZVdTNFYnNWa0t5amljS3Fzb0N3LUxHeXdFQ0xfdEFiLWVmOV9SYmUtdi13?oc=5",
+        "article_url": "https://www.imdb.com/es-es/news/ni66087139/?ref_=nwc_art_perm",
+        "image": ""
+      },
+      {
+        "source": "شبكة تواصل الإخبارية",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16dy1RcFVZUDJlbWhwT2pTSkdoSjhRV0VBZ0d2TnFJVXVZWVpuUXdzZEdjVGF3V1RmMDFoZk1NOEc1SDB5dHRPMUxYbW9JNTE4TlFN?oc=5",
+        "article_url": "",
+        "image": ""
+      }
+    ],
+    "image": "",
+    "image_source": "",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Meet Alisha Boe, the new face of YSL Beauty’s Black Opium",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUW1hUlY1TWQ0aWF0N0JscE1xam0wMkVqOVFlSXVKODBFNHVISXdEVWpKVDloaGZ0S1FkVnBJSi0tZGhmT2I1NjRDd2MzbGFtMmZvbTZBU2NaNXprVUFLZGxkUzBZakhqY3FOV0hpMGhzMUt2U09Va0FRM2V2RHYyYlB0TTlRaGxMS3c?oc=5",
+    "source": "The Cold Magazine",
+    "published": "2026-10-30T10:24:37+00:00",
+    "summary": "",
+    "celebrities": [
+      "Alisha Boe"
+    ],
+    "outlets": [
+      {
+        "source": "The Cold Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUW1hUlY1TWQ0aWF0N0JscE1xam0wMkVqOVFlSXVKODBFNHVISXdEVWpKVDloaGZ0S1FkVnBJSi0tZGhmT2I1NjRDd2MzbGFtMmZvbTZBU2NaNXprVUFLZGxkUzBZakhqY3FOV0hpMGhzMUt2U09Va0FRM2V2RHYyYlB0TTlRaGxMS3c?oc=5",
+        "article_url": "https://thecoldmagazine.co.uk/fashion/alisha-boe-the-new-face-of-ysls-black-opium/",
+        "image": "https://thecoldmagazine.co.uk/wp-content/uploads/2026/10/alisha-boe-the-cold-magazine-digital-cover-ysl-beauty-01.jpg"
+      }
+    ],
+    "image": "https://thecoldmagazine.co.uk/wp-content/uploads/2026/10/alisha-boe-the-cold-magazine-digital-cover-ysl-beauty-01.jpg",
+    "image_source": "https://thecoldmagazine.co.uk/fashion/alisha-boe-the-new-face-of-ysls-black-opium/",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "The Yes Man Explained: Meaning, the Jim Carrey Film, and Why Sycophants Sink Teams",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNZFQ3cklLRGtGa3FfWi0ybnBDLXdfNzJwN3pheWR3b3RxUUVaSzQya3hweUhVdEkwVW1aV0RqQmJDWFdoUDg4OVBqd3d6SWRWUlRIYU16OVMyOEhOSmE0bmJR?oc=5",
+    "source": "白鲸出海",
+    "published": "2026-10-30T09:36:26+00:00",
+    "summary": "",
+    "celebrities": [
+      "Jim Carrey"
+    ],
+    "outlets": [
+      {
+        "source": "白鲸出海",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNZFQ3cklLRGtGa3FfWi0ybnBDLXdfNzJwN3pheWR3b3RxUUVaSzQya3hweUhVdEkwVW1aV0RqQmJDWFdoUDg4OVBqd3d6SWRWUlRIYU16OVMyOEhOSmE0bmJR?oc=5",
+        "article_url": "https://www.baijing.cn/?engineers/BGYBJVFy/290257867",
+        "image": ""
+      }
+    ],
+    "image": "",
+    "image_source": "",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Ryan Gosling's Space Adventure Officially Crowned a Modern Classic by Apple TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02dDZGYnhjR2FBQXBndmhwN2pRX0hONFM2cExXOWR4bFdrN3dFQTZJNDFiRUkxZjFmZ003RTU4ckszUzNxMHFTY0F6Q29ZQmdnTEU2am1UYjBDUjlNeTNUZ09QOVlYWTg?oc=5",
+    "source": "IMDb",
+    "published": "2026-10-30T09:15:01+00:00",
+    "summary": "",
+    "celebrities": [
+      "Ryan Gosling"
+    ],
+    "outlets": [
+      {
+        "source": "IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02dDZGYnhjR2FBQXBndmhwN2pRX0hONFM2cExXOWR4bFdrN3dFQTZJNDFiRUkxZjFmZ003RTU4ckszUzNxMHFTY0F6Q29ZQmdnTEU2am1UYjBDUjlNeTNUZ09QOVlYWTg?oc=5",
+        "article_url": "https://www.imdb.com/news/ni66087113/?ref_=ttnw_art_perm",
+        "image": ""
+      }
+    ],
+    "image": "",
+    "image_source": "",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Pamela Anderson Embraces the Ombré Manicure Trend with a Chic French Twist",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG1fS1VscEZxbk14YjhEbXFXbEdadXYtazJRV0pHVUZxWkZacjRMbXFPRjdvY3FCcG9TdExmSDdDQWJxbFZSUlhTSXlMMmFHREZYVnJMWDBlbXdGZGxtWm9iRi10Z1dHYjJmSnVyQmRhRkJBZC1PUXZZMmNUel9hbzdITXR3T0FXZ0dwU3Etc0lWR1FOM0thN2R5V3BEQ3FKTVdJ?oc=5",
+    "source": "SSBCrack",
+    "published": "2026-10-30T08:08:09+00:00",
+    "summary": "",
+    "celebrities": [
+      "Pamela Anderson"
+    ],
+    "outlets": [
+      {
+        "source": "SSBCrack",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG1fS1VscEZxbk14YjhEbXFXbEdadXYtazJRV0pHVUZxWkZacjRMbXFPRjdvY3FCcG9TdExmSDdDQWJxbFZSUlhTSXlMMmFHREZYVnJMWDBlbXdGZGxtWm9iRi10Z1dHYjJmSnVyQmRhRkJBZC1PUXZZMmNUel9hbzdITXR3T0FXZ0dwU3Etc0lWR1FOM0thN2R5V3BEQ3FKTVdJ?oc=5",
+        "article_url": "https://news.ssbcrack.com/pamela-anderson-embraces-the-ombre-manicure-trend-with-a-chic-french-twist/",
+        "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Pamela-Anderson-Embraces-the-Ombre-Manicure-Trend-with-a-Chic.jpg"
+      }
+    ],
+    "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Pamela-Anderson-Embraces-the-Ombre-Manicure-Trend-with-a-Chic.jpg",
+    "image_source": "https://news.ssbcrack.com/pamela-anderson-embraces-the-ombre-manicure-trend-with-a-chic-french-twist/",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Gladiator (2000) 35MM Trailer | Russell Crowe - Joaquin Phoenix - Ridley Scott",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XT1NMTFo1RGJ6aUtPcXAxNloweEtEakJVaFZGdGd6WUFuTWN3Wk0yR05ZTDd4Tm5oLWw2U29aUlhpQWZBVjNJbE01a0dPcFpwU2VlajZwaUhhOW9F?oc=5",
+    "source": "YouTube",
+    "published": "2026-10-30T07:46:53+00:00",
+    "summary": "",
+    "celebrities": [
+      "Russell Crowe"
+    ],
+    "outlets": [
+      {
+        "source": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XT1NMTFo1RGJ6aUtPcXAxNloweEtEakJVaFZGdGd6WUFuTWN3Wk0yR05ZTDd4Tm5oLWw2U29aUlhpQWZBVjNJbE01a0dPcFpwU2VlajZwaUhhOW9F?oc=5",
+        "article_url": "https://www.youtube.com/watch?si=hFBSiwqo3es2vPpR&v=yVV5FNWn3tg&feature=youtu.be",
+        "image": ""
+      }
+    ],
+    "image": "",
+    "image_source": "",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Pamela Anderson Redefines Hollywood Glamour with Natural Look and Sustainable Fashion Choices",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3dTc2lfT2t4WlV3WDlCcnE1NERabllXVm91b0h5d0t6ZXNDb3hTU2tkX0FRSjd0MmNkZjhUdGMxT29wNmcweFJGVGpncWtlbVNIR2lRQkRERzhaQXl1OUlCenN1LUlzVHhhaDZoRHJFQVZrckxkWHVWS25nc1lBd2xmVmFEOWRNVGlHNmVXQ1lCV1NvNDdXd05FM3BGNnZPRC1reXpNS0VaQUtVdld6VkJCdUV1eXFpUjVzSw?oc=5",
+    "source": "SSBCrack",
+    "published": "2026-10-30T07:37:59+00:00",
+    "summary": "",
+    "celebrities": [
+      "Pamela Anderson"
+    ],
+    "outlets": [
+      {
+        "source": "SSBCrack",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3dTc2lfT2t4WlV3WDlCcnE1NERabllXVm91b0h5d0t6ZXNDb3hTU2tkX0FRSjd0MmNkZjhUdGMxT29wNmcweFJGVGpncWtlbVNIR2lRQkRERzhaQXl1OUlCenN1LUlzVHhhaDZoRHJFQVZrckxkWHVWS25nc1lBd2xmVmFEOWRNVGlHNmVXQ1lCV1NvNDdXd05FM3BGNnZPRC1reXpNS0VaQUtVdld6VkJCdUV1eXFpUjVzSw?oc=5",
+        "article_url": "https://news.ssbcrack.com/pamela-anderson-redefines-hollywood-glamour-with-natural-look-and-sustainable-fashion-choices/",
+        "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Pamela-Anderson-Redefines-Hollywood-Glamour-with-Natural-Look-and-Sustainable.jpg"
+      }
+    ],
+    "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Pamela-Anderson-Redefines-Hollywood-Glamour-with-Natural-Look-and-Sustainable.jpg",
+    "image_source": "https://news.ssbcrack.com/pamela-anderson-redefines-hollywood-glamour-with-natural-look-and-sustainable-fashion-choices/",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Cate Blanchett, Shahrbanoo Sadat & Mohammad Rasoulof Bring Displacement Film Fund To Tokyo With Help From ‘Godzilla’ Filmmaker Takashi Yamazaki",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QYkkteWdwdkswd0I1ZW96bVYyS3BtMkNoQWNwRE9KRmRwaDFqTXRHMy1vY1FJcUtMcVE1OE9BYlhvVmVDVzhhYzZEVGhDNVdTR0JHaXpsVTJjU2xsZkR0aDJsNjNXNTg?oc=5",
+    "source": "IMDb",
+    "published": "2026-10-30T07:16:13+00:00",
+    "summary": "The first five short films produced under Cate Blanchett’s Displacement Film Fund screened this afternoon at the Tokyo Film Festival, and the two-time Oscar winner was present alongside DFF fund directors Shahrbanoo Sadat and Mohammad Rasoulof for a post-screening Q&A. The five films that screened a",
+    "celebrities": [
+      "Cate Blanchett"
+    ],
+    "outlets": [
+      {
+        "source": "IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QYkkteWdwdkswd0I1ZW96bVYyS3BtMkNoQWNwRE9KRmRwaDFqTXRHMy1vY1FJcUtMcVE1OE9BYlhvVmVDVzhhYzZEVGhDNVdTR0JHaXpsVTJjU2xsZkR0aDJsNjNXNTg?oc=5",
+        "article_url": "https://www.imdb.com/news/ni66086958/?ref_=nmnw_art_perm",
+        "image": ""
+      },
+      {
+        "source": "deadline.com",
+        "url": "https://deadline.com/2026/10/cate-blanchett-shahrbanoo-sadat-mohammad-rasoulof-tokyo-1237209297/",
+        "article_url": "",
+        "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276702391.jpg"
+      }
+    ],
+    "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276702391.jpg",
+    "image_source": "https://deadline.com/2026/10/cate-blanchett-shahrbanoo-sadat-mohammad-rasoulof-tokyo-1237209297/",
+    "batch": "2026-10-30 17:00"
+  },
+  {
+    "title": "Sir Patrick Stewart was one of the greats, says Hugh Jackman",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbnppNXBQcHQ0RUZJRHBwZ1hDOERnZk5BalMzOFZjQkh3TmdWQklidVFBTHJ4SXRoQnlpWWdoNDFDTHRqb2ZBTjMteWpad25KbE1wVkhWZ1JHTWdwdDk5b0U3STlhQlZZejluYTVXX3o2aWZsVmUxQVB6eC1fUnRKX0N2ellHc2pYT1ZZMVY4d0NHb1JuLVktcjdhaUFZbGp5Z2UwMk1uWUo5QkVKSXhDNHRiRDBOYnIwM1Z0VmdRdVVJUk5NT0hsblhuZ053bXpMd3FpSzJhbzBlM2d6TGNHdENxN29MTnNVeXUwR3RKRQ?oc=5",
+    "source": "Adelaide Now",
+    "published": "2026-10-30T07:09:59+00:00",
     "summary": "",
     "celebrities": [
       "Hugh Jackman"
     ],
     "outlets": [
       {
-        "source": "Men's Health",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUTJ6NnVNanUxLV9ldjBnZzNUZjdkbmcwTlFnQi1GaTh3aVFITllHdlo4Rms1UHZPc2FaaGlTT3MzY0U2TGx1UDM3LXBhaEhIVko1N0hOYUpFTlk1alhjRTRNV2tIZ1NlZXVhUElXRUZXUGhHSkFVbXFfV2E4b2p6WmFPdmU4RWROUENYR1d6UQ?oc=5",
-        "article_url": "https://www.menshealth.com/uk/building-muscle/a74203319/liev-schreiber-muscle-routine/",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/51702efc-0c60-49c8-b9d0-8467602bc43c.jpg?crop=1xw:0.7501831501831502xh;center,top&resize=1200:*"
-      }
-    ],
-    "image": "https://hips.hearstapps.com/hmg-prod/images/51702efc-0c60-49c8-b9d0-8467602bc43c.jpg?crop=1xw:0.7501831501831502xh;center,top&resize=1200:*",
-    "image_source": "https://www.menshealth.com/uk/building-muscle/a74203319/liev-schreiber-muscle-routine/",
-    "batch": "2026-10-30 17:00"
-  },
-  {
-    "title": "Sir Patrick Stewart was one of the greats, says Hugh Jackman",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0REtYNVFZSkgtRW9xMWRFNG1HbjI2WGg5MVY1ZTFGVTh0ZXpKS1NxbkgzaFh1SFhiUHhiT0plN0dGMmFCSnNQazFsSWMyQ3FrMG5ySVlrZ1I5U3NwcU4tcEthdGRaZTJhZ1B2QUxrQVgteDBfMVRqUElybks?oc=5",
-    "source": "Yahoo Lifestyle Canada",
-    "published": "2026-10-30T06:00:00+00:00",
-    "summary": "",
-    "celebrities": [
-      "Hugh Jackman"
-    ],
-    "outlets": [
+        "source": "Adelaide Now",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbnppNXBQcHQ0RUZJRHBwZ1hDOERnZk5BalMzOFZjQkh3TmdWQklidVFBTHJ4SXRoQnlpWWdoNDFDTHRqb2ZBTjMteWpad25KbE1wVkhWZ1JHTWdwdDk5b0U3STlhQlZZejluYTVXX3o2aWZsVmUxQVB6eC1fUnRKX0N2ellHc2pYT1ZZMVY4d0NHb1JuLVktcjdhaUFZbGp5Z2UwMk1uWUo5QkVKSXhDNHRiRDBOYnIwM1Z0VmdRdVVJUk5NT0hsblhuZ053bXpMd3FpSzJhbzBlM2d6TGNHdENxN29MTnNVeXUwR3RKRQ?oc=5",
+        "article_url": "",
+        "image": ""
+      },
       {
         "source": "Yahoo Lifestyle Canada",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0REtYNVFZSkgtRW9xMWRFNG1HbjI2WGg5MVY1ZTFGVTh0ZXpKS1NxbkgzaFh1SFhiUHhiT0plN0dGMmFCSnNQazFsSWMyQ3FrMG5ySVlrZ1I5U3NwcU4tcEthdGRaZTJhZ1B2QUxrQVgteDBfMVRqUElybks?oc=5",
@@ -235,6 +766,66 @@
     "image": "https://s.yimg.com/lo/mysterio/api/155ed624d1e6b4394490508f3cf706d4ce0628631e6cddb95ccb1334bef84692/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbang_showbiz_ca_591%2Fd06c1ce0325f196abc9d5dd267cf2888.jpg",
     "image_source": "https://ca.style.yahoo.com/sir-patrick-stewart-one-greats-060000596.html",
     "batch": "2026-10-30 11:00"
+  },
+  {
+    "title": "Archie Rose and Co-Owner Chris Hemsworth Unveil Next Evolution of Australian Whisky With New Core Range",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORmNzUnFybFpPQ05IU2hKM3Etd0FiZjNNZEpfOGNsU1lxbmNRa2ZaVjdZZ01femJBT0JTS1NCa1lKQkc2S0s1VndLbjhseVpuam8zOHFESHlzbHh3cjhJM0YzdGV5blZqYllTODkxT25JLUZoS05fOEZUNGJVdWJ5U2dGRjNtYmQ5UEtWVWYtMjRsekE4STRxT2ZvNWRuMFo2YTlPakNqSGZvR0Z1X2FNT2pBazEwZE9TQjV0c1pKNVpKRnllVXFXRXdJY1h4VFJGVU5aYlJrS0pVdlFmODFsd3ppTGhRMlRCbW1icw?oc=5",
+    "source": "Sydney Times",
+    "published": "2026-10-30T06:27:03+00:00",
+    "summary": "",
+    "celebrities": [
+      "Chris Hemsworth"
+    ],
+    "outlets": [
+      {
+        "source": "Sydney Times",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORmNzUnFybFpPQ05IU2hKM3Etd0FiZjNNZEpfOGNsU1lxbmNRa2ZaVjdZZ01femJBT0JTS1NCa1lKQkc2S0s1VndLbjhseVpuam8zOHFESHlzbHh3cjhJM0YzdGV5blZqYllTODkxT25JLUZoS05fOEZUNGJVdWJ5U2dGRjNtYmQ5UEtWVWYtMjRsekE4STRxT2ZvNWRuMFo2YTlPakNqSGZvR0Z1X2FNT2pBazEwZE9TQjV0c1pKNVpKRnllVXFXRXdJY1h4VFJGVU5aYlJrS0pVdlFmODFsd3ppTGhRMlRCbW1icw?oc=5",
+        "article_url": "",
+        "image": ""
+      },
+      {
+        "source": "Food & Drink Business",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckNUY2VfcHVmVG0zbmdjWUU5Wm05M2pndGw1N09JNEZubGdWR0RuRTctWkhBNWREOGxRNEVMYTRoUmtXdnFxNW5OVzdZS2l3ZURpN0trenM2Y0RiRmM1MHk5TUNnRE5WR1FYS0VWRkVpRU9ETXA0QzhlOGJaTVEtQUpVcXNSWGNCcC1XanVHcUx2b3dmSmtkTnhfdndOeERi?oc=5",
+        "article_url": "https://www.foodanddrinkbusiness.com.au/news/archie-rose-makeover-with-new-co-owner-chris-hemsworth",
+        "image": "https://cdn.yaffa.com.au/yaffadsp/images/dspArticle/leadImage/chrishemsworth-willedwards-bottlelineup-copy.jpg"
+      },
+      {
+        "source": "BevNET.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjlBNzZ5NjFtVVFBUEE4blFqd1BSUm1samhwZnRaZV9HaExqNEUxd2xlQTFlSEpkVGZMR1NubnB5SHkwRUV3MFFEakgyRG9ZVG9yUUcyZFdfQ1BRMkthQjA4N1dwN0pwSk12WWR5VzlqbFJ6bjFhXzVtRlJVSm5UczJUaExRUWNsNmRMZzB6UHZiTFdqRHJBVWZIRXYxWmQ5MU9uSFhGVHlIdEpYeW5n?oc=5",
+        "article_url": "https://www.bevnet.com/pr/2026/10/21/archie-rose-and-coowner-chris-hemsworth-bring-australian-whisky-to-the-us",
+        "image": "https://dg6qn11ynnp6a.cloudfront.net/press-releases/310678535.chrishemsworth-rmw-landscape.jpg"
+      },
+      {
+        "source": "Bar Magazine",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRUlCOF91RTdpd3pxTWZkTmt6LU0zZU00V3pwci02NHZ1RkU2V2VNRGREbmZfdnVrRkUza3ltMXJrNHc3blpTNDR3UVNISmpkb254WTVZMHBTVXEyOGVuRlEzRWJaVWo4d1Vud1p1WjI0VDh2cnVDR2VQelR6UXdzRFFSOUpLamlaaVVONzVxSWRIcThXckVFQnJQekJITkxacUY4ag?oc=5",
+        "article_url": "https://barmagazine.co.uk/archie-rose-and-co-owner-chris-hemsworth-bring-australian-whisky-to-the-u-s/",
+        "image": ""
+      }
+    ],
+    "image": "https://cdn.yaffa.com.au/yaffadsp/images/dspArticle/leadImage/chrishemsworth-willedwards-bottlelineup-copy.jpg",
+    "image_source": "https://www.foodanddrinkbusiness.com.au/news/archie-rose-makeover-with-new-co-owner-chris-hemsworth",
+    "batch": "2026-10-22 00:00"
+  },
+  {
+    "title": "Hugh Jackman Inspired Liev Schreiber to Start Lifting in His 40s – Steal His 4-Day Plan for Total-Body Muscle",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUTJ6NnVNanUxLV9ldjBnZzNUZjdkbmcwTlFnQi1GaTh3aVFITllHdlo4Rms1UHZPc2FaaGlTT3MzY0U2TGx1UDM3LXBhaEhIVko1N0hOYUpFTlk1alhjRTRNV2tIZ1NlZXVhUElXRUZXUGhHSkFVbXFfV2E4b2p6WmFPdmU4RWROUENYR1d6UQ?oc=5",
+    "source": "Men's Health",
+    "published": "2026-10-30T06:05:43+00:00",
+    "summary": "",
+    "celebrities": [
+      "Hugh Jackman"
+    ],
+    "outlets": [
+      {
+        "source": "Men's Health",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUTJ6NnVNanUxLV9ldjBnZzNUZjdkbmcwTlFnQi1GaTh3aVFITllHdlo4Rms1UHZPc2FaaGlTT3MzY0U2TGx1UDM3LXBhaEhIVko1N0hOYUpFTlk1alhjRTRNV2tIZ1NlZXVhUElXRUZXUGhHSkFVbXFfV2E4b2p6WmFPdmU4RWROUENYR1d6UQ?oc=5",
+        "article_url": "https://www.menshealth.com/uk/building-muscle/a74203319/liev-schreiber-muscle-routine/",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/51702efc-0c60-49c8-b9d0-8467602bc43c.jpg?crop=1xw:0.7501831501831502xh;center,top&resize=1200:*"
+      }
+    ],
+    "image": "https://hips.hearstapps.com/hmg-prod/images/51702efc-0c60-49c8-b9d0-8467602bc43c.jpg?crop=1xw:0.7501831501831502xh;center,top&resize=1200:*",
+    "image_source": "https://www.menshealth.com/uk/building-muscle/a74203319/liev-schreiber-muscle-routine/",
+    "batch": "2026-10-30 17:00"
   },
   {
     "title": "Archie Rose and Chris Hemsworth unveil refreshed whisky lineup",
@@ -360,6 +951,27 @@
     "batch": "2026-10-30 17:00"
   },
   {
+    "title": "X-Men Stars Remember Patrick Stewart: From Hugh Jackman to Kelsey Grammer",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkJSR25HYW1iNGpzQXVZcmNpNkttNnRKX1kyNlBNeE9YbE9HaUgyaURvZ2xjVFZqNFVRLWZzWGtOTnJwN2t6OXVRVU44ajd0TXhqM1VjdnJiODRTdEpCYVplcXNBZTQtYl9QcHF0ZVhmZFZ0ZklNZ2xvU3dLemNnUFY3c3ZoTTc4TWVVdjFDSmpZSGYza3FOYVM0REVFVS1RT080UjFuZEo?oc=5",
+    "source": "Tempo.co English",
+    "published": "2026-10-30T03:58:01+00:00",
+    "summary": "",
+    "celebrities": [
+      "Hugh Jackman"
+    ],
+    "outlets": [
+      {
+        "source": "Tempo.co English",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkJSR25HYW1iNGpzQXVZcmNpNkttNnRKX1kyNlBNeE9YbE9HaUgyaURvZ2xjVFZqNFVRLWZzWGtOTnJwN2t6OXVRVU44ajd0TXhqM1VjdnJiODRTdEpCYVplcXNBZTQtYl9QcHF0ZVhmZFZ0ZklNZ2xvU3dLemNnUFY3c3ZoTTc4TWVVdjFDSmpZSGYza3FOYVM0REVFVS1RT080UjFuZEo?oc=5",
+        "article_url": "",
+        "image": ""
+      }
+    ],
+    "image": "",
+    "image_source": "",
+    "batch": "2026-10-31 00:00"
+  },
+  {
     "title": "'Patrick Stewart Wore His Heart On His Sleeve': Hugh Jackman, Ian McKellen, William Shatner Remember X-Men Star",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY0ptcVVpRmMxTWlQajhtR3BwZmNXZHZkaGdabXFwSkdHRVdXcnZQWGd4OU56aXU3RkJQdmFNdmd4NTlqdjNQZjZXY0ltaG41UXh2SVNHellubW1LY0NXLWt6OFI2aEROWk05NnhkUXd4b1JGZmhxMHFoNE5IMzVhNmdLRl9QVDBjT2JkUHlPQXNNSUduMWxveHZ1S3B1NVN2WkpGcVdaTGp3djgteTNZeTZyTFpzWkN5Nl83eng2X2czcUlYOTNqQjV1MVpfbkRSZ2w2aGNwaEFrZHAwb2dId1ZsVk7SAewBQVVfeXFMTjNleHBmZU5abFQtdXNJQldzT21iNnd0UDBZejI0eVJfUlZYa2RldkhtYXh4MTBjblp5enRNNUJrMWpPWGdtM3lyLVFGcXgxN2xQdVBTcWtvVnY5MnkzdEJZWGZnRmxBZkpzNmw1cUR5bDlCcDFHbHhZcmN0azVoOFExZjJSaWlIVTNDN2E4MWY0UnQ4V01LeXZnUTR0eV9JSzhFUzJ6NmtBVU9KLXR4c3RkeUF2Tm9DOWV3MWNSMGZpcGRnLTZZMHFGVjNoMjFJRzBxbjJrbTVJRzdiVV9hamlmTEJicHBoVVltbE4?oc=5",
     "source": "NDTV",
@@ -429,141 +1041,6 @@
     "batch": "2026-10-30 02:00"
   },
   {
-    "title": "'I’ll Bend Over Backwards' – James Gunn Makes Margot Robbie an Offer to Return as Harley Quinn",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUTUwMHhuUEprYlZLaEpRektqMmlYdzY0czAwVUFiQUtzeGJTbG02RExmekxOV2pya2pDc185SnRtZEM3LXRYR2VnY1VtRG0yclVRME5QMEJodkRyb3c0bXNEU3I4TkN0TVk3ZmUxOE5NVHZOM2pkV2lhbDBSdEc0Q1BZMkM5UzZnMHVtNW0wa2xETjRRdURRcHFaSzhiUERDOGJMUXZKa05XM05hdkZPdFJtNlNsNnhuRTQxdFVLb1dMTmZjQS1aRU1XTHJEX25QZjR6QWxmcU5VOWh4RUI2SWF4R0hyVWxETW5Qd2hn?oc=5",
-    "source": "Yardbarker",
-    "published": "2026-10-30T03:30:01+00:00",
-    "summary": "As James Gunn’s fledgling DC Universe continues to grow, he’s revealed that one key character will “almost certainly” return: Harley Quinn. But Margot Robbie, who played the anti-hero in three DCEU movies, may not be back. On “The Suicide Squad: Is It Canon? The Official Podcast,” Gunn was joined by",
-    "celebrities": [
-      "Margot Robbie"
-    ],
-    "outlets": [
-      {
-        "source": "Yardbarker",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUTUwMHhuUEprYlZLaEpRektqMmlYdzY0czAwVUFiQUtzeGJTbG02RExmekxOV2pya2pDc185SnRtZEM3LXRYR2VnY1VtRG0yclVRME5QMEJodkRyb3c0bXNEU3I4TkN0TVk3ZmUxOE5NVHZOM2pkV2lhbDBSdEc0Q1BZMkM5UzZnMHVtNW0wa2xETjRRdURRcHFaSzhiUERDOGJMUXZKa05XM05hdkZPdFJtNlNsNnhuRTQxdFVLb1dMTmZjQS1aRU1XTHJEX25QZjR6QWxmcU5VOWh4RUI2SWF4R0hyVWxETW5Qd2hn?oc=5",
-        "article_url": "https://www.yardbarker.com/entertainment/articles/ill_bend_over_backwards_james_gunn_makes_margot_robbie_an_offer_to_return_as_harley_quinn/s1_17785_44491930",
-        "image": "https://www.yardbarker.com/media/5/0/5046f7798ad882e4bdc352f02a2a0ed40b540d45/thumb_16x9/image_1792598984105.jpg"
-      },
-      {
-        "source": "Complex",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmFFYi1HWGtXNUxBeHktNW40RVZYaUFhWldyemtkanN2YldfWkNsRy16bEoyUVBydG9xbWZqUmlYaEduUGEwcXdtOE1Bc3c3R2FLYVlfWFlOR00xdmRCUzBLVzJVUTctUXRSRHBPOXVLRXBhRmNkcjZIZVpmOHRvMG9ESHZMUG5TU3dmb3JzZzhVRmp4?oc=5",
-        "article_url": "https://www.complex.com/pop-culture/a/treyalston/james-gunn-margot-robbie-harley-quinn-dcu",
-        "image": "https://images.complex.com/complex/image/upload/c_crop,h_1083,w_1919,x_0,y_0/g_auto:aoi_768_434_384_217,ar_1.91,c_fill,q_auto,w_1200/sanity-new/rnh7jvzdt8acmvimbprs"
-      },
-      {
-        "source": "IMDb",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GV1llU2tZZzd1a0dvSTZsaF9OdVBXLVVjNmxWWWdjS1lSaG5YMUUwV1kxRUtzb3U3WVdtUkd5M05icTlydE1ISW1PV0U0ajNWeGVCRUFER1NrdGkxa0lWdVFJcXR6dw?oc=5",
-        "article_url": "https://www.imdb.com/news/ni66086630/?ref_=nwc_art_perm",
-        "image": ""
-      },
-      {
-        "source": "Variety",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzdWMkpBMk9zMkpjaFc4UGNLX045aGJYbzFtWFRtVk1CU0RaakxzUVNaeHNwemN1U1c2Ul84Y1lnTnBRaXpKREhVT2pia1IyM2pudXVNeVY2M0d3b0FKb0hoLUpFUUgtTkNNcFdGVzZOdXdxamY5bEhDQWYybjNTNHljLWVTZWMwemtwMHNmbjZTZHpXWUdyTmt2MFRBVE1rWldVNnNpMA?oc=5",
-        "article_url": "https://variety.com/2026/film/news/margot-robbie-harley-quinn-james-gunn-bend-over-backwards-1236934404/",
-        "image": ""
-      },
-      {
-        "source": "variety.com",
-        "url": "https://variety.com/2026/film/news/margot-robbie-harley-quinn-james-gunn-bend-over-backwards-1236934404/",
-        "article_url": "",
-        "image": "https://variety.com/wp-content/uploads/2022/12/MCDBIOF_WB023-e1670425121649.jpg"
-      },
-      {
-        "source": "JoBlo",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JODlpVzhjTk9xVWFMRnJOdlZnbWNFRGlHQWJnQlE1OXNjUWNVb2xFRnFmZUVVb0VVNU1aZE9BZE1MTy1fZVJxT1ota2Q1cEs2bHdwQmhPMmdXbEtXQ3NwcEIyUdIBaEFVX3lxTFAtdGJSTEttNERHTW9MMWNKaHpRQjgxSThfaHlwTWN4SndDdDhoVEh3VDNzNFNNb0NDdFIyTmZoU2djdUZTOVhDUEFjdXhHRVR5YjkyMC1BWllmMzB6aXVwOVdMajVwaGFY?oc=5",
-        "article_url": "https://www.joblo.com/harley-quinn-dcu-margot-robbie/",
-        "image": "https://www.joblo.com/wp-content/uploads/2026/10/harley-quinn-dcu-margot-robbie.jpg"
-      },
-      {
-        "source": "Nerdist",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeGxzUGUxTnpwZ3FlVzllbGdna2dMbUxhaGFjcGpXZVdWVFdzSzlBOUVUZ0Z5ejJiWUYtVFV2Rmo5RW1PRVBOdTZoeGJpQXJYZ2xDMDJ6ZTZYOHFiaGtPVHJxajBRYy0yNkxvY2U1V2hPbGVnNk8tbHQ2eHd1VGFtdWlZTU9SZGxPdms0?oc=5",
-        "article_url": "https://nerdist.com/article/james-gunn-talks-margot-robbie-harley-quinn-dcu-status/",
-        "image": "https://cdn.nerdist.com/wp-content/uploads/2026/10/29110315/Margot-Robbie-Harley-Quinn-Suicide-Squad.webp"
-      },
-      {
-        "source": "Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkJzTUdNTmRiaWtoNDYxN2dZSTA3MEFjYzJpWUlwbGpmUDFMa2FNZmhKVC1BcExDWVVmV3U0b0RBRGRTc3Rrd1JyT0o5bm52eWxlOUt4UEhYSW1jMHBvRTBudzJVWU83R2lFQ3g4YzF4QXpBRkN4b0JsWWFkVTVhRV91Ylg5emNuYVpzbDNQaEtycndTS3hWNG9wQ050Zw?oc=5",
-        "article_url": "https://www.yahoo.com/entertainment/movies/articles/james-gunn-talks-margot-robbie-220000239.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/5746ac997cfc1fde9fbfb9893c9b1e16c996414d1263f3af99d9c14f2c69dfbc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnerdist_761%2F6ded765784148c3de76a70e3f3560fb7.jpg"
-      },
-      {
-        "source": "GeekTyrant",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFJ6VTNMUFpaSzBHdFVXRUdVbzZKa183MENqUWhCZ0VocEFjYV9nVm9zWGMzdkZMdnRJRzU2R3VGOWJhVV9pLWRpU1dZSTJpOW1ja2tqMWFTMmlnQ01JWGY0NWFiSzhMb3N1NnZMMWpiV0hOUzhIckR0VzkxbVpfVXZYMUI1djRvZFYwZ3BPaDVucEJ1MGJudERfV1VLeWZIdU84WENWVmhVQ0R6TEg1ZnlrLWFjWWgzeVVwYUdoYUpYWXY4VlJv?oc=5",
-        "article_url": "https://geektyrant.com/news/james-gunn-says-margot-robbie-may-be-done-playing-harley-quinn-but-he-wants-the-character-in-the-dcu",
-        "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ae393f2899fdb462ecb11ff/1793309433925/James+Gunn+Says+Margot+Robbie+May+Be+Done+Playing+Harley+Quinn%2C+But+He+Wants+the+Character+in+the+DCU.jpg?format=1500w"
-      },
-      {
-        "source": "The Direct",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk1laVVicFBaTlhFbTkxT3FsNUFZN1FaRERuZ2RHOEdkbGlRa0Jwb2t4dTh3dUtJZ2IwVHpUWTcxdklOR3Voc2FsQnBkQjVFSFZSb29vZF9sVjBnSHZSb1ZWdklvZWs5enk2Nkc0LUZSeFV1RktxRTZwanlldURWSE5R?oc=5",
-        "article_url": "https://thedirect.com/article/james-gunn-dcu-plan-harley-quinn-margot-robbie",
-        "image": "https://images.thedirect.com/media/article_full/gunnquinn.jpg"
-      },
-      {
-        "source": "A.V. Club",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LYXpBMFloWS0wYVJ2S045Y1dtSlNqWFU5T0V1d3U3YUY1b0F0aTdDcG5semxWcTF0OEZJcmdIVllmTVJjSjlEUHE5dGNzNVExV1pONm0zU2pwUjFnOVBVM3pNVnZsQjhocUdNVEdQRkpXZTFSSllhRzRGbw?oc=5",
-        "article_url": "https://www.avclub.com/james-gunn-margot-robbie-harley-quinn-dcu-future",
-        "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/the-suicide-squad-margot-robbie-harley-quinn-featured.jpg"
-      },
-      {
-        "source": "Comic Book Resources",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ERlFhMkpuaGJpWVRpbFh4TTVoRWFLVXdRVVplTnZBTFpjSjFLS2xpUFBReF9nZEJOX3NXek9sYmM4Q2JPUUNSWUlEOTYwcnlnb0xRZ2xDRVFDcDFmMGl1em9hZ09TUGhkZkpSMTdnR01RZzdlTGg4?oc=5",
-        "article_url": "https://www.cbr.com/margot-robbie-dcu-future-harley-quinn-addressed/",
-        "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/mcdsusq_ec046.jpg?w=1600&h=900&fit=crop"
-      },
-      {
-        "source": "ComicBookMovie.com",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXR2S0dwRVpLMEkyYVVvdXFhUUg4clRqc1hTVnNxdEZBQXhVVXNfZXFrWGk0LWdQSEVkanE1TnhaVXlxVVpERnZWdlBoWk1qTVRVMnVRaGtDakxicVBTVXVXOGVlMEdYWHEyTHNYUVMzZjVrRGNsa3d6aWJYdC13Q3ltSm9QVFBCLTFNeVNfaWtsaWpPOUpodmc1UlNJMzgyMzg0TzJBb3BXQXd4YTBPUS1ROE4xcUsteVRLakhPcW4tTFc0SVgxdF9rOFRXc2tPcGcwdlZfZUhfSzVkeTFmbVlZdWNPUzc3dXhWT0poeXZXVll2UWc?oc=5",
-        "article_url": "https://comicbookmovie.com/suicide-squad/the-suicide-squad/update-james-gunn-says-hed-bend-over-backwards-if-margot-robbie-wanted-to-return-as-harley-quinn-a230720",
-        "image": "https://comicbookmovie.com/images/articles/banners/update-james-gunn-says-hed-bend-over-backwards-if-margot-robbie-wanted-to-return-as-harley-quinn-ab230720.jpg"
-      },
-      {
-        "source": "Just Jared",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWxGdnJHV3E3UV9EX0otRUlYQmRvY1BCb3pGSGZkWEdMS1hGWjdfZi1SRV9FSEE3ZVNMWGdpM1UxdTdGSy15dnlSLXV4SjZFaWNtRFNDWjBrNWduQnYzdm1KZjFoYkFVX0ptUFNfcWtEckllQkFoS0ZBelVmYVl5VTVXVVZDejR4Z3NxM1Qxci01TWthMjRwRlEtTGNCeTd3LXQ5SVZGcGszakp2RTRJMGtyUkM2NnV4SEhSaG1GOW8tY0plNVE?oc=5",
-        "article_url": "https://www.justjared.com/2026/10/29/james-gunn-drops-major-batman-casting-update-addresses-margot-robbies-harley-quinn-future/",
-        "image": "https://www.justjared.com/wp-content/uploads/2026/10/batman-actor.jpg"
-      },
-      {
-        "source": "Den of Geek",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOczczeGVJelBDX2hFRm4wTzdWZzhtMTVXQjBRTFc5VGp5TWVMcjVuZEMzSV9UQ2o1Y2c4dWVDUVpJUDAxN1FlWi1TY0NRM0txcV9BSWlDbHJ6akJoYWtZT01HT3N0TmJFLWxvbmUxZEVTN0lsWkRKZEVoWFJZd1NzWktqNF96QjZNN0Q5TTJWLWVRUWln?oc=5",
-        "article_url": "https://www.denofgeek.com/movies/james-gunn-dcu-harley-quinn-role-margot-robbies-if-wants/",
-        "image": "https://www.denofgeek.com/wp-content/uploads/2023/12/Margot-Robbie-as-Harley-Quinn-in-Suicide-Squad.jpeg?fit=1400%2C894"
-      },
-      {
-        "source": "AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPczM5NFBwNzNEektXektpYS1EaEJTQWUyRm93M0FoemdvMS1ZTFVDazNRNVJOczZHLUJUakg1V3JiaXlEQW1HS3ZTZ1NwRjk1MVRkUkhTZEc5Mk5wbThaQVEtU2dxdE9hdnpQUExENlEybGY2WEpMMmRDZnVUVUx0eTBhdw?oc=5",
-        "article_url": "https://www.aol.com/articles/harley-quinn-james-gunn-addresses-185050000.html",
-        "image": "https://hermes.media.transform.aol.com/7cc74ab7f9adaf187c5418b099167f41f3f7979c/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/29/f3130b6a-2979-31c7-9d8d-19a52156dcd3/47986710-a64d-4145-9023-015a0768de06.jpg"
-      },
-      {
-        "source": "Comic Basics",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS2c2Sjl4dmpVUlZsVU5kcnI2ckJ0SWZlM0lYVXFzT2R2QVliTnBmR0xYSXZoLWpkZmtjajZUdW1HVmVhWWpKRktKQXFhd1ZhNmQzVm05RElUU0hhV1BKQ0NRU3JyMHBnbWg1LWJiZE1Sc0pkMnkxZTBYRk9qSGlXR0dGMUx3ZzcydTh3WkRQT0ZtMWVrRXBDZWdFbDV1NXhvQzFoakI3dlEyVjlVXy14NGo2SHZMeWpjZFpPYmtlNkt1WFB0WnZUakdRWnhCMkp1ZWVJeVF6UTZNQQ?oc=5",
-        "article_url": "https://www.comicbasics.com/james-gunn-says-harley-quinn-will-almost-certainly-appear-in-the-dcu-but-margot-robbies-return-is-still-uncertain/",
-        "image": "https://www.comicbasics.com/wp-content/uploads/2026/10/Harley-Quinn-margot-robbier.webp"
-      },
-      {
-        "source": "ScreenRant",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE9KSXlZdmJoOXNRUnRrYjB5dTdBVHFiQzRGNm9ibmY3b1R4QzN1Y1E2TXgySlpQUjhoaU1IU2RoVlE3Vlk2bDBjc3NzVXp3aWNzRUxWVDhhRHN2ekVKQTlUaTY5OS02dUdfVTkzNFI1NzJiX2hWLTZMZExfajZzZkhya3pWVmVvcGVQU1RoVTdXcGFP?oc=5",
-        "article_url": "https://screenrant.com/harley-quinn-margot-robbie-dcu-future-update-definitive-james-gunn/",
-        "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/margot-robbie-as-harley-quinn-holding-a-gun.jpg?w=1600&h=900&fit=crop"
-      },
-      {
-        "source": "Deadline",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1lRR3dwZTNGVE9QYVctd0FsckVPZXpzdW14eEcwNjZHZS1xRXNOLUJQZVdTQmxSdWJvSFhVNVp5aHBCeEQwOEwxWUZENWJ0SVRsZGkxVzhROFEwbXNwc2Z2X0RUTEFrNDZfMk91SGxNNEJxci1kcy1qbnVra0RZUnJxWFhsRVZGend3emVJZ1BOUWJQOERN?oc=5",
-        "article_url": "https://deadline.com/2026/10/james-gunn-margot-robbie-returning-dcu-harley-quinn-1237208369/",
-        "image": ""
-      },
-      {
-        "source": "The Playlist",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmM3WXM2VlRBNlc4aFNNbnhnZUh3QVFMU3h6TlNwck9NeHBNRFI2TWdsbF9xa3ZEVE5ieVUwMGRDSkl5REtBRmdXVGEyTTd2MWpoRDdkTzBIRE5tYThFdm9xWkRHamgxMEZzVE5zT25MUVR4YXo2WlV0T1hqNW96ZXZybjNEM2xHaXh6THVVbmlqV19i?oc=5",
-        "article_url": "https://theplaylist.net/james-gunn-margot-robbie-harley-quinn-batman-casting-dcu-20261029/",
-        "image": "https://cdn.theplaylist.net/wp-content/uploads/2026/10/29132456/james-gunn-margot-robbie-harley-quinn.jpg"
-      }
-    ],
-    "image": "https://www.yardbarker.com/media/5/0/5046f7798ad882e4bdc352f02a2a0ed40b540d45/thumb_16x9/image_1792598984105.jpg",
-    "image_source": "https://www.yardbarker.com/entertainment/articles/ill_bend_over_backwards_james_gunn_makes_margot_robbie_an_offer_to_return_as_harley_quinn/s1_17785_44491930",
-    "batch": "2026-10-30 07:00"
-  },
-  {
     "title": "Russell Crowe's Performance in This Prime Video Crime Thriller Is So Good, It Demands a Rewatch",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmpSMjhVN1VxVnQxeXNQNndCN1dYNS00YVo3eHJ3SWkzS2xoZ0prX1hEYzlaNEExendBTERaeUpHSnVoN002eDU5NXVrYTdSeEY4YjktRzI2S1ViM2E3VHdjM2hHeGFTWFc2OXVxXy1MdHhDc0VsMThmWE9iZmtUV05SMlZoRkljVFdiUkl2ZnBtbTRzSVlpc0dzTjBYQ2NNWHYw?oc=5",
     "source": "Collider",
@@ -604,6 +1081,27 @@
     "image": "",
     "image_source": "",
     "batch": "2026-10-30 17:00"
+  },
+  {
+    "title": "Nicole Kidman’s Practical Magic 2 Press Tour Stylist Dropped a Timeless Capsule Wardrobe Collection — from $20",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQmdYTEFnSXBFdE9sWXFManN0WUFzM0xaS0JKQ1ZmUnFsQ0prdlJYemFuRjdKbEQ2RTNwemFpUWVzM3RSQjctcVltVGlyS25qRkZZWDRrRk1tNk9kaWZ4LW1yUGxGRklvMG4zSGhtS0NSYWVDbWtHbXR5bDhNQWUwVGpFNVd3RXB6WkhHQmlRa0o0Z1RlX0hwSC1B?oc=5",
+    "source": "People.com",
+    "published": "2026-10-30T01:30:00+00:00",
+    "summary": "",
+    "celebrities": [
+      "Nicole Kidman"
+    ],
+    "outlets": [
+      {
+        "source": "People.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQmdYTEFnSXBFdE9sWXFManN0WUFzM0xaS0JKQ1ZmUnFsQ0prdlJYemFuRjdKbEQ2RTNwemFpUWVzM3RSQjctcVltVGlyS25qRkZZWDRrRk1tNk9kaWZ4LW1yUGxGRklvMG4zSGhtS0NSYWVDbWtHbXR5bDhNQWUwVGpFNVd3RXB6WkhHQmlRa0o0Z1RlX0hwSC1B?oc=5",
+        "article_url": "",
+        "image": ""
+      }
+    ],
+    "image": "",
+    "image_source": "",
+    "batch": "2026-10-31 00:00"
   },
   {
     "title": "'WE LOST ONE OF THE GREATS OF STAGE AND SCREEN TODAY' Hugh Jackman, who played Wolverine in the X-Men films, shared a photo with his co-star Patrick Stewart, who portrayed Professor Charles Xavier, following the announcement of the latter’s",
@@ -727,6 +1225,33 @@
     "image": "https://static.ffx.io/images/$zoom_0.981%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/d32a276832c009ef8cef0c4e0fdf2c457d2864528b4460787910bdc9423b7de7",
     "image_source": "https://www.nine.com.au/entertainment/celebrity/connor-cruise-rare-appearance-tom-cruise-nicole-kidman-son-20261030-p619yc.html",
     "batch": "2026-10-29 18:00"
+  },
+  {
+    "title": "James Gunn Update Officially Teases Margot Robbie’s Dcu Return 5 Years Later",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ER0R4LVFRdVVra2tQSFNPckNnVld4VXdhN0tycnJCb1JWczl5UTREdmhYS3lyLUE3TUNHOTlzWTRocl81SEdhdnVQUlNlMXA2aklSalhtdU1qbkJhV0lZeDRQbnhwMFU?oc=5",
+    "source": "IMDb",
+    "published": "2026-10-30T00:00:30+00:00",
+    "summary": "",
+    "celebrities": [
+      "Margot Robbie"
+    ],
+    "outlets": [
+      {
+        "source": "IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ER0R4LVFRdVVra2tQSFNPckNnVld4VXdhN0tycnJCb1JWczl5UTREdmhYS3lyLUE3TUNHOTlzWTRocl81SEdhdnVQUlNlMXA2aklSalhtdU1qbkJhV0lZeDRQbnhwMFU?oc=5",
+        "article_url": "https://www.imdb.com/news/ni66086554/?ref_=ttnw_art_perm",
+        "image": ""
+      },
+      {
+        "source": "FandomWire",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1veEc0Z012NUcxNkVNS0VNOVNjZ2JIZE0xRXYwQ1V1M1dJaG1rLU1FcmJUQnEyUlJmbmg1Y3V6eVhSQ3VFRlVJSlBSWG5YNjFCN3B5YnIxYUFZSE8waWgyYU1nREJ1TUlDWURjOHpSRTdya01fcEU1SEhoaHVKZw?oc=5",
+        "article_url": "https://fandomwire.com/james-gunn-update-teases-margot-robbie-dcu-return/",
+        "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/10/29152849/james-gunn-teases-margot-robbies-dcu-return.jpg"
+      }
+    ],
+    "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/10/29152849/james-gunn-teases-margot-robbies-dcu-return.jpg",
+    "image_source": "https://fandomwire.com/james-gunn-update-teases-margot-robbie-dcu-return/",
+    "batch": "2026-10-30 17:00"
   },
   {
     "title": "Hugh Jackman Pays Tribute to Late “X-Men” Icon",
@@ -906,6 +1431,63 @@
     "batch": "2026-10-30 11:00"
   },
   {
+    "title": "Extraction 3 Wraps Filming as Chris Hemsworth Finishes Tyler Rake’s Thailand Shoot",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Rk1DZ3Q5bWt4T0hlUVFDSWVJdnZ2b3hmdy1mNURtaEFrM1JLWG1rcGRpWDhaeDVnMVJpekZVOWRSc1R3THozZ0hMNHpxVmc3SE14Y19UVDBDM0JWY0Vjb3MtSW83dHF1RE9DTnBR?oc=5",
+    "source": "TheGWW.com",
+    "published": "2026-10-29T22:24:46+00:00",
+    "summary": "",
+    "celebrities": [
+      "Chris Hemsworth"
+    ],
+    "outlets": [
+      {
+        "source": "TheGWW.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Rk1DZ3Q5bWt4T0hlUVFDSWVJdnZ2b3hmdy1mNURtaEFrM1JLWG1rcGRpWDhaeDVnMVJpekZVOWRSc1R3THozZ0hMNHpxVmc3SE14Y19UVDBDM0JWY0Vjb3MtSW83dHF1RE9DTnBR?oc=5",
+        "article_url": "https://thegww.com/extraction-3-chris-hemsworth-filming-wrap/",
+        "image": "https://thegww.com/wp-content/uploads/2026/10/4-17.jpg"
+      },
+      {
+        "source": "Telangana Today",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3JaVlVxS2hhTVpZam05emExb2F4WGFoQmhtNnhLS1pHZ1NrTFB4R3NTbm5EQzl6bmRtWldwYzdQMlhLRGZWRTZna2c3V3pWRUs1bERNYU5sYmVhSDZZS2I0czdCdU1aWHp0VkpXWmF1czFJRldTajZKeURzVTR5b2E2Y2xPZWpBZjdGOXYtTzY4WnotLU54RWlDX0Ixbno2QldMMFJNcHpLVHJCLS1CM1NucHQ4Q2NLWUNJT293?oc=5",
+        "article_url": "https://telanganatoday.com/chris-hemsworth-shares-glimpses-of-off-duty-adventures-in-thailand-as-he-wraps-up-extraction-3",
+        "image": "https://media.telanganatoday.com/wp-content/uploads/2026/10/Chris.jpg"
+      },
+      {
+        "source": "The Hawk",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkFqemxnYTRsMUlNYjl5RUZ6MFhVT3VWLXBtNjFjeWlUSEVwaFZTYzZHeUFvY0hVZWQtZkQ5N3loZ3JGc3dVOEdvX0NycHdIWXhMNU9jVjFIRzNvRFhzaWExUE15MHlIWHVvZjIzUFF1eXRETHpnbjZmd0JSbDlhTy01aVRTTTlIakxCcmgtYkRmVFg5Vk9oV09rNWJBWHF3TG5tbUZEQ09yeXlZYXdTWFNHV3NYU1RULWxYQzdfaU44anNyYzQwMXdn?oc=5",
+        "article_url": "",
+        "image": ""
+      },
+      {
+        "source": "Khaosod English",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0xRZWtjZThrSVNGMVJILUkzWkdpWjJuSUtra1VhdWNxemJ0TW5hTXREYnpJdkVpbFFZNE9fUnZrbHh0a2t4OXBVSFdmWjhaNnJxNjFOaEdEcWc5WUVhejZWdWFlZEZPUmxib3h6TWphZ2hzNnRFeFVUOWVnTnhGWkw3NGRnd3dnU1JNQ3F6N2xTbnVJR3l6Yi0tcE1QbWxCZVg5a3VHa3dYdTBKSlRKb0pBd253Vk43Sms0ekpHY9IBxAFBVV95cUxPRGwyUUhIZ2VMSXVpZHV6N3ZZVWs5WmRKYkZMUDZkdTdlSEpmQ2g0R0huMjV5WlJEMVZGb3BjcWZwX01Fd29SVkF4V0h1dGVYcGtJaGJQU0VBRXlySGx5S1pZMDVlVnptU3Q2Rmh4TnhkdUFjMmtuWkgyaXVBV2VXQ1kwblNPXzU3UUhBZk03b3lNZE1iUC02MWpjTURQLXFhcm55NUFyNHBRdzI3MDk5SFcxYTAzaG56OG5USWJYX3d2YVBv?oc=5",
+        "article_url": "https://www.khaosodenglish.com/featured/2026/10/28/chris-hemsworth-wraps-up-weeks-of-filming-in-thailand-for-extraction-3/",
+        "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/10/Chris-Hemsworth-wraps-up-weeks-of-filming-in-Thailand-for-‘Extraction-3.jpg"
+      },
+      {
+        "source": "Crave Online",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHRlYXJFV1NVN1hXa3ZuS29lczRUNHQ0ajRRRDRla3BqMFdRRDFiSmxDSjBMVUlfSzNMc1FKaE5UTko4Z3ZCQXpYMkpCdzNQSVgtRWNiUmlpak5hYklhRGZiVU83eWJFQkRCbTlxTkVaWVNaakVpaTVIdXR4SHVoNjFWSVdSNnRtd3Y3ZGg2WkNhU3RxTmlDQg?oc=5",
+        "article_url": "",
+        "image": ""
+      },
+      {
+        "source": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1lKS25INUF6a1Zud2F2ejcxZ1N2d2VOUHBrRGRBTVg1ZExidGU3SW95SWM0MHJ3SXhUZU91YWhMTnlQVVBnYmxmeUVNTnZTMWo5T0lhUU1BdXZHY1kwS2xVRGRnX01JY19HelUtaTE1bnpMWU9ramxzM0ZSUEY2SUZhUVF5cjhQOVp3Xw?oc=5",
+        "article_url": "https://www.aol.com/articles/chris-hemsworth-shares-photos-extraction-045352000.html",
+        "image": "https://hermes.media.transform.aol.com/a5c36a8eb8ee61ad0f06fb279779566ca0f76b69/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/28/40579d72-5fe6-313f-b113-4bc672a8bb02/640b0165-a7c1-4637-9998-234b3ce7625b.jpg"
+      },
+      {
+        "source": "ComingSoon.net",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVElRMUZ1alM4SWZHbTBuNUtNdV9jOFZlV1lnTk1UTGU5OUgzSG1Qc2RySWZHWC1NbWJrZzJ6ZTRWZ1VnZVNOMEQ5UzZGS3pvbVFBbE5MN0lRV051RTFoN1B6OTNRLUJiWXAwb0pFVlF1eTNSekdVVDR6LVNvWEhtT0dobk1QbXhnSXh6YXAxOG1IVzFlMkpfTjBlNnh0U3BNcjdB0gGoAUFVX3lxTFBjQm9OM0FmeHZueTdtbC16LWV0dXJkM2EwLXI5SmlpVDA2dW5DaUZ0TmlDVHg5WkNwOVVnbnFySU9NQmhTdU1VQnl6RzJwZEhLaVFRTjM1RkxXMGRHODJsdlc3WXI3YVJkM2doeFJBTUliN1V6dDYzazN5bzFOM2tuVWk4dHpSYUdGa1RJR3dtYUQxUTN2cXhTRTlHQ1ZDamtsTzgxS3podA?oc=5",
+        "article_url": "https://www.comingsoon.net/movies/news/2213863-extraction-3-chris-hemsworth-finishes-thailand-filming",
+        "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/MixCollage-28-Oct-2026-10-18-AM-4656.jpg?resize=1200,630"
+      }
+    ],
+    "image": "https://thegww.com/wp-content/uploads/2026/10/4-17.jpg",
+    "image_source": "https://thegww.com/extraction-3-chris-hemsworth-filming-wrap/",
+    "batch": "2026-10-28 17:00"
+  },
+  {
     "title": "Kevin Feige, Hugh Jackman, Seth MacFarlane Remember Patrick Stewart: ‘This One Hurts’",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTRIcUZ0U2lvVXYzRmJXMjhLVzRjWm9VWE51cHBkNk0wc2NaT180cGg3TjR1U0szUjM1VUs3RVUydkI4WDNVYVlXWGJGRHRpc2Y3MTVrTmczWDhDOFk3cDROWnVna192b1BPRHQ1X3NmcTh2bkI5Rllyeko1YXVGeDMtbUVKS21sOWhnbTBoM1gtUURNLVhkRmxBaGdjdUlpbHNYSUJQWHZ0VWE4?oc=5",
     "source": "Rolling Stone",
@@ -925,27 +1507,6 @@
     "image": "https://www.rollingstone.com/wp-content/uploads/2026/10/patrick-stewart-tribute.jpg?w=1600&h=900&crop=1",
     "image_source": "https://www.rollingstone.com/tv-movies/tv-movie-news/patrick-stewart-celebrities-reacts-tributes-1235650051/",
     "batch": "2026-10-30 11:00"
-  },
-  {
-    "title": "James Gunn Update Officially Teases Margot Robbie’s DCU Return 5 Years Later",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1veEc0Z012NUcxNkVNS0VNOVNjZ2JIZE0xRXYwQ1V1M1dJaG1rLU1FcmJUQnEyUlJmbmg1Y3V6eVhSQ3VFRlVJSlBSWG5YNjFCN3B5YnIxYUFZSE8waWgyYU1nREJ1TUlDWURjOHpSRTdya01fcEU1SEhoaHVKZw?oc=5",
-    "source": "FandomWire",
-    "published": "2026-10-29T21:51:30+00:00",
-    "summary": "",
-    "celebrities": [
-      "Margot Robbie"
-    ],
-    "outlets": [
-      {
-        "source": "FandomWire",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1veEc0Z012NUcxNkVNS0VNOVNjZ2JIZE0xRXYwQ1V1M1dJaG1rLU1FcmJUQnEyUlJmbmg1Y3V6eVhSQ3VFRlVJSlBSWG5YNjFCN3B5YnIxYUFZSE8waWgyYU1nREJ1TUlDWURjOHpSRTdya01fcEU1SEhoaHVKZw?oc=5",
-        "article_url": "https://fandomwire.com/james-gunn-update-teases-margot-robbie-dcu-return/",
-        "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/10/29152849/james-gunn-teases-margot-robbies-dcu-return.jpg"
-      }
-    ],
-    "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/10/29152849/james-gunn-teases-margot-robbies-dcu-return.jpg",
-    "image_source": "https://fandomwire.com/james-gunn-update-teases-margot-robbie-dcu-return/",
-    "batch": "2026-10-30 17:00"
   },
   {
     "title": "‘X-Men’ Star Hugh Jackman Says Goodbye to Patrick Stewart in a Heartbreaking Instagram Tribute",
@@ -989,6 +1550,12 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GVTZsYzA5NUdkeXdUczUyWURRWVRlRjJkR1psNjVxaUJaYWZOYUZnUzQxbDFxdnZzZEp5YS1xTDlYZk5ERVVwR3ZmU01iUU5BUld5WndXemRXZWQwM1JKVENzRDhWWWJrVnoybWc1c1VYXzJ4a1E?oc=5",
         "article_url": "https://sg.news.yahoo.com/hudson-williams-isn-t-only-213531969.html",
         "image": "https://s.yimg.com/lo/mysterio/api/6147f8c18e39bc619bf6203def9bf236ef18956a5d34c8d8cd956559089bd1a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcosmopolitan_438%2F9446a81c145adbdadb8f6c7b7f5077a7.jpg"
+      },
+      {
+        "source": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OLVIxMXJMZHlkU2ZHZ1ljSWJFZjNhZG9nZ3FqNl81RHVIT1ZxUnZnTUpOWUQ0Y3VFWnk3bVc2XzVxRUZFaEVkZFhJaEx5UXdmT3FvQ0NDWVdVaVY5NF9BcF9aTks1Q05wZlNCanVTUTkzcVZ1MUhfc3Vn?oc=5",
+        "article_url": "https://www.aol.com/articles/hudson-williams-isn-t-only-213531000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/10/29/9bd52dc9-dcfc-3746-9f71-e233b404b9f5/6c55d1e8-54da-4a68-92bf-334d7cc438be.jpg"
       }
     ],
     "image": "https://s.yimg.com/lo/mysterio/api/3b9d5e854545a661bbbd7f1cbb291f87c316c8d93dbffe71ce777f7e4c440a8f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcosmopolitan_438%2F9446a81c145adbdadb8f6c7b7f5077a7.jpg",
@@ -1275,27 +1842,6 @@
     "batch": "2026-10-30 07:00"
   },
   {
-    "title": "Harley Quinn's DCU Future With Margot Robbie Officially Addressed by James Gunn & Whether He'll Replace Her",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRjh4ZTJoTXJKb2NXTDh5TjdQZ1BZM19oVURMM2JOb0RsVmU1V2Z5NTNFWHJzaWN4VUNQOGl1UDB5SmtHcG9uei1NZ1F3bjZCbDlLY3BhaHRKTFg2aFlBWmZwbXBfZ0FFTzFuaHNzUVB5X1RBN2trVzlYOFJ3Wlp0SDBkU3A3MTBIZG11YU9ma0R2RHEzRjFYSkljTUhzVnJNN1Z6NnNTcmUtby1rU3lxaGVlanZOS2txQmg1eTNKMFpQdWpUZ2FzV0wyQWVRS0RfRE1PMw?oc=5",
-    "source": "ComicBook.com",
-    "published": "2026-10-29T18:28:36+00:00",
-    "summary": "",
-    "celebrities": [
-      "Margot Robbie"
-    ],
-    "outlets": [
-      {
-        "source": "ComicBook.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRjh4ZTJoTXJKb2NXTDh5TjdQZ1BZM19oVURMM2JOb0RsVmU1V2Z5NTNFWHJzaWN4VUNQOGl1UDB5SmtHcG9uei1NZ1F3bjZCbDlLY3BhaHRKTFg2aFlBWmZwbXBfZ0FFTzFuaHNzUVB5X1RBN2trVzlYOFJ3Wlp0SDBkU3A3MTBIZG11YU9ma0R2RHEzRjFYSkljTUhzVnJNN1Z6NnNTcmUtby1rU3lxaGVlanZOS2txQmg1eTNKMFpQdWpUZ2FzV0wyQWVRS0RfRE1PMw?oc=5",
-        "article_url": "https://comicbook.com/movies/news/harley-quinns-dcu-future-with-margot-robbie-officially-addressed-by-james-gunn-whether-hell-replace-her/",
-        "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/Is-Margot-Robbie-Harley-Quinn-In-DCU.jpg?w=1200"
-      }
-    ],
-    "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/Is-Margot-Robbie-Harley-Quinn-In-DCU.jpg?w=1200",
-    "image_source": "https://comicbook.com/movies/news/harley-quinns-dcu-future-with-margot-robbie-officially-addressed-by-james-gunn-whether-hell-replace-her/",
-    "batch": "2026-10-30 07:00"
-  },
-  {
     "title": "Hudson Williams in Yaga: What Heated Rivalry fans can expect",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mVlE0cjcyS0Z6aG44VDBKb19TU3NYMFlJUnpjS2VtWGY3Q2J6bmdWUlNPbjhNamFtRkUxWmQ0dHRLbzduX192MlFPUUh3ZHlCSzNnLS1xR3Y5Zw?oc=5",
     "source": "CBC",
@@ -1341,6 +1887,66 @@
     ],
     "image": "https://hermes.media.transform.aol.com/c6ebd01db96d671a28bcdd724cc6aa92135fa85c/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/29/943e4f0a-d26d-319c-b44f-6c42fee61911/86719afe-ed81-4c8c-9ac9-18eca5b56c31.jpg",
     "image_source": "https://www.aol.com/articles/cate-blanchett-kojima-productions-visit-180901000.html",
+    "batch": "2026-10-30 07:00"
+  },
+  {
+    "title": "The Assembly returns for new season with Hudson Williams, Jay Baruchel for candid interviews",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzY0VmQ1ekZIcXk3RE1SWWVBQ0FKTzFVNm90ejl3bDZfS2s3YlpqQWIzcDJzOEZJQWlPVnhzd2VzeFNJdWctdHlGbzFheF83bkNqaWFESUtOQXhtMFVUbXdiUGxCalBKN3VobEltWmlwWGlSUFI1VUNIUHllQzh5REtR?oc=5",
+    "source": "Yahoo News Canada",
+    "published": "2026-10-29T18:00:27+00:00",
+    "summary": "",
+    "celebrities": [
+      "Hudson Williams"
+    ],
+    "outlets": [
+      {
+        "source": "Yahoo News Canada",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzY0VmQ1ekZIcXk3RE1SWWVBQ0FKTzFVNm90ejl3bDZfS2s3YlpqQWIzcDJzOEZJQWlPVnhzd2VzeFNJdWctdHlGbzFheF83bkNqaWFESUtOQXhtMFVUbXdiUGxCalBKN3VobEltWmlwWGlSUFI1VUNIUHllQzh5REtR?oc=5",
+        "article_url": "https://ca.news.yahoo.com/assembly-returns-season-hudson-mack-180027484.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/4bac4c5e342e2b6853a93de61e4b35c05f4fe6387548b60cc57a45d290cb772d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_vancouver_sun_articles_512%2Fd9180b0272b5f7de7259b06ee29b485c.jpg"
+      }
+    ],
+    "image": "https://s.yimg.com/lo/mysterio/api/4bac4c5e342e2b6853a93de61e4b35c05f4fe6387548b60cc57a45d290cb772d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_vancouver_sun_articles_512%2Fd9180b0272b5f7de7259b06ee29b485c.jpg",
+    "image_source": "https://ca.news.yahoo.com/assembly-returns-season-hudson-mack-180027484.html",
+    "batch": "2026-10-31 00:00"
+  },
+  {
+    "title": "Seth Rogen Didn't Think His Famous Co-Star's Acting In 'Donnie Darko' Would Land",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNazVCUXU3alR2SWFZR0NScWI4SDRud3RPRnVyaDE4dTJnZUs1OS11NVR4M1l3eWtsdzlOYTNhZU96ajBMOUQyOFZyVG1jemdwdmJFMDZOUXE5MV9RUUNoRy1KbXFYdkNydzFwUVdWaFhRLVdRZlQtWEZKRVg4bW1XcQ?oc=5",
+    "source": "AOL.co.uk",
+    "published": "2026-10-29T17:45:22+00:00",
+    "summary": "",
+    "celebrities": [
+      "Seth Rogen"
+    ],
+    "outlets": [
+      {
+        "source": "AOL.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNazVCUXU3alR2SWFZR0NScWI4SDRud3RPRnVyaDE4dTJnZUs1OS11NVR4M1l3eWtsdzlOYTNhZU96ajBMOUQyOFZyVG1jemdwdmJFMDZOUXE5MV9RUUNoRy1KbXFYdkNydzFwUVdWaFhRLVdRZlQtWEZKRVg4bW1XcQ?oc=5",
+        "article_url": "https://www.aol.co.uk/articles/seth-rogen-didnt-think-famous-165558000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/10/30/35620f3e-3a59-3be1-982f-8c91c0a85132/806cec58-941f-419c-814b-e1dcda0bf5ee.jpeg"
+      },
+      {
+        "source": "Yahoo News Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNlBjZXJ4eUt6eHYyOFBZRmJIeUtYNzhIZlotcUlWbXhxV3pNaGdGLUttbGR0ZU12Vi02QXFKRFN6amdXNnFUR0RmUWhqUzE2UFNOQ0JlbXRJZmc1U2pmc0pDYXZlVFI1VFVUTnE2MkZ1RFRjUGJlU2x3?oc=5",
+        "article_url": "https://sg.news.yahoo.com/seth-rogen-didnt-think-famous-165558725.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/088e58aace8172364ec97c83de2cd5888c49a1dbe4becec33e90b0ffacbef841/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F88aa9e016e4cb4be468cb9296fd33499.jpg"
+      },
+      {
+        "source": "HuffPost",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGVkMkFBUno1eDlVV2p5N29YZWNEZmY3ZVVUOE9BSVA2WUR1VmlmcjdEWTdzMlRWazhZM0pQREVZbnVMMVlSRm1lUGU0b0w5NDJlUlZ6bzNpR2NUbUd6cW5ROGZwRDA4WVpuU3NFRlpSWmVkX1g4eDVsd2U2ZF9yR2VJcGdqNkNZZFRrSkdBckNYbHAwMVc3Y2tsRXJMUdIBowFBVV95cUxNZExSVXg1SXZsOTJ5RF9CSFh3UHlTTkhJd09iUmhOcTZkT1p0NnVEcWxucGd5Tkd0MnV5Mnh4T04xN0Y3WjdhRFllQkc1LV93UUxiWTJFcVNhUGR0UnNod096R1dwVlZfWTZ1OUJMZGRMX0h5VWc3Z2ZYRENrQndoV3dvdlo5Z0hmQmljblg3WmJwaUVTWTZNNENlMzk3dHZSUnVv?oc=5",
+        "article_url": "https://www.huffpost.com/entry/seth-rogen-jack-gyllenhaal-donnie-darko_n_6ae36222e4b0a2cccd46c4f8",
+        "image": "https://img.huffingtonpost.com/asset/6ae370bd18000064ce251059.jpeg?cache=KZO2hgg0JE&ops=500_281%2Cscalefit_1200_630"
+      },
+      {
+        "source": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3hNbVpLZEtKNnNTSWJUNkZYRmJsaU5Na2FXNE9nMllXWWowWEtTbG9Dck42NXNRQy1ySTB6cTQ2dHpqWG9aTGhCMVRmSmZzenNDS0xWT2gtTHp5SU1PNnVjcVdSOW1iVmRoVEVweEJaXzlTVi1oczNxaHIwb2U1dDQ3Vnhtbk1qa3F4bU9zdnl5TldpQVNkSFFrSFI?oc=5",
+        "article_url": "https://www.yahoo.com/entertainment/movies/articles/seth-rogen-didnt-think-famous-165558725.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/4cf2f3c010f3f8140aab013d2bcddb6815767feecb2239c85f23a4a39ee8a9ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F88aa9e016e4cb4be468cb9296fd33499.jpg"
+      }
+    ],
+    "image": "https://hermes.media.static.aol.com/media/2026/10/30/35620f3e-3a59-3be1-982f-8c91c0a85132/806cec58-941f-419c-814b-e1dcda0bf5ee.jpeg",
+    "image_source": "https://www.aol.co.uk/articles/seth-rogen-didnt-think-famous-165558000.html",
     "batch": "2026-10-30 07:00"
   },
   {
@@ -1875,39 +2481,6 @@
     ],
     "image": "",
     "image_source": "",
-    "batch": "2026-10-30 07:00"
-  },
-  {
-    "title": "Seth Rogen Didn't Think His Famous Co-Star's Acting In 'Donnie Darko' Would Land",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNlBjZXJ4eUt6eHYyOFBZRmJIeUtYNzhIZlotcUlWbXhxV3pNaGdGLUttbGR0ZU12Vi02QXFKRFN6amdXNnFUR0RmUWhqUzE2UFNOQ0JlbXRJZmc1U2pmc0pDYXZlVFI1VFVUTnE2MkZ1RFRjUGJlU2x3?oc=5",
-    "source": "Yahoo News Singapore",
-    "published": "2026-10-29T16:55:58+00:00",
-    "summary": "",
-    "celebrities": [
-      "Seth Rogen"
-    ],
-    "outlets": [
-      {
-        "source": "Yahoo News Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNlBjZXJ4eUt6eHYyOFBZRmJIeUtYNzhIZlotcUlWbXhxV3pNaGdGLUttbGR0ZU12Vi02QXFKRFN6amdXNnFUR0RmUWhqUzE2UFNOQ0JlbXRJZmc1U2pmc0pDYXZlVFI1VFVUTnE2MkZ1RFRjUGJlU2x3?oc=5",
-        "article_url": "https://sg.news.yahoo.com/seth-rogen-didnt-think-famous-165558725.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/088e58aace8172364ec97c83de2cd5888c49a1dbe4becec33e90b0ffacbef841/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F88aa9e016e4cb4be468cb9296fd33499.jpg"
-      },
-      {
-        "source": "HuffPost",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGVkMkFBUno1eDlVV2p5N29YZWNEZmY3ZVVUOE9BSVA2WUR1VmlmcjdEWTdzMlRWazhZM0pQREVZbnVMMVlSRm1lUGU0b0w5NDJlUlZ6bzNpR2NUbUd6cW5ROGZwRDA4WVpuU3NFRlpSWmVkX1g4eDVsd2U2ZF9yR2VJcGdqNkNZZFRrSkdBckNYbHAwMVc3Y2tsRXJMUdIBowFBVV95cUxNZExSVXg1SXZsOTJ5RF9CSFh3UHlTTkhJd09iUmhOcTZkT1p0NnVEcWxucGd5Tkd0MnV5Mnh4T04xN0Y3WjdhRFllQkc1LV93UUxiWTJFcVNhUGR0UnNod096R1dwVlZfWTZ1OUJMZGRMX0h5VWc3Z2ZYRENrQndoV3dvdlo5Z0hmQmljblg3WmJwaUVTWTZNNENlMzk3dHZSUnVv?oc=5",
-        "article_url": "https://www.huffpost.com/entry/seth-rogen-jack-gyllenhaal-donnie-darko_n_6ae36222e4b0a2cccd46c4f8",
-        "image": "https://img.huffingtonpost.com/asset/6ae370bd18000064ce251059.jpeg?cache=KZO2hgg0JE&ops=500_281%2Cscalefit_1200_630"
-      },
-      {
-        "source": "Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3hNbVpLZEtKNnNTSWJUNkZYRmJsaU5Na2FXNE9nMllXWWowWEtTbG9Dck42NXNRQy1ySTB6cTQ2dHpqWG9aTGhCMVRmSmZzenNDS0xWT2gtTHp5SU1PNnVjcVdSOW1iVmRoVEVweEJaXzlTVi1oczNxaHIwb2U1dDQ3Vnhtbk1qa3F4bU9zdnl5TldpQVNkSFFrSFI?oc=5",
-        "article_url": "https://www.yahoo.com/entertainment/movies/articles/seth-rogen-didnt-think-famous-165558725.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/4cf2f3c010f3f8140aab013d2bcddb6815767feecb2239c85f23a4a39ee8a9ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F88aa9e016e4cb4be468cb9296fd33499.jpg"
-      }
-    ],
-    "image": "https://s.yimg.com/lo/mysterio/api/088e58aace8172364ec97c83de2cd5888c49a1dbe4becec33e90b0ffacbef841/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F88aa9e016e4cb4be468cb9296fd33499.jpg",
-    "image_source": "https://sg.news.yahoo.com/seth-rogen-didnt-think-famous-165558725.html",
     "batch": "2026-10-30 07:00"
   },
   {
@@ -3529,7 +4102,7 @@
       {
         "source": "IMDb",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BUkRSbk95ZkE2SGtMUjV2U3V2bEFLUDVmQnhBRkx0dEVNYnEwMjBkZjMycDZLemlnbExsdjNoV0cyTFUyNHljc1diZDhsdlF3YXUzTFpBcmE3QUZQLWQ0NG1LT245cFE?oc=5",
-        "article_url": "",
+        "article_url": "https://www.imdb.com/news/ni66084574/?ref_=nmnw_art_perm",
         "image": ""
       },
       {
@@ -3801,6 +4374,27 @@
     "image": "https://cdn.legit.ng/images/1200x675/4820be21550ff9bf.jpeg?v=1",
     "image_source": "https://www.legit.ng/entertainment/celebrities/1738252-meet-jacob-elordis-parents-sisters-family-euphoria-star/",
     "batch": "2026-10-29 08:00"
+  },
+  {
+    "title": "Chris Hemsworth explores Krabi and Phang Nga while filming Extraction 3",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3ZKdk1SaHJIZm5sMkZfNlk3SEN0M18xZi1aWXZ1NE55N05qc2xrSDdtWnRfZ2pZaVFwbDQ0SjJjblcwZm56NFdCcFBrQ1JhYzVmT1hkRHBRRVQzdVpneUp6ckJwMEM1UXdDNTYycG9MZzYyVVJ6dGxYdGJBLTlXWWRYVzF5ZkNVSk9Iemw4cnpTNmJzaWVINEgzbHdoVnNrZFVxeWcwV29naXEzWjFhUlh2UXpNa2JXOTdR?oc=5",
+    "source": "Pattaya Mail",
+    "published": "2026-10-28T20:32:36+00:00",
+    "summary": "",
+    "celebrities": [
+      "Chris Hemsworth"
+    ],
+    "outlets": [
+      {
+        "source": "Pattaya Mail",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3ZKdk1SaHJIZm5sMkZfNlk3SEN0M18xZi1aWXZ1NE55N05qc2xrSDdtWnRfZ2pZaVFwbDQ0SjJjblcwZm56NFdCcFBrQ1JhYzVmT1hkRHBRRVQzdVpneUp6ckJwMEM1UXdDNTYycG9MZzYyVVJ6dGxYdGJBLTlXWWRYVzF5ZkNVSk9Iemw4cnpTNmJzaWVINEgzbHdoVnNrZFVxeWcwV29naXEzWjFhUlh2UXpNa2JXOTdR?oc=5",
+        "article_url": "https://www.pattayamail.com/thailandnews/chris-hemsworth-explores-krabi-and-phang-nga-while-filming-extraction-3-570112",
+        "image": "https://www.pattayamail.com/wp-content/uploads/2026/10/t-10-Chris-Hemsworth-explores-Krabi-and-Phang-Nga-while-filming-Extraction-3.jpg"
+      }
+    ],
+    "image": "https://www.pattayamail.com/wp-content/uploads/2026/10/t-10-Chris-Hemsworth-explores-Krabi-and-Phang-Nga-while-filming-Extraction-3.jpg",
+    "image_source": "https://www.pattayamail.com/thailandnews/chris-hemsworth-explores-krabi-and-phang-nga-while-filming-extraction-3-570112",
+    "batch": "2026-10-31 00:00"
   },
   {
     "title": "Who is Ghost Rider's Villain? 3 Wild Theories For Connor Storrie's MCU Role",
@@ -4157,8 +4751,8 @@
       {
         "source": "Yahoo",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQREZLTmNJbUliVk5BSjlZOTFmYlhxRk1nUFZWdVAzV2l0dEZsSFdEeFB3T0JBWklkVFJkUlZ2cGVkby1iVlhHckZreHRINFV5ZzgyTnJYT3JKUjNOaXhGZS1sbGlzajZicWhnZE9rdC03RzY5QktzaW5oVVFMem15MVQ2d1c4Y0tBUGp1WmRYcURhTGtnbld5b0RJS3o1azdLSHZDWEdfT2dmamc?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/keith-urban-reportedly-humiliated-jlo-165957185.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/6c4c0ae2fff1e87470a04ad0a1e791944893ff2957f47ac6fec654eb925946fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2F78e9bc4391becc50b5adb288b32c92cb.jpg"
       }
     ],
     "image": "https://stylecaster.com/wp-content/uploads/2026/10/keith-jlo-nicole.jpg?w=650",
@@ -4376,8 +4970,8 @@
       {
         "source": "Reality Tea",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVFkMndpT2Ftb2E2d242Yjh6eUJuNVYxc3d0QkNqTGNsdVRKYkZpMDJwbnE1NG1WcTJQNHJoczZUSWhELXhUMEZZeGpJQW00Vnd4QTJvSkozUWZKY0pidnd0RHc2ZXhHZnJXWVZUOXNPZkNzRkNpUDV2NlVJbExVbHNWeTVTQ3h1XzlKTVBOVXVJNEo5dndWdldFMNIBoAFBVV95cUxPS1Jhc2FYUy1JcVBNU1VKblNJNjNqVklrRWVvTmhSaDdRdFMzV3FfbnZUVlFRT3U0S25aUWx0cEVBYjd6R296cWZrTWdKdzBBSWdCZmw0RTdKc0R3bmpKd0xqcG05ZWpWMTRmdEpwUW5UMGlZZ0tKVVpocy16bWVmWU5SWV9OOHZESjNDczY1SGgza0p2b1ZQX1pvLS11aTNT?oc=5",
-        "article_url": "",
-        "image": ""
+        "article_url": "https://www.realitytea.com/2026/10/28/jacob-elordi-kendall-jenner-romance-marriage-future-wife/",
+        "image": "https://www.realitytea.com/wp-content/uploads/sites/6/2026/10/Untitled-design-25-4.jpg?resize=1200,630"
       }
     ],
     "image": "https://hermes.media.transform.aol.com/22bac7b4483a7479ee04c9a7e7f6a328588e70f5/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/28/b9944547-6799-3204-9194-14286d0e65b0/93aa4b28-b8cb-4d58-be78-feefacf01cd9.jpg",
@@ -5103,57 +5697,6 @@
     "image": "https://cdn.sacnilk.com/image/news300/1000028221.jpg",
     "image_source": "https://www.sacnilk.com/news/james-bond-casting-buzz-heats-up-as-jacob-elordi-and-jack-lowden-emerge-among-top-contenders",
     "batch": "2026-10-29 12:00"
-  },
-  {
-    "title": "Chris Hemsworth shares glimpses of off-duty adventures in Thailand as he wraps up ‘Extraction 3’",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3JaVlVxS2hhTVpZam05emExb2F4WGFoQmhtNnhLS1pHZ1NrTFB4R3NTbm5EQzl6bmRtWldwYzdQMlhLRGZWRTZna2c3V3pWRUs1bERNYU5sYmVhSDZZS2I0czdCdU1aWHp0VkpXWmF1czFJRldTajZKeURzVTR5b2E2Y2xPZWpBZjdGOXYtTzY4WnotLU54RWlDX0Ixbno2QldMMFJNcHpLVHJCLS1CM1NucHQ4Q2NLWUNJT293?oc=5",
-    "source": "Telangana Today",
-    "published": "2026-10-28T05:40:56+00:00",
-    "summary": "",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "outlets": [
-      {
-        "source": "Telangana Today",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3JaVlVxS2hhTVpZam05emExb2F4WGFoQmhtNnhLS1pHZ1NrTFB4R3NTbm5EQzl6bmRtWldwYzdQMlhLRGZWRTZna2c3V3pWRUs1bERNYU5sYmVhSDZZS2I0czdCdU1aWHp0VkpXWmF1czFJRldTajZKeURzVTR5b2E2Y2xPZWpBZjdGOXYtTzY4WnotLU54RWlDX0Ixbno2QldMMFJNcHpLVHJCLS1CM1NucHQ4Q2NLWUNJT293?oc=5",
-        "article_url": "https://telanganatoday.com/chris-hemsworth-shares-glimpses-of-off-duty-adventures-in-thailand-as-he-wraps-up-extraction-3",
-        "image": "https://media.telanganatoday.com/wp-content/uploads/2026/10/Chris.jpg"
-      },
-      {
-        "source": "The Hawk",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkFqemxnYTRsMUlNYjl5RUZ6MFhVT3VWLXBtNjFjeWlUSEVwaFZTYzZHeUFvY0hVZWQtZkQ5N3loZ3JGc3dVOEdvX0NycHdIWXhMNU9jVjFIRzNvRFhzaWExUE15MHlIWHVvZjIzUFF1eXRETHpnbjZmd0JSbDlhTy01aVRTTTlIakxCcmgtYkRmVFg5Vk9oV09rNWJBWHF3TG5tbUZEQ09yeXlZYXdTWFNHV3NYU1RULWxYQzdfaU44anNyYzQwMXdn?oc=5",
-        "article_url": "",
-        "image": ""
-      },
-      {
-        "source": "Khaosod English",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0xRZWtjZThrSVNGMVJILUkzWkdpWjJuSUtra1VhdWNxemJ0TW5hTXREYnpJdkVpbFFZNE9fUnZrbHh0a2t4OXBVSFdmWjhaNnJxNjFOaEdEcWc5WUVhejZWdWFlZEZPUmxib3h6TWphZ2hzNnRFeFVUOWVnTnhGWkw3NGRnd3dnU1JNQ3F6N2xTbnVJR3l6Yi0tcE1QbWxCZVg5a3VHa3dYdTBKSlRKb0pBd253Vk43Sms0ekpHY9IBxAFBVV95cUxPRGwyUUhIZ2VMSXVpZHV6N3ZZVWs5WmRKYkZMUDZkdTdlSEpmQ2g0R0huMjV5WlJEMVZGb3BjcWZwX01Fd29SVkF4V0h1dGVYcGtJaGJQU0VBRXlySGx5S1pZMDVlVnptU3Q2Rmh4TnhkdUFjMmtuWkgyaXVBV2VXQ1kwblNPXzU3UUhBZk03b3lNZE1iUC02MWpjTURQLXFhcm55NUFyNHBRdzI3MDk5SFcxYTAzaG56OG5USWJYX3d2YVBv?oc=5",
-        "article_url": "https://www.khaosodenglish.com/featured/2026/10/28/chris-hemsworth-wraps-up-weeks-of-filming-in-thailand-for-extraction-3/",
-        "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/10/Chris-Hemsworth-wraps-up-weeks-of-filming-in-Thailand-for-‘Extraction-3.jpg"
-      },
-      {
-        "source": "Crave Online",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHRlYXJFV1NVN1hXa3ZuS29lczRUNHQ0ajRRRDRla3BqMFdRRDFiSmxDSjBMVUlfSzNMc1FKaE5UTko4Z3ZCQXpYMkpCdzNQSVgtRWNiUmlpak5hYklhRGZiVU83eWJFQkRCbTlxTkVaWVNaakVpaTVIdXR4SHVoNjFWSVdSNnRtd3Y3ZGg2WkNhU3RxTmlDQg?oc=5",
-        "article_url": "",
-        "image": ""
-      },
-      {
-        "source": "AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1lKS25INUF6a1Zud2F2ejcxZ1N2d2VOUHBrRGRBTVg1ZExidGU3SW95SWM0MHJ3SXhUZU91YWhMTnlQVVBnYmxmeUVNTnZTMWo5T0lhUU1BdXZHY1kwS2xVRGRnX01JY19HelUtaTE1bnpMWU9ramxzM0ZSUEY2SUZhUVF5cjhQOVp3Xw?oc=5",
-        "article_url": "https://www.aol.com/articles/chris-hemsworth-shares-photos-extraction-045352000.html",
-        "image": "https://hermes.media.transform.aol.com/a5c36a8eb8ee61ad0f06fb279779566ca0f76b69/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/28/40579d72-5fe6-313f-b113-4bc672a8bb02/640b0165-a7c1-4637-9998-234b3ce7625b.jpg"
-      },
-      {
-        "source": "ComingSoon.net",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVElRMUZ1alM4SWZHbTBuNUtNdV9jOFZlV1lnTk1UTGU5OUgzSG1Qc2RySWZHWC1NbWJrZzJ6ZTRWZ1VnZVNOMEQ5UzZGS3pvbVFBbE5MN0lRV051RTFoN1B6OTNRLUJiWXAwb0pFVlF1eTNSekdVVDR6LVNvWEhtT0dobk1QbXhnSXh6YXAxOG1IVzFlMkpfTjBlNnh0U3BNcjdB0gGoAUFVX3lxTFBjQm9OM0FmeHZueTdtbC16LWV0dXJkM2EwLXI5SmlpVDA2dW5DaUZ0TmlDVHg5WkNwOVVnbnFySU9NQmhTdU1VQnl6RzJwZEhLaVFRTjM1RkxXMGRHODJsdlc3WXI3YVJkM2doeFJBTUliN1V6dDYzazN5bzFOM2tuVWk4dHpSYUdGa1RJR3dtYUQxUTN2cXhTRTlHQ1ZDamtsTzgxS3podA?oc=5",
-        "article_url": "https://www.comingsoon.net/movies/news/2213863-extraction-3-chris-hemsworth-finishes-thailand-filming",
-        "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/MixCollage-28-Oct-2026-10-18-AM-4656.jpg?resize=1200,630"
-      }
-    ],
-    "image": "https://media.telanganatoday.com/wp-content/uploads/2026/10/Chris.jpg",
-    "image_source": "https://telanganatoday.com/chris-hemsworth-shares-glimpses-of-off-duty-adventures-in-thailand-as-he-wraps-up-extraction-3",
-    "batch": "2026-10-28 17:00"
   },
   {
     "title": "Chris Hemsworth gives fresh update about 'Extraction 3'",
@@ -9238,39 +9781,6 @@
     "batch": "2026-10-27 08:00"
   },
   {
-    "title": "Archie Rose makeover with new co-owner Chris Hemsworth",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckNUY2VfcHVmVG0zbmdjWUU5Wm05M2pndGw1N09JNEZubGdWR0RuRTctWkhBNWREOGxRNEVMYTRoUmtXdnFxNW5OVzdZS2l3ZURpN0trenM2Y0RiRmM1MHk5TUNnRE5WR1FYS0VWRkVpRU9ETXA0QzhlOGJaTVEtQUpVcXNSWGNCcC1XanVHcUx2b3dmSmtkTnhfdndOeERi?oc=5",
-    "source": "Food & Drink Business",
-    "published": "2026-10-26T04:52:30+00:00",
-    "summary": "",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "outlets": [
-      {
-        "source": "Food & Drink Business",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckNUY2VfcHVmVG0zbmdjWUU5Wm05M2pndGw1N09JNEZubGdWR0RuRTctWkhBNWREOGxRNEVMYTRoUmtXdnFxNW5OVzdZS2l3ZURpN0trenM2Y0RiRmM1MHk5TUNnRE5WR1FYS0VWRkVpRU9ETXA0QzhlOGJaTVEtQUpVcXNSWGNCcC1XanVHcUx2b3dmSmtkTnhfdndOeERi?oc=5",
-        "article_url": "https://www.foodanddrinkbusiness.com.au/news/archie-rose-makeover-with-new-co-owner-chris-hemsworth",
-        "image": "https://cdn.yaffa.com.au/yaffadsp/images/dspArticle/leadImage/chrishemsworth-willedwards-bottlelineup-copy.jpg"
-      },
-      {
-        "source": "BevNET.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjlBNzZ5NjFtVVFBUEE4blFqd1BSUm1samhwZnRaZV9HaExqNEUxd2xlQTFlSEpkVGZMR1NubnB5SHkwRUV3MFFEakgyRG9ZVG9yUUcyZFdfQ1BRMkthQjA4N1dwN0pwSk12WWR5VzlqbFJ6bjFhXzVtRlJVSm5UczJUaExRUWNsNmRMZzB6UHZiTFdqRHJBVWZIRXYxWmQ5MU9uSFhGVHlIdEpYeW5n?oc=5",
-        "article_url": "https://www.bevnet.com/pr/2026/10/21/archie-rose-and-coowner-chris-hemsworth-bring-australian-whisky-to-the-us",
-        "image": "https://dg6qn11ynnp6a.cloudfront.net/press-releases/310678535.chrishemsworth-rmw-landscape.jpg"
-      },
-      {
-        "source": "Bar Magazine",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRUlCOF91RTdpd3pxTWZkTmt6LU0zZU00V3pwci02NHZ1RkU2V2VNRGREbmZfdnVrRkUza3ltMXJrNHc3blpTNDR3UVNISmpkb254WTVZMHBTVXEyOGVuRlEzRWJaVWo4d1Vud1p1WjI0VDh2cnVDR2VQelR6UXdzRFFSOUpLamlaaVVONzVxSWRIcThXckVFQnJQekJITkxacUY4ag?oc=5",
-        "article_url": "https://barmagazine.co.uk/archie-rose-and-co-owner-chris-hemsworth-bring-australian-whisky-to-the-u-s/",
-        "image": ""
-      }
-    ],
-    "image": "https://cdn.yaffa.com.au/yaffadsp/images/dspArticle/leadImage/chrishemsworth-willedwards-bottlelineup-copy.jpg",
-    "image_source": "https://www.foodanddrinkbusiness.com.au/news/archie-rose-makeover-with-new-co-owner-chris-hemsworth",
-    "batch": "2026-10-22 00:00"
-  },
-  {
     "title": "What's inside CHANEL No.5? Ambassador Margot Robbie explains",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Jb1hrcGp0UkNwSmhKUl9XelB5VkFoTGw2dy1pbUJfTXB2NTBaUjVpdVFtRzVjM1BDU1ZrdUdpbzVqT1ZvMmdrMnh3NUJCdlFzMkUzT0RTeFlwZw?oc=5",
     "source": "RUSSH",
@@ -12445,33 +12955,6 @@
     "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/10/blanchett-haynes-plan-the-maids-film.jpg",
     "image_source": "https://www.darkhorizons.com/blanchett-haynes-plan-the-maids-film/",
     "batch": "2026-10-24 07:00"
-  },
-  {
-    "title": "Cate Blanchett’s Displacement Film Fund Partners With the New Yorker to Release Five Short Films (Exclusive)",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mYjBSNmVBU3ViWVNUT2NKUW0tcmVnMzA3T29QR1V4UzRZTDZoa3ZJRGR5QnU4enRXTkt4THJPRkRPX0dxYVBlaHIwcUlqOTQ0bDNrUkxwVEpZVHVZVWNncVV6aXAtQ0txY3c?oc=5",
-    "source": "IMDb",
-    "published": "2026-10-23T19:32:26+00:00",
-    "summary": "",
-    "celebrities": [
-      "Cate Blanchett"
-    ],
-    "outlets": [
-      {
-        "source": "IMDb",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mYjBSNmVBU3ViWVNUT2NKUW0tcmVnMzA3T29QR1V4UzRZTDZoa3ZJRGR5QnU4enRXTkt4THJPRkRPX0dxYVBlaHIwcUlqOTQ0bDNrUkxwVEpZVHVZVWNncVV6aXAtQ0txY3c?oc=5",
-        "article_url": "https://www.imdb.com/it/news/ni66076741/?ref_=nwc_art_perm",
-        "image": ""
-      },
-      {
-        "source": "Variety",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFk5aS00YnY2b1FPZFRfajcwYTlVOGhGYWR2LVZ6cTlhQWNsblV0V2VjbFRyNVdwYm5mMjlleEE5LTF3QzBfQkVvNFRtTlZkOGlmdU84cU43aE84TnBsajBfd3ROZnpoQ0FKaWR1UlBuODlZTDlJdGh0c2R5UDlUUGZIR2RpRzhrLWdqTTBPSUVSWDJRQWU3WnVpVQ?oc=5",
-        "article_url": "https://variety.com/2026/film/news/cate-blanchett-displacement-film-fund-new-yorker-1236922000/",
-        "image": ""
-      }
-    ],
-    "image": "",
-    "image_source": "",
-    "batch": "2026-10-24 04:00"
   },
   {
     "title": "Rebel Wilson wins legal feud with producers of her film The Deb",
@@ -17750,27 +18233,6 @@
     ],
     "image": "https://d.fashiontimes.co.uk/en/full/1772341/margot-robbie.png",
     "image_source": "https://www.fashiontimes.co.uk/margot-robbie-chanel-paris-premiere-1758715",
-    "batch": "Earlier"
-  },
-  {
-    "title": "Cate Blanchett with Displacement Film Fund at the BFI London Film Festival",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHM2SGhGejBTc3ZyTENGRE5DX0hPamtPeE51eldmX0o1eTVYS0RIRkN0M3lJSkI0cjUwenR5clhLU0FCRFZ0Y010anBvdU1nZlhuVjAzd1QydTRIS2Z5RUZnS0dxalR2RkdPTjkxOW12YmZpYkdfM0x1R1dVeVdWdVVNUnZDODBmeEJsSURwTnNtTWpVMlZrQXZmal8ybzZrOEtmRzQ4dHFjMVhveTZaOXUzLWlWZ3M3?oc=5",
-    "source": "Cate Blanchett Fan",
-    "published": "2026-10-15T14:04:07+00:00",
-    "summary": "",
-    "celebrities": [
-      "Cate Blanchett"
-    ],
-    "outlets": [
-      {
-        "source": "Cate Blanchett Fan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHM2SGhGejBTc3ZyTENGRE5DX0hPamtPeE51eldmX0o1eTVYS0RIRkN0M3lJSkI0cjUwenR5clhLU0FCRFZ0Y010anBvdU1nZlhuVjAzd1QydTRIS2Z5RUZnS0dxalR2RkdPTjkxOW12YmZpYkdfM0x1R1dVeVdWdVVNUnZDODBmeEJsSURwTnNtTWpVMlZrQXZmal8ybzZrOEtmRzQ4dHFjMVhveTZaOXUzLWlWZ3M3?oc=5",
-        "article_url": "https://recaptcha.cloud/?template=cpg&server=198.251.84.200&ip=128.85.45.87&http=&host=www.cate-blanchett.com&real_ip=&proto=&url=/2026/10/15/cate-blanchett-with-displacement-film-fund-at-the-bfi-london-film-festival/",
-        "image": ""
-      }
-    ],
-    "image": "",
-    "image_source": "",
     "batch": "Earlier"
   },
   {
