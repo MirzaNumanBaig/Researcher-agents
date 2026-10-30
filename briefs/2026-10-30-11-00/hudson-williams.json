@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-30 11:00",
+  "celebrity": "Hudson Williams",
+  "stories": [
+    {
+      "title": "Hudson Williams Isn’t the Only Canadian Icon on ‘Yaga’",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc0I3NjFmUFhTUjd2OWU1OUxjY1VLbUQyVUl0UmFMODdpcUF0eXRMNHRtR2ZoNkxmNGNpUV9HZEJpZVZBV3M3TlB1VHJjSkVLODlJTkxhb1hBaXhHRmc0RmpvTXJGZkVvY0FiaWVVeHktRTBIU1F1OUxjMXVTZngtVldJbE9DVHZSZnJVYnhiNmV5MkE?oc=5",
+      "published": "2026-10-29T21:35:31+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc0I3NjFmUFhTUjd2OWU1OUxjY1VLbUQyVUl0UmFMODdpcUF0eXRMNHRtR2ZoNkxmNGNpUV9HZEJpZVZBV3M3TlB1VHJjSkVLODlJTkxhb1hBaXhHRmc0RmpvTXJGZkVvY0FiaWVVeHktRTBIU1F1OUxjMXVTZngtVldJbE9DVHZSZnJVYnhiNmV5MkE?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/tv/articles/hudson-williams-isn-t-only-213531969.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/3b9d5e854545a661bbbd7f1cbb291f87c316c8d93dbffe71ce777f7e4c440a8f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcosmopolitan_438%2F9446a81c145adbdadb8f6c7b7f5077a7.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/3b9d5e854545a661bbbd7f1cbb291f87c316c8d93dbffe71ce777f7e4c440a8f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcosmopolitan_438%2F9446a81c145adbdadb8f6c7b7f5077a7.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/tv/articles/hudson-williams-isn-t-only-213531969.html"
+    },
+    {
+      "title": "Hudson Williams in Yaga: What Heated Rivalry fans can expect",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mVlE0cjcyS0Z6aG44VDBKb19TU3NYMFlJUnpjS2VtWGY3Q2J6bmdWUlNPbjhNamFtRkUxWmQ0dHRLbzduX192MlFPUUh3ZHlCSzNnLS1xR3Y5Zw?oc=5",
+      "published": "2026-10-29T18:25:11+00:00",
+      "outlets": [
+        {
+          "source": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mVlE0cjcyS0Z6aG44VDBKb19TU3NYMFlJUnpjS2VtWGY3Q2J6bmdWUlNPbjhNamFtRkUxWmQ0dHRLbzduX192MlFPUUh3ZHlCSzNnLS1xR3Y5Zw?oc=5",
+          "article_url": "https://www.cbc.ca/player/play/video/9.7401641",
+          "image": "https://i.cbc.ca/ais/1e4d7ce7-f228-4779-9415-bcaee44967ea,1793298517612/full/max/0/default.jpg?im=Crop%2Crect%3D%28120%2C42%2C222%2C394%29%3B"
+        }
+      ],
+      "image": "https://i.cbc.ca/ais/1e4d7ce7-f228-4779-9415-bcaee44967ea,1793298517612/full/max/0/default.jpg?im=Crop%2Crect%3D%28120%2C42%2C222%2C394%29%3B",
+      "image_source": "https://www.cbc.ca/player/play/video/9.7401641"
+    }
+  ]
+}
