@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett Hosts Displacement Film Fund Shorts in New York"
 description: "Cate Blanchett hosts the New York premiere of five Displacement Film Fund shorts on 11 November, as Todd Haynes reportedly plans Les Bonnes with her."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-30 11:00"
 celebrity: "Cate Blanchett"
@@ -11,6 +11,14 @@ image_prompt: "An empty art-house cinema auditorium with a lit screen, rows of r
 sources:
   - "https://filmforum.org/events/event/displacement-film-fund-november-11"
   - "https://foro3d.com/en/2026/octubre/todd-haynes-adaptara-les-bonnes-de-jean-genet-con-cate-blanchett.html"
+image: "images/2026-10-30-11-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cast and Crew Father Mother Sister Brother at the 2025 Venice Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1327
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-11-00-cate-blanchett-768x432.webp"
+wp_id: 1328
+wp_link: "https://moduscarry.com/cate-blanchett-hosts-displacement-film-fund-shorts-in-new-york/"
+wp_synced: publish
 ---
 
 **Quick summary**

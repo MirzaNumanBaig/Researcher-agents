@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-30T00:49:17.646175+00:00",
+  "article": "2026-10-30-11-00-ryan-reynolds",
+  "ai_generated": true,
+  "story_type": "legal",
+  "analysis": {
+    "story_type": "legal",
+    "core_event": "an anonymous figure the figure £75,000 by the an anonymous figure for two breaches of player eligibility rules.",
+    "emotion": "serious",
+    "setting": "stadium",
+    "key_objects": [
+      "fine",
+      "player eligibility rules",
+      "an anonymous figure",
+      "English Football League"
+    ],
+    "time_and_light": "daytime",
+    "palette": [
+      "grey",
+      "black",
+      "white"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "fine",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "stadium",
+    "props": [
+      "fine",
+      "player eligibility rules",
+      "an anonymous figure",
+      "English Football League"
+    ],
+    "time_of_day": "daytime",
+    "light": {
+      "source": "daytime",
+      "direction": "from the side"
+    },
+    "palette": [
+      "grey",
+      "black",
+      "white"
+    ],
+    "mood": "serious",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a wooden gavel resting on a bare, polished wooden desk, the edges worn smooth by years of use. The gavel's surface is weathered, with a subtle sheen to the wood. A closed leather folder lies beside it, its edges pressed flat, and a small, silver plaque bearing the English Football League's is mounted discreetly on the wall behind. Soft, warm light spills across the grain of the desk, casting a gentle glow over the entire scene. The camera is positioned directly overhead, using a 24mm lens to capture the scene from a neutral, observational perspective. The palette is a subdued grey, black, and white, with gentle, natural tones evoking a sense of quiet dignity. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3156049014,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a wooden gavel resting on a bare desk beside a closed leather folder, soft light across the grain.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 293.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3156049014,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

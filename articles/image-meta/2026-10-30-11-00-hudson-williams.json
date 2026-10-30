@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-10-30T00:49:31.790502+00:00",
+  "article": "2026-10-30-11-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure in the new Canadian series an anonymous figure.",
+    "emotion": "spooky",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "Henry Park",
+      "Logan Casey"
+    ],
+    "time_and_light": "daytime, soft studio lights",
+    "palette": [
+      "dark blue",
+      "muted green",
+      "warm gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "Henry Park",
+      "Logan Casey"
+    ],
+    "time_of_day": "daytime, soft studio lights",
+    "light": {
+      "source": "daytime, soft studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark blue",
+      "muted green",
+      "warm gold"
+    ],
+    "mood": "spooky",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05"
+  ],
+  "prompt": "A wide shot of the film set captures two anonymous figures standing to the left of centre, with a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, wearing a burgundy blazer, leaning forward with elbows on her knees and holding a paper cup in her hands, her slightly raised eyebrows and wide, attentive eyes fixed on something up and off-frame to her right, her lips just parted and her relaxed jaw giving a sense of quiet contemplation. The woman's tilted head and leaning posture convey a sense of engagement and focus. The two anonymous figures stand behind her, partially obscuring the view of the setting, which opens up to the right, with soft haze and bokeh creating a sense of depth and atmosphere. To the right of the anonymous figures, Henry Park and Logan Casey stand, their faces and bodies largely obscured by the haze. The warm gold of the studio lights highlights the texture of the woman's skin, with visible pores and small imperfections adding a sense of realism to the scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1912197113,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by daytime, soft studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 81.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1912197113,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

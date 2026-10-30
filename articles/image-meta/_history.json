@@ -1,35 +1,5 @@
 [
  {
-  "article": "2026-10-29-03-00-liam-hemsworth",
-  "shot": "wide shot",
-  "angle": "slightly high angle",
-  "lens": "85mm",
-  "palette": "neutral beige, muted blue and soft gray",
-  "prompt": "A wide shot from a slightly high angle, taken with an 85mm lens, captures the left side of the podcast recording studio. The woman, a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, sits at a low table, her shoulders low and her head resting slightly back as she gazes off-frame toward a window. Her facial expression is one of gentle defensiveness, her eyebrows drawn up slightly at the centre, her eyes unfocused and distant, her mouth just closed, and her jaw soft. She holds a mug wrapped in her hands, her fingers curled around it. Her burgundy blazer adds a pop of colour to the otherwise neutral beige and muted blue setting. The neutral beige, muted blue, and soft gray palette adds to the sense of calm, while the woman's gaze off-frame and the man's tilt of his head create a sense of tension. No text, no logos, no watermark.",
-  "cast": [
-   "cast-05",
-   "cast-06"
-  ]
- },
- {
-  "article": "2026-10-29-03-00-keanu-reeves",
-  "shot": "overhead shot",
-  "angle": "high angle",
-  "lens": "50mm",
-  "palette": "muted red, weathered wood and dusty blue",
-  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Overhead shot, 50mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural the figure-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-10-29-03-00-heath-ledger",
-  "shot": "close-up detail shot",
-  "angle": "side-on view",
-  "lens": "24mm",
-  "palette": "blue, gold and black",
-  "prompt": "A single empty wooden chair beside a tall window, a row of lit white candles on a small table. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Close-up detail shot, 24mm lens, side-on view, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
   "article": "2026-10-29-03-00-connor-storrie",
   "shot": "over-the-shoulder shot",
   "angle": "tilted angle",
@@ -199,5 +169,34 @@
   "cast": [
    "cast-04"
   ]
+ },
+ {
+  "article": "2026-10-30-11-00-ryan-reynolds",
+  "shot": "overhead shot",
+  "angle": "from behind",
+  "lens": "24mm",
+  "palette": "grey, black and white",
+  "prompt": "A medium shot of a wooden gavel resting on a bare, polished wooden desk, the edges worn smooth by years of use. The gavel's surface is weathered, with a subtle sheen to the wood. A closed leather folder lies beside it, its edges pressed flat, and a small, silver plaque bearing the English Football League's is mounted discreetly on the wall behind. Soft, warm light spills across the grain of the desk, casting a gentle glow over the entire scene. The camera is positioned directly overhead, using a 24mm lens to capture the scene from a neutral, observational perspective. The palette is a subdued grey, black, and white, with gentle, natural tones evoking a sense of quiet dignity. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-10-30-11-00-hudson-williams",
+  "shot": "wide shot",
+  "angle": "eye-level",
+  "lens": "85mm",
+  "palette": "dark blue, muted green and warm gold",
+  "prompt": "A wide shot of the film set captures two anonymous figures standing to the left of centre, with a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, wearing a burgundy blazer, leaning forward with elbows on her knees and holding a paper cup in her hands, her slightly raised eyebrows and wide, attentive eyes fixed on something up and off-frame to her right, her lips just parted and her relaxed jaw giving a sense of quiet contemplation. The woman's tilted head and leaning posture convey a sense of engagement and focus. The two anonymous figures stand behind her, partially obscuring the view of the setting, which opens up to the right, with soft haze and bokeh creating a sense of depth and atmosphere. To the right of the anonymous figures, Henry Park and Logan Casey stand, their faces and bodies largely obscured by the haze. The warm gold of the studio lights highlights the texture of the woman's skin, with visible pores and small imperfections adding a sense of realism to the scene. No text, no logos, no watermark.",
+  "cast": [
+   "cast-05"
+  ]
+ },
+ {
+  "article": "2026-10-30-11-00-heath-ledger",
+  "shot": "wide establishing shot",
+  "angle": "high angle",
+  "lens": "24mm",
+  "palette": "red, black and white",
+  "prompt": "A single empty wooden chair beside a tall window, a row of lit white candles on a small table. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Wide establishing shot, 24mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
  }
 ]

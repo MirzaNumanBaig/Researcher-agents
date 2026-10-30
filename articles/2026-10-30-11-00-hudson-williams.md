@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams Plays Two Roles in Crave's Yaga"
 description: "Hudson Williams plays a missing heir and his lookalike in Yaga, a Canadian supernatural mystery with a stacked cast, now also streaming in the US."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-30 11:00"
 celebrity: "Hudson Williams"
@@ -10,6 +10,13 @@ tags: ["Hudson Williams", "Yaga", "Heated Rivalry", "Carrie-Anne Moss"]
 image_prompt: "A foggy fishing town on a rugged coastline at dusk, a lit diner window glowing beside a dark forest edge."
 sources:
   - "https://www.yahoo.com/entertainment/tv/articles/hudson-williams-isn-t-only-213531969.html"
+image_alt: "Illustration of a woman in film set, lit by daytime, soft studio lights."
+image: "images/2026-10-30-11-00-hudson-williams.webp"
+wp_media_id: 1331
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-11-00-hudson-williams-768x432.webp"
+wp_id: 1332
+wp_link: "https://moduscarry.com/hudson-williams-plays-two-roles-in-craves-yaga/"
+wp_synced: publish
 ---
 
 **Quick summary**

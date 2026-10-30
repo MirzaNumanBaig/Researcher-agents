@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-10-30T00:49:43.545404+00:00",
+  "article": "2026-10-30-11-00-heath-ledger",
+  "ai_generated": true,
+  "story_type": "tribute",
+  "analysis": {
+    "story_type": "tribute",
+    "core_event": "an anonymous figure performed a the figure to an anonymous figure on an anonymous figure.",
+    "emotion": "emotional",
+    "setting": "dance floor",
+    "key_objects": [
+      "single red rose",
+      "photo from the film's set",
+      "audio of the poem"
+    ],
+    "time_and_light": "evening, stage lights",
+    "palette": [
+      "red",
+      "black",
+      "white"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "single red rose",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "dance floor",
+    "props": [
+      "single red rose",
+      "photo from the film's set",
+      "audio of the poem"
+    ],
+    "time_of_day": "evening, stage lights",
+    "light": {
+      "source": "evening, stage lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "red",
+      "black",
+      "white"
+    ],
+    "mood": "emotional",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A single empty wooden chair beside a tall window, a row of lit white candles on a small table. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Wide establishing shot, 24mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "template",
+  "prompt_notes": [
+    "attempt 1 rejected: shows people in a sensitive story",
+    "attempt 2 rejected: shows people in a sensitive story"
+  ],
+  "seed": 2032423347,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 190.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2032423347,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
