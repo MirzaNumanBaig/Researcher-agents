@@ -1999,6 +1999,22 @@
    "turns": 6,
    "seconds": 27,
    "cost_usd": 0.0942
+  },
+  {
+   "date": "2026-10-30",
+   "time": "2026-10-30T19:27:35+00:00",
+   "batch": "2026-10-31 05:00",
+   "celebrity": "Pamela Anderson",
+   "article": "2026-10-31-05-00-pamela-anderson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 1156,
+   "cache_read_tokens": 138151,
+   "cache_write_tokens": 18704,
+   "turns": 9,
+   "seconds": 21,
+   "cost_usd": 0.1023
   }
  ]
 }
