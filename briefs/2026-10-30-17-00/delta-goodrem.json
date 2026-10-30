@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-30 17:00",
+  "celebrity": "Delta Goodrem",
+  "stories": [
+    {
+      "title": "Delta Goodrem",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUVLb01pbUNPbFowVTZLSUJsUkhRNHUzZ0hnTXpKcmw4ajRDb2dqMEl1dFpfb3Qwbl82ZWk4TGJkeDkxVXd6QXlldHMyYWRwMHlSQ1ZNRDJzT2hxOWtjTnpFbFh2Nm1LNkljLW9ZZ0ZQYmpfcDJ0ZjBPZm1pdlpvblAyd19jT1U?oc=5",
+      "published": "2026-10-29T13:27:47+00:00",
+      "outlets": [
+        {
+          "source": "The Mirror",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUVLb01pbUNPbFowVTZLSUJsUkhRNHUzZ0hnTXpKcmw4ajRDb2dqMEl1dFpfb3Qwbl82ZWk4TGJkeDkxVXd6QXlldHMyYWRwMHlSQ1ZNRDJzT2hxOWtjTnpFbFh2Nm1LNkljLW9ZZ0ZQYmpfcDJ0ZjBPZm1pdlpvblAyd19jT1U?oc=5",
+          "article_url": "https://www.mirror.co.uk/all-about/delta-goodrem?service=responsive&pageNumber=7",
+          "image": "https://www.mirror.co.uk/nav-web-static/main-87bac421972ba8a3b4cb8982cfa404878ba82c15/public/assets/mirror/logos/logo-mirror-social-sharing.png"
+        }
+      ],
+      "image": "https://www.mirror.co.uk/nav-web-static/main-87bac421972ba8a3b4cb8982cfa404878ba82c15/public/assets/mirror/logos/logo-mirror-social-sharing.png",
+      "image_source": "https://www.mirror.co.uk/all-about/delta-goodrem?service=responsive&pageNumber=7"
+    }
+  ]
+}
