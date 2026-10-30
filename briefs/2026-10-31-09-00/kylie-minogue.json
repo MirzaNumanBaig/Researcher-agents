@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-31 09:00",
+  "celebrity": "Kylie Minogue",
+  "stories": [
+    {
+      "title": "Dannii Minogue - Latest news, views, gossip, photos and video",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80cDZGVTF3bHo5YUlSOF9lUng5T18wUkhyLW1LTXJ0QThUY2g2SUxhbWR4T1J0VmZaOEVWSVRQNDlyT2VkSEV4cVBuOFRORktFODh6Wi1yUVJVNlJ6Ty10MVdmRFlUYkxxMzVMRW54ZExOY2FiWmFn?oc=5",
+      "published": "2026-10-30T17:56:26+00:00",
+      "outlets": [
+        {
+          "source": "Daily Mail",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80cDZGVTF3bHo5YUlSOF9lUng5T18wUkhyLW1LTXJ0QThUY2g2SUxhbWR4T1J0VmZaOEVWSVRQNDlyT2VkSEV4cVBuOFRORktFODh6Wi1yUVJVNlJ6Ty10MVdmRFlUYkxxMzVMRW54ZExOY2FiWmFn?oc=5",
+          "article_url": "https://www.dailymail.com/tvshowbiz/dannii-minogue/index.html?page=7",
+          "image": "https://i.dailymail.com/i/social/img_mol-logo_50x50.png"
+        }
+      ],
+      "image": "https://i.dailymail.com/i/social/img_mol-logo_50x50.png",
+      "image_source": "https://www.dailymail.com/tvshowbiz/dannii-minogue/index.html?page=7"
+    }
+  ]
+}
