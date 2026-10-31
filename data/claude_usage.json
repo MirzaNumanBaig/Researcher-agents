@@ -2703,6 +2703,22 @@
    "turns": 6,
    "seconds": 9,
    "cost_usd": 0.0931
+  },
+  {
+   "date": "2026-10-31",
+   "time": "2026-10-31T23:10:08+00:00",
+   "batch": "2026-11-01 10:00",
+   "celebrity": "Miranda Kerr",
+   "article": "2026-11-01-10-00-miranda-kerr.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 906,
+   "cache_read_tokens": 72969,
+   "cache_write_tokens": 18276,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.0896
   }
  ]
 }
