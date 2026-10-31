@@ -1,25 +1,5 @@
 [
  {
-  "article": "2026-10-30-11-00-ryan-reynolds",
-  "shot": "overhead shot",
-  "angle": "from behind",
-  "lens": "24mm",
-  "palette": "grey, black and white",
-  "prompt": "A medium shot of a wooden gavel resting on a bare, polished wooden desk, the edges worn smooth by years of use. The gavel's surface is weathered, with a subtle sheen to the wood. A closed leather folder lies beside it, its edges pressed flat, and a small, silver plaque bearing the English Football League's is mounted discreetly on the wall behind. Soft, warm light spills across the grain of the desk, casting a gentle glow over the entire scene. The camera is positioned directly overhead, using a 24mm lens to capture the scene from a neutral, observational perspective. The palette is a subdued grey, black, and white, with gentle, natural tones evoking a sense of quiet dignity. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-10-30-11-00-hudson-williams",
-  "shot": "wide shot",
-  "angle": "eye-level",
-  "lens": "85mm",
-  "palette": "dark blue, muted green and warm gold",
-  "prompt": "A wide shot of the film set captures two anonymous figures standing to the left of centre, with a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, wearing a burgundy blazer, leaning forward with elbows on her knees and holding a paper cup in her hands, her slightly raised eyebrows and wide, attentive eyes fixed on something up and off-frame to her right, her lips just parted and her relaxed jaw giving a sense of quiet contemplation. The woman's tilted head and leaning posture convey a sense of engagement and focus. The two anonymous figures stand behind her, partially obscuring the view of the setting, which opens up to the right, with soft haze and bokeh creating a sense of depth and atmosphere. To the right of the anonymous figures, Henry Park and Logan Casey stand, their faces and bodies largely obscured by the haze. The warm gold of the studio lights highlights the texture of the woman's skin, with visible pores and small imperfections adding a sense of realism to the scene. No text, no logos, no watermark.",
-  "cast": [
-   "cast-05"
-  ]
- },
- {
   "article": "2026-10-30-11-00-heath-ledger",
   "shot": "wide establishing shot",
   "angle": "high angle",
@@ -211,6 +191,29 @@
   "cast": [
    "cast-03",
    "cast-12"
+  ]
+ },
+ {
+  "article": "2026-11-01-10-00-seth-rogen",
+  "shot": "medium-wide shot",
+  "angle": "slightly high angle",
+  "lens": "35mm",
+  "palette": "deep teal and warm amber",
+  "prompt": "A medium-wide shot of the film set, taken from a slightly high angle with a 35mm lens, captures the poignant moment between two individuals. The man, a man in his early 30s with medium-length wavy auburn hair and light skin, sits at an angle to the woman, a woman in her late 50s with short wavy white hair and pale skin, across a low table. His dark teal suit stands out against the muted backdrop of the film set. His eyebrows are drawn up gently at the centre, his eyes unfocused and distant, his lips just closed, and his jaw soft, as he gazes off-frame toward a window. His head is resting slightly back, and his shoulders are low. He wraps his hands around a mug, a candid unposed moment that exudes a sense of disappointment. In contrast, the woman wears a pearl-grey silk blouse, her eyebrows slightly raised, her eyes wide and attentive, her lips just parted, and her jaw relaxed, as she gazes up and off-frame right. A faint image of a PG-13 rating and a framed, serving as a poignant reminder of the project's failure. No text, no logos, no watermark.",
+  "cast": [
+   "cast-10",
+   "cast-09"
+  ]
+ },
+ {
+  "article": "2026-11-01-10-00-hudson-williams",
+  "shot": "medium shot",
+  "angle": "three-quarter view",
+  "lens": "35mm",
+  "palette": "dark blue, muted green and flickering candlelight",
+  "prompt": "A medium shot of the man in his mid 20s with tousled sandy-blond hair and fair skin, his eyebrows slightly raised as if contemplating a thought, his eyes wide and attentive, his lips just parted, and his jaw relaxed, tilting his head slightly up, as he leans forward, elbows on knees, holding a paper cup in one hand. His gaze is up and off-frame right, lost in thought. He wears a denim jacket over a grey tee, his sleeves rolled up slightly. In the midground, a soft haze and bokeh blur the film set to the right, while a passport lies open on a nearby table in the foreground, its pages illuminated by the moonlight streaming in from the side. A laptop and a camera are placed on a nearby desk, with a watch lying on its side, as if carelessly discarded. The atmosphere is intriguing, with the dark blue and muted green tones of the setting complemented by the flickering candlelight. The mood is intriguing, with a sense of anticipation and mystery. No text, no logos, no watermark.",
+  "cast": [
+   "cast-04"
   ]
  }
 ]

@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-10-31T23:16:15.115441+00:00",
+  "article": "2026-11-01-10-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure in the Sky thriller an anonymous figure.",
+    "emotion": "intriguing",
+    "setting": "film set",
+    "key_objects": [
+      "passport",
+      "laptop",
+      "camera",
+      "watch"
+    ],
+    "time_and_light": "night, moonlight",
+    "palette": [
+      "dark blue",
+      "muted green",
+      "flickering candlelight"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "passport",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "passport",
+      "laptop",
+      "camera",
+      "watch"
+    ],
+    "time_of_day": "night, moonlight",
+    "light": {
+      "source": "night, moonlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark blue",
+      "muted green",
+      "flickering candlelight"
+    ],
+    "mood": "intriguing",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-04"
+  ],
+  "prompt": "A medium shot of the man in his mid 20s with tousled sandy-blond hair and fair skin, his eyebrows slightly raised as if contemplating a thought, his eyes wide and attentive, his lips just parted, and his jaw relaxed, tilting his head slightly up, as he leans forward, elbows on knees, holding a paper cup in one hand. His gaze is up and off-frame right, lost in thought. He wears a denim jacket over a grey tee, his sleeves rolled up slightly. In the midground, a soft haze and bokeh blur the film set to the right, while a passport lies open on a nearby table in the foreground, its pages illuminated by the moonlight streaming in from the side. A laptop and a camera are placed on a nearby desk, with a watch lying on its side, as if carelessly discarded. The atmosphere is intriguing, with the dark blue and muted green tones of the setting complemented by the flickering candlelight. The mood is intriguing, with a sense of anticipation and mystery. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 63978672,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by night, moonlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 100.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 63978672,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
