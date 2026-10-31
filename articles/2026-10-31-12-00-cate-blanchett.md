@@ -1,7 +1,7 @@
 ---
 title: "Cate Blanchett's Consent Group Backs NYT in OpenAI Case"
 description: "Cate Blanchett's Human Consent Foundation and stars including Helen Mirren filed a brief backing the New York Times against OpenAI and Microsoft."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-31 12:00"
 celebrity: "Cate Blanchett"
@@ -11,6 +11,14 @@ image_prompt: "An empty courtroom bench and a stack of film reels on a table in 
 sources:
   - "https://variety.com/2026/biz/news/cate-blanchett-hollywood-stars-brief-nyt-openai-lawsuit-1236935578/"
   - "https://www.netflixjunkie.com/hollywood-news-amanda-seyfried-joins-cate-blanchett-and-selena-gomez-in-brady-corbets-the-origin-of-the-world/"
+image: "images/2026-10-31-12-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cast and Crew Father Mother Sister Brother at the 2025 Venice Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Father_Mother_Sister_Brother-69514.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1380
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-12-00-cate-blanchett-768x432.webp"
+wp_id: 1381
+wp_link: "https://moduscarry.com/cate-blanchetts-consent-group-backs-nyt-in-openai-case/"
+wp_synced: publish
 ---
 
 **Quick summary**

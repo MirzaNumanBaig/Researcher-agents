@@ -1,16 +1,5 @@
 [
  {
-  "article": "2026-10-30-07-00-ryan-gosling",
-  "shot": "medium shot",
-  "angle": "side-on view",
-  "lens": "50mm",
-  "palette": "soft pink, deep blue and golden yellow",
-  "prompt": "A medium shot of a woman in her late 20s with long straight black hair and warm beige skin, standing slightly left of center in the frame, her back to the right edge. Her facial expression is one of quiet concentration, with her eyebrows slightly raised, her wide and attentive eyes fixed on the figure TV in the distance, her lips just parted in a gentle smile, and her relaxed jawline softened by a hint of a lean forward. Her head is tilted slightly up, her gaze directed up and off-frame right, as if lost in thought. Her posture is relaxed, leaning forward slightly with her elbows resting on her knees, her hands clasped tightly around a paper cup. She wears a cropped denim jacket, its faded blue hue a testament to many washes, and her long hair falls in a straight line down her back. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
-  "cast": [
-   "cast-03"
-  ]
- },
- {
   "article": "2026-10-30-07-00-rachel-mcadams",
   "shot": "medium shot",
   "angle": "three-quarter view",
@@ -208,6 +197,17 @@
   "cast": [
    "cast-10",
    "cast-02"
+  ]
+ },
+ {
+  "article": "2026-10-31-12-00-keanu-reeves",
+  "shot": "medium shot",
+  "angle": "slightly high angle",
+  "lens": "85mm",
+  "palette": "stormy grey, deep blue and emergency orange",
+  "prompt": "A medium shot of a man in his mid 20s with tousled sandy-blond hair and fair skin, wearing a cream fisherman knit, leans forward with his elbows on his knees, his slightly raised eyebrows and wide, attentive eyes locked on some point up and off-frame right. His lips are just parted, and his relaxed jawline is a testament to his focused intensity. His head is tilted slightly up, as if he's straining to see something in the distance. His hands, holding a paper cup, are steady and still, a subtle of his calm demeanor. The man is positioned to the left of centre, with the film set unfolding to the right, its cluttered backdrop and soft haze creating a sense of depth. To his right, a figure in the foreground, partially hidden by a haze of light, seems to be waiting, their presence felt but not yet revealed. The colour palette is a stormy grey, deep blue, and emergency orange, a stark contrast to the calm, natural light. No text, no logos, no watermark.",
+  "cast": [
+   "cast-04"
   ]
  }
 ]
