@@ -1,0 +1,36 @@
+{
+  "batch": "2026-10-31 19:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Deadpool & Wolverine: Disney Reveals Ryan Reynolds and Hugh Jackman Starrer Cost Nearly Half a Billion Dollars",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZndNN2lhOFBSOTlzalJiX0hGREJrc0g2QWRkY2dEcWxBX3F5Q3BkbC1jN2lkRVR5cW5qalhJRXJtbFpQM0xESjVXRGdkcXNZenJ2WW9PLUN4NFBiSUh2b0lhVlIySjN1Y1dvczlWdWpwRXgxVUprMzIwRU1wUlVXdlFXTlhNQUJOQ09yZk81ZFNFQUpaVmpFYnVWSUVKYWw2Tk1CM2xKRkN1d0xkajJ4cVFTUHVHaEpLb0ZjR2xnUlRoNFlKY0pGY0R1NFJhcGF1cUFad0tfbEFqa3Fa?oc=5",
+      "published": "2026-10-31T08:09:30+00:00",
+      "outlets": [
+        {
+          "source": "IGN India",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZndNN2lhOFBSOTlzalJiX0hGREJrc0g2QWRkY2dEcWxBX3F5Q3BkbC1jN2lkRVR5cW5qalhJRXJtbFpQM0xESjVXRGdkcXNZenJ2WW9PLUN4NFBiSUh2b0lhVlIySjN1Y1dvczlWdWpwRXgxVUprMzIwRU1wUlVXdlFXTlhNQUJOQ09yZk81ZFNFQUpaVmpFYnVWSUVKYWw2Tk1CM2xKRkN1d0xkajJ4cVFTUHVHaEpLb0ZjR2xnUlRoNFlKY0pGY0R1NFJhcGF1cUFad0tfbEFqa3Fa?oc=5",
+          "article_url": "https://in.ign.com/deadpool-wolverine/275765/deadpool-wolverine-disney-reveals-ryan-reynolds-and-hugh-jackman-starrer-cost-nearly-half-a-billion",
+          "image": "https://sm.ign.com/t/ign_in/photo/default/deadpool-and-wolverine-1-1734365075369_fx6w.1200.png"
+        }
+      ],
+      "image": "https://sm.ign.com/t/ign_in/photo/default/deadpool-and-wolverine-1-1734365075369_fx6w.1200.png",
+      "image_source": "https://in.ign.com/deadpool-wolverine/275765/deadpool-wolverine-disney-reveals-ryan-reynolds-and-hugh-jackman-starrer-cost-nearly-half-a-billion"
+    },
+    {
+      "title": "Ryan Reynolds’ Wrexham fined £75,000 after two eligibility errors, including an unused substitute",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0tIWFVDOUxxZzlWLXBINkNnWVBueGRuMHpKbnlwd3kwMjRkY216bkFWejFlOEU4dkRhaUNQSXNLU09KbDkwRGFhcXllajBsTWdHemJBMDB0cVlWOVd4SVBBYUh2b010Mmw4SEh6MFdHNHBQX1ZvU2t4SW4yX2wtbnQyLXVNbE5ObDBKa1RPODFNSEtPZXV2QURFWk50U1ljb01hd1M0VWlnN1RzVnU3NXdsTVF0cnlMU1ZDMFlLdUt0Zw?oc=5",
+      "published": "2026-10-29T09:41:34+00:00",
+      "outlets": [
+        {
+          "source": "Nogomania",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0tIWFVDOUxxZzlWLXBINkNnWVBueGRuMHpKbnlwd3kwMjRkY216bkFWejFlOEU4dkRhaUNQSXNLU09KbDkwRGFhcXllajBsTWdHemJBMDB0cVlWOVd4SVBBYUh2b010Mmw4SEh6MFdHNHBQX1ZvU2t4SW4yX2wtbnQyLXVNbE5ObDBKa1RPODFNSEtPZXV2QURFWk50U1ljb01hd1M0VWlnN1RzVnU3NXdsTVF0cnlMU1ZDMFlLdUt0Zw?oc=5",
+          "article_url": "https://en.nogomania.com/read/Ryan-Reynolds-Wrexham-fined-75-000-after-two-eligibility-errors-including-an-unused-substitute",
+          "image": "https://en.nogomania.com/GetFile.ashx?id=280162&openType=image"
+        }
+      ],
+      "image": "https://en.nogomania.com/GetFile.ashx?id=280162&openType=image",
+      "image_source": "https://en.nogomania.com/read/Ryan-Reynolds-Wrexham-fined-75-000-after-two-eligibility-errors-including-an-unused-substitute"
+    }
+  ]
+}

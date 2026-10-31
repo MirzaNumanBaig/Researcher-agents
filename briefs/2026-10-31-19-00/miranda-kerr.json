@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-31 19:00",
+  "celebrity": "Miranda Kerr",
+  "stories": [
+    {
+      "title": "Miranda Kerr",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbUk5RFNoY1o3VXZPWmRGS2daNUpoR3o4ejl3RTVkXzZXNHBOdTdVQmR6NWtGWFRKUEVhLVdpYlhiMWJPMXZBaDRqQnYtRk4wTFNsMFBOUmcxbVRnVUVjbDRZMEgxS1NOV3R4QnNPY1B1blJoNHJJbXpB?oc=5",
+      "published": "2026-10-30T05:11:43+00:00",
+      "outlets": [
+        {
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbUk5RFNoY1o3VXZPWmRGS2daNUpoR3o4ejl3RTVkXzZXNHBOdTdVQmR6NWtGWFRKUEVhLVdpYlhiMWJPMXZBaDRqQnYtRk4wTFNsMFBOUmcxbVRnVUVjbDRZMEgxS1NOV3R4QnNPY1B1blJoNHJJbXpB?oc=5",
+          "article_url": "https://www.forbes.com/pictures/54f4e70ada47a54de8244c86/miranda-kerr/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/146511a9454441a4ff97fe8b0b6cedc2/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
+        }
+      ],
+      "image": "https://imageio.forbes.com/specials-images/imageserve/146511a9454441a4ff97fe8b0b6cedc2/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+      "image_source": "https://www.forbes.com/pictures/54f4e70ada47a54de8244c86/miranda-kerr/"
+    }
+  ]
+}

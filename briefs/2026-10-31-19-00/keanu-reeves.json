@@ -1,0 +1,48 @@
+{
+  "batch": "2026-10-31 19:00",
+  "celebrity": "Keanu Reeves",
+  "stories": [
+    {
+      "title": "How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMXVQZDF0ZlBFT1RMUDhCY3cwbkI5bGJ2M2tHUXpJalFQekc3NF9FeENvb1hMa3lhMHJUWk9JUzNoSnRyZHhRNkV2d1VvOVQ5eUIxaXNBbDJycnpEU3JKRDJNUjRKTVdMQVE?oc=5",
+      "published": "2026-10-31T06:54:10+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMXVQZDF0ZlBFT1RMUDhCY3cwbkI5bGJ2M2tHUXpJalFQekc3NF9FeENvb1hMa3lhMHJUWk9JUzNoSnRyZHhRNkV2d1VvOVQ5eUIxaXNBbDJycnpEU3JKRDJNUjRKTVdMQVE?oc=5",
+          "article_url": "https://www.imdb.com/it/news/ni66088622/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkVUdW53b3U5N2dRbGswRC05MzktbGJIdjEzWV9VVW5BamVmY0N3WVZnMWtjdUVjMFVOaWdVQi14NmYzbWxzZ2Z4LWJaZEVDVHdBcjZsX0N1V19IejhuVkRBTFhlNXZWRkJYWnpIOXFzem9TLVM5dFcyLUhqam0zWVhHOU5BelNLQTBBdw?oc=5",
+          "article_url": "https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/",
+          "image": ""
+        },
+        {
+          "source": "variety.com",
+          "url": "https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/",
+          "article_url": "",
+          "image": "https://variety.com/wp-content/uploads/2026/06/MixCollage-25-Jun-2026-07-18-PM-2123.jpg"
+        }
+      ],
+      "image": "https://variety.com/wp-content/uploads/2026/06/MixCollage-25-Jun-2026-07-18-PM-2123.jpg",
+      "image_source": "https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/"
+    },
+    {
+      "title": "Keanu Reeves and Sandra Bullock are both very enthusiastic about the idea of 'Speed 3'",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNl9TeHZtd21BRXVxeTQxSHExX3F3YVJXX3BjeV92S19TS2QxNGk4ZjROd3ljZGhuV0xPY0RUQ19nSnpsRUFjR2lXX3FjOW0zUnRwQV9FR2V1YlJ2a2lscm4wVnZycm9KLTlaX2V4alZrN1VsT28xZFI1OU1ESklUYksxdG05QTZ0ajJQUEtEWQ?oc=5",
+      "published": "2026-10-29T11:21:38+00:00",
+      "outlets": [
+        {
+          "source": "Entertainment.ie",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNl9TeHZtd21BRXVxeTQxSHExX3F3YVJXX3BjeV92S19TS2QxNGk4ZjROd3ljZGhuV0xPY0RUQ19nSnpsRUFjR2lXX3FjOW0zUnRwQV9FR2V1YlJ2a2lscm4wVnZycm9KLTlaX2V4alZrN1VsT28xZFI1OU1ESklUYksxdG05QTZ0ajJQUEtEWQ?oc=5",
+          "article_url": "https://entertainment.ie/movies/movie-news/keanu-reeves-sandra-bullock-speed-3-560112/",
+          "image": "https://images.entertainment.ie/uploads/2018/12/22111226/rs_1019x768-150616105557-1024.sandra-bullock-speed-061615.jpg?w=1280&h=768&q=high"
+        }
+      ],
+      "image": "https://images.entertainment.ie/uploads/2018/12/22111226/rs_1019x768-150616105557-1024.sandra-bullock-speed-061615.jpg?w=1280&h=768&q=high",
+      "image_source": "https://entertainment.ie/movies/movie-news/keanu-reeves-sandra-bullock-speed-3-560112/"
+    }
+  ]
+}
