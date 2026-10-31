@@ -19,6 +19,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-12-00-ca
 wp_id: 1381
 wp_link: "https://moduscarry.com/cate-blanchetts-consent-group-backs-nyt-in-openai-case/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
