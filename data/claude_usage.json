@@ -2191,6 +2191,22 @@
    "turns": 10,
    "seconds": 32,
    "cost_usd": 0.19
+  },
+  {
+   "date": "2026-10-31",
+   "time": "2026-10-31T02:03:25+00:00",
+   "batch": "2026-10-31 12:00",
+   "celebrity": "Jim Carrey",
+   "article": "2026-10-31-12-00-jim-carrey.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 791,
+   "cache_read_tokens": 70990,
+   "cache_write_tokens": 16245,
+   "turns": 6,
+   "seconds": 7,
+   "cost_usd": 0.0801
   }
  ]
 }
