@@ -42,10 +42,22 @@
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcW1lLWF4bkxvRmtuVzF6NVVBWnVzMUtvWU5vVG1jM2gydUxrdFE5SlV4ZEROdFZHbUxvT1BYakxTdEk5QzUxRDYzaWduR1NJa3I2VnlzLXFETnZyRDlpNDRrbldubjVKU0EzWG9CVjdXbzhWNm1ESGpDRExaLVE3d2g5Z1UzS0FhRExoUmpEeWFaaVZqdUQ0Q2dVUGZBOTdHZ3d2QmNrYldwV1Zpb0h0dkk1MWgtQ3I1QzlzRzQ0dWI3YldpblBfYzBnZEhBX3pUcVJLOEtDOHVqS0Ita2RZYml4Y2tBRkU5M2dHLUQ1eGc1MXIwaDBrSWd3?oc=5",
           "article_url": "",
           "image": ""
+        },
+        {
+          "source": "News.com.au",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOEpnZWN4eEdWVTdZejBfbV9aYU1hNWo3MjVTS1dJenN5OUdGTmw5dzFpaTl5aVB4ak13R0JLaGZ3YVpsMHh2WUZKbHJzTHphWnhpbW1pT0QwdE9MMlBMR1hqR2ktZnF4TWRTWEt4cmhPWjZ3OVhtb0lkTjJMclJvb2g3akRWOWFRTGxIcXZySVV6QjZ0YW5xNXZXVlM0b21Dclc5OWt1NklhZE12dGhvd2ZuU1ZHZXJBU3FQV2lrQzhyMFBfWGpFQWUtM3dVSEhoMVRWVW45Y1ZncFpjV0tiazBPaDdGZV9WNzZfYU9HYjLSAfYBQVVfeXFMTWZEOTBtUDBBQnVlY3FiVVNobnRUZWxQMXlncTZPcFhJZndmTzU1NHM0T0VOeVQyaERrLTBjNkc2VUNSRm9fUGhoa3Z6bTZxNlRuVTdPQ1piWlNheFkwZ2tIeE81cy1pVzVJcVpaeWFoSXhzckV2bE1pWGFxSGVaY3JlRW5FTS1wVG5ERktYMXFKRzhFaFR4ODMxYjFPRXhCYTItMkhWUG9TWTVDeUZNYUpzdTFJVFNvMmJWSko0SGtfM0t2emdmUXVlYU9VNmhUNkRVOTQtYjNnUVFJeGZ5XzJTMUUwbG10dGEzZklCaEljMU9NWjJn?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Yahoo Lifestyle Australia",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVA2djRPMnFlaS1ZZGRnUlFTcHZRNDV6NnpzNjVodndETWJnSWJpcUk5M09YXy0yQTdTR2M3eFdrQllEVEtEZVVzenRiQWFkS3dpcXpzenhEWDVZclptNUxwek9falhLS0wzUWRSMU9qSVZLcEpvSHdFS1BLeGpMd2lEdF9LQQ?oc=5",
+          "article_url": "https://au.lifestyle.yahoo.com/martin-scorsese-claims-seth-rogen-080000714.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/72da88698a0546b23b930e39a55b8bb3b40a85be8a9b502dd292b195d43c69c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbang_showbiz_au_766%2Fbd60a35831dd75a8cdea31d9b67d8e9c.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://s.yimg.com/lo/mysterio/api/72da88698a0546b23b930e39a55b8bb3b40a85be8a9b502dd292b195d43c69c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbang_showbiz_au_766%2Fbd60a35831dd75a8cdea31d9b67d8e9c.jpg",
+      "image_source": "https://au.lifestyle.yahoo.com/martin-scorsese-claims-seth-rogen-080000714.html"
     }
   ]
 }

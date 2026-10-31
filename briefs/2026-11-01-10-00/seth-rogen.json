@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-01 10:00",
+  "celebrity": "Seth Rogen",
+  "stories": [
+    {
+      "title": "The 2012 movie Seth Rogen knew was doomed: “This is not making us laugh”",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzYjRIUXFCYi1wVlh3Yl9ack5JRnF5bW43c2xna3pzTV93UjctaTl5N253aHVKcW5aV0dZRmc1SC1lMnBfUmR4M201NlVPTHZjRnUzdUItX3RmYkZTMzR5RVFsRnJ1cGZaa2FVVkU2TF9CY0lYSVFGblluTQ?oc=5",
+      "published": "2026-10-31T20:53:01+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzYjRIUXFCYi1wVlh3Yl9ack5JRnF5bW43c2xna3pzTV93UjctaTl5N253aHVKcW5aV0dZRmc1SC1lMnBfUmR4M201NlVPTHZjRnUzdUItX3RmYkZTMzR5RVFsRnJ1cGZaa2FVVkU2TF9CY0lYSVFGblluTQ?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/the-2012-movie-seth-rogen-knew-was-doomed/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/01/Seth-Rogen-Actor-2025-Far-Out-Magazine1.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/01/Seth-Rogen-Actor-2025-Far-Out-Magazine1.jpg",
+      "image_source": "https://faroutmagazine.co.uk/the-2012-movie-seth-rogen-knew-was-doomed/"
+    },
+    {
+      "title": "Martin Scorsese’s “Wild” Historical Epic Was Scrapped Because Of Seth Rogen",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01RnZjOTVOWTNPT0RDLTBTYm40ZFhWZ1hHZ2kxNEZkUncxYkFmZW5SM1QyRUZUaE9SM3pMc2N2Nm45QW9ZU3EzNXgxbUJocG1XUXlRVW9WZUFoeW1ET3FNdHQteXVLaUU?oc=5",
+      "published": "2026-10-31T20:01:01+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01RnZjOTVOWTNPT0RDLTBTYm40ZFhWZ1hHZ2kxNEZkUncxYkFmZW5SM1QyRUZUaE9SM3pMc2N2Nm45QW9ZU3EzNXgxbUJocG1XUXlRVW9WZUFoeW1ET3FNdHQteXVLaUU?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66089311/?ref_=ttnw_art_perm",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}
