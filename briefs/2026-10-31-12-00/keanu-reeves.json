@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-31 12:00",
+  "celebrity": "Keanu Reeves",
+  "stories": [
+    {
+      "title": "Keanu Reeves' Brand-New Netflix Action Thriller Is John Wick Meets Twister",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LeG1uZHJjWnp1MkFRMG1tNUd6M1VQWHFEMXN0dDUtdThjYTZwMlBvaVZWMFNNX0l0WWZJd3NyQTdualk1cUJINmJzZDZ1NHQ2UFR3NW9YUTZsaUhhZEhHLWYtZ3pnaWI2cHFNWlJ5RThlM0FEemhoc0Rn?oc=5",
+      "published": "2026-10-30T23:00:44+00:00",
+      "outlets": [
+        {
+          "source": "Comic Book Resources",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LeG1uZHJjWnp1MkFRMG1tNUd6M1VQWHFEMXN0dDUtdThjYTZwMlBvaVZWMFNNX0l0WWZJd3NyQTdualk1cUJINmJzZDZ1NHQ2UFR3NW9YUTZsaUhhZEhHLWYtZ3pnaWI2cHFNWlJ5RThlM0FEemhoc0Rn?oc=5",
+          "article_url": "https://www.cbr.com/keanu-reeves-maelstrom-is-john-wick-meets-twister/",
+          "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/07/john-wick.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/07/john-wick.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://www.cbr.com/keanu-reeves-maelstrom-is-john-wick-meets-twister/"
+    }
+  ]
+}
