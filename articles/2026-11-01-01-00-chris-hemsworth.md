@@ -20,6 +20,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-11-01-01-00-ch
 wp_id: 1392
 wp_link: "https://moduscarry.com/chris-hemsworth-leaves-g-i-joe-as-extraction-3-wraps-in-thailand/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
