@@ -1,16 +1,5 @@
 [
  {
-  "article": "2026-10-30-07-00-hudson-williams",
-  "shot": "medium-wide shot",
-  "angle": "slightly high angle",
-  "lens": "35mm",
-  "palette": "the figure, black and cream",
-  "prompt": "A medium-wide shot, taken from a slightly high angle with a 35mm lens, captures The man: a man in his mid 20s with tousled sandy-blond hair and fair skin, his smooth and softly arched eyebrows slightly raised in anticipation as his confident and direct eyes sparkle with excitement, his mouth curled into a composed soft smile as his lifted jawline conveys a sense of pride. His quarter-turned head, chin raised, is positioned toward the lens, with his shoulders back and spine long, exuding confidence. One hand rests on his hip, while the other is free to gesture or react to the scene unfolding before him. The anonymous figure event is set in the background, with Section 35 prominently displayed on a nearby, and the soft haze of a summer day blurring the edges of the midground. The atmosphere is electric with excitement, the warm natural light from the side illuminating the scene with a soft golden glow. The realism is heightened by the Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
-  "cast": [
-   "cast-04"
-  ]
- },
- {
   "article": "2026-10-30-11-00-ryan-reynolds",
   "shot": "overhead shot",
   "angle": "from behind",
@@ -210,6 +199,18 @@
   "cast": [
    "cast-01",
    "cast-08"
+  ]
+ },
+ {
+  "article": "2026-11-01-06-00-keanu-reeves",
+  "shot": "medium shot",
+  "angle": "slightly low angle",
+  "lens": "50mm",
+  "palette": "neutral beige, deep blue and warm gold",
+  "prompt": "A medium shot from a slightly low angle, taken with a 50mm lens, captures the warmth and camaraderie between the two seated figures on a film set. The woman, a woman in her late 20s with long straight black hair and warm beige skin, wears a camel trench coat and sits at an angle to the man, her gaze drifting off-frame toward a window as she rests her head slightly back and wraps her hands around a mug. Her facial expression is characterized by drawn-up eyebrows at the centre, unfocused and distant eyes, lips just closed, and a soft jaw. The man, a man in his late 40s with thinning dark hair, round glasses, and olive skin, wears a brown suede jacket and sits across from the woman, his gaze tilted slightly up and his head leaning forward as he leans onto his elbows and cradles a paper cup in his hands. His facial expression features slightly raised eyebrows, wide and attentive eyes, lips just parted, and a relaxed jaw. Natural light from the side illuminates the scene, casting a warm glow over the entire setting. No text, no logos, no watermark.",
+  "cast": [
+   "cast-03",
+   "cast-12"
   ]
  }
 ]
