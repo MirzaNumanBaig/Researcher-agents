@@ -1,28 +1,5 @@
 [
  {
-  "article": "2026-10-30-07-00-rachel-mcadams",
-  "shot": "medium shot",
-  "angle": "three-quarter view",
-  "lens": "50mm",
-  "palette": "deep teal and warm amber",
-  "prompt": "A medium shot of a man in his late 40s with thinning dark hair and round glasses and olive skin, wearing a tweed blazer, leans forward, elbows on knees, as he gazes up and off-frame right with slightly raised eyebrows and wide, attentive eyes, his lips just parted in a gentle smile, with a relaxed jaw. The man's hands hold a paper cup, his head tilted slightly up, as he sits in the midst of a film set, surrounded by the soft glow of warm amber lighting from the side, casting a romantic mood over the scene. The man is positioned to the left of centre, with the film set opening up to the right, featuring 'an anonymous figure', 'an anonymous figure', 'an anonymous figure', and 'an anonymous figure' standing around him, while 'FlixPatrol' displays on a nearby screen. In the background, a soft haze and bokeh create a sense of depth, with the 50mm lens capturing a three-quarter view of the man, his tweed blazer and dark hair blending seamlessly into the warm tones of the film set. 1 on an anonymous figure's US movie chart. No text, no logos, no watermark.",
-  "cast": [
-   "cast-12"
-  ]
- },
- {
-  "article": "2026-10-30-07-00-keanu-reeves",
-  "shot": "medium-wide shot",
-  "angle": "slightly low angle",
-  "lens": "35mm",
-  "palette": "blue, gray and white",
-  "prompt": "A medium-wide shot of the scene, taken from a slightly low angle with a 35mm lens, frames the woman and the man seated at an angle to each other across a low table, left of centre in the frame, as the setting opens up to the right. The woman, a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, wears a white linen shirt, her eyebrows drawn up gently at the centre, eyes unfocused and distant, lips just closed, and a soft jawline, gazing off-frame toward a window with her head resting slightly back and shoulders low, her hands wrapped around a mug. The man, a man in his early 40s with close-cropped black hair and dark brown skin, wears a burnt-orange bomber jacket, his eyebrows slightly raised, eyes wide and attentive, lips just parted, and a relaxed jawline, gazing up and off-frame right with his head tilted slightly up and leaning forward, elbows on knees, his hands holding a paper cup. The natural light casts a gentle glow from the side, illuminating the woman's and man's features. No text, no logos, no watermark.",
-  "cast": [
-   "cast-01",
-   "cast-08"
-  ]
- },
- {
   "article": "2026-10-30-07-00-jacob-elordi",
   "shot": "wide establishing shot",
   "angle": "from behind",
@@ -208,6 +185,28 @@
   "prompt": "A medium shot of a man in his mid 20s with tousled sandy-blond hair and fair skin, wearing a cream fisherman knit, leans forward with his elbows on his knees, his slightly raised eyebrows and wide, attentive eyes locked on some point up and off-frame right. His lips are just parted, and his relaxed jawline is a testament to his focused intensity. His head is tilted slightly up, as if he's straining to see something in the distance. His hands, holding a paper cup, are steady and still, a subtle of his calm demeanor. The man is positioned to the left of centre, with the film set unfolding to the right, its cluttered backdrop and soft haze creating a sense of depth. To his right, a figure in the foreground, partially hidden by a haze of light, seems to be waiting, their presence felt but not yet revealed. The colour palette is a stormy grey, deep blue, and emergency orange, a stark contrast to the calm, natural light. No text, no logos, no watermark.",
   "cast": [
    "cast-04"
+  ]
+ },
+ {
+  "article": "2026-10-31-19-00-keanu-reeves",
+  "shot": "wide shot",
+  "angle": "side-on view",
+  "lens": "50mm",
+  "palette": "deep blue, warm wood and golden brown",
+  "prompt": "A wide shot of a film set, taken from a side-on view, with a 50mm lens captures the excitement and energy of the moment. The woman, a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, is seated in the centre of the frame, wearing a midnight-blue gown that complements the deep blue palette of the film. Her facial expression is one of rapt attention, with her slightly raised eyebrows, wide and attentive eyes, and lips just parted, as if she is on the edge of her seat. Her jaw is relaxed, and her head is tilted slightly up, giving her a sense of anticipation. She is leaning forward, elbows on knees, and her hands are holding a paper cup, a small gesture that adds to the sense of intimacy. The main subject, an anonymous figure, stands to her left, partially hidden by a soft haze and bokeh of the background. The mood is electric, and the composition is deliberate, with the people left of centre and the setting opening up to the right. No text, no logos, no watermark.",
+  "cast": [
+   "cast-05"
+  ]
+ },
+ {
+  "article": "2026-10-31-19-00-hudson-williams",
+  "shot": "medium shot",
+  "angle": "three-quarter view",
+  "lens": "50mm",
+  "palette": "dark blue, deep red and golden yellow",
+  "prompt": "A medium shot of a man in his late 40s with thinning dark hair and round glasses and olive skin, wearing a plain navy suit, leaning forward with his elbows on his knees and a paper cup held in his hands, slightly tilting his head upwards as he gazes up and off-frame to the right. His eyebrows are slightly raised, his eyes are wide and attentive, and his lips are just parted as he seems to be intently listening to something off-screen. His posture is relaxed, with a subtle tension in his shoulders, and his hands rest lightly on the cup as if he's just taken a sip. Behind him, a soft haze and bokeh of the film set opens up to the right, with the lights of the set softly illuminating the background. In the midground, Henry Park stands proudly, while Logan Casey looks on with a mixture of curiosity and concern. Baba, a mysterious figure, stands off to the side, their face partially obscured by shadows. The mood is electric, the air thick with anticipation and excitement. No text, no logos, no watermark.",
+  "cast": [
+   "cast-12"
   ]
  }
 ]

@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-10-31T08:32:47.001472+00:00",
+  "article": "2026-10-31-19-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure agrees to voice lead in Japanese stop-motion film 'an anonymous figure' and expresses interest in 'an anonymous figure' sequel.",
+    "emotion": "excitement",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure film",
+      "puppet",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "deep blue",
+      "warm wood",
+      "golden brown"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure film",
+      "puppet",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "deep blue",
+      "warm wood",
+      "golden brown"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05"
+  ],
+  "prompt": "A wide shot of a film set, taken from a side-on view, with a 50mm lens captures the excitement and energy of the moment. The woman, a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, is seated in the centre of the frame, wearing a midnight-blue gown that complements the deep blue palette of the film. Her facial expression is one of rapt attention, with her slightly raised eyebrows, wide and attentive eyes, and lips just parted, as if she is on the edge of her seat. Her jaw is relaxed, and her head is tilted slightly up, giving her a sense of anticipation. She is leaning forward, elbows on knees, and her hands are holding a paper cup, a small gesture that adds to the sense of intimacy. The main subject, an anonymous figure, stands to her left, partially hidden by a soft haze and bokeh of the background. The mood is electric, and the composition is deliberate, with the people left of centre and the setting opening up to the right. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3639374455,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 140.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3639374455,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

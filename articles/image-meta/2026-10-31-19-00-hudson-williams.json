@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-10-31T08:33:03.382900+00:00",
+  "article": "2026-10-31-19-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure in the supernatural series an anonymous figure, which releases on Sky on 31 October.",
+    "emotion": "exciting",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "Henry Park",
+      "Logan Casey",
+      "Baba an anonymous figure legend",
+      "Sky"
+    ],
+    "time_and_light": "night, moonlight",
+    "palette": [
+      "dark blue",
+      "deep red",
+      "golden yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "Henry Park",
+      "Logan Casey",
+      "Baba an anonymous figure legend"
+    ],
+    "time_of_day": "night, moonlight",
+    "light": {
+      "source": "night, moonlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark blue",
+      "deep red",
+      "golden yellow"
+    ],
+    "mood": "exciting",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-12"
+  ],
+  "prompt": "A medium shot of a man in his late 40s with thinning dark hair and round glasses and olive skin, wearing a plain navy suit, leaning forward with his elbows on his knees and a paper cup held in his hands, slightly tilting his head upwards as he gazes up and off-frame to the right. His eyebrows are slightly raised, his eyes are wide and attentive, and his lips are just parted as he seems to be intently listening to something off-screen. His posture is relaxed, with a subtle tension in his shoulders, and his hands rest lightly on the cup as if he's just taken a sip. Behind him, a soft haze and bokeh of the film set opens up to the right, with the lights of the set softly illuminating the background. In the midground, Henry Park stands proudly, while Logan Casey looks on with a mixture of curiosity and concern. Baba, a mysterious figure, stands off to the side, their face partially obscured by shadows. The mood is electric, the air thick with anticipation and excitement. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3622807399,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by night, moonlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 81.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3622807399,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

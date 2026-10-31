@@ -1,7 +1,7 @@
 ---
 title: "Hudson Williams Plays Two Roles as Yaga Lands on Sky"
 description: "Yaga creator Kat Sandler says Hudson Williams pushed the new supernatural series to be bolder. It premieres on Sky and NOW on 31 October."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-10-31 19:00"
 celebrity: "Hudson Williams"
@@ -11,6 +11,13 @@ image_prompt: "A misty coastal fishing town at dusk on Halloween night, a lone l
 sources:
   - "https://www.radiotimes.com/tv/fantasy/yaga-hudson-williams-input-kat-sandler-exclusive-newsupdate/"
   - "https://www.theguardian.com/tv-and-radio/2026/oct/31/tv-tonight-halloween-weirdness-with-heated-rivalrys-hudson-williams"
+image_alt: "Illustration of a man in film set, lit by night, moonlight."
+image: "images/2026-10-31-19-00-hudson-williams.webp"
+wp_media_id: 1384
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-19-00-hudson-williams-768x432.webp"
+wp_id: 1385
+wp_link: "https://moduscarry.com/hudson-williams-plays-two-roles-as-yaga-lands-on-sky/"
+wp_synced: publish
 ---
 
 **Quick summary**
