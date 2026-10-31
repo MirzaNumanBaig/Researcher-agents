@@ -2671,6 +2671,22 @@
    "turns": 12,
    "seconds": 33,
    "cost_usd": 0.2036
+  },
+  {
+   "date": "2026-10-31",
+   "time": "2026-10-31T23:06:31+00:00",
+   "batch": "2026-11-01 10:00",
+   "celebrity": "Hudson Williams",
+   "article": "2026-11-01-10-00-hudson-williams.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 3653,
+   "cache_read_tokens": 143399,
+   "cache_write_tokens": 23314,
+   "turns": 9,
+   "seconds": 27,
+   "cost_usd": 0.1443
   }
  ]
 }
