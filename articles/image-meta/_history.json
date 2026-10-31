@@ -1,14 +1,5 @@
 [
  {
-  "article": "2026-10-30-07-00-jacob-elordi",
-  "shot": "wide establishing shot",
-  "angle": "from behind",
-  "lens": "24mm",
-  "palette": "neutral, gray and blue",
-  "prompt": "A wide establishing shot, taken from behind, captures a film set in disarray, with equipment and props scattered about, yet a sense of calm pervades the space, as if time has stood still. The studio lights, a soft gray and blue palette, cast a neutral tone across the scene, reflecting the uncertainty and sensitivity of the story. A lone film reel, its silver surface slightly tarnished, sits atop a dusty crate, a symbol of the story's central event, while the shadows of a nearby lighting rig stretch out, like ghostly fingers, across the floor. A faint streak of dust hangs in the air, a reminder of the quiet, respectful atmosphere that pervades the scene. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
   "article": "2026-10-30-07-00-hudson-williams",
   "shot": "medium-wide shot",
   "angle": "slightly high angle",
@@ -207,6 +198,18 @@
   "prompt": "A medium shot of a man in his late 40s with thinning dark hair and round glasses and olive skin, wearing a plain navy suit, leaning forward with his elbows on his knees and a paper cup held in his hands, slightly tilting his head upwards as he gazes up and off-frame to the right. His eyebrows are slightly raised, his eyes are wide and attentive, and his lips are just parted as he seems to be intently listening to something off-screen. His posture is relaxed, with a subtle tension in his shoulders, and his hands rest lightly on the cup as if he's just taken a sip. Behind him, a soft haze and bokeh of the film set opens up to the right, with the lights of the set softly illuminating the background. In the midground, Henry Park stands proudly, while Logan Casey looks on with a mixture of curiosity and concern. Baba, a mysterious figure, stands off to the side, their face partially obscured by shadows. The mood is electric, the air thick with anticipation and excitement. No text, no logos, no watermark.",
   "cast": [
    "cast-12"
+  ]
+ },
+ {
+  "article": "2026-11-01-01-00-michael-j-fox",
+  "shot": "medium-wide shot",
+  "angle": "slightly low angle",
+  "lens": "35mm",
+  "palette": "blue, gray and beige",
+  "prompt": "A medium shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin is seated at an angle to the man across a low table, her shoulders low and her head resting slightly back as she wraps her hands around a mug. Her facial expression is characterized by drawn-up eyebrows at the centre, unfocused and distant eyes, lips just closed, and a soft jawline. Her gaze is directed off-frame toward a window. The man, a man in his early 40s with close-cropped black hair and dark brown skin, is seated at an angle to the woman across the low table, his posture relaxed as he leans forward with his elbows on his knees. His facial expression is marked by slightly raised eyebrows, wide and attentive eyes, lips just parted, and a relaxed jawline. His gaze is directed up and off-frame right. The man is wearing a burnt-orange bomber jacket, while the woman wears a white linen shirt. The scene is shot on a full-frame camera, with a fine film grain and true-to-life colour. No text, no logos, no watermark.",
+  "cast": [
+   "cast-01",
+   "cast-08"
   ]
  }
 ]

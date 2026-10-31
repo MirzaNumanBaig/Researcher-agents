@@ -1,7 +1,7 @@
 ---
 title: "Chris Hemsworth leaves G.I. Joe as Extraction 3 wraps in Thailand"
 description: "Chris Hemsworth has reportedly dropped out of Paramount's G.I. Joe reboot, while Extraction 3 finishes its Thailand shoot."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-01 01:00"
 celebrity: "Chris Hemsworth"
@@ -12,6 +12,14 @@ sources:
   - "https://www.digitalspy.com/movies/a74298845/chris-hemsworth-extraction-3-filming-update/"
   - "https://mothership.sg/2026/10/chris-hemsworth-singapore-jewel-changi/"
   - "https://thedirect.com/article/chris-hemsworth-mcu-thor-retirement-action-franchise"
+image: "images/2026-11-01-01-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a>"
+wp_media_id: 1391
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-11-01-01-00-chris-hemsworth-768x432.webp"
+wp_id: 1392
+wp_link: "https://moduscarry.com/chris-hemsworth-leaves-g-i-joe-as-extraction-3-wraps-in-thailand/"
+wp_synced: publish
 ---
 
 **Quick summary**

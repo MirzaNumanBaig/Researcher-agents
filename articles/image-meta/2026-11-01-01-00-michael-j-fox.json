@@ -1,0 +1,145 @@
+{
+  "timestamp": "2026-10-31T15:16:47.485825+00:00",
+  "article": "2026-11-01-01-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure reflects on his early career and return to acting in 'an anonymous figure'",
+    "emotion": "reflective",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "the figure, U.S.A.",
+      "an anonymous figure",
+      "Norman Lear",
+      "Alex Haley"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "gray",
+      "beige"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "the figure, U.S.A.",
+      "an anonymous figure",
+      "Norman Lear"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "beige"
+    ],
+    "mood": "reflective",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-01",
+    "cast-08"
+  ],
+  "prompt": "A medium shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin is seated at an angle to the man across a low table, her shoulders low and her head resting slightly back as she wraps her hands around a mug. Her facial expression is characterized by drawn-up eyebrows at the centre, unfocused and distant eyes, lips just closed, and a soft jawline. Her gaze is directed off-frame toward a window. The man, a man in his early 40s with close-cropped black hair and dark brown skin, is seated at an angle to the woman across the low table, his posture relaxed as he leans forward with his elbows on his knees. His facial expression is marked by slightly raised eyebrows, wide and attentive eyes, lips just parted, and a relaxed jawline. His gaze is directed up and off-frame right. The man is wearing a burnt-orange bomber jacket, while the woman wears a white linen shirt. The scene is shot on a full-frame camera, with a fine film grain and true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3963861982,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 189.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3963861982,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
