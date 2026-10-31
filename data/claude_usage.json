@@ -2687,6 +2687,22 @@
    "turns": 9,
    "seconds": 27,
    "cost_usd": 0.1443
+  },
+  {
+   "date": "2026-10-31",
+   "time": "2026-10-31T23:07:35+00:00",
+   "batch": "2026-11-01 10:00",
+   "celebrity": "Michael Cera",
+   "article": "2026-11-01-10-00-michael-cera.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 936,
+   "cache_read_tokens": 73710,
+   "cache_write_tokens": 19064,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.0931
   }
  ]
 }
