@@ -17,6 +17,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-09-00-hu
 wp_id: 1375
 wp_link: "https://moduscarry.com/hudson-williams-on-fans-parasocial-bonds-and-shipping/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
