@@ -18,6 +18,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-19-00-hu
 wp_id: 1385
 wp_link: "https://moduscarry.com/hudson-williams-plays-two-roles-as-yaga-lands-on-sky/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
