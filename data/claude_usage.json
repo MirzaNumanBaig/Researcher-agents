@@ -2655,6 +2655,22 @@
    "turns": 10,
    "seconds": 15,
    "cost_usd": 0.1247
+  },
+  {
+   "date": "2026-10-31",
+   "time": "2026-10-31T23:05:04+00:00",
+   "batch": "2026-11-01 10:00",
+   "celebrity": "Delta Goodrem",
+   "article": "2026-11-01-10-00-delta-goodrem.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 4671,
+   "cache_read_tokens": 236302,
+   "cache_write_tokens": 33280,
+   "turns": 12,
+   "seconds": 33,
+   "cost_usd": 0.2036
   }
  ]
 }
