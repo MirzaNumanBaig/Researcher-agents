@@ -1,0 +1,48 @@
+{
+  "batch": "2026-11-01 01:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "Michael J. Fox's First Major TV Role Was On A Forgotten Historical Drama",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zZzRsU1NaSjVnV2lnSzc5SFhRZ0JjQW5UYmlGcFFLTTBNdjZsVWxpTzkzcjA4eGNnaVgtU2J3TmlhTF9fUTRoRE9JZi1JMnlyM0lWbWdfR1VJRV91bDJQUUFYVGdYalBMMFNkQjln?oc=5",
+      "published": "2026-10-31T14:11:35+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zZzRsU1NaSjVnV2lnSzc5SFhRZ0JjQW5UYmlGcFFLTTBNdjZsVWxpTzkzcjA4eGNnaVgtU2J3TmlhTF9fUTRoRE9JZi1JMnlyM0lWbWdfR1VJRV91bDJQUUFYVGdYalBMMFNkQjln?oc=5",
+          "article_url": "https://www.imdb.com/es-es/news/ni66088865/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2ZsU1oyYnlZazEwQktIVXc4cFRaa1oyUmY1MHZNMkcyMWZpV0JJZE96NTk3eUdKZWx2VTBDMUJkTVgyX1kxbmhDNUxUZE5uZzlHZ0gteHhTb09kbnVJV2lJSlpLQ2FWSWpTZkN3ZFlKLVBhaENvMmdoVVdfOGFxTkw1TXJ4WE15Ym1BaXdXTUZPWDA?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/tv/articles/michael-j-foxs-first-major-131200732.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/7c3f2ca45bdeff56c36c044aab8cfe4079ca5db49de7026f1a5d24ff7a2008f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftvline.com%2Ff08ac575c8afe738dff14a3896746906.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/7c3f2ca45bdeff56c36c044aab8cfe4079ca5db49de7026f1a5d24ff7a2008f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftvline.com%2Ff08ac575c8afe738dff14a3896746906.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/tv/articles/michael-j-foxs-first-major-131200732.html"
+    },
+    {
+      "title": "Quote Of The Day By Michael J. Fox: 'It's Really Prolonged My Life And Made My Life Interesting In...'",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mT0Uxb1AybmVqLUVYVXVrd3lxUFB3SFVhaVlXanltS0JibDVmVHkzbU1mSmZYTUFITEFyR2YxNXVkM1YzckJodl9Rcjh2TUlnREpua1oxR2JQbGFGY2d2ajBmRzRZbWJIb1E?oc=5",
+      "published": "2026-10-31T12:46:30+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mT0Uxb1AybmVqLUVYVXVrd3lxUFB3SFVhaVlXanltS0JibDVmVHkzbU1mSmZYTUFITEFyR2YxNXVkM1YzckJodl9Rcjh2TUlnREpua1oxR2JQbGFGY2d2ajBmRzRZbWJIb1E?oc=5",
+          "article_url": "https://www.imdb.com/de/news/ni66088775/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "TVLine",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXhrNnpwRTlKVUswSUdNdE9lbmVXdTFrRzdBY2QxaXpxUXZaNlQ4U3A1TXJlQmVaTmlmQVg2RzhBUGU1MExDNlVKMHJ5aGxwR2VhZWVwUVpPU0hZODBLMzEtTUxQUjlZRlVvZ1JWcGxKMWxqVC1nV0RaTTRCWEw3bmZDTzdxcjNKbHhldA?oc=5",
+          "article_url": "https://www.tvline.com/2302293/quote-of-the-day-michael-j-fox-make-life-interesting/",
+          "image": "https://www.tvline.com/img/gallery/quote-of-the-day-by-michael-j-fox-its-really-prolonged-my-life-and-made-my-life-interesting-in/l-intro-1793371721.jpg"
+        }
+      ],
+      "image": "https://www.tvline.com/img/gallery/quote-of-the-day-by-michael-j-fox-its-really-prolonged-my-life-and-made-my-life-interesting-in/l-intro-1793371721.jpg",
+      "image_source": "https://www.tvline.com/2302293/quote-of-the-day-michael-j-fox-make-life-interesting/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-01 01:00",
+  "celebrity": "Hugh Jackman",
+  "stories": [
+    {
+      "title": "Hugh Jackman's Underrated Action Thriller Movie Marks HBO Max as Its Next Streaming Home",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejlwYVptZlgyYXRSQXp2UEhVcGI3SUt6TkVLQ01oVmU5RUhuVFp5Z2E1Z2xSZDFHRVMweVh0eXQ4RFdXaXVpcXM1eFRBSlVDLVBaaWFYN3ZnX1QtN042dEtyWVJITDF3RlllQ0F5M1RBb21ZeXZWdWtneGVpWTVhWDJRODY0cVFUZ3c?oc=5",
+      "published": "2026-10-31T14:00:58+00:00",
+      "outlets": [
+        {
+          "source": "Comic Book Resources",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejlwYVptZlgyYXRSQXp2UEhVcGI3SUt6TkVLQ01oVmU5RUhuVFp5Z2E1Z2xSZDFHRVMweVh0eXQ4RFdXaXVpcXM1eFRBSlVDLVBaaWFYN3ZnX1QtN042dEtyWVJITDF3RlllQ0F5M1RBb21ZeXZWdWtneGVpWTVhWDJRODY0cVFUZ3c?oc=5",
+          "article_url": "https://www.cbr.com/hugh-jackman-wolverine-action-thriller-hbo-max-streaming-home/",
+          "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/hugh-jackman-as-logan-inside-a-bunker-the-wolverine.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/hugh-jackman-as-logan-inside-a-bunker-the-wolverine.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://www.cbr.com/hugh-jackman-wolverine-action-thriller-hbo-max-streaming-home/"
+    }
+  ]
+}

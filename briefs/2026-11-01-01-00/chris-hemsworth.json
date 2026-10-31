@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-01 01:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "Chris Hemsworth's long-awaited Netflix sequel gets exciting filming update",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3FZbnVCQXV6U29pUmJIVGFqLUVSaWQ5TFcxYjlZR1JEX21kbmpkYWdzVThabjdaUEtUTXRUd0VMUFhNSUVOakJ3WUZpQkY3b3UzQTZiQWNqc0RlUy1OdmN3RFp3Y21MQzRmZlNsT2JhbVZVT053YjNwS2ZsX0FYcDR5VlYyOUdaOEJ6NnZyVnRuZw?oc=5",
+      "published": "2026-10-31T12:16:01+00:00",
+      "outlets": [
+        {
+          "source": "Digital Spy",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3FZbnVCQXV6U29pUmJIVGFqLUVSaWQ5TFcxYjlZR1JEX21kbmpkYWdzVThabjdaUEtUTXRUd0VMUFhNSUVOakJ3WUZpQkY3b3UzQTZiQWNqc0RlUy1OdmN3RFp3Y21MQzRmZlNsT2JhbVZVT053YjNwS2ZsX0FYcDR5VlYyOUdaOEJ6NnZyVnRuZw?oc=5",
+          "article_url": "https://www.digitalspy.com/movies/a74298845/chris-hemsworth-extraction-3-filming-update/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/chris-hemsworth-extraction-2-642a95689cced.jpg?crop=0.689xw:0.518xh;0.194xw,0.0978xh&resize=1200:*"
+        }
+      ],
+      "image": "https://hips.hearstapps.com/hmg-prod/images/chris-hemsworth-extraction-2-642a95689cced.jpg?crop=0.689xw:0.518xh;0.194xw,0.0978xh&resize=1200:*",
+      "image_source": "https://www.digitalspy.com/movies/a74298845/chris-hemsworth-extraction-3-filming-update/"
+    },
+    {
+      "title": "Chris Hemsworth dines at Nong Geng Ji at Jewel Changi Airport, manager requests photo",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sNDM3aUtVOXdHWDl2d3Rob0dXR3ZYc3dsT3RCVHJWRTJvbzQ0ZUc2dENhdHc5b0N0RzRkN1FmNUs3Q1dWMUR0ZldpM0hYMnpneWdQVWRFT0ZfUTFtMW5reHhEV0h3eGRZQ0pSTjlNVm9CZEUyMlZLaQ?oc=5",
+      "published": "2026-10-31T09:52:03+00:00",
+      "outlets": [
+        {
+          "source": "Mothership",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sNDM3aUtVOXdHWDl2d3Rob0dXR3ZYc3dsT3RCVHJWRTJvbzQ0ZUc2dENhdHc5b0N0RzRkN1FmNUs3Q1dWMUR0ZldpM0hYMnpneWdQVWRFT0ZfUTFtMW5reHhEV0h3eGRZQ0pSTjlNVm9CZEUyMlZLaQ?oc=5",
+          "article_url": "https://mothership.sg/2026/10/chris-hemsworth-singapore-jewel-changi/",
+          "image": "https://static.mothership.sg/1/2026/10/chris-hemsworth-jewel.jpg"
+        }
+      ],
+      "image": "https://static.mothership.sg/1/2026/10/chris-hemsworth-jewel.jpg",
+      "image_source": "https://mothership.sg/2026/10/chris-hemsworth-singapore-jewel-changi/"
+    },
+    {
+      "title": "Chris Hemsworth Drops Out Of Major Action Movie Franchise Amid MCU Thor Retirement Concerns",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQl9TcHNuUnlDVEdraEVwbThLbDJYZXFJVnBscWswWnNIZmlCMTJ2cVY1bzdsQ2FDcWlYZ3QwNElaU25ra3l5STU5MGJDMnhnRUtpSnIwbFRHa3FjVWNoQ0k5NDBBam1odk1LV2t6d1VVYlJoQW0zTUxsd3FPZzNOX0FVS0lMMFpyT1E?oc=5",
+      "published": "2026-10-31T08:42:55+00:00",
+      "outlets": [
+        {
+          "source": "The Direct",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQl9TcHNuUnlDVEdraEVwbThLbDJYZXFJVnBscWswWnNIZmlCMTJ2cVY1bzdsQ2FDcWlYZ3QwNElaU25ra3l5STU5MGJDMnhnRUtpSnIwbFRHa3FjVWNoQ0k5NDBBam1odk1LV2t6d1VVYlJoQW0zTUxsd3FPZzNOX0FVS0lMMFpyT1E?oc=5",
+          "article_url": "https://thedirect.com/article/chris-hemsworth-mcu-thor-retirement-action-franchise",
+          "image": "https://images.thedirect.com/media/article_full/1000012071.jpg"
+        }
+      ],
+      "image": "https://images.thedirect.com/media/article_full/1000012071.jpg",
+      "image_source": "https://thedirect.com/article/chris-hemsworth-mcu-thor-retirement-action-franchise"
+    }
+  ]
+}
