@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-02 04:00",
+  "celebrity": "Hugh Jackman",
+  "stories": [
+    {
+      "title": "Hugh Jackman Starred In A Forgotten Sci-Fi Flop From The Director Of District 9",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDdyVXlyLU1vbHBTMy1PNm9RcExfbUZ2MGwwNEtnd3ozdUdRQk1sR1hOV2dfUTNhcl9IWHJ3UlZhTmN5WUFvbDdYQ0hYeVpQeVRHVFlXc0NIMWJ3cGFEcmN2eTYzb3IwYlpQWDBNRWtUSDNKT2dteklsSFhWMXp0T0poOEYwNmMyOHhHNzdOOW8?oc=5",
+      "published": "2026-11-01T16:00:00+00:00",
+      "outlets": [
+        {
+          "source": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDdyVXlyLU1vbHBTMy1PNm9RcExfbUZ2MGwwNEtnd3ozdUdRQk1sR1hOV2dfUTNhcl9IWHJ3UlZhTmN5WUFvbDdYQ0hYeVpQeVRHVFlXc0NIMWJ3cGFEcmN2eTYzb3IwYlpQWDBNRWtUSDNKT2dteklsSFhWMXp0T0poOEYwNmMyOHhHNzdOOW8?oc=5",
+          "article_url": "https://www.slashfilm.com/2302361/hugh-jackman-sci-fi-flop-district-9-director-chappie/",
+          "image": "https://www.slashfilm.com/img/gallery/hugh-jackman-starred-in-a-forgotten-sci-fi-flop-from-the-director-of-district-9/l-intro-1793306846.jpg"
+        }
+      ],
+      "image": "https://www.slashfilm.com/img/gallery/hugh-jackman-starred-in-a-forgotten-sci-fi-flop-from-the-director-of-district-9/l-intro-1793306846.jpg",
+      "image_source": "https://www.slashfilm.com/2302361/hugh-jackman-sci-fi-flop-district-9-director-chappie/"
+    }
+  ]
+}
