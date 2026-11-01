@@ -18,6 +18,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-01-15-00-co
 wp_id: 1412
 wp_link: "https://moduscarry.com/connor-storrie-and-hudson-williams-go-as-bugonia-leads/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
