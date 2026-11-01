@@ -1,7 +1,7 @@
 ---
 title: "Renate Reinsve linked to Marvel's X-Men reboot, report says"
 description: "A rumour says Renate Reinsve has met Marvel about playing Moira MacTaggert in the X-Men reboot. Marvel has not confirmed it."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-02 04:00"
 celebrity: "Renate Reinsve"
@@ -11,6 +11,13 @@ image_prompt: "An empty cinema auditorium with a glowing blank screen and rows o
 sources:
   - "https://comicbookmovie.com/x_men/rumor-backrooms-star-renate-reinsve-has-met-with-marvel-to-play-a-surprising-x-men-reboot-character-a230748"
   - "https://www.imdb.com/news/ni66090030/?ref_=nmnw_art_perm"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-02-04-00-renate-reinsve.webp"
+wp_media_id: 1425
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-02-04-00-renate-reinsve-768x432.webp"
+wp_id: 1426
+wp_link: "https://moduscarry.com/renate-reinsve-linked-to-marvels-x-men-reboot-report-says/"
+wp_synced: publish
 ---
 
 **Quick summary**

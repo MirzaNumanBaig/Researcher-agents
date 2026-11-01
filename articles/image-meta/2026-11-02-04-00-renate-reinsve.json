@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-11-01T17:54:12.139427+00:00",
+  "article": "2026-11-02-04-00-renate-reinsve",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure linked to the figure's an anonymous figure reboot",
+    "emotion": "exciting",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure reboot",
+      "Moira MacTaggert",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure reboot",
+      "Moira MacTaggert",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "mood": "exciting",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of an empty armchair in a well-appointed study, the back to the camera. A wide, subtle curve of the chair's back rises like a gentle wave, inviting contemplation. The leather upholstery, a warm, rich brown, seems to glow softly in the diffused light that pours through a rain-streaked window behind the chair. A delicate dance of light and shadow plays across the floorboards, softening the space. The camera, positioned over the shoulder of an absent occupant, gazes down the length of the room, its 35mm lens capturing the scene with a subtle, cinematic nuance. A soft focus and a touch of grain give the image a candid, editorial quality, reminiscent of a natural film-like colour palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: 206 words (needs 60-200)"
+  ],
+  "seed": 956419220,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 213.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 956419220,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

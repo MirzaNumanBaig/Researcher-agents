@@ -1,28 +1,5 @@
 [
  {
-  "article": "2026-10-31-00-00-pamela-anderson",
-  "shot": "medium shot",
-  "angle": "three-quarter view",
-  "lens": "85mm",
-  "palette": "autumnal red, green and golden brown",
-  "prompt": "A medium shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, her smooth and softly arched eyebrows slightly raised, her confident and direct eyes locking onto the camera, her mouth forming a composed soft smile, her jaw lifted slightly as she surveys the serene scene before her. Her quarter-turned head and chin raised posture convey a sense of poise and calmness, her shoulders back and spine long, giving off an aura of self-assurance. One hand rests on her hip, while the other hand is absent, as if lost in thought, adding to the candid and unposed moment. She wears a crisp white linen shirt, which contrasts beautifully with the autumnal red, green and golden brown hues of the setting. The camera captures her from a three-quarter view, using an 85mm lens, which creates a sense of depth and intimacy. The composition places the people left of centre, with the setting opening up to the right, creating a sense of balance and harmony. No text, no logos, no watermark.",
-  "cast": [
-   "cast-01"
-  ]
- },
- {
-  "article": "2026-10-31-00-00-hudson-williams",
-  "shot": "medium shot",
-  "angle": "side-on view",
-  "lens": "35mm",
-  "palette": "neutral, calm and insightful",
-  "prompt": "A medium shot of a woman in her mid 30s with a high dark-blonde ponytail and sun-warmed tan skin, wearing a black leather jacket, seated at an angle to a woman in her late 20s with long straight black hair and warm beige skin, who is wearing an emerald silk dress, across a low table in a TV studio. The first woman's eyebrows are drawn up gently at the centre, her eyes are unfocused and distant, her lips are just closed, and her jaw is soft, with a soft gaze off-frame toward a window, her head resting slightly back and her shoulders low. The second woman's eyebrows are slightly raised, her eyes are wide and attentive, her lips are just parted, and her jaw is relaxed, with a tilted head slightly up and leaning forward, elbows on knees, her hands holding a paper cup. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, and true-to-life colour. No text, no logos, no watermark.",
-  "cast": [
-   "cast-11",
-   "cast-03"
-  ]
- },
- {
   "article": "2026-10-31-00-00-alisha-boe",
   "shot": "medium-wide shot",
   "angle": "slightly low angle",
@@ -211,5 +188,25 @@
   "palette": "red, black and silver",
   "prompt": "A wide establishing shot from behind, taken with a 24mm lens, captures an empty, dimly lit film set from the back of the stage. A single empty wooden chair sits at the edge of the frame, partially shrouded in shadows. Soft grey light seeps through a rain-streaked window high above, casting a serene ambiance across the floor. The set's skeletal framework and metal catwalks are visible in the background, a testament to the bustling world of production that lies beyond the camera's gaze. The studio lights, although present, are muted, adding to the overall sense of calm and reverence. The colour palette is subdued, with hues of red, black, and silver subtly woven throughout the scene. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "cast": []
+ },
+ {
+  "article": "2026-11-02-04-00-renate-reinsve",
+  "shot": "over-the-shoulder shot",
+  "angle": "from behind",
+  "lens": "35mm",
+  "palette": "blue, silver and black",
+  "prompt": "A medium shot of an empty armchair in a well-appointed study, the back to the camera. A wide, subtle curve of the chair's back rises like a gentle wave, inviting contemplation. The leather upholstery, a warm, rich brown, seems to glow softly in the diffused light that pours through a rain-streaked window behind the chair. A delicate dance of light and shadow plays across the floorboards, softening the space. The camera, positioned over the shoulder of an absent occupant, gazes down the length of the room, its 35mm lens capturing the scene with a subtle, cinematic nuance. A soft focus and a touch of grain give the image a candid, editorial quality, reminiscent of a natural film-like colour palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-11-02-04-00-connor-storrie",
+  "shot": "wide shot",
+  "angle": "slightly high angle",
+  "lens": "85mm",
+  "palette": "blue, gold and black",
+  "prompt": "A wide shot from slightly above, captured with an 85mm lens, reveals a dimly lit television studio, its evening studio lights casting a warm glow from the side. The woman, a woman in her early 20s with loose curly dark brown hair and rich brown skin, stands proudly to the left of centre, wearing an oversized black blazer. Her level and calm eyebrows frame bright and steady eyes that shine with a restrained smile, her jaw set in determination. Her chin is held high, her head level, and her posture is upright, with her shoulders back. One hand holds a trophy, the Emmy award, against her chest, a symbol of her nomination for hosting Saturday Night Live. The soft haze and bokeh of the background blur the details of the studio, focusing attention on the main subject. To the right, the television studio opens up, its vast space empty except for a distant hint of the Saturday Night Live. No text, no logos, no watermark.",
+  "cast": [
+   "cast-07"
+  ]
  }
 ]
