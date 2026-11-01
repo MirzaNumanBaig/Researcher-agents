@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-01T21:51:17.172616+00:00",
+  "article": "2026-11-02-08-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure reveals his friendship with an anonymous figure took years to develop.",
+    "emotion": "heartwarming",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure trilogy",
+      "memoir",
+      "Instagram",
+      "birthday message"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "warm beige",
+      "deep blue",
+      "golden yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure trilogy",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure trilogy",
+      "memoir",
+      "Instagram",
+      "birthday message"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "warm beige",
+      "deep blue",
+      "golden yellow"
+    ],
+    "mood": "heartwarming",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-03",
+    "cast-06"
+  ],
+  "prompt": "A medium-wide shot of the film set from a side-on view, taken with a 50mm lens, captures the heartwarming moment between the two anonymous figures. The woman, in her late 20s, sits at a low table, her long straight black hair cascading down her warm beige skin, her emerald silk dress a vibrant contrast to the muted tones of the film set. Her eyebrows are drawn up gently at the centre, her eyes unfocused and distant, her lips just closed, and her jaw soft as she gazes off-frame toward a window. Her head rests slightly the figure, her shoulders low, and her hands wrapped around a mug. She is seated at an angle to the man, who sits across from her, his dark green wool jacket a striking contrast to the warm beige and deep blue hues of the film set. The man, in his mid 50s, has short grey-flecked hair and a beard, his tan skin a testament to his years of experience. The depth of field is shallow, with the foreground and midground in sharp focus and the background blurred. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3534042385,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in film set, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 97.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3534042385,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
