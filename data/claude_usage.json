@@ -3135,6 +3135,22 @@
    "turns": 6,
    "seconds": 12,
    "cost_usd": 0.0977
+  },
+  {
+   "date": "2026-11-01",
+   "time": "2026-11-01T17:53:40+00:00",
+   "batch": "2026-11-02 04:00",
+   "celebrity": "Seth Rogen",
+   "article": "2026-11-02-04-00-seth-rogen.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 856,
+   "cache_read_tokens": 71423,
+   "cache_write_tokens": 16691,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.0826
   }
  ]
 }
