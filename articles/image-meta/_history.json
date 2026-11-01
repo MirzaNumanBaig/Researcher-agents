@@ -1,37 +1,5 @@
 [
  {
-  "article": "2026-10-30-11-00-heath-ledger",
-  "shot": "wide establishing shot",
-  "angle": "high angle",
-  "lens": "24mm",
-  "palette": "red, black and white",
-  "prompt": "A single empty wooden chair beside a tall window, a row of lit white candles on a small table. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Wide establishing shot, 24mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-10-31-00-00-pamela-anderson",
-  "shot": "wide shot",
-  "angle": "slightly low angle",
-  "lens": "85mm",
-  "palette": "warm red, golden brown and soft green",
-  "prompt": "A wide shot of the figure on Vancouver Island, taken from a slightly low angle, captures the serene atmosphere of a rainy day. A man in his mid 50s with short grey-flecked hair and a beard, tan skin, and a white shirt with sleeves rolled stands confidently beside the figure, one hand resting on his hip, his head quarter-turned toward the lens with his chin raised. His smooth and softly arched eyebrows, confident and direct eyes, and a composed soft smile convey a sense of warmth. His gaze is steady and direct, toward the camera, as if sharing a moment of peace with the viewer. The main subject, an anonymous figure, sits beside a book on the figure's lap, surrounded by the soft haze and bokeh of the rainy day setting, which opens up to the right, creating a sense of depth. The setting is serene, with a natural skin texture on the man's face, visible pores, and small imperfections, creating a candid and unposed moment, captured on a full-frame camera with a fine film grain, true-to-life colour. No text, no logos, no watermark.",
-  "cast": [
-   "cast-06"
-  ]
- },
- {
-  "article": "2026-10-31-00-00-hudson-williams",
-  "shot": "medium-wide shot",
-  "angle": "side-on view",
-  "lens": "50mm",
-  "palette": "neutral, calm and honest",
-  "prompt": "A medium-wide shot of a TV studio, captured from a side-on view with a 50mm lens, frames the scene with the subject matter situated left of centre. The evening studio lights cast a warm glow from the side, illuminating the faces of two individuals seated at a low table across from each other. A celebrity interview prop sits in the foreground, a symbol of the series' purpose. The main subject, a man in his late 30s with short dark greying hair and medium-brown skin, wears a black tuxedo and exudes an air of quiet introspection. His eyebrows are drawn up gently at the centre, his unfocused and distant eyes gazing off-frame toward a window. His lips are just closed, and his jaw is soft. He rests his head slightly back, with his shoulders low and his hands wrapped around a mug. The soft haze and bokeh of the background blur subtly highlights the genuine connection between these two individuals, captured in a candid unposed moment. No text, no logos, no watermark.",
-  "cast": [
-   "cast-02",
-   "cast-09"
-  ]
- },
- {
   "article": "2026-10-31-00-00-alisha-boe",
   "shot": "wide shot",
   "angle": "slightly high angle",
@@ -215,5 +183,35 @@
   "cast": [
    "cast-04"
   ]
+ },
+ {
+  "article": "2026-11-01-15-00-ryan-gosling",
+  "shot": "wide shot",
+  "angle": "eye-level",
+  "lens": "85mm",
+  "palette": "blue, green and yellow",
+  "prompt": "A wide shot of the audition room from an eye-level perspective, captured with an 85mm lens. A woman in her mid 30s with a high dark-blonde ponytail and sun-warmed tan skin sits seated at an angle to another woman, her shoulders low and her head resting slightly back. Her lips are just closed, and her jaw is soft, with her eyebrows drawn up gently at the centre and her unfocused, distant eyes gazing off-frame toward a window. She wears a forest-green wrap dress, and her hands are wrapped around a mug. The second woman, in her mid 40s with a sleek silver-streaked bob and deep brown skin, sits across from her, wearing a midnight-blue gown. Her eyebrows are slightly raised, and her wide, attentive eyes are fixed up and off-frame right. Her lips are just parted, and her jaw is relaxed, with her head tilted slightly up and her elbows resting on her knees. The setting opens up to the right, with a soft haze and bokeh in the background, drawing the viewer's eye to the two women at the centre of the frame. No text, no logos, no watermark.",
+  "cast": [
+   "cast-11",
+   "cast-05"
+  ]
+ },
+ {
+  "article": "2026-11-01-15-00-heath-ledger",
+  "shot": "wide establishing shot",
+  "angle": "from behind",
+  "lens": "24mm",
+  "palette": "soft pink, deep blue and golden yellow",
+  "prompt": "A single empty wooden chair beside a tall window, a row of lit white candles on a small table. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Wide establishing shot, 24mm lens, from behind, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-11-01-15-00-connor-storrie",
+  "shot": "wide establishing shot",
+  "angle": "from behind",
+  "lens": "24mm",
+  "palette": "orange, black and silver",
+  "prompt": "A wide establishing shot from behind, taken with a 24mm lens, shows a bustling film set filled with crew members and technicians in the midground, with a large, ornate door in the background, partially blurred due to the depth of field. The door is adorned with a giant, glowing Bugonia in orange and black, while a section of the set's metal scaffolding reflects the bright sunlight, casting a silver glow. Michelle Fuller, dressed in a bright orange wig and a Bugonia costume, enthusiastically gestures to the camera, her eyes shining with excitement as she stands near the center of the frame, with Teddy Gatz watching from a short distance, a hint of a smile playing on his lips. The atmosphere is lively and playful, with crew members laughing and chatting in the background, their movements and conversations creating a sense of energy and chaos. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
  }
 ]

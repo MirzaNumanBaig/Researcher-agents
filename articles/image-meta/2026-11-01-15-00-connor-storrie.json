@@ -1,0 +1,118 @@
+{
+  "timestamp": "2026-11-01T04:29:44.218258+00:00",
+  "article": "2026-11-01-15-00-connor-storrie",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure and an anonymous figure dressed up as Bugonia leads for Halloween.",
+    "emotion": "funny",
+    "setting": "film set",
+    "key_objects": [
+      "Halloween costume",
+      "Bugonia film",
+      "Michelle Fuller",
+      "Teddy Gatz"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "orange",
+      "black",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Halloween costume",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "Halloween costume",
+      "Bugonia film",
+      "Michelle Fuller",
+      "Teddy Gatz"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "orange",
+      "black",
+      "silver"
+    ],
+    "mood": "funny",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot from behind, taken with a 24mm lens, shows a bustling film set filled with crew members and technicians in the midground, with a large, ornate door in the background, partially blurred due to the depth of field. The door is adorned with a giant, glowing Bugonia in orange and black, while a section of the set's metal scaffolding reflects the bright sunlight, casting a silver glow. Michelle Fuller, dressed in a bright orange wig and a Bugonia costume, enthusiastically gestures to the camera, her eyes shining with excitement as she stands near the center of the frame, with Teddy Gatz watching from a short distance, a hint of a smile playing on his lips. The atmosphere is lively and playful, with crew members laughing and chatting in the background, their movements and conversations creating a sense of energy and chaos. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3463620295,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film set with Halloween costume and Bugonia film, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 283.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 3463620295,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 title: "Connor Storrie and Hudson Williams go as Bugonia leads"
 description: "Heated Rivalry stars Connor Storrie and Hudson Williams wore matching Bugonia costumes for Halloween while filming season two."
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-01 15:00"
 celebrity: "Connor Storrie"
@@ -11,6 +11,13 @@ image_prompt: "A dimly lit autumn porch at night with carved pumpkins glowing an
 sources:
   - "https://www.justjared.com/2026/10/31/connor-storrie-hudson-williams-dress-up-as-emma-stone-jesse-plemons-in-bugonia-for-halloween/"
   - "https://www.imdb.com/de/news/ni66089681/?ref_=nwc_art_perm"
+image_alt: "Illustration of film set with Halloween costume and Bugonia film, lit by daytime, natural light."
+image: "images/2026-11-01-15-00-connor-storrie.webp"
+wp_media_id: 1411
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-01-15-00-connor-storrie-768x432.webp"
+wp_id: 1412
+wp_link: "https://moduscarry.com/connor-storrie-and-hudson-williams-go-as-bugonia-leads/"
+wp_synced: publish
 ---
 
 **Quick summary**
