@@ -18,6 +18,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-02-04-00-re
 wp_id: 1426
 wp_link: "https://moduscarry.com/renate-reinsve-linked-to-marvels-x-men-reboot-report-says/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**

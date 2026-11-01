@@ -17,6 +17,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-02-04-00-co
 wp_id: 1420
 wp_link: "https://moduscarry.com/connor-storrie-the-emmy-nod-for-snl-not-heated-rivalry/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
