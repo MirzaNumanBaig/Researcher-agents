@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-01 22:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Marvel Studios Finally Confirms Deadpool's Return, Right As Ryan Reynolds' 'Avengers Doomsday' Appearance Speculation Hits A New High",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzBEX3pKRUY5NFAtWUZhdEc2VDhNdFFudmFtdnFFeTUxaEVuMGNCSS1SVUxyT0JKZmVsUEJxTnp3YmUwakZtWmJ4TTBwUlFYQ0hqeHBuREM2c3ZsclczcmZSSjQ4N0RlQk54Tm0wS2ZZb3dxMHlLNVJpdGVrRDR0Q0R1QQ?oc=5",
+      "published": "2026-11-01T07:58:01+00:00",
+      "outlets": [
+        {
+          "source": "The Direct",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzBEX3pKRUY5NFAtWUZhdEc2VDhNdFFudmFtdnFFeTUxaEVuMGNCSS1SVUxyT0JKZmVsUEJxTnp3YmUwakZtWmJ4TTBwUlFYQ0hqeHBuREM2c3ZsclczcmZSSjQ4N0RlQk54Tm0wS2ZZb3dxMHlLNVJpdGVrRDR0Q0R1QQ?oc=5",
+          "article_url": "https://thedirect.com/article/marvel-studios-deadpool-avengers-doomsday-cameo",
+          "image": "https://images.thedirect.com/media/article_full/1000012096.jpg"
+        }
+      ],
+      "image": "https://images.thedirect.com/media/article_full/1000012096.jpg",
+      "image_source": "https://thedirect.com/article/marvel-studios-deadpool-avengers-doomsday-cameo"
+    },
+    {
+      "title": "Ryan Reynolds' 111-Minute Action Hit Hailed as \"One of the Year's Best\" Refuses To Back Down on Streaming",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDQmZ6cHZONDgtOHdMRkJURXNqdFBHcXV5amc4c3R3cEZFSUwzNkoxMUFvbnFQeDB0MTA0YUE5NE1MalVmU3dEWkRUZUFBUQ?oc=5",
+      "published": "2026-11-01T04:02:41+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDQmZ6cHZONDgtOHdMRkJURXNqdFBHcXV5amc4c3R3cEZFSUwzNkoxMUFvbnFQeDB0MTA0YUE5NE1MalVmU3dEWkRUZUFBUQ?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66046180/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Ryan Reynolds to join Ranbir Kapoor, Yash at Ramayana LA premiere",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUZFQ0dRRjItSElLQzlLRVVjSWJRQXRJWG9NaTBRemh1RWhlWE1YeHZFVXRsajF0M0xQa0lBRWdnVTJMcU1GQlNCSjRoS2cyVjdKM2NyLTk2RjR5ejZKYVk3Q3NpbEVXZDk5WWo0aDBhRTY4eEFJSkIwTkpOZmpsd1lPeVFRYzNoTHNWSDVwX2M0WjYzd25FanRGQTFyQWlnZkxzWVc1V21VVmlfbVJnNG1ndUgyWExqZnJtRlBOT0MtRTJPRmkyNEpLbzNzdmJ5REotTzUzcmYyNzViRVpr?oc=5",
+      "published": "2026-11-01T03:13:13+00:00",
+      "outlets": [
+        {
+          "source": "Mid-Day",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUZFQ0dRRjItSElLQzlLRVVjSWJRQXRJWG9NaTBRemh1RWhlWE1YeHZFVXRsajF0M0xQa0lBRWdnVTJMcU1GQlNCSjRoS2cyVjdKM2NyLTk2RjR5ejZKYVk3Q3NpbEVXZDk5WWo0aDBhRTY4eEFJSkIwTkpOZmpsd1lPeVFRYzNoTHNWSDVwX2M0WjYzd25FanRGQTFyQWlnZkxzWVc1V21VVmlfbVJnNG1ndUgyWExqZnJtRlBOT0MtRTJPRmkyNEpLbzNzdmJ5REotTzUzcmYyNzViRVpr?oc=5",
+          "article_url": "https://www.mid-day.com/text-shots/deadpool-star-ryan-reynolds-to-attend-ranbir-kapoor-ramayana-premiere-in-los-angeles-here-what-we-know-23656066",
+          "image": "https://static.mid-day.com/assets/images/logo.svg"
+        }
+      ],
+      "image": "https://static.mid-day.com/assets/images/logo.svg",
+      "image_source": "https://www.mid-day.com/text-shots/deadpool-star-ryan-reynolds-to-attend-ranbir-kapoor-ramayana-premiere-in-los-angeles-here-what-we-know-23656066"
+    }
+  ]
+}
