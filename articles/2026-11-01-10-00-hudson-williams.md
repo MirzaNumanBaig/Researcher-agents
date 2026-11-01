@@ -17,6 +17,7 @@ wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-01-10-00-hu
 wp_id: 1408
 wp_link: "https://moduscarry.com/yaga-review-hudson-williams-plays-two-roles-in-sky-thriller/"
 wp_synced: publish
+embed_checked: 1
 ---
 
 **Quick summary**
