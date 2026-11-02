@@ -1,17 +1,5 @@
 [
  {
-  "article": "2026-10-31-05-00-seth-rogen",
-  "shot": "medium-wide shot",
-  "angle": "eye-level",
-  "lens": "50mm",
-  "palette": "teal, silver and black",
-  "prompt": "A medium-wide shot of a film festival backdrop, taken from an eye-level position, with a 50mm lens, captures two individuals seated at an angle to each other across a low table, left of centre in the frame. The man, a man in his mid 50s with short grey-flecked hair and a beard and tan skin, wears a dark green wool jacket and has drawn up his eyebrows gently at the centre, unfocused and distant eyes, and his lips just closed, with a soft jawline. His gaze is off-frame toward a window, with his head resting slightly back and his shoulders low. His hands are wrapped around a mug. The woman, a woman in her early 20s with loose curly dark brown hair and rich brown skin, wears a blush pink satin gown and has slightly raised eyebrows, wide and attentive eyes, and her lips just parted, with a relaxed jawline. Her gaze is up and off-frame right, with her head tilted slightly up and her posture leaning forward, elbows on knees. Her hands hold a paper cup. The mood is amused, with a palette of teal, silver, and black. No text, no logos, no watermark.",
-  "cast": [
-   "cast-06",
-   "cast-07"
-  ]
- },
- {
   "article": "2026-10-31-05-00-martin-short",
   "shot": "close-up detail shot",
   "angle": "high angle",
@@ -208,6 +196,18 @@
   "cast": [
    "cast-03",
    "cast-06"
+  ]
+ },
+ {
+  "article": "2026-11-02-12-00-ryan-gosling",
+  "shot": "medium-wide shot",
+  "angle": "side-on view",
+  "lens": "50mm",
+  "palette": "blue, gray and white",
+  "prompt": "A medium-wide shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin sits at an angle to the man in her early 40s with close-cropped black hair and dark brown skin across a low table on a film set. Her eyebrows are drawn up gently at the centre, her eyes are unfocused and distant, her lips are just closed, and her jaw is soft. She gazes off-frame toward a window, her head resting slightly back, her shoulders low, her hands wrapped around a mug. The woman wears a black satin dress. The man's eyebrows are slightly raised, his eyes are wide and attentive, his lips are just parted, and his jaw is relaxed. He gazes up and off-frame right, his head tilted slightly up, his posture leaning forward, his elbows on knees, his hands holding a paper cup. He wears a black turtleneck and long coat. The mood is one of loneliness, with the blue, gray, and white palette dominating the colour palette. No text, no logos, no watermark.",
+  "cast": [
+   "cast-01",
+   "cast-08"
   ]
  }
 ]

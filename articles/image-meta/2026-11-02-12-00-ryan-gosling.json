@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-11-02T01:27:23.889038+00:00",
+  "article": "2026-11-02-12-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure reveals how a mop helped him cope with loneliness on the set of an anonymous figure.",
+    "emotion": "lonely",
+    "setting": "film set",
+    "key_objects": [
+      "mop",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "mop",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "mop",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "mood": "lonely",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-01",
+    "cast-08"
+  ],
+  "prompt": "A medium-wide shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin sits at an angle to the man in her early 40s with close-cropped black hair and dark brown skin across a low table on a film set. Her eyebrows are drawn up gently at the centre, her eyes are unfocused and distant, her lips are just closed, and her jaw is soft. She gazes off-frame toward a window, her head resting slightly back, her shoulders low, her hands wrapped around a mug. The woman wears a black satin dress. The man's eyebrows are slightly raised, his eyes are wide and attentive, his lips are just parted, and his jaw is relaxed. He gazes up and off-frame right, his head tilted slightly up, his posture leaning forward, his elbows on knees, his hands holding a paper cup. He wears a black turtleneck and long coat. The mood is one of loneliness, with the blue, gray, and white palette dominating the colour palette. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3619993252,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 96.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3619993252,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
