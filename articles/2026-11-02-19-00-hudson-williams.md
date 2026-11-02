@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Platonic Soulmates: Connor Storrie Answer"
 seo_description: "Hudson Williams says he and Connor Storrie are platonic soulmates on CBC's The Assembly. Here is what he said, plus Halloween and Yaga news."
 focus_keyword: "Hudson Williams platonic soulmates"
 permalink: "hudson-williams-platonic-soulmates"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-02 19:00"
 celebrity: "Hudson Williams"
@@ -17,6 +17,14 @@ sources:
   - "https://www.yardbarker.com/entertainment/articles/platonic_soulmates_hudson_williams_clearly_defines_his_close_bond_with_heated_rivalry_co_star_connor_storrie/s1_17785_44502957"
   - "https://www.aol.co.uk/articles/connor-storrie-hudson-williams-debut-174300000.html"
   - "https://news.ssbcrack.com/hudson-williams-stars-in-thrilling-new-series-yaga-on-sky-atlantic/"
+image_alt: "Illustration of a man and a woman in TV show set, lit by daytime, studio lights."
+image: "images/2026-11-02-19-00-hudson-williams.webp"
+wp_media_id: 1439
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-02-19-00-hudson-williams-768x432.webp"
+wp_id: 1440
+wp_link: "https://moduscarry.com/hudson-williams-platonic-soulmates/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

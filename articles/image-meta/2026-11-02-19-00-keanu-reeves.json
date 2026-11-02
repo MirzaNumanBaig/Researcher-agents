@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-02T09:22:44.350804+00:00",
+  "article": "2026-11-02-19-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "The the figure the figure is now streaming for the figure on an anonymous figure.",
+    "emotion": "exciting",
+    "setting": "film set",
+    "key_objects": [
+      "The the figure",
+      "The the figure Reloaded",
+      "The the figure Revolutions",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "The the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "The the figure",
+      "The the figure Reloaded",
+      "The the figure Revolutions",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "mood": "exciting",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-07"
+  ],
+  "prompt": "A wide shot of a film set, captured from an eye-level perspective, with an 85mm lens, opens up to the right, creating a sense of depth. The left side of the frame is occupied by a woman in her early 20s, with loose curly dark brown hair and rich brown skin, wearing an oversized black blazer. Her facial expression is one of excitement, with her eyebrows slightly raised, wide and attentive eyes, and lips just parted. Her jaw is relaxed, and she's gazing up and off-frame right, with her head tilted slightly up. Her posture is leaning forward, with her elbows resting on her knees, and she's holding a paper cup in her hands. To her left, the film set's props are displayed, including 'The the figure', 'The the figure Reloaded', and 'The the figure Revolutions', with an anonymous figure standing in the background. As the camera captures the moment, it's as if we're witnessing a candid, unposed moment, frozen in time, with the woman's reaction to the anonymous figure streaming for her. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 89724260,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 112.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 89724260,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

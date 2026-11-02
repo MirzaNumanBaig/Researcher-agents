@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-02T09:23:27.137471+00:00",
+  "article": "2026-11-02-19-00-connor-storrie",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure calls an anonymous figure a 'platonic soulmate'",
+    "emotion": "affectionate",
+    "setting": "TV studio",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "The Assembly",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "warm beige",
+      "soft blue",
+      "gentle green"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "TV studio",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "The Assembly",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "warm beige",
+      "soft blue",
+      "gentle green"
+    ],
+    "mood": "affectionate",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-11",
+    "cast-04"
+  ],
+  "prompt": "A wide shot of a TV studio, captured from a side-on view with an 85mm lens, revealing a cozy and inviting space. A medium shot of The woman: a woman in her mid 30s with a high dark-blonde ponytail and sun-warmed tan skin, seated at an angle to her companion across a low table, her facial expression a, her eyebrows drawn up gently at the centre, her eyes unfocused and distant, her lips just closed, and her jaw soft. Her gaze is off-frame toward a window, her head resting slightly back, her shoulders low, and her hands wrapped around a mug. She wears an ivory jumpsuit that complements her sun-kissed skin. Across from her, The man: a man in his mid 20s with tousled sandy-blond hair and fair skin, leans forward, elbows on knees, his facial expression a study of attentive interest, his eyebrows slightly raised, his eyes wide and attentive, his lips just parted, and his jaw relaxed. The camera captures a candid and unposed moment, shot on a full-frame camera with fine film grain, revealing natural skin texture with visible pores and small imperfections. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3230906081,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in TV studio, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 200.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3230906081,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

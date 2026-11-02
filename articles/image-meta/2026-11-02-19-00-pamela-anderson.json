@@ -1,0 +1,147 @@
+{
+  "timestamp": "2026-11-02T09:22:17.485063+00:00",
+  "article": "2026-11-02-19-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure attends the an anonymous figure in a Carolina Herrera look with lab-grown diamonds.",
+    "emotion": "glamorous",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "Carolina Herrera outfit",
+      "lab-grown diamonds",
+      "Pandora earrings",
+      "Sweet Charity curls"
+    ],
+    "time_and_light": "evening, spotlight",
+    "palette": [
+      "white",
+      "green",
+      "platinum"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Carolina Herrera outfit",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "Carolina Herrera outfit",
+      "lab-grown diamonds",
+      "Pandora earrings",
+      "Sweet Charity curls"
+    ],
+    "time_of_day": "evening, spotlight",
+    "light": {
+      "source": "evening, spotlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "white",
+      "green",
+      "platinum"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-06"
+  ],
+  "prompt": "A medium-wide shot of the man in his mid 50s with short grey-flecked hair and a beard and tan skin is positioned to the left of centre, with his shoulders back and spine long as he stands confidently in the spotlight. His smooth and softly arched eyebrows are raised slightly, his confident and direct eyes lock onto the camera, and a composed soft smile plays on his mouth as his jaw is lifted ever so slightly. His quarter-turned head is raised, with his chin held high, and his gaze remains steady as he stands with one hand resting on his hip. He wears a crisp white shirt with sleeves rolled up, and the spotlight from the side highlights the subtle creases on his skin. The Carolina Herrera outfit on the anonymous figure in the background catches the light, with the lab-grown diamonds and Pandora earrings sparkling as the Sweet Charity curls cascade down their back. The white, green, and platinum colour palette shines through, with the fine film grain and true-to-life colour adding to the overall sense of realism. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 4088863859,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in a person, lit by evening, spotlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 174.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 4088863859,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

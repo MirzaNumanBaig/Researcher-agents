@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-02T09:23:10.106072+00:00",
+  "article": "2026-11-02-19-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "relationship",
+  "analysis": {
+    "story_type": "relationship",
+    "core_event": "an anonymous figure describes an anonymous figure as a 'an anonymous figure'",
+    "emotion": "heartwarming",
+    "setting": "TV show set",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "The Assembly",
+      "Bugonia"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated close at a small table, knees angled toward each other, mirrored relaxed poses",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "lifted",
+          "eyes": "bright and crinkled",
+          "mouth": "a wide natural smile",
+          "jaw": "relaxed"
+        },
+        "gaze": "on the other person",
+        "head": "tipped back mid-laugh",
+        "posture": "open chest, loose shoulders",
+        "hands": "one hand in a coat pocket",
+        "interaction": "seated close at a small table, knees angled toward each other, mirrored relaxed poses",
+        "clothing": ""
+      }
+    ],
+    "setting": "TV show set",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "The Assembly",
+      "Bugonia"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "mood": "heartwarming",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-02",
+    "cast-09"
+  ],
+  "prompt": "A medium shot of a woman in her late 50s with short wavy white hair and pale skin is seated close to a man in his late 30s with short dark greying hair and medium-brown skin, both positioned left of centre on the TV show set. Her eyes are bright and crinkled, with her eyebrows lifted and her mouth forming a wide natural smile, her jaw relaxed in a gentle, amused expression. Her head is tipped back mid-laugh, with her shoulders loose and her chest open, her hand resting in a coat pocket. The man's eyebrows are drawn up gently at the centre, his eyes unfocused and distant, his lips just closed, and his jaw soft in a contemplative pose. His head is resting slightly back, with his shoulders low and his posture relaxed, his hands wrapped around a mug. In the foreground, the 'anonymous figure' stands centre, in the midground, the main subject is situated, and in the background, a soft haze and bokeh blur the set, creating depth and atmosphere. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3582006691,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man and a woman in TV show set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 109.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3582006691,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

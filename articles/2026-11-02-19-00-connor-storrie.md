@@ -5,7 +5,7 @@ seo_title: "Connor Storrie and Hudson Williams: Platonic Soulmates"
 seo_description: "Hudson Williams told CBC's The Assembly that he and Connor Storrie are platonic soulmates. See what he said and what the pair are filming next."
 focus_keyword: "Connor Storrie Hudson Williams"
 permalink: "connor-storrie-hudson-williams-platonic-soulmates"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-02 19:00"
 celebrity: "Connor Storrie"
@@ -16,6 +16,14 @@ sources:
   - "https://www.justjared.com/2026/11/01/hudson-williams-shares-thoughtful-response-when-asked-if-he-felt-more-than-friendship-feelings-with-connor-storrie/"
   - "https://www.yardbarker.com/entertainment/articles/platonic_soulmates_hudson_williams_clearly_defines_his_close_bond_with_heated_rivalry_co_star_connor_storrie/s1_17785_44502957"
   - "https://www.aol.co.uk/articles/connor-storrie-hudson-williams-debut-174300000.html"
+image_alt: "Illustration of a woman and a man in TV studio, lit by daytime, studio lights."
+image: "images/2026-11-02-19-00-connor-storrie.webp"
+wp_media_id: 1437
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-02-19-00-connor-storrie-768x432.webp"
+wp_id: 1438
+wp_link: "https://moduscarry.com/connor-storrie-hudson-williams-platonic-soulmates/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

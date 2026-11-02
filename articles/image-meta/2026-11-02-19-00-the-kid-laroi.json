@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-11-02T09:21:31.549799+00:00",
+  "article": "2026-11-02-19-00-the-kid-laroi",
+  "ai_generated": true,
+  "story_type": "concert",
+  "analysis": {
+    "story_type": "concert",
+    "core_event": "an anonymous figure opened the UK leg of his an anonymous figure at O2 Academy Birmingham.",
+    "emotion": "energetic",
+    "setting": "concert venue",
+    "key_objects": [
+      "guitar",
+      "microphone",
+      "stage lights"
+    ],
+    "time_and_light": "evening, stage lights",
+    "palette": [
+      "blue",
+      "white",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "guitar",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "lifted",
+          "eyes": "bright and crinkled",
+          "mouth": "a wide natural smile",
+          "jaw": "relaxed"
+        },
+        "gaze": "on the other person",
+        "head": "tipped back mid-laugh",
+        "posture": "open chest, loose shoulders",
+        "hands": "one hand in a coat pocket",
+        "interaction": "",
+        "clothing": "a stage outfit"
+      }
+    ],
+    "setting": "concert venue",
+    "props": [
+      "guitar",
+      "microphone",
+      "stage lights"
+    ],
+    "time_of_day": "evening, stage lights",
+    "light": {
+      "source": "evening, stage lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "white",
+      "black"
+    ],
+    "mood": "energetic",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-02"
+  ],
+  "prompt": "A medium shot of a man in his late 30s the figure short dark greying hair and medium-brown skin is positioned to the left of centre, his open chest and loose shoulders radiating an energetic aura as he stands amidst the vibrant concert venue. His lifted eyebrows and bright, crinkled eyes sparkle the figure amusement, while his wide natural smile and relaxed jawline convey a sense of genuine joy. His head is tipped back mid-laugh, and his gaze is fixed on the other person, creating a sense of warmth and connection. One hand rests in a coat pocket, while the other is free to roam, adding to the carefree atmosphere. The charcoal knit sweater he wears blends seamlessly into the concert setting, as if designed specifically for this moment. In the foreground, a guitar gleams the figure a subtle sheen, while the stage lights casting a warm glow from the side create a mesmerizing soft haze and bokeh in the background. Natural skin texture the figure visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3276603534,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in concert venue, lit by evening, stage lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 253.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 3276603534,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

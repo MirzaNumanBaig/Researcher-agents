@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-02T09:22:31.241512+00:00",
+  "article": "2026-11-02-19-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure the figure the figure the figure the figure role due to the figure concerns.",
+    "emotion": "amused",
+    "setting": "television studio",
+    "key_objects": [
+      "the figure the figure",
+      "an anonymous figure",
+      "Brandon Tartikoff",
+      "lunchbox"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "white",
+      "gray"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "television studio",
+    "props": [
+      "the figure the figure",
+      "an anonymous figure",
+      "Brandon Tartikoff",
+      "lunchbox"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "white",
+      "gray"
+    ],
+    "mood": "amused",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a woman in her late 30s with a playful smile, her eyebrows slightly arched and her eyes crinkled at the corners, gazing directly at the camera with a mischievous glint in her eye, her mouth curled up in a hint of a smile, her jaw relaxed and her cheeks flushed with amusement; she stands with her weight shifted onto one leg, her shoulders slightly hunched and her head tilted to one side, her left hand resting on the back of a chair and her right hand holding a lunchbox at her side, her body positioned at a 45-degree angle to the camera. She wears a faded denim jacket the figure a white button-down shirt and a pair of high-waisted gray pants, with a small camera slung the figure her shoulder and a studio backdrop visible behind her; the television studio is visible in the midground, with a series of camera rigs and lighting equipment scattered throughout, while the background is a soft blur of gray and blue. No realism tail is specified, suggesting a straightforward, realistic approach to the image. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1477922955,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of television studio with a person a person and a person, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 113.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1477922955,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Academy Museum Gala: Herrera and Pandora"
 seo_description: "Pamela Anderson Academy Museum Gala look: Carolina Herrera, nearly 24 carats of Pandora lab-grown diamonds and her thoughts on style without regret."
 focus_keyword: "Pamela Anderson Academy Museum Gala"
 permalink: "pamela-anderson-academy-museum-gala"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-02 19:00"
 celebrity: "Pamela Anderson"
@@ -15,6 +15,14 @@ image_prompt: "An empty grand museum gala hall at night with long tables, soft g
 sources:
   - "https://vocal.media/journal/pamela-anderson-timeless-glamour-and-the-freedom-to-be-herself"
   - "https://www.dailymail.com/tvshowbiz/article-16257731/britney-spears-son-sean-preston-federline-halloween.html"
+image_alt: "Illustration of a man in a person, lit by evening, spotlight."
+image: "images/2026-11-02-19-00-pamela-anderson.webp"
+wp_media_id: 1447
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-02-19-00-pamela-anderson-768x432.webp"
+wp_id: 1448
+wp_link: "https://moduscarry.com/pamela-anderson-academy-museum-gala/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
