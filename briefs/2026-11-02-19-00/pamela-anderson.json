@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-02 19:00",
+  "celebrity": "Pamela Anderson",
+  "stories": [
+    {
+      "title": "Pamela Anderson: Timeless Glamour and the Freedom to Be Herself",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTRETVRtWFNBQThzNXZnVHZVczBaZEZHNkNNYXcwV3puYWxYN0RBdkpOTllTRGs5NzlTVEpKLWpCSG9weDBXLWVrWFdmSUtPT21ZcHJYRjZxelYxTmk0UnJpcHMzYnJTN19UejNMdTZIWUhWZ3F6NHF0NmlOQ0R4MjdHemRxaURUYUhDZ09lMWZpN1hj?oc=5",
+      "published": "2026-11-02T07:45:52+00:00",
+      "outlets": [
+        {
+          "source": "Vocal",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTRETVRtWFNBQThzNXZnVHZVczBaZEZHNkNNYXcwV3puYWxYN0RBdkpOTllTRGs5NzlTVEpKLWpCSG9weDBXLWVrWFdmSUtPT21ZcHJYRjZxelYxTmk0UnJpcHMzYnJTN19UejNMdTZIWUhWZ3F6NHF0NmlOQ0R4MjdHemRxaURUYUhDZ09lMWZpN1hj?oc=5",
+          "article_url": "https://vocal.media/journal/pamela-anderson-timeless-glamour-and-the-freedom-to-be-herself",
+          "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/JuAXLX_qWjEJgitek2oVX4r9jFE.jpg"
+        }
+      ],
+      "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/JuAXLX_qWjEJgitek2oVX4r9jFE.jpg",
+      "image_source": "https://vocal.media/journal/pamela-anderson-timeless-glamour-and-the-freedom-to-be-herself"
+    },
+    {
+      "title": "Britney Spears's son Sean Preston, 21, and blond bombshell girlfriend dress as Pamela Anderson and Tommy Lee for Halloween",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkh5QnY4eDFlMzUxM3M1S1Z6aEhXbnE2NnZZR0dvSy04WkZOQlVkX1VNalYtN1phRng1ekFIUEYzcjlrZE9PeWxNVlZHT0lncV9USWNGbkJsQThPNElVaTNocE5MTVg0bl8tZ1ZOZkpsSTRZOERlWmZtZi1DV003dmFvbC1tVjV0N0YwUUx1VkxMRXBSQXNUT0k5VVBobUpKQVZubW9yOXB5WmctQnfSAbMBQVVfeXFMT3JvOU9NV0hJRnU4eGRvU1JlQ3EyRF9sNFI0SlVXWlg2YVJGOE9RUUZwNFkwblVnMERHLUYtUEZUZkZwbEdIWkpSc29RbHJ6SXlGNmoyaHhQNkhjM1NScTZwd2dLU2hrcF92cWxvSXlsb3JvYnFsQXF1cHB0bVFmbFZBTWNpNVhoc1pXRmtSWVp4XzA0SW5mNlNCQ3RGTUJpdGh0Z0tUUTFZTXV3cUNnUHJDaVk?oc=5",
+      "published": "2026-11-02T05:25:45+00:00",
+      "outlets": [
+        {
+          "source": "Daily Mail",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkh5QnY4eDFlMzUxM3M1S1Z6aEhXbnE2NnZZR0dvSy04WkZOQlVkX1VNalYtN1phRng1ekFIUEYzcjlrZE9PeWxNVlZHT0lncV9USWNGbkJsQThPNElVaTNocE5MTVg0bl8tZ1ZOZkpsSTRZOERlWmZtZi1DV003dmFvbC1tVjV0N0YwUUx1VkxMRXBSQXNUT0k5VVBobUpKQVZubW9yOXB5WmctQnfSAbMBQVVfeXFMT3JvOU9NV0hJRnU4eGRvU1JlQ3EyRF9sNFI0SlVXWlg2YVJGOE9RUUZwNFkwblVnMERHLUYtUEZUZkZwbEdIWkpSc29RbHJ6SXlGNmoyaHhQNkhjM1NScTZwd2dLU2hrcF92cWxvSXlsb3JvYnFsQXF1cHB0bVFmbFZBTWNpNVhoc1pXRmtSWVp4XzA0SW5mNlNCQ3RGTUJpdGh0Z0tUUTFZTXV3cUNnUHJDaVk?oc=5",
+          "article_url": "https://www.dailymail.com/tvshowbiz/article-16257731/britney-spears-son-sean-preston-federline-halloween.html",
+          "image": "https://i.dailymail.com/1s/2026/11/02/04/112238171-0-image-m-59_1793594585895.jpg"
+        }
+      ],
+      "image": "https://i.dailymail.com/1s/2026/11/02/04/112238171-0-image-m-59_1793594585895.jpg",
+      "image_source": "https://www.dailymail.com/tvshowbiz/article-16257731/britney-spears-son-sean-preston-federline-halloween.html"
+    }
+  ]
+}
