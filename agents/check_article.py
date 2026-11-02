@@ -48,6 +48,21 @@ def check(path):
         problems.append("no internal links to the site")
     elif len(internal) > 5:
         problems.append(f"{len(internal)} internal links (use 2 to 4)")
+    seo = {k: (re.search(rf'^{k}: ?"?(.*?)"?\s*$', front, re.M) or [None, ""])[1].strip() for k in ("seo_title", "seo_description", "focus_keyword", "permalink")}
+    kw = seo["focus_keyword"].lower()
+    if not all(seo.values()):
+        problems.append("Rank Math fields missing (seo_title, seo_description, focus_keyword, permalink)")
+    else:
+        if not 30 <= len(seo["seo_title"]) <= 60:
+            problems.append(f"seo_title is {len(seo['seo_title'])} characters (use 50-60)")
+        if not 100 <= len(seo["seo_description"]) <= 160:
+            problems.append(f"seo_description is {len(seo['seo_description'])} characters (use 120-155)")
+        if kw not in seo["seo_title"].lower() or kw not in seo["seo_description"].lower():
+            problems.append("focus_keyword is not in seo_title and seo_description")
+        if kw not in main.lower()[:600]:
+            problems.append("focus_keyword is not in the first paragraph")
+        if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+){1,7}", seo["permalink"]) or not all(w in seo["permalink"] for w in re.sub(r"[^a-z0-9 ]", "", kw).split()[:2]):
+            problems.append("permalink must be lowercase-hyphenated and contain the focus keyword")
     if "—" in body:
         problems.append("contains em dashes")
     return problems

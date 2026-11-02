@@ -3,7 +3,7 @@
 For each name it tries the Commons category "<Name> in 2026", then 2025, then 2024, and
 keeps the newest still image with a free licence and a face-friendly size. Each entry has the
 file, licence, author, date and the credit line to print. Links only; nothing is downloaded.
-Run: python3 agents/character_sheet.py [--only "Chris Hemsworth"]
+Run: python3 agents/character_sheet.py [--only "Chris Hemsworth"] [--refresh]   (keeps up to 8 photos per person so posts do not repeat a picture; --refresh re-reads people already done)
 """
 import json, re, sys, time, urllib.parse, urllib.request
 from pathlib import Path
@@ -78,7 +78,7 @@ def main():
     for name in cfg["celebrities"]:
         if only and name != only:
             continue
-        if (sheet.get(name) or {}).get("status") == "ok":
+        if (sheet.get(name) or {}).get("status") == "ok" and "--refresh" not in sys.argv:
             continue  # already found; a re-run only fills the gaps
         try:
             found = candidates(name)
@@ -92,7 +92,7 @@ def main():
             continue
         for e in found:
             e["credit"] = credit(e)
-        sheet[name] = {"status": "ok", "photos": found[:3]}
+        sheet[name] = {"status": "ok", "photos": found[:8]}
         print("ok   ", name, found[0]["date"], found[0]["file"], flush=True)
         save(path, sheet)
     save(path, sheet)

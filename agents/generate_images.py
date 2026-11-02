@@ -283,6 +283,21 @@ def licensed_photo(front):
     return None
 
 
+def used_photo_pages():
+    """Commons page URLs of the real photos already used by an article (read from each article's image_credit), so a photo is never used twice."""
+    import html as _h
+    used = set()
+    for f in (ROOT / "articles").glob("*.md"):
+        credit = _h.unescape(field(split(f.read_text())[0], "image_credit"))
+        used.update(re.findall(r'href="(https://commons\.wikimedia\.org/[^"]+)"', credit))
+    return used
+
+
+def pick_photo(photos, used):
+    """First photo whose Commons page no article has used yet, else None (the caller then makes a fresh AI scene instead of repeating a picture)."""
+    return next((p for p in photos or [] if p.get("page") and p["page"] not in used), None)
+
+
 def real_photo(front):
     """(webp bytes, alt, credit) from data/character-sheet.json (newest free-licence Commons photo of the article's celebrity), else None.
     Portrait photos are centred on a blurred copy of themselves so the face is never cropped. Needs image_pipeline.real_photos true."""
@@ -291,9 +306,9 @@ def real_photo(front):
     try:
         from PIL import Image, ImageFilter
         entry = json.loads((ROOT / "data" / "character-sheet.json").read_text()).get(field(front, "celebrity")) or {}
-        photo = (entry.get("photos") or [None])[0]
+        photo = pick_photo(entry.get("photos"), used_photo_pages())
         if not photo:
-            return None
+            return None  # every photo of this person is already on the site: never repeat one
         req = urllib.request.Request(photo.get("thumb") or photo["url"], headers={"User-Agent": "ModusCarry/1.0 (themoduscarry@gmail.com)"})
         with urllib.request.urlopen(req, timeout=60) as r:
             img = Image.open(io.BytesIO(r.read())).convert("RGB")
