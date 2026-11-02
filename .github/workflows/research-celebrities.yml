@@ -1,0 +1,28 @@
+name: Research celebrities
+# Manual (and weekly). Builds data/research/*.json, index.json and REPORT.md from Wikidata: relationships, children (adults only), upcoming projects,
+# directors, co-stars, anime roles, and who to add next. Wikidata may rate-limit (1 request a minute at times), so a run does up to 12 people and
+# the next run continues where it stopped; people already researched are skipped (tick "refresh" to redo them).
+on:
+  workflow_dispatch:
+    inputs:
+      refresh: {description: "Re-research people already on file", type: boolean, default: false}
+  schedule:
+    - cron: "17 3 * * 1"
+permissions:
+  contents: write
+concurrency: {group: repo-writes, cancel-in-progress: false}
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python agents/research_celebrities.py --max 12 ${{ inputs.refresh && '--refresh' || '' }}
+      - name: Commit research
+        run: |
+          git config user.name "researcher-bot"
+          git config user.email "researcher-bot@users.noreply.github.com"
+          git add data/research
+          git diff --cached --quiet || { git commit -m "Update celebrity research" && bash scripts/push_retry.sh; }
