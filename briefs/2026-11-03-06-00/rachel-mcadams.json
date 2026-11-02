@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-03 06:00",
+  "celebrity": "Rachel McAdams",
+  "stories": [
+    {
+      "title": "Rachel McAdams in Atelier Versace - 2016-08-02 - Oscars 2016: The Best of the Red Carpet",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ueVJ5M2hXWVBycGhKeHE0Sk1DcjREYTQ3bXVWMklMVnMtYWV3NUpnUm9GMkc5eGxHaFlEZXUtZGx0N3ZDQk8yY2l6Nlg1SzAtdlljMGNXM0ZaYXluaEt0eU1BaVpVRUVIblpXWDJ2X1ByZ1BMRDVB?oc=5",
+      "published": "2026-10-31T23:03:57+00:00",
+      "outlets": [
+        {
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ueVJ5M2hXWVBycGhKeHE0Sk1DcjREYTQ3bXVWMklMVnMtYWV3NUpnUm9GMkc5eGxHaFlEZXUtZGx0N3ZDQk8yY2l6Nlg1SzAtdlljMGNXM0ZaYXluaEt0eU1BaVpVRUVIblpXWDJ2X1ByZ1BMRDVB?oc=5",
+          "article_url": "https://www.forbes.com/pictures/fimi45ggilj/rachel-mcadams-in-atelie/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/56d39eece4b0c144a7f671ac/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
+        }
+      ],
+      "image": "https://imageio.forbes.com/specials-images/imageserve/56d39eece4b0c144a7f671ac/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+      "image_source": "https://www.forbes.com/pictures/fimi45ggilj/rachel-mcadams-in-atelie/"
+    }
+  ]
+}
