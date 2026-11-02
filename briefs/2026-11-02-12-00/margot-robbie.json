@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-02 12:00",
+  "celebrity": "Margot Robbie",
+  "stories": [
+    {
+      "title": "‘Wuthering Heights’ Star Margot Robbie’s Ginger Spice Halloween Look Resurfaces, and It Is Still a Spice Girls Masterclass",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04emZLdnU5ZHNXcUtBLTl3Y1RWOWZiRE5EUG1FUHVDSU5mOUJYVy0xX3JpY3g3anc0UjNnZ2NiOEpyczc5eFRSY01BX2E4N25MaGtIMGdlQ3JkWXpYS1NWXw?oc=5",
+      "published": "2026-11-01T23:32:34+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04emZLdnU5ZHNXcUtBLTl3Y1RWOWZiRE5EUG1FUHVDSU5mOUJYVy0xX3JpY3g3anc0UjNnZ2NiOEpyczc5eFRSY01BX2E4N25MaGtIMGdlQ3JkWXpYS1NWXw?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66090622/?ref_=tt_nwr_1",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Margot Robbie's 354-Episode Breakout Role Officially Gets A Spin-Off Without Her 15 Years Later",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VYXVOZHp1dTlFRVdUQzlFOVRXTURkempWOEJheEdKNk53RHhwSEUzOVhqREMxOEFaeVgtN01GeXBQcVphTzVkZFV3VnlSMll5QUFzbW15enJ4d1lXNV9YT01tbTNlUmtnV3c?oc=5",
+      "published": "2026-11-01T22:41:40+00:00",
+      "outlets": [
+        {
+          "source": "MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VYXVOZHp1dTlFRVdUQzlFOVRXTURkempWOEJheEdKNk53RHhwSEUzOVhqREMxOEFaeVgtN01GeXBQcVphTzVkZFV3VnlSMll5QUFzbW15enJ4d1lXNV9YT01tbTNlUmtnV3c?oc=5",
+          "article_url": "https://movieweb.com/neighbours-margot-robbie-new-release/",
+          "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/03/margot-robbie.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/03/margot-robbie.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://movieweb.com/neighbours-margot-robbie-new-release/"
+    }
+  ]
+}

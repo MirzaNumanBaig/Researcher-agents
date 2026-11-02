@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-02 12:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Project Hail Mary: How Julia Roberts Solved A Major Acting Problem For Ryan Gosling",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3lVT1ZJMjREZDhERTY5VFBJamdNaV82LWVXWk9LbEhleVhmYk5LV05DOHlJV1Z0a3YxLURvWmJiYlVKM3J1QllHbk14c19lVWJ0eXJWcm1pSjZ4VWNubWhBckxDVVFIekNEZjhiRGd5VlBGeUlDbnY5T1huVDRFbTkyQ1BLZF9SM3dQMVdDbkZSTms5amFDa093?oc=5",
+      "published": "2026-11-01T19:00:00+00:00",
+      "outlets": [
+        {
+          "source": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3lVT1ZJMjREZDhERTY5VFBJamdNaV82LWVXWk9LbEhleVhmYk5LV05DOHlJV1Z0a3YxLURvWmJiYlVKM3J1QllHbk14c19lVWJ0eXJWcm1pSjZ4VWNubWhBckxDVVFIekNEZjhiRGd5VlBGeUlDbnY5T1huVDRFbTkyQ1BLZF9SM3dQMVdDbkZSTms5amFDa093?oc=5",
+          "article_url": "https://www.slashfilm.com/2294709/project-hail-mary-julia-roberts-ryan-gosling-acting-problem/",
+          "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-how-julia-roberts-solved-a-major-acting-problem-for-ryan-gosling/l-intro-1792695383.jpg"
+        }
+      ],
+      "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-how-julia-roberts-solved-a-major-acting-problem-for-ryan-gosling/l-intro-1792695383.jpg",
+      "image_source": "https://www.slashfilm.com/2294709/project-hail-mary-julia-roberts-ryan-gosling-acting-problem/"
+    }
+  ]
+}
