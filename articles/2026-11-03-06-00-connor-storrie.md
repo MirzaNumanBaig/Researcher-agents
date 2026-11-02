@@ -5,7 +5,7 @@ seo_title: "Connor Storrie and Hudson Williams: Platonic Soulmates"
 seo_description: "Connor Storrie and Hudson Williams explained on CBC's The Assembly why their bond is a close friendship. Here is what he said and what comes next."
 focus_keyword: "Connor Storrie Hudson Williams"
 permalink: "connor-storrie-hudson-williams-assembly"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-03 06:00"
 celebrity: "Connor Storrie"
@@ -18,6 +18,14 @@ sources:
   - "https://tribune.com.pk/story/2638244/hudson-williams-addresses-whether-he-has-romantic-feelings-for-heated-rivalry-co-star-connor-storrie"
   - "https://en.xmag.live/hudson-williams-reveals-whether-he-ever-had-feelings-beyond-friendship-for-connor-storrie-while-filming-heated-rivalry/"
   - "https://www.cbc.ca/news/entertainment/hudson-williams-tattoo-tour-the-assembly-9.7396525"
+image_alt: "Illustration of a man and a woman in TV interview studio, lit by daytime, studio lights."
+image: "images/2026-11-03-06-00-connor-storrie.webp"
+wp_media_id: 1455
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-06-00-connor-storrie-768x432.webp"
+wp_id: 1456
+wp_link: "https://moduscarry.com/connor-storrie-hudson-williams-assembly/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

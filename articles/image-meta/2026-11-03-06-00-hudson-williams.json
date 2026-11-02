@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-02T19:48:08.113365+00:00",
+  "article": "2026-11-03-06-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure denies romantic feelings for an anonymous figure on an anonymous figure.",
+    "emotion": "relieved",
+    "setting": "TV interview set",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "tattoos"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "TV interview set",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "tattoos"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "mood": "relieved",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-12",
+    "cast-05"
+  ],
+  "prompt": "A medium shot of a man in his late 40s with thinning dark hair and round glasses and olive skin, wearing a tweed blazer, seated at an angle to a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, who wears a soft grey wrap. The man's eyebrows are drawn up gently at the centre, his eyes unfocused and distant, his lips just closed, and his jaw soft. He gazes off-frame toward a window, his head resting slightly back, his shoulders low, and his hands wrapped around a mug. The woman's eyebrows are slightly raised, her eyes wide and attentive, her lips just parted, and her jaw relaxed. She gazes up and off-frame right, her head tilted slightly up, her posture leaning forward, her elbows on her knees, and her hands holding a paper cup. The two sit across a low table from each other, with a sense of gentle tension between them. The colours are muted, with a predominance of blues, grays, and whites. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3589019152,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man and a woman in TV interview set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 156.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3589019152,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

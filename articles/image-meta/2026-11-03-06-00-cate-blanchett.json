@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-02T19:48:33.794957+00:00",
+  "article": "2026-11-03-06-00-cate-blanchett",
+  "ai_generated": true,
+  "story_type": "legal",
+  "analysis": {
+    "story_type": "legal",
+    "core_event": "an anonymous figure's the figure the figure joins the figure the figure in an anonymous figure case",
+    "emotion": "contested",
+    "setting": "courthouse",
+    "key_objects": [
+      "court filing",
+      "brief",
+      "an anonymous figure",
+      "Microsoft"
+    ],
+    "time_and_light": "daytime, fluorescent",
+    "palette": [
+      "gray",
+      "blue",
+      "white"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "court filing",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "courthouse",
+    "props": [
+      "court filing",
+      "brief",
+      "an anonymous figure",
+      "Microsoft"
+    ],
+    "time_of_day": "daytime, fluorescent",
+    "light": {
+      "source": "daytime, fluorescent",
+      "direction": "from the side"
+    },
+    "palette": [
+      "gray",
+      "blue",
+      "white"
+    ],
+    "mood": "contested",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot of a courthouse, taken from behind, captures the imposing structure in its entirety, with a 24mm lens emphasizing the grandeur of the building's facade. The camera peers through a row of tall, rectangular windows, their glass panes reflecting the soft, grayish light of a cloudy day, casting an eerie glow across the scene. A wooden gavel rests atop a bare, polished desk, its surface worn smooth by years of use, beside a closed, supple leather folder, its dark color a subtle contrast to the overall palette of gray, blue, and white. The fluorescent hum of the courthouse's overhead lighting is palpable, yet the scene remains calm and respectful, devoid of any of tension or drama. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2785797166,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a wooden gavel resting on a bare desk beside a closed leather folder, soft light across the grain.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 261.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2785797166,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

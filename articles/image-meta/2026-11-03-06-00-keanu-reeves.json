@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-02T19:47:20.284507+00:00",
+  "article": "2026-11-03-06-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure 911 an anonymous figure.",
+    "emotion": "relieved",
+    "setting": "an anonymous figure showroom",
+    "key_objects": [
+      "an anonymous figure 911",
+      "black anodised interior trim",
+      "12 o'clock marker on the steering wheel"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "black",
+      "silver",
+      "red"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure 911",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "an anonymous figure showroom",
+    "props": [
+      "an anonymous figure 911",
+      "black anodised interior trim",
+      "12 o'clock marker on the steering wheel"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "silver",
+      "red"
+    ],
+    "mood": "relieved",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of an anonymous figure in their mid-30s, standing the figure a relaxed posture and a subtle, relieved expression on their face, the figure a hint of a slight smile playing on their lips and their eyebrows slightly raised. Their eyes are cast downward, gazing at the floor the figure a soft, introspective look. Their jaw is slightly slack, releasing tension, and their shoulders are slightly rolled forward, conveying a sense of relief. In the foreground, the anonymous figure's right hand rests on the 12 o'clock marker on the steering wheel of an anonymous figure 911, while their left hand is placed on their hip, the figure a slight, gentle grip on their pocket. The black anodised interior trim of the car surrounds the figure, creating a sleek and modern backdrop, while the anonymous figure's black clothing blends seamlessly into the surroundings. In the background, the showroom's black walls and silver accents create a sense of depth and contrast. This candid editorial news photograph has a natural film-like colour and subtle grain, capturing the essence of the moment the figure a sense of realism. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: 313 words (needs 60-200)"
+  ],
+  "seed": 1449121657,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a person showroom a person a person 911 and black anodised interior trim, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 166.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1449121657,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

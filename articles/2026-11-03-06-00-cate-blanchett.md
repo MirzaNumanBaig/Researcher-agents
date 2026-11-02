@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett AI Licensing Brief: Music Group Joins"
 seo_description: "Cate Blanchett's AI licensing brief in the New York Times case against OpenAI now has Irving Azoff's Music Artists Coalition and CAA on board."
 focus_keyword: "Cate Blanchett AI licensing brief"
 permalink: "cate-blanchett-ai-licensing-brief"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-03 06:00"
 celebrity: "Cate Blanchett"
@@ -15,6 +15,14 @@ image_prompt: "An empty federal courtroom at dusk with a long wooden bench, stac
 sources:
   - "https://www.musicbusinessworldwide.com/irving-azoffs-music-artists-coalition-joins-cate-blanchett-and-caa-on-ai-licensing-brief-in-new-york-times-case-against-openai/"
   - "https://www.yahoo.com/entertainment/celebrity/articles/cate-blanchett-uniqlo-suit-recalls-135648969.html"
+image_alt: "Illustration of a wooden gavel resting on a bare desk beside a closed leather folder, soft light across the grain."
+image: "images/2026-11-03-06-00-cate-blanchett.webp"
+wp_media_id: 1453
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-06-00-cate-blanchett-768x432.webp"
+wp_id: 1454
+wp_link: "https://moduscarry.com/cate-blanchett-ai-licensing-brief/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

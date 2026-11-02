@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Keynote Speaker at Vancouver Luncheon 2027"
 seo_description: "Pamela Anderson keynote speaker announced for BC Women's Health Foundation's Illuminations Luncheon in Vancouver on 8 March 2027."
 focus_keyword: "Pamela Anderson keynote speaker"
 permalink: "pamela-anderson-keynote-speaker"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-03 06:00"
 celebrity: "Pamela Anderson"
@@ -16,6 +16,14 @@ sources:
   - "https://www.thecanadianpressnews.ca/globenewswire_press_releases/pamela-anderson-announced-as-keynote-speaker-for-bc-women-s-health-foundation-s-2027-illuminations/article_83de8f1e-eac7-52bb-9a0c-3fa5d9d6b0b8.html"
   - "https://faroutmagazine.co.uk/pamela-anderson-horrible-experience-making-movie-became-sworn-testimony/"
   - "https://graziamagazine.com/us/articles/pamela-anderson-french-fade-ombre-manicure/"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-03-06-00-pamela-anderson.webp"
+wp_media_id: 1471
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-06-00-pamela-anderson-768x432.webp"
+wp_id: 1472
+wp_link: "https://moduscarry.com/pamela-anderson-keynote-speaker/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

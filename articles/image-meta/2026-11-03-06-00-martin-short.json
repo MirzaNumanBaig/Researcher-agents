@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-02T19:47:06.859832+00:00",
+  "article": "2026-11-03-06-00-martin-short",
+  "ai_generated": true,
+  "story_type": "concert",
+  "analysis": {
+    "story_type": "concert",
+    "core_event": "an anonymous figure and an anonymous figure the figure the figure an anonymous figure to Florida.",
+    "emotion": "the figure",
+    "setting": "concert venue",
+    "key_objects": [
+      "banjo",
+      "Hard Rock Live",
+      "Florida"
+    ],
+    "time_and_light": "evening, stage lights",
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "banjo",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "concert venue",
+    "props": [
+      "banjo",
+      "Hard Rock Live",
+      "Florida"
+    ],
+    "time_of_day": "evening, stage lights",
+    "light": {
+      "source": "evening, stage lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "mood": "the figure",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A close-up detail shot of an old, worn banjo leaning against a worn wooden wall in a dimly lit concert venue, the Hard Rock Live in Florida. The banjo's weathered body is reflected in the polished wood floor, with the soft glow of stage lights casting a warm ambiance in the background. A single, flickering stage light casts a long shadow across the floor, stretching towards the empty seats of the venue. The camera is positioned at a high angle, looking down at the banjo with a 35mm lens capturing the intricate details of the instrument. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: shows people in a sensitive story"
+  ],
+  "seed": 3372664987,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 218.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3372664987,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

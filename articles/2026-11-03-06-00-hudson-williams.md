@@ -5,7 +5,7 @@ seo_title: "Hudson Williams The Assembly: Storrie, Tattoos, Yaga"
 seo_description: "Hudson Williams on The Assembly: the Heated Rivalry star explains his bond with Connor Storrie, his tattoos and a Victoria remark. Read what he said."
 focus_keyword: "Hudson Williams The Assembly"
 permalink: "hudson-williams-the-assembly"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-03 06:00"
 celebrity: "Hudson Williams"
@@ -18,6 +18,14 @@ sources:
   - "https://www.thepinknews.com/2026/11/02/heated-rivalry-hudson-williams-connor-storrie-assembly/"
   - "https://tribune.com.pk/story/2638244/hudson-williams-addresses-whether-he-has-romantic-feelings-for-heated-rivalry-co-star-connor-storrie"
   - "https://en.xmag.live/hudson-williams-reveals-whether-he-ever-had-feelings-beyond-friendship-for-connor-storrie-while-filming-heated-rivalry/"
+image_alt: "Illustration of a man and a woman in TV interview set, lit by daytime, studio lights."
+image: "images/2026-11-03-06-00-hudson-williams.webp"
+wp_media_id: 1459
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-06-00-hudson-williams-768x432.webp"
+wp_id: 1460
+wp_link: "https://moduscarry.com/hudson-williams-the-assembly/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
