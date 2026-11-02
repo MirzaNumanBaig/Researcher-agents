@@ -25,6 +25,7 @@ wp_id: 1440
 wp_link: "https://moduscarry.com/hudson-williams-platonic-soulmates/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -24,6 +24,7 @@ wp_id: 1438
 wp_link: "https://moduscarry.com/connor-storrie-hudson-williams-platonic-soulmates/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
