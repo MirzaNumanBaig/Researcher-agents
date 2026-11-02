@@ -38,6 +38,7 @@ Write the file with front matter `status: skipped` and a one-line `skip_reason:`
   relationships, legal trouble or finances unless confirmed by a named, reliable source. When in doubt leave it out.
 - Australian focus and spelling (en-AU). Neutral, factual, warm tone; no hype words.
 - `image_prompt` (front matter): one short English sentence describing a scene for an AI-generated featured image that fits the story (a pirate ship at sunset for a pirate film, an empty cinema, a stage, a runway, a red carpet at night). NEVER include a real person, a name, a face, a celebrity likeness, a brand, a logo or any text. Scenes, objects, places and mood only. Under 25 words. Follow the article-featured-image skill.
+- Rank Math SEO (front matter, all four required): `seo_title` (the meta title: focus keyword near the start, 50-60 characters, may differ from the headline), `seo_description` (meta description: 120-155 characters, contains the focus keyword, states the news and invites the click, no quotes), `focus_keyword` (ONE phrase of 2-4 words people would search, e.g. "Nicole Kidman Practical Magic 2"; it must appear in `seo_title`, `seo_description`, the first paragraph, one `##` heading and the permalink), `permalink` (the URL slug: lowercase words joined by hyphens, 3-6 words, contains the focus keyword, no dates, no stop-word padding, e.g. `nicole-kidman-practical-magic-2`).
 - Sound like an experienced entertainment editor at a major publisher: specific, calm, no hype, no em dashes, no AI-sounding phrases (see the humanizer skill).
 - End with a `## Sources` list of the links you actually used.
 - Use 1-2 existing categories and up to 5 tags, chosen from `data/wp_site.json`. If no category fits, use "Celebrity News" only if it exists, otherwise leave `categories` empty.
@@ -47,7 +48,11 @@ Write the file with front matter `status: skipped` and a one-line `skip_reason:`
 ```
 ---
 title: "Headline"
-description: "Meta description"
+description: "Excerpt, one sentence under 155 characters"
+seo_title: "Focus keyword first, 50-60 characters"
+seo_description: "Meta description, 120-155 characters, contains the focus keyword"
+focus_keyword: "Nicole Kidman Practical Magic 2"
+permalink: "nicole-kidman-practical-magic-2"
 status: pending
 wp_status: <the wp_status you were given>
 batch: "<batch label exactly as in the brief>"

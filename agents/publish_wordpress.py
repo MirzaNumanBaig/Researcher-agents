@@ -176,6 +176,29 @@ def backfill_embed(f, front, body):
     return front
 
 
+def seo_fields(front):
+    """Rank Math fields of an article: (title, description, focus keyword, slug). The writer's seo_* fields win; the headline, description and celebrity are the fallbacks."""
+    slug = re.sub(r"[^a-z0-9]+", "-", field(front, "permalink").lower()).strip("-")[:75].strip("-")
+    return (field(front, "seo_title") or field(front, "title"), field(front, "seo_description") or field(front, "description"),
+            field(front, "focus_keyword") or field(front, "celebrity"), slug)
+
+
+def set_rank_math(post_id, front):
+    """Write the Rank Math SEO title, meta description and focus keyword through Rank Math's own REST route. Returns True when stored."""
+    title, desc, focus, _ = seo_fields(front)
+    meta = {k: v for k, v in (("rank_math_title", title), ("rank_math_description", desc), ("rank_math_focus_keyword", focus)) if v}
+    if not meta:
+        return False
+    req = urllib.request.Request(
+        f"{URL}/wp-json/rankmath/v1/updateMeta", method="POST",
+        data=json.dumps({"objectID": int(post_id), "objectType": "post", "meta": meta}).encode(),
+        headers={"Content-Type": "application/json", "User-Agent": "researcher-agents",
+                 "Authorization": "Basic " + base64.b64encode(f"{USER}:{PW}".encode()).decode()})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        r.read()
+    return True
+
+
 def image_caption():
     """Visible caption under featured images. OFF by default; IMG_CAPTION or config.json image_pipeline.caption turns it on with the given text."""
     c = os.environ.get("IMG_CAPTION", (CONFIG.get("image_pipeline") or {}).get("caption", ""))
@@ -333,6 +356,14 @@ def main():
                 front = backfill_embed(f, front, body)
             except Exception as e:
                 print(f"  embed backfill failed for {f.name}: {e}", file=sys.stderr)
+        if status == "sent" and field(front, "wp_id").isdigit() and not field(front, "seo_synced") and field(front, "seo_title") and field(front, "wp_synced") in WP_STATUSES:
+            try:  # a sent post whose Rank Math fields were not stored yet (route was down, or the writer's SEO fields exist)
+                if set_rank_math(field(front, "wp_id"), front):
+                    front = set_field(front, "seo_synced", "1")
+                    f.write_text(f"---\n{front}\n---\n\n{body}")
+                    print(f"Rank Math fields stored for {f.name}")
+            except Exception as e:
+                print(f"  Rank Math fields not stored for {f.name}: {e}", file=sys.stderr)
         if AUTO and status == "pending":
             status = "approved"
             front = set_field(front, "status", "approved")
@@ -358,6 +389,8 @@ def main():
                 payload = {"title": field(front, "title"), "content": content, "status": want}
                 if field(front, "description"):
                     payload["excerpt"] = field(front, "description")
+                if seo_fields(front)[3]:
+                    payload["slug"] = seo_fields(front)[3]  # the permalink
                 cats, tags = items(front, "categories"), items(front, "tags")
                 if cats:
                     payload["categories"] = term_ids("categories", cats, False)
@@ -394,6 +427,11 @@ def main():
             else:
                 continue
             front = set_field(set_field(set_field(front, "wp_id", post["id"]), "wp_link", post["link"]), "wp_synced", want)
+            try:  # Rank Math title, description and focus keyword; a failure never blocks the post and is retried on the next run
+                if not field(front, "seo_synced") and set_rank_math(post["id"], front):
+                    front = set_field(front, "seo_synced", "1")
+            except Exception as e:
+                print(f"  Rank Math fields not stored for {f.name}: {e}", file=sys.stderr)
             f.write_text(f"---\n{front}\n---\n\n{body}")
             print(f"ok {f.name} -> WordPress #{post['id']} ({want})")
         except Exception as e:  # keep going; failed files stay approved and retry on the next run
