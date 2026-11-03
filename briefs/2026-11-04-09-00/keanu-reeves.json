@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-04 09:00",
+  "celebrity": "Keanu Reeves",
+  "stories": [
+    {
+      "title": "Keanu Reeves Officially Returning for New Release of Iconic Franchise 30 Years in the Making",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14cmRCajZJMTNVbGJWQ2padXlPWEYxeXpvZVJBS0FhUWtNR0JZanlnN01oUEhVdUItd05lWE53TS1ybkJ3MXYwZ05VVXlhTGc3R28xbGhJOUc?oc=5",
+      "published": "2026-11-03T18:26:38+00:00",
+      "outlets": [
+        {
+          "source": "MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14cmRCajZJMTNVbGJWQ2padXlPWEYxeXpvZVJBS0FhUWtNR0JZanlnN01oUEhVdUItd05lWE53TS1ybkJ3MXYwZ05VVXlhTGc3R28xbGhJOUc?oc=5",
+          "article_url": "https://movieweb.com/bill-ted-new-video-game/",
+          "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/instar55176617.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/instar55176617.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://movieweb.com/bill-ted-new-video-game/"
+    },
+    {
+      "title": "Bill & Ted Officially Return for Surprising Project After Keanu Reeves Movie, Watch Trailer",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU19idFZrcUt3d1ZHQ3JuQTRoTHUxMjE3R3MyaFFlNEZBdE5NcFVXREp4WVdIWVotUzl3Nk8xOE1yM3NIS21qazNKdmc4bGdvNlJJRmEtbDhpdDREZVItSk5CQS1pcENpYURwdFUwRjFLbExrNlJuZncyUmUzRUR4LTliZDRUX2Q1bG1XaUR6MXFyd9IBlwFBVV95cUxPLWt4X1BYUXktLWNsX05SM0NLYU5POE41Qk8xT0lfdjF4UU5Calo4bTNlZXM4b25OZHlTOFJ1d0Z5YlhYTndsdlhMcXRQMDRFYXFkMVNzNk1mNFZLRUFSdTN2UGhzNjdHRzFJeVhSVTVNNE9hZ0RybTZRNDhRNm41MzF2MjlpOV9jd1dzRENMVFQ0T0VsTjZN?oc=5",
+      "published": "2026-11-03T17:43:53+00:00",
+      "outlets": [
+        {
+          "source": "ComingSoon.net",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU19idFZrcUt3d1ZHQ3JuQTRoTHUxMjE3R3MyaFFlNEZBdE5NcFVXREp4WVdIWVotUzl3Nk8xOE1yM3NIS21qazNKdmc4bGdvNlJJRmEtbDhpdDREZVItSk5CQS1pcENpYURwdFUwRjFLbExrNlJuZncyUmUzRUR4LTliZDRUX2Q1bG1XaUR6MXFyd9IBlwFBVV95cUxPLWt4X1BYUXktLWNsX05SM0NLYU5POE41Qk8xT0lfdjF4UU5Calo4bTNlZXM4b25OZHlTOFJ1d0Z5YlhYTndsdlhMcXRQMDRFYXFkMVNzNk1mNFZLRUFSdTN2UGhzNjdHRzFJeVhSVTVNNE9hZ0RybTZRNDhRNm41MzF2MjlpOV9jd1dzRENMVFQ0T0VsTjZN?oc=5",
+          "article_url": "https://www.comingsoon.net/games/trailers/2217156-bill-and-ted-drop-surprise-new-trailer",
+          "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Deepesh-personal-1200-_-675-81.png?resize=1200,630"
+        }
+      ],
+      "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Deepesh-personal-1200-_-675-81.png?resize=1200,630",
+      "image_source": "https://www.comingsoon.net/games/trailers/2217156-bill-and-ted-drop-surprise-new-trailer"
+    }
+  ]
+}

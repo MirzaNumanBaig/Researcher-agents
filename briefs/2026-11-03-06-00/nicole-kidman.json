@@ -27,10 +27,16 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM1puQXFmRnhSMDgwX0RPWnVHVEdZOFZJVlRoS3lNckFGWWgzWVdxbWxlTUl6MGhBVzM5N2M4N3YwX2xuT1JORDVaNENua0trSGpNeThId0VCT0xJQ3BRVXJpalpRWmJUWVh1Y1BEemIxc0RiM2dLVUk4Rzl4MEg1WHlqaFBabjgwVFI2cVBVSQ?oc=5",
           "article_url": "",
           "image": ""
+        },
+        {
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GMXpnS1Z0ME9JWFQyNjRFSEEyQ05ZZEUyQTdETmJmV0s4Rlpmc1Q4Mm9YOWN0MGstOTdqdjlhSWFESWJWMjNZUF9SSGdIclpkNnR2RFN5aHhrVndnSGZvS1ppM0lOTVllcENQSmRNYWFleVB6cUtPd3FQaw?oc=5",
+          "article_url": "https://www.aol.com/articles/sunday-rose-18-makes-cheeky-154330000.html",
+          "image": "https://hermes.media.static.aol.com/media/2026/11/02/496a4335-abc8-37f6-9ecf-eee726ed41e7/e9c40eb6-9067-4453-a3dc-f9f4b476cbcb.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://hermes.media.static.aol.com/media/2026/11/02/496a4335-abc8-37f6-9ecf-eee726ed41e7/e9c40eb6-9067-4453-a3dc-f9f4b476cbcb.jpg",
+      "image_source": "https://www.aol.com/articles/sunday-rose-18-makes-cheeky-154330000.html"
     }
   ]
 }

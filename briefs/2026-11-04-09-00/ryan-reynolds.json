@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-04 09:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Ryan Reynolds’ Best Is A Wild R-Rated Movie You’ve Never Heard Of, Not Deadpool",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajkzODRsTWZxZzdCUkNDcDhQMVNPSVJUaklJRWdRa2lGRm5GYUV0emg2UlhLTTZOZ1lmMEk3NDlIcFJmSzdFaFhfSHBrMERwb0dBZ0RxOHkxbUxoTlNLRUdiRGppNm1GNlFQZUNqVFFmc2lDTGlxaloyT25BTTRLSjVweW82Ymc5blVv?oc=5",
+      "published": "2026-11-03T19:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajkzODRsTWZxZzdCUkNDcDhQMVNPSVJUaklJRWdRa2lGRm5GYUV0emg2UlhLTTZOZ1lmMEk3NDlIcFJmSzdFaFhfSHBrMERwb0dBZ0RxOHkxbUxoTlNLRUdiRGppNm1GNlFQZUNqVFFmc2lDTGlxaloyT25BTTRLSjVweW82Ymc5blVv?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/videos/ryan-reynolds-best-wild-r-190000793.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/fcf62d23336ace5ec5e3ccca72c92099f8819d7cb208e9d3c74ddbe854826604/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_videos_665%2F3677d1fd7c3d042b3137ca00b1f10665.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/fcf62d23336ace5ec5e3ccca72c92099f8819d7cb208e9d3c74ddbe854826604/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_videos_665%2F3677d1fd7c3d042b3137ca00b1f10665.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/videos/ryan-reynolds-best-wild-r-190000793.html"
+    },
+    {
+      "title": "Could Ryan Reynolds’ MCU Deadpool Project Be ALPHA FLIGHT?",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWY2M2NqWlI2NzlmMW5VMG9yUXhfblJHcEZZUVY0TmcyYkdRLTZmQzZubHU5ck42R0hkcDMtZGJ0Q0plYnZ0RmlDanZLb0I3UlZIczVZZVhKNzhXZ0dYR1dpY3p3ZUhGUDQ1cjBPUzRyUUowQzRoZXJCRC1BbkZfVjk3U3E1R20wamc?oc=5",
+      "published": "2026-11-03T18:00:48+00:00",
+      "outlets": [
+        {
+          "source": "Nerdist",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWY2M2NqWlI2NzlmMW5VMG9yUXhfblJHcEZZUVY0TmcyYkdRLTZmQzZubHU5ck42R0hkcDMtZGJ0Q0plYnZ0RmlDanZLb0I3UlZIczVZZVhKNzhXZ0dYR1dpY3p3ZUhGUDQ1cjBPUzRyUUowQzRoZXJCRC1BbkZfVjk3U3E1R20wamc?oc=5",
+          "article_url": "https://nerdist.com/article/ryan-reynolds-deadpool-mcu-project-alpha-flight-rumor/",
+          "image": "https://cdn.nerdist.com/wp-content/uploads/2026/11/02154319/Deadpool-Alpha-Flight.webp"
+        }
+      ],
+      "image": "https://cdn.nerdist.com/wp-content/uploads/2026/11/02154319/Deadpool-Alpha-Flight.webp",
+      "image_source": "https://nerdist.com/article/ryan-reynolds-deadpool-mcu-project-alpha-flight-rumor/"
+    }
+  ]
+}

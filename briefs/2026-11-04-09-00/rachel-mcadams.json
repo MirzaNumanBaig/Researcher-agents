@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-04 09:00",
+  "celebrity": "Rachel McAdams",
+  "stories": [
+    {
+      "title": "Fug or Fab: Rachel McAdams",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lcVMydVV4SUxrTlhhdW15bkg2d0JVd1F2dkNpc244NERuZGhpRG1CX2xIY0dscmRvUDhDQkw3ckxVUlNJbnBpSWhRUXNQQThyTmR3TGpDR2R2bm5YZUpscU5XcjFKWmxCeGc?oc=5",
+      "published": "2026-11-03T19:54:35+00:00",
+      "outlets": [
+        {
+          "source": "Go Fug Yourself",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lcVMydVV4SUxrTlhhdW15bkg2d0JVd1F2dkNpc244NERuZGhpRG1CX2xIY0dscmRvUDhDQkw3ckxVUlNJbnBpSWhRUXNQQThyTmR3TGpDR2R2bm5YZUpscU5XcjFKWmxCeGc?oc=5",
+          "article_url": "https://www.gofugyourself.com/fug-or-fab-rachel-mcadams-6/",
+          "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg"
+        }
+      ],
+      "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg",
+      "image_source": "https://www.gofugyourself.com/fug-or-fab-rachel-mcadams-6/"
+    }
+  ]
+}
