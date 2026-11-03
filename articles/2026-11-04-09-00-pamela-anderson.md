@@ -24,6 +24,7 @@ wp_id: 1530
 wp_link: "https://moduscarry.com/pamela-anderson-cfda-awards-herrera-heels/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
