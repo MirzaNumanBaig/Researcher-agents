@@ -28,7 +28,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "research"
-UA = {"User-Agent": "ModusCarry-research/1.0 (themoduscarry@gmail.com)", "Accept": "application/json"}
+UA = {"User-Agent": "ModusCarry-research/1.0 (celebrity news research)", "Accept": "application/json"}
 RECENT_YEARS = 4
 ANIME_TYPES = "wd:Q1107 wd:Q20650540 wd:Q63952888 wd:Q100269041 wd:Q581714"  # anime, anime film, anime TV series, anime web series, animated film
 JOB = re.compile(r"actor|actress|singer|film|model|musician|rapper|comedian|director|presenter|songwriter|producer", re.I)
