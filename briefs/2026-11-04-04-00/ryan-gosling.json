@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-04 04:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Your Afternoon Men: Ryan Gosling and Russell Crowe at \"The Nice Guys\" Premiere",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUksyT3B1dUM2MXFFc2V3LWJuZVVRc2NwNk5EeEZLQUFIZEdUX3NqQTVKalA1dFVDbzR5ZHpDalpfa0xzZHczUE5hZC00ak5GRmJ1c1dnTVFyNEpsbFR3M2dGc1k5ZFVCWUNKQnJYNDhlcVE5QnVFODVQU3ZOQ0Z5WFJHTU5rTkluWGZZcnFiUXBjSTBjTm9qQ0dwNzRCLVNuRGUw?oc=5",
+      "published": "2026-11-03T10:42:52+00:00",
+      "outlets": [
+        {
+          "source": "Go Fug Yourself",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUksyT3B1dUM2MXFFc2V3LWJuZVVRc2NwNk5EeEZLQUFIZEdUX3NqQTVKalA1dFVDbzR5ZHpDalpfa0xzZHczUE5hZC00ak5GRmJ1c1dnTVFyNEpsbFR3M2dGc1k5ZFVCWUNKQnJYNDhlcVE5QnVFODVQU3ZOQ0Z5WFJHTU5rTkluWGZZcnFiUXBjSTBjTm9qQ0dwNzRCLVNuRGUw?oc=5",
+          "article_url": "https://www.gofugyourself.com/your-afternoon-men-ryan-gosling-and-russell-crowe-at-the-nice-guys-pre/",
+          "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg"
+        }
+      ],
+      "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg",
+      "image_source": "https://www.gofugyourself.com/your-afternoon-men-ryan-gosling-and-russell-crowe-at-the-nice-guys-pre/"
+    },
+    {
+      "title": "Pink Suits, Bold Colors & Timeless Tuxedos: Ryan Gosling’s Fashion Transformation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2JsVWhKYWRLOW5WelIwWnpILTFlYklUM3RjTFN1cGNvOTJjNEdfT2JjV2pNMGZFeU9wbHJzZlFPbzNkUUgyY0ZMZWZUaERUaHBObWk3RkIyR1NvU3NKTF9LbEM5NHA2dk04TE5uUmJGSjI2OEh3UjNud0Z4UDV2WUxCNUo0bzZnZ1doUlFoNm5vSWFNZW9lVUdwRXM2T3IzdThF?oc=5",
+      "published": "2026-11-03T09:49:54+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2JsVWhKYWRLOW5WelIwWnpILTFlYklUM3RjTFN1cGNvOTJjNEdfT2JjV2pNMGZFeU9wbHJzZlFPbzNkUUgyY0ZMZWZUaERUaHBObWk3RkIyR1NvU3NKTF9LbEM5NHA2dk04TE5uUmJGSjI2OEh3UjNud0Z4UDV2WUxCNUo0bzZnZ1doUlFoNm5vSWFNZW9lVUdwRXM2T3IzdThF?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/pink-suits-bold-colors-timeless-094954413.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/c0faf6dc3e70f4d12c9a5d101a98b4afacebe2a66e21e7b741245b8558f46de4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2Fc7f57f6648499abd343f9fd3bf896338.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/c0faf6dc3e70f4d12c9a5d101a98b4afacebe2a66e21e7b741245b8558f46de4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2Fc7f57f6648499abd343f9fd3bf896338.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/pink-suits-bold-colors-timeless-094954413.html"
+    }
+  ]
+}
