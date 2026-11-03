@@ -24,6 +24,7 @@ wp_id: 1472
 wp_link: "https://moduscarry.com/pamela-anderson-keynote-speaker/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

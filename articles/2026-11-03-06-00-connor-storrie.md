@@ -26,6 +26,7 @@ wp_id: 1456
 wp_link: "https://moduscarry.com/connor-storrie-hudson-williams-assembly/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

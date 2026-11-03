@@ -26,6 +26,7 @@ wp_id: 1460
 wp_link: "https://moduscarry.com/hudson-williams-the-assembly/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
