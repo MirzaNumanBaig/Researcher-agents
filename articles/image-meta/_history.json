@@ -1,49 +1,5 @@
 [
  {
-  "article": "2026-11-02-08-00-michael-j-fox",
-  "shot": "medium-wide shot",
-  "angle": "side-on view",
-  "lens": "50mm",
-  "palette": "warm beige, deep blue and golden yellow",
-  "prompt": "A medium-wide shot of the film set from a side-on view, taken with a 50mm lens, captures the heartwarming moment between the two anonymous figures. The woman, in her late 20s, sits at a low table, her long straight black hair cascading down her warm beige skin, her emerald silk dress a vibrant contrast to the muted tones of the film set. Her eyebrows are drawn up gently at the centre, her eyes unfocused and distant, her lips just closed, and her jaw soft as she gazes off-frame toward a window. Her head rests slightly the figure, her shoulders low, and her hands wrapped around a mug. She is seated at an angle to the man, who sits across from her, his dark green wool jacket a striking contrast to the warm beige and deep blue hues of the film set. The man, in his mid 50s, has short grey-flecked hair and a beard, his tan skin a testament to his years of experience. The depth of field is shallow, with the foreground and midground in sharp focus and the background blurred. No text, no logos, no watermark.",
-  "cast": [
-   "cast-03",
-   "cast-06"
-  ]
- },
- {
-  "article": "2026-11-02-12-00-ryan-gosling",
-  "shot": "medium-wide shot",
-  "angle": "side-on view",
-  "lens": "50mm",
-  "palette": "blue, gray and white",
-  "prompt": "A medium-wide shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin sits at an angle to the man in her early 40s with close-cropped black hair and dark brown skin across a low table on a film set. Her eyebrows are drawn up gently at the centre, her eyes are unfocused and distant, her lips are just closed, and her jaw is soft. She gazes off-frame toward a window, her head resting slightly back, her shoulders low, her hands wrapped around a mug. The woman wears a black satin dress. The man's eyebrows are slightly raised, his eyes are wide and attentive, his lips are just parted, and his jaw is relaxed. He gazes up and off-frame right, his head tilted slightly up, his posture leaning forward, his elbows on knees, his hands holding a paper cup. He wears a black turtleneck and long coat. The mood is one of loneliness, with the blue, gray, and white palette dominating the colour palette. No text, no logos, no watermark.",
-  "cast": [
-   "cast-01",
-   "cast-08"
-  ]
- },
- {
-  "article": "2026-11-02-19-00-the-kid-laroi",
-  "shot": "medium shot",
-  "angle": "eye-level",
-  "lens": "35mm",
-  "palette": "blue, white and black",
-  "prompt": "A medium shot of a man in his late 30s the figure short dark greying hair and medium-brown skin is positioned to the left of centre, his open chest and loose shoulders radiating an energetic aura as he stands amidst the vibrant concert venue. His lifted eyebrows and bright, crinkled eyes sparkle the figure amusement, while his wide natural smile and relaxed jawline convey a sense of genuine joy. His head is tipped back mid-laugh, and his gaze is fixed on the other person, creating a sense of warmth and connection. One hand rests in a coat pocket, while the other is free to roam, adding to the carefree atmosphere. The charcoal knit sweater he wears blends seamlessly into the concert setting, as if designed specifically for this moment. In the foreground, a guitar gleams the figure a subtle sheen, while the stage lights casting a warm glow from the side create a mesmerizing soft haze and bokeh in the background. Natural skin texture the figure visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
-  "cast": [
-   "cast-02"
-  ]
- },
- {
-  "article": "2026-11-02-19-00-ryan-gosling",
-  "shot": "close-up detail shot",
-  "angle": "high angle",
-  "lens": "24mm",
-  "palette": "deep teal and warm amber",
-  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Close-up detail shot, 24mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, deep teal and warm amber palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
   "article": "2026-11-02-19-00-pamela-anderson",
   "shot": "medium-wide shot",
   "angle": "slightly low angle",
@@ -204,5 +160,46 @@
   "palette": "gray, blue and white",
   "prompt": "A wide establishing shot of a courthouse, taken from behind, captures the imposing structure in its entirety, with a 24mm lens emphasizing the grandeur of the building's facade. The camera peers through a row of tall, rectangular windows, their glass panes reflecting the soft, grayish light of a cloudy day, casting an eerie glow across the scene. A wooden gavel rests atop a bare, polished desk, its surface worn smooth by years of use, beside a closed, supple leather folder, its dark color a subtle contrast to the overall palette of gray, blue, and white. The fluorescent hum of the courthouse's overhead lighting is palpable, yet the scene remains calm and respectful, devoid of any of tension or drama. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "cast": []
+ },
+ {
+  "article": "2026-11-03-12-00-ryan-gosling",
+  "shot": "overhead shot",
+  "angle": "high angle",
+  "lens": "24mm",
+  "palette": "dark blue, orange and yellow",
+  "prompt": "A medium shot of the dark blue-painted recording studio's empty control room, its wall lined with vintage synthesizers and equipment, under the soft glow of the moonlight seeping through the large skylight above. The skeletal synths and gruelly bass equipment stand silently, like sentinels guarding secrets. In the foreground, a single, sleek microphone boom arm extends from the ceiling, suspended above the empty drum set, where the drums seem to hover in mid-air. The 24mm lens captures the vast, cavernous space, and the subtle shadows cast by the moonlight create a sense of mystery. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-11-03-12-00-pamela-anderson",
+  "shot": "medium-wide shot",
+  "angle": "slightly high angle",
+  "lens": "85mm",
+  "palette": "soft peach, the figure brown and neutral beige",
+  "prompt": "A medium-wide shot of a woman in her late 20s with long straight black hair and warm beige skin, taken from a slightly high angle, with a warm and inviting tone. Her smooth and softly arched eyebrows are raised slightly, her confident and direct eyes lock onto the camera, and her mouth curves into a composed soft smile. Her lifted jawline and quarter-turned head, with her chin raised and her quarter-turned face towards the lens, convey a sense of quiet confidence. Her shoulders are back, her spine long, and her posture exudes poise. One hand rests on her hip, while the other is tucked into her pocket. She stands in front of a sleek, black pedestal, adorned with a gleaming silver sculpture of an anonymous figure, a nod to the upcoming CFDA Awards 2026. Behind her, a vibrant and eclectic gallery space unfolds, with a soft haze and bokeh in the background. The warm, natural the figure from the side casts a flattering glow on her face, accentuating the gentle contours of her skin. The colour palette is a soothing blend of soft peach, warm brown, and neutral beige. No text, no logos, no watermark.",
+  "cast": [
+   "cast-03"
+  ]
+ },
+ {
+  "article": "2026-11-03-12-00-keanu-reeves",
+  "shot": "wide establishing shot",
+  "angle": "side-on view",
+  "lens": "50mm",
+  "palette": "dark grey, silver and black",
+  "prompt": "A wide establishing shot of a dimly lit cinema, taken from the side, showing rows of empty seats stretching out into the darkness, the silver and black accents of the Chinese cinemas' architecture glowing softly in the fading daytime sunlight, the air thick with anticipation, the only sound the distant hum of the projector, Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-11-03-12-00-hudson-williams",
+  "shot": "medium-wide shot",
+  "angle": "side-on view",
+  "lens": "35mm",
+  "palette": "blue, green and neutral",
+  "prompt": "A medium-wide shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, wearing a black satin dress, sits at an angle to a man in his early 40s with close-cropped black hair and dark brown skin, who wears a black turtleneck and long coat. Her facial expression is one of gentle introspection, with her eyebrows drawn up slightly at the centre, her unfocused and distant eyes gazing off-frame toward a window, her lips just closed, and her soft jaw relaxed. The man's facial expression, in contrast, is one of engaged attention, with his eyebrows slightly raised, his wide and attentive eyes fixed up and off-frame right, his lips just parted, and his relaxed jaw untroubled. Her head is resting slightly back, while his is tilted slightly up, and their postures are a study in contrasts, with her shoulders low and his leaning forward, elbows on knees. The light from the studio lights casts a gentle glow over the scene, illuminating the subtle texture of their skin and the fine grain of their clothing, capturing a candid and unposed moment in time. No text, no logos, no watermark.",
+  "cast": [
+   "cast-01",
+   "cast-08"
+  ]
  }
 ]

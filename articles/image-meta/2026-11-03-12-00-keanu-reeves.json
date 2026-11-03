@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-11-03T02:25:48.401356+00:00",
+  "article": "2026-11-03-12-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "box_office",
+  "analysis": {
+    "story_type": "box_office",
+    "core_event": "an anonymous figure at an anonymous figure 12 the figure after release",
+    "emotion": "slow_build",
+    "setting": "cinema",
+    "key_objects": [
+      "an anonymous figure film",
+      "Chinese cinemas",
+      "box the figure chart"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "dark grey",
+      "silver",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure film",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "cinema",
+    "props": [
+      "an anonymous figure film",
+      "Chinese cinemas",
+      "box the figure chart"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark grey",
+      "silver",
+      "black"
+    ],
+    "mood": "slow_build",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot of a dimly lit cinema, taken from the side, showing rows of empty seats stretching out into the darkness, the silver and black accents of the Chinese cinemas' architecture glowing softly in the fading daytime sunlight, the air thick with anticipation, the only sound the distant hum of the projector, Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1392844490,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of cinema with a person film and Chinese cinemas, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 173.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1392844490,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

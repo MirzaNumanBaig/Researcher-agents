@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Brows: Why Light and Minimal Works"
 seo_description: "Pamela Anderson brows have moved from pencil-thin to soft and feathered. Here is what beauty editors say about the look and why it flatters in your 50s."
 focus_keyword: "Pamela Anderson brows"
 permalink: "pamela-anderson-brows-light-minimalist"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-03 12:00"
 celebrity: "Pamela Anderson"
@@ -15,6 +15,14 @@ image_prompt: "A quiet vanity table at golden hour with soft brushes, a small mi
 sources:
   - "https://www.usatoday.com/picture-gallery/entertainment/style/2026/11/02/cfda-awards-2026-red-carpet/92568669007/"
   - "https://shopping.yahoo.com/beauty/makeup/articles/pamela-anderson-proves-most-flattering-160000811.html"
+image_alt: "Illustration of a woman in a person, lit by daytime, natural a person."
+image: "images/2026-11-03-12-00-pamela-anderson.webp"
+wp_media_id: 1483
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-12-00-pamela-anderson-768x432.webp"
+wp_id: 1484
+wp_link: "https://moduscarry.com/pamela-anderson-brows-light-minimalist/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

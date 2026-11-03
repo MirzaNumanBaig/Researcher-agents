@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-03T02:25:40.071307+00:00",
+  "article": "2026-11-03-12-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure the tone for her 50s",
+    "emotion": "inspiration",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "an anonymous figure's the figure the figure",
+      "CFDA an anonymous figure Awards 2026",
+      "an anonymous figure gallery"
+    ],
+    "time_and_light": "daytime, natural the figure",
+    "palette": [
+      "soft peach",
+      "the figure brown",
+      "neutral beige"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure's the figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "an anonymous figure's the figure the figure",
+      "CFDA an anonymous figure Awards 2026",
+      "an anonymous figure gallery"
+    ],
+    "time_of_day": "daytime, natural the figure",
+    "light": {
+      "source": "daytime, natural the figure",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft peach",
+      "the figure brown",
+      "neutral beige"
+    ],
+    "mood": "inspiration",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-03"
+  ],
+  "prompt": "A medium-wide shot of a woman in her late 20s with long straight black hair and warm beige skin, taken from a slightly high angle, with a warm and inviting tone. Her smooth and softly arched eyebrows are raised slightly, her confident and direct eyes lock onto the camera, and her mouth curves into a composed soft smile. Her lifted jawline and quarter-turned head, with her chin raised and her quarter-turned face towards the lens, convey a sense of quiet confidence. Her shoulders are back, her spine long, and her posture exudes poise. One hand rests on her hip, while the other is tucked into her pocket. She stands in front of a sleek, black pedestal, adorned with a gleaming silver sculpture of an anonymous figure, a nod to the upcoming CFDA Awards 2026. Behind her, a vibrant and eclectic gallery space unfolds, with a soft haze and bokeh in the background. The warm, natural the figure from the side casts a flattering glow on her face, accentuating the gentle contours of her skin. The colour palette is a soothing blend of soft peach, warm brown, and neutral beige. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2541860266,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in a person, lit by daytime, natural a person.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 68.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2541860266,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

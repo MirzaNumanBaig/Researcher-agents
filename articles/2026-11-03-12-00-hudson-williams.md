@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Assembly Interview and Canadian Tire Bag"
 seo_description: "Hudson Williams Assembly season 2 opener and a Canadian Tire ornament inspired by his viral bag: what he said and what to know."
 focus_keyword: "Hudson Williams Assembly"
 permalink: "hudson-williams-assembly-canadian-tire-bag"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-03 12:00"
 celebrity: "Hudson Williams"
@@ -16,6 +16,14 @@ sources:
   - "https://surreynowleader.com/2026/11/02/hudson-williams-other-celebs-face-questions-from-surrey-white-rock-interviewers/"
   - "https://dailyhive.com/canada/canadian-tire-hudson-williams-bag-christmas-ornament"
   - "https://ca.rollingstone.com/tv-movies/hudson-williams-the-assembly-season-2-neurodivergent-interviewers/"
+image_alt: "Illustration of a woman and a man in TV studio, lit by daytime, studio lights."
+image: "images/2026-11-03-12-00-hudson-williams.webp"
+wp_media_id: 1477
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-12-00-hudson-williams-768x432.webp"
+wp_id: 1478
+wp_link: "https://moduscarry.com/hudson-williams-assembly-canadian-tire-bag/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

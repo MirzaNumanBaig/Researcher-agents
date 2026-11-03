@@ -1,0 +1,152 @@
+{
+  "timestamp": "2026-11-03T02:26:10.633604+00:00",
+  "article": "2026-11-03-12-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure opens up about co-star an anonymous figure and his ADHD in an the figure on CBC's The the figure.",
+    "emotion": "candid",
+    "setting": "TV studio",
+    "key_objects": [
+      "plaid bag",
+      "Canadian Tire the figure",
+      "The the figure set"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "green",
+      "neutral"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "plaid bag",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "TV studio",
+    "props": [
+      "plaid bag",
+      "Canadian Tire the figure",
+      "The the figure set"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "neutral"
+    ],
+    "mood": "candid",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-01",
+    "cast-08"
+  ],
+  "prompt": "A medium-wide shot of a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, wearing a black satin dress, sits at an angle to a man in his early 40s with close-cropped black hair and dark brown skin, who wears a black turtleneck and long coat. Her facial expression is one of gentle introspection, with her eyebrows drawn up slightly at the centre, her unfocused and distant eyes gazing off-frame toward a window, her lips just closed, and her soft jaw relaxed. The man's facial expression, in contrast, is one of engaged attention, with his eyebrows slightly raised, his wide and attentive eyes fixed up and off-frame right, his lips just parted, and his relaxed jaw untroubled. Her head is resting slightly back, while his is tilted slightly up, and their postures are a study in contrasts, with her shoulders low and his leaning forward, elbows on knees. The light from the studio lights casts a gentle glow over the scene, illuminating the subtle texture of their skin and the fine grain of their clothing, capturing a candid and unposed moment in time. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 26058350,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in TV studio, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 96.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 26058350,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
