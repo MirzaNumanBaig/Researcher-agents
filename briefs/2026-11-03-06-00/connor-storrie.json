@@ -42,10 +42,16 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ta1FwckNOS2NaSk81dUpwT0tZMjFLeGJkWHNHRG5sME1ndFZjTkxQY1VacTcxZ0QtbkZVRENwejVzajVpdTV0Zk0yRlFWUG1Lc0dBUmFhb190NjU1QVhkNVBfcHl4akZQUVE?oc=5",
           "article_url": "https://www.imdb.com/it/news/ni66091898/?ref_=nwc_art_perm",
           "image": ""
+        },
+        {
+          "source": "Just Jared",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWJaVVhteHlMU1ZCUThTQjlzM0lGVkk3Y29lWEpqd3FTdnFRRFpZWkN1OTVtYzQzVGdnN1dfNGFka2ZqWm1oOERLV29hN2wtUk1UamdhZVdXb2VqT1NuSEpVbjZJNTVtM081QTUtdnJZYm5CajZxYnRIY2Y5MlZNc0ktanJwQkNHc3pMMXVjcVNMYl9ta1pGbnFteXplVWRGZVE?oc=5",
+          "article_url": "https://www.justjared.com/2026/11/02/connor-storrie-toronto-errands-heated-rivalry-halloween-photos/",
+          "image": "https://www.justjared.com/wp-content/uploads/2026/11/connor-storrie-toronto.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://www.justjared.com/wp-content/uploads/2026/11/connor-storrie-toronto.jpg",
+      "image_source": "https://www.justjared.com/2026/11/02/connor-storrie-toronto-errands-heated-rivalry-halloween-photos/"
     },
     {
       "title": "Hudson Williams calls Heated Rivalry co-star Connor Storrie his ‘platonic soulmate’",
@@ -127,6 +133,27 @@
       ],
       "image": "https://s.yimg.com/lo/mysterio/api/cfac44c7a4b164a36fafaa29d64bb178763af7ca06d01cccc10f8f7032ba800c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F5020fb8ec7daaaebeaae9d418885ae0b.jpg",
       "image_source": "https://www.yahoo.com/entertainment/tv/articles/heated-rivalry-star-hudson-williams-220031008.html"
+    },
+    {
+      "title": "Hudson Williams Calls Connor Storrie His “Platonic Soulmate”",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN1VoVGtIVU1faTdiYjZ6Y0U5XzNyM3NRTVlNNV9ueFJEM2w4TzdxUmFfNFkwSTNEdWNVTW9BU2hJc1FQZGpqOGM1NkRQdVROXzFRU2puRVc2MHBESHBqeUxjTzd0TU5DZ1lJb0l3NHhPTl81T2p5UUNjNUFXa2hoVERteGVQeE0yTVQyQnFUQnhQMjNLYVhHS09ZaGQ5MDBjRUJLbFhVVQ?oc=5",
+      "published": "2026-11-03T04:38:20+00:00",
+      "outlets": [
+        {
+          "source": "EDGE Media Network",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN1VoVGtIVU1faTdiYjZ6Y0U5XzNyM3NRTVlNNV9ueFJEM2w4TzdxUmFfNFkwSTNEdWNVTW9BU2hJc1FQZGpqOGM1NkRQdVROXzFRU2puRVc2MHBESHBqeUxjTzd0TU5DZ1lJb0l3NHhPTl81T2p5UUNjNUFXa2hoVERteGVQeE0yTVQyQnFUQnhQMjNLYVhHS09ZaGQ5MDBjRUJLbFhVVQ?oc=5",
+          "article_url": "https://www.edgemedianetwork.com/story/171725/hudson-williams-calls-connor-storrie-his-platonic-soulmate",
+          "image": "https://www.edgemedianetwork.com/img/storysocialnew/171725"
+        },
+        {
+          "source": "PinkNews",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcHlqMFpOMW93RWhVdXpRZ2tBQ295WkRaZW9vLUdIdjI0NW1RS3pCOFktVjlMOElIQWM5VndZczA1OFQ5dFA1TjhRZnVDMXNNSnpoLTB5bDZBaVEzZWx5Qnh5cUxDb0Fxdm50QjBnMnU5SGg4U0lFZTRsUkNfaW5xd0NNNEJ6Nm94emRJSzZxSnFGRFJIbU00QVJn?oc=5",
+          "article_url": "https://www.thepinknews.com/2026/11/02/heated-rivalry-hudson-williams-connor-storrie-assembly/",
+          "image": "https://www.thepinknews.com/wp-content/uploads/2026/11/hudson-williams-connor-storrie-platonic-soulmate.jpg"
+        }
+      ],
+      "image": "https://www.edgemedianetwork.com/img/storysocialnew/171725",
+      "image_source": "https://www.edgemedianetwork.com/story/171725/hudson-williams-calls-connor-storrie-his-platonic-soulmate"
     }
   ]
 }

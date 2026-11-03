@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-03 20:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ryan Gosling Rumored to Make His Ghost Rider Debut in AVENGERS: SECRET WARS Before His Solo Movie",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObW41VnloUEpzeUcyNUVySkU4RXUyX2xMWTRpRzFtZG5KSDRkb0RqemNoUWdMdFd4UEZPVFFCeFVmeUtMcVFCRDZsYjNRRGU0UVhhUXlNUGZWUUVzWlA5V2JtaXZXNHdVNzA0SEx5Ym9mbWhJa3NDRWFZSmQ1MlhBa1BxUDJwWFVHMWxQRUg0dlRWTFptNkFUWTZ4WjBCSGJLNGlMTnhKTGVQX2FvbUE?oc=5",
+      "published": "2026-11-02T15:00:00+00:00",
+      "outlets": [
+        {
+          "source": "GeekTyrant",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObW41VnloUEpzeUcyNUVySkU4RXUyX2xMWTRpRzFtZG5KSDRkb0RqemNoUWdMdFd4UEZPVFFCeFVmeUtMcVFCRDZsYjNRRGU0UVhhUXlNUGZWUUVzWlA5V2JtaXZXNHdVNzA0SEx5Ym9mbWhJa3NDRWFZSmQ1MlhBa1BxUDJwWFVHMWxQRUg0dlRWTFptNkFUWTZ4WjBCSGJLNGlMTnhKTGVQX2FvbUE?oc=5",
+          "article_url": "https://geektyrant.com/news/ghost-rider-rumor-reveals-ryan-gosling-will-make-his-debut-in-avenger-secret-wars",
+          "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ae4c7c3fc4b1929ae2a087a/1793631618181/Ryan%2BGosling%2BTo%2BPlay%2BJohnny%2BBlaze%2BVersion%2Bof%2BGHOST%2BRIDER%2Band%2BIt%2BMakes%2BPerfect%2BSense.webp?format=1500w"
+        }
+      ],
+      "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ae4c7c3fc4b1929ae2a087a/1793631618181/Ryan%2BGosling%2BTo%2BPlay%2BJohnny%2BBlaze%2BVersion%2Bof%2BGHOST%2BRIDER%2Band%2BIt%2BMakes%2BPerfect%2BSense.webp?format=1500w",
+      "image_source": "https://geektyrant.com/news/ghost-rider-rumor-reveals-ryan-gosling-will-make-his-debut-in-avenger-secret-wars"
+    },
+    {
+      "title": "Ryan Gosling’s Band Has Been Resurrected",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16LWhnQWNpdXJQSWdQT1VQdFFya0dueWVaS1NjNzVRU0NyZ3FlbHBJTFVadEJxWG5mY3FrdlBxa0JURTJFaDlEX3RacURKUDBrSGw3bW8xUE4xRkFVSDRsTkVFTjRPUjdibG5ZMg?oc=5",
+      "published": "2026-11-01T12:40:14+00:00",
+      "outlets": [
+        {
+          "source": "Nova.ie",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16LWhnQWNpdXJQSWdQT1VQdFFya0dueWVaS1NjNzVRU0NyZ3FlbHBJTFVadEJxWG5mY3FrdlBxa0JURTJFaDlEX3RacURKUDBrSGw3bW8xUE4xRkFVSDRsTkVFTjRPUjdibG5ZMg?oc=5",
+          "article_url": "https://www.nova.ie/ryan-goslings-band-has-been-resurrected/",
+          "image": "https://www.nova.ie/wp-content/uploads/2026/07/Ryan-Gosling.-Fred-Duval-Shutterstock.jpg"
+        }
+      ],
+      "image": "https://www.nova.ie/wp-content/uploads/2026/07/Ryan-Gosling.-Fred-Duval-Shutterstock.jpg",
+      "image_source": "https://www.nova.ie/ryan-goslings-band-has-been-resurrected/"
+    }
+  ]
+}

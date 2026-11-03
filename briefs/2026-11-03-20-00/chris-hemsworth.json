@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-03 20:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "Avengers: Doomsday Releases 12 New Posters Featuring Pedro Pascal's Mr. Fantastic, Chris Hemsworth's Thor, James Marsden's Cyclops, And More Superheroes Using Their Powers",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHZJVmVXOXVxMnRGVUVIb2lCWVprVHppYUNGV0FlbU9PaDF1UklTRW8wcTAxdWo3U2lkRER4VVBFQlh5U3ZzeE5zV1NxLUJjbUYwQXJUVl92UUtyUFRINkJsQXphZllpckU3YlgxNk1XZlVIVVdiLXZJZ2xOQTNtekxEbkxmeXVPRlllX0lxMkU5Smg2R1ppZVJybWloOVdSeUZHcWJSQnZRdnRpeGxsVUlKbHJiTzAxUmJTbkJ4ZGk?oc=5",
+      "published": "2026-11-03T06:39:56+00:00",
+      "outlets": [
+        {
+          "source": "The Direct",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHZJVmVXOXVxMnRGVUVIb2lCWVprVHppYUNGV0FlbU9PaDF1UklTRW8wcTAxdWo3U2lkRER4VVBFQlh5U3ZzeE5zV1NxLUJjbUYwQXJUVl92UUtyUFRINkJsQXphZllpckU3YlgxNk1XZlVIVVdiLXZJZ2xOQTNtekxEbkxmeXVPRlllX0lxMkU5Smg2R1ppZVJybWloOVdSeUZHcWJSQnZRdnRpeGxsVUlKbHJiTzAxUmJTbkJ4ZGk?oc=5",
+          "article_url": "https://thedirect.com/article/avengers-doomsday-pedro-pascal-mr-fantastic-chris-hemsworth-thor-james-marsden-cyclops-powers",
+          "image": "https://images.thedirect.com/media/article_full/avengers-doomsday-posters-heroes-1.jpg"
+        }
+      ],
+      "image": "https://images.thedirect.com/media/article_full/avengers-doomsday-posters-heroes-1.jpg",
+      "image_source": "https://thedirect.com/article/avengers-doomsday-pedro-pascal-mr-fantastic-chris-hemsworth-thor-james-marsden-cyclops-powers"
+    }
+  ]
+}
