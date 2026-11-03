@@ -22,6 +22,7 @@ wp_id: 1504
 wp_link: "https://moduscarry.com/extraction-3-spin-offs/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

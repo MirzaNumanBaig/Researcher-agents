@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-03T23:22:23.115134+00:00",
+  "article": "2026-11-04-09-00-miranda-kerr",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure declines an anonymous figure an anonymous figure Show invitation",
+    "emotion": "reluctant",
+    "setting": "podcast recording studio",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure an anonymous figure Show",
+      "runway",
+      "lingerie"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "neutral beige",
+      "soft pink",
+      "rich brown"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "podcast recording studio",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure an anonymous figure Show",
+      "runway",
+      "lingerie"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neutral beige",
+      "soft pink",
+      "rich brown"
+    ],
+    "mood": "reluctant",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-04"
+  ],
+  "prompt": "A wide shot of a podcast recording studio, taken from an eye-level perspective with an 85mm lens, captures the scene with a sense of intimacy and immediacy. The man in his mid 20s, with tousled sandy-blond hair and fair skin, stands left of centre, his quarter-turned face and raised chin radiating confidence. His smooth and softly arched eyebrows, confident and direct eyes, and composed soft smile convey a sense of composure, despite the reluctance that permeates the air. His lifted jaw and shoulders back, spine long posture exude a sense of control, as one hand rests on his hip. Across from him, an anonymous figure stands, their presence a subtle yet palpable force in the scene. To the right of the frame, a runway and a rack of lingerie hang on the wall, a stark contrast to the somber mood. The soft haze and bokeh of the background blur subtly enhances the sense of depth, while the anonymous figure an anonymous figure Show on the wall seems to fade into the background. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1694058185,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in podcast recording studio, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 98.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1694058185,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

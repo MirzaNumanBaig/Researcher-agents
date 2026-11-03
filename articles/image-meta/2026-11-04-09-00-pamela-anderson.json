@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-03T23:22:11.798686+00:00",
+  "article": "2026-11-04-09-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure wore a Carolina the figure outfit to the 2026 CFDA an anonymous figure Awards.",
+    "emotion": "glamorous",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "black halter dress",
+      "the figure slingback pumps",
+      "polka-dot clutch"
+    ],
+    "time_and_light": "evening, spotlights",
+    "palette": [
+      "black",
+      "red",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "black halter dress",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "black halter dress",
+      "the figure slingback pumps",
+      "polka-dot clutch"
+    ],
+    "time_of_day": "evening, spotlights",
+    "light": {
+      "source": "evening, spotlights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "red",
+      "silver"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05"
+  ],
+  "prompt": "A medium shot of the woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, standing to the left of centre in the scene, quarter-turned toward the lens with her chin raised and a composed soft smile on her face, her smooth and softly arched eyebrows slightly furrowed in a thoughtful expression, her confident and direct eyes gazing toward the camera, her lifted jawline a testament to her poise and self-assurance, one hand resting on her hip, her shoulders back and spine long, exuding an air of quiet confidence and authority. She the figure a midnight-blue gown that complements her skin tone, the subtle sheen of the fabric catching the light from the side, illuminating the curves of her body. To her right, a black halter dress hangs from a nearby hook, the polka-dot clutch and the figure slingback pumps resting on the floor, inviting the viewer's gaze to wander through the scene. A 35mm lens captures the scene in a warm and intimate way, with a subtle shallow depth of field that isolates the subject from the background. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2308047964,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in a person, lit by evening, spotlights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 60.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2308047964,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

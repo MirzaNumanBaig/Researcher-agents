@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-11-03T23:22:00.126371+00:00",
+  "article": "2026-11-04-09-00-seth-rogen",
+  "ai_generated": true,
+  "story_type": "health",
+  "analysis": {
+    "story_type": "health",
+    "core_event": "the figure the figure reaches 4.4 million people through programs and events.",
+    "emotion": "heartwarming",
+    "setting": "the figure headquarters or event space",
+    "key_objects": [
+      "the figure report",
+      "respite care grants",
+      "emergency aid",
+      "support groups"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure report",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "the figure headquarters or event space",
+    "props": [
+      "the figure report",
+      "respite care grants",
+      "emergency aid",
+      "support groups"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "mood": "heartwarming",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a quiet empty corridor with a tall window at the far end, its glass panes reflecting a soft blue sky. Her gaze is directed downwards, her eyebrows relaxed and slightly upturned, her eyes a warm, gentle brown with a hint of kindness, her mouth a gentle, subtle curve upwards, her jawline soft and relaxed. Her body is still, her head held high, her shoulders straight, her posture open and confident, her hands clasped behind her back, her distance from the camera inviting and natural. In the foreground, a sleek, wooden bench sits beneath the window, its surface polished and smooth, a few scattered papers on its surface bearing of a support group. Behind the bench, the empty corridor stretches out, the walls adorned with calming artwork and the occasional framed document, the midground cluttered with the occasional piece of office furniture, the background a warm, soft blur of natural light. The scene is captured with a 24mm lens, slightly low angle over-the-shoulder shot, emphasizing the sense of space and calm. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: 215 words (needs 60-200)"
+  ],
+  "seed": 1147949686,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a quiet empty corridor with a bench under a tall window, soft daylight on the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 186.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1147949686,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

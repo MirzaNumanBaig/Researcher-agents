@@ -22,6 +22,7 @@ wp_id: 1502
 wp_link: "https://moduscarry.com/cate-blanchett-glow-wild/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-03T23:22:33.251132+00:00",
+  "article": "2026-11-04-09-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "tribute",
+  "analysis": {
+    "story_type": "tribute",
+    "core_event": "an anonymous figure celebrates his the figure the figure 25th birthday with a rare photo post.",
+    "emotion": "love",
+    "setting": "family home",
+    "key_objects": [
+      "birthday photos",
+      "New York Marathon",
+      "graduation outfit",
+      "poncho",
+      "drink"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "warm beige",
+      "soft orange",
+      "deep blue"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "birthday photos",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "family home",
+    "props": [
+      "birthday photos",
+      "New York Marathon",
+      "graduation outfit",
+      "poncho"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "warm beige",
+      "soft orange",
+      "deep blue"
+    ],
+    "mood": "love",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot, from behind, of a tall wooden chair situated at the edge of a worn wooden floor, its back to a large window that lets in a warm, natural light on a bright, sunny day. The 24mm lens captures the gentle curves of the chair and the subtle shadows on the floor, emphasizing the sense of depth and space. A delicate, hand-knit poncho lies draped over the chair's back, its soft, muted colours complementing the warm beige and soft orange tones of the room. In the foreground, a delicate glass filled with a clear, refreshing drink sits on a small, rustic table beside the chair, its rim reflecting the warm light streaming in from the window. A single, tall white candle stands beside the glass, its flame casting a gentle, golden glow on the surrounding area. The overall mood is one of calm, respectful celebration, as if the chair is waiting patiently for its occupant to return and commemorate a special occasion. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3040695770,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 255.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3040695770,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

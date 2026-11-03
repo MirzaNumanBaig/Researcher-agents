@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson CFDA Awards: Herrera Dress, Bob and Heels"
 seo_description: "Pamela Anderson at the CFDA Awards: a black Carolina Herrera halter dress, fringed slingbacks and a pin-curl bob. See the full look and what it says."
 focus_keyword: "Pamela Anderson CFDA Awards"
 permalink: "pamela-anderson-cfda-awards-herrera-heels"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-04 09:00"
 celebrity: "Pamela Anderson"
@@ -16,6 +16,14 @@ sources:
   - "https://wwd.com/footwear-news/shoe-trends/pamela-anderson-carolina-herrera-slingback-cfda-awards-1239398815/"
   - "https://www.yahoo.com/entertainment/celebrity/articles/pamela-anderson-adds-whimsical-slingback-180817612.html"
   - "https://www.harpersbazaar.com/beauty/hair/a74323141/pamela-anderson-old-hollywood-curls-red-nails/"
+image_alt: "Illustration of a woman in a person, lit by evening, spotlights."
+image: "images/2026-11-04-09-00-pamela-anderson.webp"
+wp_media_id: 1529
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-09-00-pamela-anderson-768x432.webp"
+wp_id: 1530
+wp_link: "https://moduscarry.com/pamela-anderson-cfda-awards-herrera-heels/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

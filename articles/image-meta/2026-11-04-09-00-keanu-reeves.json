@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-03T23:22:44.235168+00:00",
+  "article": "2026-11-04-09-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure and an anonymous figure as Bill and Ted in a new video the figure.",
+    "emotion": "excitement",
+    "setting": "video the figure development studio",
+    "key_objects": [
+      "Bill and an anonymous figure",
+      "16-bit graphics",
+      "time machine",
+      "Grim Reaper"
+    ],
+    "time_and_light": "daytime, computer screen",
+    "palette": [
+      "neon green",
+      "electric blue",
+      "retro orange"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Bill and an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "video the figure development studio",
+    "props": [
+      "Bill and an anonymous figure",
+      "16-bit graphics",
+      "time machine",
+      "Grim Reaper"
+    ],
+    "time_of_day": "daytime, computer screen",
+    "light": {
+      "source": "daytime, computer screen",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neon green",
+      "electric blue",
+      "retro orange"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-03"
+  ],
+  "prompt": "A medium-wide shot of the woman in her late 20s with long straight black hair and warm beige skin, wearing a camel trench coat, leans forward with her elbows on her knees as she gazes up and off-frame right, her slightly raised eyebrows and wide, attentive eyes hinting at her excitement. Her lips are just parted, and her relaxed jaw adds to her effortless enthusiasm. Her head is tilted slightly up, and her posture conveys a sense of anticipation. Her hands hold a paper cup, and her interaction is minimal. In the background, a soft haze and bokeh blur the edges of the video the figure development studio, with the main subject positioned left of centre and the setting opening up to the right. Bill and an anonymous figure stand in the foreground, surrounded by 16-bit graphics and a time machine, with the Grim Reaper looming in the background. The computer screen provides a bright, side-lit glow, illuminating the scene with a warm, electric blue and neon green hue. The mood is one of excitement, and the overall atmosphere is infectious. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 35932652,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in video a person development studio, lit by daytime, computer screen.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 101.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 35932652,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-03T23:23:04.808491+00:00",
+  "article": "2026-11-04-09-00-connor-storrie",
+  "ai_generated": true,
+  "story_type": "feud",
+  "analysis": {
+    "story_type": "feud",
+    "core_event": "Fans speculate about an anonymous figure' Instagram clean-up and possible influence by an anonymous figure.",
+    "emotion": "speculation",
+    "setting": "social media",
+    "key_objects": [
+      "an anonymous figure' Instagram account",
+      "an anonymous figure",
+      "an anonymous figure",
+      "Instagram posts"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "neutral",
+      "blue",
+      "gray"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure' Instagram account",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "social media",
+    "props": [
+      "an anonymous figure' Instagram account",
+      "an anonymous figure",
+      "an anonymous figure",
+      "Instagram posts"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neutral",
+      "blue",
+      "gray"
+    ],
+    "mood": "speculation",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot of a quiet, dimly lit room with a large wooden desk at its center, taken from behind, using a 24mm lens to capture the space. The desk is set with two empty armchairs, their backs facing each other in a calm, respectful pose, a subtle reminder of the potential for dialogue and connection. The chairs are positioned in front of a large window, its blinds closed to filter the natural light, casting a soft, gentle glow over the scene. A single, unlit laptop sits on the desk, its screen a blank slate, much like the minds of those who might gather here. The camera lingers on the empty chairs, inviting the viewer to ponder the possibilities of what might be discussed, and what might be left unsaid. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1416117733,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of two empty armchairs facing away from each other in a quiet room, a closed door behind them.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 164.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1416117733,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
