@@ -1,0 +1,42 @@
+{
+  "batch": "2026-11-03 12:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "Russell Crowe’s R-Rated Mystery Movie Needing A Sequel Is Back As One Of Streaming's Biggest Hits",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVFp3emJVbm12THZDME1aVDZFLWxXbkpkeGEteGRSd0xVWmZ3eUp1OUIzaDBEN1E1VnRZZEFkSTg0LUd1enFKVVNtM3FXb0Y5d2t5T21IUURDVmxQdDVMYzlsSjl6cEE?oc=5",
+      "published": "2026-11-02T22:30:23+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVFp3emJVbm12THZDME1aVDZFLWxXbkpkeGEteGRSd0xVWmZ3eUp1OUIzaDBEN1E1VnRZZEFkSTg0LUd1enFKVVNtM3FXb0Y5d2t5T21IUURDVmxQdDVMYzlsSjl6cEE?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66092495/?ref_=nmnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXZNejhFZmhCVG5OVnQybHpmZ1RFY294T1BwNGIzOGNURnZ0VHkyU01hMVp0aHBtYzMtSTNRekZacWRUTkNTOHhJYTRXMFBWZ1dDMGVqNVJjT2gxM3NGSkQzU3BsTnVNY2szVUdjV2pNU2g1alhiNzZSSkt0UDJYU3BqZnBpbmlIb3JXQTRKWUk2Q0lkSzJVOTY0TlkyQmN2N0s1REJXWQ?oc=5",
+          "article_url": "https://screenrant.com/russell-crowe-the-nice-guys-sequel-wait-apple-tv-streaming-success-november-2026/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/russell-crowe-s-healey-looking-angry-with-water-on-his-face-and-a-cut-on-his-mouth-in-the-nice-guys.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/russell-crowe-s-healey-looking-angry-with-water-on-his-face-and-a-cut-on-his-mouth-in-the-nice-guys.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/russell-crowe-the-nice-guys-sequel-wait-apple-tv-streaming-success-november-2026/"
+    },
+    {
+      "title": "26 Years Later, Russell Crowe's Bravest Gladiator Line Is Still Unbeaten",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGhXVTk5TlZ5eHRwLUktZjhTSkc2VnlvVnFIYktVMFJuS29Ma3RJMGNJNFYxeUZEUVIwY0pKTXVBWl9OeENqc1k3Q010UF9VYk5nYVVudnNqY2JsLXNFTjF3SVdjTUhzR1BIaHJ4VU1OTE9NTUtPb1REZlZaWEt2RXV6X2xfVG9uQWxVdg?oc=5",
+      "published": "2026-11-02T22:19:35+00:00",
+      "outlets": [
+        {
+          "source": "Comic Book Resources",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGhXVTk5TlZ5eHRwLUktZjhTSkc2VnlvVnFIYktVMFJuS29Ma3RJMGNJNFYxeUZEUVIwY0pKTXVBWl9OeENqc1k3Q010UF9VYk5nYVVudnNqY2JsLXNFTjF3SVdjTUhzR1BIaHJ4VU1OTE9NTUtPb1REZlZaWEt2RXV6X2xfVG9uQWxVdg?oc=5",
+          "article_url": "https://www.cbr.com/gladiator-russell-crowe-maximus-bravest-quote-adventure-history/",
+          "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/12/gladiator-maximus.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/12/gladiator-maximus.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://www.cbr.com/gladiator-russell-crowe-maximus-bravest-quote-adventure-history/"
+    }
+  ]
+}

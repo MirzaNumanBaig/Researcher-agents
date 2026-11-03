@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-03 12:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Adéla – Nicole Kidman",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Cd3NQZ0RWS29MLThkRjdodlJMcTl1Mzk1OVI5WlUzdjZGaTFpU2p5bVhzOFVoMG5wWjNvQllXb09MTXRZbzlQbDZidzFCUE45UmUzNWpKOHpNdzZmTW9F?oc=5",
+      "published": "2026-11-03T01:05:15+00:00",
+      "outlets": [
+        {
+          "source": "The Singles Jukebox",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Cd3NQZ0RWS29MLThkRjdodlJMcTl1Mzk1OVI5WlUzdjZGaTFpU2p5bVhzOFVoMG5wWjNvQllXb09MTXRZbzlQbDZidzFCUE45UmUzNWpKOHpNdzZmTW9F?oc=5",
+          "article_url": "https://thesinglesjukebox.com/adela-nicole-kidman/",
+          "image": "https://thesinglesjukebox.com/wp-content/uploads/2026/11/adela-nicolekidman.png"
+        }
+      ],
+      "image": "https://thesinglesjukebox.com/wp-content/uploads/2026/11/adela-nicolekidman.png",
+      "image_source": "https://thesinglesjukebox.com/adela-nicole-kidman/"
+    },
+    {
+      "title": "ADÉLA, PinkPantheress - Nicole Kidman x Tonight (Mashup)",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tMjJOT1FvUHZ1dDhhSlNEMmdsSWc5MWRXUUdMa3lzd1ctUlZJNVZYNHd3dEttbmNab09NZEIxRG9Ndw?oc=5",
+      "published": "2026-11-02T16:01:43+00:00",
+      "outlets": [
+        {
+          "source": "YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tMjJOT1FvUHZ1dDhhSlNEMmdsSWc5MWRXUUdMa3lzd1ctUlZJNVZYNHd3dEttbmNab09NZEIxRG9Ndw?oc=5",
+          "article_url": "https://www.youtube.com/watch?v=Xs7FNY6XDCk&feature=youtu.be",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Nicole Kidman's makeup artist says this 'soft' eyeshadow shade is the most flattering for blue eyes",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0xkamZxOXNRbWx0eXB0aVJRcnZRWDN4YUpIOTZmamo2aDNHVTRBa2pCcXhhUXRQYnJxOHhoMVhvbXlXbkVJNlU1Mm1KWHBNQkVIeVhsc05yOEtZdkNMc21kX0txaU5LQWxRRU1LNmNCWnFiWlRTbTBnMHFtWjRhLUROcko?oc=5",
+      "published": "2026-11-02T15:53:16+00:00",
+      "outlets": [
+        {
+          "source": "Woman & Home",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0xkamZxOXNRbWx0eXB0aVJRcnZRWDN4YUpIOTZmamo2aDNHVTRBa2pCcXhhUXRQYnJxOHhoMVhvbXlXbkVJNlU1Mm1KWHBNQkVIeVhsc05yOEtZdkNMc21kX0txaU5LQWxRRU1LNmNCWnFiWlRTbTBnMHFtWjRhLUROcko?oc=5",
+          "article_url": "https://www.womanandhome.com/beauty/makeup/nicole-kidman-makeup-for-blue-eyes/",
+          "image": "https://cdn.mos.cms.futurecdn.net/AjPWLAJUfzCrYcL6g97jUF-1920-80.jpg"
+        }
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/AjPWLAJUfzCrYcL6g97jUF-1920-80.jpg",
+      "image_source": "https://www.womanandhome.com/beauty/makeup/nicole-kidman-makeup-for-blue-eyes/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-03 12:00",
+  "celebrity": "Hugh Jackman",
+  "stories": [
+    {
+      "title": "In 2006, Hugh Jackman made a movie he thought would do more for his career than Wolverine. He was wrong",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhLUG1uMHRSUmUyRzhsLXBDSzVRWlBBSk9GRHZ4YXh6Nm1DRUNlcGo3SmozajhKSGp6RVEwU2l5Y0NUUEVOOW1GYTVEQWF0bm52MnBtWlVnenpXNnRyWjRfRTlXZ2NaR1pQd2FPZHNybC16ZGFETkJKbURBUDN0Qk5ESXlPTGhGYnVKT2d1SnRDeno4a0RaampiSQ?oc=5",
+      "published": "2026-11-03T00:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhLUG1uMHRSUmUyRzhsLXBDSzVRWlBBSk9GRHZ4YXh6Nm1DRUNlcGo3SmozajhKSGp6RVEwU2l5Y0NUUEVOOW1GYTVEQWF0bm52MnBtWlVnenpXNnRyWjRfRTlXZ2NaR1pQd2FPZHNybC16ZGFETkJKbURBUDN0Qk5ESXlPTGhGYnVKT2d1SnRDeno4a0RaampiSQ?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/2006-hugh-jackman-movie-thought-do-more-for-career-than-wolverine/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/10/Hugh-Jackman-–-‘X-Men-First-Class-100000-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/10/Hugh-Jackman-–-‘X-Men-First-Class-100000-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/2006-hugh-jackman-movie-thought-do-more-for-career-than-wolverine/"
+    }
+  ]
+}
