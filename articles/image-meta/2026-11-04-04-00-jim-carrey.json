@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-03T18:07:43.450877+00:00",
+  "article": "2026-11-04-04-00-jim-carrey",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure's the figure beachfront the figure is sold after being listed for $35 the figure.",
+    "emotion": "calm",
+    "setting": "beachfront estate",
+    "key_objects": [
+      "beachfront the figure",
+      "covered stone lanai",
+      "freeform pool",
+      "grotto"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "soft blue",
+      "warm beige",
+      "pale green"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "beachfront the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "beachfront estate",
+    "props": [
+      "beachfront the figure",
+      "covered stone lanai",
+      "freeform pool",
+      "grotto"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft blue",
+      "warm beige",
+      "pale green"
+    ],
+    "mood": "calm",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A close-up detail shot of a covered stone lanai, taken from a high angle, through a 35mm lens, captures the intricate stonework and the soft blue-tinted sunlight streaming through the spaces between the tiles, casting a warm glow on the beige-colored walls. The camera frames the lanai's edge, with the freeform pool visible in the background, its surface reflecting the pale greenery of the surrounding foliage. A grotto, partially hidden by the foliage, can be seen to the side, its entrance shrouded in a veil of leafy greenery. The atmosphere is tranquil, as if time stands still amidst the serene beauty of the beachfront estate. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 108627603,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of beachfront estate with beachfront a person and covered stone lanai, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 287.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 108627603,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

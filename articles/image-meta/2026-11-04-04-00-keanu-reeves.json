@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-03T18:07:33.825809+00:00",
+  "article": "2026-11-04-04-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure and an anonymous figure return to voice their characters in a new the figure & an anonymous figure.",
+    "emotion": "excitement",
+    "setting": "the figure the figure development studio",
+    "key_objects": [
+      "an anonymous figure's Excellent Adventure the figure the figure",
+      "16-bit console",
+      "pixel art"
+    ],
+    "time_and_light": "daytime, computer screen",
+    "palette": [
+      "neon pink",
+      "electric blue",
+      "retro green"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure's Excellent Adventure the figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "the figure the figure development studio",
+    "props": [
+      "an anonymous figure's Excellent Adventure the figure the figure",
+      "16-bit console",
+      "pixel art"
+    ],
+    "time_of_day": "daytime, computer screen",
+    "light": {
+      "source": "daytime, computer screen",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neon pink",
+      "electric blue",
+      "retro green"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-11"
+  ],
+  "prompt": "A medium shot of a woman in her mid 30s with a high dark-blonde ponytail and sun-warmed tan skin, wearing a black leather jacket, sits in a chair at the figure the figure development studio. Her eyebrows are slightly raised, her wide and attentive eyes sparkle with excitement, and her lips are just parted as she leans forward, elbows on knees, holding a paper cup. Her jaw is relaxed, and her gaze is up and off-frame right, following something on the computer screen to her side. Her head is tilted slightly up, and her posture is open, expressive of her enthusiasm. The woman's outfit is a black leather jacket, a white shirt, and dark jeans. In the midground, a 16-bit console and pixel art adorn the wall, adding to the nostalgic and playful atmosphere. The soft haze and bokeh of the background blur out the rest of the studio, creating a sense of depth and focus on the subject. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 964183000,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in a person a person development studio, lit by daytime, computer screen.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 148.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 964183000,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

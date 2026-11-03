@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Glow Wild: Star Voices Join Kew Trail"
 seo_description: "Cate Blanchett Glow Wild narration joins Olivia Colman, Daniel Craig and 10 more actors at Kew Wakehurst from 26 November. Here is what to expect."
 focus_keyword: "Cate Blanchett Glow Wild"
 permalink: "cate-blanchett-glow-wild"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-04 04:00"
 celebrity: "Cate Blanchett"
@@ -14,6 +14,14 @@ tags: ["Cate Blanchett", "Olivia Colman", "Daniel Craig"]
 image_prompt: "A winter garden trail at night lined with glowing handmade lanterns, a tall illuminated iceberg and paper penguins, with a historic house lit in the distance."
 sources:
   - "https://www.sussexexpress.co.uk/your-world/cate-blanchett-leads-a-cast-of-legendary-star-voices-at-kew-wakehursts-glow-wild-winter-light-trail-9326869"
+image_alt: "Illustration of winter light a person at a a person botanic garden with lanterns and handmade penguins, lit by evening."
+image: "images/2026-11-04-04-00-cate-blanchett.webp"
+wp_media_id: 1501
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-04-00-cate-blanchett-768x432.webp"
+wp_id: 1502
+wp_link: "https://moduscarry.com/cate-blanchett-glow-wild/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

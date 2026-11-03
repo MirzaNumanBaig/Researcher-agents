@@ -1,0 +1,118 @@
+{
+  "timestamp": "2026-11-03T18:07:09.900586+00:00",
+  "article": "2026-11-04-04-00-nicole-kidman",
+  "ai_generated": true,
+  "story_type": "box_office",
+  "analysis": {
+    "story_type": "box_office",
+    "core_event": "an anonymous figure the figure an anonymous figure the figure 25 years after its release.",
+    "emotion": "surprise",
+    "setting": "film an anonymous figure platform",
+    "key_objects": [
+      "an anonymous figure",
+      "AMC+",
+      "Canal+",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "dark grey",
+      "creamy white",
+      "deep blue"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film an anonymous figure platform",
+    "props": [
+      "an anonymous figure",
+      "AMC+",
+      "Canal+",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark grey",
+      "creamy white",
+      "deep blue"
+    ],
+    "mood": "surprise",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of an anonymous figure in their mid-30s, with a furrowed brow and a look of utter surprise etched on their face, their eyebrows slightly raised and their eyes wide with astonishment, their mouth open in a silent gasp, and their jaw set in a firm expression, as they gaze directly into the camera with a mixture of shock and awe. Their head is tilted slightly to one side, with their shoulders relaxed and their posture open, as they stand at the edge of a large, dimly lit platform, with the glow of screens from an array of TVs and laptops in the background, casting a warm, golden light on their face. This image is shot in a candid, documentary style, with a natural film-like colour and subtle grain, capturing the raw emotion and surprise of the moment. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1905578584,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film a person platform with a person and AMC+, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 179.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 1905578584,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

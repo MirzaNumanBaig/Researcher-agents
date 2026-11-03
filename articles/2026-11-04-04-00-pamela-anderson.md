@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson CFDA Awards: Old Hollywood Glam Look"
 seo_description: "Pamela Anderson at the CFDA Awards swapped bare skin for a platinum bouffant and berry lip. Here is what she wore and what outlets said."
 focus_keyword: "Pamela Anderson CFDA Awards"
 permalink: "pamela-anderson-cfda-awards-glam"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-04 04:00"
 celebrity: "Pamela Anderson"
@@ -17,6 +17,14 @@ sources:
   - "https://ca.news.yahoo.com/pamela-anderson-swaps-no-makeup-155551338.html"
   - "https://www.goodhousekeeping.com/uk/beauty/makeup/a74321708/pamela-anderson-youthful-bitten-lip/"
   - "https://www.elle.com/uk/beauty/nails/a74320113/pamela-anderson-winter-cherry-nails/"
+image_alt: "Illustration of a person with black halter gown and platinum bouffant, lit by evening, dim a person lights."
+image: "images/2026-11-04-04-00-pamela-anderson.webp"
+wp_media_id: 1515
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-04-00-pamela-anderson-768x432.webp"
+wp_id: 1516
+wp_link: "https://moduscarry.com/pamela-anderson-cfda-awards-glam/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

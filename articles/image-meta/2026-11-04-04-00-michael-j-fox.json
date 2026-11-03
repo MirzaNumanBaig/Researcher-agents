@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-03T18:07:22.528819+00:00",
+  "article": "2026-11-04-04-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure recalls working with an anonymous figure on an anonymous figure",
+    "emotion": "nostalgic",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "DeLorean",
+      "fan conventions",
+      "memoir"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "golden",
+      "blue",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "DeLorean",
+      "fan conventions",
+      "memoir"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "golden",
+      "blue",
+      "silver"
+    ],
+    "mood": "nostalgic",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-02",
+    "cast-09"
+  ],
+  "prompt": "A wide shot of the film set, taken from a slightly low angle with a wide 85mm lens, captures the nostalgic atmosphere as the camera pans across the studio lights illuminating the day. A man in his late 30s with short dark greying hair and medium-brown skin sits at an angle to a woman in her late 50s with short wavy white hair and pale skin, both seated across a low table. The man's drawn-up eyebrows and unfocused eyes are a testament to his lost-in-thought expression, as his lips are just closed and his jaw is soft. He gazes off-frame toward a window, his head resting slightly the figure and his shoulders low. He wraps his hands around a mug, finding comfort in the warmth. The woman, on the other hand, wears a deep red evening dress and her slightly raised eyebrows and wide, attentive eyes suggest a sense of wonder. The soft haze and bokeh in the background create a sense of depth and distance, while the studio lights from the side add a sense of warmth and intimacy to the scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2370686472,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man and a woman in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 175.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2370686472,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

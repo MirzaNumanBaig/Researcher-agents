@@ -5,7 +5,7 @@ seo_title: "Extraction 3 Spin-offs: Hemsworth's Netflix Franchise Grows"
 seo_description: "Extraction 3 spin-offs are coming as Netflix expands Chris Hemsworth's action series with Idris Elba, Pierce Brosnan and Don Lee. Here is what we know."
 focus_keyword: "Extraction 3 spin-offs"
 permalink: "extraction-3-spin-offs"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-04 04:00"
 celebrity: "Chris Hemsworth"
@@ -14,6 +14,14 @@ tags: ["Chris Hemsworth", "Extraction 3", "Netflix"]
 image_prompt: "A rain-soaked city rooftop at night, neon signs glowing below, an empty helicopter pad and scattered shipping crates in cinematic blue light."
 sources:
   - "https://screenrant.com/chris-hemsworth-extraction-movies-franchise-spinoffs-future-bigger/"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-04-04-00-chris-hemsworth.webp"
+wp_media_id: 1503
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-04-00-chris-hemsworth-768x432.webp"
+wp_id: 1504
+wp_link: "https://moduscarry.com/extraction-3-spin-offs/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

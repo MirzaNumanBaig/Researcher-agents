@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-03T18:07:54.851633+00:00",
+  "article": "2026-11-04-04-00-jacob-elordi",
+  "ai_generated": true,
+  "story_type": "relationship",
+  "analysis": {
+    "story_type": "relationship",
+    "core_event": "an anonymous figure's 31st the figure and an anonymous figure's potential the figure gesture",
+    "emotion": "romantic",
+    "setting": "red carpet",
+    "key_objects": [
+      "the figure gift",
+      "an anonymous figure",
+      "an anonymous figure",
+      "Coachella",
+      "Academy Museum Gala"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "soft pink",
+      "neutral beige",
+      "rich gold"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure gift",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "red carpet",
+    "props": [
+      "the figure gift",
+      "an anonymous figure",
+      "an anonymous figure",
+      "Coachella"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft pink",
+      "neutral beige",
+      "rich gold"
+    ],
+    "mood": "romantic",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of an empty red carpet, softly lit by the warm glow of a setting sun, with a subtle gradient of daylight casting long shadows across the luxurious surface. A delicate Coachella flower arrangement sits at the edge of the carpet, its petals a gentle blend of pastel pink and neutral beige. In the distance, the sleek, modern facade of the Academy Museum Gala venue rises up, its rich gold accents glistening in the fading light. A lone, unopened gift box, adorned with a simple yet elegant bow, rests on the carpet, a symbol of the romantic gesture to come. The atmosphere is one of anticipation and quiet expectation, as if time itself has slowed down in preparation for the tender moment that is about to unfold. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2518527882,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 174.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2518527882,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
