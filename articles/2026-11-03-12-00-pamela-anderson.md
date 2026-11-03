@@ -23,6 +23,7 @@ wp_id: 1484
 wp_link: "https://moduscarry.com/pamela-anderson-brows-light-minimalist/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

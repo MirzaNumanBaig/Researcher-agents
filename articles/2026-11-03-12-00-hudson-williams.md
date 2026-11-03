@@ -24,6 +24,7 @@ wp_id: 1478
 wp_link: "https://moduscarry.com/hudson-williams-assembly-canadian-tire-bag/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
