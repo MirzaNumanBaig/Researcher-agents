@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Thor Avengers: Doomsday Posters Revealed"
 seo_description: "Chris Hemsworth's Thor holds Mjolnir and Stormbreaker in 12 new Avengers: Doomsday posters, released ahead of the film's 18 December 2026 debut."
 focus_keyword: "Chris Hemsworth Avengers Doomsday"
 permalink: "chris-hemsworth-avengers-doomsday-posters"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-03 20:00"
 celebrity: "Chris Hemsworth"
@@ -14,6 +14,14 @@ tags: ["Chris Hemsworth", "Marvel Studios", "X-Men", "Patrick Stewart"]
 image_prompt: "A stormy night sky split by lightning over a dark mountain ridge, with a glowing hammer-shaped silhouette of light in the clouds."
 sources:
   - "https://thedirect.com/article/avengers-doomsday-pedro-pascal-mr-fantastic-chris-hemsworth-thor-james-marsden-cyclops-powers"
+image_alt: "Illustration of a woman in film set, lit by daytime, sunlight."
+image: "images/2026-11-03-20-00-chris-hemsworth.webp"
+wp_media_id: 1491
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-20-00-chris-hemsworth-768x432.webp"
+wp_id: 1492
+wp_link: "https://moduscarry.com/chris-hemsworth-avengers-doomsday-posters/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

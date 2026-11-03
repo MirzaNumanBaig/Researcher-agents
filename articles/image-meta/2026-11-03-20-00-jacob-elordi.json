@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-03T09:45:00.420772+00:00",
+  "article": "2026-11-03-20-00-jacob-elordi",
+  "ai_generated": true,
+  "story_type": "tribute",
+  "analysis": {
+    "story_type": "tribute",
+    "core_event": "an anonymous figure the figure the figure the figure posthumous the figure.",
+    "emotion": "bittersweet",
+    "setting": "recording studio",
+    "key_objects": [
+      "the figure",
+      "the figure",
+      "microphone",
+      "bookshelf"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "recording studio",
+    "props": [
+      "the figure",
+      "the figure",
+      "microphone",
+      "bookshelf"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "mood": "bittersweet",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of the recording studio, taken from the perspective of a microphone stand, reveals a poignant scene of remembrance. The 85mm lens compresses the space, drawing the viewer's eye to a vintage microphone sitting atop a worn wooden console, its chrome body reflecting the soft glow of studio lights. In the background, a bookshelf stands tall, its shelves lined with rows of dusty vinyl records and worn cassette tapes, a testament to the countless stories that have been told within these walls. The blue and gray tones of the studio's acoustic panels and the white of the console's surface evoke a sense of melancholy, while the soft focus of the scene adds a touch of nostalgia. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2164910953,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 234.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2164910953,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

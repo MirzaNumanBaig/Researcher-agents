@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-11-03T09:44:24.383343+00:00",
+  "article": "2026-11-03-20-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "music_release",
+  "analysis": {
+    "story_type": "music_release",
+    "core_event": "an anonymous figure's the figure Dead Man's Bones releases new song after 17 years.",
+    "emotion": "nostalgic",
+    "setting": "recording studio",
+    "key_objects": [
+      "new song",
+      "Dead Man's Bones",
+      "an anonymous figure",
+      "Lost in the Night"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "dark blue",
+      "black",
+      "silver"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "new song",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "recording studio",
+    "props": [
+      "new song",
+      "Dead Man's Bones",
+      "an anonymous figure",
+      "Lost in the Night"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark blue",
+      "black",
+      "silver"
+    ],
+    "mood": "nostalgic",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A close-up detail shot, taken from behind, of a silver-plated microphone stand positioned atop a black-painted console, with a single cord stretching out across the floor, partially obscured by a subtle sheen of dust. The 24mm lens captures the intricate details of the microphone's metalwork, its cylindrical body reflecting a soft, warm light from above. The natural film-like colour and subtle grain of the image evoke a sense of nostalgia, as if the equipment has been waiting patiently for years, ready to capture the next note. A faint smudge of dust on the console's surface hints at the passage of time, while the black-painted walls of the recording studio blend into the background, adding to the sense of calm and respect. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: shows people in a sensitive story"
+  ],
+  "seed": 385675131,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 159.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 385675131,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

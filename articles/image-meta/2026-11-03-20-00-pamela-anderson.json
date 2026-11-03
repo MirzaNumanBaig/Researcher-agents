@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-03T09:44:33.928615+00:00",
+  "article": "2026-11-03-20-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure wore a the figure the figure halter dress to the CFDA an anonymous figure Awards.",
+    "emotion": "glamorous",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "black the figure the figure halter dress",
+      "feather trim",
+      "black pointed-toe heels",
+      "white clutch"
+    ],
+    "time_and_light": "evening, spotlight",
+    "palette": [
+      "black",
+      "red",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "black the figure the figure halter dress",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "black the figure the figure halter dress",
+      "feather trim",
+      "black pointed-toe heels",
+      "white clutch"
+    ],
+    "time_of_day": "evening, spotlight",
+    "light": {
+      "source": "evening, spotlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "red",
+      "gold"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-06"
+  ],
+  "prompt": "A medium-wide shot of the man in his mid 50s with short grey-flecked hair and a beard and tan skin, quarter-turned toward the lens, chin raised, shoulders back, and spine long, with one hand resting on his hip, looking confident and direct at the camera with his smooth and softly arched eyebrows, composed soft smile, and lifted jaw, wearing a dark green wool jacket and standing to the left of centre in front of an anonymous figure in a stunning black halter dress with a feather trim, paired with black pointed-toe heels and a white clutch, as the evening spotlight shines from the side, illuminating the scene with a glamorous mood and a palette of black, red, and gold, with the setting opening up to the right and a soft haze and bokeh in the background. The black halter dress is in the foreground, the main subject is in the midground, and the background is blurred, shot with a 50mm lens from a slightly high angle, capturing a candid and unposed moment with a full-frame camera, fine film grain, and true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3365242547,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in a person, lit by evening, spotlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 191.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3365242547,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

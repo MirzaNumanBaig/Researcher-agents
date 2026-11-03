@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-03T09:45:12.044924+00:00",
+  "article": "2026-11-03-20-00-chris-hemsworth",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "New posters for Avengers: Doomsday feature an anonymous figure and other the figure characters.",
+    "emotion": "excitement",
+    "setting": "film set",
+    "key_objects": [
+      "the figure's hammers",
+      "Mjolnir",
+      "Stormbreaker",
+      "Doctor Doom's mask"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "gold",
+      "red"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure's hammers",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "the figure's hammers",
+      "Mjolnir",
+      "Stormbreaker",
+      "Doctor Doom's mask"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gold",
+      "red"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-07"
+  ],
+  "prompt": "A wide shot of a film set, taken from a slightly low angle, captures the excitement and anticipation of the scene. A woman, in her early 20s, with loose curly dark brown hair and rich brown skin, stands in the center of the frame, her eyes wide and attentive, her eyebrows slightly raised, her lips just parted, and her jaw relaxed. She wears a blush pink satin gown, which catches the sunlight streaming in from the side, illuminating the soft folds of the fabric. Her head is tilted slightly up, her posture is leaning forward, elbows on knees, and her hands are holding a paper cup. The woman's gaze is directed up and off-frame right, as if she's focusing on something just out of sight. To her left, a selection of props and character items are arranged, including the figure's hammers, Mjolnir, Stormbreaker, and Doctor Doom's mask, which are scattered across a wooden table. The overall mood is one of excitement and energy, with a palette of blue, gold, and red adding a touch of drama to the scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1329168086,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 125.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1329168086,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

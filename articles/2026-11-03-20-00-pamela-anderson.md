@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson CFDA Fashion Awards: Herrera Halter Look"
 seo_description: "Pamela Anderson CFDA Fashion Awards look: a black Carolina Herrera halter gown with a feather neckline, worn in New York on 2 November."
 focus_keyword: "Pamela Anderson CFDA Fashion Awards"
 permalink: "pamela-anderson-cfda-fashion-awards"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-03 20:00"
 celebrity: "Pamela Anderson"
@@ -15,6 +15,14 @@ image_prompt: "A museum hall with a long red carpet at night, warm spotlights, b
 sources:
   - "https://www.aol.com/articles/pamela-anderson-carolina-herrera-dress-073410000.html"
   - "https://www.hindustantimes.com/lifestyle/fashion/hailey-bieber-demi-moore-to-pamela-anderson-celebrities-turn-heads-in-glamorous-designer-ensembles-at-the-2026-cfda-fashion-awards-101793675698724.html"
+image_alt: "Illustration of a man in a person, lit by evening, spotlight."
+image: "images/2026-11-03-20-00-pamela-anderson.webp"
+wp_media_id: 1497
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-20-00-pamela-anderson-768x432.webp"
+wp_id: 1498
+wp_link: "https://moduscarry.com/pamela-anderson-cfda-fashion-awards/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
