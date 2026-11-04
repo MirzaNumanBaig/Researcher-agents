@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-04T19:08:23.114605+00:00",
+  "article": "2026-11-05-05-00-nicole-kidman",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure arrives in an anonymous figure for an anonymous figure runway show.",
+    "emotion": "glamorous",
+    "setting": "airport arrivals",
+    "key_objects": [
+      "an anonymous figure look",
+      "suede duffle bag",
+      "black baseball cap",
+      "slip-on loafers"
+    ],
+    "time_and_light": "morning sunlight",
+    "palette": [
+      "neutral beige",
+      "rich navy",
+      "soft cream"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure look",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "airport arrivals",
+    "props": [
+      "an anonymous figure look",
+      "suede duffle bag",
+      "black baseball cap",
+      "slip-on loafers"
+    ],
+    "time_of_day": "morning sunlight",
+    "light": {
+      "source": "morning sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neutral beige",
+      "rich navy",
+      "soft cream"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-10"
+  ],
+  "prompt": "A wide shot, slightly high angle, of the airport arrivals area, captured with a 85mm lens. A medium shot of a man in his early 30s with medium-length wavy auburn hair and light skin, quarter-turned toward the lens, chin raised, shoulders back, spine long, one hand resting on the hip, as he stands off to the left of centre, looking confident and direct with smooth and softly arched eyebrows, a composed soft smile, and a lifted jawline. His gaze is toward the camera, with a hint of sophistication in his expression. He wears a cream cable-knit sweater, and his outfit is completed with slip-on loafers and a black baseball cap slung low over his eyes, adding to his mysterious and glamorous persona. Beside him stands an anonymous figure, dressed in an anonymous look, with a suede duffle bag at their feet. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3107162496,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in airport arrivals, lit by morning sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 261.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3107162496,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-04T19:08:10.401386+00:00",
+  "article": "2026-11-05-05-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure's deep red manicure sets the an anonymous figure.",
+    "emotion": "glamorous",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "deep red the figure",
+      "black gown",
+      "black-and-white clutch",
+      "holly berries"
+    ],
+    "time_and_light": "evening, firelight",
+    "palette": [
+      "deep red",
+      "black",
+      "white"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "deep red the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "deep red the figure",
+      "black gown",
+      "black-and-white clutch",
+      "holly berries"
+    ],
+    "time_of_day": "evening, firelight",
+    "light": {
+      "source": "evening, firelight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "deep red",
+      "black",
+      "white"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-08"
+  ],
+  "prompt": "A medium shot, taken from a three-quarter view, captures the man standing confidently beside a mysterious figure adorned in deep red, with the soft glow of evening firelight casting a warm ambiance from the side. The man, dressed in a slate-grey suit, exudes a composed air, his close-cropped black hair and dark brown skin a perfect complement to his confident and direct gaze, which is fixed firmly toward the camera. His smooth and softly arched eyebrows are slightly raised, while his composed soft smile hints at a subtle sense of satisfaction. His posture is commanding, with his shoulders back and spine long, one hand resting casually on his hip. To his right, the anonymous figure stands elegantly, draped in a stunning black gown, with a black-and-white clutch resting on a nearby table and a few scattered holly berries adding a touch of whimsy to the scene. The setting stretches out to the right, a soft haze and bokeh effect blurring the background, drawing the viewer's eye to the central figures. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1225926911,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in a person, lit by evening, firelight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 88.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1225926911,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

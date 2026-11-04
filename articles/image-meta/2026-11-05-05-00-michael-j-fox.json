@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-11-04T19:08:39.018666+00:00",
+  "article": "2026-11-05-05-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "health",
+  "analysis": {
+    "story_type": "health",
+    "core_event": "The an anonymous figure the figure and the figure the figure a deep brain stimulation education initiative to help people with Parkinson's disease.",
+    "emotion": "hopeful",
+    "setting": "hospital corridor",
+    "key_objects": [
+      "deep brain stimulation device",
+      "Parkinson's disease patient",
+      "medical team"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "green",
+      "white"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "deep brain stimulation device",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "hospital corridor",
+    "props": [
+      "deep brain stimulation device",
+      "Parkinson's disease patient",
+      "medical team"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "white"
+    ],
+    "mood": "hopeful",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot of a quiet hospital corridor with a tall window at the far end, partially open to allow a soft, natural light to pour in and illuminate the dusty floor; the gentle glow casts an ethereal ambiance, as if the very essence of hope has been distilled into this serene setting. The walls, painted a soothing blue, seem to fade into the background, providing a subtle yet reassuring backdrop for the narrative unfolding within. A single, worn bench sits beneath the window, its weathered surface a testament to countless moments of quiet contemplation. The empty corridor stretches out before us, a seemingly endless expanse of linoleum flooring, punctuated only by the occasional door leading to unknown rooms and unseen stories. A 35mm lens captures the scene with a subtle distortion, as if the very fabric of reality has been subtly altered to accommodate this poignant moment. The palette is one of calming blues and whites, with the occasional hint of green in the form of a nearby plant, its leaves a gentle reminder of life's resilience. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3508808999,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a quiet empty corridor with a bench under a tall window, soft daylight on the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 172.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3508808999,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

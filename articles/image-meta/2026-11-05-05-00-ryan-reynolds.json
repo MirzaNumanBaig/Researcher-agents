@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-11-04T19:07:41.582242+00:00",
+  "article": "2026-11-05-05-00-ryan-reynolds",
+  "ai_generated": true,
+  "story_type": "scandal",
+  "analysis": {
+    "story_type": "scandal",
+    "core_event": "an anonymous figure 2 prank",
+    "emotion": "the figure",
+    "setting": "film set",
+    "key_objects": [
+      "prosthetic makeup",
+      "makeup chair",
+      "the figure 2 behind-the-scenes footage"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "red",
+      "black",
+      "silver"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "prosthetic makeup",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "prosthetic makeup",
+      "makeup chair",
+      "the figure 2 behind-the-scenes footage"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "red",
+      "black",
+      "silver"
+    ],
+    "mood": "the figure",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot, tilted at a 30-degree angle, of a dimly lit film set, captured with a 35mm lens, reveals a tranquil scene of a half-open door at the end of a long hallway. The door's hinges creak slightly, and warm studio light spills across the wooden floorboards, casting a gentle glow. In the foreground, a makeup chair sits empty, its prosthetic makeup and makeup chair props strewn about, a reminder of the behind-the-scenes footage that was captured. Behind the chair, a screen displays a grainy, old-fashioned behind-the-scenes video of a film set, its colours muted and faded. The overall mood is one of quiet contemplation, as if the scene is a tribute to the art of filmmaking. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3898539648,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a half-open door at the end of a dim hallway, warm light spilling across the floorboards.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 183.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3898539648,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

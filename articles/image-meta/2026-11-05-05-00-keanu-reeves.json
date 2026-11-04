@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-11-04T19:08:52.753152+00:00",
+  "article": "2026-11-05-05-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure' the figure the figure have influenced Hollywood the figure the figure.",
+    "emotion": "the figure",
+    "setting": "film set",
+    "key_objects": [
+      "Speed bus",
+      "The Matrix",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "black",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Speed bus",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "Speed bus",
+      "The Matrix",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "black",
+      "silver"
+    ],
+    "mood": "the figure",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot, taken from a high angle and using a 24mm lens, captures the sprawling film set in a single frame. A sleek, silver Speed bus dominates the foreground, its doors open wide as if awaiting a crew call. In the midground, a sleek black screen displays the iconic title of \"The Matrix\", its font a stark contrast to the warm sunlight casting a glow across the set. In the background, a lone figure stands silhouetted against the bright blue sky, their anonymous form a subtle nod to the influence they've had on Hollywood. The figure's posture is relaxed, their weight shifted onto one leg as they gaze out at the surrounding landscape. They wear a black leather jacket and a pair of dark sunglasses, their facial features obscured by the intense sunlight. The soundstage stretches out before them, a labyrinthine network of cameras, lights, and equipment that speaks to the figure's profound impact on the film industry. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 600138710,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film set with Speed bus and The Matrix, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 208.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 600138710,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

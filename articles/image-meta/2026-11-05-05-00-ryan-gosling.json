@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-04T19:07:53.235226+00:00",
+  "article": "2026-11-05-05-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure's an anonymous figure the figure at Durdle Door",
+    "emotion": "exciting",
+    "setting": "film set",
+    "key_objects": [
+      "Durdle Door",
+      "an anonymous figure",
+      "spaceship",
+      "alien",
+      "beach"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "green",
+      "gray"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Durdle Door",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "Durdle Door",
+      "an anonymous figure",
+      "spaceship",
+      "alien"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "gray"
+    ],
+    "mood": "exciting",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide shot of a film set's soundstage at Durdle Door, captured from slightly above, showcases a majestic, empty beach, the turquoise waters of the English Channel stretching towards the horizon. A 35mm lens, from a low angle, emphasizes the grandeur of this serene setting. The sand, worn smooth by the relentless pounding of the waves, is dotted with the occasional piece of driftwood, its weathered surface a testament to the power of the sea. The sky above is a brilliant blue, with just a few wispy clouds scattered across the canvas. Soft, natural light bathes the scene, casting a subtle glow across the sandy terrain. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3960801105,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 264.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3960801105,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-04T19:09:07.437338+00:00",
+  "article": "2026-11-05-05-00-jacob-elordi",
+  "ai_generated": true,
+  "story_type": "health",
+  "analysis": {
+    "story_type": "health",
+    "core_event": "an anonymous figure's the figure the figure his the figure the figure to marry an anonymous figure.",
+    "emotion": "heartwarming",
+    "setting": "book release",
+    "key_objects": [
+      "the figure",
+      "book",
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "book release",
+    "props": [
+      "the figure",
+      "book",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "mood": "heartwarming",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a quiet empty corridor with a bench under a tall window, softly lit by natural daylight that streams in through the window, casting a gentle glow on the floor, and illuminating the subtle grain of the old wooden bench. The camera, positioned over-the-shoulder, from behind, captures the worn, cream-coloured walls, adorned with a few scattered bookshelves, each containing a handful of dog-eared volumes, as if waiting to be devoured. The 35mm lens compresses the space, emphasizing the simplicity and serenity of the scene, a perfect blend of natural film-like colour and subtle grain, reminiscent of Candid editorial news photographs. The air is thick with anticipation, as if the very act of book release is being witnessed, without a soul in sight. The room is bathed in a warm, blue-green hue, punctuated by the occasional burst of yellow from a sunbeam that filters through the window, casting a sense of optimism and new beginnings. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 901962459,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a quiet empty corridor with a bench under a tall window, soft daylight on the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 285.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 901962459,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
