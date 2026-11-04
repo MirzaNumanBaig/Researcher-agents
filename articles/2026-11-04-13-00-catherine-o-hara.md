@@ -22,6 +22,7 @@ wp_id: 1534
 wp_link: "https://moduscarry.com/catherine-ohara-dies-at-71/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

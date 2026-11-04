@@ -22,6 +22,7 @@ wp_id: 1536
 wp_link: "https://moduscarry.com/hudson-williams-yaga/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
