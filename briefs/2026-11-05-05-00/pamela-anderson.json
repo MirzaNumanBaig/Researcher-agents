@@ -1,0 +1,42 @@
+{
+  "batch": "2026-11-05 05:00",
+  "celebrity": "Pamela Anderson",
+  "stories": [
+    {
+      "title": "Pamela Anderson’s ‘Winter Cherry’ Nails Are the Holiday Manicure to Bookmark",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtR1BPLWNRbHFhR21fbXp1T0NlTTZ0aXJRQjJPZEd3S3JsOTE2NXpwRHQ4RkU5SWQ1RU9Fa1FRcGplejZDc2JpUDNNOTZaYlZUd0Fv?oc=5",
+      "published": "2026-11-04T17:54:54+00:00",
+      "outlets": [
+        {
+          "source": "شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtR1BPLWNRbHFhR21fbXp1T0NlTTZ0aXJRQjJPZEd3S3JsOTE2NXpwRHQ4RkU5SWQ1RU9Fa1FRcGplejZDc2JpUDNNOTZaYlZUd0Fv?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "ELLE",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajNFMFVyVzN0Mml1dFVkajJVWGhPMjdXeEVlUFVQb3dhM3RaSmRJNUhyTWJmdTBoUWRMNGl5MEVZQzRYWUFxQm5XdEZYdUZqZjM2YS01MmVRSGVWbnZRaFRHYnhxMzlYN0xRU003enBUa3VjLTYyWDBTOTlieEVlOGdHYXd4bmdzdUgyc21yVy1GM1JwVFE?oc=5",
+          "article_url": "https://www.elle.com/beauty/makeup-skin-care/a74326105/pamela-anderson-winter-cherry-nails/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/3b595e68-cbfe-4d0d-978c-0dda4f69cced.jpeg?crop=1xw:0.348xh;0xw,0.034xh&resize=1200:*"
+        }
+      ],
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3b595e68-cbfe-4d0d-978c-0dda4f69cced.jpeg?crop=1xw:0.348xh;0xw,0.034xh&resize=1200:*",
+      "image_source": "https://www.elle.com/beauty/makeup-skin-care/a74326105/pamela-anderson-winter-cherry-nails/"
+    },
+    {
+      "title": "Pamela Anderson's winter-berry manicure is the perfect combination of elegance and versatility",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZWZEM3lfVHNTc3dWTWE5bHJWS05zdGpOMG1ZdkVqeXVMY1BMRFp6WldySk9JU0FsTDlrTDduSjlEMFY2T2g5WnFudW9HdXktOUYwWkhveVYxR05RS212VHotZFhRU0ZWY1l0Y2wtb21GOEY5TlRucFYzd1Q2WDhDVDlJX2FaMVdOZ09B?oc=5",
+      "published": "2026-11-04T17:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Woman & Home",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZWZEM3lfVHNTc3dWTWE5bHJWS05zdGpOMG1ZdkVqeXVMY1BMRFp6WldySk9JU0FsTDlrTDduSjlEMFY2T2g5WnFudW9HdXktOUYwWkhveVYxR05RS212VHotZFhRU0ZWY1l0Y2wtb21GOEY5TlRucFYzd1Q2WDhDVDlJX2FaMVdOZ09B?oc=5",
+          "article_url": "https://www.womanandhome.com/beauty/beauty-news/pamela-anderson-winter-berry-nails/",
+          "image": "https://cdn.mos.cms.futurecdn.net/fH9cQULrvb5Jt2PFTmEhze-1920-80.jpg"
+        }
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/fH9cQULrvb5Jt2PFTmEhze-1920-80.jpg",
+      "image_source": "https://www.womanandhome.com/beauty/beauty-news/pamela-anderson-winter-berry-nails/"
+    }
+  ]
+}
