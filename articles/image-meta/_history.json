@@ -1,28 +1,5 @@
 [
  {
-  "article": "2026-11-04-04-00-michael-j-fox",
-  "shot": "wide shot",
-  "angle": "slightly low angle",
-  "lens": "85mm",
-  "palette": "golden, blue and silver",
-  "prompt": "A wide shot of the film set, taken from a slightly low angle with a wide 85mm lens, captures the nostalgic atmosphere as the camera pans across the studio lights illuminating the day. A man in his late 30s with short dark greying hair and medium-brown skin sits at an angle to a woman in her late 50s with short wavy white hair and pale skin, both seated across a low table. The man's drawn-up eyebrows and unfocused eyes are a testament to his lost-in-thought expression, as his lips are just closed and his jaw is soft. He gazes off-frame toward a window, his head resting slightly the figure and his shoulders low. He wraps his hands around a mug, finding comfort in the warmth. The woman, on the other hand, wears a deep red evening dress and her slightly raised eyebrows and wide, attentive eyes suggest a sense of wonder. The soft haze and bokeh in the background create a sense of depth and distance, while the studio lights from the side add a sense of warmth and intimacy to the scene. No text, no logos, no watermark.",
-  "cast": [
-   "cast-02",
-   "cast-09"
-  ]
- },
- {
-  "article": "2026-11-04-04-00-keanu-reeves",
-  "shot": "medium shot",
-  "angle": "three-quarter view",
-  "lens": "35mm",
-  "palette": "neon pink, electric blue and retro green",
-  "prompt": "A medium shot of a woman in her mid 30s with a high dark-blonde ponytail and sun-warmed tan skin, wearing a black leather jacket, sits in a chair at the figure the figure development studio. Her eyebrows are slightly raised, her wide and attentive eyes sparkle with excitement, and her lips are just parted as she leans forward, elbows on knees, holding a paper cup. Her jaw is relaxed, and her gaze is up and off-frame right, following something on the computer screen to her side. Her head is tilted slightly up, and her posture is open, expressive of her enthusiasm. The woman's outfit is a black leather jacket, a white shirt, and dark jeans. In the midground, a 16-bit console and pixel art adorn the wall, adding to the nostalgic and playful atmosphere. The soft haze and bokeh of the background blur out the rest of the studio, creating a sense of depth and focus on the subject. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
-  "cast": [
-   "cast-11"
-  ]
- },
- {
   "article": "2026-11-04-04-00-jim-carrey",
   "shot": "close-up detail shot",
   "angle": "high angle",
@@ -195,6 +172,24 @@
   "lens": "50mm",
   "palette": "blue, gray and white",
   "prompt": "A medium shot of a tall, empty wooden chair positioned beside a large, hospital-style window, its panes reflecting a soft, early morning glow; the subject's surface is worn, with visible scratches and scuffs, telling the story of years of service. The chair's back is slightly tilted, with the wooden slats forming a gentle slope, creating a sense of gentle repose. The chair's cushions are covered in a simple, pale blue fabric, slightly faded, and are tied to the chair's frame with two thin, white straps. The chair is situated in front of a tall, white hospital window, with a series of thin, horizontal blinds partially drawn, allowing slivers of warm, morning light to filter through. The foreground is sharply in focus, while the hospital window and surrounding area are blurred, creating a sense of depth. The image is captured with a 50mm lens, providing a shallow depth of field that accentuates the chair's worn surface. Soft, overhead hospital lights provide a neutral, clinical illumination. The colour palette is muted, with shades of blue, gray, and white dominating the scene. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-11-04-21-00-ryan-gosling",
+  "shot": "close-up detail shot",
+  "angle": "tilted angle",
+  "lens": "24mm",
+  "palette": "red, black and silver",
+  "prompt": "A close-up detail shot of an empty film set, captured at a tilted angle with a 24mm lens, reveals the intricate details of a vintage camera lens attached to a black backdrop. The studio lights in the background create a subtle glow, casting a warm tone on the lens's ridges and grooves. A few strands of silver-colored wire hang loosely from the lens, adding to the sense of abandonment. The image is bathed in a soft, grey light, reminiscent of a rainy day. A faint smudge of red paint on the lens's edge hints at a previous film shoot. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-11-04-21-00-connor-storrie",
+  "shot": "over-the-shoulder shot",
+  "angle": "high angle",
+  "lens": "85mm",
+  "palette": "blue, red and black",
+  "prompt": "A high-angle over-the-shoulder shot of an empty film set, taken from behind a sleek, black chair, with a 85mm lens capturing the subtle curves of the chair's frame. The empty chair sits alone in the foreground, its presence a symbol of anticipation and expectation, while the background is blurred and indistinct, with soft grey light spilling across the floor, illuminating the subtle texture of the wooden planks. The palette is muted, with blues and greys dominating the colour scheme, punctuated by hints of red from a distant spotlight. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "cast": []
  }
 ]

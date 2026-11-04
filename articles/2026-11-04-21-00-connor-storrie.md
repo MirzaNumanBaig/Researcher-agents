@@ -5,7 +5,7 @@ seo_title: "Connor Storrie Ghost Rider Rumour: Daniel Ketch Role?"
 seo_description: "Connor Storrie Ghost Rider casting is only a rumour: a scooper says he may play Daniel Ketch opposite Ryan Gosling. Here is what is known so far."
 focus_keyword: "Connor Storrie Ghost Rider"
 permalink: "connor-storrie-ghost-rider"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-04 21:00"
 celebrity: "Connor Storrie"
@@ -14,6 +14,14 @@ tags: ["Connor Storrie", "Ghost Rider", "Marvel Studios", "Ryan Gosling", "Heate
 image_prompt: "A lone motorcycle on an empty desert highway at dusk, faint orange flames glowing on the horizon."
 sources:
   - "https://www.superherohype.com/movies/703350-ghost-rider-rumor-connor-storrie-playing-ryan-gosling-mcu-movie"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-04-21-00-connor-storrie.webp"
+wp_media_id: 1549
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-21-00-connor-storrie-768x432.webp"
+wp_id: 1550
+wp_link: "https://moduscarry.com/connor-storrie-ghost-rider/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

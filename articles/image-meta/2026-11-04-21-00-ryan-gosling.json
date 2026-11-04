@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-11-04T10:52:09.185203+00:00",
+  "article": "2026-11-04-21-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure film rumoured to feature an anonymous figure",
+    "emotion": "excitement",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure costume",
+      "an anonymous figure Studios logo"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "red",
+      "black",
+      "silver"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure costume",
+      "an anonymous figure Studios logo"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "red",
+      "black",
+      "silver"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A close-up detail shot of an empty film set, captured at a tilted angle with a 24mm lens, reveals the intricate details of a vintage camera lens attached to a black backdrop. The studio lights in the background create a subtle glow, casting a warm tone on the lens's ridges and grooves. A few strands of silver-colored wire hang loosely from the lens, adding to the sense of abandonment. The image is bathed in a soft, grey light, reminiscent of a rainy day. A faint smudge of red paint on the lens's edge hints at a previous film shoot. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: shows people in a sensitive story"
+  ],
+  "seed": 3572505542,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 152.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3572505542,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
