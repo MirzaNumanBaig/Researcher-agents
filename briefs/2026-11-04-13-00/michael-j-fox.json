@@ -1,0 +1,27 @@
+{
+  "batch": "2026-11-04 13:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "The First Sitcom Michael J. Fox Starred In Is Impossible To Stream",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xel9HdzloM1F5NTB2NU5tOFlkampDeUZtWGF3SkxLRlVMMkUzWHJmRTc2SEhPaG5UbDBDalNyZDZBTGlGaDRsd1FranFNVWpJT1l3d1FHUExhbC1PVEY0dWdvRmd3YkJEcGc?oc=5",
+      "published": "2026-11-04T01:23:36+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xel9HdzloM1F5NTB2NU5tOFlkampDeUZtWGF3SkxLRlVMMkUzWHJmRTc2SEhPaG5UbDBDalNyZDZBTGlGaDRsd1FranFNVWpJT1l3d1FHUExhbC1PVEY0dWdvRmd3YkJEcGc?oc=5",
+          "article_url": "https://www.imdb.com/fr/news/ni66094336/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWDdMNnpBanlaVGVtRlc1Z2hkdFN6VVdXMmZYWTNSbklOWU9HbWJhZnlHVllkVDBiWkVSSGUwNWRFVmQ4MkVJMGZTWmtsU2hLUkFHcnZlS29CS3ViZUFfTUpmMnMtSW4tVW8zZGdNVzBnUXhlXzNxaDFPTEwwcWNId3dyaU9uR2pDQUJpbms3TTgwLW8?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/tv/articles/first-sitcom-michael-j-fox-001200883.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/c180d347878f1e1c4dfbe6362ebfc3b7b486ad6e6abf28ed66a965ad9bb9a9dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftvline.com%2F1cba365d75c69da8d1ef784a4ef2c7d2.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/c180d347878f1e1c4dfbe6362ebfc3b7b486ad6e6abf28ed66a965ad9bb9a9dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftvline.com%2F1cba365d75c69da8d1ef784a4ef2c7d2.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/tv/articles/first-sitcom-michael-j-fox-001200883.html"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-04 13:00",
+  "celebrity": "Margot Robbie",
+  "stories": [
+    {
+      "title": "Margot Robbie London Premiere of Wuthering Heights",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLTdpdjFCUERTcktGUXR1TXg4TUs2OWk0RUVxbzM2R3p2T1VCVEU2V1BKQ1BDR1hPN2FPcTlfTGs4cTJQWEdoYV9WMm5KS3FwQk9KV0M2Q2JHclc4ZURXUUo4MzlvU3JLMkdqcUxLVktubUR0SG04YXBDWHhoMm5MR3JCNUhaMnh6?oc=5",
+      "published": "2026-11-03T19:33:33+00:00",
+      "outlets": [
+        {
+          "source": "Go Fug Yourself",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLTdpdjFCUERTcktGUXR1TXg4TUs2OWk0RUVxbzM2R3p2T1VCVEU2V1BKQ1BDR1hPN2FPcTlfTGs4cTJQWEdoYV9WMm5KS3FwQk9KV0M2Q2JHclc4ZURXUUo4MzlvU3JLMkdqcUxLVktubUR0SG04YXBDWHhoMm5MR3JCNUhaMnh6?oc=5",
+          "article_url": "https://www.gofugyourself.com/margot-robbie-london-premiere-of-wuthering-heights/",
+          "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg"
+        }
+      ],
+      "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg",
+      "image_source": "https://www.gofugyourself.com/margot-robbie-london-premiere-of-wuthering-heights/"
+    },
+    {
+      "title": "Margot Robbie Recent Street Style",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuaHFnZ3pMTXBqV0dXb3RZT0JHaXAxazZHMVZHM2JTYmE4WWtIOE1YWUwybXBCRVhiRS1NbnJJMzJWcjJRVjV6U3pWZGJFV0c4TjFpS0dVTXItVHRpUHlIQkZvdnFSMUZKRkhiamV6NFhtUQ?oc=5",
+      "published": "2026-11-03T17:58:14+00:00",
+      "outlets": [
+        {
+          "source": "Go Fug Yourself",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuaHFnZ3pMTXBqV0dXb3RZT0JHaXAxazZHMVZHM2JTYmE4WWtIOE1YWUwybXBCRVhiRS1NbnJJMzJWcjJRVjV6U3pWZGJFV0c4TjFpS0dVTXItVHRpUHlIQkZvdnFSMUZKRkhiamV6NFhtUQ?oc=5",
+          "article_url": "https://www.gofugyourself.com/margot-robbie-recent-street-style/",
+          "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg"
+        }
+      ],
+      "image": "https://storage.ghost.io/c/bf/b9/bfb99790-924d-4e41-a7e6-5e3c6e04fe57/content/images/2026/10/gfylogo-1.jpg",
+      "image_source": "https://www.gofugyourself.com/margot-robbie-recent-street-style/"
+    }
+  ]
+}

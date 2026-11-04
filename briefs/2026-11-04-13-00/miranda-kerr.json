@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-04 13:00",
+  "celebrity": "Miranda Kerr",
+  "stories": [
+    {
+      "title": "Miranda Kerr reveals why she refused to return for Victoria's Secret show",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GdHRtdzRYc2JEWDBaamZ3VUptUlQtdUZ3SXFlLXBWWElldW9oUkV6UXcxbnZXQ3ExOWZLd1FGaUZnN09kUFA3cHVlaWNEMlFQUGctSlA4eHV3QkxMVzVWRWpicDZaMnlTRnExZG04YUhpNlJXb0xsUA?oc=5",
+      "published": "2026-11-04T02:10:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GdHRtdzRYc2JEWDBaamZ3VUptUlQtdUZ3SXFlLXBWWElldW9oUkV6UXcxbnZXQ3ExOWZLd1FGaUZnN09kUFA3cHVlaWNEMlFQUGctSlA4eHV3QkxMVzVWRWpicDZaMnlTRnExZG04YUhpNlJXb0xsUA?oc=5",
+          "article_url": "https://sg.news.yahoo.com/miranda-kerr-reveals-why-she-021033573.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/cc07ab3e815410614a94290cd5924e8661ed577a0e190c4ed67c6ab91dc75b8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_life_698%2F35efc8858b8e53aaa2e5719f90ebd4e6.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/cc07ab3e815410614a94290cd5924e8661ed577a0e190c4ed67c6ab91dc75b8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_life_698%2F35efc8858b8e53aaa2e5719f90ebd4e6.jpg",
+      "image_source": "https://sg.news.yahoo.com/miranda-kerr-reveals-why-she-021033573.html"
+    },
+    {
+      "title": "Miranda Kerr Reveals She Was Asked To Walk Victoria's Secret In 2026, But Ultimately Opted Out",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WV2ZZWlBMSWM2M0YtSUE4N1VWS1RVSlp1QWxUMjNvQXJ5aG5URno2aFlBb1MyXzlxY1E1eEZzR01PeFRwWTE1eG1MNnFKdndVbEhkOEp6aUdIOEY4WDJhci0yR1VxcHk0WDgwX0Q2d3E?oc=5",
+      "published": "2026-11-04T00:09:26+00:00",
+      "outlets": [
+        {
+          "source": "Pedestrian TV",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WV2ZZWlBMSWM2M0YtSUE4N1VWS1RVSlp1QWxUMjNvQXJ5aG5URno2aFlBb1MyXzlxY1E1eEZzR01PeFRwWTE1eG1MNnFKdndVbEhkOEp6aUdIOEY4WDJhci0yR1VxcHk0WDgwX0Q2d3E?oc=5",
+          "article_url": "https://www.pedestrian.tv/entertainment/who-has-been-eliminated",
+          "image": "https://images-r2.thebrag.com/pedestrian/uploads/2026/11/miranda-kerr-victorias-secret-angel-runway.jpg?v=1793750744641"
+        }
+      ],
+      "image": "https://images-r2.thebrag.com/pedestrian/uploads/2026/11/miranda-kerr-victorias-secret-angel-runway.jpg?v=1793750744641",
+      "image_source": "https://www.pedestrian.tv/entertainment/who-has-been-eliminated"
+    }
+  ]
+}
