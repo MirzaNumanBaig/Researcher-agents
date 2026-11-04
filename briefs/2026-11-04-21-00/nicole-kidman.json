@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-04 21:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "94.5 Virgin Radio's Fresh Track: Nicole Kidman",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV05CcmlycmFmckxQcWQ2MEpFMy10STZzQ0hSa1N4N181dFFVQWItNm5uQk5kc1NUb1RrbnZzdmtORm9KQ294RDdqQUZJcDA3SDJvTVhHdGNWRHQ1UkpKdzJLbWdJQUU4a09nUUZacjNfa1ppaWZ6NkJLdkU3enR2cl92RDkxS3poOExoeFF2QWlhM1psbTFtdGhn?oc=5",
+      "published": "2026-11-02T13:58:01+00:00",
+      "outlets": [
+        {
+          "source": "CTV News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV05CcmlycmFmckxQcWQ2MEpFMy10STZzQ0hSa1N4N181dFFVQWItNm5uQk5kc1NUb1RrbnZzdmtORm9KQ294RDdqQUZJcDA3SDJvTVhHdGNWRHQ1UkpKdzJLbWdJQUU4a09nUUZacjNfa1ppaWZ6NkJLdkU3enR2cl92RDkxS3poOExoeFF2QWlhM1psbTFtdGhn?oc=5",
+          "article_url": "https://www.ctvnews.ca/vancouver/video/2026/11/02/945-virgin-radios-fresh-track-nicole-kidman/",
+          "image": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F11-02-2026%2Ft_82b065fc912541f89fe22dc9e06e65ec_name_BCEX1102_FRESHTRACK06_FIXED_frame_509.jpeg?smart=true&auth=3851e3075f34bbc8160510ed6fb2e8ac0cb4a88dc115b58079cae6e943f62412&width=1200&height=630"
+        }
+      ],
+      "image": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F11-02-2026%2Ft_82b065fc912541f89fe22dc9e06e65ec_name_BCEX1102_FRESHTRACK06_FIXED_frame_509.jpeg?smart=true&auth=3851e3075f34bbc8160510ed6fb2e8ac0cb4a88dc115b58079cae6e943f62412&width=1200&height=630",
+      "image_source": "https://www.ctvnews.ca/vancouver/video/2026/11/02/945-virgin-radios-fresh-track-nicole-kidman/"
+    },
+    {
+      "title": "Exclusive | Adéla’s ex Henry Morris wants to collaborate with ‘Nicole Kidman’ singer on post-breakup song",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0lvWXhGMVVFUXNsNTd4ZVdLekdzTFJWbUlyYUpaaXo1VmtZRHJxZnNheDloS2JUSkVxbFA3QUtlMTEwUG16SWd4MGczaVd2d2xrdS1YQUpYMVBWOHplanBIQllXbUszanVYYlUwYzBtcVg2bHpIY3Ezak9xRDFGX21hUlhmc21ITm1NVUllUDZfUERKdU9FWE5HblRVbmxjZE9xQ1U2MEtRdlAwTFBsbQ?oc=5",
+      "published": "2026-11-02T13:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0lvWXhGMVVFUXNsNTd4ZVdLekdzTFJWbUlyYUpaaXo1VmtZRHJxZnNheDloS2JUSkVxbFA3QUtlMTEwUG16SWd4MGczaVd2d2xrdS1YQUpYMVBWOHplanBIQllXbUszanVYYlUwYzBtcVg2bHpIY3Ezak9xRDFGX21hUlhmc21ITm1NVUllUDZfUERKdU9FWE5HblRVbmxjZE9xQ1U2MEtRdlAwTFBsbQ?oc=5",
+          "article_url": "https://pagesix.com/2026/11/02/celebrity-news/adelas-ex-henry-morris-wants-to-collaborate-on-post-breakup-song/",
+          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146562197.jpg?quality=75&strip=all&w=1200"
+        }
+      ],
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146562197.jpg?quality=75&strip=all&w=1200",
+      "image_source": "https://pagesix.com/2026/11/02/celebrity-news/adelas-ex-henry-morris-wants-to-collaborate-on-post-breakup-song/"
+    }
+  ]
+}
