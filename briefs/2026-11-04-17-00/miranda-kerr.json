@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-04 17:00",
+  "celebrity": "Miranda Kerr",
+  "stories": [
+    {
+      "title": "Miranda Kerr Says Anxiety About Being in Her Underwear Led to Victoria’s Secret Fashion Show Decline",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ19RSUR4Tkg2RmZGZ1ZXcElwbWI4UzlYa25FX2ozV3F2VEIybFNwa0c4Wk4zVm1fSlE3bnNlTTE4bjV2c1E3XzNHcmNuV2xDZlUyblRnTUpnVUlhbmdVdFNGQjBYRnVfUHpES0JtMV9OcmpURzlfNUhDV2VudnhNRGtFYXhkd29wNUszT0NpYjgtZ1p6VUZUUER3dw?oc=5",
+      "published": "2026-11-04T06:22:12+00:00",
+      "outlets": [
+        {
+          "source": "Us Weekly",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ19RSUR4Tkg2RmZGZ1ZXcElwbWI4UzlYa25FX2ozV3F2VEIybFNwa0c4Wk4zVm1fSlE3bnNlTTE4bjV2c1E3XzNHcmNuV2xDZlUyblRnTUpnVUlhbmdVdFNGQjBYRnVfUHpES0JtMV9OcmpURzlfNUhDV2VudnhNRGtFYXhkd29wNUszT0NpYjgtZ1p6VUZUUER3dw?oc=5",
+          "article_url": "https://www.usmagazine.com/stylish/news/miranda-kerrs-underwear-anxiety-led-to-vs-show-decline/",
+          "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2297916490-Miranda-Kerrs-Underwear-Anxiety-Led-to-VS-Show-Decline.jpg?crop=102px%2C51px%2C1055px%2C555px&resize=1200%2C630&quality=86&strip=all"
+        }
+      ],
+      "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2297916490-Miranda-Kerrs-Underwear-Anxiety-Led-to-VS-Show-Decline.jpg?crop=102px%2C51px%2C1055px%2C555px&resize=1200%2C630&quality=86&strip=all",
+      "image_source": "https://www.usmagazine.com/stylish/news/miranda-kerrs-underwear-anxiety-led-to-vs-show-decline/"
+    },
+    {
+      "title": "'I Have Four Boys': Miranda Kerr Admits She Felt Anxious About Walking in Victoria's Secret Lingerie Again",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUldXQnpIc3JaY2cxNTJhdkdub01JZDAyQXlnYjM3Mkx1M2JDMllTTXJ6dWpSSkJCQTFMQmlXZVkyZ2pyODhUdjg2alNOOFNuREJtRkRCVVVuQTY1V1FJT2x5OXNzME5QbUpwNW9qZHdac040Ql96WC1EcGtJbnlseXpaWXZ4bFBuQUFlQ0NTeW5SRFZWTEhUdEFmYw?oc=5",
+      "published": "2026-11-04T05:14:52+00:00",
+      "outlets": [
+        {
+          "source": "Fashion Times UK",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUldXQnpIc3JaY2cxNTJhdkdub01JZDAyQXlnYjM3Mkx1M2JDMllTTXJ6dWpSSkJCQTFMQmlXZVkyZ2pyODhUdjg2alNOOFNuREJtRkRCVVVuQTY1V1FJT2x5OXNzME5QbUpwNW9qZHdac040Ql96WC1EcGtJbnlseXpaWXZ4bFBuQUFlQ0NTeW5SRFZWTEhUdEFmYw?oc=5",
+          "article_url": "https://www.fashiontimes.co.uk/miranda-kerr-declines-victorias-secret-runway-invitation-1766986",
+          "image": "https://d.fashiontimes.co.uk/en/full/1785139/miranda-kerr-four-sons.png"
+        }
+      ],
+      "image": "https://d.fashiontimes.co.uk/en/full/1785139/miranda-kerr-four-sons.png",
+      "image_source": "https://www.fashiontimes.co.uk/miranda-kerr-declines-victorias-secret-runway-invitation-1766986"
+    }
+  ]
+}
