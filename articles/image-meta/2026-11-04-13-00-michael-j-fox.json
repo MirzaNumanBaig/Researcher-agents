@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-04T03:20:09.916052+00:00",
+  "article": "2026-11-04-13-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "Michael J. an anonymous figure, Leo and Me, is lost to streaming platforms.",
+    "emotion": "nostalgic",
+    "setting": "film set",
+    "key_objects": [
+      "Leo and Me",
+      "an anonymous figure",
+      "Canadian the figure",
+      "TVLine report"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "gray",
+      "beige"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Leo and Me",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "Leo and Me",
+      "an anonymous figure",
+      "Canadian the figure",
+      "TVLine report"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "beige"
+    ],
+    "mood": "nostalgic",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot of an empty film set, with a solitary, worn armchair placed at the center, its weathered upholstery faded to a soft, beige hue, positioned in front of a large, gray window that stretches from floor to ceiling; the glass is etched with tiny, raindrop-patterned rivulets, and a warm, diffuse light seeps through the panes, casting a subtle glow across the dusty, beige-colored floor, where a single, crumpled newspaper lies forgotten; the room is quiet, with only the faint hum of a distant ventilation system breaking the stillness, and the overall atmosphere is one of melancholy and longing; the camera is positioned at eye-level, looking directly down at the scene, with a 85mm lens capturing the subtle, nuanced details of the setting in a candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2044624865,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 208.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2044624865,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

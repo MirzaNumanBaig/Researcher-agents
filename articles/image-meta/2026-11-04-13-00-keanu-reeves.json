@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-04T03:20:24.124879+00:00",
+  "article": "2026-11-04-13-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "award",
+  "analysis": {
+    "story_type": "award",
+    "core_event": "an anonymous figure receives the figure of an anonymous figure",
+    "emotion": "inspiring",
+    "setting": "film set",
+    "key_objects": [
+      "the figure of an anonymous figure",
+      "The Matrix",
+      "the figure students"
+    ],
+    "time_and_light": "evening, stage lights",
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure of an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "level and calm",
+          "eyes": "bright and steady",
+          "mouth": "a restrained smile",
+          "jaw": "set"
+        },
+        "gaze": "out toward the audience",
+        "head": "level, chin up",
+        "posture": "upright, shoulders back",
+        "hands": "one hand holding a trophy against the chest",
+        "interaction": "",
+        "clothing": "a formal dark suit"
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "the figure of an anonymous figure",
+      "The Matrix",
+      "the figure students"
+    ],
+    "time_of_day": "evening, stage lights",
+    "light": {
+      "source": "evening, stage lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "mood": "inspiring",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-06"
+  ],
+  "prompt": "A wide shot of a bustling film set, captured from a slightly high angle with a 50mm lens, showcases the left-of-centre placement of the main subject: a man in his mid 50s with short grey-flecked hair and a beard, and tan skin, dressed in a dark green wool jacket, wearing a level and calm expression with his eyebrows set in a gentle curve, his bright and steady eyes scanning the horizon, his mouth a restrained smile, and his jaw set in a firm line, gazing out toward the audience with his head held level and his chin up, his upright posture and shoulders back exuding confidence, one hand holding a trophy against his chest. The anonymous figure stands to his left, a symbol of the Matrix prop resting against a nearby stand, surrounded by rows of empty seats representing the figure students, all bathed in the warm glow of evening stage lights from the side. The soft haze and bokeh of the background subtly blur the edges of the set, while the foreground focus remains sharp, capturing the essence of the moment. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2358716611,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by evening, stage lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 100.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2358716611,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

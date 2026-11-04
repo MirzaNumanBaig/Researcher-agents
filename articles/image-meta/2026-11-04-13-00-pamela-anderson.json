@@ -1,0 +1,147 @@
+{
+  "timestamp": "2026-11-04T03:19:56.225557+00:00",
+  "article": "2026-11-04-13-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure attends the 2026 the figure an anonymous figure the figure in a Carolina the figure dress.",
+    "emotion": "glamorous",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "black Carolina the figure dress",
+      "feather trim",
+      "pin-curled hair",
+      "berry-hued lip"
+    ],
+    "time_and_light": "evening, gold lights",
+    "palette": [
+      "black",
+      "berry",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "black Carolina the figure dress",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "black Carolina the figure dress",
+      "feather trim",
+      "pin-curled hair",
+      "berry-hued lip"
+    ],
+    "time_of_day": "evening, gold lights",
+    "light": {
+      "source": "evening, gold lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "berry",
+      "gold"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-12"
+  ],
+  "prompt": "A medium-wide shot of the man in his late 40s with thinning dark hair and round glasses and olive skin, standing slightly off-center to the left of the frame, wearing a tweed blazer, quarter-turned toward the lens with his chin raised and a composed soft smile, his smooth and softly arched eyebrows and confident and direct eyes gazing directly toward the camera, his shoulders back and spine long, his one hand resting on his hip. His face is illuminated by soft, golden light from the side, casting a subtle glow on his olive skin, with visible pores and small imperfections. Behind him, the anonymous figure in the black Carolina the figure dress, with feather trim and pin-curled hair and berry-hued lip, is positioned in the midground, with the soft haze and bokeh of the background subtly blurring into the distance. The focus is on the man's confident and poised demeanor, with the glamorous and elegant dress and accessories subtly framing the scene. The fine film grain and true-to-life colour of the image evoke a sense of natural, unposed moment, as if the scene has been captured on a full-frame camera. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2456889775,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in a person, lit by evening, gold lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 271.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 2456889775,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

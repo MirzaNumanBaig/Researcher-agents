@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-04T03:19:25.749196+00:00",
+  "article": "2026-11-04-13-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "box_office",
+  "analysis": {
+    "story_type": "box_office",
+    "core_event": "The the figure the figure the figure the figure TV the figure after being added to the streamer's library.",
+    "emotion": "surprise",
+    "setting": "film library",
+    "key_objects": [
+      "the figure TV",
+      "The the figure the figure",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, streaming service",
+    "palette": [
+      "blue",
+      "gray",
+      "green"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure TV",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film library",
+    "props": [
+      "the figure TV",
+      "The the figure the figure",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, streaming service",
+    "light": {
+      "source": "daytime, streaming service",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "green"
+    ],
+    "mood": "surprise",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a woman in her mid-30s, with a look of shock frozen on her face, her eyebrows slightly raised and her eyes wide open, her mouth agape and her lower jaw dropped slightly, her gaze fixed intently on the screen in front of her. Her head is tilted slightly to one side, her shoulders relaxed and her posture open, one hand resting on the arm of the chair and the other cradling her chin. She's wearing a simple white t-shirt and a pair of faded blue jeans, with a pair of black-rimmed glasses perched on the end of her nose. The scene is set in a film library, with rows of old and film reels lining the shelves in the background, and a few scattered DVDs and VHS tapes on the floor in the foreground. The mood is one of surprise, with a colour palette of blue, gray, and green, reminiscent of a candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 446399602,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film library with a person TV and The a person a person, lit by daytime, streaming service.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 261.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 446399602,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

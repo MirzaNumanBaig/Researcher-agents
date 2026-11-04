@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson CFDA Awards Look: Herrera Feather Dress"
 seo_description: "Pamela Anderson CFDA Awards look: a black Carolina Herrera halter dress with feather trim, pin curls and a berry lip. See the details."
 focus_keyword: "Pamela Anderson CFDA Awards"
 permalink: "pamela-anderson-cfda-awards-feathers"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-04 13:00"
 celebrity: "Pamela Anderson"
@@ -16,6 +16,14 @@ sources:
   - "https://www.hellomagazine.com/us/932717/pamela-andersons-shoulder-baring-dress-hangs-on-by-straps/"
   - "https://coveteur.com/2026-cfda-awards-best-celebrity-looks"
   - "https://www.istitutoimpariamo.it/pamela-anderson-just-upgraded-red-nails-with-a-deep-winter-cherry-twist/"
+image_alt: "Illustration of a man in a person, lit by evening, gold lights."
+image: "images/2026-11-04-13-00-pamela-anderson.webp"
+wp_media_id: 1543
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-13-00-pamela-anderson-768x432.webp"
+wp_id: 1544
+wp_link: "https://moduscarry.com/pamela-anderson-cfda-awards-feathers/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

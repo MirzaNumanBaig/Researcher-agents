@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-11-04T03:20:52.678074+00:00",
+  "article": "2026-11-04-13-00-catherine-o-hara",
+  "ai_generated": true,
+  "story_type": "tribute",
+  "analysis": {
+    "story_type": "tribute",
+    "core_event": "an anonymous figure, Emmy-winning comedy actress, the figure at 71.",
+    "emotion": "sadness",
+    "setting": "hospital",
+    "key_objects": [
+      "hospital bed",
+      "medical equipment",
+      "flowers"
+    ],
+    "time_and_light": "early morning, hospital lights",
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "hospital bed",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "hospital",
+    "props": [
+      "hospital bed",
+      "medical equipment",
+      "flowers"
+    ],
+    "time_of_day": "early morning, hospital lights",
+    "light": {
+      "source": "early morning, hospital lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "white"
+    ],
+    "mood": "sadness",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a tall, empty wooden chair positioned beside a large, hospital-style window, its panes reflecting a soft, early morning glow; the subject's surface is worn, with visible scratches and scuffs, telling the story of years of service. The chair's back is slightly tilted, with the wooden slats forming a gentle slope, creating a sense of gentle repose. The chair's cushions are covered in a simple, pale blue fabric, slightly faded, and are tied to the chair's frame with two thin, white straps. The chair is situated in front of a tall, white hospital window, with a series of thin, horizontal blinds partially drawn, allowing slivers of warm, morning light to filter through. The foreground is sharply in focus, while the hospital window and surrounding area are blurred, creating a sense of depth. The image is captured with a 50mm lens, providing a shallow depth of field that accentuates the chair's worn surface. Soft, overhead hospital lights provide a neutral, clinical illumination. The colour palette is muted, with shades of blue, gray, and white dominating the scene. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 210748490,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 203.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 210748490,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
