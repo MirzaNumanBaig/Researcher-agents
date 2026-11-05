@@ -5823,6 +5823,22 @@
    "turns": 10,
    "seconds": 18,
    "cost_usd": 0.1301
+  },
+  {
+   "date": "2026-11-05",
+   "time": "2026-11-05T07:49:04+00:00",
+   "batch": "2026-11-05 18:00",
+   "celebrity": "Jacob Elordi",
+   "article": "2026-11-05-18-00-jacob-elordi.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 1247,
+   "cache_read_tokens": 155484,
+   "cache_write_tokens": 24444,
+   "turns": 8,
+   "seconds": 9,
+   "cost_usd": 0.126
   }
  ]
 }
