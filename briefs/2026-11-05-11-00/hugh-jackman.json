@@ -48,10 +48,16 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWaGlHR0ExZnFrbDMzRHU4b182bVZzZlE2WDMycHcwaHNYQnZjeWRIbkRKR1NOS2hmOGlRWXREVlc0Q0JWczRTNFJBTU1DZTZXODFYcFR3LXNRRjNQZk5LVlU2OUloRFU?oc=5",
           "article_url": "https://www.imdb.com/news/ni66095029/?ref_=ttnw_art_perm",
           "image": ""
+        },
+        {
+          "source": "Comic Basics",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0pPTkhJLUlBNE0xeDVDeXdGZ1VFSUJ1cEozaFVyOC0yOWd5bDdZT3JCdTNIeU5lMUZnSjJsR004TTNNM0cxZTU2c2xTNHJvcG1KRzNpZlRHLW8wTlVPdmUybTIwTE9LN0ZjSWU2YnNPVzhjcFdQYjNxSGxPMmtQZTgwZlduaXBMLTl4eU9xUXFTcjd4dlRJQ1lKU25EVkY0VEtXQ3FCeEFPc3BfYkhKUWp5dHpTSFpKMGFlY01VMnhEakRsU0R0RGp1QnkyYXBB?oc=5",
+          "article_url": "https://www.comicbasics.com/percy-jackson-star-dafne-keen-says-hugh-jackman-was-a-true-father-figure-who-shielded-her-on-the-logan-set/",
+          "image": "https://www.comicbasics.com/wp-content/uploads/2026/11/dafne-keen-and-hugh-jackman-logan.webp"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://www.comicbasics.com/wp-content/uploads/2026/11/dafne-keen-and-hugh-jackman-logan.webp",
+      "image_source": "https://www.comicbasics.com/percy-jackson-star-dafne-keen-says-hugh-jackman-was-a-true-father-figure-who-shielded-her-on-the-logan-set/"
     },
     {
       "title": "Taylor Swift, Hugh Jackman Allegedly Saw Ryan Reynolds Confront Justin Baldoni",
@@ -67,6 +73,27 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "‘Logan’ Star Dafne Keen Says ‘I Was Offered Cocaine’ as an 11-Year-Old in Hollywood and Hugh Jackman ‘Made Sure No One Abused My Hours’ on Set",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nSm5RMFdhbV9rOG1fNWUxUEtvYlhVNDBaZ2NnMHprU3JsZ1NNZ05BaVdXZThia081Y2xyTTFQNk5MaEtiUHNoQ2dQZ3l0TXF0REdwRGhJUjRwdm5uRmFNTTZUNklBQQ?oc=5",
+      "published": "2026-11-04T23:48:07+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nSm5RMFdhbV9rOG1fNWUxUEtvYlhVNDBaZ2NnMHprU3JsZ1NNZ05BaVdXZThia081Y2xyTTFQNk5MaEtiUHNoQ2dQZ3l0TXF0REdwRGhJUjRwdm5uRmFNTTZUNklBQQ?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66095893/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "variety.com",
+          "url": "https://variety.com/2026/film/news/logan-dafne-keen-cocaine-11-years-old-hollywood-1236939718/",
+          "article_url": "",
+          "image": "https://variety.com/wp-content/uploads/2026/11/MCDLOGA_FE025-e1793828153190.jpg"
+        }
+      ],
+      "image": "https://variety.com/wp-content/uploads/2026/11/MCDLOGA_FE025-e1793828153190.jpg",
+      "image_source": "https://variety.com/2026/film/news/logan-dafne-keen-cocaine-11-years-old-hollywood-1236939718/"
     }
   ]
 }
