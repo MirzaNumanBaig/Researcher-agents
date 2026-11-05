@@ -23,6 +23,7 @@ wp_id: 1586
 wp_link: "https://moduscarry.com/chris-hemsworth-boxing-kids/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
