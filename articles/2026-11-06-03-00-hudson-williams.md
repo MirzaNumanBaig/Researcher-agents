@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Brand Deals: Balenciaga and Bulgari Roles"
 seo_description: "Hudson Williams brand deals explained: the Heated Rivalry star is a Balenciaga 'friend of the house' and a Bulgari ambassador. See what each role involves."
 focus_keyword: "Hudson Williams brand deals"
 permalink: "hudson-williams-brand-deals"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-06 03:00"
 celebrity: "Hudson Williams"
@@ -15,6 +15,14 @@ image_prompt: "A dark luxury boutique window at dusk with a velvet display stand
 sources:
   - "https://www.gaytimes.com/heated-rivalrys-hudson-williams-stars-in-balenciagas-new-campaign/"
   - "https://www.out.com/celebs/hudson-williams-bulgari-photo-shoot"
+image_alt: "Illustration of a woman in fashion runway or campaign shoot, lit by daytime, studio lights."
+image: "images/2026-11-06-03-00-hudson-williams.webp"
+wp_media_id: 1603
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-03-00-hudson-williams-768x432.webp"
+wp_id: 1604
+wp_link: "https://moduscarry.com/hudson-williams-brand-deals/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-05T16:44:30.898191+00:00",
+  "article": "2026-11-06-03-00-heath-ledger",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure was the the figure the figure for the the figure role in The the figure the figure.",
+    "emotion": "surprise",
+    "setting": "film set",
+    "key_objects": [
+      "script",
+      "the figure costume",
+      "an anonymous figure",
+      "Christopher Nolan"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "the figure grey",
+      "deep red",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "script",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "script",
+      "the figure costume",
+      "an anonymous figure",
+      "Christopher Nolan"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "the figure grey",
+      "deep red",
+      "black"
+    ],
+    "mood": "surprise",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-07",
+    "cast-08"
+  ],
+  "prompt": "A wide shot, eye-level, 35mm lens captures the film set from the left of centre, with the setting opening up to the right. A medium shot of the woman in her early 20s with loose curly the figure brown hair and rich brown skin sits at an angle to the man in his early 40s with close-cropped black hair and the figure brown skin, both seated across a low table. She wears an oversized black blazer and her eyes are unfocused and distant, with her eyebrows drawn up gently at the centre and her mouth just closed, her jaw soft and her gaze off-frame toward a window. Her head rests slightly back and her shoulders are low, her hands wrapped around a mug. The man wears a burnt-orange bomber jacket and his eyes are wide and attentive, with his eyebrows slightly raised and his mouth just parted, his jaw relaxed and his gaze up and off-frame right. The colour palette is a mix of deep grey, deep red and black, a sombre and intense tone that matches the woman's unfocused gaze. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 913167988,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 141.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 913167988,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

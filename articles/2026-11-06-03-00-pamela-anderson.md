@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Torino Film Festival Lifetime Award"
 seo_description: "Pamela Anderson will receive a lifetime achievement award at the Torino Film Festival and introduce The Last Showgirl. See the dates and what comes next."
 focus_keyword: "Pamela Anderson Torino Film Festival"
 permalink: "pamela-anderson-torino-film-festival"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-06 03:00"
 celebrity: "Pamela Anderson"
@@ -16,6 +16,14 @@ sources:
   - "https://variety.com/2026/film/festivals/pamela-anderson-torino-film-festival-lifetime-achievement-award-1236940049/"
   - "https://www.ansa.it/english/news/lifestyle/arts/2026/11/05/john-travolta-pamela-anderson-and-fanny-ardant-at-the-turin-film_48d3d311-3972-4377-ac80-65e2835c62ef.html"
   - "https://thechenabtimes.com/2026/11/05/pamela-anderson-to-receive-lifetime-achievement-award-at-torino-film-festival/"
+image_alt: "Illustration of film festival with a person and Torino Film Festival, lit by daytime, festival lights."
+image: "images/2026-11-06-03-00-pamela-anderson.webp"
+wp_media_id: 1613
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-03-00-pamela-anderson-768x432.webp"
+wp_id: 1614
+wp_link: "https://moduscarry.com/pamela-anderson-torino-film-festival/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

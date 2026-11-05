@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-05T16:42:29.755825+00:00",
+  "article": "2026-11-06-03-00-russell-crowe",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "The the figure the figure reaches No. 1 on Apple TV's US movie chart.",
+    "emotion": "nostalgic",
+    "setting": "1970s Los Angeles film set",
+    "key_objects": [
+      "private detective's office",
+      "1970s Los Angeles streets",
+      "crime scene tape",
+      "film cameras"
+    ],
+    "time_and_light": "daytime, neon lights",
+    "palette": [
+      "burnt orange",
+      "smoky blue",
+      "golden yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "private detective's office",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "1970s Los Angeles film set",
+    "props": [
+      "private detective's office",
+      "1970s Los Angeles streets",
+      "crime scene tape",
+      "film cameras"
+    ],
+    "time_of_day": "daytime, neon lights",
+    "light": {
+      "source": "daytime, neon lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "burnt orange",
+      "smoky blue",
+      "golden yellow"
+    ],
+    "mood": "nostalgic",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-08"
+  ],
+  "prompt": "A medium-wide shot, slightly high angle, 85mm lens captures the nostalgic essence of 1970s Los Angeles film set. A man in his early 40s with close-cropped black hair and dark brown skin sits in the foreground, his body language a testament to his introspective nature. His slightly raised eyebrows and wide, attentive eyes seem to be focused on a distant memory, his lips just parted as if he's about to speak. His jaw is relaxed, and his head is tilted slightly up, as if he's gazing up at the sky. He's leaning forward, elbows on knees, his hands cradling a paper cup, his fingers wrapped around it in a gentle grasp. He's positioned to the left of the frame, with the 1970s Los Angeles film set opening up to the right, a soft haze and bokeh effect blurring the background. The realism is heightened by the natural skin texture with visible pores and small imperfections, a candid unposed moment captured on a full-frame camera with fine film grain and true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 307951804,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in 1970s Los Angeles film set, lit by daytime, neon lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 237.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 307951804,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

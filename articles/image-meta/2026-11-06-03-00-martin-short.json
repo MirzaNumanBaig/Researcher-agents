@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-05T16:44:03.405001+00:00",
+  "article": "2026-11-06-03-00-martin-short",
+  "ai_generated": true,
+  "story_type": "music_release",
+  "analysis": {
+    "story_type": "music_release",
+    "core_event": "an anonymous figure releases her first holiday the figure, featuring an anonymous figure and an anonymous figure.",
+    "emotion": "festive",
+    "setting": "recording studio",
+    "key_objects": [
+      "an anonymous figure's the figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "the figure carols"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "red",
+      "green",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure's the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "recording studio",
+    "props": [
+      "an anonymous figure's the figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "the figure carols"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "red",
+      "green",
+      "gold"
+    ],
+    "mood": "festive",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-10"
+  ],
+  "prompt": "A medium shot of a woman in her early 30s with short, curly dark hair and olive skin, wearing a red sweater and holding a mug, her facial expression characterized by slightly raised eyebrows and a hint of a smile. Her eyes, a deep brown, sparkle with excitement as she looks down at her hands, her lips curled upwards at the corners. Her jaw is relaxed, and her gaze is directed towards the person beside her. Her head is tilted slightly towards the right, her posture open and welcoming, her shoulders relaxed. The woman's hands are wrapped around a mug, and her fingers are spread, as if she's just set it down. She's situated to the left of centre, with the recording studio setting opening up to the right, a soft haze and bokeh in the background. The camera is positioned for a medium shot, three-quarter view, with an 85mm lens, capturing the scene in a natural and candid way. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2711004499,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in recording studio, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 95.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2711004499,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

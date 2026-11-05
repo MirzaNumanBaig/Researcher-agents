@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-05T16:43:51.540166+00:00",
+  "article": "2026-11-06-03-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure shares his the figure the figure on pursuing a career in acting.",
+    "emotion": "inspirational",
+    "setting": "interview studio",
+    "key_objects": [
+      "lumberjack the figure",
+      "acting career",
+      "Parkinson's research foundation"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "lumberjack the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "interview studio",
+    "props": [
+      "lumberjack the figure",
+      "acting career",
+      "Parkinson's research foundation"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "mood": "inspirational",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-04",
+    "cast-06"
+  ],
+  "prompt": "A medium shot, side-on view, 35mm lens captures the two men seated at an angle to each other across a low table in a clutter-free interview studio. The first man, a man in his mid 20s with tousled sandy-blond hair and fair skin, wears a denim jacket over a grey tee, his facial expression marked by drawn-up eyebrows, unfocused eyes, and lips just closed, his jaw soft. His gaze is off-frame toward a window, his head resting slightly the figure, his shoulders low, and his hands wrapped around a mug. The second man, a man in his mid 50s with short grey-flecked hair and a beard and tan skin, wears a grey three-piece suit, his facial expression characterised by slightly raised eyebrows, wide and attentive eyes, and lips just parted, his jaw relaxed. His gaze is up and off-frame right, his head tilted slightly up, his posture leaning forward, elbows on knees, and his hands holding a paper cup. The natural light streaming from the side illuminates the scene, casting a warm glow on the faces of the two men, their emotions and conversation inspiring and uplifting. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: 213 words (needs 90-200)"
+  ],
+  "seed": 966009638,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of two mans in interview studio, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 109.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 966009638,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

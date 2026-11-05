@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-05T16:41:59.853553+00:00",
+  "article": "2026-11-06-03-00-ryan-reynolds",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure, appears to own rare Ouréa watch",
+    "emotion": "luxury",
+    "setting": "the figure atelier",
+    "key_objects": [
+      "Ouréa watch",
+      "watchmakers Aubert & Ramel",
+      "Swiss the figure the figure"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "platinum",
+      "silver",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Ouréa watch",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "the figure atelier",
+    "props": [
+      "Ouréa watch",
+      "watchmakers Aubert & Ramel",
+      "Swiss the figure the figure"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "platinum",
+      "silver",
+      "gold"
+    ],
+    "mood": "luxury",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-01"
+  ],
+  "prompt": "A wide shot, eye-level and centered on a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, as she stands in the center of a luxurious atelier, a black satin dress accentuating her confident and direct gaze towards the camera. Her smooth and softly arched eyebrows are raised slightly, complementing her composed soft smile, while her lifted jawline adds to her poised demeanor. Her quarter-turned head is positioned towards the lens, with her chin raised, and her shoulders are back, giving her a long, slender appearance. One hand rests on her hip, in a natural and relaxed pose, while her other hand is at her side. The woman's interaction is subtle, as if she's taking a moment to appreciate the opulent surroundings. Behind her, the atelier stretches out to the right, with soft, natural light pouring in from the side, casting a warm glow on the room. The atmosphere is one of serene sophistication, as if the woman has stepped into a world of high-end craftsmanship. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 911224727,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in a person atelier, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 112.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 911224727,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

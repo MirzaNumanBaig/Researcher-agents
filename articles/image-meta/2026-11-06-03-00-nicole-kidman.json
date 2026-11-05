@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-11-05T16:43:33.160887+00:00",
+  "article": "2026-11-06-03-00-nicole-kidman",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure attends an anonymous figure Cruise 2026/27 show in Sydney with her the figure the figure.",
+    "emotion": "glamorous",
+    "setting": "an anonymous figure show",
+    "key_objects": [
+      "an anonymous figure Cruise 2026/27 show",
+      "an anonymous figure",
+      "her the figure the figure",
+      "black satin pumps",
+      "cream ribbed zip-up jacket"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "black",
+      "cream",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure Cruise 2026/27 show",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure show",
+    "props": [
+      "an anonymous figure Cruise 2026/27 show",
+      "an anonymous figure",
+      "her the figure the figure",
+      "black satin pumps"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "cream",
+      "silver"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05"
+  ],
+  "prompt": "A medium shot, slightly low angle, 35mm lens captures the scene as an anonymous figure show unfolds in the background, with a long row of elaborate outfits and a catwalk stretching out to the right. A woman in her mid 40s with a sleek silver-streaked bob and deep brown skin stands proudly, her midnight-blue gown shimmering under the natural light that streams in from the side. Her smooth and softly arched eyebrows are raised slightly, her confident and direct eyes locked onto the camera as her mouth curves into a composed soft smile, her jaw lifted in a gesture of quiet confidence. Her quarter-turned head is tilted toward the lens, her chin raised, and her shoulders are back, her spine long and straight, exuding an air of poise. One hand rests on her hip, her fingers curled loosely around her wrist, as she surveys the surroundings with a sense of ownership. The background is a soft haze and bokeh, with the anonymous figure show fading into the distance, its details lost in the gentle blur. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1505226508,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in a person show, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 140.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1505226508,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-05T16:44:16.739691+00:00",
+  "article": "2026-11-06-03-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure becomes the figure ambassador for Balenciaga and Bulgari.",
+    "emotion": "glamorous",
+    "setting": "fashion runway or campaign shoot",
+    "key_objects": [
+      "Balenciaga clothing",
+      "Bulgari jewellery",
+      "red carpet"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "black",
+      "silver",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Balenciaga clothing",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "fashion runway or campaign shoot",
+    "props": [
+      "Balenciaga clothing",
+      "Bulgari jewellery",
+      "red carpet"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "silver",
+      "gold"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-03"
+  ],
+  "prompt": "A wide shot, slightly high angle, 50mm lens captures a fashion runway or campaign shoot. A medium shot of a woman in her late 20s, with long straight black hair and warm beige skin, is positioned left of centre. Her eyebrows are smooth and softly arched, her eyes are confident and direct, and her mouth is a composed soft smile, with her jaw lifted slightly as she gazes toward the camera. Her quarter-turned head is tilted toward the lens, with her chin raised, and her posture is characterized by shoulders back and a long spine. Her left hand rests on her hip, while her right hand holds a Bulgari necklace adorned with gold and silver accents. She wears an emerald silk dress that accentuates her curves, with a subtle hint of sparkle from the Bulgari jewellery around her neck. In the midground, a Balenciaga coat lies draped across a velvet-covered mannequin, while a red carpet stretches out to the right, gradually fading into a soft haze and bokeh in the background. The colour palette is dominated by black, silver, and gold, with subtle hints of emerald green from the dress. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1132690719,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in fashion runway or campaign shoot, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 76.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1132690719,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
