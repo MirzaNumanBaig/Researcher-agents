@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-05T00:41:29.424726+00:00",
+  "article": "2026-11-05-11-00-catherine-o-hara",
+  "ai_generated": true,
+  "story_type": "tribute",
+  "analysis": {
+    "story_type": "tribute",
+    "core_event": "Actress an anonymous figure's the figure of death revealed as pulmonary embolism with rectal cancer as underlying the figure.",
+    "emotion": "sadness",
+    "setting": "hospital",
+    "key_objects": [
+      "death the figure",
+      "pulmonary embolism",
+      "rectal cancer",
+      "Los Angeles County Medical Examiner's Office"
+    ],
+    "time_and_light": "early morning, natural light",
+    "palette": [
+      "gray",
+      "blue",
+      "white"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "death the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "hospital",
+    "props": [
+      "death the figure",
+      "pulmonary embolism",
+      "rectal cancer",
+      "Los Angeles County Medical Examiner's Office"
+    ],
+    "time_of_day": "early morning, natural light",
+    "light": {
+      "source": "early morning, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "gray",
+      "blue",
+      "white"
+    ],
+    "mood": "sadness",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot from behind, captured with a 24mm lens, frames an empty hospital room bathed in the soft, gentle light of early morning. A single, wooden chair sits beside a tall window, its wooden frame worn and weathered, as if bearing witness to countless moments of quiet contemplation. The chair's simple design and sturdy presence evoke a sense of calm and respect, a poignant reminder of the solemnity of the space. A row of lit white candles on a small, wooden table in the foreground adds a touch of serenity, their soft flames casting a warm, golden glow across the room. The walls, painted a soothing shade of pale blue, seem to recede into the background, creating a sense of depth and dimensionality. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3664179293,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 156.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3664179293,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ seo_title: "Catherine O'Hara Cause of Death: Certificate Details"
 seo_description: "Catherine O'Hara cause of death: her death certificate lists a pulmonary embolism, with rectal cancer as the underlying cause. Read what it says."
 focus_keyword: "Catherine O'Hara cause of death"
 permalink: "catherine-ohara-cause-of-death"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-05 11:00"
 celebrity: "Catherine O'Hara"
@@ -15,6 +15,14 @@ image_prompt: "A quiet empty theatre stage with a single warm spotlight and a ve
 sources:
   - "https://abcnews.com/GMA/Culture/catherine-ohara-cause-death-revealed/story?id=129786941"
   - "https://abcnews.com/GMA/Culture/schitts-creek-reunion-dan-levy-catherine-ohara-reunite/story?id=97658751"
+image_alt: "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table."
+image: "images/2026-11-05-11-00-catherine-o-hara.webp"
+wp_media_id: 1573
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-05-11-00-catherine-o-hara-768x432.webp"
+wp_id: 1574
+wp_link: "https://moduscarry.com/catherine-ohara-cause-of-death/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

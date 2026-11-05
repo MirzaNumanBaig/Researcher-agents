@@ -1,0 +1,145 @@
+{
+  "timestamp": "2026-11-05T00:41:17.523757+00:00",
+  "article": "2026-11-05-11-00-chris-hemsworth",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure reveals he auditioned for Mad Max in 2010 but an anonymous figure in 2024.",
+    "emotion": "bittersweet",
+    "setting": "film set",
+    "key_objects": [
+      "Mad Max film",
+      "an anonymous figure",
+      "Tom Hardy",
+      "the figure",
+      "Dementus"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "beige",
+      "dusty red",
+      "burnt orange"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Mad Max film",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "Mad Max film",
+      "an anonymous figure",
+      "Tom Hardy",
+      "the figure"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "beige",
+      "dusty red",
+      "burnt orange"
+    ],
+    "mood": "bittersweet",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05",
+    "cast-09"
+  ],
+  "prompt": "A medium shot of the first woman, a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, sits at an angle to the second woman across a low table, her head resting slightly back and her shoulders low. Her drawn-up eyebrows are gentle at the centre, her unfocused eyes distant, her lips just closed, and her jaw soft. Her gaze is off-frame toward a window. She wears a midnight-blue gown and has her hands wrapped around a mug. The second woman, a woman in her late 50s with short wavy white hair and pale skin, sits across from her, her head tilted slightly up, her eyebrows slightly raised, her wide and attentive eyes fixed on the first woman, her lips just parted, and her jaw relaxed. She wears a navy cardigan and has her hands holding a paper cup. The two women are positioned left of centre, with the film set opening up to the right, revealing a soft haze and bokeh in the background. The warm sunlight from the side illuminates the scene, casting a bittersweet mood. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1249347411,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of two womans in film set, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 97.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1249347411,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

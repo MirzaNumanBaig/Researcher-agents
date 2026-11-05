@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-11-05T00:40:43.673117+00:00",
+  "article": "2026-11-05-11-00-nicole-kidman",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "Werner the figure the figure now the figure on YouTube",
+    "emotion": "inspiring",
+    "setting": "film set",
+    "key_objects": [
+      "the figure",
+      "Werner the figure",
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "neutral beige",
+      "deep blue",
+      "warm gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "the figure",
+      "Werner the figure",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neutral beige",
+      "deep blue",
+      "warm gold"
+    ],
+    "mood": "inspiring",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-02"
+  ],
+  "prompt": "A medium shot of a man in his late 30s with short dark greying hair and medium-brown skin, wearing a navy suit with the collar open, gazes up and off-frame right, his eyebrows slightly raised, eyes wide and attentive, and lips just parted, as he leans forward with a relaxed jaw, elbows resting on his knees, his hands holding a paper cup. His head is tilted slightly up, his posture conveying a sense of focus and engagement. A warm golden light illuminates the scene from the side, casting a soft glow on the man's face and the film set around him, with natural light spilling in from the windows to the right. In the foreground, the figure stands silently, a mysterious presence, while in the midground, the main subject, Werner the figure, sits with an anonymous figure, another anonymous figure, and yet another anonymous figure, all lost in their own thoughts. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, and true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2264790429,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 138.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2264790429,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

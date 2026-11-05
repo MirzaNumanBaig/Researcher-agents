@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Mad Max: From Rejected Hopeful to Dementus"
 seo_description: "Chris Hemsworth Mad Max story: he could not land a meeting in 2010, then played villain Dementus in Furiosa 14 years later. Read the full background."
 focus_keyword: "Chris Hemsworth Mad Max"
 permalink: "chris-hemsworth-mad-max"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-05 11:00"
 celebrity: "Chris Hemsworth"
@@ -14,6 +14,14 @@ tags: ["Chris Hemsworth", "Marvel Studios"]
 image_prompt: "A dusty desert highway at dusk with a battered armoured truck and a distant storm on the horizon"
 sources:
   - "https://faroutmagazine.co.uk/2010-chris-hemsworth-auditioned-play-mad-max/"
+image_alt: "Illustration of two womans in film set, lit by daytime, sunlight."
+image: "images/2026-11-05-11-00-chris-hemsworth.webp"
+wp_media_id: 1575
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-05-11-00-chris-hemsworth-768x432.webp"
+wp_id: 1576
+wp_link: "https://moduscarry.com/chris-hemsworth-mad-max/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
