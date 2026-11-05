@@ -23,6 +23,7 @@ wp_id: 1604
 wp_link: "https://moduscarry.com/hudson-williams-brand-deals/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
