@@ -5759,6 +5759,22 @@
    "turns": 7,
    "seconds": 10,
    "cost_usd": 0.1036
+  },
+  {
+   "date": "2026-11-05",
+   "time": "2026-11-05T00:40:14+00:00",
+   "batch": "2026-11-05 11:00",
+   "celebrity": "Sam Worthington",
+   "article": "2026-11-05-11-00-sam-worthington.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 903,
+   "cache_read_tokens": 73416,
+   "cache_write_tokens": 18313,
+   "turns": 6,
+   "seconds": 8,
+   "cost_usd": 0.0898
   }
  ]
 }
