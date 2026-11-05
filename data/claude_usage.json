@@ -6175,6 +6175,22 @@
    "turns": 11,
    "seconds": 46,
    "cost_usd": 0.1715
+  },
+  {
+   "date": "2026-11-05",
+   "time": "2026-11-05T16:27:39+00:00",
+   "batch": "2026-11-06 03:00",
+   "celebrity": "Michael Cera",
+   "article": "2026-11-06-03-00-michael-cera.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 1062,
+   "cache_read_tokens": 113014,
+   "cache_write_tokens": 21845,
+   "turns": 7,
+   "seconds": 14,
+   "cost_usd": 0.1095
   }
  ]
 }
