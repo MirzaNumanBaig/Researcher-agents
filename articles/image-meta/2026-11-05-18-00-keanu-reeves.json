@@ -1,0 +1,137 @@
+{
+  "timestamp": "2026-11-05T08:15:39.260794+00:00",
+  "article": "2026-11-05-18-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "New John Constantine film gets a writer, separate from an anonymous figure' sequel.",
+    "emotion": "excitement",
+    "setting": "film set",
+    "key_objects": [
+      "script",
+      "DC Studios",
+      "John Constantine",
+      "Francis Galluppi"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "dark blue",
+      "muted red",
+      "dim yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "script",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "script",
+      "DC Studios",
+      "John Constantine",
+      "Francis Galluppi"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark blue",
+      "muted red",
+      "dim yellow"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-12"
+  ],
+  "prompt": "A wide shot of a film set, with a tweed-clad man in his late 40s with thinning dark hair and round glasses and olive skin, seated in a director's chair, leaning forward, elbows on knees, his eyes wide and attentive, his lips just parted, his jaw relaxed, his eyebrows slightly raised, as he gazes up and off-frame right. His head is tilted slightly up, his posture conveying a sense of focus and engagement. His hands hold a paper cup, and his interaction with the surrounding environment is minimal. The script for the new John Constantine film lies open on a table in the foreground, with the DC Studios and the name 'Francis Galluppi' printed on it, while a figurine of John Constantine stands nearby. The midground is occupied by the main subject, and the background is a soft haze with a subtle bokeh effect, hinting at the extensive setup behind the scenes. The light source is the studio lights, casting a warm glow from the side, and the mood is one of excitement, with a palette of dark blue, muted red, and dim yellow. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3542454868,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 140.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 3542454868,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

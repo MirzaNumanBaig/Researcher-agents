@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-05T08:15:18.578132+00:00",
+  "article": "2026-11-05-18-00-kylie-minogue",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure attends an anonymous figure's first Australian runway show in Sydney.",
+    "emotion": "glamorous",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "an anonymous figure bag",
+      "cream cardigan",
+      "black-and-gold chain belt"
+    ],
+    "time_and_light": "afternoon sunlight",
+    "palette": [
+      "cream",
+      "black",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure bag",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "an anonymous figure bag",
+      "cream cardigan",
+      "black-and-gold chain belt"
+    ],
+    "time_of_day": "afternoon sunlight",
+    "light": {
+      "source": "afternoon sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "cream",
+      "black",
+      "gold"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-03"
+  ],
+  "prompt": "A medium-wide shot of a woman in her late 20s with long straight black hair and warm beige skin, captured with a 35mm lens from a slightly high angle, showcases her confident and direct gaze toward the camera as she stands left of centre in the frame. Her smooth and softly arched eyebrows are slightly raised, and her composed soft smile is relaxed, giving her an air of glamour. Her quarter-turned head is raised, and her chin is lifted, with her shoulders back and spine long, conveying a sense of poise. One hand rests on her hip, while the other is free to gesture. She wears a camel trench coat over a cream cardigan, with a black-and-gold chain belt visible at her waist. In the midground, a cream cardigan and an anonymous figure bag are positioned, with a soft haze and bokeh in the background, adding depth to the image. The afternoon sunlight from the side casts a warm glow on her skin, highlighting her natural texture with visible pores and small imperfections. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3694195285,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in a person, lit by afternoon sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 98.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3694195285,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

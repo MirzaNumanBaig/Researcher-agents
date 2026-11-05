@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-05T08:15:52.163738+00:00",
+  "article": "2026-11-05-18-00-jim-carrey",
+  "ai_generated": true,
+  "story_type": "wedding",
+  "analysis": {
+    "story_type": "wedding",
+    "core_event": "an anonymous figure in a private ceremony in Los Angeles.",
+    "emotion": "joyful",
+    "setting": "wedding venue",
+    "key_objects": [
+      "wedding ring",
+      "ceremony flowers",
+      "private ceremony",
+      "Los Angeles"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "soft pink",
+      "ivory",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "wedding ring",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "lifted",
+          "eyes": "bright and crinkled",
+          "mouth": "a wide natural smile",
+          "jaw": "relaxed"
+        },
+        "gaze": "on the other person",
+        "head": "tipped back mid-laugh",
+        "posture": "open chest, loose shoulders",
+        "hands": "one hand in a coat pocket",
+        "interaction": "standing close and facing each other, foreheads almost touching",
+        "clothing": "a formal gown and a dark suit"
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "softened and relaxed",
+          "eyes": "warm, a little crinkled",
+          "mouth": "a small closed-lip smile",
+          "jaw": "loose"
+        },
+        "gaze": "on the other person",
+        "head": "tilted toward them",
+        "posture": "shoulders dropped, leaning in",
+        "hands": "one hand resting on the table edge",
+        "interaction": "standing close and facing each other, foreheads almost touching",
+        "clothing": "a formal gown and a dark suit"
+      }
+    ],
+    "setting": "wedding venue",
+    "props": [
+      "wedding ring",
+      "ceremony flowers",
+      "private ceremony",
+      "Los Angeles"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft pink",
+      "ivory",
+      "gold"
+    ],
+    "mood": "joyful",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-06",
+    "cast-02"
+  ],
+  "prompt": "A wide shot from the side of a wedding venue in Los Angeles, with the warm glow of sunlight casting a soft haze over the scene. A man in his mid 50s with short grey-flecked hair and a beard, wearing a dark green wool jacket, stands with his head tipped back mid-laugh, his eyes bright and crinkled, and a wide natural smile on his face. His gaze is on the other person, his eyebrows lifted, as he has one hand in a coat pocket and his posture is open chest, loose shoulders. Standing close and facing each other, foreheads almost touching, is the second man, a man in his late 30s with short dark greying hair and medium-brown skin, wearing a navy suit, open collar, with his eyebrows softened and relaxed, his eyes warm, a little crinkled, and a small closed-lip smile on his face. The wide shot, captured with a 50mm lens, shows the scene from a side-on view, with the two men centered left of centre, and the setting opening up to the right. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3539638662,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of two mans in wedding venue, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 134.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3539638662,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-11-05T08:14:57.138971+00:00",
+  "article": "2026-11-05-18-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure endorses an anonymous figure as an anonymous figure in upcoming an anonymous figure film.",
+    "emotion": "positive",
+    "setting": "film premiere",
+    "key_objects": [
+      "an anonymous figure costume",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "premiere evening, red carpet lights",
+    "palette": [
+      "red",
+      "black",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure costume",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film premiere",
+    "props": [
+      "an anonymous figure costume",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_of_day": "premiere evening, red carpet lights",
+    "light": {
+      "source": "premiere evening, red carpet lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "red",
+      "black",
+      "silver"
+    ],
+    "mood": "positive",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot of a woman in her mid 30s, captured from the side with a 24mm lens, captures the vibrant atmosphere of a film premiere evening. Her face, with slightly raised eyebrows and a warm smile, is tilted slightly upwards, her eyes crinkled at the corners, and her mouth relaxed in a gentle curve. Her shoulders are slightly relaxed, her posture open, and her left hand rests on the shoulder of a younger woman, her right hand grasping the arm of a third woman, both of whom are dressed in anonymous figure costumes. The three women are standing on the red carpet, surrounded by flashing lights that cast a warm glow on their faces. In the foreground, the red carpet stretches out, lined with photographers and reporters, while in the midground, a sea of glamorous guests mingle and chat. The background is a blur of black and silver decorations, with the occasional flash of colour from a film-themed backdrop. The camera captures the scene with a natural film-like colour and subtle grain, creating a candid editorial news photograph. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1241336428,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film premiere with a person costume and a person, lit by premiere evening, red carpet lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 202.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 1241336428,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

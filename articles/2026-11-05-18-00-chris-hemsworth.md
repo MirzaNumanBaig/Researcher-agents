@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Boxing With His Kids: Full Circle Post"
 seo_description: "Chris Hemsworth boxing with his kids: the Thor star shared Instagram photos and said training with his own dad shaped his fondest childhood memories."
 focus_keyword: "Chris Hemsworth boxing kids"
 permalink: "chris-hemsworth-boxing-kids"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-05 18:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,14 @@ image_prompt: "An empty boxing gym in warm afternoon light, with hanging heavy b
 sources:
   - "https://www.lokmattimes.com/entertainment/chris-hemsworth-relives-childhood-memories-trains-kids-like-his-father-did-a001-w02/"
   - "https://www.socialnews.xyz/2026/11/04/chris-hemsworth-relives-childhood-memories-with-father-as-he-enjoys-training-sessions-with-his-own-kids/"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-05-18-00-chris-hemsworth.webp"
+wp_media_id: 1585
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-05-18-00-chris-hemsworth-768x432.webp"
+wp_id: 1586
+wp_link: "https://moduscarry.com/chris-hemsworth-boxing-kids/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
