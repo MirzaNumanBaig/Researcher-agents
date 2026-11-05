@@ -22,6 +22,7 @@ wp_id: 1576
 wp_link: "https://moduscarry.com/chris-hemsworth-mad-max/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
