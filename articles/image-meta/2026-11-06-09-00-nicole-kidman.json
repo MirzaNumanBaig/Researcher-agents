@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-05T23:08:05.599456+00:00",
+  "article": "2026-11-06-09-00-nicole-kidman",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure introduced an anonymous figure at an anonymous figure's Sydney after-party.",
+    "emotion": "glamorous",
+    "setting": "harbourside after-party",
+    "key_objects": [
+      "an anonymous figure runway show",
+      "an anonymous figure performance",
+      "an anonymous figure on stage",
+      "an anonymous figure introduction"
+    ],
+    "time_and_light": "evening, twinkling harbour lights",
+    "palette": [
+      "black",
+      "white",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure runway show",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "harbourside after-party",
+    "props": [
+      "an anonymous figure runway show",
+      "an anonymous figure performance",
+      "an anonymous figure on stage",
+      "an anonymous figure introduction"
+    ],
+    "time_of_day": "evening, twinkling harbour lights",
+    "light": {
+      "source": "evening, twinkling harbour lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "white",
+      "gold"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-09"
+  ],
+  "prompt": "A medium shot of a woman in her late 50s with short wavy white hair and pale skin stands confidently to the left of centre, her quarter-turned head and raised chin showcasing her smooth and softly arched eyebrows and confident, direct eyes that gaze toward the camera. Her mouth curves into a composed soft smile, and her lifted jaw gives her an air of poise. Her shoulders are back, and her spine is long, exuding a sense of authority, as one hand rests on her hip. She wears a pearl-grey silk blouse that complements her sophisticated style. To her right, the harbour lights twinkle, casting a warm glow on the soft haze and bokeh of the background, where a few revelers can be seen dancing to an anonymous figure performance on stage, surrounded by a subtle backdrop of an anonymous figure runway show. A low stage with an anonymous figure introduction set up in the distance adds to the glamour of the evening. The overall mood is one of glamour and sophistication, with a colour palette of black, white, and gold that adds to the luxurious feel of the evening. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2873072626,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in harbourside after-party, lit by evening, twinkling harbour lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 124.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2873072626,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

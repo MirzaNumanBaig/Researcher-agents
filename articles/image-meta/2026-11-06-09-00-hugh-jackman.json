@@ -1,0 +1,145 @@
+{
+  "timestamp": "2026-11-05T23:09:11.442108+00:00",
+  "article": "2026-11-06-09-00-hugh-jackman",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "The the figure joins HBO Max and the figure the the figure",
+    "emotion": "success",
+    "setting": "streaming service",
+    "key_objects": [
+      "The the figure",
+      "HBO Max",
+      "FlixPatrol chart"
+    ],
+    "time_and_light": "daytime, streaming lights",
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "The the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "streaming service",
+    "props": [
+      "The the figure",
+      "HBO Max",
+      "FlixPatrol chart"
+    ],
+    "time_of_day": "daytime, streaming lights",
+    "light": {
+      "source": "daytime, streaming lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "mood": "success",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-03"
+  ],
+  "prompt": "A medium-wide shot, taken from a slightly high angle with a 35mm lens, captures the main subject, a woman in her late 20s, standing left of centre in a spacious streaming service office, surrounded by modern furniture and screens displaying the figure and graphs. The woman has long straight black hair and warm beige skin, and she wears a camel trench coat that complements her earthy tones. Her facial expression is one of slight curiosity, with her eyebrows raised, her eyes wide and attentive, her lips just parted, and her jaw relaxed. She gazes up and off-frame right, her head tilted slightly up, as she leans forward, elbows on knees, her posture conveying a sense of enthusiasm. Her hands hold a paper cup, and her interaction with the space is one of calm focus. To her right, the HBO Max glows softly on a screen, while a FlixPatrol chart hangs on the wall, its figures and graphs a testament to her success. Soft haze and bokeh in the background blur create a sense of depth, while the overall mood of the scene is one of success and achievement. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 4064197402,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in streaming service, lit by daytime, streaming lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 119.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 4064197402,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

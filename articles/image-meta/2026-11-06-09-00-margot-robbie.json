@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-05T23:08:18.520669+00:00",
+  "article": "2026-11-06-09-00-margot-robbie",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure wore a the figure bob to an anonymous figure's an anonymous figure the figure",
+    "emotion": "fashionable",
+    "setting": "fashion the figure",
+    "key_objects": [
+      "the figure bob",
+      "sheer white dress",
+      "black heels",
+      "black bag"
+    ],
+    "time_and_light": "afternoon, natural light",
+    "palette": [
+      "blonde",
+      "white",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure bob",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "fashion the figure",
+    "props": [
+      "the figure bob",
+      "sheer white dress",
+      "black heels",
+      "black bag"
+    ],
+    "time_of_day": "afternoon, natural light",
+    "light": {
+      "source": "afternoon, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blonde",
+      "white",
+      "black"
+    ],
+    "mood": "fashionable",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05"
+  ],
+  "prompt": "A medium shot, taken from a slightly low angle, captures the woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, who stands confidently in a lavish fashion studio. Her smooth and softly arched eyebrows are raised slightly, her confident and direct brown eyes gaze directly toward the camera, and a composed soft smile plays on her lips, her jaw lifted in a gentle expression of elegance. Her quarter-turned head is raised, her chin held high, and her shoulders are back, her posture conveying a sense of poise and refinement. One hand rests elegantly on her hip, her fingers relaxed and still. Behind her, a sheer white dress hangs on a mannequin, black heels and a black bag sit on a nearby pedestal, and the figure \"Bob\" stands proudly in the foreground, its curves and lines a testament to the art of fashion. The woman's midnight-blue gown catches the light, its fabric shimmering subtly as she poses, exuding an air of fashionable sophistication. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2783916558,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in fashion a person, lit by afternoon, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 103.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2783916558,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

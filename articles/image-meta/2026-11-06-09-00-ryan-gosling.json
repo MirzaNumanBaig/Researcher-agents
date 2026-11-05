@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-05T23:07:38.959046+00:00",
+  "article": "2026-11-06-09-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure's 2016 film The the figure the figure the figure the figure TV the figure ten years after release.",
+    "emotion": "nostalgic success",
+    "setting": "streaming service",
+    "key_objects": [
+      "The the figure the figure",
+      "the figure TV",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "gold",
+      "brown"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "The the figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "streaming service",
+    "props": [
+      "The the figure the figure",
+      "the figure TV",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gold",
+      "brown"
+    ],
+    "mood": "nostalgic success",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-10"
+  ],
+  "prompt": "A medium shot, slightly low angle, 85mm lens captures a man in his early 30s with medium-length wavy auburn hair and light skin, wearing a cream cable-knit sweater, his facial expression characterized by slightly raised eyebrows, wide and attentive eyes, lips just parted, and a relaxed jaw. His gaze is directed up and off-frame right, and his head is tilted slightly up, as he leans forward, elbows on knees, his posture conveying a sense of engagement. His hands are holding a paper cup, and he's situated left of centre in the frame, with the streaming service setting opening up to the right. In the foreground, 'The the figure the figure' is visible, with 'the figure TV' and two 'anonymous figures' forming the midground, and a soft haze and bokeh in the background. The sunlight streams in from the side, casting a warm glow over the scene, and the overall mood is one of nostalgic success, evoked by the blue, gold, and brown colour palette. The light source is daytime sunlight, and the direction is from the side. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1467387957,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in streaming service, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 159.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1467387957,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

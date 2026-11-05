@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-05T23:08:38.077982+00:00",
+  "article": "2026-11-06-09-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure an anonymous figure",
+    "emotion": "action",
+    "setting": "the figure set",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "animation",
+      "Impossible Task"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "dark grey",
+      "blood red",
+      "gunmetal"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "the figure set",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "animation",
+      "Impossible Task"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark grey",
+      "blood red",
+      "gunmetal"
+    ],
+    "mood": "action",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-11"
+  ],
+  "prompt": "A medium-wide shot, three-quarter view, of the studio, taken the figure a 35mm lens, captures the woman, a woman in her mid 30s the figure a high dark-blonde ponytail and sun-warmed tan skin, the figure her facial expression showing slightly raised eyebrows, wide and attentive eyes, lips just parted, and a relaxed jaw. Her gaze is directed up and off-frame right, and her head is tilted slightly up. Her posture is leaning forward, elbows on knees, and her hands are holding a paper cup. She is situated to the left of centre in the frame, the figure the setting of the figure set opening up to the right, featuring an anonymous figure, an anonymous figure, animation, and Impossible Task in the background. Soft haze and bokeh blur the midground, drawing the viewer's attention to the woman. The studio lights, the primary source of light, shine from the side, casting a dynamic shadow across her face. The woman's ivory jumpsuit contrasts the figure the dark tones of the setting, drawing the viewer's eye to her. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2704023367,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in a person set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 77.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2704023367,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
