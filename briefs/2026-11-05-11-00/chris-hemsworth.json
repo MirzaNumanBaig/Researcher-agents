@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-05 11:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "In 2010, Chris Hemsworth auditioned to play Mad Max. 14 years later, he stole an entire movie from the franchise",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZREZUODFqUjdRamZtTEpDdEt6Q3JIR213UUFUZEpseTBrdnB2V1MxNzZGdXliSkZuU29mMFNkcV9maDVaX3RWTFhNLU5OeVdPYlJCdlNnVFN2NDdGaURRYUxRUkI4OVhNZC0yV01IMWxMMDc5aUg1cEczeHljY0E?oc=5",
+      "published": "2026-11-04T22:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZREZUODFqUjdRamZtTEpDdEt6Q3JIR213UUFUZEpseTBrdnB2V1MxNzZGdXliSkZuU29mMFNkcV9maDVaX3RWTFhNLU5OeVdPYlJCdlNnVFN2NDdGaURRYUxRUkI4OVhNZC0yV01IMWxMMDc5aUg1cEczeHljY0E?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/2010-chris-hemsworth-auditioned-play-mad-max/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/01/Chris-Hemsworth-Actor-2024-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/01/Chris-Hemsworth-Actor-2024-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/2010-chris-hemsworth-auditioned-play-mad-max/"
+    }
+  ]
+}
