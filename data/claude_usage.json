@@ -5967,6 +5967,22 @@
    "turns": 7,
    "seconds": 21,
    "cost_usd": 0.0992
+  },
+  {
+   "date": "2026-11-05",
+   "time": "2026-11-05T08:09:50+00:00",
+   "batch": "2026-11-05 18:00",
+   "celebrity": "Rebel Wilson",
+   "article": "2026-11-05-18-00-rebel-wilson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 1813,
+   "cache_read_tokens": 228237,
+   "cache_write_tokens": 24265,
+   "turns": 11,
+   "seconds": 24,
+   "cost_usd": 0.1382
   }
  ]
 }
