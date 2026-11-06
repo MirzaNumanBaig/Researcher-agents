@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Vancouver Island Home: Autumn Video"
 seo_description: "Pamela Anderson shows her Vancouver Island home in a calm autumn Instagram video, from her dogs and garden to a lakeside walk. See what she shared."
 focus_keyword: "Pamela Anderson Vancouver Island home"
 permalink: "pamela-anderson-vancouver-island-home"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-06 14:00"
 celebrity: "Pamela Anderson"
@@ -14,6 +14,14 @@ tags: ["Pamela Anderson"]
 image_prompt: "A rainy autumn morning over a quiet lakeside garden with a wooden dock, a pine tree and pink roses in bloom."
 sources:
   - "https://www.geo.tv/latest/689972-pamela-anderson-shares-autumn-glimpse-of-vancouver-island-home"
+image_alt: "Illustration of private estate with dogs and garden, lit by rainy morning."
+image: "images/2026-11-06-14-00-pamela-anderson.webp"
+wp_media_id: 1649
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-14-00-pamela-anderson-768x432.webp"
+wp_id: 1650
+wp_link: "https://moduscarry.com/pamela-anderson-vancouver-island-home/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

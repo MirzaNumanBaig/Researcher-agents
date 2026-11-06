@@ -5,7 +5,7 @@ seo_title: "Beetlejuice 3 Chances After Catherine O'Hara's Death"
 seo_description: "Beetlejuice 3 looks unlikely, say the sequel's writers, who call a third film harder after Catherine O'Hara's death. Here is what they said."
 focus_keyword: "Beetlejuice 3"
 permalink: "beetlejuice-3-chances"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-06 14:00"
 celebrity: "Catherine O'Hara"
@@ -14,6 +14,14 @@ tags: ["Catherine O'Hara", "Beetlejuice 3", "Tim Burton", "Beetlejuice Beetlejui
 image_prompt: "An empty vintage cinema at night with a single spotlight on the stage and a haunted-house model glowing under the screen."
 sources:
   - "https://bloody-disgusting.com/movie/3974906/beetlejuice-3-plans-chances-catherine-o-hara-writers/"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-06-14-00-catherine-o-hara.webp"
+wp_media_id: 1639
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-14-00-catherine-o-hara-768x432.webp"
+wp_id: 1640
+wp_link: "https://moduscarry.com/beetlejuice-3-chances/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

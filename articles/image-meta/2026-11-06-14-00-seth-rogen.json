@@ -1,0 +1,146 @@
+{
+  "timestamp": "2026-11-06T03:32:21.018945+00:00",
+  "article": "2026-11-06-14-00-seth-rogen",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure the figure his failed the figure for HBO's the figure of the figure",
+    "emotion": "humorous",
+    "setting": "the figure room",
+    "key_objects": [
+      "Stussy T-shirt",
+      "cut cargo shorts",
+      "Airwalks",
+      "military uniforms"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "beige",
+      "khaki",
+      "navy blue"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Stussy T-shirt",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "the figure room",
+    "props": [
+      "Stussy T-shirt",
+      "cut cargo shorts",
+      "Airwalks",
+      "military uniforms"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "beige",
+      "khaki",
+      "navy blue"
+    ],
+    "mood": "humorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-12",
+    "cast-04"
+  ],
+  "prompt": "A medium-wide shot, taken from an eye-level position, captures the humorous scene unfolding in the figure room. The first man, a man in his late 40s with thinning dark hair and round glasses, sits with his olive skin partially hidden beneath a tweed blazer. His eyebrows are drawn up gently at the centre, his unfocused and distant eyes gazing off-frame toward a window as his lips just close over his mouth. His jaw is soft, and his head is resting slightly back, his shoulders low as he leans into a relaxed posture. His hands are wrapped around a mug, the fingers not quite visible. He is seated at an angle to the second man across a low table, creating a sense of distance and subtle tension between them. The second man, a man in his mid 20s with tousled sandy-blond hair and fair skin, is dressed in a slim black suit. The beige, khaki, and navy blue colour palette adds to the humorous and lighthearted atmosphere of the scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: 339 words (needs 90-200)"
+  ],
+  "seed": 1042456839,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of two mans in a person room, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 112.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1042456839,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

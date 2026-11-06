@@ -1,0 +1,137 @@
+{
+  "timestamp": "2026-11-06T03:32:40.687528+00:00",
+  "article": "2026-11-06-14-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "A new VR the figure, an anonymous figure: Journey Among the Stars, the figure the figure the figure as the figure Grace.",
+    "emotion": "excitement",
+    "setting": "space",
+    "key_objects": [
+      "VR headset",
+      "space ship",
+      "the figure Grace's character",
+      "Rocky's alien companion"
+    ],
+    "time_and_light": "daytime",
+    "palette": [
+      "blue",
+      "gray",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "VR headset",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "space",
+    "props": [
+      "VR headset",
+      "space ship",
+      "the figure Grace's character",
+      "Rocky's alien companion"
+    ],
+    "time_of_day": "daytime",
+    "light": {
+      "source": "daytime",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "black"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-06"
+  ],
+  "prompt": "A wide shot, taken from a side-on view, captures the excitement of the moment as a man in his mid 50s with short grey-flecked hair and a beard and tan skin leans forward, elbows on knees, his slightly raised eyebrows and wide, attentive eyes fixed on something out of frame to the right. His lips are just parted, and his relaxed jawline gives him a sense of calm focus. He's dressed in a dark green wool jacket, and his hands cradle a paper cup, his fingers wrapped gently around it. To his right, the vastness of space stretches out, a soft haze and bokeh effect blurring the distant stars and planets. A sleek space ship looms in the background, its metallic surface reflecting the bright, day-time light that pours in from the side. The VR headset on the floor in front of him seems to be the source of his fascination, and beside it, Rocky's alien companion watches with an unblinking gaze. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2487844419,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in space, lit by daytime.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 115.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 2487844419,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

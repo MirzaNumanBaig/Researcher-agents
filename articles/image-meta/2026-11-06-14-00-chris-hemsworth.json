@@ -1,0 +1,157 @@
+{
+  "timestamp": "2026-11-06T03:34:31.279052+00:00",
+  "article": "2026-11-06-14-00-chris-hemsworth",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure to visit Korea for Avengers: Doomsday promotional events",
+    "emotion": "excitement",
+    "setting": "red carpet",
+    "key_objects": [
+      "an anonymous figure",
+      "the figure Evans",
+      "Kevin Feige",
+      "Avengers: Doomsday",
+      "press conference"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "red",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "red carpet",
+    "props": [
+      "an anonymous figure",
+      "the figure Evans",
+      "Kevin Feige",
+      "Avengers: Doomsday"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "red",
+      "gold"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Over-the-shoulder shot, 24mm lens, tilted angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "template",
+  "prompt_notes": [],
+  "seed": 2556475788,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of red carpet with a person and a person Evans, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 216.4
+  },
+  "fallback": "symbolic",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 2556475788,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre",
+      "fallback": "symbolic"
+    }
+  ]
+}

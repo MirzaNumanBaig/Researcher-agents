@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-06T03:33:41.454651+00:00",
+  "article": "2026-11-06-14-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "tribute",
+  "analysis": {
+    "story_type": "tribute",
+    "core_event": "an anonymous figure gives a speech at the Hollywood Walk of Fame ceremony for the figure the figure and Robin Roberts.",
+    "emotion": "heartwarming",
+    "setting": "red carpet",
+    "key_objects": [
+      "Hollywood Walk of Fame",
+      "the figure the figure",
+      "Robin Roberts",
+      "an anonymous figure",
+      "Sam Fox"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "gold",
+      "black",
+      "navy"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Hollywood Walk of Fame",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "red carpet",
+    "props": [
+      "Hollywood Walk of Fame",
+      "the figure the figure",
+      "Robin Roberts",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "gold",
+      "black",
+      "navy"
+    ],
+    "mood": "heartwarming",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot from directly above, taken with a 24mm lens, shows an empty, intricately designed wooden chair, its ornate carvings reflecting the warm, golden light of the setting sun that pours through the large, stained glass window behind it. The chair sits atop a polished, dark wood floor, its legs slightly apart, giving a sense of balance and stability. The wooden slats of the chair are a rich, dark brown, complemented by the vibrant colours of the stained glass window, which depicts a scene of golden stars and navy blue night sky. A single, unlit candelabra sits on the armrest of the chair, its black metalwork a stark contrast to the warm, golden tones of the room. The overall effect is one of calm, serenity, and quiet reflection. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3818325388,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 218.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3818325388,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

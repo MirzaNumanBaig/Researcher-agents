@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Korea Visit: Avengers: Doomsday Dec. 7"
 seo_description: "Chris Hemsworth Korea visit confirmed: Thor star joins Chris Evans and Kevin Feige on Dec. 7 for Avengers: Doomsday events. Here are the details."
 focus_keyword: "Chris Hemsworth Korea visit"
 permalink: "chris-hemsworth-korea-visit"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-06 14:00"
 celebrity: "Chris Hemsworth"
@@ -16,6 +16,14 @@ sources:
   - "https://biz.chosun.com/en/en-entertainment/2026/11/06/KAF2CX2VT5AJRA3IUDSURFB6TI/"
   - "https://www.cineplay.co.kr/en-us/articles/30668"
   - "https://www.mt.co.kr/en/entertainment/2026/11/06/2026110608161626615"
+image_alt: "Illustration of red carpet with a person and a person Evans, lit by daytime, studio lights."
+image: "images/2026-11-06-14-00-chris-hemsworth.webp"
+wp_media_id: 1641
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-14-00-chris-hemsworth-768x432.webp"
+wp_id: 1642
+wp_link: "https://moduscarry.com/chris-hemsworth-korea-visit/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

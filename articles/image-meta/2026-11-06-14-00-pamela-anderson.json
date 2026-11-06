@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-06T03:32:53.748471+00:00",
+  "article": "2026-11-06-14-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure the figure a glimpse of her the figure the figure on Vancouver the figure.",
+    "emotion": "peaceful",
+    "setting": "private estate",
+    "key_objects": [
+      "dogs",
+      "garden",
+      "lake dock",
+      "book",
+      "wild ground cherries"
+    ],
+    "time_and_light": "rainy morning",
+    "palette": [
+      "green",
+      "orange",
+      "pink"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "dogs",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "private estate",
+    "props": [
+      "dogs",
+      "garden",
+      "lake dock",
+      "book"
+    ],
+    "time_of_day": "rainy morning",
+    "light": {
+      "source": "rainy morning",
+      "direction": "from the side"
+    },
+    "palette": [
+      "green",
+      "orange",
+      "pink"
+    ],
+    "mood": "peaceful",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of an anonymous figure standing alone on the rain-soaked lake dock, the worn wooden planks glistening with a fine sheen; her face is tilted slightly upwards, a subtle crease between her eyebrows, her eyes narrowed to squint against the gentle rain, her mouth set in a gentle, introspective line, her gaze drifting out across the still, grey waters of the lake. Her shoulders are relaxed, her posture open, her hands tucked into the pockets of her worn, olive-green raincoat, her weight evenly distributed on both feet, her distance the figure the camera measured and deliberate. She wears a faded, cream-coloured sweater, a pair of well-worn jeans, and a wide-brimmed straw hat, its canvas band soaked through, a bright orange life jacket slung over her shoulder. The garden behind her is a lush tangle of greenery, the wild ground cherries bursting with ripe, pink fruit, their branches tangled with the delicate white blooms of a nearby flowering shrub. The image is shot in a candid, documentary style, with a natural, film-like colour and subtle grain, capturing the quiet, reflective moment with a sense of intimacy and honesty. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 480903991,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of private estate with dogs and garden, lit by rainy morning.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 219.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 480903991,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
