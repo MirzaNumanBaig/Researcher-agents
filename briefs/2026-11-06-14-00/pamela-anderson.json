@@ -1,0 +1,42 @@
+{
+  "batch": "2026-11-06 14:00",
+  "celebrity": "Pamela Anderson",
+  "stories": [
+    {
+      "title": "Video: Pamela Anderson shows off idyllic life",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONlcyZDJ1bkp4ekwybXpOOWVldmdIc3FQeWx3UENTSHp0bG1McHRNVWozU0NpaDlUSkJrc3BzU1FZUzNxdlM5dTVLZzNQZ3JLZ05sS3k4MUZkUW40MWdvUzkwZ2lxUmtHZm9OaS0yUE0ta01oX3FrMlgzNWg0MDdIS1E2MjVKMVVfQWoyT3ZDY1Z2anJFYllmczVHOA?oc=5",
+      "published": "2026-11-06T02:40:50+00:00",
+      "outlets": [
+        {
+          "source": "Daily Mail",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONlcyZDJ1bkp4ekwybXpOOWVldmdIc3FQeWx3UENTSHp0bG1McHRNVWozU0NpaDlUSkJrc3BzU1FZUzNxdlM5dTVLZzNQZ3JLZ05sS3k4MUZkUW40MWdvUzkwZ2lxUmtHZm9OaS0yUE0ta01oX3FrMlgzNWg0MDdIS1E2MjVKMVVfQWoyT3ZDY1Z2anJFYllmczVHOA?oc=5",
+          "article_url": "https://www.dailymail.com/video/tvshowbiz/video-3738843/Pamela-Anderson-shows-idyllic-life.html",
+          "image": "https://i.dailymail.com/1s/2026/11/06/02/1793933000728_7853095460124874.jpg"
+        }
+      ],
+      "image": "https://i.dailymail.com/1s/2026/11/06/02/1793933000728_7853095460124874.jpg",
+      "image_source": "https://www.dailymail.com/video/tvshowbiz/video-3738843/Pamela-Anderson-shows-idyllic-life.html"
+    },
+    {
+      "title": "Pamela Anderson shares Autumn glimpse of Vancouver Island home",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0ZUd0RXSm5wVWJNVlZ0WklsWE1xMi1wX3VNUVFfb0R4R0otS0dpLUxZMkhGTlRTWGxuX0tmNmJMRE8tdWY0Z281NmswWlVvUnJZV2ZTdDU2RzlLS0J5OU12X0xWX0dkWmx2Ni1BWi1CQmFGa19oTTZFNV8wcmo1VktXMV8wWDU5eV9ZVURub1FCU0VDV0o3dno5OA?oc=5",
+      "published": "2026-11-06T01:07:00+00:00",
+      "outlets": [
+        {
+          "source": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0ZUd0RXSm5wVWJNVlZ0WklsWE1xMi1wX3VNUVFfb0R4R0otS0dpLUxZMkhGTlRTWGxuX0tmNmJMRE8tdWY0Z281NmswWlVvUnJZV2ZTdDU2RzlLS0J5OU12X0xWX0dkWmx2Ni1BWi1CQmFGa19oTTZFNV8wcmo1VktXMV8wWDU5eV9ZVURub1FCU0VDV0o3dno5OA?oc=5",
+          "article_url": "https://www.geo.tv/latest/689972-pamela-anderson-shares-autumn-glimpse-of-vancouver-island-home",
+          "image": "https://www.geo.tv/assets/uploads/updates/2026-11-06/689972_060004_updates.jpg"
+        },
+        {
+          "source": "People.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTm5aX2RIcjlZOUNQSjZodzJuTXhpWXh2WVN1ZTY4bmVqbXFkaWo4QmhqVUJfa3dCVmdoVWx6aDdzVDlMZ19Gd2tmcFdJVlhjTU1WazE5T1Z1TEp6bWxESnc4amxPdUhtSGJvMDhRLWdEV0lQUVl2UkZhdGxGQ2k5MkY4dXhHMVVhUXlkbWZxaHhXWnQtM1FfUkhHSlZEZW05bF8yZjN6a2JsMXlMV0pRa0N4R2pWU2Q1NlJOWGo0Ml9Nd3djQ21raQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-11-06/689972_060004_updates.jpg",
+      "image_source": "https://www.geo.tv/latest/689972-pamela-anderson-shares-autumn-glimpse-of-vancouver-island-home"
+    }
+  ]
+}
