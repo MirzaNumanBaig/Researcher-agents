@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T19:22:14.167326+00:00",
+  "timestamp": "2026-11-06T21:34:41.046019+00:00",
   "article": "2026-11-07-05-00-chris-hemsworth",
   "ai_generated": true,
   "story_type": "film_release",
@@ -12,13 +12,13 @@
       "stunt performers",
       "Hollywood blockbuster",
       "Thor star",
-      "stunt doubles"
+      "community gym"
     ],
     "time_and_light": "daytime, studio lights",
     "palette": [
       "bright blue",
-      "silver",
-      "black"
+      "deep red",
+      "silver"
     ],
     "sensitivity": "safe",
     "source": "llm"
@@ -61,7 +61,7 @@
       "stunt performers",
       "Hollywood blockbuster",
       "Thor star",
-      "stunt doubles"
+      "community gym"
     ],
     "time_of_day": "daytime, studio lights",
     "light": {
@@ -70,17 +70,17 @@
     },
     "palette": [
       "bright blue",
-      "silver",
-      "black"
+      "deep red",
+      "silver"
     ],
     "mood": "excitement",
     "source": "template"
   },
   "stand_ins": [],
-  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Overhead shot, 35mm lens, high angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Overhead shot, 24mm lens, from behind, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "prompt_source": "template",
   "prompt_notes": [],
-  "seed": 565264929,
+  "seed": 269695293,
   "seed_supported": true,
   "model": "@cf/black-forest-labs/flux-2-klein-4b",
   "preset": "candid_news_photo",
@@ -103,7 +103,7 @@
     ],
     "format": "webp",
     "ext": "webp",
-    "kb": 170.1
+    "kb": 159.6
   },
   "fallback": "symbolic",
   "ok": true,
@@ -140,7 +140,7 @@
       "vision_skipped": ""
     },
     {
-      "seed": 565264929,
+      "seed": 269695293,
       "raw_size": [
         1024,
         576

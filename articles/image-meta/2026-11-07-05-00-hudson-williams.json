@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-06T19:21:31.736516+00:00",
+  "timestamp": "2026-11-06T21:33:53.815193+00:00",
   "article": "2026-11-07-05-00-hudson-williams",
   "ai_generated": true,
   "story_type": "fashion",
   "analysis": {
     "story_type": "fashion",
-    "core_event": "an anonymous figure poses in the figure for a possible Savage X Fenty campaign",
+    "core_event": "an anonymous figure' the figure the figure sparks speculation",
     "emotion": "sizzling",
     "setting": "fire escape",
     "key_objects": [
@@ -75,12 +75,12 @@
     "source": "template"
   },
   "stand_ins": [
-    "cast-09"
+    "cast-07"
   ],
-  "prompt": "A medium-wide shot of the woman in her late 50s, standing left of centre on a fire escape, with her quarter-turned face and raised chin radiating confidence as she gazes directly toward the camera. Her smooth and softly arched eyebrows frame her confident and direct eyes, complemented by a composed soft smile and a lifted jawline. Her pearl-grey silk blouse flows gently around her body, accentuating her shoulders back and spine long posture. One hand rests on her hip, while her body is relaxed, with no visible tension. The black boxer briefs and red piping of the fire escape create a striking contrast with her attire, as the soft haze and bokeh of the background subtly blend into the scene. A 35mm lens captures the subject from a three-quarter view, emphasizing her curves and posing. The natural light from the side casts a warm glow on her pale skin, revealing visible pores and small imperfections. The mood is sizzling, with a palette of black, red, and gray dominating the scene. No text, no logos, no watermark.",
+  "prompt": "A medium-wide shot of the woman in her early 20s, her loose curly dark brown hair partially escaping from beneath her blush pink satin gown, falls down her rich brown skin like a waterfall of night. Her smooth and softly arched eyebrows are set in a confident and direct gaze, as if she's unwaveringly asserting her presence. A composed soft smile plays on her lips, while her jaw is lifted slightly, giving her a sense of quiet determination. Her quarter-turned head is tilted toward the lens, her chin raised in a subtle challenge. Her shoulders are back, her spine long and powerful, as if she's about to take on the world. One hand rests on her hip, the other is free, but her entire being seems to be radiating a sense of unapologetic self-assurance. Shot on a full-frame camera, the natural skin texture of the woman's rich brown skin is visible, with every pore and small imperfection shining through in the warm, golden light of daytime. No text, no logos, no watermark.",
   "prompt_source": "llm",
   "prompt_notes": [],
-  "seed": 1867649036,
+  "seed": 1940257221,
   "seed_supported": true,
   "model": "@cf/black-forest-labs/flux-2-klein-4b",
   "preset": "candid_news_photo",
@@ -103,14 +103,14 @@
     ],
     "format": "webp",
     "ext": "webp",
-    "kb": 139.5
+    "kb": 79.8
   },
   "fallback": "",
   "ok": true,
   "error": "",
   "quality": [
     {
-      "seed": 1867649036,
+      "seed": 1940257221,
       "raw_size": [
         1024,
         576

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T19:20:52.845709+00:00",
+  "timestamp": "2026-11-06T21:33:30.636851+00:00",
   "article": "2026-11-07-05-00-pamela-anderson",
   "ai_generated": true,
   "story_type": "reality_tv",
@@ -17,9 +17,9 @@
     ],
     "time_and_light": "sunrise",
     "palette": [
-      "green",
-      "blue",
-      "beige"
+      "soft green",
+      "warm beige",
+      "calming blue"
     ],
     "sensitivity": "safe",
     "source": "llm"
@@ -86,25 +86,25 @@
       "direction": "from the side"
     },
     "palette": [
-      "green",
-      "blue",
-      "beige"
+      "soft green",
+      "warm beige",
+      "calming blue"
     ],
     "mood": "peaceful",
     "source": "template"
   },
   "stand_ins": [
-    "cast-05",
-    "cast-06"
+    "cast-11",
+    "cast-03"
   ],
-  "prompt": "A medium shot from slightly low angle, captured with an 85mm lens, of the woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, sitting on a worn leather sofa in the peaceful private estate, her burgundy blazer a rich contrast to the beige of the surrounding walls. Her eyebrows are drawn up gently at the centre, her unfocused and distant eyes gazing off-frame toward a window where the gentle light of the sunrise from the side casts a warm glow on the garden below. Her lips are just closed, and her jaw is soft, her head resting slightly back against the sofa cushion. Her shoulders are low, and her hands are wrapped around a mug, her fingers curled around the handle. The garden stretches out before them, a vibrant tapestry of green and blue flowers, the soft haze and bokeh of the background blurring the dock and the dog in the distance, lost in the gentle morning light. No text, no logos, no watermark.",
+  "prompt": "A medium-wide shot from the left, captured with a three-quarter view, 85mm lens, of two women sitting on a sofa, situated left of centre in a tranquil private estate setting. The first woman, in her mid 30s, has a high dark-blonde ponytail and sun-warmed tan skin, wearing an ivory jumpsuit. Her eyebrows are drawn up gently at the centre, her unfocused and distant eyes gaze off-frame toward a window, her lips are just closed, and her jaw is soft. Her head is resting slightly back, her shoulders are low, and her hands are wrapped around a mug. The second woman, in her late 20s, has long straight black hair and warm beige skin, wearing a cropped denim jacket. Her eyebrows are lowered and drawn together, her narrowed and steady eyes are fixed straight at the first woman, her lips are in a thin line, and her jaw is clenched. Her head is level and rigid, her shoulders are squared, and her arms are folded. The mood is peaceful, and the colour palette features soft greens, warm beiges, and calming blues. No text, no logos, no watermark.",
   "prompt_source": "llm",
   "prompt_notes": [],
-  "seed": 3254229708,
+  "seed": 2478558689,
   "seed_supported": true,
   "model": "@cf/black-forest-labs/flux-2-klein-4b",
   "preset": "candid_news_photo",
-  "alt": "Illustration of a woman and a man in private estate, lit by sunrise.",
+  "alt": "Illustration of two womans in private estate, lit by sunrise.",
   "caption": "",
   "finish": {
     "raw_size": [
@@ -123,14 +123,14 @@
     ],
     "format": "webp",
     "ext": "webp",
-    "kb": 95.1
+    "kb": 125.4
   },
   "fallback": "",
   "ok": true,
   "error": "",
   "quality": [
     {
-      "seed": 3254229708,
+      "seed": 2478558689,
       "raw_size": [
         1024,
         576
