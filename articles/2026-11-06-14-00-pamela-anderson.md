@@ -22,6 +22,7 @@ wp_id: 1650
 wp_link: "https://moduscarry.com/pamela-anderson-vancouver-island-home/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
