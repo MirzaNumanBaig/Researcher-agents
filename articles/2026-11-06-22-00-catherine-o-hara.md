@@ -5,7 +5,7 @@ seo_title: "Catherine O'Hara Beetlejuice 3: Writers Admit It's Harder"
 seo_description: "Catherine O'Hara's death makes Beetlejuice 3 harder to write, say the sequel's writers, who add that any new film is up to Tim Burton."
 focus_keyword: "Catherine O'Hara Beetlejuice 3"
 permalink: "catherine-ohara-beetlejuice-3"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-06 22:00"
 celebrity: "Catherine O'Hara"
@@ -14,6 +14,14 @@ tags: ["Catherine O'Hara", "Beetlejuice", "Tim Burton", "Michael Keaton", "Winon
 image_prompt: "An empty vintage cinema at night, a single spotlight on a velvet seat, faint green mist drifting across the aisle."
 sources:
   - "https://www.cbr.com/beetlejuice-3-writers-update/"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-06-22-00-catherine-o-hara.webp"
+wp_media_id: 1657
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-22-00-catherine-o-hara-768x432.webp"
+wp_id: 1658
+wp_link: "https://moduscarry.com/catherine-ohara-beetlejuice-3/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

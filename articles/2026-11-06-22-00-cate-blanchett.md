@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Harper's Bazaar Award: Theatre Actress Win"
 seo_description: "Cate Blanchett won the Harper's Bazaar Theatre Actress award for Electra/Persona in London. See the winners, her gown and her Tokyo pitch to Kōji Yakusho."
 focus_keyword: "Cate Blanchett Harper's Bazaar Award"
 permalink: "cate-blanchett-harpers-bazaar-award"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-06 22:00"
 celebrity: "Cate Blanchett"
@@ -16,6 +16,14 @@ sources:
   - "https://spectrumfm.net/harpers-bazaar-awards/"
   - "https://www.redcarpet-fashionawards.com/2026/11/05/cate-blanchett-steps-into-mary-katrantzous-fantasy-world/"
   - "https://www.netflixjunkie.com/hollywood-news-when-are-we-gonna-work-together-cate-blanchett-pitches-a-collaboration-with-koji-yakusho/amp/"
+image_alt: "Illustration of a man in a person, lit by evening, spotlights."
+image: "images/2026-11-06-22-00-cate-blanchett.webp"
+wp_media_id: 1655
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-22-00-cate-blanchett-768x432.webp"
+wp_id: 1656
+wp_link: "https://moduscarry.com/cate-blanchett-harpers-bazaar-award/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

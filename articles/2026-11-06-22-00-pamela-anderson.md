@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Torino Honour: Festival Chief Explains Pick"
 seo_description: "Pamela Anderson Torino honour: festival director Giulio Base explains why she joins Travolta and Huppert at the 44th edition. Read what he said."
 focus_keyword: "Pamela Anderson Torino honour"
 permalink: "pamela-anderson-torino-honour"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-06 22:00"
 celebrity: "Pamela Anderson"
@@ -16,6 +16,14 @@ sources:
   - "https://variety.com/2026/film/festivals/torino-john-travolta-pamela-anderson-isabelle-huppert-1236940407/"
   - "https://mezha.net/eng/news/mezha-5f808542492293cdfcbd7b65_torino_film_festival/"
   - "https://www.dailymail.com/tvshowbiz/article-16270415/Pamela-Anderson-Vancouver-Island-home.html"
+image_alt: "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table."
+image: "images/2026-11-06-22-00-pamela-anderson.webp"
+wp_media_id: 1665
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-22-00-pamela-anderson-768x432.webp"
+wp_id: 1666
+wp_link: "https://moduscarry.com/pamela-anderson-torino-honour/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

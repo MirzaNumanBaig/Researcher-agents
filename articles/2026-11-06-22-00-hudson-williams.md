@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Yaga Breaks AMC+ Launch Record"
 seo_description: "Hudson Williams Yaga is the biggest exclusive launch on AMC+, AMC Networks says. See the records, the cast and when the finale arrives."
 focus_keyword: "Hudson Williams Yaga"
 permalink: "hudson-williams-yaga-amc-record"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-06 22:00"
 celebrity: "Hudson Williams"
@@ -14,6 +14,14 @@ tags: ["Hudson Williams", "Yaga", "AMC+"]
 image_prompt: "A dark forest cabin on stilts at dusk, lantern glowing in the window, mist over a still lake, folklore mood"
 sources:
   - "https://entertainmentnow.com/horror-movies-halloween/yaga-hudson-williams-breaks-amc-plus-record/"
+image_alt: "Illustration of a man in film set, lit by daytime, studio lights."
+image: "images/2026-11-06-22-00-hudson-williams.webp"
+wp_media_id: 1659
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-22-00-hudson-williams-768x432.webp"
+wp_id: 1660
+wp_link: "https://moduscarry.com/hudson-williams-yaga-amc-record/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

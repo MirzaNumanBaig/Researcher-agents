@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-11-06T12:23:34.174951+00:00",
+  "article": "2026-11-06-22-00-cate-blanchett",
+  "ai_generated": true,
+  "story_type": "award",
+  "analysis": {
+    "story_type": "award",
+    "core_event": "an anonymous figure the figure the figure the figure the figure at the figure the figure Women of the Year Awards",
+    "emotion": "celebratory",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "an anonymous figure",
+      "Mary Katrantzou gown",
+      "the figure the figure Women of the Year Awards"
+    ],
+    "time_and_light": "evening, spotlights",
+    "palette": [
+      "black",
+      "blue",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "level and calm",
+          "eyes": "bright and steady",
+          "mouth": "a restrained smile",
+          "jaw": "set"
+        },
+        "gaze": "out toward the audience",
+        "head": "level, chin up",
+        "posture": "upright, shoulders back",
+        "hands": "one hand holding a trophy against the chest",
+        "interaction": "",
+        "clothing": "a formal dark suit"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "an anonymous figure",
+      "Mary Katrantzou gown",
+      "the figure the figure Women of the Year Awards"
+    ],
+    "time_of_day": "evening, spotlights",
+    "light": {
+      "source": "evening, spotlights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "blue",
+      "gold"
+    ],
+    "mood": "celebratory",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-10"
+  ],
+  "prompt": "A medium shot of a man in his early 30s with medium-length wavy auburn hair and light skin stands proudly beside an anonymous figure, his dark teal suit immaculate. His level and calm eyebrows are set in a bright and steady gaze, his mouth curving into a restrained smile as he cradles a trophy against his chest with one hand. His jaw is set, his chin held high as he looks out toward the audience with a confident air. His head is held level, his shoulders back and upright, exuding a sense of calm authority. The man wears a Mary Katrantzou gown draped elegantly over the anonymous figure, its intricate patterns and colours shimmering in the soft light of the evening spotlights. To his right, the grand entrance of the Women of the Year Awards unfolds, a soft haze and bokeh in the background subtly blurring the details of the crowded room. The camera, a 50mm lens, captures the scene with a medium shot, side-on view, the man and the anonymous figure left of centre, the setting opening up to the right. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 223558925,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in a person, lit by evening, spotlights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 148.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 223558925,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

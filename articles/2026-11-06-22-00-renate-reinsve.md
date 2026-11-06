@@ -5,7 +5,7 @@ seo_title: "Renate Reinsve Butterfly: Torino Lead and Career Look-Back"
 seo_description: "Renate Reinsve Butterfly premieres in Torino's competition, while she tells the BBC how a call from Joachim Trier stopped her quitting acting."
 focus_keyword: "Renate Reinsve Butterfly"
 permalink: "renate-reinsve-butterfly"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-06 22:00"
 celebrity: "Renate Reinsve"
@@ -15,6 +15,14 @@ image_prompt: "An empty grand European cinema at dusk, red velvet seats facing a
 sources:
   - "https://variety.com/2026/film/festivals/golshifteh-farahani-renate-reinsve-torino-female-talent-1236940760/"
   - "https://www.bbc.com/culture/article/20261103-the-norwegian-star-on-her-life-changing-role-in-2021s-the-worst-person-in-the-world"
+image_alt: "Illustration of two mans in film set, lit by daytime, natural light."
+image: "images/2026-11-06-22-00-renate-reinsve.webp"
+wp_media_id: 1667
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-22-00-renate-reinsve-768x432.webp"
+wp_id: 1668
+wp_link: "https://moduscarry.com/renate-reinsve-butterfly/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

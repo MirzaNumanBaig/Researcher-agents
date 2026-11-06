@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-06T12:22:23.800898+00:00",
+  "article": "2026-11-06-22-00-nicole-kidman",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure attends an anonymous figure's first Australian runway the figure in an anonymous figure.",
+    "emotion": "glamorous",
+    "setting": "fashion the figure",
+    "key_objects": [
+      "black suit",
+      "the figure",
+      "an anonymous figure the figure"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "black",
+      "white",
+      "beige"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "black suit",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "fashion the figure",
+    "props": [
+      "black suit",
+      "the figure",
+      "an anonymous figure the figure"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "white",
+      "beige"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-07"
+  ],
+  "prompt": "A wide shot from slightly high above, captured with a 35mm lens, presents a glamorous and elegant scene of a fashion the figure. A medium shot of a woman in her early 20s with loose curly dark brown hair and rich brown skin, wearing a blush pink satin gown, stands confidently with her shoulders back and spine long. Her smooth and softly arched eyebrows, confident and direct eyes, and a composed soft smile create a poised and collected expression. Her lifted jawline and quarter-turned head, chin raised, convey a sense of pride and ownership. Her hand rests on her hip, exuding a sense of self-assurance. The woman's gaze is directed towards the camera, meeting the viewer's eyes with a hint of mischief. To her right, a black suit stands out against the soft haze and bokeh of the background, while the anonymous figure of the runway model is partially hidden in the midground. The palette of black, white, and beige dominates the image, with the blush pink of the gown adding a pop of colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1930876010,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in fashion a person, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 120.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1930876010,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

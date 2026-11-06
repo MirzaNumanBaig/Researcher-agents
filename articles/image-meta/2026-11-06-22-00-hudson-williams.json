@@ -1,0 +1,137 @@
+{
+  "timestamp": "2026-11-06T12:23:05.100435+00:00",
+  "article": "2026-11-06-22-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure the figure an AMC+ an anonymous figure, breaking subscriber acquisition and social drama rankings.",
+    "emotion": "excitement",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "AMC+",
+      "an anonymous figure",
+      "Baba an anonymous figure myth"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "dark blue",
+      "gold",
+      "red"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "AMC+",
+      "an anonymous figure",
+      "Baba an anonymous figure myth"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark blue",
+      "gold",
+      "red"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-02"
+  ],
+  "prompt": "A wide shot from slightly high above, captured with an 85mm lens, reveals a film set in the midst of chaos, as a man in his late 30s with short dark greying hair and medium-brown skin leans forward, elbows on knees, his eyes wide and attentive with his lips just parted. His eyebrows are slightly raised, and his jaw is relaxed, exuding a sense of excitement. He's dressed in a navy suit with an open collar, and his gaze is directed up and off-frame right. His hands hold a paper cup, and his head is tilted slightly up, as if he's about to make a crucial point. On his left, an anonymous figure stands with their back to the camera, while on his right, the screen displays of AMC+, surrounded by the words 'Baba an anonymous figure myth'. Behind them, a soft haze and bokeh create a sense of depth, with the setting opening up to the right. The dark blue, gold, and red palette adds to the excitement, as if the very fate of the show hangs in the balance. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 79697893,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 107.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 79697893,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

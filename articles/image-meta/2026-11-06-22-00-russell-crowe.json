@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-11-06T12:21:46.723050+00:00",
+  "article": "2026-11-06-22-00-russell-crowe",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "the figure the figure joins the cast of sci-fi action thriller the figure alongside an anonymous figure and Priyanka Chopra.",
+    "emotion": "exciting",
+    "setting": "film set",
+    "key_objects": [
+      "the figure",
+      "an anonymous figure",
+      "Priyanka Chopra",
+      "the figure the figure",
+      "Gold Coast"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "gray",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "the figure",
+      "an anonymous figure",
+      "Priyanka Chopra",
+      "the figure the figure"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "silver"
+    ],
+    "mood": "exciting",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-01"
+  ],
+  "prompt": "A wide shot from slightly below the characters, captured with a 35mm lens, showcases the film set unfolding to the right. A woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, wearing a white linen shirt, sits in the foreground, leaning forward with her elbows on her knees. Her gaze is directed upwards and off-frame to the right, her eyebrows slightly raised, eyes wide and attentive, lips just parted, and jaw relaxed. Her head is tilted slightly up, and her posture exudes excitement and anticipation. Her hands hold a paper cup, her fingers curled around it loosely. Behind her, the set's lights and cameras are visible, with Priyanka Chopra and an anonymous figure standing off to the side, both looking focused and ready for action. The sunlight casts a warm glow from the side, illuminating the scene with a sense of energy and possibility. The background is a soft haze and bokeh, with the blue, gray, and silver color palette dominating the atmosphere. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 345978814,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 127.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 345978814,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

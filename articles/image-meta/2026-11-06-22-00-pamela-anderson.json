@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-06T12:22:12.027704+00:00",
+  "article": "2026-11-06-22-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "tribute",
+  "analysis": {
+    "story_type": "tribute",
+    "core_event": "an anonymous figure to receive career achievement honoree at the 44th an anonymous figure",
+    "emotion": "celebratory",
+    "setting": "the figure the figure",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "Teatro Regio",
+      "Stella della Mole"
+    ],
+    "time_and_light": "evening, stage lights",
+    "palette": [
+      "gold",
+      "red",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "the figure the figure",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "Teatro Regio",
+      "Stella della Mole"
+    ],
+    "time_of_day": "evening, stage lights",
+    "light": {
+      "source": "evening, stage lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "gold",
+      "red",
+      "black"
+    ],
+    "mood": "celebratory",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot, from the side, captures the grandeur of the Teatro Regio's imposing facade, its gold and red accents glimmering softly in the evening light. The structure's massive stone walls rise up to meet the darkening sky, as the towering Stella della Mole stands sentinel in the distance. Stage lights illuminate the entrance, casting a warm glow across the cobblestone pavement. The camera, fitted with a 24mm lens, takes in the sweeping vista, capturing the grandeur of the scene with a sense of timelessness. Candid editorial news photograph with natural the figure-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2980526884,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 263.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2980526884,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
