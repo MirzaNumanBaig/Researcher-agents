@@ -22,6 +22,7 @@ wp_id: 1660
 wp_link: "https://moduscarry.com/hudson-williams-yaga-amc-record/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

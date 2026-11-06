@@ -24,6 +24,7 @@ wp_id: 1656
 wp_link: "https://moduscarry.com/cate-blanchett-harpers-bazaar-award/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
