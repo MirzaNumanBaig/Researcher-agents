@@ -5,7 +5,7 @@ seo_title: "Stuntnuts Chris Hemsworth: Matt Damon Joins Cast"
 seo_description: "Stuntnuts Chris Hemsworth and Sam Rockwell now have Matt Damon on board. See the plot, the real stunt crew and who is directing the action comedy."
 focus_keyword: "Stuntnuts Chris Hemsworth"
 permalink: "stuntnuts-chris-hemsworth"
-status: pending
+status: approved
 wp_status: publish
 batch: "2026-11-07 05:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,8 @@ image_prompt: "A dusty stunt gym with crash mats, a rope rig and a half-built fi
 sources:
   - "https://theplaylist.net/stuntnuts-chris-hemsworth-sam-rockwell-matt-damon-to-star-in-matthew-vaughns-next-movie-a-meta-action-comedy-about-stuntmen-20261106/"
   - "https://collider.com/matt-damon-cast-chris-hemsworth-action-thriller-stuntnuts/"
+image_alt: "Illustration of film set with stunt performers and Hollywood blockbuster, lit by daytime, studio lights."
+image: "images/2026-11-07-05-00-chris-hemsworth.webp"
 ---
 
 **Quick summary**

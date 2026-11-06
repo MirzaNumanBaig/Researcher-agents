@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-06T19:20:38.943111+00:00",
+  "article": "2026-11-07-05-00-ryan-reynolds",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure's CEO an anonymous figure leaves the club after two years.",
+    "emotion": "shock",
+    "setting": "football stadium",
+    "key_objects": [
+      "an anonymous figure logo",
+      "football pitch",
+      "club director an anonymous figure"
+    ],
+    "time_and_light": "afternoon sunlight",
+    "palette": [
+      "Grey",
+      "Red",
+      "White"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure logo",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "football stadium",
+    "props": [
+      "an anonymous figure logo",
+      "football pitch",
+      "club director an anonymous figure"
+    ],
+    "time_of_day": "afternoon sunlight",
+    "light": {
+      "source": "afternoon sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "Grey",
+      "Red",
+      "White"
+    ],
+    "mood": "shock",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A close-up detail shot from a high angle, captured with a 50mm lens, shows the worn leather armrest of an empty armchair beside a rain-streaked window. Soft grey light across the floor casts a subtle shadow on the armrest, where a faint smudge of a forgotten cup lingers. The Grey, Red and White colour palette is muted, with only a hint of Red in the worn wood trim of the armchair. A single raindrop slowly trickles down the glass, creating a small, shimmering pool of water. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: shows people in a sensitive story"
+  ],
+  "seed": 283701173,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 192.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 283701173,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

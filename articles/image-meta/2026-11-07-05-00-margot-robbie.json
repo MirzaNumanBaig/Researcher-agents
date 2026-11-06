@@ -1,0 +1,118 @@
+{
+  "timestamp": "2026-11-06T19:21:17.548526+00:00",
+  "article": "2026-11-07-05-00-margot-robbie",
+  "ai_generated": true,
+  "story_type": "box_office",
+  "analysis": {
+    "story_type": "box_office",
+    "core_event": "The the figure of the figure becomes the most-watched film on HBO Max worldwide.",
+    "emotion": "surprise",
+    "setting": "film set",
+    "key_objects": [
+      "HBO Max",
+      "The the figure of the figure",
+      "an anonymous figure",
+      "the figure's jungle"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "green",
+      "brown",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "HBO Max",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "HBO Max",
+      "The the figure of the figure",
+      "an anonymous figure",
+      "the figure's jungle"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "green",
+      "brown",
+      "gold"
+    ],
+    "mood": "surprise",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a woman in her early 30s, looking slightly disbelieving with her eyebrows slightly raised and her eyes wide open, as if she's just heard some incredible news. Her mouth is parted slightly, with her lips slightly ajar, and her jaw is subtly relaxed, giving her a faintly open-mouthed expression. Her gaze is directed off-camera, as if she's staring at something just out of frame. Her shoulders are slightly hunched and her posture is leaning forward, with her weight shifted onto her right leg. Her left hand is resting on the arm of a nearby chair, and her right hand is clenched into a fist, as if she's trying to process the information she's just received. The distance between her and the camera is about three feet, creating a sense of intimacy and immediacy. She's wearing a simple yet elegant white blouse with a pair of fitted dark brown trousers, and her feet are clad in a pair of comfortable-looking loafers. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2281040304,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film set with HBO Max and The a person of a person, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 177.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 2281040304,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

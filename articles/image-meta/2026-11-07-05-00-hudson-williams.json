@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-06T19:21:31.736516+00:00",
+  "article": "2026-11-07-05-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure poses in the figure for a possible Savage X Fenty campaign",
+    "emotion": "sizzling",
+    "setting": "fire escape",
+    "key_objects": [
+      "black boxer briefs",
+      "red piping",
+      "fire escape"
+    ],
+    "time_and_light": "daytime",
+    "palette": [
+      "black",
+      "red",
+      "gray"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "black boxer briefs",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "fire escape",
+    "props": [
+      "black boxer briefs",
+      "red piping",
+      "fire escape"
+    ],
+    "time_of_day": "daytime",
+    "light": {
+      "source": "daytime",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "red",
+      "gray"
+    ],
+    "mood": "sizzling",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-09"
+  ],
+  "prompt": "A medium-wide shot of the woman in her late 50s, standing left of centre on a fire escape, with her quarter-turned face and raised chin radiating confidence as she gazes directly toward the camera. Her smooth and softly arched eyebrows frame her confident and direct eyes, complemented by a composed soft smile and a lifted jawline. Her pearl-grey silk blouse flows gently around her body, accentuating her shoulders back and spine long posture. One hand rests on her hip, while her body is relaxed, with no visible tension. The black boxer briefs and red piping of the fire escape create a striking contrast with her attire, as the soft haze and bokeh of the background subtly blend into the scene. A 35mm lens captures the subject from a three-quarter view, emphasizing her curves and posing. The natural light from the side casts a warm glow on her pale skin, revealing visible pores and small imperfections. The mood is sizzling, with a palette of black, red, and gray dominating the scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1867649036,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in fire escape, lit by daytime.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 139.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1867649036,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

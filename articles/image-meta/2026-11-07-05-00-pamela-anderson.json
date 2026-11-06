@@ -1,0 +1,145 @@
+{
+  "timestamp": "2026-11-06T19:20:52.845709+00:00",
+  "article": "2026-11-07-05-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "reality_tv",
+  "analysis": {
+    "story_type": "reality_tv",
+    "core_event": "an anonymous figure shares a glimpse of her the figure on the figure the figure.",
+    "emotion": "peaceful",
+    "setting": "private estate",
+    "key_objects": [
+      "garden",
+      "dock",
+      "dog",
+      "book",
+      "flowers"
+    ],
+    "time_and_light": "sunrise",
+    "palette": [
+      "green",
+      "blue",
+      "beige"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "garden",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "sitting a sofa-width apart, bodies angled slightly away",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "lowered and drawn together",
+          "eyes": "narrowed and steady",
+          "mouth": "lips in a thin line",
+          "jaw": "clenched"
+        },
+        "gaze": "straight at them",
+        "head": "level and rigid",
+        "posture": "shoulders squared",
+        "hands": "arms folded",
+        "interaction": "sitting a sofa-width apart, bodies angled slightly away",
+        "clothing": ""
+      }
+    ],
+    "setting": "private estate",
+    "props": [
+      "garden",
+      "dock",
+      "dog",
+      "book"
+    ],
+    "time_of_day": "sunrise",
+    "light": {
+      "source": "sunrise",
+      "direction": "from the side"
+    },
+    "palette": [
+      "green",
+      "blue",
+      "beige"
+    ],
+    "mood": "peaceful",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05",
+    "cast-06"
+  ],
+  "prompt": "A medium shot from slightly low angle, captured with an 85mm lens, of the woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, sitting on a worn leather sofa in the peaceful private estate, her burgundy blazer a rich contrast to the beige of the surrounding walls. Her eyebrows are drawn up gently at the centre, her unfocused and distant eyes gazing off-frame toward a window where the gentle light of the sunrise from the side casts a warm glow on the garden below. Her lips are just closed, and her jaw is soft, her head resting slightly back against the sofa cushion. Her shoulders are low, and her hands are wrapped around a mug, her fingers curled around the handle. The garden stretches out before them, a vibrant tapestry of green and blue flowers, the soft haze and bokeh of the background blurring the dock and the dog in the distance, lost in the gentle morning light. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3254229708,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in private estate, lit by sunrise.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 95.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3254229708,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

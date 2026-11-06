@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Vancouver Island Home: Life of Solitude"
 seo_description: "Pamela Anderson shows her Vancouver Island home in a new video, with the Malibu sale that paid for it and a 'soft wolf' haircut. Read the details."
 focus_keyword: "Pamela Anderson Vancouver Island"
 permalink: "pamela-anderson-vancouver-island-life"
-status: pending
+status: approved
 wp_status: publish
 batch: "2026-11-07 05:00"
 celebrity: "Pamela Anderson"
@@ -15,6 +15,8 @@ image_prompt: "A quiet wooden dock stretching into calm water at sunrise beside 
 sources:
   - "https://nypost.com/2026/11/06/real-estate/inside-pamela-andersons-new-life-of-solitude-in-canada/"
   - "https://www.harpersbazaar.com/uk/beauty/hair/a74356030/soft-wolf-cut-pamela-anderson/"
+image_alt: "Illustration of a woman and a man in private estate, lit by sunrise."
+image: "images/2026-11-07-05-00-pamela-anderson.webp"
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Underwear Shoot: Fan Theories and Yaga Buzz"
 seo_description: "Hudson Williams underwear shoot photos have fans guessing about a campaign, while his Yaga double role goes viral. Here is what is confirmed so far."
 focus_keyword: "Hudson Williams underwear shoot"
 permalink: "hudson-williams-underwear-shoot"
-status: pending
+status: approved
 wp_status: publish
 batch: "2026-11-07 05:00"
 celebrity: "Hudson Williams"
@@ -15,6 +15,8 @@ image_prompt: "A city fire escape on a red brick building in soft morning light,
 sources:
   - "https://www.attitude.co.uk/culture/hudson-williams-sparks-underwear-campaign-speculation-539307/"
   - "https://www.attitude.co.uk/culture/hudson-williams-kisses-himself-yaga-539243/"
+image_alt: "Illustration of a woman in fire escape, lit by daytime."
+image: "images/2026-11-07-05-00-hudson-williams.webp"
 ---
 
 **Quick summary**
