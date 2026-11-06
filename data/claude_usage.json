@@ -7295,6 +7295,22 @@
    "turns": 10,
    "seconds": 15,
    "cost_usd": 0.1328
+  },
+  {
+   "date": "2026-11-06",
+   "time": "2026-11-06T23:52:34+00:00",
+   "batch": "2026-11-07 10:00",
+   "celebrity": "Martin Short",
+   "article": "2026-11-07-10-00-martin-short.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 18,
+   "output_tokens": 3461,
+   "cache_read_tokens": 245878,
+   "cache_write_tokens": 23982,
+   "turns": 12,
+   "seconds": 40,
+   "cost_usd": 0.1687
   }
  ]
 }
