@@ -22,6 +22,7 @@ wp_id: 1699
 wp_link: "https://moduscarry.com/hudson-williams-connor-storrie-platonic/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
