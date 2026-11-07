@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-07T00:02:39.010868+00:00",
+  "article": "2026-11-07-10-00-thorbj-rn-harr",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure releases the figure the figure an anonymous figure worldwide on 26 November 2026.",
+    "emotion": "exciting",
+    "setting": "hospital corridor",
+    "key_objects": [
+      "the figure scrubs",
+      "stethoscope",
+      "hospital bed",
+      "surgical mask"
+    ],
+    "time_and_light": "daytime, fluorescent lights",
+    "palette": [
+      "blue",
+      "white",
+      "gray"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure scrubs",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "hospital corridor",
+    "props": [
+      "the figure scrubs",
+      "stethoscope",
+      "hospital bed",
+      "surgical mask"
+    ],
+    "time_of_day": "daytime, fluorescent lights",
+    "light": {
+      "source": "daytime, fluorescent lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "white",
+      "gray"
+    ],
+    "mood": "exciting",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05"
+  ],
+  "prompt": "A medium shot, slightly high angle, captured with an 85mm lens, frames a hospital corridor, the setting opening up to the right. The woman, a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, wears a soft grey wrap, her facial expression a blend of concern and focus - her eyebrows are slightly raised, her eyes are wide and attentive, her lips just parted, and her jaw relaxed. Her gaze is up and off-frame right, her head tilted slightly up, her posture leaning forward, elbows on knees, as she holds a paper cup. The figure in scrubs stands to her right, their back to the camera, a stethoscope hanging from their neck, a surgical mask draped over their shoulder. A hospital bed stretches along the wall to their left, a faint haze and bokeh blurring the background. Fluorescent lights from the side cast an unforgiving glare, illuminating the woman's features with a cold, clinical light. The colour palette is a stark blue, white, and gray, reflecting the sterile atmosphere of the hospital. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 186442699,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in hospital corridor, lit by daytime, fluorescent lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 97.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 186442699,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

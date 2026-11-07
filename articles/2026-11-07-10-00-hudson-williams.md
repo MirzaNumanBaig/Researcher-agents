@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Yaga Episode 4: Dual Role Scene Explained"
 seo_description: "Hudson Williams Yaga episode 4 puts the actor opposite himself as Henry and Logan. Here is the plot, the cast and why fans are talking."
 focus_keyword: "Hudson Williams Yaga"
 permalink: "hudson-williams-yaga-episode-4"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-07 10:00"
 celebrity: "Hudson Williams"
@@ -15,6 +15,14 @@ image_prompt: "A foggy coastal fishing town at dusk with a lone cabin in dark wo
 sources:
   - "https://www.queerty.com/hudson-williams-makes-out-with-hudson-williams-in-wild-yaga-scene-20261106/"
   - "https://www.out.com/gay-tv-shows/hudson-williams-yaga-threesome-scene"
+image_alt: "Illustration of TV show set with TV show a person and a person, lit by daytime, studio lights."
+image: "images/2026-11-07-10-00-hudson-williams.webp"
+wp_media_id: 1683
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-10-00-hudson-williams-768x432.webp"
+wp_id: 1684
+wp_link: "https://moduscarry.com/hudson-williams-yaga-episode-4/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

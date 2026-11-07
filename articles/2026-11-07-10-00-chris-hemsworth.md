@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Stuntnuts: Ronaldo Joins, Korea Visit Set"
 seo_description: "Chris Hemsworth Stuntnuts gets its first market screening with Cristiano Ronaldo's UR MARV, and Hemsworth is confirmed for a Seoul visit on 7 December."
 focus_keyword: "Chris Hemsworth Stuntnuts"
 permalink: "chris-hemsworth-stuntnuts-ronaldo-korea"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-07 10:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,14 @@ image_prompt: "A film studio stunt set at dusk with a padded crash mat, rigging 
 sources:
   - "https://www.comingsoon.net/movies/news/2219503-cristiano-ronaldo-hollywood-matt-damon-chris-hemsworth-stuntnuts"
   - "https://www.mt.co.kr/index.php/en/entertainment/2026/11/06/2026110608161626615"
+image_alt: "Illustration of a man in film set, lit by daytime, studio lights."
+image: "images/2026-11-07-10-00-chris-hemsworth.webp"
+wp_media_id: 1681
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-10-00-chris-hemsworth-768x432.webp"
+wp_id: 1682
+wp_link: "https://moduscarry.com/chris-hemsworth-stuntnuts-ronaldo-korea/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

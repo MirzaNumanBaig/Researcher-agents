@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-07T00:03:36.656317+00:00",
+  "article": "2026-11-07-10-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure in an anonymous figure episode 4, including a kissing scene.",
+    "emotion": "surprise",
+    "setting": "TV show set",
+    "key_objects": [
+      "TV show an anonymous figure",
+      "an anonymous figure",
+      "Henry Park",
+      "Logan Casey",
+      "kissing scene"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "gray",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "TV show an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "TV show set",
+    "props": [
+      "TV show an anonymous figure",
+      "an anonymous figure",
+      "Henry Park",
+      "Logan Casey"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "black"
+    ],
+    "mood": "surprise",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot of a dimly lit TV show set, captured with a 24mm lens at a slightly tilted angle, reveals the cramped corridors and dressing rooms that lie behind the glamorous façade of a popular television series. The soft hum of studio lights and the murmur of off-camera voices create a sense of activity, while the stark blue and gray tones of the set's décor seem to absorb the light, leaving the overall mood feeling subdued. A TV show and a few scattered crew members are visible in the foreground, their faces blurred as they move about the set with a sense of purpose. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2224557291,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of TV show set with TV show a person and a person, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 319.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2224557291,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

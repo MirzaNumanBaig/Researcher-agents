@@ -1,34 +1,5 @@
 [
  {
-  "article": "2026-11-06-14-00-chris-hemsworth",
-  "shot": "over-the-shoulder shot",
-  "angle": "tilted angle",
-  "lens": "24mm",
-  "palette": "blue, red and gold",
-  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Over-the-shoulder shot, 24mm lens, tilted angle, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-11-06-14-00-catherine-o-hara",
-  "shot": "close-up detail shot",
-  "angle": "tilted angle",
-  "lens": "50mm",
-  "palette": "dark grey, black and white",
-  "prompt": "A medium shot of an empty armchair beside a rain-streaked window, soft grey light pouring across the worn wooden floor; the chair's cushion is indented, suggesting it had been recently occupied, but now it sits vacant, a solitary presence in a dimly lit, studio-lit space; the walls, painted a soft, muted grey, blend seamlessly into the shadows, creating an atmosphere of somber reflection; a single, flickering studio light overhead casts an eerie glow on the walls, imbuing the scene with a sense of quiet contemplation; the 50mm lens, with its subtle distortion, captures the curves of the armchair and the rain-streaked window in sharp detail; the tilted angle adds a sense of melancholy to the composition, as if the chair is leaning inwards, as if sharing a secret; the dark grey, black, and white palette dominates the scene, with subtle hints of warm beige in the armchair's upholstery, adding a touch of humanity to the otherwise stark environment; Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-11-06-22-00-russell-crowe",
-  "shot": "wide shot",
-  "angle": "slightly low angle",
-  "lens": "35mm",
-  "palette": "blue, gray and silver",
-  "prompt": "A wide shot from slightly below the characters, captured with a 35mm lens, showcases the film set unfolding to the right. A woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, wearing a white linen shirt, sits in the foreground, leaning forward with her elbows on her knees. Her gaze is directed upwards and off-frame to the right, her eyebrows slightly raised, eyes wide and attentive, lips just parted, and jaw relaxed. Her head is tilted slightly up, and her posture exudes excitement and anticipation. Her hands hold a paper cup, her fingers curled around it loosely. Behind her, the set's lights and cameras are visible, with Priyanka Chopra and an anonymous figure standing off to the side, both looking focused and ready for action. The sunlight casts a warm glow from the side, illuminating the scene with a sense of energy and possibility. The background is a soft haze and bokeh, with the blue, gray, and silver color palette dominating the atmosphere. No text, no logos, no watermark.",
-  "cast": [
-   "cast-01"
-  ]
- },
- {
   "article": "2026-11-06-22-00-renate-reinsve",
   "shot": "medium shot",
   "angle": "eye-level",
@@ -201,5 +172,36 @@
   "palette": "bright blue, deep red and silver",
   "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Overhead shot, 24mm lens, from behind, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "cast": []
+ },
+ {
+  "article": "2026-11-07-10-00-thorbj-rn-harr",
+  "shot": "medium shot",
+  "angle": "slightly high angle",
+  "lens": "85mm",
+  "palette": "blue, white and gray",
+  "prompt": "A medium shot, slightly high angle, captured with an 85mm lens, frames a hospital corridor, the setting opening up to the right. The woman, a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, wears a soft grey wrap, her facial expression a blend of concern and focus - her eyebrows are slightly raised, her eyes are wide and attentive, her lips just parted, and her jaw relaxed. Her gaze is up and off-frame right, her head tilted slightly up, her posture leaning forward, elbows on knees, as she holds a paper cup. The figure in scrubs stands to her right, their back to the camera, a stethoscope hanging from their neck, a surgical mask draped over their shoulder. A hospital bed stretches along the wall to their left, a faint haze and bokeh blurring the background. Fluorescent lights from the side cast an unforgiving glare, illuminating the woman's features with a cold, clinical light. The colour palette is a stark blue, white, and gray, reflecting the sterile atmosphere of the hospital. No text, no logos, no watermark.",
+  "cast": [
+   "cast-05"
+  ]
+ },
+ {
+  "article": "2026-11-07-10-00-hudson-williams",
+  "shot": "wide establishing shot",
+  "angle": "tilted angle",
+  "lens": "24mm",
+  "palette": "blue, gray and black",
+  "prompt": "A wide establishing shot of a dimly lit TV show set, captured with a 24mm lens at a slightly tilted angle, reveals the cramped corridors and dressing rooms that lie behind the glamorous façade of a popular television series. The soft hum of studio lights and the murmur of off-camera voices create a sense of activity, while the stark blue and gray tones of the set's décor seem to absorb the light, leaving the overall mood feeling subdued. A TV show and a few scattered crew members are visible in the foreground, their faces blurred as they move about the set with a sense of purpose. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-11-07-10-00-chris-hemsworth",
+  "shot": "medium-wide shot",
+  "angle": "three-quarter view",
+  "lens": "35mm",
+  "palette": "bright blue, silver and black",
+  "prompt": "A medium-wide shot, three-quarter view, captured with a 35mm lens, looks down on a bustling film set from a slight angle, with the people and objects left of centre. The man, a man in his mid 20s with tousled sandy-blond hair and fair skin, sits on the edge of a director's chair, wearing a slim black suit. His eyebrows are slightly raised, his wide and attentive eyes fixed on the stunt performers in the distance, his lips just parted, and his relaxed jaw giving him a calm yet focused expression. He gazes up and off-frame right, his head tilted slightly up, and leans forward, elbows on knees, his posture conveying intense interest. His hands hold a paper cup, fingers wrapped around it casually. The anonymous figure, a female stunt performer in her late 20s, stands behind the man, dressed in a sleek black jumpsuit, her face a mask of concentration. Her facial expression is stoic, her eyes narrowed, her jaw clenched. The bright blue, silver, and black colour palette the figure to the sense of high-stakes drama. No text, no logos, no watermark.",
+  "cast": [
+   "cast-04"
+  ]
  }
 ]

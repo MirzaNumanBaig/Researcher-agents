@@ -23,6 +23,7 @@ wp_id: 1674
 wp_link: "https://moduscarry.com/hudson-williams-underwear-shoot/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
