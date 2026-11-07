@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Connor Storrie: 'Platonic Soulmates' Say Stars"
 seo_description: "Hudson Williams says his bond with Heated Rivalry co-star Connor Storrie is platonic. Here is what he told CBC's The Assembly about their friendship."
 focus_keyword: "Hudson Williams Connor Storrie"
 permalink: "hudson-williams-connor-storrie-platonic"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-07 22:00"
 celebrity: "Hudson Williams"
@@ -14,6 +14,14 @@ tags: ["Hudson Williams", "Connor Storrie", "Heated Rivalry"]
 image_prompt: "An empty hockey rink at night under bright arena lights, with a quiet row of empty seats and a soft haze over the ice."
 sources:
   - "https://www.classichits.ie/news/showbiz/hudson-williams-on-platonic-relationship-with-heated-rivalry-costar-were-just-completely-in-love-with-each-other/"
+image_alt: "Illustration of a man and a woman in television studio, lit by daytime, studio lights."
+image: "images/2026-11-07-22-00-hudson-williams.webp"
+wp_media_id: 1698
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-22-00-hudson-williams-768x432.webp"
+wp_id: 1699
+wp_link: "https://moduscarry.com/hudson-williams-connor-storrie-platonic/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

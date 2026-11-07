@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-07T11:43:58.486217+00:00",
+  "article": "2026-11-07-22-00-seth-rogen",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure discusses his new home fragrance product with Houseplant and the figure.",
+    "emotion": "relaxed",
+    "setting": "designer's workshop",
+    "key_objects": [
+      "the figure the figure",
+      "Houseplant products",
+      "the figure vessels",
+      "perfume bottles"
+    ],
+    "time_and_light": "afternoon, natural light",
+    "palette": [
+      "soft peach",
+      "warm beige",
+      "rich pine"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "designer's workshop",
+    "props": [
+      "the figure the figure",
+      "Houseplant products",
+      "the figure vessels",
+      "perfume bottles"
+    ],
+    "time_of_day": "afternoon, natural light",
+    "light": {
+      "source": "afternoon, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft peach",
+      "warm beige",
+      "rich pine"
+    ],
+    "mood": "relaxed",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-08",
+    "cast-03"
+  ],
+  "prompt": "A wide shot of the designer's workshop, captured from a side-on view with a 50mm lens, frames the man in his early 40s with close-cropped black hair and dark brown skin, seated at an angle to the woman in her late 20s with long straight black hair and warm beige skin, across a low table. The man, dressed in a black turtleneck and long coat, has his eyebrows drawn up gently at the centre, unfocused eyes, lips just closed, and a soft jawline, gazing off-frame toward a window as his head rests slightly back and his shoulders slope low. He wraps his hands around a mug, his fingers splayed loosely. The woman, wearing an emerald silk dress, has her eyebrows slightly raised, wide and attentive eyes, and lips just parted, with a relaxed jawline, her head tilted slightly up and her posture leaning forward, elbows on knees, as she holds a paper cup in one hand. The palette is a soothing blend of soft peach, warm beige, and rich pine. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2871322850,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man and a woman in designer's workshop, lit by afternoon, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 115.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2871322850,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

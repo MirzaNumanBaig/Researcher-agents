@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-07T11:44:12.631976+00:00",
+  "article": "2026-11-07-22-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure denies romantic relationship with an anonymous figure",
+    "emotion": "relieved",
+    "setting": "television studio",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "CBC's The Assembly",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "white",
+      "gray"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "television studio",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "CBC's The Assembly",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "white",
+      "gray"
+    ],
+    "mood": "relieved",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-02",
+    "cast-01"
+  ],
+  "prompt": "A wide shot, slightly high angle, of a television studio setting, with the camera positioned above and to the right of the seated figures. The studio lights illuminate the scene from the side, casting a gentle glow on the faces and surfaces. The man, a man in his late 30s with short dark greying hair and medium-brown skin, sits at an angle to the woman, a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, across a low table. He wears a charcoal knit sweater, and his facial expression is drawn up gently at the centre, with unfocused and distant eyes, lips just closed, and a soft jaw. His gaze is off-frame toward a window, and his head is resting slightly back, while his shoulders are low and relaxed. His hands are wrapped around a mug. The woman wears a charcoal wool coat, and her facial expression is slightly raised, with wide and attentive eyes, lips just parted, and a relaxed jaw. The mood of the scene is relieved, with a colour palette of blue, white, and gray. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1725088318,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man and a woman in television studio, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 129.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1725088318,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ seo_title: "Avengers Doomsday World Tour: Hemsworth Teases Gold Coast Stop"
 seo_description: "The Avengers Doomsday world tour will visit nine cities, including the Gold Coast, and Chris Hemsworth has teased it. Here is what is confirmed so far."
 focus_keyword: "Avengers Doomsday world tour"
 permalink: "avengers-doomsday-world-tour"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-07 22:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,14 @@ image_prompt: "An empty premium cinema auditorium glowing with a bright lightnin
 sources:
   - "https://english.mathrubhumi.com/movies-music/news/avengers-doomsday-chris-hemsworth-teases-film-as-marvel-announces-nine-city-global-tour-hn55c1l7"
   - "https://www.koimoi.com/hollywood-news/avengers-doomsday-marvel-reveals-9-cities-for-world-tour-chris-hemsworth-reacts-with-doomsday-is-coming/"
+image_alt: "Illustration of a man in film set, lit by daytime, sunlight."
+image: "images/2026-11-07-22-00-chris-hemsworth.webp"
+wp_media_id: 1696
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-22-00-chris-hemsworth-768x432.webp"
+wp_id: 1697
+wp_link: "https://moduscarry.com/avengers-doomsday-world-tour/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
