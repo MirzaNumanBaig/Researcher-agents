@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-07 22:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "In 2007, Chris Evans auditioned for a film he called “my movie”. He lost it to Ryan Gosling",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1p1UEViTWYydzVIRDhiUnliLWtwaEJWa2czNTA3WVQxS2RZcDA3SklhaTFWUXFpLTZoZVFMcUc0R3cwdEQ1NWZFNjNCYXV4N3F2YXhvZzZpTEt0SDdSd3dfMzNZaWFIUzdSMUZiWTBOMFFhSU1VU09kSW9qdnN0S1dnZ2k?oc=5",
+      "published": "2026-11-07T11:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1p1UEViTWYydzVIRDhiUnliLWtwaEJWa2czNTA3WVQxS2RZcDA3SklhaTFWUXFpLTZoZVFMcUc0R3cwdEQ1NWZFNjNCYXV4N3F2YXhvZzZpTEt0SDdSd3dfMzNZaWFIUzdSMUZiWTBOMFFhSU1VU09kSW9qdnN0S1dnZ2k?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/2007-chris-evans-auditioned-lost-to-ryan-gosling/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/06/Chris-Evans-Free-Guy-2021-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/06/Chris-Evans-Free-Guy-2021-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/2007-chris-evans-auditioned-lost-to-ryan-gosling/"
+    }
+  ]
+}
