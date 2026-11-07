@@ -23,6 +23,7 @@ wp_id: 1682
 wp_link: "https://moduscarry.com/chris-hemsworth-stuntnuts-ronaldo-korea/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

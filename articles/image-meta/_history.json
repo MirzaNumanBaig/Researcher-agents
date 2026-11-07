@@ -1,17 +1,5 @@
 [
  {
-  "article": "2026-11-06-22-00-renate-reinsve",
-  "shot": "medium shot",
-  "angle": "eye-level",
-  "lens": "85mm",
-  "palette": "soft pink, muted blue and warm beige",
-  "prompt": "A medium shot from eye-level, taken with an 85mm lens, captures two men seated at an angle to each other across a low table on a film set, with the setting opening up to the right. The first man, a man in his late 40s with thinning dark hair and round glasses and olive skin, wears a plain navy suit, his drawn-up eyebrows and unfocused eyes giving him a thoughtful expression as his lips just close and his jaw softens, his gaze drifting off-frame toward a window. His head rests slightly back, his shoulders low, and his hands are wrapped around a mug. In contrast, the second man, a man in his mid 20s with tousled sandy-blond hair and fair skin, wears a cream fisherman knit, his slightly raised eyebrows and wide, attentive eyes radiating enthusiasm as his lips just part and his jaw relaxes, his gaze lifted up and off-frame right. Natural light pours in from the side, casting a soft glow over the scene, while a soft haze and bokeh in the background blur create depth. No text, no logos, no watermark.",
-  "cast": [
-   "cast-12",
-   "cast-04"
-  ]
- },
- {
   "article": "2026-11-06-22-00-pamela-anderson",
   "shot": "wide establishing shot",
   "angle": "side-on view",
@@ -203,5 +191,14 @@
   "cast": [
    "cast-04"
   ]
+ },
+ {
+  "article": "2026-11-07-10-00-martin-short",
+  "shot": "close-up detail shot",
+  "angle": "tilted angle",
+  "lens": "24mm",
+  "palette": "red, green and gold",
+  "prompt": "A close-up detail shot of the anonymous elf, taken from a tilted angle with a 24mm lens, captures the intricate details of their green and gold striped hat. Their eyebrows are raised in a comical expression, with a hint of a smile playing on their lips. Their eyes sparkle with amusement, gazing directly at the camera. The elf's shoulders are relaxed, and their posture is slightly slouched, as if they're leaning in on a secret joke. They're dressed in a matching green and gold uniform, with a few loose threads visible on their sleeve, and a faint smudge of paint on their cheek. The background is a blurred mixture of wooden toys and colorful baubles, with the soft glow of studio lights casting a warm atmosphere. The scene is bathed in a rich, film-like palette of red, green, and gold, with subtle grain and a candid, documentary feel. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
  }
 ]
