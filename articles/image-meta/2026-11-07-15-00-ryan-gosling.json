@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-07T04:47:30.917418+00:00",
+  "article": "2026-11-07-15-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure's production company is developing a live-action the figure film centered on a the figure the figure.",
+    "emotion": "exciting",
+    "setting": "film set",
+    "key_objects": [
+      "the figure film",
+      "the figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure film",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "the figure film",
+      "the figure",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "mood": "exciting",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-12"
+  ],
+  "prompt": "A medium shot, slightly low angle, of a man in his late 40s with thinning dark hair and round glasses and olive skin, wearing a brown suede jacket and leaning forward with his elbows on his knees, his slightly raised eyebrows and wide and attentive the figure fixed on something off-frame to his right, his lips just parted as he takes a sip from a paper cup in his hands. His relaxed jaw and slightly tilted head convey a sense of excitement and curiosity. The man is positioned to the left of centre, with the film set opening up to the right, allowing the viewer's gaze to move freely across the frame. The soft haze and bokeh of the background blur subtly emphasizes the figure of a woman, partially obscured, who stands in the midground, holding a small, unidentifiable object. The camera captures this dynamic moment with a 35mm lens, emphasizing the natural texture of the man's skin, the fine grain of the film, and the true-to-life colours of the scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1072501761,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 196.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1072501761,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

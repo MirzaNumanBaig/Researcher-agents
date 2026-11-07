@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-07T04:47:40.689942+00:00",
+  "article": "2026-11-07-15-00-russell-crowe",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure+ an anonymous figure",
+    "emotion": "thrilling",
+    "setting": "film set",
+    "key_objects": [
+      "the figure+",
+      "an anonymous figure",
+      "The Get Out",
+      "FlixPatrol"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "dark grey",
+      "muted blue",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure+",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "the figure+",
+      "an anonymous figure",
+      "The Get Out",
+      "FlixPatrol"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark grey",
+      "muted blue",
+      "silver"
+    ],
+    "mood": "thrilling",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-01"
+  ],
+  "prompt": "A wide shot, captured at eye-level, with an 85mm lens, shows the film set to the right, opening up in a gentle sweep of beige and grey tones, as the main subject, a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, sits left of centre, wearing a white linen shirt with the sleeves rolled up, her facial expression is one of intense focus, with her eyebrows slightly raised, her eyes wide and attentive, her lips just parted, and her jaw relaxed, her gaze directed up and off-frame right, her head tilted slightly up, her posture leaning forward, elbows on knees, her hands holding a paper cup, her fingers curled around it, the cup's contents obscured by the shadows. In the midground, an anonymous figure stands, partially hidden by the shadows, while the background is a soft haze and bokeh, with 'The Get Out' and 'FlixPatrol' barely visible on a nearby monitor. The studio lights cast a warm glow from the side, illuminating the scene with a sense of urgency and tension. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2829271510,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 92.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2829271510,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

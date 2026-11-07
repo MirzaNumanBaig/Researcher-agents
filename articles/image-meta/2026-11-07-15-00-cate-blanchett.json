@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-11-07T04:47:51.391653+00:00",
+  "article": "2026-11-07-15-00-cate-blanchett",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure after neighbours raised concerns.",
+    "emotion": "relieved",
+    "setting": "coastal eco-home",
+    "key_objects": [
+      "grass driveway",
+      "hardwood decking",
+      "Cornish granite steps"
+    ],
+    "time_and_light": "daytime, warm-white lighting",
+    "palette": [
+      "green",
+      "beige",
+      "blue"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "grass driveway",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "coastal eco-home",
+    "props": [
+      "grass driveway",
+      "hardwood decking",
+      "Cornish granite steps"
+    ],
+    "time_of_day": "daytime, warm-white lighting",
+    "light": {
+      "source": "daytime, warm-white lighting",
+      "direction": "from the side"
+    },
+    "palette": [
+      "green",
+      "beige",
+      "blue"
+    ],
+    "mood": "relieved",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot from behind, captured with a 24mm lens, reveals a serene coastal eco-home nestled among lush greenery, its grass driveway gently curving towards the house. The hardwood decking, weathered to a warm silvery grey, stretches across the front facade, punctuated by the rugged Cornish granite steps leading up to the entrance. Soft morning light, imbued with a warm-white glow, casts a gentle ambiance over the scene, illuminating the delicate patterns on the decking and the lush foliage surrounding the property. As the eye travels along the length of the house, the subtle curves of the roofline and the gentle sweep of the driveway create a sense of harmony with the natural surroundings. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 552770197,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of coastal eco-home with grass driveway and hardwood decking, lit by daytime, warm-white lighting.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 87,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 383.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 552770197,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

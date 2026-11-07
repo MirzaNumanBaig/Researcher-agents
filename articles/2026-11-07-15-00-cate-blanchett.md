@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Cornwall Garden Plans Get Council Approval"
 seo_description: "Cate Blanchett Cornwall garden plans won council approval, with bat-friendly lighting added after ecology concerns. Read what was approved."
 focus_keyword: "Cate Blanchett Cornwall garden"
 permalink: "cate-blanchett-cornwall-garden"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-07 15:00"
 celebrity: "Cate Blanchett"
@@ -14,6 +14,14 @@ tags: ["Cate Blanchett", "Sydney"]
 image_prompt: "A quiet coastal garden at golden hour with granite steps, grasses and boulders beside a modern timber house, warm path lights glowing softly."
 sources:
   - "https://timesofindia.indiatimes.com/world/rest-of-world/cate-blanchett-wins-approval-for-a-luxury-garden-at-her-cornwall-eco-home-after-neighbours-raised-concerns-locals-had-earlier-accused-the-actor-of-encroaching-on-environmentally-important-land/articleshow/135575817.cms"
+image_alt: "Illustration of coastal eco-home with grass driveway and hardwood decking, lit by daytime, warm-white lighting."
+image: "images/2026-11-07-15-00-cate-blanchett.webp"
+wp_media_id: 1690
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-15-00-cate-blanchett-768x432.webp"
+wp_id: 1691
+wp_link: "https://moduscarry.com/cate-blanchett-cornwall-garden/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
