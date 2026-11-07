@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-08 04:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "Michael J. Fox Nominates George Stephanopoulos For President",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelZFSXBDT0FyQUloMkN2a3E1WlZiZGQ3eVhxV1FiYWszQ1NreTdTVnpKbU03RTBSZ3RaSndrSm8tS3BaNmd0TU0zQlFZR0xhTTdESDF6b3M2R2ZIc1RMbXpBWG41NHpvT3kzNUZGeE9ISkJoU2diTTlmQ043Zms0eTRaT3J1Vm45anFzZ2FuWm9wVjNhb3FQZjdGRUd1d1NPRGVOajNpcTFyUQ?oc=5",
+      "published": "2026-11-06T15:53:48+00:00",
+      "outlets": [
+        {
+          "source": "OK Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelZFSXBDT0FyQUloMkN2a3E1WlZiZGQ3eVhxV1FiYWszQ1NreTdTVnpKbU03RTBSZ3RaSndrSm8tS3BaNmd0TU0zQlFZR0xhTTdESDF6b3M2R2ZIc1RMbXpBWG41NHpvT3kzNUZGeE9ISkJoU2diTTlmQ043Zms0eTRaT3J1Vm45anFzZ2FuWm9wVjNhb3FQZjdGRUd1d1NPRGVOajNpcTFyUQ?oc=5",
+          "article_url": "https://okmagazine.com/p/michael-j-fox-nominates-buddy-george-stephanopoulos-president-walk-fame-ceremony/",
+          "image": "https://media.okmagazine.com/wwsnsamxkv/styles/card-social/2026/11/06/michael-j-fox-nominates-george-stephanopoulos-for-president.jpg.webp?version=9f3b12fecdef"
+        }
+      ],
+      "image": "https://media.okmagazine.com/wwsnsamxkv/styles/card-social/2026/11/06/michael-j-fox-nominates-george-stephanopoulos-for-president.jpg.webp?version=9f3b12fecdef",
+      "image_source": "https://okmagazine.com/p/michael-j-fox-nominates-buddy-george-stephanopoulos-president-walk-fame-ceremony/"
+    }
+  ]
+}
