@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-07T17:43:09.602754+00:00",
+  "article": "2026-11-08-04-00-nicole-kidman",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure's erotic thriller the figure is now available on Hulu.",
+    "emotion": "erotic",
+    "setting": "film set",
+    "key_objects": [
+      "Hulu",
+      "the figure",
+      "an anonymous figure",
+      "HBO Max"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "red",
+      "black",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Hulu",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "Hulu",
+      "the figure",
+      "an anonymous figure",
+      "HBO Max"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "red",
+      "black",
+      "silver"
+    ],
+    "mood": "erotic",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-10"
+  ],
+  "prompt": "A medium shot, slightly high angle, of a man in his early 30s with medium-length wavy auburn hair and light skin, leaning forward, elbows on knees, his dark teal suit fitting impeccably, as he holds a paper cup with a relaxed jaw and slightly raised eyebrows. His wide and attentive eyes gaze up and off-frame right, his lips just parted in a subtle, enigmatic smile. His head is tilted slightly up, as if lost in thought, his posture exuding a sense of focus. He sits to the left of centre, with the film set unfolding to the right, the 'Hulu' on a nearby screen gleaming in the soft, diffused light of the studio. To his left, a cardboard cutout of 'the figure' stands tall, its enigmatic presence radiating a sense of mystery. The soft haze of the background and bokeh effect blur the edges of the scene, drawing the viewer's attention to the central figure. The daytime studio lights cast a warm glow from the side, illuminating the fine details of his features and the subtle texture of his skin, with visible pores and small imperfections. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 659787053,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 81.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 659787053,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-07T17:42:53.909214+00:00",
+  "article": "2026-11-08-04-00-ryan-reynolds",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure",
+    "emotion": "cautious",
+    "setting": "football stadium",
+    "key_objects": [
+      "football pitch",
+      "the figure players",
+      "the figure supporters"
+    ],
+    "time_and_light": "afternoon sunlight",
+    "palette": [
+      "navy blue",
+      "bright yellow",
+      "dark grey"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "football pitch",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "football stadium",
+    "props": [
+      "football pitch",
+      "the figure players",
+      "the figure supporters"
+    ],
+    "time_of_day": "afternoon sunlight",
+    "light": {
+      "source": "afternoon sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "navy blue",
+      "bright yellow",
+      "dark grey"
+    ],
+    "mood": "cautious",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "Football pitch and the figure players in football stadium, a lone figure seen from behind in the distance. Softly out of focus in the foreground: the figure supporters. The background fades into soft haze and gentle bokeh. Over-the-shoulder shot, 50mm lens, side-on view, shallow depth of field. Lit by afternoon sunlight. Cautious mood, navy blue, bright yellow and dark grey palette. Candid editorial news photograph the figure natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "template",
+  "prompt_notes": [
+    "attempt 1 rejected: 219 words (needs 60-200)",
+    "attempt 2 rejected: 248 words (needs 60-200)"
+  ],
+  "seed": 200729682,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of football stadium a person football pitch and a person players, lit by afternoon sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 177.0
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 200729682,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

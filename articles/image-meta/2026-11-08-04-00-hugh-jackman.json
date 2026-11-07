@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-07T17:43:34.913407+00:00",
+  "article": "2026-11-08-04-00-hugh-jackman",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure was the the figure the figure for the figure home the figure against Michigan State.",
+    "emotion": "pumped",
+    "setting": "football stadium",
+    "key_objects": [
+      "Block M hat",
+      "maize and blue jacket",
+      "Wolverine Nation",
+      "Big House"
+    ],
+    "time_and_light": "afternoon sunlight",
+    "palette": [
+      "maize",
+      "blue",
+      "green"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Block M hat",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "football stadium",
+    "props": [
+      "Block M hat",
+      "maize and blue jacket",
+      "Wolverine Nation",
+      "Big House"
+    ],
+    "time_of_day": "afternoon sunlight",
+    "light": {
+      "source": "afternoon sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "maize",
+      "blue",
+      "green"
+    ],
+    "mood": "pumped",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of an energetic woman in her early 30s, with a hint of a smile playing on her lips, her eyebrows slightly raised and her eyes shining with excitement as she scans the electric atmosphere of the football stadium. Her mouth is curved upward, the corners of her lips curled upward in a warm, vibrant smile, and her jaw is relaxed, giving her a carefree appearance. Her gaze is directed forward, her eyes fixed on the sea of maize-clad fans cheering in the stands below. She's dressed in a maize and blue jacket, adorned with the iconic Block M hat on her head, and her hands are clasped together in front of her, a gesture of enthusiasm and support. In the foreground, the vibrant maize and blue colors of the stadium's seats and create a dynamic, pulsating atmosphere. The high-angle, over-the-shoulder shot frames her against the stunning backdrop of the Big House's upper decks, with the distant Michigan State fans' section providing a subtle contrast in colors and energy. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2456745310,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of football stadium with Block M hat and maize and blue jacket, lit by afternoon sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 365.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2456745310,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
