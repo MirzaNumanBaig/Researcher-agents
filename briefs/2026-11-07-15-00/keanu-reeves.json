@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-07 15:00",
+  "celebrity": "Keanu Reeves",
+  "stories": [
+    {
+      "title": "In 1984, Keanu Reeves Was A Teddy Bear Convention News Reporter",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3JVX3dOZXJ0ZGw0cEpDYzdnWFhGRjBwd0pEdnNQdkNXUU1BWjU3TnUzT2Y3S3NXb3Q5WDhxZ2F2bUZ3bUc4ektwdy1QSVFmWlhGeTltMS0tQ3VNdUsyZWdVWGhZbnJ0ajQ0cm5BNy03Wm9kTkk3M0E1aFFnTHZicS1PUWFGUW1YSTBTTll6WDNPN1pWNWV5MDVTQXpobW8?oc=5",
+      "published": "2026-11-06T10:45:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3JVX3dOZXJ0ZGw0cEpDYzdnWFhGRjBwd0pEdnNQdkNXUU1BWjU3TnUzT2Y3S3NXb3Q5WDhxZ2F2bUZ3bUc4ektwdy1QSVFmWlhGeTltMS0tQ3VNdUsyZWdVWGhZbnJ0ajQ0cm5BNy03Wm9kTkk3M0E1aFFnTHZicS1PUWFGUW1YSTBTTll6WDNPN1pWNWV5MDVTQXpobW8?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/1984-keanu-reeves-teddy-bear-104500340.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/8c72d9bbaa2f0b726b2c5735c4aea849598e4bf1a32d191629722b2916ede46a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flooper_828%2F83d62cff6d43f743888401d954f72173.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/8c72d9bbaa2f0b726b2c5735c4aea849598e4bf1a32d191629722b2916ede46a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flooper_828%2F83d62cff6d43f743888401d954f72173.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/1984-keanu-reeves-teddy-bear-104500340.html"
+    }
+  ]
+}

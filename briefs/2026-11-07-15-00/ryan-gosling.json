@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-07 15:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ryan Gosling is Officially Reviving The Flintstones for New Project",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YZWNubEdmSDVLVUUtT1dFVnJMZkh5NXF0NmxpWUx1aVFWRDAxM2x6TWpPaTFlOUIyUS1KS1R3QUJEQ3kyRFB0NE5NUEt6SnlDTDNwS3V3bmdmeGJ1aVdmU2FIZEo2ZkVKcnpEZklKeXFMTE0?oc=5",
+      "published": "2026-11-07T01:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Polygon.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YZWNubEdmSDVLVUUtT1dFVnJMZkh5NXF0NmxpWUx1aVFWRDAxM2x6TWpPaTFlOUIyUS1KS1R3QUJEQ3kyRFB0NE5NUEt6SnlDTDNwS3V3bmdmeGJ1aVdmU2FIZEo2ZkVKcnpEZklKeXFMTE0?oc=5",
+          "article_url": "https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24783115/rev_1_BAR_TT3_0104_High_Res_JPEG.jpeg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24783115/rev_1_BAR_TT3_0104_High_Res_JPEG.jpeg?w=1600&h=900&fit=crop",
+      "image_source": "https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/"
+    }
+  ]
+}
