@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-07T21:38:19.532138+00:00",
+  "article": "2026-11-08-08-00-ryan-reynolds",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure manager Phil the figure praises owners an anonymous figure and an anonymous figure for their uplifting visits to the the figure.",
+    "emotion": "uplifting",
+    "setting": "football stadium",
+    "key_objects": [
+      "football players",
+      "owners in the directors' box",
+      "football pitch",
+      "goalkeeper"
+    ],
+    "time_and_light": "afternoon sunlight",
+    "palette": [
+      "green",
+      "blue",
+      "white"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "football players",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "football stadium",
+    "props": [
+      "football players",
+      "owners in the directors' box",
+      "football pitch",
+      "goalkeeper"
+    ],
+    "time_of_day": "afternoon sunlight",
+    "light": {
+      "source": "afternoon sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "green",
+      "blue",
+      "white"
+    ],
+    "mood": "uplifting",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of an anonymous figure manager in his mid 40s, with a gentle smile spreading across his face, the corners of his mouth lifting upwards, and a subtle crinkling around his eyes; his eyebrows are slightly raised, and his gaze is directed upwards, towards the owners in the directors' box. His head is tilted slightly to the left, his shoulders relaxed, and his posture open. He is dressed in a crisp, navy blue blazer with a white button-down shirt, and his hands are clasped together in front of him, resting on the railing of the directors' box. The foreground of the image is the football pitch, with the goalposts and players blurred in the background. The camera is positioned at a slightly low angle, with a 50mm lens, capturing a close-up detail shot of the manager's face. The warm afternoon sunlight casts a gentle glow over the scene, illuminating the manager's features. The palette is a soothing mix of green, blue, and white, evoking a sense of optimism and uplift. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2403228468,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of football stadium with football players and owners in the directors' box, lit by afternoon sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 139.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2403228468,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

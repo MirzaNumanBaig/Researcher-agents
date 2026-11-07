@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Women of the Year Speech: Jackboot Warning"
 seo_description: "Cate Blanchett's Women of the Year speech said a jackboot of misogyny may be lifting in theatre, but warned it has not gone. Read her words."
 focus_keyword: "Cate Blanchett Women of the Year speech"
 permalink: "cate-blanchett-women-of-the-year-speech"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-08 08:00"
 celebrity: "Cate Blanchett"
@@ -14,6 +14,14 @@ tags: ["Cate Blanchett"]
 image_prompt: "An empty theatre stage lit by a single spotlight, rows of red velvet seats in soft shadow, a pair of shoes left at the edge of the boards"
 sources:
   - "https://www.harpersbazaar.com/uk/culture/a74364557/cate-blanchett-women-of-the-year-speech/"
+image_alt: "Illustration of a woman in theatre, lit by evening, stage lights."
+image: "images/2026-11-08-08-00-cate-blanchett.webp"
+wp_media_id: 1710
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-08-08-00-cate-blanchett-768x432.webp"
+wp_id: 1711
+wp_link: "https://moduscarry.com/cate-blanchett-women-of-the-year-speech/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

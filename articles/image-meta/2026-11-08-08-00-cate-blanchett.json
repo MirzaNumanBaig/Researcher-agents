@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-07T21:38:59.317925+00:00",
+  "article": "2026-11-08-08-00-cate-blanchett",
+  "ai_generated": true,
+  "story_type": "award",
+  "analysis": {
+    "story_type": "award",
+    "core_event": "an anonymous figure receives Theatre Actress award at Harper's Bazaar's Women of the Year ceremony",
+    "emotion": "hopeful",
+    "setting": "theatre",
+    "key_objects": [
+      "award",
+      "speech",
+      "jackboot",
+      "misogyny"
+    ],
+    "time_and_light": "evening, stage lights",
+    "palette": [
+      "deep blue",
+      "golden",
+      "dark grey"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "award",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "level and calm",
+          "eyes": "bright and steady",
+          "mouth": "a restrained smile",
+          "jaw": "set"
+        },
+        "gaze": "out toward the audience",
+        "head": "level, chin up",
+        "posture": "upright, shoulders back",
+        "hands": "one hand holding a trophy against the chest",
+        "interaction": "",
+        "clothing": "a formal dark suit"
+      }
+    ],
+    "setting": "theatre",
+    "props": [
+      "award",
+      "speech",
+      "jackboot",
+      "misogyny"
+    ],
+    "time_of_day": "evening, stage lights",
+    "light": {
+      "source": "evening, stage lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "deep blue",
+      "golden",
+      "dark grey"
+    ],
+    "mood": "hopeful",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-11"
+  ],
+  "prompt": "A medium-wide shot, taken from a three-quarter view, of a woman in her mid 30s with a high dark-blonde ponytail and sun-warmed tan skin, wears a forest-green wrap dress, has level and calm eyebrows, bright and steady eyes, a restrained smile, and a set jaw, gazing out toward the audience with her head level and chin up, standing upright with her shoulders back, and one hand holding a trophy against her chest, stands confidently left of center on the dimly lit stage of the theatre, with the soft haze and bokeh of the background subtly blurring into the distance, the award she holds proudly in the foreground, while the speech, jackboot, and misogyny props are subtly integrated into the scene without drawing attention, as the stage lights from the side cast a warm and hopeful glow on the entire scene, creating a deep blue, golden, and dark grey color palette that exudes a sense of accomplishment and optimism. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 308776562,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in theatre, lit by evening, stage lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 78.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 308776562,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
