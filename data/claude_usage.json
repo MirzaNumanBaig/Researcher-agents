@@ -7519,6 +7519,22 @@
    "turns": 9,
    "seconds": 27,
    "cost_usd": 0.1463
+  },
+  {
+   "date": "2026-11-07",
+   "time": "2026-11-07T04:46:19+00:00",
+   "batch": "2026-11-07 10:00",
+   "celebrity": "Connor Storrie",
+   "article": "2026-11-07-10-00-connor-storrie.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 1000,
+   "cache_read_tokens": 108765,
+   "cache_write_tokens": 19751,
+   "turns": 7,
+   "seconds": 10,
+   "cost_usd": 0.1
   }
  ]
 }
