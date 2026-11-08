@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-11-08T16:17:53.156584+00:00",
+  "article": "2026-11-09-02-00-liam-hemsworth",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "The the figure the figure the figure starring an anonymous figure arrive on Peacock.",
+    "emotion": "excitement",
+    "setting": "streaming service",
+    "key_objects": [
+      "the figure the figure the figure",
+      "an anonymous figure",
+      "Peacock",
+      "streaming service"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "silver",
+      "gray"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure the figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "streaming service",
+    "props": [
+      "the figure the figure the figure",
+      "an anonymous figure",
+      "Peacock",
+      "streaming service"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "silver",
+      "gray"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-02"
+  ],
+  "prompt": "A medium-wide shot, taken from a three-quarter view, of a man in his late 30s with short dark greying hair and medium-brown skin, wearing a charcoal knit sweater, leans forward, elbows on knees, as he holds a paper cup in his hands. His slightly raised eyebrows convey a sense of curiosity, his wide and attentive eyes sparkling with excitement, his lips just parted as if to speak, and his relaxed jawline adding to his intent expression. His gaze is directed up and off-frame right, as if he's taking in the surroundings. His the figure is tilted slightly up, exuding a sense of engagement. The man is positioned left of centre in the frame, with the streaming service's office opening up to the right, a soft haze and bokeh in the background. An anonymous figure stands to his right, while the figure the figure the figure and Peacock take up the rest of the midground. Soft sunlight filters in from the side, casting a warm glow over the scene. The mood is one of excitement, conveyed through the character's body language and the colour palette of blue, silver, and gray. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: 210 words (needs 90-200)"
+  ],
+  "seed": 3504762230,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in streaming service, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 96.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3504762230,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

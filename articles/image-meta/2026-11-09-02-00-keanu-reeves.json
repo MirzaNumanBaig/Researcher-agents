@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-08T16:18:06.540578+00:00",
+  "article": "2026-11-09-02-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure in an anonymous figure's Maelstrom",
+    "emotion": "action",
+    "setting": "film set",
+    "key_objects": [
+      "hurricane",
+      "safe house",
+      "Federal Marshal",
+      "arms dealer"
+    ],
+    "time_and_light": "nighttime, stormy weather",
+    "palette": [
+      "dark grey",
+      "stormy blue",
+      "emergency orange"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "hurricane",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "hurricane",
+      "safe house",
+      "Federal Marshal",
+      "arms dealer"
+    ],
+    "time_of_day": "nighttime, stormy weather",
+    "light": {
+      "source": "nighttime, stormy weather",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark grey",
+      "stormy blue",
+      "emergency orange"
+    ],
+    "mood": "action",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-09"
+  ],
+  "prompt": "A medium shot, three-quarter view, taken from directly in front of the main subject, of a woman in her late 50s with short wavy white hair and pale skin, standing in the centre of a chaotic film set. Her slightly raised eyebrows are drawn together, her wide and attentive eyes locked on something off to her right, and her lips are just parted, giving her a look of concern. Her jaw is relaxed, but a slight tension is evident in the muscles beneath her skin. She is leaning forward, her elbows resting on her knees, and her hands are holding a paper cup. Her gaze is directed up and off-frame right, and her head is tilted slightly up, as if she is watching something with great interest. She is dressed in a pearl-grey silk blouse, which complements the dark grey and stormy blue hues of the film set. The mood is one of action and tension, with the colour palette dominated by dark grey, stormy blue, and emergency orange. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1427430343,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by nighttime, stormy weather.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 138.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1427430343,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

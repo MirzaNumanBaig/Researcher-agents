@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-11-08T16:16:51.864338+00:00",
+  "article": "2026-11-09-02-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure attends the 2026 CFDA an anonymous figure Awards with a polished look",
+    "emotion": "glamorous",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "matte black Carolina Herrera dress",
+      "feathers at the neck",
+      "glossy the figure-red lip",
+      "slingback heels",
+      "polka-dotted clutch"
+    ],
+    "time_and_light": "evening, camera flash",
+    "palette": [
+      "muted the figure red",
+      "black",
+      "polka dots"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "matte black Carolina Herrera dress",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "matte black Carolina Herrera dress",
+      "feathers at the neck",
+      "glossy the figure-red lip",
+      "slingback heels"
+    ],
+    "time_of_day": "evening, camera flash",
+    "light": {
+      "source": "evening, camera flash",
+      "direction": "from the side"
+    },
+    "palette": [
+      "muted the figure red",
+      "black",
+      "polka dots"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-07"
+  ],
+  "prompt": "A medium-wide shot, taken from a slightly high angle, of a woman in her early 30s with loose curly dark brown hair and rich brown skin, wearing a matte black Carolina Herrera dress with feathers at the neck, a glossy red lip, and slingback heels, stands confidently to the left of centre in the scene. Her smooth and softly arched eyebrows are raised slightly, her confident and direct brown eyes gaze directly toward the camera, and her mouth curves into a composed soft smile, with her jaw lifted ever so slightly. Her quarter-turned head is tilted toward the lens, her chin raised and her shoulders back, with her spine long and her posture exuding poise. Her one hand rests on her hip, in a subtle gesture of self-assurance. To her right, a soft haze and bokeh blur the background, with the setting opening up to the right. The camera's 85mm lens captures the scene with a shallow depth of field, emphasizing the subject's features and the details of her dress. The muted red, black, and polka dot colour palette is rich and sophisticated, evoking a glamorous and refined atmosphere. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2287808582,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in a person, lit by evening, camera flash.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 43.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2287808582,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

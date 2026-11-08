@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Stuntnuts: Sam Rockwell Joins Action Comedy"
 seo_description: "Chris Hemsworth Stuntnuts update: Sam Rockwell joins the meta action comedy about two stunt performers, now on offer to buyers at AFM."
 focus_keyword: "Chris Hemsworth Stuntnuts"
 permalink: "chris-hemsworth-stuntnuts-sam-rockwell"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-09 02:00"
 celebrity: "Chris Hemsworth"
@@ -14,6 +14,14 @@ tags: ["Chris Hemsworth", "Marvel Studios"]
 image_prompt: "A dim stunt training gym with crash mats, a padded ring and rigging ropes under warm overhead lights, empty and quiet."
 sources:
   - "https://www.darkhorizons.com/hemsworth-rockwell-join-vaughns-stuntnuts/"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-09-02-00-chris-hemsworth.webp"
+wp_media_id: 1722
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-02-00-chris-hemsworth-768x432.webp"
+wp_id: 1723
+wp_link: "https://moduscarry.com/chris-hemsworth-stuntnuts-sam-rockwell/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

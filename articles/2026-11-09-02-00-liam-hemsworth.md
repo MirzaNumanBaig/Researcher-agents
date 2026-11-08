@@ -5,7 +5,7 @@ seo_title: "Liam Hemsworth Hunger Games Marathon Lands on Peacock"
 seo_description: "Liam Hemsworth Hunger Games films, a $2.9 billion franchise, arrive on Peacock in a marathon from November 14, per Crave Online."
 focus_keyword: "Liam Hemsworth Hunger Games"
 permalink: "liam-hemsworth-hunger-games"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-09 02:00"
 celebrity: "Liam Hemsworth"
@@ -14,6 +14,14 @@ tags: ["Liam Hemsworth"]
 image_prompt: "A dimly lit living room with a large television glowing in a darkened room, a bowl of popcorn and a blanket on the sofa."
 sources:
   - "https://www.mandatory.com/news/1885541-new-peacock-releases-this-week-november-9-15"
+image_alt: "Illustration of a man in streaming service, lit by daytime, sunlight."
+image: "images/2026-11-09-02-00-liam-hemsworth.webp"
+wp_media_id: 1728
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-02-00-liam-hemsworth-768x432.webp"
+wp_id: 1729
+wp_link: "https://moduscarry.com/liam-hemsworth-hunger-games/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
