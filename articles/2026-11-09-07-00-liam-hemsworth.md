@@ -22,6 +22,7 @@ wp_id: 1743
 wp_link: "https://moduscarry.com/david-henrie-liam-hemsworth-gale/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
