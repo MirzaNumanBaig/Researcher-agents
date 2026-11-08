@@ -22,6 +22,7 @@ wp_id: 1723
 wp_link: "https://moduscarry.com/chris-hemsworth-stuntnuts-sam-rockwell/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

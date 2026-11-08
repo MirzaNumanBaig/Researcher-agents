@@ -22,6 +22,7 @@ wp_id: 1733
 wp_link: "https://moduscarry.com/pamela-anderson-cfda-look/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
