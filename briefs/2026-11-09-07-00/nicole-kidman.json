@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-09 07:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Inside Nicole Kidman and Kim Kardashian’s Night at the Museum",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGN3ZzhiNHRORUhvcDNpaUtLd2VuNFppYWFrVTZ1Y3NENXVUbEdtWDBRbGVsazlXcHdwTnpXZ2dhajlUSklnNmhOQU9FcmR0QjFHd0ctdWhzaWxuMWYwN1pyYWE3OGMtNEJfMUdPQkNCWHgyTzNTUVU1dDVpRUZxMzRPZ05tYWtaeWVlalNB?oc=5",
+      "published": "2026-11-08T19:23:33+00:00",
+      "outlets": [
+        {
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGN3ZzhiNHRORUhvcDNpaUtLd2VuNFppYWFrVTZ1Y3NENXVUbEdtWDBRbGVsazlXcHdwTnpXZ2dhajlUSklnNmhOQU9FcmR0QjFHd0ctdWhzaWxuMWYwN1pyYWE3OGMtNEJfMUdPQkNCWHgyTzNTUVU1dDVpRUZxMzRPZ05tYWtaeWVlalNB?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Kim Kardashian, Nicole Kidman stun on LACMA Art + Film Gala red carpet",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUQxQ2M4c01BQmtfVFlvUTUxdHBZRW1LazRaMElQRjA5MDhCYjVwLTJpUjFfV01WaHhRSGtzUW95SVMyZ2tuWUU1UDhzMFpkVzE0NlU1aERxWWN6MjZsVE9GYUczaHNUdXBCc0pNVWhsZmhqXzVSTWw0am1yYjlQNHF5Vm1EdFBEZ1BhTmY2T2pqdjFfWEpZd0taOHAyYld1OExVelh5QlJNc1ktcW5VZmFpQjFuT1o0VjJSWEFkVHA?oc=5",
+      "published": "2026-11-08T17:49:00+00:00",
+      "outlets": [
+        {
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUQxQ2M4c01BQmtfVFlvUTUxdHBZRW1LazRaMElQRjA5MDhCYjVwLTJpUjFfV01WaHhRSGtzUW95SVMyZ2tuWUU1UDhzMFpkVzE0NlU1aERxWWN6MjZsVE9GYUczaHNUdXBCc0pNVWhsZmhqXzVSTWw0am1yYjlQNHF5Vm1EdFBEZ1BhTmY2T2pqdjFfWEpZd0taOHAyYld1OExVelh5QlJNc1ktcW5VZmFpQjFuT1o0VjJSWEFkVHA?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

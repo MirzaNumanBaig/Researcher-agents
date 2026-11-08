@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-09 07:00",
+  "celebrity": "Jacob Elordi",
+  "stories": [
+    {
+      "title": "No Time to Dye: Jacob Elordi Goes Blonde",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0U1JFbTV2OTA4QjMwSDZkR2MzWEJiNDFZYWxqUHR5dzJkMF9aY1ZxNi1kQU9vN2tOeVRkYko1NU5oRzhCbWxWcWlUYzEzbXJDeXFjNjhNSXJjWjV0a3F1VDJJNjU?oc=5",
+      "published": "2026-11-08T19:24:19+00:00",
+      "outlets": [
+        {
+          "source": "Vogue",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0U1JFbTV2OTA4QjMwSDZkR2MzWEJiNDFZYWxqUHR5dzJkMF9aY1ZxNi1kQU9vN2tOeVRkYko1NU5oRzhCbWxWcWlUYzEzbXJDeXFjNjhNSXJjWjV0a3F1VDJJNjU?oc=5",
+          "article_url": "https://www.vogue.com/article/jacob-elordi-goes-blonde",
+          "image": "https://assets.vogue.com/photos/6af0c78989f09a6dc25b7016/16:9/w_1280,c_limit/2300759464"
+        }
+      ],
+      "image": "https://assets.vogue.com/photos/6af0c78989f09a6dc25b7016/16:9/w_1280,c_limit/2300759464",
+      "image_source": "https://www.vogue.com/article/jacob-elordi-goes-blonde"
+    },
+    {
+      "title": "Jacob Elordi Debuts Shocking Blonde Hair Transformation During Intimate Date Night With Kendall Jenner",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3A1YkM2ekdTVFI2aTdjVGVPYVdQc0VlVU9abnctY1BsdFVUdFhMN2JHVHJzZ2lZWVdEWjhCYlpaV1ZHZXdpV05RV2hKaGRTWkljd1NRal9ZWjh4bXVJaW5fY1dSQ2I1ZW9ST1RXSk9acW56dDdMYVlEOHBPR0tVWUczMGFkYThSU1FXdWE1SFJSM0JqbUg2VkNsOG0zQ2RIcl9j?oc=5",
+      "published": "2026-11-08T17:42:00+00:00",
+      "outlets": [
+        {
+          "source": "E! News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3A1YkM2ekdTVFI2aTdjVGVPYVdQc0VlVU9abnctY1BsdFVUdFhMN2JHVHJzZ2lZWVdEWjhCYlpaV1ZHZXdpV05RV2hKaGRTWkljd1NRal9ZWjh4bXVJaW5fY1dSQ2I1ZW9ST1RXSk9acW56dDdMYVlEOHBPR0tVWUczMGFkYThSU1FXdWE1SFJSM0JqbUg2VkNsOG0zQ2RIcl9j?oc=5",
+          "article_url": "https://www.eonline.com/news/1437931/jacob-elordi-debuts-blonde-hair-during-kendall-jenner-date-night",
+          "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20261108/88de3949-d25c-4a0c-8134-e100140eb28c_1794158408.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top"
+        }
+      ],
+      "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20261108/88de3949-d25c-4a0c-8134-e100140eb28c_1794158408.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+      "image_source": "https://www.eonline.com/news/1437931/jacob-elordi-debuts-blonde-hair-during-kendall-jenner-date-night"
+    }
+  ]
+}
