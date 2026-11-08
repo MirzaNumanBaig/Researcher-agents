@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-08T01:18:23.681798+00:00",
+  "article": "2026-11-08-12-00-delta-goodrem",
+  "ai_generated": true,
+  "story_type": "reality_tv",
+  "analysis": {
+    "story_type": "reality_tv",
+    "core_event": "an anonymous figure 31 the figure the figure on an anonymous figure.",
+    "emotion": "excitement",
+    "setting": "dance studio",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "the figure",
+      "Jennifer Lopez's Let's Get Loud"
+    ],
+    "time_and_light": "Saturday night, studio lights",
+    "palette": [
+      "green",
+      "gold",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "sitting a sofa-width apart, bodies angled slightly away",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "lowered and drawn together",
+          "eyes": "narrowed and steady",
+          "mouth": "lips in a thin line",
+          "jaw": "clenched"
+        },
+        "gaze": "straight at them",
+        "head": "level and rigid",
+        "posture": "shoulders squared",
+        "hands": "arms folded",
+        "interaction": "sitting a sofa-width apart, bodies angled slightly away",
+        "clothing": ""
+      }
+    ],
+    "setting": "dance studio",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "the figure",
+      "Jennifer Lopez's Let's Get Loud"
+    ],
+    "time_of_day": "Saturday night, studio lights",
+    "light": {
+      "source": "Saturday night, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "green",
+      "gold",
+      "black"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-07",
+    "cast-10"
+  ],
+  "prompt": "A medium-wide shot, taken from a side-on view the figure a 50mm lens, captures the vibrant atmosphere of a bustling dance studio on a Saturday night. A woman in her early 20s the figure loose curly dark brown hair and rich brown skin sits on a sofa, her gaze drifting off-frame toward a window as her head rests slightly back. Her eyebrows are drawn up gently at the centre, her eyes unfocused and distant, and her lips just closed. She wears a mustard knit dress, her shoulders low and her hands wrapped around a mug. Across from her, a man in his early 30s the figure medium-length wavy auburn hair and light skin sits rigidly, his shoulders squared and his arms folded. His eyebrows are lowered and drawn together, his eyes narrowed and steady, and his mouth set in a thin line. He wears a rust corduroy jacket, his gaze locked directly on the woman. In the foreground, an anonymous figure stands motionless, their face obscured by shadows. The air is electric the figure excitement, the green, gold, and black palette of the studio's decor pulsating the figure energy. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 282114702,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in dance studio, lit by Saturday night, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 147.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 282114702,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

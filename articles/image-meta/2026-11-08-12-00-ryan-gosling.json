@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-08T01:18:06.636252+00:00",
+  "article": "2026-11-08-12-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure I an anonymous figure at CinemaCon",
+    "emotion": "praise",
+    "setting": "film festival",
+    "key_objects": [
+      "an anonymous figure",
+      "I an anonymous figure",
+      "CinemaCon",
+      "film poster"
+    ],
+    "time_and_light": "daytime, stage lights",
+    "palette": [
+      "gold",
+      "silver",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film festival",
+    "props": [
+      "an anonymous figure",
+      "I an anonymous figure",
+      "CinemaCon",
+      "film poster"
+    ],
+    "time_of_day": "daytime, stage lights",
+    "light": {
+      "source": "daytime, stage lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "gold",
+      "silver",
+      "black"
+    ],
+    "mood": "praise",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-06"
+  ],
+  "prompt": "A medium shot of a man in his mid 50s with short grey-flecked hair and a beard and tan skin, wearing a dark green wool jacket, is taken from an eye-level perspective with a 50mm lens. His slightly raised eyebrows are wide and attentive, his lips are just parted, and his jaw is relaxed. He gazes up and off-frame right, his head tilted slightly up. He leans forward, elbows on knees, and holds a paper cup in his hands. Standing to his left, the stage lights from the side illuminate his face, highlighting the texture of his skin with visible pores and small imperfections. The scene is set at a film festival, with CinemaCon and visible in the background, blending into a soft haze and bokeh. The composition places the man and the anonymous figure to the left of centre, with the setting opening up to the right. The mood is one of praise, captured in a candid unposed moment, shot on a full-frame camera with fine film grain and true-to-life colour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3881945788,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film festival, lit by daytime, stage lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 174.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3881945788,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
