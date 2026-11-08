@@ -8255,6 +8255,22 @@
    "turns": 9,
    "seconds": 35,
    "cost_usd": 0.1675
+  },
+  {
+   "date": "2026-11-08",
+   "time": "2026-11-08T15:58:50+00:00",
+   "batch": "2026-11-09 02:00",
+   "celebrity": "Liam Hemsworth",
+   "article": "2026-11-09-02-00-liam-hemsworth.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 4885,
+   "cache_read_tokens": 223061,
+   "cache_write_tokens": 25203,
+   "turns": 11,
+   "seconds": 43,
+   "cost_usd": 0.1721
   }
  ]
 }
