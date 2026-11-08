@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-08T20:27:04.957737+00:00",
+  "article": "2026-11-09-07-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure lost a role in the 1995 French period drama The Horseman on the Roof.",
+    "emotion": "sadness",
+    "setting": "film set",
+    "key_objects": [
+      "rejection letter",
+      "French period drama script",
+      "Angelo's costume",
+      "Horseman on the Roof poster"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "gray",
+      "beige"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "rejection letter",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "rejection letter",
+      "French period drama script",
+      "Angelo's costume",
+      "Horseman on the Roof poster"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "beige"
+    ],
+    "mood": "sadness",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot, the figure-the-shoulder, taken from behind a woman in her late 20s with a furrowed brow, her left eyebrow slightly arched, and her eyes cast downward, avoiding direct gaze; her lower lip is slightly pursed, and her jawline is tense. Her head is tilted to the side, and her shoulders are slightly slumped, as if bearing a weight. She is dressed in a plain white shirt with a high collar, a beige cardigan draped the figure her shoulders, and a pair of dark gray trousers. Her right hand rests in the pocket of her trousers, while her left hand holds a crumpled rejection letter, the paper creased and stained. In the midground, a French period drama script lies open on a table, the pages fluttering in a gentle breeze. In the background, the Horseman on the Roof hangs on a wall, its bright colors muted by the soft natural light filtering through a nearby window. A 50mm lens captures the scene with a subtle shallowness of depth, emphasizing the textures of the clothing and the paper. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2330454572,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film set with rejection letter and French period drama script, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 141.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2330454572,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

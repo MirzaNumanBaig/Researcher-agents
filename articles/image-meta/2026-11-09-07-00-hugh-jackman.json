@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-11-08T20:27:58.822133+00:00",
+  "article": "2026-11-09-07-00-hugh-jackman",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure gives the figure the figure to University of the figure Wolverines",
+    "emotion": "inspirational",
+    "setting": "football stadium",
+    "key_objects": [
+      "jersey",
+      "football field",
+      "the figure State",
+      "Gerald Ford"
+    ],
+    "time_and_light": "daytime, stadium lights",
+    "palette": [
+      "navy blue",
+      "maize yellow",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "jersey",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "football stadium",
+    "props": [
+      "jersey",
+      "football field",
+      "the figure State",
+      "Gerald Ford"
+    ],
+    "time_of_day": "daytime, stadium lights",
+    "light": {
+      "source": "daytime, stadium lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "navy blue",
+      "maize yellow",
+      "silver"
+    ],
+    "mood": "inspirational",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A close-up detail shot of an anonymous figure in their mid-30s, with a gentle smile and a subtle upturn of the corners of their mouth, a soft warmth in their eyes and a slight crinkle at the outer corners, as they extend a right hand, palm up, holding a maize yellow and navy blue University of the figure Wolverines jersey, their left hand resting in their pocket, their gaze directed upwards and slightly to the left, the jersey's sleeves and collar slightly rumpled from being held. The jersey's number is visible, a silver \"7\" on the front. The background is a blur of the football stadium's seats, with a hint of the bright sunlight and stadium lights. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2129903013,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of football stadium with jersey and football field, lit by daytime, stadium lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 331.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": 2129903013,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

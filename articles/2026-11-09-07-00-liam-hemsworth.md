@@ -5,7 +5,7 @@ seo_title: "David Henrie Liam Hemsworth: The Role He Lost and Why"
 seo_description: "David Henrie says he lost Gale in The Hunger Games to Liam Hemsworth, and calls it the best thing that happened to him. Here is his story."
 focus_keyword: "David Henrie Liam Hemsworth"
 permalink: "david-henrie-liam-hemsworth-gale"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-09 07:00"
 celebrity: "Liam Hemsworth"
@@ -14,6 +14,14 @@ tags: ["Liam Hemsworth", "David Henrie", "The Hunger Games", "Gale"]
 image_prompt: "A quiet audition room at dusk with an empty chair, a script on a table and a single warm lamp."
 sources:
   - "https://uk.news.yahoo.com/disney-star-david-henrie-says-180000171.html"
+image_alt: "Illustration of a woman and a man in film set, lit by daytime, natural light."
+image: "images/2026-11-09-07-00-liam-hemsworth.webp"
+wp_media_id: 1742
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-07-00-liam-hemsworth-768x432.webp"
+wp_id: 1743
+wp_link: "https://moduscarry.com/david-henrie-liam-hemsworth-gale/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

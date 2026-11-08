@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-08T20:27:22.779281+00:00",
+  "article": "2026-11-09-07-00-jacob-elordi",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure on an anonymous figure",
+    "emotion": "casual",
+    "setting": "Broadway performance",
+    "key_objects": [
+      "the figure hair",
+      "black beanie",
+      "black trench coat",
+      "drinks"
+    ],
+    "time_and_light": "evening, streetlights",
+    "palette": [
+      "the figure",
+      "black",
+      "dark brown"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure hair",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "Broadway performance",
+    "props": [
+      "the figure hair",
+      "black beanie",
+      "black trench coat",
+      "drinks"
+    ],
+    "time_of_day": "evening, streetlights",
+    "light": {
+      "source": "evening, streetlights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "the figure",
+      "black",
+      "dark brown"
+    ],
+    "mood": "casual",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-01"
+  ],
+  "prompt": "A wide shot of the Broadway performance, taken from a slightly high angle, the figure a 35mm lens, captures the anonymous figure on stage. A woman in her early 30s the figure shoulder-length wavy chestnut hair and light olive skin stands confidently, her smooth and softly arched eyebrows raised as she gazes directly toward the camera. Her composed soft smile, a gentle lift of her jaw, and a quarter-turned head, the figure her chin raised, exude a sense of self-assurance. Her shoulders are back, her spine long, and one hand rests on her hip as she commands the spotlight. The black satin dress she wears shimmers in the light from the evening streetlights, casting a subtle glow on her skin. The soft haze and bokeh of the background blur the edges of the setting, while the midground is occupied by the woman, and the foreground features a few strands of 'the figure hair', a black beanie, a black trench coat, and a few drinks scattered around her. The overall mood is casual, the figure the woman's relaxed posture and the dark, muted colours of the setting contributing to the atmosphere. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 379127457,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in Broadway performance, lit by evening, streetlights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 109.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 379127457,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
