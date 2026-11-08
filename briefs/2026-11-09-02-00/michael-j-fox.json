@@ -1,0 +1,27 @@
+{
+  "batch": "2026-11-09 02:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "EXCLUSIVE: Michael J. Fox's Parkinson's Battle Sparks Fresh Health Worries",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXdWQ1drWk5MU3AzYld3N29QTU5tam9RdXdqUnVpUWRPSi1ud1FiQlpJSWNFZnl0NDVXZl90VGFQWU1LaU0xeE93V3MtbWNkeWFYdmxYVVFGVm5wSmFpS21qdk16UVBKR3VqdW1KYXZ3RWV1RFlPMVlsQ3BjVmpubEln?oc=5",
+      "published": "2026-11-08T13:31:21+00:00",
+      "outlets": [
+        {
+          "source": "RadarOnline",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXdWQ1drWk5MU3AzYld3N29QTU5tam9RdXdqUnVpUWRPSi1ud1FiQlpJSWNFZnl0NDVXZl90VGFQWU1LaU0xeE93V3MtbWNkeWFYdmxYVVFGVm5wSmFpS21qdk16UVBKR3VqdW1KYXZ3RWV1RFlPMVlsQ3BjVmpubEln?oc=5",
+          "article_url": "https://radaronline.com/p/michael-j-fox-parkinsons-struggle-health-concerns/",
+          "image": "https://media.radaronline.com/brand-img/O0wrguFdF/1200x628/michael-j-fox-parkinsons-struggle-health-concerns-1793678671398.jpg"
+        },
+        {
+          "source": "Yahoo Lifestyle Canada",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNmlMNjJsQmlJSDlmSjBVMWNma2xsZXdKMHg4RHVodEtFSGJyZHd2aXRNU0JVcGRrZG9xdS1HV2tYVExVYlhQakcyOHdMNWxsWVRDNUg3LTZld3RaMHM3S1ItZ3FnM2FyckhkdUI4T3pRby1NRnB1YmVjMzU3cEd2SXFUQQ?oc=5",
+          "article_url": "https://ca.style.yahoo.com/exclusive-michael-j-foxs-parkinsons-133000850.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/0f664ebffb1500c5cbc544987656d86d47ba7faed8b0b716d49a90b9f144e640/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fradar_online_557%2F60a195fe0e7514ee514b19a426a89587.jpg"
+        }
+      ],
+      "image": "https://media.radaronline.com/brand-img/O0wrguFdF/1200x628/michael-j-fox-parkinsons-struggle-health-concerns-1793678671398.jpg",
+      "image_source": "https://radaronline.com/p/michael-j-fox-parkinsons-struggle-health-concerns/"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-09 02:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "Russell Crowe's New Sci-Fi Thriller Adds Beastly Action Star",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1acnN0WjZVOUlYQ3V2a2RINFFnVElucUtsLTFocFR0d203c3dnVVc3NW4zWVFtWjJ0dEtUUzdVY0FMQ1BhUDRRZ0pVc19nX2hoWnNSY3F3NF9GSHNtVHctWFd3?oc=5",
+      "published": "2026-11-08T14:59:26+00:00",
+      "outlets": [
+        {
+          "source": "MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1acnN0WjZVOUlYQ3V2a2RINFFnVElucUtsLTFocFR0d203c3dnVVc3NW4zWVFtWjJ0dEtUUzdVY0FMQ1BhUDRRZ0pVc19nX2hoWnNSY3F3NF9GSHNtVHctWFd3?oc=5",
+          "article_url": "https://movieweb.com/bluefly-adds-daniel-macpherson/",
+          "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/new-project-4.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/new-project-4.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://movieweb.com/bluefly-adds-daniel-macpherson/"
+    },
+    {
+      "title": "Russell Crowe's R-Rated 116-Minute Cult Action Flop Becomes the Biggest Film on Streaming",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00NjJpTFhVMTFxV0ZBREM3cWdBUUdZdFBwcjN0bllNQmdHY0FZNzhmVGYxU1ZHSWliUVVsZmRJbnlKNWY4MUVzLXRsZnpidFJTWTZZUzc0c194b1B1X2wyUVI0WDJ6dGs?oc=5",
+      "published": "2026-11-08T11:29:10+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00NjJpTFhVMTFxV0ZBREM3cWdBUUdZdFBwcjN0bllNQmdHY0FZNzhmVGYxU1ZHSWliUVVsZmRJbnlKNWY4MUVzLXRsZnpidFJTWTZZUzc0c194b1B1X2wyUVI0WDJ6dGs?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66100998/?ref_=nmnw_art_perm",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}
