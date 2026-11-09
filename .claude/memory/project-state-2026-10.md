@@ -25,7 +25,9 @@ Cloudflare cost facts (price table, 1536x864 = 6 tiles): free 10,000 neurons/day
 
 **Branches:** after PR #9 the only branches that should exist are `main`. 20 old remote branches were verified (content in `main`, replaced by PR #9, or empty) and the user was given the list and the delete command; this sandbox's proxy returns 403 for branch deletion, so the USER deletes them (https://github.com/MirzaNumanBaig/Researcher-agents/branches). PR #5 (klein4b skill) was closed as superseded; its commits stay on the PR page. GitHub auto-deletes a PR's branch when it is merged. Check `git ls-remote --heads origin` before assuming they are gone.
 
-**Pending / open (verify each; they may be done by the time you read this):**
+**2026-11-09 real photos (branch feature/open-license-photos, merge pending the user's OK): user said AI images look bad, so featured images are open-licence Wikimedia Commons photos with the face check described in AGENTS.md. Built by character-sheet.yml (weekly/manual). Result: 26 of 40 celebrities have a verified photo = 78% of sent posts (before: 22%). No verified photo: Ryan Gosling, Michael J. Fox, Delta Goodrem (stage shots fail the face check), Martin Short, Heath Ledger, Liam Hemsworth, Troye Sivan, Nicole Kidman (only photo was a crowd, banned), Rachel McAdams and others. `ai_images` is false, so those posts have no featured image unless the user turns AI back on. Banned in data/photo_blocklist.json after reviewing the contact sheet. Limits: no rule can catch every odd photo (shirtless film scenes, logos); the user reviews the contact sheet from the workflow artifact and bans files.
+
+Pending / open (verify each; they may be done by the time you read this):**
 - Run the demo (`image-pipeline-demo.yml`, dispatch on `main`) or watch the next real run and show the user real klein pictures, analysis/blueprint JSON and scores; check the Usage tab fills in.
 - Secrets: the user added the second Cloudflare account (`CF_ACCOUNT_ID_2`/`CF_API_TOKEN_2`); a third/fourth need `_3`/`_4`.
 - Profile fill finished: 39 of 40 actors have photos; Tobias Santelmann has none.

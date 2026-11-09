@@ -9,9 +9,6 @@ on:
       max: {description: "Most people to search in this run", default: "15"}
   schedule:
     - cron: "17 4 * * 2"
-  push:  # TEMPORARY, for testing this change from its branch (removed before merging)
-    branches: [feature/open-license-photos]
-    paths: [".github/workflows/character-sheet.yml", "agents/commons_photos.py", "agents/character_sheet.py"]
 permissions:
   contents: write
 concurrency: {group: repo-writes, cancel-in-progress: false}
@@ -25,7 +22,7 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -q pillow "opencv-python-headless==4.10.0.84" "numpy<2.3"
       - name: Search Commons
-        run: python agents/character_sheet.py --max "${{ inputs.max || (github.event_name == 'push' && '40' || '15') }}" ${{ (inputs.refresh || github.event_name == 'push') && '--refresh' || '' }}
+        run: python agents/character_sheet.py --max "${{ inputs.max || '15' }}" ${{ inputs.refresh && '--refresh' || '' }}
       - name: Report (what each person's picture would be)
         run: python agents/photo_report.py --out photo-report
       - uses: actions/upload-artifact@v4
