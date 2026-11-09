@@ -5,7 +5,7 @@ seo_title: "Renate Reinsve Fjord Interview: Success and Tall Poppies"
 seo_description: "Renate Reinsve talks about Fjord, her Palme d'Or win and why Norway shares Australia's tall poppy syndrome. Read what she told The Irish Times."
 focus_keyword: "Renate Reinsve Fjord"
 permalink: "renate-reinsve-fjord-interview"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-09 18:00"
 celebrity: "Renate Reinsve"
@@ -14,6 +14,14 @@ tags: ["Renate Reinsve", "Fjord", "Sebastian Stan", "Cannes"]
 image_prompt: "A quiet European cinema foyer at dusk with a gold trophy on a velvet table beside a film poster stand"
 sources:
   - "https://www.irishtimes.com/culture/film/2026/11/09/renate-reinsve-we-too-have-tallest-poppy-syndrome-ireland-has-that-right/"
+image_alt: "Illustration of two mans in film festival, lit by daytime, natural light."
+image: "images/2026-11-09-18-00-renate-reinsve.webp"
+wp_media_id: 1756
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-18-00-renate-reinsve-768x432.webp"
+wp_id: 1757
+wp_link: "https://moduscarry.com/renate-reinsve-fjord-interview/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

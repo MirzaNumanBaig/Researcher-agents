@@ -1,28 +1,5 @@
 [
  {
-  "article": "2026-11-08-08-00-margot-robbie",
-  "shot": "wide shot",
-  "angle": "three-quarter view",
-  "lens": "35mm",
-  "palette": "neutral beige, soft blue and warm gold",
-  "prompt": "A wide shot, taken from a three-quarter view, shows a woman in her late 50s with short wavy white hair and pale skin seated at a low table across from a man in his mid 20s with tousled sandy-blond hair and fair skin. Her drawn-up eyebrows at the centre and unfocused eyes are distant, her lips just closed, and her jaw soft. Her gaze is directed off-frame toward a window, her head resting slightly back, and her shoulders are low. The woman wears a deep red evening dress and her hands are wrapped around a mug. The man's slightly raised eyebrows and wide, attentive eyes are directed up and off-frame right, his head tilted slightly up, and his posture is leaning forward, elbows on knees. He wears a cream fisherman knit and his hands hold a paper cup. The two are seated at an angle to each other, the woman's body angled slightly away from the man. The background is a soft haze and bokeh, the depth of field blurring the edges of the frame. No text, no logos, no watermark.",
-  "cast": [
-   "cast-09",
-   "cast-04"
-  ]
- },
- {
-  "article": "2026-11-08-08-00-kylie-minogue",
-  "shot": "medium-wide shot",
-  "angle": "eye-level",
-  "lens": "85mm",
-  "palette": "cream, mascarpone and black",
-  "prompt": "A medium-wide shot, taken from an eye-level perspective, of a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, standing confidently in front of a cream-colored background, a midnight-blue gown hugging her slender figure. Her smooth and softly arched eyebrows are raised slightly, her confident and direct brown eyes gaze toward the camera with a composed soft smile on her lips, her jaw lifted ever so slightly. Her quarter-turned head is positioned toward the lens, her chin raised, as she stands with her shoulders back and her spine long. One hand rests on her hip, while the other hand is not in the frame. The cream-colored outfit she the figure is perfectly tailored to her curves, while a mascarpone-colored shade sits on a nearby table. A sleek black clutch lies open on the surface, revealing its luxurious interior. The setting opens up to the right, a soft haze and bokeh in the background giving a sense of depth and dimensionality. A full-frame camera captures every detail of this candid, unposed moment, with a fine film grain adding a touch of authenticity to the image. No text, no logos, no watermark.",
-  "cast": [
-   "cast-05"
-  ]
- },
- {
   "article": "2026-11-08-08-00-cate-blanchett",
   "shot": "medium-wide shot",
   "angle": "three-quarter view",
@@ -201,5 +178,28 @@
   "palette": "muted blue, neutral beige and warm gold",
   "prompt": "A wide overhead shot of an empty film set, taken from a side-on view with a 50mm lens, captures the calm and respectful atmosphere of a sensitive conversation. The studio lights above cast a warm glow on the beige-colored floor, while the muted blue undertones of the walls provide a subtle contrast. In the foreground, a pair of heavy boots sits on a small table, next to an open soda can, a symbol of the casual yet intimate setting. The soft focus and natural film-like colour of the scene, along with a subtle grain, evoke a sense of authenticity and emotional depth. No text, no logos, no watermark.",
   "cast": []
+ },
+ {
+  "article": "2026-11-09-18-00-renate-reinsve",
+  "shot": "medium shot",
+  "angle": "slightly low angle",
+  "lens": "50mm",
+  "palette": "muted blue, neutral beige and soft gray",
+  "prompt": "A medium shot of a man in his early 40s with close-cropped black hair and dark brown skin, wearing a black turtleneck and long coat, seated at an angle to a man in his late 30s with short dark greying hair and medium-brown skin, who is wearing a black tuxedo, and both men are seated across a low table. The first man's facial features show a gentle, drawn-up expression, with eyebrows arched up at the centre, unfocused and distant eyes, and his lips just closed, with a soft jawline. His gaze is off-frame toward a window, and his head is resting slightly back, with his shoulders low and relaxed posture. His hands are wrapped around a mug. The second man's facial features display a slightly raised expression, with eyebrows slightly raised, wide and attentive eyes, and his lips just parted, with a relaxed jawline. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
+  "cast": [
+   "cast-08",
+   "cast-02"
+  ]
+ },
+ {
+  "article": "2026-11-09-18-00-nicole-kidman",
+  "shot": "wide shot",
+  "angle": "slightly high angle",
+  "lens": "35mm",
+  "palette": "black, white and silver",
+  "prompt": "A wide shot from slightly above, taken with a 35mm lens, captures the tension in the air as a man in his mid 20s with tousled sandy-blond hair and fair skin stands confidently on stage, wearing a slim black suit that accentuates his broad shoulders and long spine. His smooth and softly arched eyebrows are raised slightly, and his confident and direct eyes seem to bore into the camera, a composed soft smile spreading across his lips as his lifted jaw adds to his air of authority. He is quarter-turned toward the lens, his chin raised in a subtle gesture of defiance, one hand resting on his hip as if to emphasize his presence. To his left, a few anonymous figures mingle in the shadows, their faces obscured by the bright stage lights that illuminate the scene from the side. The evening atmosphere is thick with controversy, the air charged with unspoken words and unresolved emotions. The background is a soft haze and bokeh, with a few dimly lit figures fading into the distance, while the main subject dominates the midground, his presence drawing the viewer's eye. No text, no logos, no watermark.",
+  "cast": [
+   "cast-04"
+  ]
  }
 ]
