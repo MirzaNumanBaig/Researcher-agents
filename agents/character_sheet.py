@@ -4,7 +4,7 @@ generate_images.py draws a post's featured image from this pool. Discovery, lice
 category plus their year/event sub-categories, CC0 / public domain / CC BY / CC BY-SA only, a 1920 px copy so pictures are not stretched, best ones first.
 
 Run: python3 agents/character_sheet.py [--only "Chris Hemsworth"] [--refresh] [--max N]
-  - resumable: people already done with the current method (v2) are skipped; older entries are redone; "no free photo" is re-checked after 30 days
+  - resumable: people already done with the current method are skipped; older entries are redone; "no free photo" is re-checked after 30 days
   - --max N does at most N people per run (Wikimedia throttles automated clients, so a run stops early and the next run continues)
   - --refresh redoes everyone
 """
@@ -23,7 +23,7 @@ RECHECK_DAYS = 30
 
 def due(entry):
     """Does this person need (re)searching? Missing, built by the old method, or 'no free photo' found more than RECHECK_DAYS ago."""
-    if not entry or entry.get("v") != 2:
+    if not entry or entry.get("v") != commons_photos.VERSION:
         return True
     if entry.get("status") == "ok":
         return False

@@ -66,6 +66,53 @@ class Ranking(unittest.TestCase):
         self.assertGreater(cp.score(named, "Keanu Reeves", 2026), cp.score(unnamed, "Keanu Reeves", 2026))
 
 
+class FaceJudgement(unittest.TestCase):
+    """Rules calibrated on real Commons photos: plaques, stage shots and crowds have no usable face; groups have several; a clear portrait has one."""
+
+    def test_one_clear_face_is_kept(self):
+        self.assertEqual(cp.judge_faces(640, 427, [(250, 90, 110, 110)])[0], True)  # 17% of the width
+
+    def test_no_face_distant_or_tiny_faces_are_dropped(self):
+        self.assertEqual(cp.judge_faces(640, 480, [])[:2], (False, "no face"))
+        self.assertFalse(cp.judge_faces(640, 457, [(180, 100, 57, 57)])[0])  # 9% of the width: a stage shot or a false detection
+
+    def test_groups_and_panels_are_dropped_but_one_dominant_face_among_others_is_kept(self):
+        self.assertEqual(cp.judge_faces(640, 427, [(300, 80, 110, 110), (150, 90, 80, 80)])[:2], (False, "several faces"))  # 2nd face is 53% of the area
+        self.assertTrue(cp.judge_faces(640, 427, [(300, 80, 110, 110), (100, 90, 40, 40)])[0])
+
+    def test_a_face_pushed_to_the_edge_of_a_landscape_picture_is_dropped(self):
+        self.assertEqual(cp.judge_faces(640, 360, [(545, 80, 90, 90)])[:2], (False, "face near the edge"))
+        self.assertTrue(cp.judge_faces(400, 600, [(300, 100, 90, 90)])[0])  # portrait pictures are shown whole, so no edge rule
+
+    def test_a_flat_picture_has_no_face(self):
+        try:
+            import cv2  # noqa: F401
+        except ImportError:
+            self.skipTest("OpenCV not installed")
+        from PIL import Image
+        buf = io.BytesIO()
+        Image.new("RGB", (800, 500), (120, 120, 120)).save(buf, "JPEG")
+        self.assertEqual(cp.detect_faces(buf.getvalue())[2], [])
+
+
+class Metadata(unittest.TestCase):
+    def test_the_file_must_name_the_person(self):
+        mk = lambda title, desc="": {"file": title, "description": desc}  # noqa: E731
+        self.assertTrue(cp.mentions("Keanu Reeves", mk("File:Keanu Reeves Grand Rex 2023.jpg")))
+        self.assertTrue(cp.mentions("Keanu Reeves", mk("File:IMG_1.jpg", "Reeves at the premiere")))  # surname in the description
+        self.assertFalse(cp.mentions("Keanu Reeves", mk("File:IMG_4412.jpg", "A man on a red carpet")))
+
+    def test_thumbnail_url_is_rewritten_to_a_small_size(self):
+        self.assertIn("/640px-X.jpg", cp.small_url("https://thumb.wikimedia.org/a/b/X.jpg/1920px-X.jpg?utm=1"))
+
+    def test_plaques_memorials_and_walk_of_fame_stars_are_rejected(self):
+        for t in ("File:Memorial to Heath Ledger.jpg", "File:Hollywood Walk of Fame star (Michael J. Fox).jpg", "File:Heath Ledger plaque.jpg"):
+            self.assertIsNone(cp.parse_photo(page(title=t)), t)
+
+    def test_the_blocklist_is_read(self):
+        self.assertIn("File:MKr384294 Nicole Kidman (Women In Motion, Cannes 2025).jpg", cp.blocked())
+
+
 PHOTOS = [{"page": f"https://commons.wikimedia.org/wiki/File:{n}.jpg", "file": f"File:{n}.jpg", "description": d, "category": "Category:Keanu Reeves"}
           for n, d in (("A", "at a press event"), ("B", "at the Cannes Film Festival premiere"), ("C", "in 2024"))]
 
@@ -77,6 +124,20 @@ class Pick(unittest.TestCase):
 
     def test_the_headline_can_choose_a_better_matching_photo(self):
         self.assertEqual(gi.pick_photo(PHOTOS, [], "Keanu Reeves returns to Cannes for a new film premiere")["file"], "File:B.jpg")
+
+    def test_blocklisted_photos_are_never_picked_by_the_live_step(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            (root / "data").mkdir()
+            (root / "articles").mkdir()
+            (root / "data" / "photo_blocklist.json").write_text(json.dumps({"files": ["File:A.jpg", "File:B.jpg", "File:C.jpg"]}))
+            (root / "data" / "character-sheet.json").write_text(json.dumps({"Keanu Reeves": {"photos": PHOTOS}}))
+            (root / "config.json").write_text(json.dumps({"image_pipeline": {"real_photos": True}}))
+            old, gi.ROOT = gi.ROOT, root
+            try:
+                self.assertIsNone(gi.real_photo('title: "x"\ncelebrity: "Keanu Reeves"\n'))
+            finally:
+                gi.ROOT = old
 
     def test_when_all_are_used_none_by_default_or_the_least_recently_used_with_reuse(self):
         used = [PHOTOS[1]["page"], PHOTOS[2]["page"], PHOTOS[0]["page"]]  # oldest use first

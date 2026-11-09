@@ -6,6 +6,9 @@ What it does better than the first version (which only read the Commons categori
   - fetches a 1920 px wide copy, so a 1600 px featured image is not stretched from a small thumbnail
   - rejects non-commercial/no-derivatives licences, posters, covers, screenshots, wax figures, signatures and group-photo-style files
   - ranks photos: recent (looks like the person today), large, landscape (crops well), described as this person, and rated Featured/Quality/Valued on Commons
+  - LOOKS at the pictures (OpenCV face detection, as the live image step already does): a photo is kept only when one face is clearly the subject: at least
+    12% of the image width, no second face nearly as big (groups and panels are out), not pushed against the edge. Distant stage shots, crowds, plaques,
+    memorials, objects and the back of someone's head have no such face and are dropped. A file must also name the person in its title or description.
 Licences accepted: CC0, public domain, CC BY, CC BY-SA. The site earns from ads, so NC and ND are never used. Credit is always printed with the picture.
 """
 import html
@@ -21,11 +24,14 @@ from datetime import datetime, timezone
 COMMONS = os.environ.get("COMMONS_API_URL", "https://commons.wikimedia.org/w/api.php")
 WIKIDATA = os.environ.get("WIKIDATA_API_URL", "https://www.wikidata.org/w/api.php")
 UA = {"User-Agent": "Researcher-agents/1.0 (news site photo credits; https://github.com/MirzaNumanBaig/Researcher-agents)"}
-PAUSE = float(os.environ.get("COMMONS_PAUSE", "1.5"))  # seconds between requests: Wikimedia asks automated clients to be gentle
+PAUSE = float(os.environ.get("COMMONS_PAUSE", "1.5"))
+IMG_PAUSE = float(os.environ.get("COMMONS_IMG_PAUSE", "0.6"))  # between picture downloads  # seconds between requests: Wikimedia asks automated clients to be gentle
+VERSION = 3  # bump to make character_sheet.py search everyone again with a better method
 KEEP, MIN_WIDTH, MIN_HEIGHT, THUMB_WIDTH = 20, 1200, 700, 1920
+FACE_MIN, FACE_SECOND, CHECK, CHECK_WIDTH = 0.12, 0.45, 24, 640  # face >= 12% of width; 2nd face < 45% of the biggest's area; how many candidates to look at
 _sleep = time.sleep  # replaced in tests
 
-BAD_WORDS = re.compile(r"\b(poster|cover|screenshot|signature|autograph|wax|statue|mural|cartoon|caricature|stamp|logo|fan art|film still|still from|trailer|album|dvd|figurine|lookalike|impersonat\w+|cosplay)\b", re.I)
+BAD_WORDS = re.compile(r"\b(poster|cover|screenshot|signature|autograph|wax|statue|mural|cartoon|caricature|stamp|logo|fan art|film still|still from|trailer|album|dvd|figurine|lookalike|impersonat\w+|cosplay|walk of fame|memorial|plaque|grave|tomb|sculpture|bust of)\b", re.I)
 MOOD = {"featured pictures": 2.0, "quality images": 1.5, "valued images": 1.0}
 META_FIELDS = "LicenseShortName|LicenseUrl|Artist|Credit|ImageDescription|DateTimeOriginal|DateTime|Categories|NonFree"
 
@@ -116,6 +122,75 @@ def score(p, name, now_year=None):
     return round(s, 2)
 
 
+def blocked():
+    """File titles the owner banned (data/photo_blocklist.json): never used, however well they rank."""
+    try:
+        from pathlib import Path
+        return set(json.loads((Path(__file__).resolve().parent.parent / "data" / "photo_blocklist.json").read_text()).get("files", []))
+    except (OSError, ValueError):
+        return set()
+
+
+def mentions(name, p):
+    """Does the file's title or description name the person (full name or surname)? A file that does not is probably someone else or nobody."""
+    text = f"{p['file']} {p['description']}".lower()
+    last = name.split()[-1].lower()
+    return name.lower() in text or (len(last) >= 3 and re.search(rf"\b{re.escape(last)}\b", text) is not None)
+
+
+def small_url(thumb):
+    """The same Commons thumbnail at CHECK_WIDTH px (Wikimedia makes any width on demand): enough to find faces, light to download."""
+    return re.sub(r"/\d+px-", f"/{CHECK_WIDTH}px-", thumb or "", count=1)
+
+
+def detect_faces(raw):
+    """(width, height, faces[(x, y, w, h)]) with OpenCV's frontal-face detector, or None when OpenCV is not installed."""
+    try:
+        import cv2
+        import numpy as np
+    except ImportError:
+        return None
+    gray = cv2.imdecode(np.frombuffer(raw, np.uint8), cv2.IMREAD_GRAYSCALE)
+    if gray is None:
+        return (0, 0, [])
+    if gray.shape[1] > CHECK_WIDTH:
+        gray = cv2.resize(gray, None, fx=CHECK_WIDTH / gray.shape[1], fy=CHECK_WIDTH / gray.shape[1])
+    h, w = gray.shape
+    det = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+    faces = det.detectMultiScale(gray, 1.08, 6, minSize=(max(24, int(w * 0.04)),) * 2)
+    return w, h, [tuple(int(v) for v in f) for f in faces]
+
+
+def judge_faces(w, h, faces):
+    """(ok, reason, face width as a fraction of the picture). One clear subject: big enough, alone, not at the edge."""
+    if not faces or not w:
+        return False, "no face", 0.0
+    faces = sorted(faces, key=lambda f: -f[2] * f[3])
+    x, y, fw, fh = faces[0]
+    frac = fw / w
+    if frac < FACE_MIN:
+        return False, f"face too small ({frac:.2f})", frac
+    if len(faces) > 1 and faces[1][2] * faces[1][3] >= FACE_SECOND * fw * fh:
+        return False, "several faces", frac
+    cx = (x + fw / 2) / w
+    if w / h >= 1.2 and not 0.15 <= cx <= 0.85:
+        return False, "face near the edge", frac
+    return True, "", frac
+
+
+def face_gate(p):
+    """(ok, face fraction) for one candidate, by downloading a small copy. ok is None when OpenCV is missing or the download failed."""
+    _sleep(IMG_PAUSE)
+    try:
+        res = detect_faces(_get(small_url(p["thumb"]) or p["thumb"]))
+    except CommonsError:
+        return None, 0.0
+    if res is None:
+        return None, 0.0
+    ok, why, frac = judge_faces(*res)
+    return ok, round(frac, 3)
+
+
 def find_category(name):
     """The person's main Commons category through Wikidata (P373), or None."""
     found = api(WIKIDATA, action="wbsearchentities", search=name, language="en", type="item", limit=6).get("search", [])
@@ -179,5 +254,18 @@ def refresh(name):
                 seen.add(p["file"])
                 p["score"] = score(p, name)
                 photos.append(p)
+    ban = blocked()
+    photos = [p for p in photos if mentions(name, p) and p["file"] not in ban]
     photos.sort(key=lambda p: -p["score"])
-    return {"status": "ok" if photos else "no_free_photo", "v": 2, "category": cat, "photos": photos[:KEEP]}
+    kept, unchecked = [], 0
+    for p in photos[:CHECK]:
+        ok, frac = face_gate(p)
+        if ok is None:  # OpenCV missing or the download failed: cannot tell, so leave it unverified (flagged) rather than guess
+            p["face"], unchecked = None, unchecked + 1
+            kept.append(p)
+        elif ok:
+            p["face"] = frac
+            p["score"] = round(p["score"] + (2.0 if frac >= 0.25 else 1.5 if frac >= 0.15 else 1.0), 2)  # a clear, close face beats a small one
+            kept.append(p)
+    kept.sort(key=lambda p: -p["score"])
+    return {"status": "ok" if kept else "no_free_photo", "v": VERSION, "category": cat, "checked": min(len(photos), CHECK), "unverified": unchecked, "photos": kept[:KEEP]}

@@ -23,7 +23,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: pip install -q pillow
+      - run: pip install -q pillow "opencv-python-headless==4.10.0.84" "numpy<2.3"
       - name: Search Commons
         run: python agents/character_sheet.py --max "${{ inputs.max || (github.event_name == 'push' && '40' || '15') }}" ${{ (inputs.refresh || github.event_name == 'push') && '--refresh' || '' }}
       - name: Report (what each person's picture would be)

@@ -331,7 +331,11 @@ def real_photo(front):
         from PIL import Image, ImageFilter
         entry = json.loads((ROOT / "data" / "character-sheet.json").read_text()).get(field(front, "celebrity")) or {}
         reuse = (json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("reuse_real_photos", True)
-        photo = pick_photo(entry.get("photos"), used_photo_pages(), field(front, "title"), reuse)
+        try:
+            ban = set(json.loads((ROOT / "data" / "photo_blocklist.json").read_text()).get("files", []))  # photos the owner banned
+        except (OSError, ValueError):
+            ban = set()
+        photo = pick_photo([p for p in entry.get("photos") or [] if p.get("file") not in ban], used_photo_pages(), field(front, "title"), reuse)
         if not photo:
             return None  # this person has no free photo at all (or reuse is off and every one is used)
         req = urllib.request.Request(photo.get("thumb") or photo["url"], headers={"User-Agent": "Researcher-agents/1.0 (news site photo credits; https://github.com/MirzaNumanBaig/Researcher-agents)"})
