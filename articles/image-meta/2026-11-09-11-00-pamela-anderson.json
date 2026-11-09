@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-09T00:45:03.570865+00:00",
+  "article": "2026-11-09-11-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure rebuilds her Vancouver the figure the figure using funds from her the figure home the figure.",
+    "emotion": "serene",
+    "setting": "coastal property",
+    "key_objects": [
+      "garden",
+      "private dock",
+      "sunroom",
+      "flower basket",
+      "skincare line"
+    ],
+    "time_and_light": "morning sunrise",
+    "palette": [
+      "soft blue",
+      "warm beige",
+      "green"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "garden",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "coastal property",
+    "props": [
+      "garden",
+      "private dock",
+      "sunroom",
+      "flower basket"
+    ],
+    "time_of_day": "morning sunrise",
+    "light": {
+      "source": "morning sunrise",
+      "direction": "from the side"
+    },
+    "palette": [
+      "soft blue",
+      "warm beige",
+      "green"
+    ],
+    "mood": "serene",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of an anonymous figure in her late 30s, with a gentle smile and furrowed eyebrows, her eyes cast downward as she surveys the garden's lush greenery; her jaw relaxes slightly, releasing tension, and her gaze is directed toward the flower basket she's carefully arranging. Her shoulders are slightly hunched, but her posture is relaxed, as if she's been working in the garden for hours. She wears a pair of worn gardening gloves and a faded sundress, with a few loose threads caught in the intricate carvings of a wooden trellis behind her. In the midground, a wooden dock stretches out into the calm, turquoise water, with a few wispy clouds drifting lazily across the morning sky. The background is softly blurred, with a few sailboats and buildings fading into the distance. A high angle over-the-shoulder shot, taken with an 85mm lens, captures the serene atmosphere of the scene. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2731590732,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of coastal property with garden and private dock, lit by morning sunrise.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 250.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2731590732,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

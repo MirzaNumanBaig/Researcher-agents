@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-11-09T00:45:17.246911+00:00",
+  "article": "2026-11-09-11-00-michael-j-fox",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure discusses his cameo in an anonymous figure",
+    "emotion": "relieved",
+    "setting": "film set",
+    "key_objects": [
+      "heavy boots",
+      "soda",
+      "an anonymous figure diagnosis"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "muted blue",
+      "neutral beige",
+      "warm gold"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "heavy boots",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "heavy boots",
+      "soda",
+      "an anonymous figure diagnosis"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "muted blue",
+      "neutral beige",
+      "warm gold"
+    ],
+    "mood": "relieved",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide overhead shot of an empty film set, taken from a side-on view with a 50mm lens, captures the calm and respectful atmosphere of a sensitive conversation. The studio lights above cast a warm glow on the beige-colored floor, while the muted blue undertones of the walls provide a subtle contrast. In the foreground, a pair of heavy boots sits on a small table, next to an open soda can, a symbol of the casual yet intimate setting. The soft focus and natural film-like colour of the scene, along with a subtle grain, evoke a sense of authenticity and emotional depth. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1165784285,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 142.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1165784285,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

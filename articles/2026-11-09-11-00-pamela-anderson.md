@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Vancouver Island Estate: Malibu Sale Paid"
 seo_description: "Pamela Anderson's Vancouver Island estate was renovated with proceeds from her Malibu sale. See what she shared of her slow-living life there."
 focus_keyword: "Pamela Anderson Vancouver Island estate"
 permalink: "pamela-anderson-vancouver-island-estate"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-09 11:00"
 celebrity: "Pamela Anderson"
@@ -14,6 +14,14 @@ tags: ["Pamela Anderson"]
 image_prompt: "A quiet timber dock stretching into calm coastal water at sunrise, a garden basket of cut flowers and shears beside it."
 sources:
   - "https://www.realestate.com.au/news/inside-pamela-andersons-secluded-estate-funded-by-15m-sale/"
+image_alt: "Illustration of coastal property with garden and private dock, lit by morning sunrise."
+image: "images/2026-11-09-11-00-pamela-anderson.webp"
+wp_media_id: 1750
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-11-00-pamela-anderson-768x432.webp"
+wp_id: 1751
+wp_link: "https://moduscarry.com/pamela-anderson-vancouver-island-estate/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
