@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-09 18:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Reynolds Hails Wolves Draw as Wrexham Lose Their CEO a Day Earlier",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTkE3dFNObEdFdTFjOHJOa1FQYnZqcWx5TGNySzhwRFAxQUtyVlIyZU5EVWNfTnZOWmlINnhUMFAxTHBZTXRwTldnQlpMTGtna3F0TnZDYkVOdjFxbzAzVjM4S0JSQ3RoWW1pcGxGMUVFMmhOeDQ3UGZORnl4M0l1V180T2pnQ0JqY29n?oc=5",
+      "published": "2026-11-09T06:13:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTkE3dFNObEdFdTFjOHJOa1FQYnZqcWx5TGNySzhwRFAxQUtyVlIyZU5EVWNfTnZOWmlINnhUMFAxTHBZTXRwTldnQlpMTGtna3F0TnZDYkVOdjFxbzAzVjM4S0JSQ3RoWW1pcGxGMUVFMmhOeDQ3UGZORnl4M0l1V180T2pnQ0JqY29n?oc=5",
+          "article_url": "https://sports.yahoo.com/articles/reynolds-hails-wolves-draw-wrexham-061347385.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/ac532da1c27b2839cc0ca11509a6f558d95275cf950f04e65cc7318a9f5b0493/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffutbol_chronicle_671%2Fe4a4b9e3c868ad5439ae0cd32fec0ae3.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/ac532da1c27b2839cc0ca11509a6f558d95275cf950f04e65cc7318a9f5b0493/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffutbol_chronicle_671%2Fe4a4b9e3c868ad5439ae0cd32fec0ae3.jpg",
+      "image_source": "https://sports.yahoo.com/articles/reynolds-hails-wolves-draw-wrexham-061347385.html"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-09 18:00",
+  "celebrity": "Pamela Anderson",
+  "stories": [
+    {
+      "title": "John Travolta’s romantic night in Italy… with Pamela Anderson!",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTNUZ2twazJJVndqY2YwSXMza1liazl0dGpRSkU5NHRUaHZPeDljaXZZc0w2bi1WUzg5MFVmU1JlanB3UVBRVnJ1Y0JlMkVFeHlsaEdYbHJCblhqM3EzR1hqOUdRaHNXR3hRc1VJOXRQazhENk9kcnVwOE1tVWhvVmxhNW1CdDNHTmJwV3ZjZEdpM0hMZ2NEQklMTkxBZw?oc=5",
+      "published": "2026-11-09T04:53:43+00:00",
+      "outlets": [
+        {
+          "source": "Now To Love",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTNUZ2twazJJVndqY2YwSXMza1liazl0dGpRSkU5NHRUaHZPeDljaXZZc0w2bi1WUzg5MFVmU1JlanB3UVBRVnJ1Y0JlMkVFeHlsaEdYbHJCblhqM3EzR1hqOUdRaHNXR3hRc1VJOXRQazhENk9kcnVwOE1tVWhvVmxhNW1CdDNHTmJwV3ZjZEdpM0hMZ2NEQklMTkxBZw?oc=5",
+          "article_url": "https://www.nowtolove.com.au/celebrity/celebrity-news/john-travolta-pamela-anderson-secret-calls/",
+          "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/7/2026/11/pam-john-6af14d2eab9c0.png?resize=1200%2C630&format=auto"
+        }
+      ],
+      "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/7/2026/11/pam-john-6af14d2eab9c0.png?resize=1200%2C630&format=auto",
+      "image_source": "https://www.nowtolove.com.au/celebrity/celebrity-news/john-travolta-pamela-anderson-secret-calls/"
+    },
+    {
+      "title": "Pamela Anderson Manicures You Can Easily DIY For The Chicest Winter Nails",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFdHOU5ZdTJIS1ptVFlsTTlZLXd3dF9WN3hreTZrMHdXV1V4V2M3Mjg4Y3VGU0JqUk9GaGs0bm9jTGk0SVZ1QU55LVQxZjk3WGdaSy1lRU5DXzB0bmsxVjRzdDlwS182Q2VfUnNVSll5Z1JOQ3lyU0NEMjUtSWF6aXB5aU9tYXZlMmJlQURnTjFCeEk?oc=5",
+      "published": "2026-11-09T04:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Glam",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFdHOU5ZdTJIS1ptVFlsTTlZLXd3dF9WN3hreTZrMHdXV1V4V2M3Mjg4Y3VGU0JqUk9GaGs0bm9jTGk0SVZ1QU55LVQxZjk3WGdaSy1lRU5DXzB0bmsxVjRzdDlwS182Q2VfUnNVSll5Z1JOQ3lyU0NEMjUtSWF6aXB5aU9tYXZlMmJlQURnTjFCeEk?oc=5",
+          "article_url": "https://www.glam.com/2310391/pamela-anderson-manicures-to-recreate-for-chic-winter-nails/",
+          "image": "https://www.glam.com/img/gallery/pamela-anderson-manicures-you-can-easily-diy-for-the-chicest-winter-nails/l-intro-1794194303.jpg"
+        }
+      ],
+      "image": "https://www.glam.com/img/gallery/pamela-anderson-manicures-you-can-easily-diy-for-the-chicest-winter-nails/l-intro-1794194303.jpg",
+      "image_source": "https://www.glam.com/2310391/pamela-anderson-manicures-to-recreate-for-chic-winter-nails/"
+    }
+  ]
+}

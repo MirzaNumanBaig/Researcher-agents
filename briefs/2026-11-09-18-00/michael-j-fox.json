@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-09 18:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "Michael J. Fox thought he would be 'crucified' for joking about Parkinson's disease in Curb Your Enthusiasm",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XandDQ2NpV3NEY2I0UHFhZmtWeDN0d29YZ3RhYmZDZVRfaDhkMlVKTFhBbUVOLTJvR3NkNXczd25YVW56NDNBSk5ha0NHRGxZOTI0cnE5TjZRT2tyRkVXak1lX050Zy1DcTNlNGs0dURqV2dDU0VyWFp2VUI?oc=5",
+      "published": "2026-11-09T07:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo News UK",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XandDQ2NpV3NEY2I0UHFhZmtWeDN0d29YZ3RhYmZDZVRfaDhkMlVKTFhBbUVOLTJvR3NkNXczd25YVW56NDNBSk5ha0NHRGxZOTI0cnE5TjZRT2tyRkVXak1lX050Zy1DcTNlNGs0dURqV2dDU0VyWFp2VUI?oc=5",
+          "article_url": "https://uk.news.yahoo.com/michael-j-fox-thought-crucified-070000059.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/4b5d6b8a2fd4d69055e3e2f816b371532376c7a2310ae7a988a02810766aa4ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbang_showbiz_628%2Fc7293a2d728dbbcfc1e5e0810800c2b6.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/4b5d6b8a2fd4d69055e3e2f816b371532376c7a2310ae7a988a02810766aa4ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbang_showbiz_628%2Fc7293a2d728dbbcfc1e5e0810800c2b6.jpg",
+      "image_source": "https://uk.news.yahoo.com/michael-j-fox-thought-crucified-070000059.html"
+    },
+    {
+      "title": "Michael J. Fox recalls taking risk for a joke in 'curb your enthusiasm'",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVQwTV92ZWMyZmhqVmZuTUdCXy1WNFQ3MGZfUmhpN0ZKZ00zQnNRYVlweUw4N2JvMjhRTklJZThudjhJWUpEUEJUcHEtWTl0U1B5NUJwRWJ6elFRRFNIR040bTRrUDUyYjJlVGRya3NINzJXbGdYd3JQNml2RVQ2TV8xN1lVYlE?oc=5",
+      "published": "2026-11-09T01:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVQwTV92ZWMyZmhqVmZuTUdCXy1WNFQ3MGZfUmhpN0ZKZ00zQnNRYVlweUw4N2JvMjhRTklJZThudjhJWUpEUEJUcHEtWTl0U1B5NUJwRWJ6elFRRFNIR040bTRrUDUyYjJlVGRya3NINzJXbGdYd3JQNml2RVQ2TV8xN1lVYlE?oc=5",
+          "article_url": "https://www.geo.tv/latest/690341-michael-j-fox-recalls-taking-risk-for-a-joke-in",
+          "image": "https://www.geo.tv/assets/uploads/updates/2026-11-09/690341_061717_updates.jpg"
+        }
+      ],
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-11-09/690341_061717_updates.jpg",
+      "image_source": "https://www.geo.tv/latest/690341-michael-j-fox-recalls-taking-risk-for-a-joke-in"
+    }
+  ]
+}
