@@ -31,7 +31,9 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: photo-pool-report-${{ github.run_id }}
-          path: photo-report
+          path: |
+            photo-report
+            data/character-sheet.json
           retention-days: 14
       - name: Commit the pool (main only)
         if: github.ref == 'refs/heads/main'

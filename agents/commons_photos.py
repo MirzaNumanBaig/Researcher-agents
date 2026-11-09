@@ -147,8 +147,18 @@ def small_url(thumb):
     return re.sub(r"/\d+px-", f"/{CHECK_WIDTH}px-", thumb or "", count=1)
 
 
+def _iou(a, b):
+    ax, ay, aw, ah = a
+    bx, by, bw, bh = b
+    ix, iy = max(0, min(ax + aw, bx + bw) - max(ax, bx)), max(0, min(ay + ah, by + bh) - max(ay, by))
+    inter = ix * iy
+    return inter / float(aw * ah + bw * bh - inter) if inter else 0.0
+
+
 def detect_faces(raw):
-    """(width, height, faces[(x, y, w, h)]) with OpenCV's frontal-face detector, or None when OpenCV is not installed."""
+    """(width, height, faces, others) or None when OpenCV is not installed.
+    faces  = faces found by the default detector AND confirmed by a second, stricter one (this removes mannequins, posters and textures that look like a face)
+    others = every face a looser pass can see, to count the other people in the picture (crowds, groups, children next to the subject)"""
     try:
         import cv2
         import numpy as np
@@ -156,16 +166,19 @@ def detect_faces(raw):
         return None
     gray = cv2.imdecode(np.frombuffer(raw, np.uint8), cv2.IMREAD_GRAYSCALE)
     if gray is None:
-        return (0, 0, [])
+        return (0, 0, [], [])
     if gray.shape[1] > CHECK_WIDTH:
         gray = cv2.resize(gray, None, fx=CHECK_WIDTH / gray.shape[1], fy=CHECK_WIDTH / gray.shape[1])
     h, w = gray.shape
-    det = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
-    faces = det.detectMultiScale(gray, 1.08, 6, minSize=(max(24, int(w * 0.04)),) * 2)
-    return w, h, [tuple(int(v) for v in f) for f in faces]
+    load = lambda n: cv2.CascadeClassifier(cv2.data.haarcascades + n)  # noqa: E731
+    main = [tuple(int(v) for v in f) for f in load("haarcascade_frontalface_default.xml").detectMultiScale(gray, 1.08, 6, minSize=(max(24, int(w * 0.04)),) * 2)]
+    strict = [tuple(int(v) for v in f) for f in load("haarcascade_frontalface_alt2.xml").detectMultiScale(gray, 1.08, 4, minSize=(max(24, int(w * 0.04)),) * 2)]
+    confirmed = [f for f in main if any(_iou(f, g) >= 0.4 for g in strict)]
+    loose = [tuple(int(v) for v in f) for f in load("haarcascade_frontalface_default.xml").detectMultiScale(gray, 1.08, 4, minSize=(max(20, int(w * 0.025)),) * 2)]
+    return w, h, confirmed, loose
 
 
-def judge_faces(w, h, faces):
+def judge_faces(w, h, faces, others=()):
     """(ok, reason, face width as a fraction of the picture). One clear subject: big enough, alone, not at the edge."""
     if not faces or not w:
         return False, "no face", 0.0
@@ -174,8 +187,12 @@ def judge_faces(w, h, faces):
     frac = fw / w
     if frac < FACE_MIN:
         return False, f"face too small ({frac:.2f})", frac
-    if len(faces) > 1 and faces[1][2] * faces[1][3] >= FACE_SECOND * fw * fh:
+    everyone = sorted(set(faces) | set(others), key=lambda f: -f[2] * f[3])
+    rest = [f for f in everyone if _iou(f, faces[0]) < 0.4]  # everybody except the subject
+    if rest and rest[0][2] * rest[0][3] >= FACE_SECOND * fw * fh:
         return False, "several faces", frac
+    if len(rest) >= 2:
+        return False, "a group or crowd", frac
     cx = (x + fw / 2) / w
     if w / h >= 1.2 and not 0.15 <= cx <= 0.85:
         return False, "face near the edge", frac
@@ -274,4 +291,4 @@ def refresh(name):
             p["score"] = round(p["score"] + (2.0 if frac >= 0.25 else 1.5 if frac >= 0.15 else 1.0), 2)  # a clear, close face beats a small one
             kept.append(p)
     kept.sort(key=lambda p: -p["score"])
-    return {"status": "ok" if kept else "no_free_photo", "v": VERSION, "category": cat, "checked": min(len(photos), CHECK), "unverified": unchecked, "photos": kept[:KEEP]}
+    return {"status": "ok" if kept else "no_free_photo", "v": VERSION, "category": cat, "examined": min(len(photos), CHECK), "unverified": unchecked, "photos": kept[:KEEP]}

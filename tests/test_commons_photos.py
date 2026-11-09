@@ -80,6 +80,14 @@ class FaceJudgement(unittest.TestCase):
         self.assertEqual(cp.judge_faces(640, 427, [(300, 80, 110, 110), (150, 90, 80, 80)])[:2], (False, "several faces"))  # 2nd face is 53% of the area
         self.assertTrue(cp.judge_faces(640, 427, [(300, 80, 110, 110), (100, 90, 40, 40)])[0])
 
+    def test_a_crowd_or_group_with_small_extra_faces_is_dropped(self):
+        main = [(300, 80, 110, 110)]
+        self.assertEqual(cp.judge_faces(640, 427, main, [(300, 80, 110, 110), (80, 120, 40, 40), (500, 130, 38, 38)])[:2], (False, "a group or crowd"))
+        self.assertTrue(cp.judge_faces(640, 427, main, [(300, 80, 110, 110), (80, 120, 40, 40)])[0])  # one small bystander is fine
+
+    def test_a_second_person_nearly_as_big_as_the_subject_is_dropped_even_if_only_the_loose_pass_saw_them(self):
+        self.assertEqual(cp.judge_faces(640, 427, [(300, 80, 110, 110)], [(300, 80, 110, 110), (120, 90, 85, 85)])[:2], (False, "several faces"))
+
     def test_a_face_pushed_to_the_edge_of_a_landscape_picture_is_dropped(self):
         self.assertEqual(cp.judge_faces(640, 360, [(545, 80, 90, 90)])[:2], (False, "face near the edge"))
         self.assertTrue(cp.judge_faces(400, 600, [(300, 100, 90, 90)])[0])  # portrait pictures are shown whole, so no edge rule

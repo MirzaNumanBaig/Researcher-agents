@@ -27,7 +27,7 @@ def main(argv=None):
         entry = sheet.get(n) or {}
         photos = entry.get("photos") or []
         row = {"name": n, "status": entry.get("status", "not searched"), "pool": len(photos), "licences": sorted({p["license"] for p in photos}),
-               "newest": max((p.get("date", "") for p in photos), default=""), "picked": None}
+               "newest": max((p.get("date", "") for p in photos), default=""), "best_file": photos[0]["file"] if photos else "", "picked": None}
         rp = gi.real_photo(f'title: "Sample story about {n}"\ncelebrity: "{n}"\n') if photos else None
         if rp:
             slug = re.sub(r"[^a-z0-9]+", "-", n.lower()).strip("-")
@@ -37,8 +37,8 @@ def main(argv=None):
         rows.append(row)
     (out / "coverage.json").write_text(json.dumps(rows, indent=2, ensure_ascii=False) + "\n")
     have = sum(1 for r in rows if r["pool"])
-    md = [f"# Photo pool coverage\n\n{have} of {len(rows)} celebrities have at least one open-licence photo.\n", "| Celebrity | Photos in pool | Newest | Licences |", "|---|---|---|---|"]
-    md += [f"| {r['name']} | {r['pool']} | {r['newest']} | {', '.join(r['licences'])} |" for r in rows]
+    md = [f"# Photo pool coverage\n\n{have} of {len(rows)} celebrities have at least one open-licence photo.\n", "| Celebrity | Photos in pool | Newest | Licences | Best file |", "|---|---|---|---|---|"]
+    md += [f"| {r['name']} | {r['pool']} | {r['newest']} | {', '.join(r['licences'])} | {r['best_file']} |" for r in rows]
     (out / "coverage.md").write_text("\n".join(md) + "\n")
     print("\n".join(md[:2]), flush=True)
     if shots:
