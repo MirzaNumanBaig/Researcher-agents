@@ -102,8 +102,28 @@ class Metadata(unittest.TestCase):
         self.assertTrue(cp.mentions("Keanu Reeves", mk("File:IMG_1.jpg", "Reeves at the premiere")))  # surname in the description
         self.assertFalse(cp.mentions("Keanu Reeves", mk("File:IMG_4412.jpg", "A man on a red carpet")))
 
-    def test_thumbnail_url_is_rewritten_to_a_small_size(self):
-        self.assertIn("/640px-X.jpg", cp.small_url("https://thumb.wikimedia.org/a/b/X.jpg/1920px-X.jpg?utm=1"))
+    def test_thumbnail_url_is_rewritten_to_a_standard_wikimedia_size(self):
+        self.assertIn("/500px-X.jpg", cp.small_url("https://thumb.wikimedia.org/a/b/X.jpg/1920px-X.jpg?utm=1"))
+        self.assertEqual(cp.CHECK_WIDTH, 500)  # Wikimedia answers HTTP 400 to other widths (640 was tried and failed)
+
+    def test_a_photo_that_cannot_be_checked_is_not_used(self):
+        old_get, old_sleep = cp._get, cp._sleep
+        try:
+            def boom(url, tries=4):
+                raise cp.CommonsError("HTTP 400")
+            cp._get, cp._sleep = boom, lambda s: None
+            self.assertEqual(cp.face_gate({"thumb": "https://thumb.wikimedia.org/a/X.jpg/1920px-X.jpg"}), (False, 0.0))
+        finally:
+            cp._get, cp._sleep = old_get, old_sleep
+
+    def test_without_opencv_the_builder_stops_instead_of_keeping_unchecked_photos(self):
+        old_get, old_sleep, old_detect = cp._get, cp._sleep, cp.detect_faces
+        try:
+            cp._get, cp._sleep, cp.detect_faces = (lambda url, tries=4: b"x"), (lambda s: None), (lambda raw: None)
+            with self.assertRaises(cp.FaceCheckUnavailable):
+                cp.face_gate({"thumb": "https://thumb.wikimedia.org/a/X.jpg/1920px-X.jpg"})
+        finally:
+            cp._get, cp._sleep, cp.detect_faces = old_get, old_sleep, old_detect
 
     def test_plaques_memorials_and_walk_of_fame_stars_are_rejected(self):
         for t in ("File:Memorial to Heath Ledger.jpg", "File:Hollywood Walk of Fame star (Michael J. Fox).jpg", "File:Heath Ledger plaque.jpg"):

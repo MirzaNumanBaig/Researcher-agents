@@ -55,6 +55,9 @@ def main(argv=None):
             break
         try:
             entry = commons_photos.refresh(name)
+        except commons_photos.FaceCheckUnavailable as e:
+            print(f"STOP: {e}", file=sys.stderr)
+            return 1
         except commons_photos.CommonsError as e:  # a throttled request is not "no photo": keep what we had and stop politely
             print(f"throttled at {name}: {e}; the next run continues", flush=True)
             break
@@ -62,7 +65,7 @@ def main(argv=None):
         sheet[name] = entry
         done += 1
         top = entry["photos"][0] if entry["photos"] else None
-        print(f"{entry['status']:14} {name}: {len(entry['photos'])} photos" + (f" (best: {top['file']} | {top['license']} | {top['date']} | {top['width']}x{top['height']})" if top else ""), flush=True)
+        print(f"{entry['status']:14} {name}: {len(entry['photos'])} photos (of {entry.get('checked', '?')} checked)" + (f" (best: {top['file']} | {top['license']} | {top['date']} | {top['width']}x{top['height']})" if top else ""), flush=True)
         save(sheet)
     save(sheet)
     have = sum(1 for n in cfg["celebrities"] if (sheet.get(n) or {}).get("photos"))

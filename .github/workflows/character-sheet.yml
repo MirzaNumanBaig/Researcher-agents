@@ -11,7 +11,7 @@ on:
     - cron: "17 4 * * 2"
   push:  # TEMPORARY, for testing this change from its branch (removed before merging)
     branches: [feature/open-license-photos]
-    paths: [".github/workflows/character-sheet.yml"]
+    paths: [".github/workflows/character-sheet.yml", "agents/commons_photos.py", "agents/character_sheet.py"]
 permissions:
   contents: write
 concurrency: {group: repo-writes, cancel-in-progress: false}

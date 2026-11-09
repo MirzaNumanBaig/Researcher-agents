@@ -28,7 +28,7 @@ PAUSE = float(os.environ.get("COMMONS_PAUSE", "1.5"))
 IMG_PAUSE = float(os.environ.get("COMMONS_IMG_PAUSE", "0.6"))  # between picture downloads  # seconds between requests: Wikimedia asks automated clients to be gentle
 VERSION = 3  # bump to make character_sheet.py search everyone again with a better method
 KEEP, MIN_WIDTH, MIN_HEIGHT, THUMB_WIDTH = 20, 1200, 700, 1920
-FACE_MIN, FACE_SECOND, CHECK, CHECK_WIDTH = 0.12, 0.45, 24, 640  # face >= 12% of width; 2nd face < 45% of the biggest's area; how many candidates to look at
+FACE_MIN, FACE_SECOND, CHECK, CHECK_WIDTH = 0.12, 0.45, 24, 500  # 500 is one of Wikimedia's fixed thumbnail sizes (other widths return HTTP 400)  # face >= 12% of width; 2nd face < 45% of the biggest's area; how many candidates to look at
 _sleep = time.sleep  # replaced in tests
 
 BAD_WORDS = re.compile(r"\b(poster|cover|screenshot|signature|autograph|wax|statue|mural|cartoon|caricature|stamp|logo|fan art|film still|still from|trailer|album|dvd|figurine|lookalike|impersonat\w+|cosplay|walk of fame|memorial|plaque|grave|tomb|sculpture|bust of)\b", re.I)
@@ -38,6 +38,10 @@ META_FIELDS = "LicenseShortName|LicenseUrl|Artist|Credit|ImageDescription|DateTi
 
 class CommonsError(Exception):
     pass
+
+
+class FaceCheckUnavailable(CommonsError):
+    """OpenCV is not installed: without the face check the pool would contain distant shots, plaques and groups, so the builder stops instead."""
 
 
 def _get(url, tries=4):
@@ -179,14 +183,14 @@ def judge_faces(w, h, faces):
 
 
 def face_gate(p):
-    """(ok, face fraction) for one candidate, by downloading a small copy. ok is None when OpenCV is missing or the download failed."""
+    """(ok, face fraction) for one candidate, by downloading a small copy. A photo that cannot be checked (download failed) is NOT ok: a wrong face is worse than none."""
     _sleep(IMG_PAUSE)
     try:
         res = detect_faces(_get(small_url(p["thumb"]) or p["thumb"]))
     except CommonsError:
-        return None, 0.0
+        return False, 0.0
     if res is None:
-        return None, 0.0
+        raise FaceCheckUnavailable("OpenCV is not installed (pip install opencv-python-headless numpy); set PHOTO_FACE_CHECK=off to skip the face check")
     ok, why, frac = judge_faces(*res)
     return ok, round(frac, 3)
 
@@ -258,12 +262,14 @@ def refresh(name):
     photos = [p for p in photos if mentions(name, p) and p["file"] not in ban]
     photos.sort(key=lambda p: -p["score"])
     kept, unchecked = [], 0
+    check_faces = os.environ.get("PHOTO_FACE_CHECK", "on").lower() != "off"
     for p in photos[:CHECK]:
-        ok, frac = face_gate(p)
-        if ok is None:  # OpenCV missing or the download failed: cannot tell, so leave it unverified (flagged) rather than guess
+        if not check_faces:  # explicit opt-out: metadata ranking only, flagged as unverified
             p["face"], unchecked = None, unchecked + 1
             kept.append(p)
-        elif ok:
+            continue
+        ok, frac = face_gate(p)
+        if ok:
             p["face"] = frac
             p["score"] = round(p["score"] + (2.0 if frac >= 0.25 else 1.5 if frac >= 0.15 else 1.0), 2)  # a clear, close face beats a small one
             kept.append(p)
