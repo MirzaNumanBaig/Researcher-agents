@@ -1,0 +1,285 @@
+{
+ "name": "Russell Crowe",
+ "qid": "Q129817",
+ "description": "New Zealand actor",
+ "wikipedia_editions": 126,
+ "born": "1964-04-07",
+ "birthplace": "Strathmore Park",
+ "occupations": [
+  "actor",
+  "film producer",
+  "singer",
+  "character actor",
+  "screenwriter",
+  "film actor",
+  "television actor",
+  "film director",
+  "composer",
+  "director",
+  "producer",
+  "writer"
+ ],
+ "relationships": [
+  {
+   "name": "Danielle Spencer",
+   "qid": "Q516464",
+   "kind": "spouse",
+   "start": "2003-04-07",
+   "end": "2018-04-00",
+   "ended_by": "",
+   "fame": 11
+  }
+ ],
+ "family": {
+  "children_recorded": 1,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [
+  {
+   "title": "The Weight",
+   "qid": "Q135906914",
+   "date": "2026-11-19",
+   "type": "film",
+   "directors": [
+    "Padraic McKinley"
+   ]
+  },
+  {
+   "title": "The Last Druid",
+   "qid": "Q138982214",
+   "date": "2027-06-24",
+   "type": "film project",
+   "directors": [
+    "William Eubank"
+   ]
+  }
+ ],
+ "recent": [
+  {
+   "title": "Unabomber",
+   "qid": "Q139596561",
+   "date": "2026-09-25",
+   "type": "film",
+   "directors": [
+    "Janus Metz Pedersen"
+   ]
+  },
+  {
+   "title": "The Get Out",
+   "qid": "Q126374606",
+   "date": "2026-08-26",
+   "type": "film",
+   "directors": [
+    "Derrick Borte"
+   ]
+  },
+  {
+   "title": "Beast",
+   "qid": "Q132322744",
+   "date": "2026-04-10",
+   "type": "film",
+   "directors": [
+    "Tyler Atkins"
+   ]
+  },
+  {
+   "title": "Nuremberg",
+   "qid": "Q124393313",
+   "date": "2026-01-01",
+   "type": "film",
+   "directors": [
+    "James Vanderbilt"
+   ]
+  },
+  {
+   "title": "Kraven the Hunter",
+   "qid": "Q107390449",
+   "date": "2024-12-13",
+   "type": "film",
+   "directors": [
+    "J. C. Chandor"
+   ]
+  },
+  {
+   "title": "The Exorcism",
+   "qid": "Q73792046",
+   "date": "2024-07-04",
+   "type": "film",
+   "directors": [
+    "Joshua John Miller"
+   ]
+  },
+  {
+   "title": "Land of Bad",
+   "qid": "Q117176605",
+   "date": "2024-05-09",
+   "type": "film",
+   "directors": [
+    "William Eubank"
+   ]
+  },
+  {
+   "title": "Sleeping Dogs",
+   "qid": "Q117007959",
+   "date": "2024-04-18",
+   "type": "film",
+   "directors": [
+    "Adam Cooper"
+   ]
+  },
+  {
+   "title": "Prizefighter: The Life of Jem Belcher",
+   "qid": "Q108325148",
+   "date": "2022-07-21",
+   "type": "film",
+   "directors": []
+  },
+  {
+   "title": "Thor: Love and Thunder",
+   "qid": "Q65768604",
+   "date": "2022-07-08",
+   "type": "film",
+   "directors": [
+    "Taika Waititi"
+   ]
+  },
+  {
+   "title": "The Greatest Beer Run Ever",
+   "qid": "Q108760444",
+   "date": "2022-01-01",
+   "type": "film",
+   "directors": [
+    "Peter Farrelly"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "William Eubank",
+   "projects": 2
+  },
+  {
+   "name": "Padraic McKinley",
+   "projects": 1
+  },
+  {
+   "name": "Janus Metz Pedersen",
+   "projects": 1
+  },
+  {
+   "name": "Derrick Borte",
+   "projects": 1
+  },
+  {
+   "name": "Tyler Atkins",
+   "projects": 1
+  },
+  {
+   "name": "James Vanderbilt",
+   "projects": 1
+  },
+  {
+   "name": "J. C. Chandor",
+   "projects": 1
+  },
+  {
+   "name": "Joshua John Miller",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Kevin Durand",
+   "qid": "Q320084",
+   "projects": 3,
+   "fame": 34
+  },
+  {
+   "name": "Marton Csokas",
+   "qid": "Q315118",
+   "projects": 3,
+   "fame": 33
+  },
+  {
+   "name": "Luke Hemsworth",
+   "qid": "Q1877051",
+   "projects": 3,
+   "fame": 35
+  },
+  {
+   "name": "Daniel Zovatto",
+   "qid": "Q20732067",
+   "projects": 3,
+   "fame": 19
+  },
+  {
+   "name": "James Ransone",
+   "qid": "Q44273",
+   "projects": 2,
+   "fame": 37
+  },
+  {
+   "name": "RZA",
+   "qid": "Q52447",
+   "projects": 2,
+   "fame": 48
+  },
+  {
+   "name": "William Hurt",
+   "qid": "Q105825",
+   "projects": 2,
+   "fame": 74
+  },
+  {
+   "name": "Giannina Facio",
+   "qid": "Q457736",
+   "projects": 2,
+   "fame": 17
+  },
+  {
+   "name": "Luke Evans",
+   "qid": "Q722001",
+   "projects": 2,
+   "fame": 51
+  },
+  {
+   "name": "Ralph Ineson",
+   "qid": "Q1272489",
+   "projects": 2,
+   "fame": 31
+  },
+  {
+   "name": "Jennifer Connelly",
+   "qid": "Q103343",
+   "projects": 2,
+   "fame": 89
+  },
+  {
+   "name": "Ray Winstone",
+   "qid": "Q310932",
+   "projects": 2,
+   "fame": 41
+  },
+  {
+   "name": "Finn Wittrock",
+   "qid": "Q5450687",
+   "projects": 2,
+   "fame": 36
+  },
+  {
+   "name": "Amanda Seyfried",
+   "qid": "Q189226",
+   "projects": 2,
+   "fame": 85
+  },
+  {
+   "name": "Dave Bautista",
+   "qid": "Q44158",
+   "projects": 2,
+   "fame": 68
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}

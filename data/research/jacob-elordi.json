@@ -1,0 +1,231 @@
+{
+ "name": "Jacob Elordi",
+ "qid": "Q53909401",
+ "description": "Australian actor (born 1997)",
+ "wikipedia_editions": 48,
+ "born": "1997-06-26",
+ "birthplace": "Nudgee",
+ "occupations": [
+  "actor",
+  "film actor",
+  "television actor"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "The Dog Stars",
+   "qid": "Q132256832",
+   "date": "2026-08-28",
+   "type": "film",
+   "directors": [
+    "Ridley Scott"
+   ]
+  },
+  {
+   "title": "Frankenstein",
+   "qid": "Q124393045",
+   "date": "2025-11-07",
+   "type": "film",
+   "directors": [
+    "Guillermo del Toro"
+   ]
+  },
+  {
+   "title": "On Swift Horses",
+   "qid": "Q116971312",
+   "date": "2025-07-03",
+   "type": "film",
+   "directors": [
+    "Daniel Minahan"
+   ]
+  },
+  {
+   "title": "Oh, Canada",
+   "qid": "Q122781655",
+   "date": "2024-05-17",
+   "type": "film",
+   "directors": [
+    "Paul Schrader"
+   ]
+  },
+  {
+   "title": "Priscilla",
+   "qid": "Q115115152",
+   "date": "2024-02-01",
+   "type": "film",
+   "directors": [
+    "Sofia Coppola"
+   ]
+  },
+  {
+   "title": "He Went That Way",
+   "qid": "Q117787728",
+   "date": "2024-01-05",
+   "type": "film",
+   "directors": [
+    "Jeffrey Darling"
+   ]
+  },
+  {
+   "title": "Saltburn",
+   "qid": "Q113135527",
+   "date": "2023-11-24",
+   "type": "film",
+   "directors": [
+    "Emerald Fennell"
+   ]
+  },
+  {
+   "title": "The Sweet East",
+   "qid": "Q117774896",
+   "date": "2023-01-01",
+   "type": "film",
+   "directors": [
+    "Sean Price Williams"
+   ]
+  },
+  {
+   "title": "Deep Water",
+   "qid": "Q73537513",
+   "date": "2022-03-18",
+   "type": "film",
+   "directors": [
+    "Adrian Lyne"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Ridley Scott",
+   "projects": 1
+  },
+  {
+   "name": "Guillermo del Toro",
+   "projects": 1
+  },
+  {
+   "name": "Daniel Minahan",
+   "projects": 1
+  },
+  {
+   "name": "Paul Schrader",
+   "projects": 1
+  },
+  {
+   "name": "Sofia Coppola",
+   "projects": 1
+  },
+  {
+   "name": "Jeffrey Darling",
+   "projects": 1
+  },
+  {
+   "name": "Emerald Fennell",
+   "projects": 1
+  },
+  {
+   "name": "Sean Price Williams",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Joey King",
+   "qid": "Q112536",
+   "projects": 3,
+   "fame": 76
+  },
+  {
+   "name": "Molly Ringwald",
+   "qid": "Q231460",
+   "projects": 3,
+   "fame": 47
+  },
+  {
+   "name": "Joel Courtney",
+   "qid": "Q1691699",
+   "projects": 3,
+   "fame": 30
+  },
+  {
+   "name": "Maisie Richardson-Sellers",
+   "qid": "Q19896733",
+   "projects": 2,
+   "fame": 25
+  },
+  {
+   "name": "Ewan Mitchell",
+   "qid": "Q75732852",
+   "projects": 2,
+   "fame": 19
+  },
+  {
+   "name": "Alison Oliver",
+   "qid": "Q111976143",
+   "projects": 2,
+   "fame": 16
+  },
+  {
+   "name": "Clancy Brown",
+   "qid": "Q4488",
+   "projects": 1,
+   "fame": 45
+  },
+  {
+   "name": "Carey Mulligan",
+   "qid": "Q219655",
+   "projects": 1,
+   "fame": 70
+  },
+  {
+   "name": "Rosamund Pike",
+   "qid": "Q230004",
+   "projects": 1,
+   "fame": 76
+  },
+  {
+   "name": "Q230516",
+   "qid": "Q230516",
+   "projects": 1,
+   "fame": 41
+  },
+  {
+   "name": "Rachel Blanchard",
+   "qid": "Q269673",
+   "projects": 1,
+   "fame": 28
+  },
+  {
+   "name": "Richard E. Grant",
+   "qid": "Q380856",
+   "projects": 1,
+   "fame": 41
+  },
+  {
+   "name": "Tahmoh Penikett",
+   "qid": "Q440979",
+   "projects": 1,
+   "fame": 33
+  },
+  {
+   "name": "Q483118",
+   "qid": "Q483118",
+   "projects": 1,
+   "fame": 112
+  },
+  {
+   "name": "Kristen Connolly",
+   "qid": "Q512751",
+   "projects": 1,
+   "fame": 34
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}

@@ -1,0 +1,136 @@
+{
+ "name": "Troye Sivan",
+ "qid": "Q1362028",
+ "description": "Australian singer-songwriter and actor",
+ "wikipedia_editions": 54,
+ "born": "1995-06-05",
+ "birthplace": "Johannesburg",
+ "occupations": [
+  "actor",
+  "singer-songwriter",
+  "YouTuber",
+  "film actor",
+  "singer",
+  "composer",
+  "musician",
+  "perfume executive"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Three Months",
+   "qid": "Q110873634",
+   "date": "2022-01-01",
+   "type": "film",
+   "directors": [
+    "Jared Frieder"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Jared Frieder",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "John Cleese",
+   "qid": "Q25014",
+   "projects": 2,
+   "fame": 77
+  },
+  {
+   "name": "Nicole Kidman",
+   "qid": "Q37459",
+   "projects": 1,
+   "fame": 134
+  },
+  {
+   "name": "Russell Crowe",
+   "qid": "Q129817",
+   "projects": 1,
+   "fame": 126
+  },
+  {
+   "name": "Ariana Grande",
+   "qid": "Q151892",
+   "projects": 1,
+   "fame": 142
+  },
+  {
+   "name": "Flea",
+   "qid": "Q202859",
+   "projects": 1,
+   "fame": 57
+  },
+  {
+   "name": "Ellen Burstyn",
+   "qid": "Q211144",
+   "projects": 1,
+   "fame": 72
+  },
+  {
+   "name": "Elizabeth Gillies",
+   "qid": "Q230209",
+   "projects": 1,
+   "fame": 51
+  },
+  {
+   "name": "Jennifer Coolidge",
+   "qid": "Q230278",
+   "projects": 1,
+   "fame": 62
+  },
+  {
+   "name": "Judy Greer",
+   "qid": "Q236189",
+   "projects": 1,
+   "fame": 42
+  },
+  {
+   "name": "Cherry Jones",
+   "qid": "Q239046",
+   "projects": 1,
+   "fame": 37
+  },
+  {
+   "name": "Louis Gossett Jr.",
+   "qid": "Q329719",
+   "projects": 1,
+   "fame": 48
+  },
+  {
+   "name": "Joel Edgerton",
+   "qid": "Q381768",
+   "projects": 1,
+   "fame": 40
+  },
+  {
+   "name": "Taylor Parks",
+   "qid": "Q435807",
+   "projects": 1,
+   "fame": 20
+  },
+  {
+   "name": "Daniella Monet",
+   "qid": "Q464131",
+   "projects": 1,
+   "fame": 46
+  },
+  {
+   "name": "Tanit Phoenix",
+   "qid": "Q467986",
+   "projects": 1,
+   "fame": 24
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}

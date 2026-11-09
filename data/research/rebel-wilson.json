@@ -1,0 +1,180 @@
+{
+ "name": "Rebel Wilson",
+ "qid": "Q442897",
+ "description": "Australian actress, writer, and producer",
+ "wikipedia_editions": 45,
+ "born": "1980-03-02",
+ "birthplace": "Sydney",
+ "occupations": [
+  "comedian",
+  "screenwriter",
+  "film producer",
+  "stage actor",
+  "film actor",
+  "actor",
+  "television producer",
+  "television presenter",
+  "writer",
+  "voice actor",
+  "television actor",
+  "video game actor",
+  "film director"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Tinsel Town",
+   "qid": "Q132180513",
+   "date": "2025-12-05",
+   "type": "film",
+   "directors": [
+    "Chris Foggin"
+   ]
+  },
+  {
+   "title": "Bride Hard",
+   "qid": "Q124289803",
+   "date": "2025-08-28",
+   "type": "film",
+   "directors": [
+    "Simon West"
+   ]
+  },
+  {
+   "title": "Juliet & Romeo",
+   "qid": "Q132146913",
+   "date": "2025-05-09",
+   "type": "film",
+   "directors": [
+    "Timothy Scott Bogart"
+   ]
+  },
+  {
+   "title": "Senior Year",
+   "qid": "Q107639384",
+   "date": "2022-05-13",
+   "type": "film",
+   "directors": [
+    "Alex Hardcastle"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Chris Foggin",
+   "projects": 1
+  },
+  {
+   "name": "Simon West",
+   "projects": 1
+  },
+  {
+   "name": "Timothy Scott Bogart",
+   "projects": 1
+  },
+  {
+   "name": "Alex Hardcastle",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Anna Kendrick",
+   "qid": "Q67701",
+   "projects": 4,
+   "fame": 76
+  },
+  {
+   "name": "Elizabeth Banks",
+   "qid": "Q219373",
+   "projects": 4,
+   "fame": 70
+  },
+  {
+   "name": "Anna Camp",
+   "qid": "Q1150316",
+   "projects": 4,
+   "fame": 39
+  },
+  {
+   "name": "Brittany Snow",
+   "qid": "Q229975",
+   "projects": 3,
+   "fame": 42
+  },
+  {
+   "name": "Ester Dean",
+   "qid": "Q271119",
+   "projects": 3,
+   "fame": 25
+  },
+  {
+   "name": "John Michael Higgins",
+   "qid": "Q967130",
+   "projects": 3,
+   "fame": 26
+  },
+  {
+   "name": "Alexis Knapp",
+   "qid": "Q2156744",
+   "projects": 3,
+   "fame": 28
+  },
+  {
+   "name": "Adam DeVine",
+   "qid": "Q4678957",
+   "projects": 3,
+   "fame": 33
+  },
+  {
+   "name": "Hana Mae Lee",
+   "qid": "Q16548392",
+   "projects": 3,
+   "fame": 23
+  },
+  {
+   "name": "Skylar Astin",
+   "qid": "Q2046436",
+   "projects": 2,
+   "fame": 25
+  },
+  {
+   "name": "Kether Donohue",
+   "qid": "Q6395392",
+   "projects": 2,
+   "fame": 17
+  },
+  {
+   "name": "Ben Platt",
+   "qid": "Q16236455",
+   "projects": 2,
+   "fame": 33
+  },
+  {
+   "name": "Alice Eve",
+   "qid": "Q232786",
+   "projects": 2,
+   "fame": 48
+  },
+  {
+   "name": "Wendi McLendon-Covey",
+   "qid": "Q165296",
+   "projects": 2,
+   "fame": 31
+  },
+  {
+   "name": "Isla Fisher",
+   "qid": "Q228638",
+   "projects": 2,
+   "fame": 62
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}

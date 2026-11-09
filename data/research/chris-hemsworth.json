@@ -1,0 +1,234 @@
+{
+ "name": "Chris Hemsworth",
+ "qid": "Q54314",
+ "description": "Australian actor (born 1983)",
+ "wikipedia_editions": 95,
+ "born": "1983-08-11",
+ "birthplace": "Melbourne",
+ "occupations": [
+  "model",
+  "television actor",
+  "film actor",
+  "actor"
+ ],
+ "relationships": [
+  {
+   "name": "Elsa Pataky",
+   "qid": "Q230123",
+   "kind": "partner",
+   "start": "2010-00-00",
+   "end": "2010-12-25",
+   "ended_by": "Q49836",
+   "fame": 48
+  },
+  {
+   "name": "Elsa Pataky",
+   "qid": "Q230123",
+   "kind": "spouse",
+   "start": "2010-12-26",
+   "end": "",
+   "ended_by": "",
+   "fame": 48
+  }
+ ],
+ "family": {
+  "children_recorded": 3,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Avengers: Endgame",
+   "qid": "Q23781155",
+   "date": "2026-09-24",
+   "type": "film",
+   "directors": [
+    "Anthony Russo",
+    "Joe Russo"
+   ]
+  },
+  {
+   "title": "Crime 101",
+   "qid": "Q126394034",
+   "date": "2026-02-13",
+   "type": "film",
+   "directors": [
+    "Bart Layton"
+   ]
+  },
+  {
+   "title": "Furiosa: A Mad Max Saga",
+   "qid": "Q100361125",
+   "date": "2024-05-24",
+   "type": "film",
+   "directors": [
+    "George Miller"
+   ]
+  },
+  {
+   "title": "Extraction 2",
+   "qid": "Q108690659",
+   "date": "2023-06-16",
+   "type": "film",
+   "directors": [
+    "Sam Hargrave"
+   ]
+  },
+  {
+   "title": "Thor: Love and Thunder",
+   "qid": "Q65768604",
+   "date": "2022-07-08",
+   "type": "film",
+   "directors": [
+    "Taika Waititi"
+   ]
+  },
+  {
+   "title": "Spiderhead",
+   "qid": "Q104094034",
+   "date": "2022-06-17",
+   "type": "film",
+   "directors": [
+    "Joseph Kosinski"
+   ]
+  },
+  {
+   "title": "Interceptor",
+   "qid": "Q111945687",
+   "date": "2022-06-03",
+   "type": "film",
+   "directors": [
+    "Matthew Reilly"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Anthony Russo",
+   "projects": 1
+  },
+  {
+   "name": "Joe Russo",
+   "projects": 1
+  },
+  {
+   "name": "Bart Layton",
+   "projects": 1
+  },
+  {
+   "name": "George Miller",
+   "projects": 1
+  },
+  {
+   "name": "Sam Hargrave",
+   "projects": 1
+  },
+  {
+   "name": "Taika Waititi",
+   "projects": 1
+  },
+  {
+   "name": "Joseph Kosinski",
+   "projects": 1
+  },
+  {
+   "name": "Matthew Reilly",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Idris Elba",
+   "qid": "Q342604",
+   "projects": 9,
+   "fame": 86
+  },
+  {
+   "name": "Mark Ruffalo",
+   "qid": "Q41422",
+   "projects": 9,
+   "fame": 88
+  },
+  {
+   "name": "Stan Lee",
+   "qid": "Q181900",
+   "projects": 8,
+   "fame": 99
+  },
+  {
+   "name": "Tom Hiddleston",
+   "qid": "Q295803",
+   "projects": 8,
+   "fame": 80
+  },
+  {
+   "name": "Samuel L. Jackson",
+   "qid": "Q172678",
+   "projects": 7,
+   "fame": 99
+  },
+  {
+   "name": "Chris Evans",
+   "qid": "Q178348",
+   "projects": 7,
+   "fame": 99
+  },
+  {
+   "name": "Stellan Skarsgård",
+   "qid": "Q208667",
+   "projects": 6,
+   "fame": 65
+  },
+  {
+   "name": "Robert Downey Jr.",
+   "qid": "Q165219",
+   "projects": 6,
+   "fame": 114
+  },
+  {
+   "name": "Benedict Cumberbatch",
+   "qid": "Q244674",
+   "projects": 6,
+   "fame": 90
+  },
+  {
+   "name": "Jeremy Renner",
+   "qid": "Q23365",
+   "projects": 5,
+   "fame": 126
+  },
+  {
+   "name": "Scarlett Johansson",
+   "qid": "Q34436",
+   "projects": 5,
+   "fame": 157
+  },
+  {
+   "name": "Cobie Smulders",
+   "qid": "Q200566",
+   "projects": 5,
+   "fame": 71
+  },
+  {
+   "name": "Anthony Mackie",
+   "qid": "Q511554",
+   "projects": 5,
+   "fame": 55
+  },
+  {
+   "name": "Tessa Thompson",
+   "qid": "Q271500",
+   "projects": 5,
+   "fame": 58
+  },
+  {
+   "name": "Natalie Portman",
+   "qid": "Q37876",
+   "projects": 4,
+   "fame": 138
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}
