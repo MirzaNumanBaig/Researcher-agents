@@ -1,0 +1,39 @@
+name: Build celebrity photo pool
+# Builds data/character-sheet.json: open-licence Wikimedia Commons photos per celebrity (CC0, public domain, CC BY, CC BY-SA), used for featured images.
+# Manual and weekly. Wikimedia throttles automated clients, so a run does up to "max" people and the next run continues; finished people are skipped.
+# On any branch other than main it only uploads a report (contact sheet + coverage) and commits nothing.
+on:
+  workflow_dispatch:
+    inputs:
+      refresh: {description: "Redo people already on file", type: boolean, default: false}
+      max: {description: "Most people to search in this run", default: "15"}
+  schedule:
+    - cron: "17 4 * * 2"
+permissions:
+  contents: write
+concurrency: {group: repo-writes, cancel-in-progress: false}
+jobs:
+  pool:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q pillow
+      - name: Search Commons
+        run: python agents/character_sheet.py --max "${{ inputs.max || '15' }}" ${{ inputs.refresh && '--refresh' || '' }}
+      - name: Report (what each person's picture would be)
+        run: python agents/photo_report.py --out photo-report
+      - uses: actions/upload-artifact@v4
+        with:
+          name: photo-pool-report-${{ github.run_id }}
+          path: photo-report
+          retention-days: 14
+      - name: Commit the pool (main only)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "researcher-bot"
+          git config user.email "researcher-bot@users.noreply.github.com"
+          git add data/character-sheet.json
+          git diff --cached --quiet || { git commit -m "Update celebrity photo pool" && bash scripts/push_retry.sh; }

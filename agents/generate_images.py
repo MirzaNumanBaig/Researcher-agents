@@ -284,18 +284,42 @@ def licensed_photo(front):
 
 
 def used_photo_pages():
-    """Commons page URLs of the real photos already used by an article (read from each article's image_credit), so a photo is never used twice."""
+    """Commons page URLs of the real photos already used by articles, OLDEST use first (a photo used again moves to the end)."""
     import html as _h
-    used = set()
-    for f in (ROOT / "articles").glob("*.md"):
+    order = []
+    for f in sorted((ROOT / "articles").glob("*.md")):  # file names start with the date, so this is chronological
         credit = _h.unescape(field(split(f.read_text())[0], "image_credit"))
-        used.update(re.findall(r'href="(https://commons\.wikimedia\.org/[^"]+)"', credit))
-    return used
+        for u in re.findall(r'href="(https://commons\.wikimedia\.org/[^"]+)"', credit):
+            if u in order:
+                order.remove(u)
+            order.append(u)
+    return order
 
 
-def pick_photo(photos, used):
-    """First photo whose Commons page no article has used yet, else None (the caller then makes a fresh AI scene instead of repeating a picture)."""
-    return next((p for p in photos or [] if p.get("page") and p["page"] not in used), None)
+def _topic_words(title, name=""):
+    skip = {w.lower() for w in name.split()} | set("the and with from after before this that over into about more than just says say".split())
+    return [w for w in re.findall(r"[a-z0-9]{4,}", (title or "").lower()) if w not in skip]
+
+
+def pick_photo(photos, used, title="", reuse=False):
+    """The photo for this article. Unused photos first: the best-ranked one, unless the headline matches another better (premiere, Cannes, the film's name).
+    When every photo of the person is used: None (so the caller can use something else), or with reuse=True the LEAST recently used one."""
+    photos = [p for p in photos or [] if p.get("page")]
+    if not photos:
+        return None
+    used = list(used)
+    words = _topic_words(title)
+
+    def topic(p):
+        hay = f"{p.get('file', '')} {p.get('description', '')} {p.get('category', '')}".lower()
+        return min(4.0, 1.5 * sum(1 for w in words if w in hay))
+
+    fresh = [p for p in photos if p["page"] not in used]
+    if fresh:
+        return max(fresh, key=lambda p: (topic(p), -fresh.index(p)))
+    if not reuse:
+        return None
+    return min(photos, key=lambda p: (used.index(p["page"]), -topic(p)))
 
 
 def real_photo(front):
@@ -306,10 +330,11 @@ def real_photo(front):
     try:
         from PIL import Image, ImageFilter
         entry = json.loads((ROOT / "data" / "character-sheet.json").read_text()).get(field(front, "celebrity")) or {}
-        photo = pick_photo(entry.get("photos"), used_photo_pages())
+        reuse = (json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("reuse_real_photos", True)
+        photo = pick_photo(entry.get("photos"), used_photo_pages(), field(front, "title"), reuse)
         if not photo:
-            return None  # every photo of this person is already on the site: never repeat one
-        req = urllib.request.Request(photo.get("thumb") or photo["url"], headers={"User-Agent": "ModusCarry/1.0 (themoduscarry@gmail.com)"})
+            return None  # this person has no free photo at all (or reuse is off and every one is used)
+        req = urllib.request.Request(photo.get("thumb") or photo["url"], headers={"User-Agent": "Researcher-agents/1.0 (news site photo credits; https://github.com/MirzaNumanBaig/Researcher-agents)"})
         with urllib.request.urlopen(req, timeout=60) as r:
             img = Image.open(io.BytesIO(r.read())).convert("RGB")
         scale = max(OUT_W / img.width, OUT_H / img.height)
@@ -329,7 +354,7 @@ def real_photo(front):
         import html as _h
         credit = (f'Photo: <a href="{_h.escape(photo["page"])}" rel="noopener">{_h.escape(photo.get("author") or "Wikimedia Commons contributor")}</a>, '
                   f'<a href="{_h.escape(photo.get("license_url") or photo["page"])}" rel="noopener">{_h.escape(photo["license"])}</a>, '
-                  f'via <a href="{_h.escape(photo["page"])}" rel="noopener">Wikimedia Commons</a>')
+                  f'via <a href="{_h.escape(photo["page"])}" rel="noopener">Wikimedia Commons</a> (cropped)')
         return out.getvalue(), f"{field(front, 'celebrity')}: {desc}"[:200], credit
     except Exception as e:
         print(f"real photo unavailable for {field(front, 'celebrity')} ({e}); using an AI scene", file=sys.stderr)
@@ -339,11 +364,11 @@ def real_photo(front):
 def main():
     if "--sample" in sys.argv:
         return sample()
-    if json.loads((ROOT / "config.json").read_text()).get("ai_images", True) is False:
-        print("ai_images is false in config.json; no images generated.")
-        return
-    if not (ACCOUNT and TOKEN):
-        print("CF_ACCOUNT_ID / CF_API_TOKEN not set; no images generated.")
+    cfg_ = json.loads((ROOT / "config.json").read_text())
+    pipe_ = cfg_.get("image_pipeline") or {}
+    ai_on = cfg_.get("ai_images", True) is not False and bool(ACCOUNT and TOKEN)  # AI pictures need Cloudflare; real photos do not
+    if not ai_on and not (pipe_.get("real_photos") or pipe_.get("licensed_images")):
+        print("AI images are off (or Cloudflare is not configured) and real photos are not enabled; no images generated.")
         return
     limit = int(sys.argv[sys.argv.index("--max") + 1]) if "--max" in sys.argv else 20
     out_dir = ROOT / "articles" / "images"
@@ -372,9 +397,6 @@ def main():
                     and f.stem in field(front, "wp_image") and now - datetime.strptime(f.stem[:16], "%Y-%m-%d-%H-%M").replace(tzinfo=timezone.utc) <= timedelta(days=REDO_DAYS))
         if (field(front, "wp_media_id") and not redo) or have or (not redo and not wants_image(field(front, "status"), f.stem, "--include-pending" in sys.argv, now)):
             continue
-        if used_today(today) >= cap:
-            print(f"daily image cap reached ({cap} attempts today, UTC); the remaining articles wait until tomorrow so the free allowance is not used up")
-            break
         rp = licensed_photo(front) or real_photo(front)  # licensed press image first, then the real free-licence photo
         if redo and not rp:
             continue
@@ -387,6 +409,11 @@ def main():
             done += 1
             print(f"ok {f.name} -> real photo")
             continue
+        if not ai_on:
+            continue  # no real photo exists for this person and AI pictures are off: the post goes out without a featured image
+        if used_today(today) >= cap:
+            print(f"daily image cap reached ({cap} attempts today, UTC); the remaining AI pictures wait until tomorrow so the free allowance is not used up")
+            break
         res = None
         if use_pipeline:
             try:

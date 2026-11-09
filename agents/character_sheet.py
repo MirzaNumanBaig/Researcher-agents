@@ -1,107 +1,74 @@
-"""Builds data/character-sheet.json: the newest free-licence Commons photo of every celebrity.
+"""Builds data/character-sheet.json: the pool of open-licence Wikimedia Commons photos of every celebrity (links only; nothing is downloaded here).
 
-For each name it tries the Commons category "<Name> in 2026", then 2025, then 2024, and
-keeps the newest still image with a free licence and a face-friendly size. Each entry has the
-file, licence, author, date and the credit line to print. Links only; nothing is downloaded.
-Run: python3 agents/character_sheet.py [--only "Chris Hemsworth"] [--refresh]   (keeps up to 8 photos per person so posts do not repeat a picture; --refresh re-reads people already done)
+generate_images.py draws a post's featured image from this pool. Discovery, licence rules and ranking live in commons_photos.py: the person's main Commons
+category plus their year/event sub-categories, CC0 / public domain / CC BY / CC BY-SA only, a 1920 px copy so pictures are not stretched, best ones first.
+
+Run: python3 agents/character_sheet.py [--only "Chris Hemsworth"] [--refresh] [--max N]
+  - resumable: people already done with the current method (v2) are skipped; older entries are redone; "no free photo" is re-checked after 30 days
+  - --max N does at most N people per run (Wikimedia throttles automated clients, so a run stops early and the next run continues)
+  - --refresh redoes everyone
 """
-import json, re, sys, time, urllib.parse, urllib.request
+import json
+import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import commons_photos  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
-API = "https://commons.wikimedia.org/w/api.php"
-UA = "ModusCarry/1.0 (themoduscarry@gmail.com)"
-YEARS = (2026, 2025, 2024)
-FREE = ("CC BY", "CC0", "Public domain", "PD")
-BAD = ("logo", "signature", "poster", "autograph")
+PATH = ROOT / "data" / "character-sheet.json"
+RECHECK_DAYS = 30
 
 
-def call(params, tries=6):
-    url = API + "?" + urllib.parse.urlencode({**params, "format": "json"})
-    for i in range(tries):
-        time.sleep(1.5)
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
-            return json.load(urllib.request.urlopen(req, timeout=30))
-        except Exception:
-            time.sleep(10 * (i + 1))
-    raise RuntimeError("Wikimedia kept refusing the request (rate limit)")
+def due(entry):
+    """Does this person need (re)searching? Missing, built by the old method, or 'no free photo' found more than RECHECK_DAYS ago."""
+    if not entry or entry.get("v") != 2:
+        return True
+    if entry.get("status") == "ok":
+        return False
+    try:
+        return (datetime.now(timezone.utc) - datetime.fromisoformat(entry["checked"])).days >= RECHECK_DAYS
+    except (KeyError, ValueError):
+        return True
 
 
-def clean(s):
-    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", s or "")).strip()
+def save(sheet):
+    PATH.parent.mkdir(exist_ok=True)
+    PATH.write_text(json.dumps(sheet, indent=1, ensure_ascii=False) + "\n")
 
 
-def candidates(name):
-    for year in YEARS:
-        cat = f"Category:{name} in {year}"
-        d = call({"action": "query", "generator": "categorymembers", "gcmtitle": cat,
-                  "gcmtype": "file", "gcmlimit": 50, "prop": "imageinfo",
-                  "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 800})
-        pages = (d.get("query") or {}).get("pages") or {}
-        out = []
-        for p in pages.values():
-            ii = (p.get("imageinfo") or [{}])[0]
-            m = ii.get("extmetadata") or {}
-            lic = clean((m.get("LicenseShortName") or {}).get("value"))
-            if ii.get("mime") != "image/jpeg" or not lic.startswith(FREE):
-                continue
-            if min(ii.get("width", 0), ii.get("height", 0)) < 900:
-                continue
-            title = p["title"]
-            if any(b in title.lower() for b in BAD):
-                continue
-            out.append({
-                "file": title, "page": ii["descriptionurl"], "url": ii["url"],
-                "thumb": ii.get("thumburl"), "width": ii["width"], "height": ii["height"],
-                "license": lic, "license_url": clean((m.get("LicenseUrl") or {}).get("value")),
-                "author": clean((m.get("Artist") or {}).get("value")),
-                "date": clean((m.get("DateTimeOriginal") or m.get("DateTime") or {}).get("value"))[:10],
-                "description": clean((m.get("ImageDescription") or {}).get("value"))[:200],
-                "category": cat,
-            })
-        if out:
-            out.sort(key=lambda x: x["date"], reverse=True)
-            return out
-    return []
-
-
-def credit(e):
-    return f"Photo: {e['author'] or 'Wikimedia Commons contributor'}, {e['license']}, via Wikimedia Commons"
-
-
-def main():
-    cfg = json.load(open(ROOT / "config.json"))
-    only = sys.argv[sys.argv.index("--only") + 1] if "--only" in sys.argv else None
-    path = ROOT / "data" / "character-sheet.json"
-    sheet = json.load(open(path)) if path.exists() else {}
+def main(argv=None):
+    argv = sys.argv[1:] if argv is None else argv
+    cfg = json.loads((ROOT / "config.json").read_text())
+    only = argv[argv.index("--only") + 1] if "--only" in argv else None
+    limit = int(argv[argv.index("--max") + 1]) if "--max" in argv else 10**6
+    sheet = json.loads(PATH.read_text()) if PATH.exists() else {}
+    done = 0
     for name in cfg["celebrities"]:
         if only and name != only:
             continue
-        if (sheet.get(name) or {}).get("status") == "ok" and "--refresh" not in sys.argv:
-            continue  # already found; a re-run only fills the gaps
+        if not (due(sheet.get(name)) or "--refresh" in argv):
+            continue
+        if done >= limit:
+            print("run limit reached; the next run continues")
+            break
         try:
-            found = candidates(name)
-        except RuntimeError as e:  # a throttled request is not "no photo": leave it for the next run
-            print("retry", name, e, flush=True)
-            continue
-        if not found:
-            sheet[name] = {"status": "no_free_photo", "photos": []}
-            print("none ", name, flush=True)
-            save(path, sheet)
-            continue
-        for e in found:
-            e["credit"] = credit(e)
-        sheet[name] = {"status": "ok", "photos": found[:8]}
-        print("ok   ", name, found[0]["date"], found[0]["file"], flush=True)
-        save(path, sheet)
-    save(path, sheet)
-
-
-def save(path, sheet):
-    path.parent.mkdir(exist_ok=True)
-    json.dump(sheet, open(path, "w"), indent=1, ensure_ascii=False)
+            entry = commons_photos.refresh(name)
+        except commons_photos.CommonsError as e:  # a throttled request is not "no photo": keep what we had and stop politely
+            print(f"throttled at {name}: {e}; the next run continues", flush=True)
+            break
+        entry["checked"] = datetime.now(timezone.utc).isoformat()
+        sheet[name] = entry
+        done += 1
+        top = entry["photos"][0] if entry["photos"] else None
+        print(f"{entry['status']:14} {name}: {len(entry['photos'])} photos" + (f" (best: {top['file']} | {top['license']} | {top['date']} | {top['width']}x{top['height']})" if top else ""), flush=True)
+        save(sheet)
+    save(sheet)
+    have = sum(1 for n in cfg["celebrities"] if (sheet.get(n) or {}).get("photos"))
+    print(f"{have} of {len(cfg['celebrities'])} celebrities have at least one free photo")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
