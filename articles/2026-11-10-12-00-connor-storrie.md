@@ -23,6 +23,7 @@ wp_id: 1763
 wp_link: "https://moduscarry.com/connor-storrie-heated-rivalry-fame-advice/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

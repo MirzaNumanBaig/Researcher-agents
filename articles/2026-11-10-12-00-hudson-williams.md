@@ -23,6 +23,7 @@ wp_id: 1765
 wp_link: "https://moduscarry.com/hudson-williams-heated-rivalry-season-2/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
