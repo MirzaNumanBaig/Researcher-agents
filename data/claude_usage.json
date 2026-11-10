@@ -9503,6 +9503,22 @@
    "turns": 9,
    "seconds": 32,
    "cost_usd": 0.1675
+  },
+  {
+   "date": "2026-11-10",
+   "time": "2026-11-10T23:05:21+00:00",
+   "batch": "2026-11-11 09:00",
+   "celebrity": "Russell Crowe",
+   "article": "2026-11-11-09-00-russell-crowe.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 5221,
+   "cache_read_tokens": 233092,
+   "cache_write_tokens": 28041,
+   "turns": 13,
+   "seconds": 36,
+   "cost_usd": 0.1879
   }
  ]
 }
