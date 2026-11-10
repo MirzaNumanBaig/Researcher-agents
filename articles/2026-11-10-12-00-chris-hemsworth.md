@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Archie Rose Gin Made With Farm Honey"
 seo_description: "Chris Hemsworth Archie Rose gin uses honey from his Byron Bay hives. Price, botanicals and what else the actor has in the pipeline this month."
 focus_keyword: "Chris Hemsworth Archie Rose gin"
 permalink: "chris-hemsworth-archie-rose-gin"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-10 12:00"
 celebrity: "Chris Hemsworth"
@@ -17,6 +17,14 @@ sources:
   - "https://collider.com/prime-video-crime-101-streaming-success-200-days-november-2026/"
   - "https://timesofindia.indiatimes.com/world/rest-of-world/actor-chris-hemsworth-became-a-patron-of-an-australian-childrens-charity-after-40-years-it-has-supported-more-than-50000-children-and-young-people/articleshow/135680157.cms"
   - "https://geektyrant.com/news/two-finished-kick-ass-spin-off-movies-are-sitting-unreleased-and-one-stars-chris-hemsworth-and-sam-rockwell"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-10-12-00-chris-hemsworth.webp"
+wp_media_id: 1760
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-10-12-00-chris-hemsworth-768x432.webp"
+wp_id: 1761
+wp_link: "https://moduscarry.com/chris-hemsworth-archie-rose-gin/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

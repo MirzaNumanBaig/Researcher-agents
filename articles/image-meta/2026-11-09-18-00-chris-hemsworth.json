@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-11-10T02:38:47.002521+00:00",
+  "article": "2026-11-09-18-00-chris-hemsworth",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure met with Thai fighter Rodtang Jitmuangnon on the an anonymous figure set in Thailand.",
+    "emotion": "excited",
+    "setting": "film set",
+    "key_objects": [
+      "Thor's hammer",
+      "Muay Thai gloves",
+      "film cameras"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Thor's hammer",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "Thor's hammer",
+      "Muay Thai gloves",
+      "film cameras"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "mood": "excited",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a woman in her mid 20s, with a mixture of determination and excitement etched on her face, her eyebrows slightly raised, eyes gleaming with intensity, and a hint of a smile playing on her lips. Her jaw is set, and her gaze is directed upwards, fixed on the figure in the background. Her shoulders are relaxed, and her posture is open, with a slight lean forward, her hands resting in her pockets, thumbs tucked in. She's wearing a black tank top, with silver accents on her shorts, and Muay Thai gloves hang loosely from her fingers. In the foreground, a film camera lies on the ground, while in the midground, Thor's hammer stands upright, its handle leaning against a nearby prop. The background is a blur of a film set, with cameras and lights scattered about, as the warm sunlight casts long shadows across the scene. The camera is positioned high above, capturing the scene with a 24mm lens, and the image is bathed in the gentle glow of a sunny day. This is a candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3867976691,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film set with Thor's hammer and Muay Thai gloves, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 263.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3867976691,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

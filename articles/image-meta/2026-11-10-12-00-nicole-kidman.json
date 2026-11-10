@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-10T02:37:23.550162+00:00",
+  "article": "2026-11-10-12-00-nicole-kidman",
+  "ai_generated": true,
+  "story_type": "fashion",
+  "analysis": {
+    "story_type": "fashion",
+    "core_event": "an anonymous figure attends the 2026 the figure Art+Film the figure in a an anonymous figure dress and an anonymous figure.",
+    "emotion": "glamorous",
+    "setting": "an anonymous figure",
+    "key_objects": [
+      "an anonymous figure dress",
+      "an anonymous figure",
+      "the figure Art+Film the figure"
+    ],
+    "time_and_light": "evening, spotlight",
+    "palette": [
+      "cream",
+      "the figure white",
+      "soft pink"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure dress",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "smooth and softly arched",
+          "eyes": "confident and direct",
+          "mouth": "a composed soft smile",
+          "jaw": "lifted slightly"
+        },
+        "gaze": "toward the camera",
+        "head": "quarter-turned toward the lens, chin raised",
+        "posture": "shoulders back, spine long",
+        "hands": "one hand resting on the hip",
+        "interaction": "",
+        "clothing": "a sculptural gown"
+      }
+    ],
+    "setting": "an anonymous figure",
+    "props": [
+      "an anonymous figure dress",
+      "an anonymous figure",
+      "the figure Art+Film the figure"
+    ],
+    "time_of_day": "evening, spotlight",
+    "light": {
+      "source": "evening, spotlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "cream",
+      "the figure white",
+      "soft pink"
+    ],
+    "mood": "glamorous",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-06"
+  ],
+  "prompt": "A wide shot of a man in his mid 50s with short grey-flecked hair and a beard and tan skin, standing confidently with his shoulders back and spine long, one hand resting on his hip, as he gazes directly toward the camera with confident and direct eyes, his smooth and softly arched eyebrows slightly raised, and a composed soft smile on his mouth with his jaw lifted slightly. His head is quarter-turned toward the lens, his chin raised and his body positioned at an angle to the viewer. He wears a white shirt with sleeves rolled up, giving a glimpse of his tan skin. The anonymous figure stands to his left, dressed in a stunning cream and soft pink gown with delicate details, her presence subtle yet captivating, as the spotlight from the side casts a glamorous glow on the scene. The colour palette is cream, white, and soft pink, evoking a sense of luxury and glamour. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2506388752,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in a person, lit by evening, spotlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 60.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2506388752,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

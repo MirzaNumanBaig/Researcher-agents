@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-11-10T02:37:48.361378+00:00",
+  "article": "2026-11-10-12-00-jacob-elordi",
+  "ai_generated": true,
+  "story_type": "relationship",
+  "analysis": {
+    "story_type": "relationship",
+    "core_event": "an anonymous figure and an anonymous figure spotted on two dates in New York.",
+    "emotion": "romantic",
+    "setting": "Broadway theatre and West Village streets",
+    "key_objects": [
+      "beanie",
+      "coffee",
+      "Paranormal Activity show"
+    ],
+    "time_and_light": "daytime, streetlights",
+    "palette": [
+      "black",
+      "blonde",
+      "grey"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "beanie",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated close at a small table, knees angled toward each other, mirrored relaxed poses",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "lifted",
+          "eyes": "bright and crinkled",
+          "mouth": "a wide natural smile",
+          "jaw": "relaxed"
+        },
+        "gaze": "on the other person",
+        "head": "tipped back mid-laugh",
+        "posture": "open chest, loose shoulders",
+        "hands": "one hand in a coat pocket",
+        "interaction": "seated close at a small table, knees angled toward each other, mirrored relaxed poses",
+        "clothing": ""
+      }
+    ],
+    "setting": "Broadway theatre and West Village streets",
+    "props": [
+      "beanie",
+      "coffee",
+      "Paranormal Activity show"
+    ],
+    "time_of_day": "daytime, streetlights",
+    "light": {
+      "source": "daytime, streetlights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "black",
+      "blonde",
+      "grey"
+    ],
+    "mood": "romantic",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-10",
+    "cast-11"
+  ],
+  "prompt": "A medium shot of the woman in her mid 30s, with a high dark-blonde ponytail and sun-warmed tan skin, is positioned slightly off-centre to the left, with the setting of the Broadway theatre and West Village streets unfolding to the right. Her facial features are defined by her lifted eyebrows, bright and crinkled eyes, and a wide natural smile, with her relaxed jawline contributing to a carefree expression. Her head is tipped back mid-laugh, and her posture is open, with loose shoulders and an inviting chest. Her one hand is tucked away in the pocket of her black leather jacket, while the other person sits beside her, wrapped in a dark teal suit, with a mug of coffee held in his hands. The atmosphere is romantic, with the soft haze and bokeh of the background capturing the essence of a lazy day. A small beanie sits on the table between them, a casual reminder of their relaxed pose. In the midground, a Paranormal Activity show plays on a small screen, adding to the ambiance of the scene. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2879681179,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man and a woman in Broadway theatre and West Village streets, lit by daytime, streetlights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 146.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2879681179,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

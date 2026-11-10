@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Heated Rivalry Season 2 Set Photo"
 seo_description: "Hudson Williams Heated Rivalry season 2 filming gets a new set photo, a reported Christmas special and fame advice from Jason Priestley."
 focus_keyword: "Hudson Williams Heated Rivalry season 2"
 permalink: "hudson-williams-heated-rivalry-season-2"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-10 12:00"
 celebrity: "Hudson Williams"
@@ -15,6 +15,14 @@ image_prompt: "An empty hockey rink at night under bright floodlights, a film ca
 sources:
   - "https://www.attitude.co.uk/culture/film-tv/hudson-williams-new-heated-rivalry-season-2-photo-539400/"
   - "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jason-priestley-offers-fame-advice-194940757.html"
+image_alt: "Illustration of film set with makeup chair and striped dressing gown, lit by daytime, natural light."
+image: "images/2026-11-10-12-00-hudson-williams.webp"
+wp_media_id: 1764
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-10-12-00-hudson-williams-768x432.webp"
+wp_id: 1765
+wp_link: "https://moduscarry.com/hudson-williams-heated-rivalry-season-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

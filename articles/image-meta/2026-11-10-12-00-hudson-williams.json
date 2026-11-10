@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-11-10T02:38:04.792431+00:00",
+  "article": "2026-11-10-12-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure returns to the set of an anonymous figure 2",
+    "emotion": "excitement",
+    "setting": "film set",
+    "key_objects": [
+      "makeup chair",
+      "striped dressing gown",
+      "dog",
+      "camera"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "green",
+      "neutral"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "makeup chair",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "makeup chair",
+      "striped dressing gown",
+      "dog",
+      "camera"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "neutral"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of an anonymous woman in her mid 30s with a mix of determination and curiosity etched on her face, her eyebrows slightly raised, her eyes fixed on the distance with an intense gaze, and her mouth set in a firm line, her jawline defined by a subtle tension in her facial muscles. Her body language exudes a sense of restlessness, her shoulders slightly tense and her posture leaning forward slightly, as if she's ready to spring into action at any moment, one hand resting on the arm of a striped dressing gown draped over the back of a makeup chair, while the other hand is buried deep in the pocket of her loose-fitting trousers, her feet planted firmly on the ground, about two feet apart, with a sense of grounding and stability. The striped dressing gown is a vibrant blue and white, with a subtle sheen to the fabric, and a few wisps of fabric are draped over the back of the makeup chair, giving a sense of disarray and haste. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: 254 words (needs 60-200)"
+  ],
+  "seed": 1997289924,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film set with makeup chair and striped dressing gown, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 242.9
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1997289924,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Extraction 3 Set Visit and Kinsyn Tease"
 seo_description: "Chris Hemsworth met Rodtang on the Extraction 3 set, teased a wellness brand called Kinsyn and was named by Robert Irwin as his biopic pick."
 focus_keyword: "Chris Hemsworth Extraction 3"
 permalink: "chris-hemsworth-extraction-3-kinsyn"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-09 18:00"
 celebrity: "Chris Hemsworth"
@@ -16,6 +16,14 @@ sources:
   - "https://sports.yahoo.com/articles/had-leave-hammer-behind-rodtang-041421114.html"
   - "https://www.womensweekly.com.au/news/celebrity/chris-hemsworth-kinsyn/"
   - "https://7news.com.au/entertainment/robert-irwin-cheekily-reveals-he-wants-chris-hemsworth-to-play-him-in-a-biopic-c-23134319"
+image_alt: "Illustration of film set with Thor's hammer and Muay Thai gloves, lit by daytime, sunlight."
+image: "images/2026-11-09-18-00-chris-hemsworth.webp"
+wp_media_id: 1758
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-18-00-chris-hemsworth-768x432.webp"
+wp_id: 1759
+wp_link: "https://moduscarry.com/chris-hemsworth-extraction-3-kinsyn/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
