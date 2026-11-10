@@ -1,53 +1,5 @@
 [
  {
-  "article": "2026-11-09-07-00-hugh-jackman",
-  "shot": "close-up detail shot",
-  "angle": "slightly low angle",
-  "lens": "35mm",
-  "palette": "navy blue, maize yellow and silver",
-  "prompt": "A close-up detail shot of an anonymous figure in their mid-30s, with a gentle smile and a subtle upturn of the corners of their mouth, a soft warmth in their eyes and a slight crinkle at the outer corners, as they extend a right hand, palm up, holding a maize yellow and navy blue University of the figure Wolverines jersey, their left hand resting in their pocket, their gaze directed upwards and slightly to the left, the jersey's sleeves and collar slightly rumpled from being held. The jersey's number is visible, a silver \"7\" on the front. The background is a blur of the football stadium's seats, with a hint of the bright sunlight and stadium lights. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-11-09-11-00-ryan-reynolds",
-  "shot": "wide establishing shot",
-  "angle": "tilted angle",
-  "lens": "50mm",
-  "palette": "red, black and gray",
-  "prompt": "A wide establishing shot of an empty film set, taken from a tilted angle with a 50mm lens, captures the morning studio atmosphere with soft grey light streaming in from the side. The makeup chair stands isolated in the center of the frame, its worn leather and metal exterior gleaming in the gentle illumination. In the foreground, a single, partially disassembled prosthetic limb lies on a nearby workbench, surrounded by scattered makeup brushes and a few discarded pieces of costume fabric. The background is a blur of black and grey tones, evoking the darkness of the studio's control room. The stillness of the scene is palpable, as if the set has been frozen in time, waiting for the next shot to be called. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-11-09-11-00-pamela-anderson",
-  "shot": "over-the-shoulder shot",
-  "angle": "high angle",
-  "lens": "85mm",
-  "palette": "soft blue, warm beige and green",
-  "prompt": "A medium shot of an anonymous figure in her late 30s, with a gentle smile and furrowed eyebrows, her eyes cast downward as she surveys the garden's lush greenery; her jaw relaxes slightly, releasing tension, and her gaze is directed toward the flower basket she's carefully arranging. Her shoulders are slightly hunched, but her posture is relaxed, as if she's been working in the garden for hours. She wears a pair of worn gardening gloves and a faded sundress, with a few loose threads caught in the intricate carvings of a wooden trellis behind her. In the midground, a wooden dock stretches out into the calm, turquoise water, with a few wispy clouds drifting lazily across the morning sky. The background is softly blurred, with a few sailboats and buildings fading into the distance. A high angle over-the-shoulder shot, taken with an 85mm lens, captures the serene atmosphere of the scene. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-11-09-11-00-michael-j-fox",
-  "shot": "overhead shot",
-  "angle": "side-on view",
-  "lens": "50mm",
-  "palette": "muted blue, neutral beige and warm gold",
-  "prompt": "A wide overhead shot of an empty film set, taken from a side-on view with a 50mm lens, captures the calm and respectful atmosphere of a sensitive conversation. The studio lights above cast a warm glow on the beige-colored floor, while the muted blue undertones of the walls provide a subtle contrast. In the foreground, a pair of heavy boots sits on a small table, next to an open soda can, a symbol of the casual yet intimate setting. The soft focus and natural film-like colour of the scene, along with a subtle grain, evoke a sense of authenticity and emotional depth. No text, no logos, no watermark.",
-  "cast": []
- },
- {
-  "article": "2026-11-09-18-00-renate-reinsve",
-  "shot": "medium shot",
-  "angle": "slightly low angle",
-  "lens": "50mm",
-  "palette": "muted blue, neutral beige and soft gray",
-  "prompt": "A medium shot of a man in his early 40s with close-cropped black hair and dark brown skin, wearing a black turtleneck and long coat, seated at an angle to a man in his late 30s with short dark greying hair and medium-brown skin, who is wearing a black tuxedo, and both men are seated across a low table. The first man's facial features show a gentle, drawn-up expression, with eyebrows arched up at the centre, unfocused and distant eyes, and his lips just closed, with a soft jawline. His gaze is off-frame toward a window, and his head is resting slightly back, with his shoulders low and relaxed posture. His hands are wrapped around a mug. The second man's facial features display a slightly raised expression, with eyebrows slightly raised, wide and attentive eyes, and his lips just parted, with a relaxed jawline. Natural skin texture with visible pores and small imperfections, a candid unposed moment, shot on a full-frame camera, fine film grain, true-to-life colour. No text, no logos, no watermark.",
-  "cast": [
-   "cast-08",
-   "cast-02"
-  ]
- },
- {
   "article": "2026-11-09-18-00-nicole-kidman",
   "shot": "wide shot",
   "angle": "slightly high angle",
@@ -197,6 +149,56 @@
   "cast": [
    "cast-03",
    "cast-12"
+  ]
+ },
+ {
+  "article": "2026-11-11-04-00-ryan-reynolds",
+  "shot": "over-the-shoulder shot",
+  "angle": "from behind",
+  "lens": "24mm",
+  "palette": "green, blue and white",
+  "prompt": "An empty armchair beside a rain-streaked window, soft grey light across the floor. Softly out of focus in the foreground: fresh flowers. The background fades into soft haze and gentle bokeh. Over-the-shoulder shot, 24mm lens, from behind, shallow depth of field. Lit by candlelight and soft window light. Quiet mood, warm cream and dusk blue palette. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-11-11-04-00-nicole-kidman",
+  "shot": "wide shot",
+  "angle": "slightly high angle",
+  "lens": "35mm",
+  "palette": "rosy cheeks, soft pink and metallic browns",
+  "prompt": "A wide shot, taken from a slightly high angle with a 35mm lens, captures the anonymous figure standing left of center, poised elegantly in front of a blurred background of soft haze and bokeh. The woman, a woman in her early 30s with shoulder-length wavy chestnut hair and light olive skin, wears a beautiful an anonymous figure tulle dress that accentuates her curves. Her smooth and softly arched eyebrows are raised slightly, her confident and direct eyes lock onto the camera, and her mouth curves into a composed soft smile. Her jaw is lifted, and her head is quarter-turned toward the lens, her chin raised with a subtle tilt. Her posture is confident, with her shoulders back and her spine long. One hand rests on her hip, while her other hand cradles a highlighter and a ponytail. The soft evening light casts a warm glow from the side, illuminating the rosy cheeks and soft pink tones of the palette. The overall mood is one of elegance, as the woman exudes poise and sophistication. No text, no logos, no watermark.",
+  "cast": [
+   "cast-01"
+  ]
+ },
+ {
+  "article": "2026-11-11-04-00-martin-short",
+  "shot": "close-up detail shot",
+  "angle": "tilted angle",
+  "lens": "50mm",
+  "palette": "red, green and gold",
+  "prompt": "A close-up detail shot of an empty recording studio, taken from a tilted angle with a 50mm lens, captures the faint scent of fresh wood and the soft hum of equipment. The camera pans across a gleaming banjo, its golden strings reflecting the warm studio lights like a miniature sun. A cluster of crisp, printed holiday carols lies scattered on a nearby music stand, their red and green covers glowing against the pale wood. The overall mood is one of tranquil anticipation, as if the music itself is waiting to be born. The image is bathed in the soft, golden light of the studio, with a subtle focus on the textures and details of the scene, reminiscent of a candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-11-11-04-00-jacob-elordi",
+  "shot": "wide establishing shot",
+  "angle": "high angle",
+  "lens": "85mm",
+  "palette": "dark grey, cold blue and muted brown",
+  "prompt": "A wide establishing shot of a dimly lit film set, taken from a high angle with a 85mm lens, shows a single armchair positioned center stage, surrounded by empty movie props and scattered pages of Norman Mailer's book, 'The Executioner's Song', with a faint rain streak running down the large window behind it, softly casting a grey light across the worn, wooden floor, as the shadows of forgotten scenes and abandoned characters linger in the empty space. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "cast": []
+ },
+ {
+  "article": "2026-11-11-04-00-hugh-jackman",
+  "shot": "wide shot",
+  "angle": "slightly low angle",
+  "lens": "50mm",
+  "palette": "blue, gray and silver",
+  "prompt": "A wide shot, taken from a slightly low angle with a 50mm lens, captures the film studio or interview room with a sense of depth and space. The woman, a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, sits at a low table, her posture relaxed but her gaze unfocused and distant, as if lost in thought. Her drawn-up eyebrows and soft jawline convey a sense of caution, her lips just closed in a gentle line. Her hands are wrapped around a mug, her fingers hidden from view. The man, a man in his mid 50s with short grey-flecked hair and a beard and tan skin, sits at an angle to her, his posture leaning forward with his elbows on his knees, his wide and attentive eyes fixed on her. His slightly raised eyebrows and relaxed jawline suggest a sense of interest, his lips just parted in a gentle smile. His hands hold a paper cup, his fingers wrapped around it. The atmosphere is cautious, with a sense of tension beneath the surface. No text, no logos, no watermark.",
+  "cast": [
+   "cast-05",
+   "cast-06"
   ]
  }
 ]

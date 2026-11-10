@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-10T18:00:04.042948+00:00",
+  "article": "2026-11-11-04-00-hugh-jackman",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure to an anonymous figure's potential an anonymous figure exit",
+    "emotion": "cautious",
+    "setting": "film studio or interview room",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure costume",
+      "Marvel Studios logo"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "gray",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "seated at an angle to each other across a low table",
+        "clothing": ""
+      }
+    ],
+    "setting": "film studio or interview room",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure costume",
+      "Marvel Studios logo"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "silver"
+    ],
+    "mood": "cautious",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-05",
+    "cast-06"
+  ],
+  "prompt": "A wide shot, taken from a slightly low angle with a 50mm lens, captures the film studio or interview room with a sense of depth and space. The woman, a woman in her mid 40s with a sleek silver-streaked bob and deep brown skin, sits at a low table, her posture relaxed but her gaze unfocused and distant, as if lost in thought. Her drawn-up eyebrows and soft jawline convey a sense of caution, her lips just closed in a gentle line. Her hands are wrapped around a mug, her fingers hidden from view. The man, a man in his mid 50s with short grey-flecked hair and a beard and tan skin, sits at an angle to her, his posture leaning forward with his elbows on his knees, his wide and attentive eyes fixed on her. His slightly raised eyebrows and relaxed jawline suggest a sense of interest, his lips just parted in a gentle smile. His hands hold a paper cup, his fingers wrapped around it. The atmosphere is cautious, with a sense of tension beneath the surface. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2090693446,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in film studio or interview room, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 127.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2090693446,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

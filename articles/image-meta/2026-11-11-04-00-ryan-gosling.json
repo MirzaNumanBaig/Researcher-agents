@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-11-10T17:59:07.943371+00:00",
+  "article": "2026-11-11-04-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure and Mikey Day made the figure the figure laugh uncontrollably in a Saturday Night Live the figure.",
+    "emotion": "laughter",
+    "setting": "TV studio",
+    "key_objects": [
+      "Saturday Night Live",
+      "the figure the figure",
+      "cue card",
+      "TV set"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Saturday Night Live",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "TV studio",
+    "props": [
+      "Saturday Night Live",
+      "the figure the figure",
+      "cue card",
+      "TV set"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "mood": "laughter",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a young adult in their late 20s, smiling broadly with a slight upturn of their eyebrows and crinkles at the outer corners of their eyes, their gaze directed slightly upwards and to the the figure; their mouth is wide open in a joyful, toothy grin, with a slight relaxation of their jawline; their eyes sparkle with mirth as they lean back in their chair, tilting their head back slightly to reveal the prominent curve of their neck. Their posture is relaxed, with a slight slouch in their shoulders and a gentle splay of their arms, one hand resting on the arm of their chair and the other tucked into the pocket of their jeans, giving the impression of carefree abandon; they're seated in a comfortable-looking TV studio, surrounded by the bustling activity of a live broadcast, with a familiar Saturday Night Live emblazoned on the screen behind them. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: 322 words (needs 60-200)"
+  ],
+  "seed": null,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of TV studio with Saturday Night Live and a person a person, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {},
+  "fallback": "",
+  "ok": false,
+  "error": "",
+  "quality": [
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    },
+    {
+      "seed": null,
+      "passed": false,
+      "reasons": [
+        "the output was flagged by Cloudflare's safety filter"
+      ],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": ""
+    }
+  ]
+}
