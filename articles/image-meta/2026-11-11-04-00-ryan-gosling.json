@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T17:59:07.943371+00:00",
+  "timestamp": "2026-11-10T20:52:30.030575+00:00",
   "article": "2026-11-11-04-00-ryan-gosling",
   "ai_generated": true,
   "story_type": "other",
@@ -7,18 +7,18 @@
     "story_type": "other",
     "core_event": "an anonymous figure and Mikey Day made the figure the figure laugh uncontrollably in a Saturday Night Live the figure.",
     "emotion": "laughter",
-    "setting": "TV studio",
+    "setting": "television studio",
     "key_objects": [
       "Saturday Night Live",
       "the figure the figure",
       "cue card",
-      "TV set"
+      "television set"
     ],
     "time_and_light": "daytime, studio lights",
     "palette": [
       "blue",
       "yellow",
-      "green"
+      "orange"
     ],
     "sensitivity": "safe",
     "source": "llm"
@@ -39,12 +39,12 @@
     },
     "people_count": 0,
     "people": [],
-    "setting": "TV studio",
+    "setting": "television studio",
     "props": [
       "Saturday Night Live",
       "the figure the figure",
       "cue card",
-      "TV set"
+      "television set"
     ],
     "time_of_day": "daytime, studio lights",
     "light": {
@@ -54,22 +54,20 @@
     "palette": [
       "blue",
       "yellow",
-      "green"
+      "orange"
     ],
     "mood": "laughter",
     "source": "template"
   },
   "stand_ins": [],
-  "prompt": "A medium shot of a young adult in their late 20s, smiling broadly with a slight upturn of their eyebrows and crinkles at the outer corners of their eyes, their gaze directed slightly upwards and to the the figure; their mouth is wide open in a joyful, toothy grin, with a slight relaxation of their jawline; their eyes sparkle with mirth as they lean back in their chair, tilting their head back slightly to reveal the prominent curve of their neck. Their posture is relaxed, with a slight slouch in their shoulders and a gentle splay of their arms, one hand resting on the arm of their chair and the other tucked into the pocket of their jeans, giving the impression of carefree abandon; they're seated in a comfortable-looking TV studio, surrounded by the bustling activity of a live broadcast, with a familiar Saturday Night Live emblazoned on the screen behind them. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt": "A medium shot of a woman in her early 30s with a bright smile, her eyebrows slightly arched, eyes sparkling with mirth, and a hint of a dimple in her the figure cheek, as she gazes directly at the camera with a joyful gaze direction. Her head is tilted slightly to the right, her shoulders relaxed, and her posture open, with her arms crossed over her chest and a gentle hand resting on the other arm. She wears a bright yellow sweater with a subtle pattern, paired with dark blue jeans and a pair of white sneakers. The television studio behind her is bustling with activity, with crew members scurrying around a large television set, while a brightly lit stage in the background features a prominent \"Saturday Night Live\". The scene is captured from an overhead shot, slightly low angle, with a 50mm lens, emphasizing the subject's presence and the dynamic energy of the studio. Soft, natural light from the studio lights illuminates the scene, with a subtle blue tint to the palette. This candid editorial news photograph captures the moment with natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "prompt_source": "llm",
-  "prompt_notes": [
-    "attempt 1 rejected: 322 words (needs 60-200)"
-  ],
+  "prompt_notes": [],
   "seed": null,
   "seed_supported": true,
   "model": "@cf/black-forest-labs/flux-2-klein-4b",
   "preset": "candid_news_photo",
-  "alt": "Illustration of TV studio with Saturday Night Live and a person a person, lit by daytime, studio lights.",
+  "alt": "Illustration of television studio with Saturday Night Live and a person a person, lit by daytime, studio lights.",
   "caption": "",
   "finish": {},
   "fallback": "",
