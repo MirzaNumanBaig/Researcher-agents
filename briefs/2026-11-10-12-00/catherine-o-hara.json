@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-10 12:00",
+  "celebrity": "Catherine O'Hara",
+  "stories": [
+    {
+      "title": "Catherine O'Hara's 8 Funniest Performances, Ranked",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1hzQTVmeGV3ZXpLNWVKVGJqNFVvd1hXejZRV29SRjA4ZWNFUUNiVEdsbTJJZ1ItQjJUdXVqM0JPalp5RVdDZFZzemNDenFrNl9BbnhzV2xmVS1PVjNXRzNpRm1JeHRVUTRHNDE1dklPZDRsM1h3alRjdkVrcnVUb052NA?oc=5",
+      "published": "2026-11-10T00:30:00+00:00",
+      "outlets": [
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1hzQTVmeGV3ZXpLNWVKVGJqNFVvd1hXejZRV29SRjA4ZWNFUUNiVEdsbTJJZ1ItQjJUdXVqM0JPalp5RVdDZFZzemNDenFrNl9BbnhzV2xmVS1PVjNXRzNpRm1JeHRVUTRHNDE1dklPZDRsM1h3alRjdkVrcnVUb052NA?oc=5",
+          "article_url": "https://screenrant.com/catherine-ohara-funniest-movie-tv-performances-ranked/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/moira-rose-catherine-o-hara-smiling-in-schitt-s-creek.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/moira-rose-catherine-o-hara-smiling-in-schitt-s-creek.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/catherine-ohara-funniest-movie-tv-performances-ranked/"
+    }
+  ]
+}

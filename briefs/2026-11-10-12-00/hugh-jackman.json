@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-10 12:00",
+  "celebrity": "Hugh Jackman",
+  "stories": [
+    {
+      "title": "‘Everyone’s worried’: Hugh Jackman’s friends share fresh fears for the actor",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2lBYXB3UjJiNGRSWm5yc25MY2FfTVNFVXIzOU1FNDZfaVJvVmZiRjVtMTlONjVuOVFPZm9LVEdQX29OUTg3T2tHZEhhVkRlekd5N0hVZzBYSW5iWEIwMGszaVdtUjRtR1BHejV5UlhFcmZOM21paFl6dlEzMzNFZWxHUHdFYUlUVGp6ODIxM1k2d0k?oc=5",
+      "published": "2026-11-10T00:39:24+00:00",
+      "outlets": [
+        {
+          "source": "Now To Love",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2lBYXB3UjJiNGRSWm5yc25MY2FfTVNFVXIzOU1FNDZfaVJvVmZiRjVtMTlONjVuOVFPZm9LVEdQX29OUTg3T2tHZEhhVkRlekd5N0hVZzBYSW5iWEIwMGszaVdtUjRtR1BHejV5UlhFcmZOM21paFl6dlEzMzNFZWxHUHdFYUlUVGp6ODIxM1k2d0k?oc=5",
+          "article_url": "https://www.nowtolove.com.au/celebrity/celebrity-news/fears-for-hugh-jackman-weight-loss/",
+          "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/7/2026/11/untitled-design-2-6af138a3cc1ac.png?resize=1200%2C630&format=auto"
+        }
+      ],
+      "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/7/2026/11/untitled-design-2-6af138a3cc1ac.png?resize=1200%2C630&format=auto",
+      "image_source": "https://www.nowtolove.com.au/celebrity/celebrity-news/fears-for-hugh-jackman-weight-loss/"
+    },
+    {
+      "title": "Hugh Jackman's Most Underrated Wolverine Movie Has Clawed Its Way to Streaming Success",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTVQcjRXU0hnbXhoRGFOeXRzZEU2SldWNTZwV3NqQXVOQ2h1UlU5Y1ljLU9zZlNYQVk2ZVAyTG1mVVhHZGlBVUpYaU41Z2ZUUW5ZZDkxU1g3ZkFHY0REYVQtc1FocHlKTnhtTnRsMWczODBrSHl4OXc5V25zcm1MM2RpZ3N0S19ITW5FUDdocWt4bnEteHhYcTRLYlZyUW14cjhYVWc1RU9YRm1tVmltMzlyZlgyOWl6ajFUWA?oc=5",
+      "published": "2026-11-09T01:13:00+00:00",
+      "outlets": [
+        {
+          "source": "ComicBook.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTVQcjRXU0hnbXhoRGFOeXRzZEU2SldWNTZwV3NqQXVOQ2h1UlU5Y1ljLU9zZlNYQVk2ZVAyTG1mVVhHZGlBVUpYaU41Z2ZUUW5ZZDkxU1g3ZkFHY0REYVQtc1FocHlKTnhtTnRsMWczODBrSHl4OXc5V25zcm1MM2RpZ3N0S19ITW5FUDdocWt4bnEteHhYcTRLYlZyUW14cjhYVWc1RU9YRm1tVmltMzlyZlgyOWl6ajFUWA?oc=5",
+          "article_url": "https://comicbook.com/movies/news/hugh-jackmans-most-underrated-wolverine-movie-has-clawed-its-way-to-streaming-success/",
+          "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/10/Hugh-Jackman-attacking-as-Wolverine-in-Deadpool-Wolverine.jpg?resize=2000,1125"
+        }
+      ],
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/10/Hugh-Jackman-attacking-as-Wolverine-in-Deadpool-Wolverine.jpg?resize=2000,1125",
+      "image_source": "https://comicbook.com/movies/news/hugh-jackmans-most-underrated-wolverine-movie-has-clawed-its-way-to-streaming-success/"
+    }
+  ]
+}

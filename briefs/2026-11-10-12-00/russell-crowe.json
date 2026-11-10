@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-10 12:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "Russell Crowe’s New Crime Thriller Is Officially Challenging Taylor Sheridan on Streaming",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa2xxN0k0QndHdjQ3MHRTNjF3bmxTSmJ1T3dFUGdVdjU5azJqbWNadmJhS2EweU5ldEY5aG1CYkZKZVZac1VtOThkcWpoQ3Z0amtzckx2NW1vZGxwWWdqaHFMbEh2NWJ0c1htRVdBMXVSNDFkNFJwRWR3enRTT0dLaHJsRml6NjduN3VmdW9RLVo5SmFM?oc=5",
+      "published": "2026-11-09T20:30:13+00:00",
+      "outlets": [
+        {
+          "source": "Collider",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa2xxN0k0QndHdjQ3MHRTNjF3bmxTSmJ1T3dFUGdVdjU5azJqbWNadmJhS2EweU5ldEY5aG1CYkZKZVZac1VtOThkcWpoQ3Z0amtzckx2NW1vZGxwWWdqaHFMbEh2NWJ0c1htRVdBMXVSNDFkNFJwRWR3enRTT0dLaHJsRml6NjduN3VmdW9RLVo5SmFM?oc=5",
+          "article_url": "https://collider.com/russell-crowe-the-get-out-streaming-hit-paramount-plus-november-2026/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/russell-crowe.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/russell-crowe.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://collider.com/russell-crowe-the-get-out-streaming-hit-paramount-plus-november-2026/"
+    },
+    {
+      "title": "24. Russell Crowe - 2016-03-02 - The World’s Highest-Paid Actors 2015",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wVGNreGhQRTFERkIybk9vSjJvZDhRRVVBN0lxeVVfUEQ3Nm1ZTVhxMWJsbnM5ODJzVjNSREllMTU0bGNFOUNaRkRhN0NRMFY1ZVJrdTkyUGdCWTFvV1JiWTVPdXVhaXpH?oc=5",
+      "published": "2026-11-09T19:01:18+00:00",
+      "outlets": [
+        {
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wVGNreGhQRTFERkIybk9vSjJvZDhRRVVBN0lxeVVfUEQ3Nm1ZTVhxMWJsbnM5ODJzVjNSREllMTU0bGNFOUNaRkRhN0NRMFY1ZVJrdTkyUGdCWTFvV1JiWTVPdXVhaXpH?oc=5",
+          "article_url": "https://www.forbes.com/pictures/hfgl45md/24-russell-crowe/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/55ba8fe8e4b05c2c34324c29/0x0.jpg?format=jpg&height=491&width=655&fit=bounds"
+        }
+      ],
+      "image": "https://imageio.forbes.com/specials-images/imageserve/55ba8fe8e4b05c2c34324c29/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+      "image_source": "https://www.forbes.com/pictures/hfgl45md/24-russell-crowe/"
+    }
+  ]
+}
