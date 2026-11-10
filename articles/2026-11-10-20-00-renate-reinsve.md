@@ -22,6 +22,7 @@ wp_id: 1785
 wp_link: "https://moduscarry.com/renate-reinsve-fjord-sebastian-stan/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
