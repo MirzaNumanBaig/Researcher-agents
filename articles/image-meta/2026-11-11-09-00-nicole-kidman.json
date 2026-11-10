@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-11-10T23:13:39.480505+00:00",
+  "article": "2026-11-11-09-00-nicole-kidman",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "A the figure the figure hosts a the figure the figure for an anonymous figure.",
+    "emotion": "funny",
+    "setting": "off-Broadway stage",
+    "key_objects": [
+      "an anonymous figure the figure costumes",
+      "New World Stages",
+      "A the figure the figure playbill"
+    ],
+    "time_and_light": "afternoon, stage lights",
+    "palette": [
+      "red",
+      "green",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure the figure costumes",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "off-Broadway stage",
+    "props": [
+      "an anonymous figure the figure costumes",
+      "New World Stages",
+      "A the figure the figure playbill"
+    ],
+    "time_of_day": "afternoon, stage lights",
+    "light": {
+      "source": "afternoon, stage lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "red",
+      "green",
+      "gold"
+    ],
+    "mood": "funny",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a woman in her mid-30s with a playful grin and raised eyebrows, her eyes sparkling with amusement as she surveys the off-Broadway stage. Her face is tilted slightly upwards, and her jaw is relaxed, giving her a carefree and joyful appearance. Her arms are crossed over her chest, and she's standing with her weight shifted onto one leg, exuding a sense of confidence and playfulness. She's dressed in a vibrant green top and matching tights, with a pair of high-heeled red boots that add to her energetic persona. In the foreground, the stage lights of New World Stages are reflected in her boots, while in the background, a playbill for \"The Figure\" is propped up against a backdrop of gold curtains. The stage is bathed in a warm, golden light, with the afternoon sun streaming in through the windows. The camera is positioned at a slightly low angle, capturing the scene with a close-up detail shot and a 35mm lens, giving the image a sense of intimacy and immediacy. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1177598450,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of off-Broadway stage with a person a person costumes and New World Stages, lit by afternoon, stage lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 269.2
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1177598450,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

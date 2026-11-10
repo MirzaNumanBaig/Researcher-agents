@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-10T23:13:01.348800+00:00",
+  "article": "2026-11-11-09-00-ryan-reynolds",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure the figure about his the figure for the the figure the figure the figure",
+    "emotion": "humorous",
+    "setting": "film set",
+    "key_objects": [
+      "the figure the figure",
+      "the figure",
+      "Instagram post",
+      "Pokémon theme song"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "red",
+      "yellow",
+      "black"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure the figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "the figure the figure",
+      "the figure",
+      "Instagram post",
+      "Pokémon theme song"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "red",
+      "yellow",
+      "black"
+    ],
+    "mood": "humorous",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of an anonymous figure in their mid-30s, with a mix of skepticism and amusement etched on their face, their eyebrows slightly raised, their eyes narrowed, their mouth curled into a subtle smirk, and their jaw relaxed in a slight tilt, looking down at their hands as they gesture to the figure beside them. Their shoulders are rolled forward, and their posture is open, with their hands resting in their pockets, standing at a comfortable distance from the other figure. The figure beside them is wearing a bright red and yellow striped shirt, with a pair of black pants and a black baseball cap, holding a smartphone with a Pokémon theme song playing in the background. In the foreground, an empty camera rig lies on the ground, with a few scattered props and cables around it. The film set stretches out behind them, with a mixture of colorful backdrops and set pieces in the midground, and a dimly lit background blur of crew members and equipment in the distance. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 1783575678,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film set with a person a person and a person, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 256.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1783575678,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

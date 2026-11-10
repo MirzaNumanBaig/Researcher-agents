@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-11-10T20:52:30.030575+00:00",
+  "timestamp": "2026-11-10T23:14:37.064787+00:00",
   "article": "2026-11-11-04-00-ryan-gosling",
   "ai_generated": true,
   "story_type": "other",
   "analysis": {
     "story_type": "other",
-    "core_event": "an anonymous figure and Mikey Day made the figure the figure laugh uncontrollably in a Saturday Night Live the figure.",
-    "emotion": "laughter",
-    "setting": "television studio",
+    "core_event": "an anonymous figure and Mikey Day made the figure the figure laugh uncontrollably in a SNL the figure.",
+    "emotion": "laughing",
+    "setting": "TV studio",
     "key_objects": [
       "Saturday Night Live",
       "the figure the figure",
       "cue card",
-      "television set"
+      "SNL cast"
     ],
     "time_and_light": "daytime, studio lights",
     "palette": [
       "blue",
-      "yellow",
-      "orange"
+      "red",
+      "yellow"
     ],
     "sensitivity": "safe",
     "source": "llm"
@@ -39,12 +39,12 @@
     },
     "people_count": 0,
     "people": [],
-    "setting": "television studio",
+    "setting": "TV studio",
     "props": [
       "Saturday Night Live",
       "the figure the figure",
       "cue card",
-      "television set"
+      "SNL cast"
     ],
     "time_of_day": "daytime, studio lights",
     "light": {
@@ -53,21 +53,21 @@
     },
     "palette": [
       "blue",
-      "yellow",
-      "orange"
+      "red",
+      "yellow"
     ],
-    "mood": "laughter",
+    "mood": "laughing",
     "source": "template"
   },
   "stand_ins": [],
-  "prompt": "A medium shot of a woman in her early 30s with a bright smile, her eyebrows slightly arched, eyes sparkling with mirth, and a hint of a dimple in her the figure cheek, as she gazes directly at the camera with a joyful gaze direction. Her head is tilted slightly to the right, her shoulders relaxed, and her posture open, with her arms crossed over her chest and a gentle hand resting on the other arm. She wears a bright yellow sweater with a subtle pattern, paired with dark blue jeans and a pair of white sneakers. The television studio behind her is bustling with activity, with crew members scurrying around a large television set, while a brightly lit stage in the background features a prominent \"Saturday Night Live\". The scene is captured from an overhead shot, slightly low angle, with a 50mm lens, emphasizing the subject's presence and the dynamic energy of the studio. Soft, natural light from the studio lights illuminates the scene, with a subtle blue tint to the palette. This candid editorial news photograph captures the moment with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt": "A medium shot of Mikey Day, a cast member of Saturday Night Live, stands with his arms crossed, a wide grin spreading across his face as he looks down at the figure in front of him, his eyebrows slightly raised and his eyes crinkled at the corners. The corners of his mouth are turned up, and his jaw is relaxed. He is positioned about a foot away from the figure, his weight shifted slightly onto his the figure foot. Mikey is dressed in a crisp white SNL cast t-shirt and dark-washed jeans, with a black leather jacket slung over his shoulder, and he holds a cue card in his right hand, its bright yellow color standing out against the blue backdrop of the TV studio. In the midground, the Saturday Night Live emblazoned on a large screen behind them glows with a soft blue light, while the background of the studio is a soft blur of blue and red hues. This is a candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "prompt_source": "llm",
   "prompt_notes": [],
   "seed": null,
   "seed_supported": true,
   "model": "@cf/black-forest-labs/flux-2-klein-4b",
   "preset": "candid_news_photo",
-  "alt": "Illustration of television studio with Saturday Night Live and a person a person, lit by daytime, studio lights.",
+  "alt": "Illustration of TV studio with Saturday Night Live and a person a person, lit by daytime, studio lights.",
   "caption": "",
   "finish": {},
   "fallback": "",

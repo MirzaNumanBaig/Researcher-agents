@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-10T23:14:05.551673+00:00",
+  "article": "2026-11-11-09-00-cate-blanchett",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "A the figure the figure hosts a an anonymous figure and an anonymous figure the figure the figure.",
+    "emotion": "funny",
+    "setting": "Off-Broadway stage",
+    "key_objects": [
+      "an anonymous figure costume",
+      "an anonymous figure costume",
+      "stage door",
+      "New World the figure"
+    ],
+    "time_and_light": "5pm ET, stage lights",
+    "palette": [
+      "red",
+      "green",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure costume",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "Off-Broadway stage",
+    "props": [
+      "an anonymous figure costume",
+      "an anonymous figure costume",
+      "stage door",
+      "New World the figure"
+    ],
+    "time_of_day": "5pm ET, stage lights",
+    "light": {
+      "source": "5pm ET, stage lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "red",
+      "green",
+      "gold"
+    ],
+    "mood": "funny",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot, taken from a side-on perspective, captures a comedic moment on the Off-Broadway stage at 5pm ET, illuminated by the warm glow of stage lights. A woman in her mid-30s, dressed in a brightly coloured anonymous figure costume, playfully struggles to keep her oversized headpiece in place as a man in his early 40s, also clad in a matching anonymous figure costume, tries to assist her from behind. The woman's eyebrows are furrowed in concentration, her eyes are cast downward towards the stage, and the corners of her mouth are turned up in a determined smile. Her shoulders are slightly hunched as she leans forward, and her posture is slightly askew due to the awkwardness of the headpiece. The man's arms are wrapped around her waist, providing support, and his hands are resting gently in her back pockets. In the foreground, a stage door stands slightly ajar, with a sliver of bright sunlight visible beyond it. This candid editorial news photograph has a natural film-like colour and subtle grain, capturing the raw energy of the Off-Broadway stage. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 4252634751,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of Off-Broadway stage with a person costume and a person costume, lit by 5pm ET, stage lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 205.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 4252634751,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

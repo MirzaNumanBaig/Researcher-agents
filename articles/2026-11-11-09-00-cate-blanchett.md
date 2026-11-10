@@ -5,7 +5,7 @@ seo_title: "A Kidman Carol Cate Blanchett Look-Alike Contest"
 seo_description: "A Kidman Carol holds a Cate Blanchett and Nicole Kidman look-alike contest on 16 November, with ten pairs of first-preview tickets to win."
 focus_keyword: "A Kidman Carol"
 permalink: "a-kidman-carol-cate-blanchett"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 09:00"
 celebrity: "Cate Blanchett"
@@ -15,6 +15,14 @@ image_prompt: "An empty Off-Broadway theatre stage at night, glowing marquee lig
 sources:
   - "https://playbill.com/article/off-broadways-a-kidman-carol-will-host-cate-blanchett-and-nicole-kidman-look-alike-contest"
   - "https://www.broadwayworld.com/article/A-KIDMAN-CAROL-to-Hold-Cate-Blanchett-and-Nicole-Kidman-Look-Alike-Contest-20261110"
+image_alt: "Illustration of Off-Broadway stage with a person costume and a person costume, lit by 5pm ET, stage lights."
+image: "images/2026-11-11-09-00-cate-blanchett.webp"
+wp_media_id: 1797
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-09-00-cate-blanchett-768x432.webp"
+wp_id: 1798
+wp_link: "https://moduscarry.com/a-kidman-carol-cate-blanchett/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

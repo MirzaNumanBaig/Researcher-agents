@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-10T23:13:13.967440+00:00",
+  "article": "2026-11-11-09-00-russell-crowe",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "the figure the figure on sci-fi action thriller the figure on the Gold Coast.",
+    "emotion": "excitement",
+    "setting": "film set",
+    "key_objects": [
+      "military aircraft",
+      "jungle",
+      "high-tech equipment"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "green",
+      "gray",
+      "blue"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "military aircraft",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "military aircraft",
+      "jungle",
+      "high-tech equipment"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "green",
+      "gray",
+      "blue"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-08"
+  ],
+  "prompt": "A medium shot of a man in his early 40s with close-cropped black hair and dark brown skin. His facial expression is one of intense focus, with slightly raised eyebrows and wide, attentive eyes that seem to be drinking in every detail of the surroundings. His lips are just parted, and his jaw is relaxed, giving him a sense of calm determination. His gaze is directed up and off-frame right, as if he's lost in thought. His head is tilted slightly up, and his posture is one of leaning forward, elbows on knees, as if he's concentrating intently on something. His hands are holding a paper cup, and he seems completely absorbed in the moment. He's dressed in a slate-grey suit, which adds to the sense of professionalism and focus. The military aircraft looms large in the background, with the jungle foliage and high-tech equipment scattered throughout the set. The sunlight casts a warm glow over the entire scene, illuminating the textures and details of the equipment. The composition is set up to draw the viewer's eye to the subject, with the setting opening up to the right. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: 235 words (needs 90-200)"
+  ],
+  "seed": 1620615656,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a man in film set, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 168.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 1620615656,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-10T23:13:28.868712+00:00",
+  "article": "2026-11-11-09-00-pamela-anderson",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure pursue careers in music and film.",
+    "emotion": "inspiring",
+    "setting": "recording studio, film set",
+    "key_objects": [
+      "Motel 7",
+      "Midnight Kids",
+      "Barb Wire"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "neutral beige",
+      "deep blue",
+      "warm gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Motel 7",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "recording studio, film set",
+    "props": [
+      "Motel 7",
+      "Midnight Kids",
+      "Barb Wire"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "neutral beige",
+      "deep blue",
+      "warm gold"
+    ],
+    "mood": "inspiring",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a woman in her late 30s, with a gentle smile, her eyebrows slightly raised, her bright green eyes shining with determination, her full lips curved upwards in a soft, encouraging curve, her jaw relaxed and slightly tilted upwards, gazing directly at the camera; she has a subtle crease in her left eyebrow from years of intense focus, and her eyes sparkle with an inner light. Her shoulders are slightly hunched, her posture open and expansive, her hands clasped behind her back, her fingers interlaced loosely as she stands in the midst of a bustling recording studio, surrounded by cables, microphones, and music equipment. She wears a simple white tank top, a pair of faded jeans, and a pair of worn-out sneakers, her feet shoulder-width apart on the cold, grey floor. In the foreground, a small, battered guitar case lies open, revealing a shimmering gold electric guitar, its body adorned with intricate, swirling patterns. The overall feel is one of candid editorial news photography, captured with a sense of immediacy and intimacy. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [
+    "attempt 1 rejected: mentions a child or minor"
+  ],
+  "seed": 424102099,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of recording studio, film set with Motel 7 and Midnight Kids, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 143.3
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 424102099,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
