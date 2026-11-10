@@ -12,10 +12,16 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXJqbllFeGlCSUlkSWtfaWtOYUk4eEVBWGo1bEZoZjVJMkg1Nko0TExQWHlzMFVRbXczbExBTWljQVpLVklwZTA3SFFQR05CS1JXbFdfYldkbWpRQVFQbGdXdHIwS0tVak9kMkJVak5zQ2tlVkxubXFSY182VTVDdGI1Rm1SS1BzSGwyYkY5a3Q0MHhVUHdhUWE1X3VWUQ?oc=5",
           "article_url": "",
           "image": ""
+        },
+        {
+          "source": "Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lbmNjLWwxWi1uY1FUUUZJTWNpWWM0YmhZRV9JRFIwazdWaThqYjZYbXF1OWhMcl9MTHdEWnJKWE9vbmdaUmJQTmJiZjBzSndHUXZJMW96Um5BRG1UMWUweTdEZlZNVUJZZlBGTHBvWl94cFptTUJzVm1HbHE?oc=5",
+          "article_url": "https://ca.news.yahoo.com/hugh-jackman-sutton-foster-mark-170309631.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/0f93645534287f263ed06ccf248859c4665fada4b5c6f5653613a66848b326d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fc4f6b8cc9c502167f443e7d83427323e.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://s.yimg.com/lo/mysterio/api/0f93645534287f263ed06ccf248859c4665fada4b5c6f5653613a66848b326d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fc4f6b8cc9c502167f443e7d83427323e.jpg",
+      "image_source": "https://ca.news.yahoo.com/hugh-jackman-sutton-foster-mark-170309631.html"
     },
     {
       "title": "Hugh Jackman Brings Sutton Foster to $15M Home He Shared With Ex — Report",
