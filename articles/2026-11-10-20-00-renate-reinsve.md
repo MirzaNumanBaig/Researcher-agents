@@ -5,7 +5,7 @@ seo_title: "Renate Reinsve Fjord: Stan on the Palme d'Or Drama"
 seo_description: "Renate Reinsve and Sebastian Stan explain why Fjord, the Cannes Palme d'Or winner, refuses to pick a side in a Norway child-welfare clash."
 focus_keyword: "Renate Reinsve Fjord"
 permalink: "renate-reinsve-fjord-sebastian-stan"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-10 20:00"
 celebrity: "Renate Reinsve"
@@ -14,6 +14,14 @@ tags: ["Renate Reinsve", "Sebastian Stan", "Fjord"]
 image_prompt: "A quiet wooden house beside a grey Norwegian fjord at dusk, warm lamplight in the windows, mist on the water."
 sources:
   - "https://www.independent.co.uk/arts-entertainment/films/features/sebastian-stan-interview-fjord-renate-reinsve-b3080509.html"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-10-20-00-renate-reinsve.webp"
+wp_media_id: 1784
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-10-20-00-renate-reinsve-768x432.webp"
+wp_id: 1785
+wp_link: "https://moduscarry.com/renate-reinsve-fjord-sebastian-stan/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

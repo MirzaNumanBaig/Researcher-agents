@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-11-10T09:21:41.126645+00:00",
+  "article": "2026-11-10-20-00-hugh-jackman",
+  "ai_generated": true,
+  "story_type": "relationship",
+  "analysis": {
+    "story_type": "relationship",
+    "core_event": "an anonymous figure to Australia for the first time.",
+    "emotion": "romantic",
+    "setting": "airport arrivals",
+    "key_objects": [
+      "Sydney Airport",
+      "North Bondi penthouse",
+      "chauffeured car"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "green",
+      "beige"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium-wide",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Sydney Airport",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 2,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "drawn up gently at the centre",
+          "eyes": "unfocused and distant",
+          "mouth": "lips just closed",
+          "jaw": "soft"
+        },
+        "gaze": "off-frame toward a window",
+        "head": "resting slightly back",
+        "posture": "shoulders low",
+        "hands": "wrapped around a mug",
+        "interaction": "seated close at a small table, knees angled toward each other, mirrored relaxed poses",
+        "clothing": ""
+      },
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "lifted",
+          "eyes": "bright and crinkled",
+          "mouth": "a wide natural smile",
+          "jaw": "relaxed"
+        },
+        "gaze": "on the other person",
+        "head": "tipped back mid-laugh",
+        "posture": "open chest, loose shoulders",
+        "hands": "one hand in a coat pocket",
+        "interaction": "seated close at a small table, knees angled toward each other, mirrored relaxed poses",
+        "clothing": ""
+      }
+    ],
+    "setting": "airport arrivals",
+    "props": [
+      "Sydney Airport",
+      "North Bondi penthouse",
+      "chauffeured car"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "beige"
+    ],
+    "mood": "romantic",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-03",
+    "cast-12"
+  ],
+  "prompt": "A medium shot, taken from a three-quarter view with a 35mm lens, of the woman, a woman in her late 20s with long straight black hair and warm beige skin, seated close to the man, a man in his late 40s with thinning dark hair and round glasses and olive skin, at a small table in the arrivals area of Sydney Airport. The woman's facial expression is characterized by drawn-up eyebrows at the centre, unfocused and distant eyes, lips just closed, and a soft jawline. Her gaze is directed off-frame toward a window, and her head is resting slightly back. The man's facial expression, on the other hand, is marked by lifted eyebrows, bright and crinkled eyes, a wide natural smile, and a relaxed jawline. His gaze is fixed on the woman, and his head is tipped back mid-laugh. The man's posture is open-chested and loose-shouldered, while the woman's shoulders are low and her posture is relaxed. The depth of field is shallow, emphasizing the faces and bodies of the two people in the foreground. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3058075871,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman and a man in airport arrivals, lit by daytime, sunlight.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 106.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3058075871,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
