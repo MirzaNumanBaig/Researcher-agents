@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-11 04:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "What Happens When Stars Break Character On SNL? That Time Ryan Gosling Made It Happen",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZkZDeGkxVlZheThXQjM4YkRfSEdfQS1PTG9KY29wRnJIMW04dkZLOFRIT3lwd3BzRmgzTkctUzlJN3djNldiUzJFY1VBRlEtSG1SaFVLbnlKYmhKLTBpSExiN2VQM2pPUXZPVFFjWnJIOHlheDJWa041b1hjWVhIQmdCM1J1YTJTc2UzSW5Kdm01OEZYQWJWNE9ZQUtJcVBwZlpQNXI0MVg4a083OHdnTXludHlsMmVTZUJ0ZVJwNWxOUGE4UkZwc1JhOWU0WnpkbW1MbGJzdw?oc=5",
+      "published": "2026-11-10T13:41:35+00:00",
+      "outlets": [
+        {
+          "source": "Cinemablend",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZkZDeGkxVlZheThXQjM4YkRfSEdfQS1PTG9KY29wRnJIMW04dkZLOFRIT3lwd3BzRmgzTkctUzlJN3djNldiUzJFY1VBRlEtSG1SaFVLbnlKYmhKLTBpSExiN2VQM2pPUXZPVFFjWnJIOHlheDJWa041b1hjWVhIQmdCM1J1YTJTc2UzSW5Kdm01OEZYQWJWNE9ZQUtJcVBwZlpQNXI0MVg4a083OHdnTXludHlsMmVTZUJ0ZVJwNWxOUGE4UkZwc1JhOWU0WnpkbW1MbGJzdw?oc=5",
+          "article_url": "https://www.cinemablend.com/television/what-happens-when-stars-break-character-snl-time-ryan-gosling-made-it-happen-mikey-day-ashley-padilla",
+          "image": "https://cdn.mos.cms.futurecdn.net/AWR5wHXQKC8fYbRkLQRLvk-2000-80.jpg"
+        }
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/AWR5wHXQKC8fYbRkLQRLvk-2000-80.jpg",
+      "image_source": "https://www.cinemablend.com/television/what-happens-when-stars-break-character-snl-time-ryan-gosling-made-it-happen-mikey-day-ashley-padilla"
+    },
+    {
+      "title": "Russell Crowe’s Fan-Favorite 116-Minute Mystery Moves to a New Streaming Platform",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3cwNUdfUkFhbDZJd1V1S09zR2ZfeldpWWJOT3pmTlhKU0VXN05YSHA3VE52STRQVXpxUkxlOW83eE1zMUNnOTFBdjVISmJ0RVVIX2JiNFJZOHZVbUdEWV84ZnhJcXQya1Vqd0RvWEJaMERmbzFjcDgyVGNsRHdMUQ?oc=5",
+      "published": "2026-11-10T12:31:12+00:00",
+      "outlets": [
+        {
+          "source": "Collider",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3cwNUdfUkFhbDZJd1V1S09zR2ZfeldpWWJOT3pmTlhKU0VXN05YSHA3VE52STRQVXpxUkxlOW83eE1zMUNnOTFBdjVISmJ0RVVIX2JiNFJZOHZVbUdEWV84ZnhJcXQya1Vqd0RvWEJaMERmbzFjcDgyVGNsRHdMUQ?oc=5",
+          "article_url": "https://collider.com/russell-crowe-the-nice-guys-streaming-on-amazon-prime/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/russell-crowe.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/russell-crowe.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://collider.com/russell-crowe-the-nice-guys-streaming-on-amazon-prime/"
+    }
+  ]
+}
