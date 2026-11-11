@@ -10527,6 +10527,22 @@
    "turns": 9,
    "seconds": 21,
    "cost_usd": 0.1152
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T10:24:45+00:00",
+   "batch": "2026-11-11 21:00",
+   "celebrity": "Callum Turner",
+   "article": "2026-11-11-21-00-callum-turner.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 1494,
+   "cache_read_tokens": 195674,
+   "cache_write_tokens": 27623,
+   "turns": 10,
+   "seconds": 20,
+   "cost_usd": 0.1452
   }
  ]
 }
