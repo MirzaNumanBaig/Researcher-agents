@@ -16,15 +16,16 @@ sources:
   - "https://biz.chosun.com/en/en-entertainment/2026/11/06/KAF2CX2VT5AJRA3IUDSURFB6TI/"
   - "https://www.cineplay.co.kr/en-us/articles/30668"
   - "https://www.mt.co.kr/en/entertainment/2026/11/06/2026110608161626615"
-image_alt: "Illustration of red carpet with a person and a person Evans, lit by daytime, studio lights."
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
 image: "images/2026-11-06-14-00-chris-hemsworth.webp"
-wp_media_id: 1641
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-14-00-chris-hemsworth-768x432.webp"
 wp_id: 1642
 wp_link: "https://moduscarry.com/chris-hemsworth-korea-visit/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1641
 ---
 
 **Quick summary**

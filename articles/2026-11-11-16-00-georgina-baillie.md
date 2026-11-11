@@ -5,7 +5,7 @@ seo_title: "Georgina Baillie Statement for Russell Brand Explained"
 seo_description: "Georgina Baillie sent a court statement backing Russell Brand before he was jailed for 10.5 years. Here is what she said and what it means."
 focus_keyword: "Georgina Baillie statement"
 permalink: "georgina-baillie-statement-russell-brand"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Georgina Baillie"
@@ -17,6 +17,10 @@ sources:
   - "https://www.independent.co.uk/news/uk/crime/andrew-sachs-granddaughter-georgina-baillie-russell-brand-b3081721.html"
   - "https://www.dailystar.co.uk/showbiz/breaking-georgina-baillie-gives-support-37858420"
   - "https://thenational.co.za/culture/2026-11-09-inside-russell-brand-s-sentencing-prayer-beads-celebrity-privilege-and-a-10-5-year-prison-term/"
+wp_id: 1839
+wp_link: "https://moduscarry.com/georgina-baillie-statement-russell-brand/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

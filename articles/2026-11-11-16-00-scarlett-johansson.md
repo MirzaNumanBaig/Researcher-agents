@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Batman Part II Role: 'Existential Angst'"
 seo_description: "Scarlett Johansson says her Batman Part II role gave her existential angst. What she said, who she may play and what opens this weekend."
 focus_keyword: "Scarlett Johansson Batman Part II"
 permalink: "scarlett-johansson-batman-part-ii"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Scarlett Johansson"
@@ -17,6 +17,10 @@ sources:
   - "https://nerdist.com/article/scarlett-johansson-the-batman-part-ii-role-challenging/"
   - "https://awardsradar.com/2026/11/10/an-new-ranking-of-the-best-performances-so-far-from-scarlett-johansson-as-paper-tiger-gets-set-to-open/"
   - "https://graziamagazine.com/us/articles/scarlett-johansson-actress-ive-had-relationships-with-people-outside-of-the-film-industry-and-what-i-discovered-is-that-they-had-no-idea-what-i-needed-to-do-my-job/"
+wp_id: 1861
+wp_link: "https://moduscarry.com/scarlett-johansson-batman-part-ii/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

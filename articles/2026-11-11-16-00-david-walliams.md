@@ -5,7 +5,7 @@ seo_title: "David Walliams Allegations: Fing! Dropped by Stan and Sky"
 seo_description: "David Walliams denies the allegations in a Guardian and ITV investigation. See what Stan, Sky and the BBC have done and what happens to Fing! in Australia."
 focus_keyword: "David Walliams allegations"
 permalink: "david-walliams-allegations-fing"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "David Walliams"
@@ -18,6 +18,15 @@ sources:
   - "https://www.abc.net.au/news/2026-11-11/david-walliams-movie-fing-transmission-cuts-cameo/107372206"
   - "https://if.com.au/fing-in-limbo-as-stan-sky-drop-film-following-david-walliams-allegations/"
   - "https://www.perthnow.com.au/entertainment/video-of-deeply-shocking-david-walliams-joke-resurfaces-day-after-sexual-misconduct-claims-involving-minors-c-23146100"
+image: "images/2026-11-11-16-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams Allegations: Fing! Dropped by Stan and Sky"
+image_credit: "Image: <a href=\"https://www.abc.net.au/news/2026-11-11/david-walliams-grooming-sexual-misconduct-accusations-uk-media/107371962\" rel=\"nofollow noopener\">ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation</a> (cropped)"
+wp_media_id: 1836
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-david-walliams-768x432.webp"
+wp_id: 1837
+wp_link: "https://moduscarry.com/david-walliams-allegations-fing/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

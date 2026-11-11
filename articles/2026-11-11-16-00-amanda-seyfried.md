@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried You Can See Everything: Holmes Role Revealed"
 seo_description: "Amanda Seyfried says she is relieved and excited now that her secret Elizabeth Holmes role in You Can See Everything is out. Here is what she said."
 focus_keyword: "Amanda Seyfried You Can See Everything"
 permalink: "amanda-seyfried-you-can-see-everything"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Amanda Seyfried"
@@ -19,6 +19,15 @@ sources:
   - "https://www.yardbarker.com/entertainment/articles/i_like_to_do_things_that_scare_me_amanda_seyfried_on_returning_to_play_convicted_fraud_elizabeth_holmes/s1_17785_44543910"
   - "https://www.avclub.com/amanda-seyfried-releived-excited-movie-is-finally-out"
   - "https://theplaylist.net/amanda-seyfried-elizabeth-holmes-reenactments-you-can-see-everything-20261110/"
+image: "images/2026-11-11-16-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried on Her Secret Holmes Role in Documentary"
+image_credit: "Image: <a href=\"https://popviewers.com/amanda-seyfried-feels-relieved-after-secret-elizabe/\" rel=\"nofollow noopener\">Popviewers</a> (cropped)"
+wp_media_id: 1828
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-amanda-seyfried-768x432.webp"
+wp_id: 1829
+wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

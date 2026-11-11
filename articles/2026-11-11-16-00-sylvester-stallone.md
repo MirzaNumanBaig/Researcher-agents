@@ -5,7 +5,7 @@ seo_title: "I Play Rocky Oscars: Original or Adapted Screenplay?"
 seo_description: "I Play Rocky Oscars question: Variety reports the Academy must decide if the Stallone origin film is an original or adapted screenplay. Here is why."
 focus_keyword: "I Play Rocky Oscars"
 permalink: "i-play-rocky-oscars"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Sylvester Stallone"
@@ -16,6 +16,10 @@ sources:
   - "https://variety.com/2026/film/awards/i-play-rocky-oscars-original-adapted-screenplay-1236944423/"
   - "https://slate.com/culture/2026/11/sylvester-stallone-rocky-balboa-movie-dog-cast-butkus.html"
   - "https://www.cbr.com/tulsa-king-season-4-supporting-characters-greater-roles/"
+wp_id: 1862
+wp_link: "https://moduscarry.com/i-play-rocky-oscars/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

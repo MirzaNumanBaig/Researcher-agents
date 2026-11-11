@@ -5,7 +5,7 @@ seo_title: "Martin McDonagh Wild Horse Nine: Interviews and Reviews"
 seo_description: "Martin McDonagh's Wild Horse Nine is in cinemas. Read what he says about the CIA story, the sadder tone and why The Pillowman won't be a film."
 focus_keyword: "Martin McDonagh Wild Horse Nine"
 permalink: "martin-mcdonagh-wild-horse-nine"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Martin McDonagh"
@@ -19,6 +19,10 @@ sources:
   - "https://awardswatch.com/interview-wild-horse-nine-cinematographer-ben-davis-on-his-collaborations-with-martin-mcdonagh-shooting-easter-island-and-animal-magnetism/"
   - "https://www.joblo.com/interview-wild-horse-nine/"
   - "https://headstuff.org/entertainment/film/if-nothing-else-wild-horse-nine-is-undeniably-a-mcdonagh-production-film-review/"
+wp_id: 1850
+wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

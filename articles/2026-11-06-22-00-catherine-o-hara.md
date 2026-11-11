@@ -14,15 +14,16 @@ tags: ["Catherine O'Hara", "Beetlejuice", "Tim Burton", "Michael Keaton", "Winon
 image_prompt: "An empty vintage cinema at night, a single spotlight on a velvet seat, faint green mist drifting across the aisle."
 sources:
   - "https://www.cbr.com/beetlejuice-3-writers-update/"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Catherine O'Hara: Catherine O'Hara, actor in 'The Wild Robot', at the 2024 Toronto International Film Festival"
 image: "images/2026-11-06-22-00-catherine-o-hara.webp"
-wp_media_id: 1657
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-22-00-catherine-o-hara-768x432.webp"
 wp_id: 1658
 wp_link: "https://moduscarry.com/catherine-ohara-beetlejuice-3/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg\" rel=\"noopener\">John Sears</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1657
 ---
 
 **Quick summary**

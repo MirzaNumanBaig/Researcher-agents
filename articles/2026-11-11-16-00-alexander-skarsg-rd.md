@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård The Confessions: Cast and Plot"
 seo_description: "Alexander Skarsgård joins Hunter Schafer, Maya Hawke and Harry Melling in The Confessions, produced by Ari Aster. Here is what we know so far."
 focus_keyword: "Alexander Skarsgård The Confessions"
 permalink: "alexander-skarsgard-the-confessions"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Alexander Skarsgård"
@@ -19,6 +19,15 @@ sources:
   - "https://screenrant.com/alexander-skarsgard-confessions-movie-cast-hunter-schafer-harry-melling/"
   - "https://www.comingsoon.net/movies/news/2221026-alexander-skarsgard-wicker-nsfw-spin-off"
   - "https://www.hercampus.com/wellness/alexander-skarsgard-quinn-original-audio/"
+image: "images/2026-11-11-16-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd joins Ari Aster-produced The Confessions"
+image_credit: "Image: <a href=\"https://screenrant.com/alexander-skarsgard-confessions-movie-cast-hunter-schafer-harry-melling/\" rel=\"nofollow noopener\">ScreenRant</a> (cropped)"
+wp_media_id: 1826
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 1827
+wp_link: "https://moduscarry.com/alexander-skarsgard-the-confessions/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

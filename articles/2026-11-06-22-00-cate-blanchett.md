@@ -16,15 +16,16 @@ sources:
   - "https://spectrumfm.net/harpers-bazaar-awards/"
   - "https://www.redcarpet-fashionawards.com/2026/11/05/cate-blanchett-steps-into-mary-katrantzous-fantasy-world/"
   - "https://www.netflixjunkie.com/hollywood-news-when-are-we-gonna-work-together-cate-blanchett-pitches-a-collaboration-with-koji-yakusho/amp/"
-image_alt: "Illustration of a man in a person, lit by evening, spotlights."
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
 image: "images/2026-11-06-22-00-cate-blanchett.webp"
-wp_media_id: 1655
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-22-00-cate-blanchett-768x432.webp"
 wp_id: 1656
 wp_link: "https://moduscarry.com/cate-blanchett-harpers-bazaar-award/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-3.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-3.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1655
 ---
 
 **Quick summary**

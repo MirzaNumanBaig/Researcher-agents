@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond Screen Test: What We Know"
 seo_description: "Robert Pattinson reportedly screen tested for James Bond. See who else is in the running, what Amazon MGM has said and what happens next."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Robert Pattinson"
@@ -19,6 +19,10 @@ sources:
   - "https://www.denofgeek.com/movies/robert-pattinson-would-be-the-perfect-gen-z-bond/"
   - "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-to-callum-turner-6-actors-who-could-replace-daniel-craig-as-the-next-james-bond/photostory/135703252.cms"
   - "https://theankler.com/robert-pattinson-is-my-oscar-frontrunner/"
+wp_id: 1857
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

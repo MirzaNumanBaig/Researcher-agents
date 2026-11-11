@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder You Can See Everything: Australian Release"
 seo_description: "Nathan Fielder's You Can See Everything reaches Australian cinemas on November 12. Here is what to know about the Holmes documentary, its cameo and Oscar buzz."
 focus_keyword: "Nathan Fielder You Can See Everything"
 permalink: "nathan-fielder-you-can-see-everything"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Nathan Fielder"
@@ -20,6 +20,15 @@ sources:
   - "https://www.toronto.com/things-to-do/nathan-fielder-lookalike-competition-toronto-2026-you-can-see-everything-the-curse/article_45acc1bd-7648-5b30-ba0e-3a0ffc571215.html"
   - "https://theconversation.com/how-aristotle-helps-us-unpack-the-art-of-deception-in-nathan-fielders-you-can-see-everything-295602"
   - "https://www.kveller.com/im-a-rabbi-nathan-fielders-comedy-strikes-me-as-talmudic/"
+image: "images/2026-11-11-16-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder's You Can See Everything Opens in Australia"
+image_credit: "Image: <a href=\"https://popviewers.com/amanda-seyfried-feels-relieved-after-secret-elizabe/\" rel=\"nofollow noopener\">Popviewers</a> (cropped)"
+wp_media_id: 1853
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-nathan-fielder-768x432.webp"
+wp_id: 1854
+wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

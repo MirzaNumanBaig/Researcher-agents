@@ -14,15 +14,16 @@ tags: ["Hudson Williams", "Yaga", "AMC+"]
 image_prompt: "A dark forest cabin on stilts at dusk, lantern glowing in the window, mist over a still lake, folklore mood"
 sources:
   - "https://entertainmentnow.com/horror-movies-halloween/yaga-hudson-williams-breaks-amc-plus-record/"
-image_alt: "Illustration of a man in film set, lit by daytime, studio lights."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-11-06-22-00-hudson-williams.webp"
-wp_media_id: 1659
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-22-00-hudson-williams-768x432.webp"
 wp_id: 1660
 wp_link: "https://moduscarry.com/hudson-williams-yaga-amc-record/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(17).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(17).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1659
 ---
 
 **Quick summary**

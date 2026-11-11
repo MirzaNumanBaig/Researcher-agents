@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Obsession: Fame, Rogue and Blonde Hair"
 seo_description: "Inde Navarrette Obsession fame brings Oscar buzz, strangers shouting Nikki and a blonde makeover ahead of her Rogue role in Marvel's X-Men."
 focus_keyword: "Inde Navarrette Obsession"
 permalink: "inde-navarrette-obsession"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Inde Navarrette"
@@ -18,6 +18,15 @@ sources:
   - "https://theplaylist.net/inde-navarrette-obsessions-oscar-buzz-interview-20261110/"
   - "https://www.yahoo.com/entertainment/celebrity/interviews/articles/die-x-men-inde-navarrette-180513798.html"
   - "https://www.fashiontimes.co.uk/inde-navarrette-blonde-hair-fan-reactions-rogue-1767448"
+image: "images/2026-11-11-16-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette on Obsession Fame, Oscar Buzz and Rogue"
+image_credit: "Image: <a href=\"https://comicbookmovie.com/x_men/x-men-star-inde-navarrette-debuts-a-striking-new-look---will-rogue-be-going-blonde-a230901\" rel=\"nofollow noopener\">ComicBookMovie.com</a> (cropped)"
+wp_media_id: 1840
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-inde-navarrette-768x432.webp"
+wp_id: 1841
+wp_link: "https://moduscarry.com/inde-navarrette-obsession/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

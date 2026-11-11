@@ -14,15 +14,16 @@ tags: ["Pamela Anderson"]
 image_prompt: "A rainy autumn morning over a quiet lakeside garden with a wooden dock, a pine tree and pink roses in bloom."
 sources:
   - "https://www.geo.tv/latest/689972-pamela-anderson-shares-autumn-glimpse-of-vancouver-island-home"
-image_alt: "Illustration of private estate with dogs and garden, lit by rainy morning."
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
 image: "images/2026-11-06-14-00-pamela-anderson.webp"
-wp_media_id: 1649
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-14-00-pamela-anderson-768x432.webp"
 wp_id: 1650
 wp_link: "https://moduscarry.com/pamela-anderson-vancouver-island-home/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1649
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Waitrose Ad: The Perfect Gift 2 Sequel"
 seo_description: "Keira Knightley returns in the Waitrose ad sequel The Perfect Gift 2, a six-minute romcom, and shares candid Love Actually comments this week."
 focus_keyword: "Keira Knightley Waitrose ad"
 permalink: "keira-knightley-waitrose-ad"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Keira Knightley"
@@ -18,6 +18,15 @@ sources:
   - "https://www.avclub.com/keira-knightley-love-actually-references-dont-compute"
   - "https://fangirlish.com/2026/11/10/black-doves-season-2-review-netflix-keira-knightley/"
   - "https://www.thehindu.com/entertainment/movies/black-doves-season-2-review-keira-knightley-ben-whishaw-spy-thriller-netflix-swings-between-gore-grit-and-giggles/article71685412.ece"
+image: "images/2026-11-11-16-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley Returns in Waitrose Christmas Ad Sequel"
+image_credit: "Image: <a href=\"https://fangirlish.com/2026/11/10/black-doves-season-2-review-netflix-keira-knightley/\" rel=\"nofollow noopener\">Fangirlish</a> (cropped)"
+wp_media_id: 1848
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-keira-knightley-768x432.webp"
+wp_id: 1849
+wp_link: "https://moduscarry.com/keira-knightley-waitrose-ad/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
