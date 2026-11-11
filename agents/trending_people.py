@@ -128,8 +128,8 @@ def films_for(people):
     since, until = (date.today() - timedelta(days=120)).isoformat(), (date.today() + timedelta(days=425)).isoformat()
     out = {q: [] for q in people}
     ids = list(people)
-    for i in range(0, len(ids), 20):
-        vals = " ".join(f"wd:{q}" for q in ids[i:i + 20])
+    for i in range(0, len(ids), 45):
+        vals = " ".join(f"wd:{q}" for q in ids[i:i + 45])
         query = f"""SELECT ?p ?f ?fLabel ?pub ?role WHERE {{
           VALUES ?p {{ {vals} }}
           {{ ?f wdt:P161 ?p. BIND("actor" AS ?role) }} UNION {{ ?f wdt:P57 ?p. BIND("director" AS ?role) }} UNION {{ ?f wdt:P162 ?p. BIND("producer" AS ?role) }}

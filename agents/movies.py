@@ -181,8 +181,8 @@ def tracked_films(names):
     """Film ids for celebrities tracked in config.json (acting, directing, producing), same window as the hot list."""
     since, until = (date.today() - timedelta(days=120)).isoformat(), (date.today() + timedelta(days=425)).isoformat()
     ids = []
-    for i in range(0, len(names), 20):
-        labels = " ".join('"' + n.replace('"', "") + '"@en' for n in names[i:i + 20])
+    for i in range(0, len(names), 45):
+        labels = " ".join('"' + n.replace('"', "") + '"@en' for n in names[i:i + 45])
         q = f"""SELECT DISTINCT ?f WHERE {{
           VALUES ?name {{ {labels} }} ?p rdfs:label ?name. ?p wdt:P31 wd:Q5.
           {{ ?f wdt:P161 ?p }} UNION {{ ?f wdt:P57 ?p }} UNION {{ ?f wdt:P162 ?p }}

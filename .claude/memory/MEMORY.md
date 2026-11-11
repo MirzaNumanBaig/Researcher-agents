@@ -14,6 +14,8 @@ Structured memory index. Each entry points to a memory file with full context.
 ## Project
 - [project-state-2026-10.md](project-state-2026-10.md) — 2026-10-28: pipeline v2 merged (klein 4B, two Cloudflare accounts, Usage tab); unproven bits, branch cleanup left to the user, pending items
 
+- [project-hot-people-movies.md](project-hot-people-movies.md) — 2026-11-11: Openverse + credited news photos, hot people list, movies/box office/critics tabs
+
 ## Reference
 - [reference-new-chat-prompt.md](reference-new-chat-prompt.md) — Paste-in prompt that starts a new chat from this memory
 - [reference-sandbox-and-apis.md](reference-sandbox-and-apis.md) — Sandbox limits (no branch deletion), working gh/REST routes, Cloudflare model ids, pricing and klein/schnell quirks
