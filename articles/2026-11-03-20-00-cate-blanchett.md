@@ -15,15 +15,16 @@ image_prompt: "A quiet university library reading table at golden hour, with ope
 sources:
   - "https://www.futureparty.com/p/uniqlo-launches-magazine-with-cate-blanchett"
   - "https://www.fashionsnap.com/article/2026-10-29/stories-she-tells/"
-image_alt: "Illustration of a man in university campus, lit by daytime, natural light."
+image_alt: "Cate Blanchett: Bernadette Fox, protagonist of the film version of Where'd You Go, Bernadette , played by Cate Blanchett"
 image: "images/2026-11-03-20-00-cate-blanchett.webp"
-wp_media_id: 1489
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-20-00-cate-blanchett-768x432.webp"
 wp_id: 1490
 wp_link: "https://moduscarry.com/cate-blanchett-stories-she-tells/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Bernadette_Fox.jpg\" rel=\"noopener\">DV.Pranu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Bernadette_Fox.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1489
 ---
 
 **Quick summary**

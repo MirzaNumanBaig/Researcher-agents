@@ -16,15 +16,16 @@ sources:
   - "https://surreynowleader.com/2026/11/02/hudson-williams-other-celebs-face-questions-from-surrey-white-rock-interviewers/"
   - "https://dailyhive.com/canada/canadian-tire-hudson-williams-bag-christmas-ornament"
   - "https://ca.rollingstone.com/tv-movies/hudson-williams-the-assembly-season-2-neurodivergent-interviewers/"
-image_alt: "Illustration of a woman and a man in TV studio, lit by daytime, studio lights."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-11-03-12-00-hudson-williams.webp"
-wp_media_id: 1477
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-12-00-hudson-williams-768x432.webp"
 wp_id: 1478
 wp_link: "https://moduscarry.com/hudson-williams-assembly-canadian-tire-bag/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1477
 ---
 
 **Quick summary**

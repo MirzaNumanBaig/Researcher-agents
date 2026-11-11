@@ -14,15 +14,16 @@ tags: ["Chris Hemsworth", "Marvel Studios", "X-Men", "Patrick Stewart"]
 image_prompt: "A stormy night sky split by lightning over a dark mountain ridge, with a glowing hammer-shaped silhouette of light in the clouds."
 sources:
   - "https://thedirect.com/article/avengers-doomsday-pedro-pascal-mr-fantastic-chris-hemsworth-thor-james-marsden-cyclops-powers"
-image_alt: "Illustration of a woman in film set, lit by daytime, sunlight."
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
 image: "images/2026-11-03-20-00-chris-hemsworth.webp"
-wp_media_id: 1491
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-20-00-chris-hemsworth-768x432.webp"
 wp_id: 1492
 wp_link: "https://moduscarry.com/chris-hemsworth-avengers-doomsday-posters/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1491
 ---
 
 **Quick summary**

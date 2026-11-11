@@ -21,6 +21,11 @@ wp_id: 1861
 wp_link: "https://moduscarry.com/scarlett-johansson-batman-part-ii/"
 wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-11-16-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson on The Batman Part II: 'Existential Angst'"
+image_credit: "Image: <a href=\"https://www.syfy.com/syfy-wire/scarlett-johansson-says-the-batman-part-2-role-gave-her-existential-angst\" rel=\"nofollow noopener\">SYFY</a> (cropped)"
+wp_media_id: 1868
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-scarlett-johansson-768x432.webp"
 ---
 
 **Quick summary**

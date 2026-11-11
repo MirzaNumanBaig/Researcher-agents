@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Wicker: Box Office, Buzz and The Confessions"
 seo_description: "Alexander Skarsgård on the Wicker frenzy, its A$1.39 million Australian opening and his new role in Ari Aster-produced The Confessions."
 focus_keyword: "Alexander Skarsgård Wicker"
 permalink: "alexander-skarsgard-wicker"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 21:00"
 celebrity: "Alexander Skarsgård"
@@ -16,6 +16,10 @@ sources:
   - "https://www.pedestrian.tv/entertainment/olivia-colman-alexander-skarsgard-wicker-horny-reactions"
   - "https://tbreak.com/alexander-skarsgard-the-confessions-ari-aster/"
   - "https://www.admiddleeast.com/story/thanks-to-alexander-skarsgard-wicker-is-having-a-moment"
+wp_id: 1870
+wp_link: "https://moduscarry.com/alexander-skarsgard-wicker/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

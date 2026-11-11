@@ -14,15 +14,16 @@ tags: ["Chris Hemsworth", "Extraction 3", "Netflix"]
 image_prompt: "A rain-soaked city rooftop at night, neon signs glowing below, an empty helicopter pad and scattered shipping crates in cinematic blue light."
 sources:
   - "https://screenrant.com/chris-hemsworth-extraction-movies-franchise-spinoffs-future-bigger/"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
 image: "images/2026-11-04-04-00-chris-hemsworth.webp"
-wp_media_id: 1503
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-04-00-chris-hemsworth-768x432.webp"
 wp_id: 1504
 wp_link: "https://moduscarry.com/extraction-3-spin-offs/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1503
 ---
 
 **Quick summary**

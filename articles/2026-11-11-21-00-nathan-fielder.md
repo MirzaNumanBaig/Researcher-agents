@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder You Can See Everything: Holmes Film Explained"
 seo_description: "Nathan Fielder's You Can See Everything follows Elizabeth Holmes for 34 days before prison, then stages her jail talks with an actor. Here is how it works."
 focus_keyword: "Nathan Fielder You Can See Everything"
 permalink: "nathan-fielder-you-can-see-everything-holmes"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 21:00"
 celebrity: "Nathan Fielder"
@@ -14,6 +14,15 @@ tags: ["Netflix"]
 image_prompt: "An empty beachfront bedroom at dusk with a camera tripod pointing at an unmade bed and a half-open door to the sea."
 sources:
   - "https://journalarta.com/2026/11/11/you-can-see-everything-nathan-fielder-elizabeth-holmes/"
+image: "images/2026-11-11-21-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder's Elizabeth Holmes Film Blurs Fact and Staging"
+image_credit: "Image: <a href=\"https://journalarta.com/en/2026/11/11/you-can-see-everything-nathan-fielder-elizabeth-holmes/\" rel=\"nofollow noopener\">JournalArta</a> (cropped)"
+wp_media_id: 1880
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-21-00-nathan-fielder-768x432.webp"
+wp_id: 1881
+wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-holmes/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

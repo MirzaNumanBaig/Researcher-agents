@@ -5,7 +5,7 @@ seo_title: "Jithu Madhavan Scene Leak: Director Speaks Out"
 seo_description: "Jithu Madhavan says the Suriya twist in Scene leaked before the first look. He also explains the criticism of the film's first song."
 focus_keyword: "Jithu Madhavan Scene leak"
 permalink: "jithu-madhavan-scene-leak"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 21:00"
 celebrity: "Jithu Madhavan"
@@ -15,6 +15,10 @@ image_prompt: "An empty Indian cinema hall at dusk, rows of red seats facing a g
 sources:
   - "https://www.hindustantimes.com/entertainment/tamil-cinema/jithu-madhavan-says-it-was-scary-when-news-of-suriyas-character-being-blind-in-scene-was-leaked-even-before-his-1st-look-was-out-101794381570399.html"
   - "https://www.cinemaexpress.com/tamil/news/2026/Nov/11/jithu-madhavan-i-was-scared-when-key-detail-about-scene-got-leaked-before-release"
+wp_id: 1875
+wp_link: "https://moduscarry.com/jithu-madhavan-scene-leak/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

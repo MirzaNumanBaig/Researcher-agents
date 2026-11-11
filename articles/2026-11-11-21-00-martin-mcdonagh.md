@@ -5,7 +5,7 @@ seo_title: "Martin McDonagh Wild Horse Nine Interview on Chile and CIA"
 seo_description: "Martin McDonagh discusses Wild Horse Nine, the 1973 Chile coup, male friendship and his place outside Hollywood in a new interview."
 focus_keyword: "Martin McDonagh Wild Horse Nine"
 permalink: "martin-mcdonagh-wild-horse-nine-interview"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 21:00"
 celebrity: "Martin McDonagh"
@@ -14,6 +14,10 @@ tags: ["Martin McDonagh", "Wild Horse Nine", "Sam Rockwell"]
 image_prompt: "A windswept island coastline with large stone statues facing the sea under a grey evening sky"
 sources:
   - "https://www.mundoamerica.com/entertainment/2026/11/11/6af43cbce85ece74488b4588.html"
+wp_id: 1878
+wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine-interview/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

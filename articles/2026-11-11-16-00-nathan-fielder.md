@@ -29,6 +29,7 @@ wp_id: 1854
 wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -23,6 +23,7 @@ wp_id: 1850
 wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

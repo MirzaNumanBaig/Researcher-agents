@@ -15,15 +15,16 @@ image_prompt: "A quiet empty ice hockey arena at night, a single phone glowing o
 sources:
   - "https://www.indiatimes.com/trending/hudson-williams-removes-all-heated-rivalry-posts-fans-accuse-connor-storrie-of-brainwashing-him-amid-online-drama/articleshow/135511283.html"
   - "https://www.fashiontimes.co.uk/hudson-williams-connor-storrie-platonic-soulmates-1766891"
-image_alt: "Illustration of two empty armchairs facing away from each other in a quiet room, a closed door behind them."
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
 image: "images/2026-11-04-09-00-connor-storrie.webp"
-wp_media_id: 1519
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-09-00-connor-storrie-768x432.webp"
 wp_id: 1520
 wp_link: "https://moduscarry.com/connor-storrie-hudson-williams-instagram/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1519
 ---
 
 **Quick summary**

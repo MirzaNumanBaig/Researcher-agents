@@ -15,15 +15,16 @@ image_prompt: "A quiet empty hockey arena at night, lit by a single overhead flo
 sources:
   - "https://www.indiatimes.com/trending/hudson-williams-removes-all-heated-rivalry-posts-fans-accuse-connor-storrie-of-brainwashing-him-amid-online-drama/articleshow/135511283.html"
   - "https://www.fashiontimes.co.uk/hudson-williams-connor-storrie-platonic-soulmates-1766891"
-image_alt: "Illustration of two empty armchairs facing away from each other in a quiet room, a closed door behind them."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-11-04-09-00-hudson-williams.webp"
-wp_media_id: 1521
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-09-00-hudson-williams-768x432.webp"
 wp_id: 1522
 wp_link: "https://moduscarry.com/hudson-williams-instagram/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1521
 ---
 
 **Quick summary**

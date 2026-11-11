@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond Screen Test Reports Explained"
 seo_description: "Robert Pattinson is reportedly among the actors screen-tested for James Bond, and The Drama is trending on Prime Video. Here is what is confirmed."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-drama"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 21:00"
 celebrity: "Robert Pattinson"
@@ -15,6 +15,10 @@ image_prompt: "An empty vintage cinema with red velvet seats and a single spotli
 sources:
   - "https://www.rivieraradio.mc/article/robert-pattinson-and-nicholas-hoult-reportedly-audition-for-james-bond-role-5HjdmFG_2/"
   - "https://www.digitalspy.com/movies/a74385010/zendaya-robert-pattinson-the-drama-prime-video/"
+wp_id: 1882
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-drama/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

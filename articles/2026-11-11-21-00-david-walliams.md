@@ -5,7 +5,7 @@ seo_title: "David Walliams Allegations: Ross, Beaumont and the Fallout"
 seo_description: "David Walliams allegations: Jonathan Ross explains a 2004 joke, Lucy Beaumont speaks out, and the BBC, Sky and his agency act. Walliams denies wrongdoing."
 focus_keyword: "David Walliams allegations"
 permalink: "david-walliams-allegations-fallout"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 21:00"
 celebrity: "David Walliams"
@@ -18,6 +18,15 @@ sources:
   - "https://www.theguardian.com/tv-and-radio/2026/nov/11/jonathan-ross-david-walliams-russell-brand-revelations"
   - "https://www.theguardian.com/world/2026/nov/11/wednesday-briefing-how-david-walliams-tried-to-silence-his-accusers"
   - "https://www.abc.net.au/news/2026-11-11/david-walliams-whistblower-speaks-out/107372358"
+image: "images/2026-11-11-21-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams Allegations: Fallout Grows Across Industry"
+image_credit: "Image: <a href=\"https://www.abc.net.au/news/2026-11-11/david-walliams-whistblower-speaks-out/107372358\" rel=\"nofollow noopener\">ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation</a> (cropped)"
+wp_media_id: 1871
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-21-00-david-walliams-768x432.webp"
+wp_id: 1872
+wp_link: "https://moduscarry.com/david-walliams-allegations-fallout/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
