@@ -18,15 +18,16 @@ sources:
   - "https://tribune.com.pk/story/2638244/hudson-williams-addresses-whether-he-has-romantic-feelings-for-heated-rivalry-co-star-connor-storrie"
   - "https://en.xmag.live/hudson-williams-reveals-whether-he-ever-had-feelings-beyond-friendship-for-connor-storrie-while-filming-heated-rivalry/"
   - "https://www.cbc.ca/news/entertainment/hudson-williams-tattoo-tour-the-assembly-9.7396525"
-image_alt: "Illustration of a man and a woman in TV interview studio, lit by daytime, studio lights."
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
 image: "images/2026-11-03-06-00-connor-storrie.webp"
-wp_media_id: 1455
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-06-00-connor-storrie-768x432.webp"
 wp_id: 1456
 wp_link: "https://moduscarry.com/connor-storrie-hudson-williams-assembly/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1455
 ---
 
 **Quick summary**

@@ -11,14 +11,15 @@ image_prompt: "A dimly lit autumn porch at night with carved pumpkins glowing an
 sources:
   - "https://www.justjared.com/2026/10/31/connor-storrie-hudson-williams-dress-up-as-emma-stone-jesse-plemons-in-bugonia-for-halloween/"
   - "https://www.imdb.com/de/news/ni66089681/?ref_=nwc_art_perm"
-image_alt: "Illustration of film set with Halloween costume and Bugonia film, lit by daytime, natural light."
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
 image: "images/2026-11-01-15-00-connor-storrie.webp"
-wp_media_id: 1411
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-01-15-00-connor-storrie-768x432.webp"
 wp_id: 1412
 wp_link: "https://moduscarry.com/connor-storrie-and-hudson-williams-go-as-bugonia-leads/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1411
 ---
 
 **Quick summary**

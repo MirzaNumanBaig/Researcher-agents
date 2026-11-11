@@ -15,15 +15,16 @@ image_prompt: "An empty federal courtroom at dusk with a long wooden bench, stac
 sources:
   - "https://www.musicbusinessworldwide.com/irving-azoffs-music-artists-coalition-joins-cate-blanchett-and-caa-on-ai-licensing-brief-in-new-york-times-case-against-openai/"
   - "https://www.yahoo.com/entertainment/celebrity/articles/cate-blanchett-uniqlo-suit-recalls-135648969.html"
-image_alt: "Illustration of a wooden gavel resting on a bare desk beside a closed leather folder, soft light across the grain."
+image_alt: "Cate Blanchett: Bernadette Fox, protagonist of the film version of Where'd You Go, Bernadette , played by Cate Blanchett"
 image: "images/2026-11-03-06-00-cate-blanchett.webp"
-wp_media_id: 1453
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-03-06-00-cate-blanchett-768x432.webp"
 wp_id: 1454
 wp_link: "https://moduscarry.com/cate-blanchett-ai-licensing-brief/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Bernadette_Fox.jpg\" rel=\"noopener\">DV.Pranu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Bernadette_Fox.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1453
 ---
 
 **Quick summary**

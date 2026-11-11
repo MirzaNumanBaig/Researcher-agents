@@ -16,15 +16,16 @@ sources:
   - "https://www.justjared.com/2026/11/01/hudson-williams-shares-thoughtful-response-when-asked-if-he-felt-more-than-friendship-feelings-with-connor-storrie/"
   - "https://www.yardbarker.com/entertainment/articles/platonic_soulmates_hudson_williams_clearly_defines_his_close_bond_with_heated_rivalry_co_star_connor_storrie/s1_17785_44502957"
   - "https://www.aol.co.uk/articles/connor-storrie-hudson-williams-debut-174300000.html"
-image_alt: "Illustration of a woman and a man in TV studio, lit by daytime, studio lights."
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
 image: "images/2026-11-02-19-00-connor-storrie.webp"
-wp_media_id: 1437
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-02-19-00-connor-storrie-768x432.webp"
 wp_id: 1438
 wp_link: "https://moduscarry.com/connor-storrie-hudson-williams-platonic-soulmates/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1437
 ---
 
 **Quick summary**

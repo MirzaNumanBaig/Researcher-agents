@@ -10,14 +10,15 @@ tags: ["Connor Storrie", "Heated Rivalry", "Hudson Williams"]
 image_prompt: "An empty hockey rink at night under bright arena lights, with a lone golden trophy resting on the ice."
 sources:
   - "https://www.martincid.com/people/connor-storrie/"
-image_alt: "Illustration of a woman in television studio, lit by evening, studio lights."
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
 image: "images/2026-11-02-04-00-connor-storrie.webp"
-wp_media_id: 1419
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-02-04-00-connor-storrie-768x432.webp"
 wp_id: 1420
 wp_link: "https://moduscarry.com/connor-storrie-the-emmy-nod-for-snl-not-heated-rivalry/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1419
 ---
 
 **Quick summary**
