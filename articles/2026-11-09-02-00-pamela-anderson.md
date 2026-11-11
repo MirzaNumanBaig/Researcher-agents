@@ -14,15 +14,16 @@ tags: ["Pamela Anderson", "Fashion", "Red carpet"]
 image_prompt: "A glamorous empty red carpet at night under soft flash-lit lights, with a black feathered evening gown on a mannequin and a berry-red lipstick on a table."
 sources:
   - "https://www.women.com/2308273/pamela-anderson-muted-red-lip-is-the-perfect-shade-for-older-women/"
-image_alt: "Illustration of a woman in a person, lit by evening, camera flash."
+image_alt: "Pamela Anderson: Pamela Anderson at the WWD Style Awards 2026"
 image: "images/2026-11-09-02-00-pamela-anderson.webp"
-wp_media_id: 1732
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-02-00-pamela-anderson-768x432.webp"
 wp_id: 1733
 wp_link: "https://moduscarry.com/pamela-anderson-cfda-look/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_WWD_Style_Awards_2026.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_WWD_Style_Awards_2026.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1732
 ---
 
 **Quick summary**

@@ -15,15 +15,16 @@ image_prompt: "An empty hockey rink at night under bright floodlights, a film ca
 sources:
   - "https://www.attitude.co.uk/culture/film-tv/hudson-williams-new-heated-rivalry-season-2-photo-539400/"
   - "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jason-priestley-offers-fame-advice-194940757.html"
-image_alt: "Illustration of film set with makeup chair and striped dressing gown, lit by daytime, natural light."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-11-10-12-00-hudson-williams.webp"
-wp_media_id: 1764
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-10-12-00-hudson-williams-768x432.webp"
 wp_id: 1765
 wp_link: "https://moduscarry.com/hudson-williams-heated-rivalry-season-2/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(24).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(24).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1764
 ---
 
 **Quick summary**

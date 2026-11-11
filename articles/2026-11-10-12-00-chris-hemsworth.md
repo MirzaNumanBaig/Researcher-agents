@@ -17,15 +17,16 @@ sources:
   - "https://collider.com/prime-video-crime-101-streaming-success-200-days-november-2026/"
   - "https://timesofindia.indiatimes.com/world/rest-of-world/actor-chris-hemsworth-became-a-patron-of-an-australian-childrens-charity-after-40-years-it-has-supported-more-than-50000-children-and-young-people/articleshow/135680157.cms"
   - "https://geektyrant.com/news/two-finished-kick-ass-spin-off-movies-are-sitting-unreleased-and-one-stars-chris-hemsworth-and-sam-rockwell"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Chris Hemsworth: Chris Hemsworth"
 image: "images/2026-11-10-12-00-chris-hemsworth.webp"
-wp_media_id: 1760
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-10-12-00-chris-hemsworth-768x432.webp"
 wp_id: 1761
 wp_link: "https://moduscarry.com/chris-hemsworth-archie-rose-gin/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 1760
 ---
 
 **Quick summary**

@@ -16,15 +16,16 @@ sources:
   - "https://sports.yahoo.com/articles/had-leave-hammer-behind-rodtang-041421114.html"
   - "https://www.womensweekly.com.au/news/celebrity/chris-hemsworth-kinsyn/"
   - "https://7news.com.au/entertainment/robert-irwin-cheekily-reveals-he-wants-chris-hemsworth-to-play-him-in-a-biopic-c-23134319"
-image_alt: "Illustration of film set with Thor's hammer and Muay Thai gloves, lit by daytime, sunlight."
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
 image: "images/2026-11-09-18-00-chris-hemsworth.webp"
-wp_media_id: 1758
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-18-00-chris-hemsworth-768x432.webp"
 wp_id: 1759
 wp_link: "https://moduscarry.com/chris-hemsworth-extraction-3-kinsyn/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1758
 ---
 
 **Quick summary**

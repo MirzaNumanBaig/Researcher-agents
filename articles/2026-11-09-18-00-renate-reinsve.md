@@ -14,15 +14,16 @@ tags: ["Renate Reinsve", "Fjord", "Sebastian Stan", "Cannes"]
 image_prompt: "A quiet European cinema foyer at dusk with a gold trophy on a velvet table beside a film poster stand"
 sources:
   - "https://www.irishtimes.com/culture/film/2026/11/09/renate-reinsve-we-too-have-tallest-poppy-syndrome-ireland-has-that-right/"
-image_alt: "Illustration of two mans in film festival, lit by daytime, natural light."
+image_alt: "Renate Reinsve: Actress Renate Reinsve at the 74nd Berlin International Film Festival"
 image: "images/2026-11-09-18-00-renate-reinsve.webp"
-wp_media_id: 1756
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-18-00-renate-reinsve-768x432.webp"
 wp_id: 1757
 wp_link: "https://moduscarry.com/renate-reinsve-fjord-interview/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-64370.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-64370.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1756
 ---
 
 **Quick summary**

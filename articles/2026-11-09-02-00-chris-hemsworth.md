@@ -14,15 +14,16 @@ tags: ["Chris Hemsworth", "Marvel Studios"]
 image_prompt: "A dim stunt training gym with crash mats, a padded ring and rigging ropes under warm overhead lights, empty and quiet."
 sources:
   - "https://www.darkhorizons.com/hemsworth-rockwell-join-vaughns-stuntnuts/"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
 image: "images/2026-11-09-02-00-chris-hemsworth.webp"
-wp_media_id: 1722
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-02-00-chris-hemsworth-768x432.webp"
 wp_id: 1723
 wp_link: "https://moduscarry.com/chris-hemsworth-stuntnuts-sam-rockwell/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1722
 ---
 
 **Quick summary**

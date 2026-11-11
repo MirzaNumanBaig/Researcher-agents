@@ -14,15 +14,16 @@ tags: ["Liam Hemsworth", "David Henrie", "The Hunger Games", "Gale"]
 image_prompt: "A quiet audition room at dusk with an empty chair, a script on a table and a single warm lamp."
 sources:
   - "https://uk.news.yahoo.com/disney-star-david-henrie-says-180000171.html"
-image_alt: "Illustration of a woman and a man in film set, lit by daytime, natural light."
+image_alt: "Liam Hemsworth: Liam Hemsworth"
 image: "images/2026-11-09-07-00-liam-hemsworth.webp"
-wp_media_id: 1742
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-07-00-liam-hemsworth-768x432.webp"
 wp_id: 1743
 wp_link: "https://moduscarry.com/david-henrie-liam-hemsworth-gale/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/9358130690\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/9358130690\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 1742
 ---
 
 **Quick summary**

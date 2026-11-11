@@ -14,15 +14,16 @@ tags: ["Liam Hemsworth"]
 image_prompt: "A dimly lit living room with a large television glowing in a darkened room, a bowl of popcorn and a blanket on the sofa."
 sources:
   - "https://www.mandatory.com/news/1885541-new-peacock-releases-this-week-november-9-15"
-image_alt: "Illustration of a man in streaming service, lit by daytime, sunlight."
+image_alt: "Liam Hemsworth: Liam Hemsworth"
 image: "images/2026-11-09-02-00-liam-hemsworth.webp"
-wp_media_id: 1728
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-09-02-00-liam-hemsworth-768x432.webp"
 wp_id: 1729
 wp_link: "https://moduscarry.com/liam-hemsworth-hunger-games/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/9355346647\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/9355346647\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 1728
 ---
 
 **Quick summary**
