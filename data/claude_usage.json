@@ -10927,6 +10927,22 @@
    "turns": 6,
    "seconds": 18,
    "cost_usd": 0.0897
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T18:23:59+00:00",
+   "batch": "2026-11-12 05:00",
+   "celebrity": "Alexander Skarsg\u00e5rd",
+   "article": "2026-11-12-05-00-alexander-skarsg-rd.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 3566,
+   "cache_read_tokens": 146515,
+   "cache_write_tokens": 25797,
+   "turns": 9,
+   "seconds": 41,
+   "cost_usd": 0.1537
   }
  ]
 }
