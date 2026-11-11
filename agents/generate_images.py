@@ -24,6 +24,7 @@ import os
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -289,7 +290,9 @@ def used_photo_pages():
     order = []
     for f in sorted((ROOT / "articles").glob("*.md")):  # file names start with the date, so this is chronological
         credit = _h.unescape(field(split(f.read_text())[0], "image_credit"))
-        for u in re.findall(r'href="(https://commons\.wikimedia\.org/[^"]+)"', credit):
+        m = re.match(r'Photo: <a href="(https?://[^"]+)"', credit)  # real-photo credits start with a link to the photo's page (Commons or Flickr)
+        if m:
+            u = m.group(1)
             if u in order:
                 order.remove(u)
             order.append(u)
@@ -322,6 +325,81 @@ def pick_photo(photos, used, title="", reuse=False):
     return min(photos, key=lambda p: (used.index(p["page"]), -topic(p)))
 
 
+def compose(img):
+    """WebP bytes of a 1600x900 featured image from a PIL image. Portrait photos are centred on a blurred copy of themselves so the face is never cropped."""
+    from PIL import Image, ImageFilter
+    scale = max(OUT_W / img.width, OUT_H / img.height)
+    if img.width / img.height >= OUT_W / OUT_H * 0.85:  # landscape-ish: plain cover crop
+        big = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
+        left, top = (big.width - OUT_W) // 2, (big.height - OUT_H) // 6
+        canvas = big.crop((left, top, left + OUT_W, top + OUT_H))
+    else:
+        bg = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
+        top = max(0, (bg.height - OUT_H) // 5)
+        canvas = bg.crop(((bg.width - OUT_W) // 2, top, (bg.width - OUT_W) // 2 + OUT_W, top + OUT_H)).filter(ImageFilter.GaussianBlur(40))
+        fg = img.resize((round(img.width * OUT_H / img.height), OUT_H), Image.LANCZOS)
+        canvas.paste(fg, ((OUT_W - fg.width) // 2, 0))
+    out = io.BytesIO()
+    canvas.save(out, "WEBP", quality=WEBP_QUALITY, method=6)
+    return out.getvalue()
+
+
+def news_candidates(front):
+    """[(image url, outlet, article url)] from this article's brief: the news stories' own pictures, best-looking first (no Google thumbnails or logos)."""
+    slug = lambda t: re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")  # noqa: E731
+    try:
+        brief = json.loads((ROOT / "briefs" / slug(field(front, "batch")) / f"{slug(field(front, 'celebrity'))}.json").read_text())
+    except (OSError, ValueError):
+        return []
+    out = []
+    for st in brief.get("stories", []):
+        for o in st.get("outlets") or []:
+            img, page = o.get("image") or "", o.get("article_url") or ""
+            if img.startswith("http") and page.startswith("http") and not re.search(r"gstatic|googleusercontent|google\.com|logo|favicon|avatar|placeholder", img, re.I):
+                out.append((img, o.get("source") or urllib.parse.urlparse(page).netloc, page))
+    return list(dict.fromkeys(out))
+
+
+def news_photo(front, tries=4):
+    """(webp bytes, alt, credit) from a news story's own picture, credited to the outlet with a link to the story (image_pipeline.credited_news_images).
+    LAST resort, after the free-licence photo pool. The picture must show one clear face (same OpenCV check as the pool) and be at least 800 px wide.
+    Crediting a source does not make a picture free to use; this is for owners who accept that and remove a picture when its owner asks."""
+    if not (json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("credited_news_images"):
+        return None
+    try:
+        from PIL import Image
+        import html as _h
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import commons_photos as cp
+        try:
+            ban = set(json.loads((ROOT / "data" / "photo_blocklist.json").read_text()).get("files", []))
+        except (OSError, ValueError):
+            ban = set()
+        for img_url, outlet, page in news_candidates(front)[:tries]:
+            if img_url in ban or page in ban:
+                continue
+            try:
+                req = urllib.request.Request(img_url, headers={"User-Agent": "Mozilla/5.0 (ModusCarry image fetch)", "Referer": page})
+                with urllib.request.urlopen(req, timeout=40) as r:
+                    raw = r.read()
+                img = Image.open(io.BytesIO(raw)).convert("RGB")
+            except Exception:
+                continue
+            if img.width < 800 or img.height < 450:
+                continue
+            res = cp.detect_faces(raw)
+            if res is None:
+                print("news photo skipped: OpenCV is not installed, so the face check cannot run", file=sys.stderr)
+                return None
+            if not cp.judge_faces(*res)[0]:
+                continue
+            credit = f'Image: <a href="{_h.escape(page)}" rel="nofollow noopener">{_h.escape(outlet)}</a> (cropped)'
+            return compose(img), f"{field(front, 'celebrity')}: {field(front, 'title')}"[:200], credit
+    except Exception as e:
+        print(f"news photo unavailable for {field(front, 'celebrity')} ({e})", file=sys.stderr)
+    return None
+
+
 def real_photo(front):
     """(webp bytes, alt, credit) from data/character-sheet.json (newest free-licence Commons photo of the article's celebrity), else None.
     Portrait photos are centred on a blurred copy of themselves so the face is never cropped. Needs image_pipeline.real_photos true."""
@@ -341,25 +419,13 @@ def real_photo(front):
         req = urllib.request.Request(photo.get("thumb") or photo["url"], headers={"User-Agent": "Researcher-agents/1.0 (news site photo credits; https://github.com/MirzaNumanBaig/Researcher-agents)"})
         with urllib.request.urlopen(req, timeout=60) as r:
             img = Image.open(io.BytesIO(r.read())).convert("RGB")
-        scale = max(OUT_W / img.width, OUT_H / img.height)
-        if img.width / img.height >= OUT_W / OUT_H * 0.85:  # landscape-ish: plain cover crop
-            big = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
-            left, top = (big.width - OUT_W) // 2, (big.height - OUT_H) // 6
-            canvas = big.crop((left, top, left + OUT_W, top + OUT_H))
-        else:
-            bg = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
-            top = max(0, (bg.height - OUT_H) // 5)
-            canvas = bg.crop(((bg.width - OUT_W) // 2, top, (bg.width - OUT_W) // 2 + OUT_W, top + OUT_H)).filter(ImageFilter.GaussianBlur(40))
-            fg = img.resize((round(img.width * OUT_H / img.height), OUT_H), Image.LANCZOS)
-            canvas.paste(fg, ((OUT_W - fg.width) // 2, 0))
-        out = io.BytesIO()
-        canvas.save(out, "WEBP", quality=WEBP_QUALITY, method=6)
+        data = compose(img)
         import html; desc = html.unescape(photo.get("description") or "photographed in 2026")
         import html as _h
         credit = (f'Photo: <a href="{_h.escape(photo["page"])}" rel="noopener">{_h.escape(photo.get("author") or "Wikimedia Commons contributor")}</a>, '
                   f'<a href="{_h.escape(photo.get("license_url") or photo["page"])}" rel="noopener">{_h.escape(photo["license"])}</a>, '
-                  f'via <a href="{_h.escape(photo["page"])}" rel="noopener">Wikimedia Commons</a> (cropped)')
-        return out.getvalue(), f"{field(front, 'celebrity')}: {desc}"[:200], credit
+                  f'via <a href="{_h.escape(photo["page"])}" rel="noopener">{_h.escape(photo.get("provider") or "Wikimedia Commons")}</a> (cropped)')
+        return data, f"{field(front, 'celebrity')}: {desc}"[:200], credit
     except Exception as e:
         print(f"real photo unavailable for {field(front, 'celebrity')} ({e}); using an AI scene", file=sys.stderr)
         return None
@@ -371,13 +437,13 @@ def main():
     cfg_ = json.loads((ROOT / "config.json").read_text())
     pipe_ = cfg_.get("image_pipeline") or {}
     ai_on = cfg_.get("ai_images", True) is not False and bool(ACCOUNT and TOKEN)  # AI pictures need Cloudflare; real photos do not
-    if not ai_on and not (pipe_.get("real_photos") or pipe_.get("licensed_images")):
+    if not ai_on and not (pipe_.get("real_photos") or pipe_.get("licensed_images") or pipe_.get("credited_news_images")):
         print("AI images are off (or Cloudflare is not configured) and real photos are not enabled; no images generated.")
         return
     limit = int(sys.argv[sys.argv.index("--max") + 1]) if "--max" in sys.argv else 20
     out_dir = ROOT / "articles" / "images"
     now = datetime.now(timezone.utc)
-    real_on = bool(any((json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get(k) for k in ("real_photos", "licensed_images")))
+    real_on = bool(any((json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get(k) for k in ("real_photos", "licensed_images", "credited_news_images")))
     done = failed = 0
     today = now.strftime("%Y-%m-%d")
     try:
@@ -401,7 +467,7 @@ def main():
                     and f.stem in field(front, "wp_image") and now - datetime.strptime(f.stem[:16], "%Y-%m-%d-%H-%M").replace(tzinfo=timezone.utc) <= timedelta(days=REDO_DAYS))
         if (field(front, "wp_media_id") and not redo) or have or (not redo and not wants_image(field(front, "status"), f.stem, "--include-pending" in sys.argv, now)):
             continue
-        rp = licensed_photo(front) or real_photo(front)  # licensed press image first, then the real free-licence photo
+        rp = licensed_photo(front) or real_photo(front) or (None if redo else news_photo(front))  # licensed press image, then a free-licence photo, then (if allowed) a credited news picture
         if redo and not rp:
             continue
         if rp:  # a real, free-licence photo of the person beats any AI picture; no Cloudflare neurons used

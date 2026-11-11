@@ -1,0 +1,40 @@
+name: Hot people and movies
+# Weekly (and manual): who is hot / always popular (actors, directors, producers) from Wikipedia page views + Wikidata, then their films with
+# budget, box office, scope and critics' scores. Writes data/trending.json, data/movies.json and data/research/TRENDING.md + MOVIES.md; the dashboard
+# shows them in the "Hot people" and "Movies" tabs. Wikimedia throttles politely, so a run can take 20-40 minutes.
+on:
+  push:
+    branches: [feature/more-sources-hot-movies]   # TEMPORARY: registers the workflow for testing; removed before merge
+    paths: [".github/workflows/hot-people-movies.yml"]
+  workflow_dispatch:
+  schedule:
+    - cron: "43 2 * * 3"
+permissions:
+  contents: write
+concurrency: {group: repo-writes, cancel-in-progress: false}
+jobs:
+  hot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python -u agents/trending_people.py --top 30
+      - run: python -u agents/movies.py --max 60
+      - uses: actions/upload-artifact@v4
+        with:
+          name: hot-people-movies
+          path: |
+            data/trending.json
+            data/movies.json
+            data/research/TRENDING.md
+            data/research/MOVIES.md
+      - name: Commit lists and rebuild the dashboard
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "researcher-bot"
+          git config user.email "researcher-bot@users.noreply.github.com"
+          python agents/build_dashboard.py
+          git add data/trending.json data/movies.json data/research docs/index.html data/articles.json data/stories.json
+          git diff --cached --quiet || { git commit -m "Update hot people and movies" && bash scripts/push_retry.sh; }

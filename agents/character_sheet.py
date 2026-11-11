@@ -15,6 +15,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import commons_photos  # noqa: E402
+import openverse_photos  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 PATH = ROOT / "data" / "character-sheet.json"
@@ -25,6 +26,8 @@ def due(entry):
     """Does this person need (re)searching? Missing, built by the old method, or 'no free photo' found more than RECHECK_DAYS ago."""
     if not entry or entry.get("v") != commons_photos.VERSION:
         return True
+    if entry.get("ov") != openverse_photos.VERSION and len([p for p in entry.get("photos") or [] if p.get("source") != "openverse"]) < openverse_photos.ENOUGH:
+        return True  # Commons gave this person (almost) nothing and Openverse has not been searched yet
     if entry.get("status") == "ok":
         return False
     try:
@@ -53,8 +56,19 @@ def main(argv=None):
         if done >= limit:
             print("run limit reached; the next run continues")
             break
+        old = sheet.get(name)
         try:
-            entry = commons_photos.refresh(name)
+            if old and old.get("v") == commons_photos.VERSION and "--refresh" not in argv and old.get("ov") != openverse_photos.VERSION:
+                entry = dict(old)  # Commons part is current; only the Openverse step is missing
+            else:
+                entry = commons_photos.refresh(name)
+            commons_n = len(entry["photos"])
+            if commons_n < openverse_photos.ENOUGH:
+                extra = openverse_photos.refresh(name)
+                entry["photos"] = [p for p in entry["photos"] if p.get("source") != "openverse"] + extra
+                if entry["photos"]:
+                    entry["status"] = "ok"
+            entry["ov"] = openverse_photos.VERSION
         except commons_photos.FaceCheckUnavailable as e:
             print(f"STOP: {e}", file=sys.stderr)
             return 1
@@ -65,7 +79,7 @@ def main(argv=None):
         sheet[name] = entry
         done += 1
         top = entry["photos"][0] if entry["photos"] else None
-        print(f"{entry['status']:14} {name}: {len(entry['photos'])} photos (of {entry.get('examined', '?')} examined)" + (f" (best: {top['file']} | {top['license']} | {top['date']} | {top['width']}x{top['height']})" if top else ""), flush=True)
+        print(f"{entry['status']:14} {name}: {len(entry['photos'])} photos ({sum(1 for p in entry['photos'] if p.get('source') == 'openverse')} from Openverse; {entry.get('examined', '?')} Commons files examined)" + (f" (best: {top['file']} | {top['license']} | {top['date']} | {top['width']}x{top['height']})" if top else ""), flush=True)
         save(sheet)
     save(sheet)
     have = sum(1 for n in cfg["celebrities"] if (sheet.get(n) or {}).get("photos"))

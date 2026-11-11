@@ -173,6 +173,7 @@ details>div{padding:0 14px 12px}
 .check{display:flex;gap:8px;align-items:center;font-size:14px;margin:8px 0}
 @media(max-width:560px){.toolbar select{max-width:none;flex:1 1 140px}.stats{margin-left:0;width:100%}.bar-in{gap:10px}.actions{width:100%}.actions .btn{flex:1;justify-content:center}.arow .nm{min-width:0;flex-basis:100%}}
 @media(prefers-reduced-motion:no-preference){.top,.story,.who,.btn{transition:background .12s,border-color .12s}}
+.hlist{list-style:none;margin:8px 0 0;padding:0}.hrow{padding:10px 0;border-top:1px solid var(--line,#e5e5e5);display:grid;gap:3px}.hrow:first-child{border-top:0}.chip.ok{color:var(--ok);border-color:var(--ok)}
 </style>
 <header class="bar"><div class="wrap bar-in">
 <div class="brand"><div class="logo" id="logo">CN</div><div><h1 id="h1"></h1><div class="sub" id="upd"></div></div></div>
@@ -186,7 +187,7 @@ details>div{padding:0 14px 12px}
 <div class="people" id="people"></div>
 <div id="profile"></div>
 <div class="toolbar">
-<div class="seg" role="tablist"><button id="v-stories" class="on">Stories</button><button id="v-articles">Articles</button><button id="v-usage">Usage</button></div>
+<div class="seg" role="tablist"><button id="v-stories" class="on">Stories</button><button id="v-articles">Articles</button><button id="v-hot">Hot people</button><button id="v-movies">Movies</button><button id="v-usage">Usage</button></div>
 <div class="seg" id="pool-seg" role="tablist"><button id="p-recent" class="on">Last 48 hours</button><button id="p-archive">Archive</button></div>
 <input id="q" type="search" placeholder="Search headlines" aria-label="Search headlines">
 <select id="batch" aria-label="Run"></select>
@@ -419,11 +420,13 @@ const olderBtn=n=>n?'<div style="text-align:center;margin:16px 0"><button class=
 function wireOlder(){const b=$("show-old");if(b)b.onclick=()=>{showOld=true;render()}}
 function render(){
 usageBar();
-$("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");$("v-usage").classList.toggle("on",view==="usage");
+$("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");$("v-usage").classList.toggle("on",view==="usage");$("v-hot").classList.toggle("on",view==="hot");$("v-movies").classList.toggle("on",view==="movies");
 ["q","batch","src","when","sort"].forEach(i=>$(i).hidden=view!=="stories");
 $("pool-seg").hidden=view!=="stories";
-[document.querySelector(".peoplebar"),$("people"),$("profile")].forEach(e=>{if(e)e.hidden=view==="usage"});
+[document.querySelector(".peoplebar"),$("people"),$("profile")].forEach(e=>{if(e)e.hidden=view==="usage"||view==="hot"||view==="movies"});
 if(view==="usage"){$("top").innerHTML="";$("list").innerHTML=usageView();return}
+if(view==="hot"){$("top").innerHTML="";$("list").innerHTML=hotView();return}
+if(view==="movies"){$("top").innerHTML="";$("list").innerHTML=moviesView();return}
 $("p-recent").classList.toggle("on",pool==="recent");$("p-archive").classList.toggle("on",pool==="archive");
 $("p-recent").textContent="Last "+(D.dashboard_hours||48)+" hours ("+D.leads.filter(isRecent).length+")";$("p-archive").textContent="Archive ("+D.leads.filter(l=>!isRecent(l)).length+")";
 batchOptions();people();profile();
@@ -461,8 +464,26 @@ $("list").innerHTML=Object.keys(g).sort().map(k=>'<h2 class="sec">'+esc(k)+' <sp
 ["q","src","when","sort"].forEach(i=>$(i).oninput=render);
 $("batch").onchange=()=>{batch=$("batch").value;render()};
 $("p-recent").onclick=()=>{pool="recent";render()};$("p-archive").onclick=()=>{pool="archive";render()};
-$("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};$("v-usage").onclick=()=>{view="usage";render()};
+$("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};$("v-usage").onclick=()=>{view="usage";render()};$("v-hot").onclick=()=>{view="hot";render()};$("v-movies").onclick=()=>{view="movies";render()};
 
+
+
+/* --- Hot people and Movies views (data/trending.json and data/movies.json, built weekly from Wikipedia + Wikidata) --- */
+const mon=n=>!n?"-":n>=1e9?"$"+(n/1e9).toFixed(2)+"B":n>=1e6?"$"+Math.round(n/1e6)+"M":"$"+Math.round(n/1e3)+"k";
+const hotRow=r=>'<li class="hrow"><div><a href="'+esc(r.wikipedia)+'" target="_blank" rel="noopener"><b>'+esc(r.name)+'</b></a> <span class="chip">'+esc(r.roles.join(" · "))+'</span>'+(r.tracked?' <span class="chip ok">tracked</span>':' <span class="chip">not tracked</span>')+(r.australian?' <span class="chip">Australian</span>':"")+'</div>'+
+'<div class="muted small">'+esc(r.description||"")+'</div><div class="small">'+kf(r.views_7d)+' Wikipedia views this week'+(r.trend?' · trend '+(r.trend>=2?'spiking ':r.trend>=1.3?'rising ':'')+'×'+r.trend:"")+'</div>'+
+((r.films||[]).length?'<div class="small">Films: '+r.films.slice(0,4).map(f=>esc(f.title)+' <span class="muted">('+esc(f.date)+')</span>').join(" · ")+'</div>':"")+'</li>';
+function hotView(){const H=D.hot||{};if(!H.hot_now)return'<div class="empty">No list yet. Run the "Hot people and movies" workflow (Actions tab) once; it then refreshes every week.</div>';
+const sec=(t,k,n)=>'<section class="ucard"><h2>'+t+'</h2><ul class="hlist">'+(H[k]||[]).slice(0,n||15).map(hotRow).join("")+'</ul></section>';
+return'<div class="muted small" style="margin:8px 0">Built '+esc(H.updated)+' from Wikipedia\'s most-viewed pages and Wikidata. People marked "not tracked" are not in your celebrity list yet.</div>'+sec("In the news right now","hot_now")+sec("Always popular","always_popular")+sec("Directors, producers and writers to watch","filmmakers")}
+const critic=c=>{c=c||{};const t=[c.rotten_tomatoes?'Rotten Tomatoes '+esc(c.rotten_tomatoes):"",c.metacritic?'Metacritic '+esc(c.metacritic):""].filter(Boolean).join(" · ");return(t?'<div class="small">'+t+'</div>':"")+(c.consensus?'<div class="small"><i>"'+esc(c.consensus)+'"</i></div>':"")+(c.overview?'<div class="muted small">'+esc(c.overview)+'</div>':"")};
+const movRow=f=>'<li class="hrow"><div><b>'+esc(f.title)+'</b> <span class="chip">'+esc(f.release)+'</span> '+(f.verdict?'<span class="chip '+(f.verdict==="Hit"?"ok":"")+'">'+esc(f.verdict)+'</span>':"")+(f.scale?' <span class="chip">'+esc(f.scale)+'</span>':"")+'</div>'+
+'<div class="small">'+(f.director.length?'Directed by '+esc(f.director.join(", "))+' · ':"")+(f.cast.length?'with '+esc(f.cast.slice(0,4).join(", ")):"")+'</div>'+
+'<div class="small">Budget '+mon(f.budget)+' · Box office '+mon(f.gross)+(f.multiple?' ('+f.multiple+'× budget)':"")+(f.countries.length?' · '+esc(f.countries.slice(0,3).join(", ")):"")+'</div>'+critic(f.critics)+
+'<div class="muted small">Sources: '+Object.entries(f.sources||{}).map(([k,u])=>'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(k)+'</a>').join(" · ")+(f.people&&f.people.length?' · in the news: '+esc(f.people.slice(0,3).join(", ")):"")+'</div></li>';
+function moviesView(){const M=D.movies||{};if(!(M.films||[]).length)return'<div class="empty">No movies yet. Run the "Hot people and movies" workflow (Actions tab) once.</div>';
+const today=new Date().toISOString().slice(0,10),up=M.films.filter(f=>f.release>today).sort((a,b)=>a.release<b.release?-1:1),out=M.films.filter(f=>f.release<=today).sort((a,b)=>(b.gross||0)-(a.gross||0));
+return'<div class="muted small" style="margin:8px 0">Built '+esc(M.updated)+'. Figures from Wikidata and Wikipedia (CC BY-SA), in US dollars. Scope = budget size; verdict = box office against budget.</div><section class="ucard"><h2>Coming soon</h2><ul class="hlist">'+up.map(movRow).join("")+'</ul></section><section class="ucard"><h2>Out now &amp; recent (by box office)</h2><ul class="hlist">'+out.map(movRow).join("")+'</ul></section>'}
 
 /* --- Usage view: Cloudflare neuron estimates per account, and Claude tokens spent writing articles --- */
 const nf=n=>(+n||0).toLocaleString("en-AU");

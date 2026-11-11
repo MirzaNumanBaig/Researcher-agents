@@ -125,6 +125,8 @@ data = {
     "updated": datetime.now(timezone.utc).isoformat(),
     "leads": stories,
     "wp": json.loads((ROOT / "data" / "wp_sync.json").read_text()) if (ROOT / "data" / "wp_sync.json").exists() else None,
+    "hot": json.loads((ROOT / "data" / "trending.json").read_text()) if (ROOT / "data" / "trending.json").exists() else None,    # Hot people view
+    "movies": json.loads((ROOT / "data" / "movies.json").read_text()) if (ROOT / "data" / "movies.json").exists() else None,    # Movies view
     "neurons": usage_stats.neuron_summary(ROOT, cfg),       # Usage view: Cloudflare neuron estimates per account
     "claude_usage": usage_stats.claude_summary(ROOT),       # Usage view: Claude tokens spent on writing articles
 }
