@@ -15,15 +15,16 @@ image_prompt: "An empty boxing gym in warm afternoon light, with hanging heavy b
 sources:
   - "https://www.lokmattimes.com/entertainment/chris-hemsworth-relives-childhood-memories-trains-kids-like-his-father-did-a001-w02/"
   - "https://www.socialnews.xyz/2026/11/04/chris-hemsworth-relives-childhood-memories-with-father-as-he-enjoys-training-sessions-with-his-own-kids/"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
 image: "images/2026-11-05-18-00-chris-hemsworth.webp"
-wp_media_id: 1585
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-05-18-00-chris-hemsworth-768x432.webp"
 wp_id: 1586
 wp_link: "https://moduscarry.com/chris-hemsworth-boxing-kids/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1585
 ---
 
 **Quick summary**

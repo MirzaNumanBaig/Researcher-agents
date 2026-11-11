@@ -28,6 +28,7 @@ wp_id: 1827
 wp_link: "https://moduscarry.com/alexander-skarsgard-the-confessions/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

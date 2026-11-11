@@ -15,15 +15,16 @@ image_prompt: "A dark luxury boutique window at dusk with a velvet display stand
 sources:
   - "https://www.gaytimes.com/heated-rivalrys-hudson-williams-stars-in-balenciagas-new-campaign/"
   - "https://www.out.com/celebs/hudson-williams-bulgari-photo-shoot"
-image_alt: "Illustration of a woman in fashion runway or campaign shoot, lit by daytime, studio lights."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-11-06-03-00-hudson-williams.webp"
-wp_media_id: 1603
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-03-00-hudson-williams-768x432.webp"
 wp_id: 1604
 wp_link: "https://moduscarry.com/hudson-williams-brand-deals/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(21).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(21).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1603
 ---
 
 **Quick summary**

@@ -16,15 +16,16 @@ sources:
   - "https://variety.com/2026/film/festivals/pamela-anderson-torino-film-festival-lifetime-achievement-award-1236940049/"
   - "https://www.ansa.it/english/news/lifestyle/arts/2026/11/05/john-travolta-pamela-anderson-and-fanny-ardant-at-the-turin-film_48d3d311-3972-4377-ac80-65e2835c62ef.html"
   - "https://thechenabtimes.com/2026/11/05/pamela-anderson-to-receive-lifetime-achievement-award-at-torino-film-festival/"
-image_alt: "Illustration of film festival with a person and Torino Film Festival, lit by daytime, festival lights."
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
 image: "images/2026-11-06-03-00-pamela-anderson.webp"
-wp_media_id: 1613
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-03-00-pamela-anderson-768x432.webp"
 wp_id: 1614
 wp_link: "https://moduscarry.com/pamela-anderson-torino-film-festival/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1613
 ---
 
 **Quick summary**
