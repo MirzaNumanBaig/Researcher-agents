@@ -1,0 +1,662 @@
+{
+ "updated": "2026-11-11",
+ "films": [
+  {
+   "qid": "Q135196186",
+   "title": "Ramayana: Rise of a Legend",
+   "release": "2026-11-08",
+   "director": [
+    "Nitesh Tiwari"
+   ],
+   "cast": [
+    "Sai Pallavi",
+    "Yash"
+   ],
+   "producers": [],
+   "language": [
+    "Hindi"
+   ],
+   "countries": [
+    "India"
+   ],
+   "genres": [
+    "epic film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "Ramayana: Part 1",
+   "critics": {
+    "rotten_tomatoes": "77%",
+    "metacritic": "58/100",
+    "overview": "While DNA India and The Economic Times characterised the reviews as positive, and The Indian Express deemed those as \"largely positive\", BBC News summarised that the film received mixed reviews. Audiences surveyed by PostTrak gave the film an 86% positive score, with 75% saying they would definitely recommend it."
+   },
+   "scale": "",
+   "verdict": "Too early",
+   "multiple": null,
+   "people": [
+    "Nitesh Tiwari",
+    "Sai Pallavi",
+    "Yash"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135196186",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramayana:_Part_1"
+   }
+  },
+  {
+   "qid": "Q141430687",
+   "title": "The Last Kiss",
+   "release": "2026-09-15",
+   "director": [
+    "Yoko Okumura"
+   ],
+   "cast": [
+    "Mckenna Grace",
+    "Jaden Michael"
+   ],
+   "producers": [],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "slasher film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "The Last Kiss (2026 film)",
+   "critics": {},
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [
+    "Mckenna Grace"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q141430687",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Kiss_(2026_film)"
+   }
+  },
+  {
+   "qid": "Q136231215",
+   "title": "The Take",
+   "release": "2027-01-15",
+   "director": [
+    "Fernando Meirelles"
+   ],
+   "cast": [
+    "Robert Pattinson",
+    "Daisy Edgar-Jones",
+    "Danai Gurira",
+    "Sean Harris",
+    "Moisés Arias"
+   ],
+   "producers": [],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "heist film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "The Take (2027 film)",
+   "critics": {},
+   "scale": "",
+   "verdict": "Upcoming",
+   "multiple": null,
+   "people": [
+    "Robert Pattinson"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+   }
+  },
+  {
+   "qid": "Q141336617",
+   "title": "You Can See Everything",
+   "release": "2026-09-06",
+   "director": [
+    "Lance Oppenheim",
+    "Nathan Fielder"
+   ],
+   "cast": [
+    "Elizabeth Holmes",
+    "Nathan Fielder",
+    "Christopher Abbott"
+   ],
+   "producers": [
+    "Nathan Fielder",
+    "Lance Oppenheim",
+    "Tatiana Bears",
+    "Maggie Ambrose"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "documentary film"
+   ],
+   "budget": 7000000,
+   "gross": 80000000,
+   "wikipedia": "You Can See Everything",
+   "critics": {
+    "rotten_tomatoes": "96% from 209 reviews",
+    "metacritic": "97/100 from 42 critics",
+    "consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+    "overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\"."
+   },
+   "scale": "Indie / low budget",
+   "verdict": "Hit",
+   "multiple": 11.43,
+   "people": [
+    "Nathan Fielder"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+    "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+   }
+  },
+  {
+   "qid": "Q133273688",
+   "title": "Primetime",
+   "release": "2026-09-05",
+   "director": [
+    "Lance Oppenheim"
+   ],
+   "cast": [
+    "Robert Pattinson",
+    "Phoebe Bridgers",
+    "Merritt Wever",
+    "Sean Bridgers",
+    "Skyler Gisondo",
+    "Matthew Maher"
+   ],
+   "producers": [
+    "Robert Pattinson",
+    "Ari Aster",
+    "Fred Berger"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "biographical film",
+    "psychological thriller",
+    "crime thriller film"
+   ],
+   "budget": 14500000,
+   "gross": 62000000,
+   "wikipedia": "Primetime (film)",
+   "critics": {
+    "rotten_tomatoes": "86%",
+    "metacritic": "68/100 from 54 critics",
+    "consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+    "overview": "Robert Pattinson received widespread acclaim from critics for his performance. Yet it’s hard to know to what end, or to care.\" Nicholas Barber of the BBC gave the film 5 out of 5 stars, calling Pattinson's performance \"extraordinary\" and \"the best performance yet from the most intriguing actor of his generation\"."
+   },
+   "scale": "Indie / low budget",
+   "verdict": "Hit",
+   "multiple": 4.28,
+   "people": [
+    "Robert Pattinson"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+    "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
+   }
+  },
+  {
+   "qid": "Q137722359",
+   "title": "Elsinore",
+   "release": "2026-09-04",
+   "director": [
+    "Simon Stone"
+   ],
+   "cast": [
+    "Andrew Scott",
+    "Olivia Colman",
+    "Billie Piper",
+    "Johnny Flynn",
+    "Luke Thompson",
+    "Monica Dolan"
+   ],
+   "producers": [],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United Kingdom",
+    "United States"
+   ],
+   "genres": [
+    "biographical film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "Elsinore (film)",
+   "critics": {
+    "rotten_tomatoes": "89%",
+    "metacritic": "73/100 from 18 critics",
+    "overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving."
+   },
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [
+    "Johnny Flynn"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137722359",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
+   }
+  },
+  {
+   "qid": "Q135906833",
+   "title": "One Night Only",
+   "release": "2026-08-07",
+   "director": [
+    "Will Gluck"
+   ],
+   "cast": [
+    "Monica Barbaro",
+    "Callum Turner",
+    "Molly Ringwald",
+    "LeVar Burton",
+    "Maya Hawke",
+    "Julia Fox"
+   ],
+   "producers": [],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "romantic comedy film",
+    "science fiction"
+   ],
+   "budget": 25000000,
+   "gross": 25200000,
+   "wikipedia": "One Night Only (2026 film)",
+   "critics": {
+    "rotten_tomatoes": "44%",
+    "metacritic": "42/100 from 36 critics",
+    "consensus": "Hampered by a high-concept premise that's full of red flags, One Night Only has charming moments thanks to its appealing stars but keeps killing the mood with world-building that prompts more questions than the script is willing to answer.",
+    "overview": "It opened to… Less than Jackass: Best and Last. Some critics wrote that the film's premise of a dystopia ruled by conservative capitalists was interesting and relevant to current events in the United States, but found that the implementation was nonsensical and distracting."
+   },
+   "scale": "Mid-budget",
+   "verdict": "Weak",
+   "multiple": 1.01,
+   "people": [
+    "Callum Turner"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135906833",
+    "wikipedia": "https://en.wikipedia.org/wiki/One_Night_Only_(2026_film)"
+   }
+  },
+  {
+   "qid": "Q139596561",
+   "title": "Unabomber",
+   "release": "2026-09-25",
+   "director": [
+    "Janus Metz Pedersen"
+   ],
+   "cast": [
+    "Jacob Tremblay",
+    "Russell Crowe",
+    "Shailene Woodley",
+    "Annabelle Wallis",
+    "Alexander Ludwig",
+    "Steven Ogg"
+   ],
+   "producers": [],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "drama film",
+    "biographical film",
+    "thriller film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "Unabomber (film)",
+   "critics": {
+    "rotten_tomatoes": "25%",
+    "metacritic": "46/100 from 18 critics",
+    "consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+    "overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\"."
+   },
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+    "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+   }
+  },
+  {
+   "qid": "Q141559767",
+   "title": "Butterfly",
+   "release": "2026-09-25",
+   "director": [
+    "Itonje Søimer Guttormsen"
+   ],
+   "cast": [
+    "Renate Reinsve",
+    "Numan Acar"
+   ],
+   "producers": [],
+   "language": [],
+   "countries": [
+    "Norway"
+   ],
+   "genres": [],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "",
+   "critics": {},
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q141559767"
+   }
+  },
+  {
+   "qid": "Q136428318",
+   "title": "Love of Your Life",
+   "release": "2026-09-13",
+   "director": [
+    "Rachel Morrison"
+   ],
+   "cast": [
+    "Margaret Qualley",
+    "Patrick Schwarzenegger",
+    "Aaron Pierre",
+    "Gabriel Basso",
+    "Catherine Keener",
+    "Tamara Lawrance"
+   ],
+   "producers": [
+    "Ryan Gosling",
+    "Jessie Henderson"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "romantic drama film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "Love of Your Life (film)",
+   "critics": {
+    "rotten_tomatoes": "80% from 55 reviews",
+    "metacritic": "62/100 from 14 critics",
+    "consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak."
+   },
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+    "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+   }
+  },
+  {
+   "qid": "Q137380437",
+   "title": "Babies",
+   "release": "2026-09-12",
+   "director": [
+    "Lauren Miller"
+   ],
+   "cast": [
+    "Anna Kendrick",
+    "Seth Rogen",
+    "Issa Rae",
+    "Dan Stevens",
+    "Zach Cherry",
+    "Kate Berlant"
+   ],
+   "producers": [],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "comedy drama"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "Babies (2026 film)",
+   "critics": {},
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137380437",
+    "wikipedia": "https://en.wikipedia.org/wiki/Babies_(2026_film)"
+   }
+  },
+  {
+   "qid": "Q124743667",
+   "title": "Mayday",
+   "release": "2026-09-04",
+   "director": [
+    "Jonathan Goldstein",
+    "John Francis Daley"
+   ],
+   "cast": [
+    "Ryan Reynolds",
+    "Kenneth Branagh",
+    "Maria Bakalova",
+    "Marcin Dorociński",
+    "Lovell Adams-Gray",
+    "Clark Johnson"
+   ],
+   "producers": [
+    "David Ellison",
+    "Don Granger",
+    "Ryan Reynolds"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "action-adventure film",
+    "action comedy film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "Mayday (2026 film)",
+   "critics": {
+    "rotten_tomatoes": "83%",
+    "metacritic": "60/100 from 24 critics",
+    "consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+    "overview": "Archived from the original on October 3, 2026."
+   },
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+   }
+  },
+  {
+   "qid": "Q131901398",
+   "title": "Practical Magic 2",
+   "release": "2026-08-26",
+   "director": [
+    "Susanne Bier"
+   ],
+   "cast": [
+    "Sandra Bullock",
+    "Nicole Kidman",
+    "Stockard Channing",
+    "Dianne Wiest",
+    "Joey King",
+    "Xolo Maridueña"
+   ],
+   "producers": [
+    "Denise Di Novi",
+    "Sandra Bullock",
+    "Nicole Kidman"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "romance film",
+    "fantasy film"
+   ],
+   "budget": 75000000,
+   "gross": 106000000,
+   "wikipedia": "Practical Magic 2",
+   "critics": {
+    "rotten_tomatoes": "36%",
+    "metacritic": "44/100 from 41 critics",
+    "consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+    "overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans."
+   },
+   "scale": "Big studio",
+   "verdict": "Weak",
+   "multiple": 1.41,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+    "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+   }
+  },
+  {
+   "qid": "Q132256832",
+   "title": "The Dog Stars",
+   "release": "2026-08-26",
+   "director": [
+    "Ridley Scott"
+   ],
+   "cast": [
+    "Jacob Elordi",
+    "Margaret Qualley",
+    "Josh Brolin",
+    "Guy Pearce",
+    "Benedict Wong",
+    "Allison Janney"
+   ],
+   "producers": [
+    "Scott Aversano",
+    "Peter Heller"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United Kingdom",
+    "United States"
+   ],
+   "genres": [
+    "post-apocalyptic film",
+    "science fiction film",
+    "drama film"
+   ],
+   "budget": 70000000,
+   "gross": 39000000,
+   "wikipedia": "The Dog Stars (film)",
+   "critics": {
+    "rotten_tomatoes": "41%",
+    "metacritic": "49/100 from 46 critics",
+    "consensus": "A derivative and drowsy tour through the post-apocalypse, The Dog Stars' lush visuals can't compensate for its listless narrative and underpowered pacing.",
+    "overview": "In the United States and Canada, The Dog Stars was released alongside Buddy, Coyote vs. Robert Daniels of RogerEbert.com gave the film one and a half out of four stars, writing, \"It probably takes more effort to make a boring post-apocalyptic survivalist action film than to make a good one."
+   },
+   "scale": "Big studio",
+   "verdict": "Weak",
+   "multiple": 0.56,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q132256832",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Dog_Stars_(film)"
+   }
+  },
+  {
+   "qid": "Q132560837",
+   "title": "The Wrong Girls",
+   "release": "2026-08-14",
+   "director": [
+    "Dylan Meyer"
+   ],
+   "cast": [
+    "Alia Shawkat",
+    "LaKeith Stanfield",
+    "Zack Fox",
+    "Tony Hale",
+    "Kumail Nanjiani",
+    "Kristen Stewart"
+   ],
+   "producers": [
+    "Seth Rogen",
+    "Evan Goldberg"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "stoner film",
+    "comedy film"
+   ],
+   "budget": null,
+   "gross": 887116,
+   "wikipedia": "The Wrong Girls",
+   "critics": {
+    "rotten_tomatoes": "61%",
+    "metacritic": "59/100 from 20 critics",
+    "consensus": "Proudly stupid and surprisingly sweet, The Wrong Girls coasts on Kristen Stewart and Alia Shawkat's chemistry, even as its barrage of stoner gags produces more genial laughs than truly memorable ones.",
+    "overview": "Archived from the original on August 15, 2026."
+   },
+   "scale": "",
+   "verdict": "Grossed $887k",
+   "multiple": null,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q132560837",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Wrong_Girls"
+   }
+  }
+ ]
+}
