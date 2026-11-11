@@ -11455,6 +11455,22 @@
    "turns": 6,
    "seconds": 16,
    "cost_usd": 0.0962
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T19:29:33+00:00",
+   "batch": "2026-11-12 05:00",
+   "celebrity": "Scarlett Johansson",
+   "article": "2026-11-12-05-00-scarlett-johansson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 4705,
+   "cache_read_tokens": 196607,
+   "cache_write_tokens": 27640,
+   "turns": 10,
+   "seconds": 39,
+   "cost_usd": 0.1774
   }
  ]
 }
