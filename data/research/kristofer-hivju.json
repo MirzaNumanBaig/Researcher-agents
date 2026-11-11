@@ -1,0 +1,231 @@
+{
+ "name": "Kristofer Hivju",
+ "qid": "Q6438398",
+ "description": "Norwegian actor",
+ "wikipedia_editions": 33,
+ "born": "1978-12-07",
+ "birthplace": "Oslo",
+ "occupations": [
+  "actor",
+  "screenwriter",
+  "film director",
+  "television actor",
+  "musician"
+ ],
+ "relationships": [
+  {
+   "name": "Gry Molvær Hivju",
+   "qid": "Q17105220",
+   "kind": "spouse",
+   "start": "2015-08-22",
+   "end": "",
+   "ended_by": "",
+   "fame": 3
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Afterburn",
+   "qid": "Q124814444",
+   "date": "2025-09-19",
+   "type": "film",
+   "directors": [
+    "J. J. Perry"
+   ]
+  },
+  {
+   "title": "Long Distance",
+   "qid": "Q104861381",
+   "date": "2025-07-03",
+   "type": "film",
+   "directors": [
+    "Will Speck",
+    "Josh Gordon"
+   ]
+  },
+  {
+   "title": "Red One",
+   "qid": "Q114876737",
+   "date": "2024-11-15",
+   "type": "film",
+   "directors": [
+    "Jake Kasdan"
+   ]
+  },
+  {
+   "title": "Beck – Inferno",
+   "qid": "Q121066016",
+   "date": "2023-07-01",
+   "type": "television film",
+   "directors": [
+    "Pontus Klänge"
+   ]
+  },
+  {
+   "title": "Beck – Quid Pro Quo",
+   "qid": "Q116772009",
+   "date": "2023-03-17",
+   "type": "television film",
+   "directors": [
+    "Pontus Klänge"
+   ]
+  },
+  {
+   "title": "Cocaine Bear",
+   "qid": "Q105840301",
+   "date": "2023-03-15",
+   "type": "film",
+   "directors": [
+    "Elizabeth Banks"
+   ]
+  },
+  {
+   "title": "Three Wishes For Cinderella",
+   "qid": "Q105642651",
+   "date": "2022-11-18",
+   "type": "film",
+   "directors": [
+    "Cecilie Mosli"
+   ]
+  },
+  {
+   "title": "Beck – Rage Room",
+   "qid": "Q110267950",
+   "date": "2022-01-21",
+   "type": "television film",
+   "directors": [
+    "Pontus Klänge"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Pontus Klänge",
+   "projects": 3
+  },
+  {
+   "name": "J. J. Perry",
+   "projects": 1
+  },
+  {
+   "name": "Will Speck",
+   "projects": 1
+  },
+  {
+   "name": "Josh Gordon",
+   "projects": 1
+  },
+  {
+   "name": "Jake Kasdan",
+   "projects": 1
+  },
+  {
+   "name": "Elizabeth Banks",
+   "projects": 1
+  },
+  {
+   "name": "Cecilie Mosli",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Peter Haber",
+   "qid": "Q1437612",
+   "projects": 9,
+   "fame": 17
+  },
+  {
+   "name": "Jonas Karlsson",
+   "qid": "Q1339383",
+   "projects": 6,
+   "fame": 17
+  },
+  {
+   "name": "Nathalie Emmanuel",
+   "qid": "Q6968794",
+   "projects": 4,
+   "fame": 42
+  },
+  {
+   "name": "Martin Wallström",
+   "qid": "Q6231549",
+   "projects": 4,
+   "fame": 20
+  },
+  {
+   "name": "Maisie Williams",
+   "qid": "Q234363",
+   "projects": 3,
+   "fame": 59
+  },
+  {
+   "name": "Emilia Clarke",
+   "qid": "Q235132",
+   "projects": 3,
+   "fame": 94
+  },
+  {
+   "name": "Sophie Turner",
+   "qid": "Q240573",
+   "projects": 3,
+   "fame": 73
+  },
+  {
+   "name": "Peter Dinklage",
+   "qid": "Q310937",
+   "projects": 3,
+   "fame": 90
+  },
+  {
+   "name": "Kit Harington",
+   "qid": "Q357607",
+   "projects": 3,
+   "fame": 72
+  },
+  {
+   "name": "Iain Glen",
+   "qid": "Q371430",
+   "projects": 3,
+   "fame": 45
+  },
+  {
+   "name": "Gwendoline Christie",
+   "qid": "Q440353",
+   "projects": 3,
+   "fame": 52
+  },
+  {
+   "name": "Nikolaj Coster-Waldau",
+   "qid": "Q445772",
+   "projects": 3,
+   "fame": 54
+  },
+  {
+   "name": "Liam Cunningham",
+   "qid": "Q460572",
+   "projects": 3,
+   "fame": 42
+  },
+  {
+   "name": "Alfie Allen",
+   "qid": "Q552026",
+   "projects": 3,
+   "fame": 42
+  },
+  {
+   "name": "Rory McCann",
+   "qid": "Q971177",
+   "projects": 3,
+   "fame": 32
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

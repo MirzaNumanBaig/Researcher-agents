@@ -1,0 +1,134 @@
+{
+ "name": "The Kid LAROI",
+ "qid": "Q82890761",
+ "description": "Australian rapper and singer (born 2003)",
+ "wikipedia_editions": 32,
+ "born": "2003-08-17",
+ "birthplace": "Waterloo",
+ "occupations": [
+  "rapper",
+  "singer",
+  "songwriter",
+  "record producer",
+  "actor",
+  "fashion designer"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Y2K",
+   "qid": "Q117481301",
+   "date": "2024-12-06",
+   "type": "film",
+   "directors": [
+    "Kyle Mooney"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Kyle Mooney",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Fred Durst",
+   "qid": "Q44707",
+   "projects": 1,
+   "fame": 46
+  },
+  {
+   "name": "Alicia Silverstone",
+   "qid": "Q199945",
+   "projects": 1,
+   "fame": 69
+  },
+  {
+   "name": "Q818048",
+   "qid": "Q818048",
+   "projects": 1,
+   "fame": 35
+  },
+  {
+   "name": "Q3457235",
+   "qid": "Q3457235",
+   "projects": 1,
+   "fame": 15
+  },
+  {
+   "name": "Tim Heidecker",
+   "qid": "Q7803640",
+   "projects": 1,
+   "fame": 18
+  },
+  {
+   "name": "Kyle Mooney",
+   "qid": "Q16223299",
+   "projects": 1,
+   "fame": 18
+  },
+  {
+   "name": "Jaeden Martell",
+   "qid": "Q19019158",
+   "projects": 1,
+   "fame": 42
+  },
+  {
+   "name": "Julian Dennison",
+   "qid": "Q24189388",
+   "projects": 1,
+   "fame": 20
+  },
+  {
+   "name": "Mason Gooding",
+   "qid": "Q47015205",
+   "projects": 1,
+   "fame": 24
+  },
+  {
+   "name": "Miles Robbins",
+   "qid": "Q47508276",
+   "projects": 1,
+   "fame": 15
+  },
+  {
+   "name": "Q52151598",
+   "qid": "Q52151598",
+   "projects": 1,
+   "fame": 51
+  },
+  {
+   "name": "Lachlan Watson",
+   "qid": "Q59574383",
+   "projects": 1,
+   "fame": 16
+  },
+  {
+   "name": "Rachel Zegler",
+   "qid": "Q61693947",
+   "projects": 1,
+   "fame": 54
+  },
+  {
+   "name": "Polo G",
+   "qid": "Q62953486",
+   "projects": 1,
+   "fame": 33
+  },
+  {
+   "name": "Eduardo Franco",
+   "qid": "Q63366389",
+   "projects": 1,
+   "fame": 18
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

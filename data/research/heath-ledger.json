@@ -1,0 +1,129 @@
+{
+ "name": "Heath Ledger",
+ "qid": "Q40572",
+ "description": "Australian actor (1979–2008)",
+ "wikipedia_editions": 110,
+ "born": "1979-04-04",
+ "birthplace": "Perth",
+ "occupations": [
+  "television actor",
+  "film director",
+  "film actor",
+  "character actor",
+  "actor",
+  "music video director"
+ ],
+ "relationships": [
+  {
+   "name": "Michelle Williams",
+   "qid": "Q156796",
+   "kind": "partner",
+   "start": "2004-00-00",
+   "end": "2007-10-00",
+   "ended_by": "",
+   "fame": 70
+  }
+ ],
+ "family": {
+  "children_recorded": 1,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [],
+ "directors": [],
+ "costars": [
+  {
+   "name": "Q23891",
+   "qid": "Q23891",
+   "projects": 1,
+   "fame": 126
+  },
+  {
+   "name": "Johnny Depp",
+   "qid": "Q37175",
+   "projects": 1,
+   "fame": 149
+  },
+  {
+   "name": "Jude Law",
+   "qid": "Q160432",
+   "projects": 1,
+   "fame": 90
+  },
+  {
+   "name": "Colin Farrell",
+   "qid": "Q172035",
+   "projects": 1,
+   "fame": 77
+  },
+  {
+   "name": "Tom Waits",
+   "qid": "Q184805",
+   "projects": 1,
+   "fame": 67
+  },
+  {
+   "name": "Christopher Plummer",
+   "qid": "Q190523",
+   "projects": 1,
+   "fame": 104
+  },
+  {
+   "name": "Lily Cole",
+   "qid": "Q235455",
+   "projects": 1,
+   "fame": 34
+  },
+  {
+   "name": "Paloma Faith",
+   "qid": "Q240324",
+   "projects": 1,
+   "fame": 36
+  },
+  {
+   "name": "Verne Troyer",
+   "qid": "Q271471",
+   "projects": 1,
+   "fame": 58
+  },
+  {
+   "name": "Peter Stormare",
+   "qid": "Q295148",
+   "projects": 1,
+   "fame": 42
+  },
+  {
+   "name": "Gwendoline Christie",
+   "qid": "Q440353",
+   "projects": 1,
+   "fame": 52
+  },
+  {
+   "name": "Peter New",
+   "qid": "Q3176414",
+   "projects": 1,
+   "fame": 33
+  },
+  {
+   "name": "Christian Bale",
+   "qid": "Q45772",
+   "projects": 1,
+   "fame": 99
+  },
+  {
+   "name": "Morgan Freeman",
+   "qid": "Q48337",
+   "projects": 1,
+   "fame": 129
+  },
+  {
+   "name": "Gary Oldman",
+   "qid": "Q83492",
+   "projects": 1,
+   "fame": 104
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

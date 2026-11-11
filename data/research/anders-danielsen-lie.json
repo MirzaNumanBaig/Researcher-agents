@@ -1,0 +1,204 @@
+{
+ "name": "Anders Danielsen Lie",
+ "qid": "Q4753762",
+ "description": "Norwegian actor and musician (born 1979)",
+ "wikipedia_editions": 19,
+ "born": "1979-01-01",
+ "birthplace": "Oslo",
+ "occupations": [
+  "actor",
+  "musician",
+  "physician",
+  "author",
+  "writer"
+ ],
+ "relationships": [
+  {
+   "name": "Iselin Steiro",
+   "qid": "Q2419983",
+   "kind": "spouse",
+   "start": "",
+   "end": "",
+   "ended_by": "",
+   "fame": 9
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Sentimental Value",
+   "qid": "Q130284179",
+   "date": "2026-04-23",
+   "type": "film",
+   "directors": [
+    "Joachim Trier"
+   ]
+  },
+  {
+   "title": "Everybody Digs Bill Evans",
+   "qid": "Q136087547",
+   "date": "2026-02-13",
+   "type": "film",
+   "directors": [
+    "Grant Gee"
+   ]
+  },
+  {
+   "title": "The Summer Book",
+   "qid": "Q117712753",
+   "date": "2025-01-31",
+   "type": "film",
+   "directors": [
+    "Charlie McDowell"
+   ]
+  },
+  {
+   "title": "Mothers’ Instinct",
+   "qid": "Q112182515",
+   "date": "2024-05-30",
+   "type": "film",
+   "directors": [
+    "Benoît Delhomme"
+   ]
+  },
+  {
+   "title": "Sick of Myself",
+   "qid": "Q114000704",
+   "date": "2023-05-31",
+   "type": "film",
+   "directors": [
+    "Kristoffer Borgli"
+   ]
+  },
+  {
+   "title": "The Worst Person in the World",
+   "qid": "Q107089587",
+   "date": "2022-06-16",
+   "type": "film",
+   "directors": [
+    "Joachim Trier"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Joachim Trier",
+   "projects": 2
+  },
+  {
+   "name": "Grant Gee",
+   "projects": 1
+  },
+  {
+   "name": "Charlie McDowell",
+   "projects": 1
+  },
+  {
+   "name": "Benoît Delhomme",
+   "projects": 1
+  },
+  {
+   "name": "Kristoffer Borgli",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Laure Calamy",
+   "qid": "Q3218747",
+   "projects": 2,
+   "fame": 22
+  },
+  {
+   "name": "Renate Reinsve",
+   "qid": "Q28718257",
+   "projects": 2,
+   "fame": 44
+  },
+  {
+   "name": "Stellan Skarsgård",
+   "qid": "Q208667",
+   "projects": 1,
+   "fame": 65
+  },
+  {
+   "name": "Elle Fanning",
+   "qid": "Q228943",
+   "projects": 1,
+   "fame": 71
+  },
+  {
+   "name": "Lena Endre",
+   "qid": "Q270559",
+   "projects": 1,
+   "fame": 29
+  },
+  {
+   "name": "Jesper Christensen",
+   "qid": "Q530997",
+   "projects": 1,
+   "fame": 24
+  },
+  {
+   "name": "Cory Michael Smith",
+   "qid": "Q17012336",
+   "projects": 1,
+   "fame": 25
+  },
+  {
+   "name": "Séverine Caneele",
+   "qid": "Q446859",
+   "projects": 1,
+   "fame": 17
+  },
+  {
+   "name": "Vincent Lindon",
+   "qid": "Q557272",
+   "projects": 1,
+   "fame": 39
+  },
+  {
+   "name": "Izïa",
+   "qid": "Q3156516",
+   "projects": 1,
+   "fame": 20
+  },
+  {
+   "name": "Mac DeMarco",
+   "qid": "Q14517",
+   "projects": 1,
+   "fame": 35
+  },
+  {
+   "name": "Marin Ireland",
+   "qid": "Q72749",
+   "projects": 1,
+   "fame": 24
+  },
+  {
+   "name": "Kristen Stewart",
+   "qid": "Q126599",
+   "projects": 1,
+   "fame": 103
+  },
+  {
+   "name": "Benjamin Biolay",
+   "qid": "Q182991",
+   "projects": 1,
+   "fame": 29
+  },
+  {
+   "name": "Ariane Labed",
+   "qid": "Q438820",
+   "projects": 1,
+   "fame": 21
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

@@ -1,0 +1,176 @@
+{
+ "name": "Dacre Montgomery",
+ "qid": "Q21554779",
+ "description": "Australian actor (born 1994)",
+ "wikipedia_editions": 37,
+ "born": "1994-11-22",
+ "birthplace": "Perth",
+ "occupations": [
+  "actor",
+  "film actor"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Dead Man's Wire",
+   "qid": "Q131760057",
+   "date": "2026-04-15",
+   "type": "film",
+   "directors": [
+    "Gus Van Sant"
+   ]
+  },
+  {
+   "title": "Faces of Death",
+   "qid": "Q124432905",
+   "date": "2026-04-10",
+   "type": "film",
+   "directors": [
+    "Daniel Goldhaber"
+   ]
+  },
+  {
+   "title": "What We Hide",
+   "qid": "Q133273812",
+   "date": "2025-08-08",
+   "type": "film",
+   "directors": []
+  },
+  {
+   "title": "Went Up the Hill",
+   "qid": "Q127727208",
+   "date": "2024-01-01",
+   "type": "film",
+   "directors": [
+    "Samuel Van Grinsven"
+   ]
+  },
+  {
+   "title": "Elvis",
+   "qid": "Q84362533",
+   "date": "2022-06-24",
+   "type": "film",
+   "directors": [
+    "Baz Luhrmann"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Gus Van Sant",
+   "projects": 1
+  },
+  {
+   "name": "Daniel Goldhaber",
+   "projects": 1
+  },
+  {
+   "name": "Samuel Van Grinsven",
+   "projects": 1
+  },
+  {
+   "name": "Baz Luhrmann",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Winona Ryder",
+   "qid": "Q101797",
+   "projects": 3,
+   "fame": 101
+  },
+  {
+   "name": "Cara Buono",
+   "qid": "Q289540",
+   "projects": 3,
+   "fame": 39
+  },
+  {
+   "name": "David Harbour",
+   "qid": "Q391359",
+   "projects": 3,
+   "fame": 55
+  },
+  {
+   "name": "Charlie Heaton",
+   "qid": "Q20974088",
+   "projects": 3,
+   "fame": 37
+  },
+  {
+   "name": "Q25936414",
+   "qid": "Q25936414",
+   "projects": 3,
+   "fame": 81
+  },
+  {
+   "name": "Natalia Dyer",
+   "qid": "Q26232134",
+   "projects": 3,
+   "fame": 50
+  },
+  {
+   "name": "Q26308335",
+   "qid": "Q26308335",
+   "projects": 3,
+   "fame": 59
+  },
+  {
+   "name": "Gaten Matarazzo",
+   "qid": "Q26704332",
+   "projects": 3,
+   "fame": 47
+  },
+  {
+   "name": "Q26926382",
+   "qid": "Q26926382",
+   "projects": 3,
+   "fame": 45
+  },
+  {
+   "name": "Q26926633",
+   "qid": "Q26926633",
+   "projects": 3,
+   "fame": 59
+  },
+  {
+   "name": "Joe Keery",
+   "qid": "Q27064031",
+   "projects": 3,
+   "fame": 44
+  },
+  {
+   "name": "Q27452406",
+   "qid": "Q27452406",
+   "projects": 3,
+   "fame": 62
+  },
+  {
+   "name": "Maya Hawke",
+   "qid": "Q46994907",
+   "projects": 3,
+   "fame": 50
+  },
+  {
+   "name": "Sean Astin",
+   "qid": "Q189351",
+   "projects": 2,
+   "fame": 57
+  },
+  {
+   "name": "Cary Elwes",
+   "qid": "Q311093",
+   "projects": 2,
+   "fame": 44
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

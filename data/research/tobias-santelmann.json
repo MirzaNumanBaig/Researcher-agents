@@ -1,0 +1,144 @@
+{
+ "name": "Tobias Santelmann",
+ "qid": "Q12006553",
+ "description": "Norwegian actor",
+ "wikipedia_editions": 18,
+ "born": "1980-08-08",
+ "birthplace": "Freiburg im Breisgau",
+ "occupations": [
+  "stage actor",
+  "film actor",
+  "actor"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Team Havnaa",
+   "qid": "Q131384958",
+   "date": "2024-12-25",
+   "type": "film",
+   "directors": [
+    "Bård Breien"
+   ]
+  },
+  {
+   "title": "Planet Robin",
+   "qid": "Q113310451",
+   "date": "2022-01-01",
+   "type": "short film",
+   "directors": [
+    "Johan Kaos"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Bård Breien",
+   "projects": 1
+  },
+  {
+   "name": "Johan Kaos",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Pål Sverre Hagen",
+   "qid": "Q2013068",
+   "projects": 3,
+   "fame": 26
+  },
+  {
+   "name": "Aksel Hennie",
+   "qid": "Q421471",
+   "projects": 2,
+   "fame": 31
+  },
+  {
+   "name": "Q11977902",
+   "qid": "Q11977902",
+   "projects": 2,
+   "fame": 21
+  },
+  {
+   "name": "Stellan Skarsgård",
+   "qid": "Q208667",
+   "projects": 2,
+   "fame": 65
+  },
+  {
+   "name": "Dwayne Johnson",
+   "qid": "Q10738",
+   "projects": 1,
+   "fame": 113
+  },
+  {
+   "name": "Barbara Palvin",
+   "qid": "Q24368",
+   "projects": 1,
+   "fame": 43
+  },
+  {
+   "name": "John Hurt",
+   "qid": "Q200405",
+   "projects": 1,
+   "fame": 66
+  },
+  {
+   "name": "Joseph Fiennes",
+   "qid": "Q223790",
+   "projects": 1,
+   "fame": 49
+  },
+  {
+   "name": "Ian McShane",
+   "qid": "Q234141",
+   "projects": 1,
+   "fame": 88
+  },
+  {
+   "name": "Irina Shayk",
+   "qid": "Q234458",
+   "projects": 1,
+   "fame": 60
+  },
+  {
+   "name": "Rufus Sewell",
+   "qid": "Q299217",
+   "projects": 1,
+   "fame": 44
+  },
+  {
+   "name": "Agnes Kittelsen",
+   "qid": "Q394570",
+   "projects": 1,
+   "fame": 21
+  },
+  {
+   "name": "Tamina Snuka",
+   "qid": "Q400167",
+   "projects": 1,
+   "fame": 26
+  },
+  {
+   "name": "Peter Mullan",
+   "qid": "Q430804",
+   "projects": 1,
+   "fame": 29
+  },
+  {
+   "name": "Christopher Fairbank",
+   "qid": "Q452650",
+   "projects": 1,
+   "fame": 17
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

@@ -1,0 +1,144 @@
+{
+ "name": "Alisha Boe",
+ "qid": "Q19609745",
+ "description": "Norwegian actress (born 1997)",
+ "wikipedia_editions": 34,
+ "born": "1997-03-06",
+ "birthplace": "Oslo",
+ "occupations": [
+  "actor",
+  "film actor",
+  "television actor"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "When You Finish Saving the World",
+   "qid": "Q105438429",
+   "date": "2023-01-20",
+   "type": "film",
+   "directors": [
+    "Jesse Eisenberg"
+   ]
+  },
+  {
+   "title": "Do Revenge",
+   "qid": "Q113258929",
+   "date": "2022-09-16",
+   "type": "film",
+   "directors": [
+    "Jennifer Kaytin Robinson"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Jesse Eisenberg",
+   "projects": 1
+  },
+  {
+   "name": "Jennifer Kaytin Robinson",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Julianne Moore",
+   "qid": "Q80405",
+   "projects": 1,
+   "fame": 107
+  },
+  {
+   "name": "Diane Keaton",
+   "qid": "Q102642",
+   "projects": 1,
+   "fame": 99
+  },
+  {
+   "name": "Pam Grier",
+   "qid": "Q233862",
+   "projects": 1,
+   "fame": 46
+  },
+  {
+   "name": "Rhea Perlman",
+   "qid": "Q234058",
+   "projects": 1,
+   "fame": 39
+  },
+  {
+   "name": "Sophie Turner",
+   "qid": "Q240573",
+   "projects": 1,
+   "fame": 73
+  },
+  {
+   "name": "Eliza Bennett",
+   "qid": "Q240955",
+   "projects": 1,
+   "fame": 27
+  },
+  {
+   "name": "Jacki Weaver",
+   "qid": "Q241897",
+   "projects": 1,
+   "fame": 40
+  },
+  {
+   "name": "Celia Weston",
+   "qid": "Q289931",
+   "projects": 1,
+   "fame": 24
+  },
+  {
+   "name": "Phyllis Somerville",
+   "qid": "Q439105",
+   "projects": 1,
+   "fame": 23
+  },
+  {
+   "name": "Bruce McGill",
+   "qid": "Q447960",
+   "projects": 1,
+   "fame": 35
+  },
+  {
+   "name": "Charlie Tahan",
+   "qid": "Q1190055",
+   "projects": 1,
+   "fame": 26
+  },
+  {
+   "name": "Jay O. Sanders",
+   "qid": "Q1319653",
+   "projects": 1,
+   "fame": 22
+  },
+  {
+   "name": "Austin Abrams",
+   "qid": "Q16156312",
+   "projects": 1,
+   "fame": 30
+  },
+  {
+   "name": "Timothy Simons",
+   "qid": "Q16226409",
+   "projects": 1,
+   "fame": 19
+  },
+  {
+   "name": "Paris Berelc",
+   "qid": "Q16515258",
+   "projects": 1,
+   "fame": 28
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

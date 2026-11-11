@@ -1,0 +1,172 @@
+{
+ "name": "Liam Hemsworth",
+ "qid": "Q32045",
+ "description": "Australian actor (born 1990)",
+ "wikipedia_editions": 63,
+ "born": "1990-01-13",
+ "birthplace": "Melbourne",
+ "occupations": [
+  "actor",
+  "film actor",
+  "television actor"
+ ],
+ "relationships": [
+  {
+   "name": "Miley Cyrus",
+   "qid": "Q4235",
+   "kind": "partner",
+   "start": "2009-00-00",
+   "end": "2013-09-00",
+   "ended_by": "",
+   "fame": 143
+  },
+  {
+   "name": "Eiza Gonzalez",
+   "qid": "Q572761",
+   "kind": "partner",
+   "start": "2013-00-00",
+   "end": "2013-00-00",
+   "ended_by": "",
+   "fame": 47
+  },
+  {
+   "name": "Miley Cyrus",
+   "qid": "Q4235",
+   "kind": "spouse",
+   "start": "2018-12-23",
+   "end": "2020-01-28",
+   "ended_by": "Q93190",
+   "fame": 143
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Lonely Planet",
+   "qid": "Q129983519",
+   "date": "2024-10-11",
+   "type": "film",
+   "directors": [
+    "Susannah Grant"
+   ]
+  },
+  {
+   "title": "Land of Bad",
+   "qid": "Q117176605",
+   "date": "2024-05-09",
+   "type": "film",
+   "directors": [
+    "William Eubank"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Susannah Grant",
+   "projects": 1
+  },
+  {
+   "name": "William Eubank",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Woody Harrelson",
+   "qid": "Q201279",
+   "projects": 5,
+   "fame": 79
+  },
+  {
+   "name": "Donald Sutherland",
+   "qid": "Q103784",
+   "projects": 4,
+   "fame": 97
+  },
+  {
+   "name": "Jennifer Lawrence",
+   "qid": "Q189490",
+   "projects": 4,
+   "fame": 121
+  },
+  {
+   "name": "Josh Hutcherson",
+   "qid": "Q217004",
+   "projects": 4,
+   "fame": 66
+  },
+  {
+   "name": "Elizabeth Banks",
+   "qid": "Q219373",
+   "projects": 4,
+   "fame": 70
+  },
+  {
+   "name": "Stanley Tucci",
+   "qid": "Q223117",
+   "projects": 4,
+   "fame": 62
+  },
+  {
+   "name": "Willow Shields",
+   "qid": "Q259144",
+   "projects": 4,
+   "fame": 35
+  },
+  {
+   "name": "Paula Malcomson",
+   "qid": "Q433198",
+   "projects": 4,
+   "fame": 24
+  },
+  {
+   "name": "Philip Seymour Hoffman",
+   "qid": "Q180560",
+   "projects": 3,
+   "fame": 92
+  },
+  {
+   "name": "Jena Malone",
+   "qid": "Q233368",
+   "projects": 3,
+   "fame": 45
+  },
+  {
+   "name": "Toby Jones",
+   "qid": "Q342419",
+   "projects": 3,
+   "fame": 41
+  },
+  {
+   "name": "Jeffrey Wright",
+   "qid": "Q343059",
+   "projects": 3,
+   "fame": 49
+  },
+  {
+   "name": "Sam Claflin",
+   "qid": "Q366833",
+   "projects": 3,
+   "fame": 44
+  },
+  {
+   "name": "Meta Golding",
+   "qid": "Q467317",
+   "projects": 3,
+   "fame": 18
+  },
+  {
+   "name": "Lenny Kravitz",
+   "qid": "Q180224",
+   "projects": 2,
+   "fame": 74
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

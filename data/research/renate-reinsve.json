@@ -1,0 +1,227 @@
+{
+ "name": "Renate Reinsve",
+ "qid": "Q28718257",
+ "description": "Norwegian actress",
+ "wikipedia_editions": 44,
+ "born": "1987-11-24",
+ "birthplace": "Nedre Eiker Municipality",
+ "occupations": [
+  "actor"
+ ],
+ "relationships": [
+  {
+   "name": "Julian Nazario Vargas",
+   "qid": "Q17113530",
+   "kind": "partner",
+   "start": "",
+   "end": "",
+   "ended_by": "",
+   "fame": 1
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [
+  {
+   "title": "Fjord",
+   "qid": "Q137652478",
+   "date": "2027-02-18",
+   "type": "film",
+   "directors": [
+    "Cristian Mungiu"
+   ]
+  }
+ ],
+ "recent": [
+  {
+   "title": "Butterfly",
+   "qid": "Q141559767",
+   "date": "2026-09-25",
+   "type": "film",
+   "directors": [
+    "Itonje Søimer Guttormsen"
+   ]
+  },
+  {
+   "title": "Backrooms",
+   "qid": "Q125131076",
+   "date": "2026-06-17",
+   "type": "film",
+   "directors": [
+    "Kane Parsons"
+   ]
+  },
+  {
+   "title": "Sentimental Value",
+   "qid": "Q130284179",
+   "date": "2026-04-23",
+   "type": "film",
+   "directors": [
+    "Joachim Trier"
+   ]
+  },
+  {
+   "title": "Armand",
+   "qid": "Q125856483",
+   "date": "2024-10-31",
+   "type": "film",
+   "directors": [
+    "Halfdan Ullman Tøndel"
+   ]
+  },
+  {
+   "title": "A Different Man",
+   "qid": "Q117272474",
+   "date": "2024-10-25",
+   "type": "film",
+   "directors": [
+    "Aaron Schimberg"
+   ]
+  },
+  {
+   "title": "Another End",
+   "qid": "Q124334456",
+   "date": "2024-03-21",
+   "type": "film",
+   "directors": [
+    "Piero Messina"
+   ]
+  },
+  {
+   "title": "The Worst Person in the World",
+   "qid": "Q107089587",
+   "date": "2022-06-16",
+   "type": "film",
+   "directors": [
+    "Joachim Trier"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Joachim Trier",
+   "projects": 2
+  },
+  {
+   "name": "Cristian Mungiu",
+   "projects": 1
+  },
+  {
+   "name": "Itonje Søimer Guttormsen",
+   "projects": 1
+  },
+  {
+   "name": "Kane Parsons",
+   "projects": 1
+  },
+  {
+   "name": "Halfdan Ullman Tøndel",
+   "projects": 1
+  },
+  {
+   "name": "Aaron Schimberg",
+   "projects": 1
+  },
+  {
+   "name": "Piero Messina",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Sebastian Stan",
+   "qid": "Q455898",
+   "projects": 2,
+   "fame": 58
+  },
+  {
+   "name": "Anders Danielsen Lie",
+   "qid": "Q4753762",
+   "projects": 2,
+   "fame": 19
+  },
+  {
+   "name": "Stellan Skarsgård",
+   "qid": "Q208667",
+   "projects": 1,
+   "fame": 65
+  },
+  {
+   "name": "Elle Fanning",
+   "qid": "Q228943",
+   "projects": 1,
+   "fame": 71
+  },
+  {
+   "name": "Lena Endre",
+   "qid": "Q270559",
+   "projects": 1,
+   "fame": 29
+  },
+  {
+   "name": "Jesper Christensen",
+   "qid": "Q530997",
+   "projects": 1,
+   "fame": 24
+  },
+  {
+   "name": "Numan Acar",
+   "qid": "Q1151023",
+   "projects": 1,
+   "fame": 18
+  },
+  {
+   "name": "Cory Michael Smith",
+   "qid": "Q17012336",
+   "projects": 1,
+   "fame": 25
+  },
+  {
+   "name": "Lisa Loven Kongsli",
+   "qid": "Q17100163",
+   "projects": 1,
+   "fame": 19
+  },
+  {
+   "name": "Inga Ibsdotter Lilleaas",
+   "qid": "Q28152938",
+   "projects": 1,
+   "fame": 22
+  },
+  {
+   "name": "Chiwetel Ejiofor",
+   "qid": "Q317343",
+   "projects": 1,
+   "fame": 63
+  },
+  {
+   "name": "Avan Jogia",
+   "qid": "Q368424",
+   "projects": 1,
+   "fame": 39
+  },
+  {
+   "name": "Mark Duplass",
+   "qid": "Q3273787",
+   "projects": 1,
+   "fame": 27
+  },
+  {
+   "name": "Krista Kosonen",
+   "qid": "Q3321553",
+   "projects": 1,
+   "fame": 24
+  },
+  {
+   "name": "Lukita Maxwell",
+   "qid": "Q115896334",
+   "projects": 1,
+   "fame": 17
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

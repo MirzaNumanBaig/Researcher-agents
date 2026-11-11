@@ -1,0 +1,156 @@
+{
+ "name": "Aksel Hennie",
+ "qid": "Q421471",
+ "description": "Norwegian actor, screenwriter, and director (born 1975)",
+ "wikipedia_editions": 31,
+ "born": "1975-10-29",
+ "birthplace": "Oslo",
+ "occupations": [
+  "actor",
+  "film director",
+  "screenwriter",
+  "voice actor",
+  "director"
+ ],
+ "relationships": [
+  {
+   "name": "Karoline Hegbom",
+   "qid": "Q63958671",
+   "kind": "spouse",
+   "start": "2019-09-06",
+   "end": "",
+   "ended_by": "",
+   "fame": 1
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "The Middle Man",
+   "qid": "Q107607703",
+   "date": "2022-11-17",
+   "type": "film",
+   "directors": [
+    "Bent Hamer"
+   ]
+  },
+  {
+   "title": "Sisu",
+   "qid": "Q111803528",
+   "date": "2022-09-09",
+   "type": "film",
+   "directors": [
+    "Jalmari Helander"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Bent Hamer",
+   "projects": 1
+  },
+  {
+   "name": "Jalmari Helander",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Tobias Santelmann",
+   "qid": "Q12006553",
+   "projects": 2,
+   "fame": 18
+  },
+  {
+   "name": "Sean Bean",
+   "qid": "Q191104",
+   "projects": 2,
+   "fame": 71
+  },
+  {
+   "name": "Pål Sverre Hagen",
+   "qid": "Q2013068",
+   "projects": 2,
+   "fame": 26
+  },
+  {
+   "name": "Dwayne Johnson",
+   "qid": "Q10738",
+   "projects": 1,
+   "fame": 113
+  },
+  {
+   "name": "Barbara Palvin",
+   "qid": "Q24368",
+   "projects": 1,
+   "fame": 43
+  },
+  {
+   "name": "John Hurt",
+   "qid": "Q200405",
+   "projects": 1,
+   "fame": 66
+  },
+  {
+   "name": "Joseph Fiennes",
+   "qid": "Q223790",
+   "projects": 1,
+   "fame": 49
+  },
+  {
+   "name": "Shohreh Aghdashloo",
+   "qid": "Q229766",
+   "projects": 1,
+   "fame": 53
+  },
+  {
+   "name": "Ian McShane",
+   "qid": "Q234141",
+   "projects": 1,
+   "fame": 88
+  },
+  {
+   "name": "Irina Shayk",
+   "qid": "Q234458",
+   "projects": 1,
+   "fame": 60
+  },
+  {
+   "name": "Ayelet Zurer",
+   "qid": "Q275967",
+   "projects": 1,
+   "fame": 36
+  },
+  {
+   "name": "Rufus Sewell",
+   "qid": "Q299217",
+   "projects": 1,
+   "fame": 44
+  },
+  {
+   "name": "Klára Issová",
+   "qid": "Q299394",
+   "projects": 1,
+   "fame": 17
+  },
+  {
+   "name": "Cliff Curtis",
+   "qid": "Q359325",
+   "projects": 1,
+   "fame": 36
+  },
+  {
+   "name": "Tamina Snuka",
+   "qid": "Q400167",
+   "projects": 1,
+   "fame": 26
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

@@ -1,0 +1,241 @@
+{
+ "name": "Sam Worthington",
+ "qid": "Q82085",
+ "description": "Australian and English actor (born 1976)",
+ "wikipedia_editions": 72,
+ "born": "1976-08-02",
+ "birthplace": "Godalming",
+ "occupations": [
+  "actor",
+  "voice actor",
+  "film actor",
+  "film director",
+  "screenwriter",
+  "television actor"
+ ],
+ "relationships": [
+  {
+   "name": "Lara Worthington",
+   "qid": "Q6488525",
+   "kind": "spouse",
+   "start": "2014-00-00",
+   "end": "",
+   "ended_by": "",
+   "fame": 8
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [
+  {
+   "title": "Zero A. D.",
+   "qid": "Q131144618",
+   "date": "2026-12-25",
+   "type": "film project",
+   "directors": [
+    "Alejandro Monteverde"
+   ]
+  }
+ ],
+ "recent": [
+  {
+   "title": "Fuze",
+   "qid": "Q127324468",
+   "date": "2026-06-17",
+   "type": "film",
+   "directors": [
+    "David Mackenzie"
+   ]
+  },
+  {
+   "title": "Relay",
+   "qid": "Q117742969",
+   "date": "2025-09-26",
+   "type": "film",
+   "directors": [
+    "David Mackenzie"
+   ]
+  },
+  {
+   "title": "The Exorcism",
+   "qid": "Q73792046",
+   "date": "2024-07-04",
+   "type": "film",
+   "directors": [
+    "Joshua John Miller"
+   ]
+  },
+  {
+   "title": "Horizon: An American Saga",
+   "qid": "Q113685785",
+   "date": "2024-06-28",
+   "type": "film series",
+   "directors": [
+    "Kevin Costner"
+   ]
+  },
+  {
+   "title": "Horizon: An American Saga – Chapter 1",
+   "qid": "Q124670101",
+   "date": "2024-06-28",
+   "type": "film",
+   "directors": [
+    "Kevin Costner"
+   ]
+  },
+  {
+   "title": "Breathe",
+   "qid": "Q116178692",
+   "date": "2024-04-26",
+   "type": "film",
+   "directors": [
+    "Stefon Bristol"
+   ]
+  },
+  {
+   "title": "Lift",
+   "qid": "Q116431968",
+   "date": "2024-01-12",
+   "type": "film",
+   "directors": [
+    "F. Gary Gray"
+   ]
+  },
+  {
+   "title": "9 Bullets",
+   "qid": "Q116460248",
+   "date": "2022-04-22",
+   "type": "film",
+   "directors": [
+    "Gigi Gaston"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "David Mackenzie",
+   "projects": 2
+  },
+  {
+   "name": "Kevin Costner",
+   "projects": 2
+  },
+  {
+   "name": "Alejandro Monteverde",
+   "projects": 1
+  },
+  {
+   "name": "Joshua John Miller",
+   "projects": 1
+  },
+  {
+   "name": "Stefon Bristol",
+   "projects": 1
+  },
+  {
+   "name": "F. Gary Gray",
+   "projects": 1
+  },
+  {
+   "name": "Gigi Gaston",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Sigourney Weaver",
+   "qid": "Q102124",
+   "projects": 4,
+   "fame": 122
+  },
+  {
+   "name": "Zoe Saldaña",
+   "qid": "Q190162",
+   "projects": 4,
+   "fame": 81
+  },
+  {
+   "name": "Stephen Lang",
+   "qid": "Q312902",
+   "projects": 4,
+   "fame": 44
+  },
+  {
+   "name": "Danny Huston",
+   "qid": "Q357762",
+   "projects": 3,
+   "fame": 45
+  },
+  {
+   "name": "Giovanni Ribisi",
+   "qid": "Q224081",
+   "projects": 3,
+   "fame": 64
+  },
+  {
+   "name": "Q236434",
+   "qid": "Q236434",
+   "projects": 3,
+   "fame": 33
+  },
+  {
+   "name": "Joel David Moore",
+   "qid": "Q371786",
+   "projects": 3,
+   "fame": 31
+  },
+  {
+   "name": "Dileep Rao",
+   "qid": "Q1225469",
+   "projects": 3,
+   "fame": 20
+  },
+  {
+   "name": "Matt Gerald",
+   "qid": "Q1889482",
+   "projects": 3,
+   "fame": 22
+  },
+  {
+   "name": "Cliff Curtis",
+   "qid": "Q359325",
+   "projects": 3,
+   "fame": 36
+  },
+  {
+   "name": "Britain Dalton",
+   "qid": "Q24851612",
+   "projects": 3,
+   "fame": 17
+  },
+  {
+   "name": "Jack Champion",
+   "qid": "Q65966450",
+   "projects": 3,
+   "fame": 22
+  },
+  {
+   "name": "Ralph Fiennes",
+   "qid": "Q28493",
+   "projects": 2,
+   "fame": 81
+  },
+  {
+   "name": "Liam Neeson",
+   "qid": "Q58444",
+   "projects": 2,
+   "fame": 98
+  },
+  {
+   "name": "Agyness Deyn",
+   "qid": "Q181243",
+   "projects": 2,
+   "fame": 28
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}

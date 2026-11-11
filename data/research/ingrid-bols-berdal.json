@@ -1,0 +1,132 @@
+{
+ "name": "Ingrid Bolsø Berdal",
+ "qid": "Q2419067",
+ "description": "Norwegian actress",
+ "wikipedia_editions": 25,
+ "born": "1980-03-02",
+ "birthplace": "Utøy",
+ "occupations": [
+  "actor",
+  "singer",
+  "stage actor",
+  "celebrity"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Blasted",
+   "qid": "Q114555677",
+   "date": "2022-01-01",
+   "type": "film",
+   "directors": [
+    "Martin Sofiedal"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Martin Sofiedal",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Pål Sverre Hagen",
+   "qid": "Q2013068",
+   "projects": 2,
+   "fame": 26
+  },
+  {
+   "name": "Jeremy Renner",
+   "qid": "Q23365",
+   "projects": 1,
+   "fame": 126
+  },
+  {
+   "name": "Andrew Sachs",
+   "qid": "Q76963",
+   "projects": 1,
+   "fame": 24
+  },
+  {
+   "name": "Rainer Bock",
+   "qid": "Q97010",
+   "projects": 1,
+   "fame": 15
+  },
+  {
+   "name": "Thomas Mann",
+   "qid": "Q171687",
+   "projects": 1,
+   "fame": 33
+  },
+  {
+   "name": "Famke Janssen",
+   "qid": "Q190794",
+   "projects": 1,
+   "fame": 72
+  },
+  {
+   "name": "Jesse McCartney",
+   "qid": "Q191842",
+   "projects": 1,
+   "fame": 50
+  },
+  {
+   "name": "David Suchet",
+   "qid": "Q211831",
+   "projects": 1,
+   "fame": 55
+  },
+  {
+   "name": "Zoë Bell",
+   "qid": "Q227123",
+   "projects": 1,
+   "fame": 28
+  },
+  {
+   "name": "Gemma Arterton",
+   "qid": "Q255323",
+   "projects": 1,
+   "fame": 51
+  },
+  {
+   "name": "Claire Foy",
+   "qid": "Q258999",
+   "projects": 1,
+   "fame": 56
+  },
+  {
+   "name": "Peter Stormare",
+   "qid": "Q295148",
+   "projects": 1,
+   "fame": 42
+  },
+  {
+   "name": "Charles Dance",
+   "qid": "Q309690",
+   "projects": 1,
+   "fame": 58
+  },
+  {
+   "name": "Pihla Viitala",
+   "qid": "Q523373",
+   "projects": 1,
+   "fame": 21
+  },
+  {
+   "name": "Dimitri Diatchenko",
+   "qid": "Q551859",
+   "projects": 1,
+   "fame": 18
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-11"
+}
