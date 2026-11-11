@@ -97,6 +97,21 @@ class Hot(unittest.TestCase):
         self.assertEqual((p["roles"], p["australian"], p["page"]), (["actor", "producer"], True, "Margot_Robbie"))
 
 
+class Filters(unittest.TestCase):
+    def test_politicians_are_not_entertainers(self):
+        for d in ("American politician", "President of the United States", "United States Senator", "Governor of California"):
+            self.assertTrue(tp.NOT_ENTERTAINER.search(d), d)
+        for d in ("Australian actress and film producer (born 1990)", "English comedian, actor, and podcaster", "American film director"):
+            self.assertFalse(tp.NOT_ENTERTAINER.search(d), d)
+            self.assertTrue(tp.rc.JOB.search(d), d)
+
+    def test_unknown_month_dates_do_not_crash(self):
+        self.assertIsNone(movies.parse_date("2026-00-00"))
+        self.assertIsNone(movies.parse_date(""))
+        self.assertEqual(movies.parse_date("2026-11-11"), date(2026, 11, 11))
+        self.assertEqual(movies.verdict("2026-00-00", None, None), "")
+
+
 class Money(unittest.TestCase):
     def test_money_parsing(self):
         self.assertEqual(movies.money("$150 million"), 150_000_000)

@@ -30,10 +30,11 @@ SKIP = re.compile(r"^(Main_Page|Special:|Wikipedia:|Portal:|Help:|File:|Category
 ROLES = {  # occupation id -> role we show
     "Q33999": "actor", "Q10800557": "actor", "Q10798782": "actor", "Q2405480": "actor", "Q2259451": "actor", "Q622807": "actor", "Q1053574": "actor",
     "Q2526255": "director", "Q3455803": "director", "Q28389": "writer", "Q4263842": "writer", "Q3282637": "producer", "Q578109": "producer",
-    "Q177220": "singer", "Q639669": "musician", "Q245068": "comedian", "Q4610556": "model", "Q947873": "presenter",
+    "Q177220": "singer", "Q639669": "musician", "Q245068": "comedian",
 }
 FILM_KINDS = "wd:Q11424 wd:Q24869 wd:Q202866"  # film, feature film, animated film
 AUSTRALIA = "Q408"
+NOT_ENTERTAINER = re.compile(r"politician|senator|governor|president|minister|secretary|congress|businessperson|businessman|businesswoman|journalist|footballer|cricketer|athlete", re.I)
 
 
 def days(n):
@@ -114,7 +115,10 @@ def people_for(titles):
         for b in rows:
             q = rc.qid_of(rc.val(b, "p"))
             page = page_of.get(q, "")
-            e = found.setdefault(q, {"qid": q, "page": page, "name": rc.val(b, "pLabel") or page.replace("_", " "), "description": rc.val(b, "pDescription"),
+            desc = rc.val(b, "pDescription")
+            if not rc.JOB.search(desc) or NOT_ENTERTAINER.search(desc):  # politicians and others whose Wikidata lists an acting/producing credit are not what this list is for
+                continue
+            e = found.setdefault(q, {"qid": q, "page": page, "name": (lambda n: page.replace("_", " ") if not n or re.fullmatch(r"Q\d+", n) else n)(rc.val(b, "pLabel")), "description": desc,
                                      "roles": [], "australian": False})
             r = ROLES.get(rc.qid_of(rc.val(b, "occ")))
             if r and r not in e["roles"]:
@@ -124,38 +128,28 @@ def people_for(titles):
 
 
 def films_for(people):
-    """{person qid: [{title, qid, date, role}]}: films released between four months ago and 14 months ahead."""
+    """{person qid: [{title, qid, date}]}: films released between four months ago and 14 months ahead (acting, directing or producing)."""
     since, until = (date.today() - timedelta(days=120)).isoformat(), (date.today() + timedelta(days=425)).isoformat()
-    out = {q: [] for q in people}
+    out = {q: {} for q in people}
     ids = list(people)
     for i in range(0, len(ids), 45):
         vals = " ".join(f"wd:{q}" for q in ids[i:i + 45])
-        query = f"""SELECT ?p ?f ?fLabel ?pub ?role WHERE {{
-          VALUES ?p {{ {vals} }}
-          {{ ?f wdt:P161 ?p. BIND("actor" AS ?role) }} UNION {{ ?f wdt:P57 ?p. BIND("director" AS ?role) }} UNION {{ ?f wdt:P162 ?p. BIND("producer" AS ?role) }}
-          ?f wdt:P31 ?kind. VALUES ?kind {{ {FILM_KINDS} }}
-          ?f wdt:P577 ?pub. FILTER(?pub >= "{since}T00:00:00Z"^^xsd:dateTime && ?pub <= "{until}T00:00:00Z"^^xsd:dateTime)
-          SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }} }}"""
+        query = f"""SELECT ?p ?f ?pub WHERE {{
+          VALUES ?p {{ {vals} }} ?f (wdt:P161|wdt:P57|wdt:P162) ?p.
+          ?f wdt:P31 ?kind. VALUES ?kind {{ {FILM_KINDS} }} ?f wdt:P577 ?pub.
+          FILTER(?pub >= "{since}T00:00:00Z"^^xsd:dateTime && ?pub <= "{until}T00:00:00Z"^^xsd:dateTime) }}"""
         try:
             rows = rc.sparql(query)
         except Exception as e:
-            print(f"  film query failed: {e}", file=sys.stderr)
+            print(f"  film query failed: {e}", file=sys.stderr, flush=True)
             continue
         for b in rows:
-            title = rc.val(b, "fLabel")
-            if re.fullmatch(r"Q\d+", title):  # no English label
-                continue
-            out[rc.qid_of(rc.val(b, "p"))].append({"title": title, "qid": rc.qid_of(rc.val(b, "f")), "date": rc.val(b, "pub")[:10], "role": rc.val(b, "role")})
-    for q, fl in out.items():
-        seen = {}
-        for f in sorted(fl, key=lambda f: f["date"]):
-            key = f["qid"]
-            if key in seen and f["role"] not in seen[key]["roles"]:
-                seen[key]["roles"].append(f["role"])
-            elif key not in seen:
-                seen[key] = {**f, "roles": [f["role"]]}
-        out[q] = [{k: v for k, v in f.items() if k != "role"} for f in seen.values()]
-    return out
+            f = rc.qid_of(rc.val(b, "f"))
+            d = rc.val(b, "pub")[:10]
+            if f and re.fullmatch(r"\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])", d):
+                out[rc.qid_of(rc.val(b, "p"))][f] = d
+    labels = {q: rc.label(e) for q, e in rc.entities({f for fl in out.values() for f in fl}, "labels").items()}
+    return {q: [{"title": labels[f], "qid": f, "date": d} for f, d in fl.items() if labels.get(f)] for q, fl in out.items()}
 
 
 def build(top=40, pool_size=350):

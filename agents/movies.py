@@ -62,11 +62,21 @@ def scale(budget):
     return "Blockbuster" if budget >= 150e6 else "Big studio" if budget >= 60e6 else "Mid-budget" if budget >= 15e6 else "Indie / low budget"
 
 
+def parse_date(text):
+    """date from 'YYYY-MM-DD', or None for year-only / impossible dates such as 2026-00-00 (Wikidata uses those for unknown months)."""
+    try:
+        return date.fromisoformat(text)
+    except (TypeError, ValueError):
+        return None
+
+
 def verdict(release, gross, budget, today=None):
     today = today or date.today()
     if not release:
         return ""
-    d = date.fromisoformat(release)
+    d = parse_date(release)
+    if not d:
+        return ""
     if d > today:
         return "Upcoming"
     if (today - d).days < 21 or not gross:
@@ -185,7 +195,7 @@ def tracked_films(names):
         labels = " ".join('"' + n.replace('"', "") + '"@en' for n in names[i:i + 45])
         q = f"""SELECT DISTINCT ?f WHERE {{
           VALUES ?name {{ {labels} }} ?p rdfs:label ?name. ?p wdt:P31 wd:Q5.
-          {{ ?f wdt:P161 ?p }} UNION {{ ?f wdt:P57 ?p }} UNION {{ ?f wdt:P162 ?p }}
+          ?f (wdt:P161|wdt:P57|wdt:P162) ?p.
           ?f wdt:P31 ?kind. VALUES ?kind {{ {FILM_KINDS} }} ?f wdt:P577 ?pub.
           FILTER(?pub >= "{since}T00:00:00Z"^^xsd:dateTime && ?pub <= "{until}T00:00:00Z"^^xsd:dateTime) }}"""
         try:
@@ -211,19 +221,19 @@ def build(limit=60):
     details = film_details(qids)
     films = []
     for q, d in details.items():
-        if not d["title"] or not d["release"]:
+        if not d["title"] or not parse_date(d["release"]):
             continue
         films.append(d)
     # rank: films with many tracked/hot people and recent/soon first
     today = date.today()
-    films.sort(key=lambda d: (-len(who.get(d["qid"], ())), abs((date.fromisoformat(d["release"]) - today).days)))
+    films.sort(key=lambda d: (-len(who.get(d["qid"], ())), abs((parse_date(d["release"]) - today).days)))
     films = films[:limit]
     for d in films:
         page = d["wikipedia"]
         info = infobox(page) if page else {}
         d["budget"] = info.get("budget") or d["budget"]
         d["gross"] = info.get("gross") or d["gross"]
-        rec = reception(page) if page and date.fromisoformat(d["release"]) <= today else {}
+        rec = reception(page) if page and parse_date(d["release"]) <= today else {}
         d["critics"] = {**{k: v for k, v in d["scores"].items() if k in ("rotten_tomatoes", "metacritic")}, **rec}
         d["scale"] = scale(d["budget"])
         d["verdict"] = verdict(d["release"], d["gross"], d["budget"])
