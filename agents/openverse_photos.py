@@ -22,6 +22,8 @@ ENOUGH = 3  # people with fewer verified Commons photos than this also get Openv
 MIN_SIDE, MIN_LONG = 640, 1000
 KEEP, CHECK, PAGES = 8, 14, 2
 MULTI = re.compile(r"(\band\b|&|\bwith\b|\bfeat\.?|\bplus\b|\bfeaturing\b|\bvs\.?\b|\bx\b|,)", re.I)  # "Miley Cyrus and Liam Hemsworth": a picture of two people is not this person's portrait
+MEME = re.compile(r"\b(quotes?|memes?|wallpapers?|poster|text|typography|collage|fanart|fan art|edit)\b", re.I)  # graphics with words on them, not photographs
+FACE_MIN = 0.18  # Flickr copies are only 1024 px wide: a small face would look soft when enlarged to 1600 px
 ALLOWED = {"cc0": "CC0 1.0", "pdm": "Public domain", "by": "CC BY", "by-sa": "CC BY-SA"}
 
 
@@ -47,7 +49,7 @@ def parse(item):
         return None
     title = re.sub(r"\s+", " ", item.get("title") or "").strip()
     tags = " ".join(t.get("name", "") for t in item.get("tags") or [])
-    if cp.BAD_WORDS.search(f"{title} {tags}") or MULTI.search(title):
+    if cp.BAD_WORDS.search(f"{title} {tags}") or MULTI.search(title) or MEME.search(f"{title} {tags}"):
         return None
     prov = (item.get("source") or item.get("provider") or "").lower()
     author = (item.get("creator") or "").strip() or "Photographer"
@@ -106,7 +108,7 @@ def check(p):
     if res is None:
         raise cp.FaceCheckUnavailable("OpenCV is not installed (pip install opencv-python-headless numpy)")
     ok, _why, frac = cp.judge_faces(*res)
-    return ok, round(frac, 3)
+    return ok and frac >= FACE_MIN, round(frac, 3)
 
 
 def refresh(name):

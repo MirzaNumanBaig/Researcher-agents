@@ -40,6 +40,7 @@ class Openverse(unittest.TestCase):
         self.assertIsNone(ov.parse(item(filetype="png")))
         self.assertIsNone(ov.parse(item(title="Miley Cyrus and Liam Hemsworth")))
         self.assertIsNone(ov.parse(item(title="Ryan Gosling wax figure")))
+        self.assertIsNone(ov.parse(item(title="HEATH LEDGER SUCCESS FAILURE QUOTES")))
 
     def test_title_must_name_the_person(self):
         p = ov.parse(item(title="Cannes 2018 red carpet"))
