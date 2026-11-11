@@ -11471,6 +11471,22 @@
    "turns": 10,
    "seconds": 39,
    "cost_usd": 0.1774
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T19:32:34+00:00",
+   "batch": "2026-11-12 05:00",
+   "celebrity": "Sylvester Stallone",
+   "article": "2026-11-12-05-00-sylvester-stallone.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 4601,
+   "cache_read_tokens": 205999,
+   "cache_write_tokens": 30787,
+   "turns": 10,
+   "seconds": 44,
+   "cost_usd": 0.1899
   }
  ]
 }
