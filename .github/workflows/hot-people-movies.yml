@@ -3,9 +3,6 @@ name: Hot people and movies
 # budget, box office, scope and critics' scores. Writes data/trending.json, data/movies.json and data/research/TRENDING.md + MOVIES.md; the dashboard
 # shows them in the "Hot people" and "Movies" tabs. Wikimedia throttles politely, so a run can take 20-40 minutes.
 on:
-  push:
-    branches: [feature/more-sources-hot-movies]   # TEMPORARY: registers the workflow for testing; removed before merge
-    paths: [".github/workflows/hot-people-movies.yml"]
   workflow_dispatch:
   schedule:
     - cron: "43 2 * * 3"
