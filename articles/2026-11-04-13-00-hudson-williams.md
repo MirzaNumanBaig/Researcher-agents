@@ -14,15 +14,16 @@ tags: ["Hudson Williams", "Heated Rivalry", "Yaga", "Carrie-Anne Moss"]
 image_prompt: "A dim small-town street at dusk with a lone wooden cabin on its edge and a faint mist in the trees"
 sources:
   - "https://www.hindustantimes.com/entertainment/web-series/yaga-creator-kat-sandler-thanks-hudson-williams-for-getting-eyeballs-to-show-helped-womens-issues-get-a-bigger-platform-lionsgate-play-heated-rivalry-101793693956290.html"
-image_alt: "Illustration of two womans in film set, lit by daytime, natural light."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-11-04-13-00-hudson-williams.webp"
-wp_media_id: 1535
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-13-00-hudson-williams-768x432.webp"
 wp_id: 1536
 wp_link: "https://moduscarry.com/hudson-williams-yaga/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1535
 ---
 
 **Quick summary**

@@ -14,15 +14,16 @@ tags: ["Chris Hemsworth", "Marvel Studios"]
 image_prompt: "A dusty desert highway at dusk with a battered armoured truck and a distant storm on the horizon"
 sources:
   - "https://faroutmagazine.co.uk/2010-chris-hemsworth-auditioned-play-mad-max/"
-image_alt: "Illustration of two womans in film set, lit by daytime, sunlight."
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
 image: "images/2026-11-05-11-00-chris-hemsworth.webp"
-wp_media_id: 1575
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-05-11-00-chris-hemsworth-768x432.webp"
 wp_id: 1576
 wp_link: "https://moduscarry.com/chris-hemsworth-mad-max/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1575
 ---
 
 **Quick summary**

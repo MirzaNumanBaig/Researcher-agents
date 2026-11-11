@@ -14,15 +14,16 @@ tags: ["Connor Storrie", "Ghost Rider", "Marvel Studios", "Ryan Gosling", "Heate
 image_prompt: "A lone motorcycle on an empty desert highway at dusk, faint orange flames glowing on the horizon."
 sources:
   - "https://www.superherohype.com/movies/703350-ghost-rider-rumor-connor-storrie-playing-ryan-gosling-mcu-movie"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
 image: "images/2026-11-04-21-00-connor-storrie.webp"
-wp_media_id: 1549
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-21-00-connor-storrie-768x432.webp"
 wp_id: 1550
 wp_link: "https://moduscarry.com/connor-storrie-ghost-rider/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1549
 ---
 
 **Quick summary**

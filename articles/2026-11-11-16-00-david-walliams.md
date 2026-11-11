@@ -27,6 +27,7 @@ wp_id: 1837
 wp_link: "https://moduscarry.com/david-walliams-allegations-fing/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

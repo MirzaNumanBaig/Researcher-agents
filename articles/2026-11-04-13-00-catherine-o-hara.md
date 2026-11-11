@@ -14,15 +14,16 @@ tags: ["Catherine O'Hara"]
 image_prompt: "An empty vintage theatre stage with a single spotlight and a closed red velvet curtain, warm quiet mood"
 sources:
   - "https://abcnews.com/GMA/Culture/actress-catherine-ohara-dies-71/story?id=129711879"
-image_alt: "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table."
+image_alt: "Catherine O'Hara: Catherine O'Hara as part of SCTV Network 90"
 image: "images/2026-11-04-13-00-catherine-o-hara.webp"
-wp_media_id: 1533
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-13-00-catherine-o-hara-768x432.webp"
 wp_id: 1534
 wp_link: "https://moduscarry.com/catherine-ohara-dies-at-71/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara_as_part_of_SCTV_Network_90_(1981).jpg\" rel=\"noopener\">NBC</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara_as_part_of_SCTV_Network_90_(1981).jpg\" rel=\"noopener\">Public domain</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara_as_part_of_SCTV_Network_90_(1981).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1533
 ---
 
 **Quick summary**

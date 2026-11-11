@@ -21,6 +21,7 @@ wp_id: 1839
 wp_link: "https://moduscarry.com/georgina-baillie-statement-russell-brand/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

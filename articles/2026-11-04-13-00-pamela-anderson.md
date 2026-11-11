@@ -16,15 +16,16 @@ sources:
   - "https://www.hellomagazine.com/us/932717/pamela-andersons-shoulder-baring-dress-hangs-on-by-straps/"
   - "https://coveteur.com/2026-cfda-awards-best-celebrity-looks"
   - "https://www.istitutoimpariamo.it/pamela-anderson-just-upgraded-red-nails-with-a-deep-winter-cherry-twist/"
-image_alt: "Illustration of a man in a person, lit by evening, gold lights."
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
 image: "images/2026-11-04-13-00-pamela-anderson.webp"
-wp_media_id: 1543
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-04-13-00-pamela-anderson-768x432.webp"
 wp_id: 1544
 wp_link: "https://moduscarry.com/pamela-anderson-cfda-awards-feathers/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1543
 ---
 
 **Quick summary**

@@ -15,15 +15,16 @@ image_prompt: "A row of deep cherry-red nail polish bottles on a marble vanity b
 sources:
   - "https://www.elle.com/beauty/makeup-skin-care/a74326105/pamela-anderson-winter-cherry-nails/"
   - "https://www.womanandhome.com/beauty/beauty-news/pamela-anderson-winter-berry-nails/"
-image_alt: "Illustration of a man in a person, lit by evening, firelight."
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
 image: "images/2026-11-05-05-00-pamela-anderson.webp"
-wp_media_id: 1565
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-05-05-00-pamela-anderson-768x432.webp"
 wp_id: 1566
 wp_link: "https://moduscarry.com/pamela-anderson-winter-cherry-nails/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1565
 ---
 
 **Quick summary**
