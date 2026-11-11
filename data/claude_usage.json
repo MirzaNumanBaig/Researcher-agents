@@ -11135,6 +11135,22 @@
    "turns": 8,
    "seconds": 37,
    "cost_usd": 0.1904
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T18:47:59+00:00",
+   "batch": "2026-11-12 05:00",
+   "celebrity": "James Blunt",
+   "article": "2026-11-12-05-00-james-blunt.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4476,
+   "cache_read_tokens": 158263,
+   "cache_write_tokens": 28078,
+   "turns": 9,
+   "seconds": 42,
+   "cost_usd": 0.1731
   }
  ]
 }
