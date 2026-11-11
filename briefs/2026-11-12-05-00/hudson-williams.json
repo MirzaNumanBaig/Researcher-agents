@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-12 05:00",
+  "celebrity": "Hudson Williams",
+  "stories": [
+    {
+      "title": "Hudson Williams' ‘neurodivergent rizz’ on The Assembly",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ic0VYZjVYYURTX3dxeEh1ZU5JUkhDaVVIQVAyOXI2VGtGUFVhN25jTUJZWjd3Nk9URUxKcEU2LTl5Rkw5OXNEMXlaZGJwRWpnMHpuLVo1N1VRZw?oc=5",
+      "published": "2026-11-11T14:02:36+00:00",
+      "outlets": [
+        {
+          "source": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ic0VYZjVYYURTX3dxeEh1ZU5JUkhDaVVIQVAyOXI2VGtGUFVhN25jTUJZWjd3Nk9URUxKcEU2LTl5Rkw5OXNEMXlaZGJwRWpnMHpuLVo1N1VRZw?oc=5",
+          "article_url": "https://www.cbc.ca/player/play/video/9.7416833",
+          "image": "https://i.cbc.ca/ais/a91723a4-0699-44eb-bbb4-6695864e4a55,1794339470713/full/max/0/default.jpg?im=Crop%2Crect%3D%28308%2C43%2C242%2C430%29%3B"
+        }
+      ],
+      "image": "https://i.cbc.ca/ais/a91723a4-0699-44eb-bbb4-6695864e4a55,1794339470713/full/max/0/default.jpg?im=Crop%2Crect%3D%28308%2C43%2C242%2C430%29%3B",
+      "image_source": "https://www.cbc.ca/player/play/video/9.7416833"
+    }
+  ]
+}

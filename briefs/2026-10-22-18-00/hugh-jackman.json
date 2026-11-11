@@ -23,6 +23,27 @@
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpdF9TSU1HV0JDbWpCZjV6NjZEZDVELTFyWmhZNXpRbF91RHVKME1zUHJHbWtyeWZXa2UxYmNMMERXblA4WXNEanA4NGNQQ1FQZXc?oc=5"
         }
       ]
+    },
+    {
+      "title": "Ridley Scott & Hugh Jackman's Remake of an Action-Adventure Classic Suffers Major Setback",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDZVd4ZzVMQVRsMF83LW9DWUpRbkVVd0FlOEl0cTZmMGF4RDhrZFo5aDJGZ1JDem1ubXc3SktMSVJNeF9zLWJHYVB1QllWVUJrSkVQNDk2UFV5Z2JuV2h2aEdfUnRCWjQ?oc=5",
+      "published": "2026-11-11T16:23:31+00:00",
+      "outlets": [
+        {
+          "source": "MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDZVd4ZzVMQVRsMF83LW9DWUpRbkVVd0FlOEl0cTZmMGF4RDhrZFo5aDJGZ1JDem1ubXc3SktMSVJNeF9zLWJHYVB1QllWVUJrSkVQNDk2UFV5Z2JuV2h2aEdfUnRCWjQ?oc=5",
+          "article_url": "https://movieweb.com/treasure-island-ridley-scott-delay/",
+          "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/1140-ridley-scott.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpdF9TSU1HV0JDbWpCZjV6NjZEZDVELTFyWmhZNXpRbF91RHVKME1zUHJHbWtyeWZXa2UxYmNMMERXblA4WXNEanA4NGNQQ1FQZXc?oc=5",
+          "article_url": "https://www.imdb.com/it/news/ni66045749/",
+          "image": ""
+        }
+      ],
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/1140-ridley-scott.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://movieweb.com/treasure-island-ridley-scott-delay/"
     }
   ]
 }

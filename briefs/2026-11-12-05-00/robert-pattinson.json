@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-12 05:00",
+  "celebrity": "Robert Pattinson",
+  "stories": [
+    {
+      "title": "James Bond Director’s Cryptic Reaction Spells Trouble for Robert Pattinson",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0g0b3hqSnNzUk5rMlVuazl2bUowSHlxZjZfUnBVdFVSUXIxajNUeFZOWWRCOFllNVF5TzVuY3R6VFlsdWJrUEJBSUZSSHFVZ0NNc2ZaalZvdjlPVTZRb3N3dW5MUnMzZVJzRVg5M3VZZnFYODhtUFJGelJDcTktVXdQOA?oc=5",
+      "published": "2026-11-11T17:18:50+00:00",
+      "outlets": [
+        {
+          "source": "FandomWire",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0g0b3hqSnNzUk5rMlVuazl2bUowSHlxZjZfUnBVdFVSUXIxajNUeFZOWWRCOFllNVF5TzVuY3R6VFlsdWJrUEJBSUZSSHFVZ0NNc2ZaalZvdjlPVTZRb3N3dW5MUnMzZVJzRVg5M3VZZnFYODhtUFJGelJDcTktVXdQOA?oc=5",
+          "article_url": "https://fandomwire.com/james-bond-denis-villeneuve-reaction-robert-pattinson/",
+          "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/11/11121748/james-bond-director-reaction-to-robert-pattinson.jpg"
+        }
+      ],
+      "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/11/11121748/james-bond-director-reaction-to-robert-pattinson.jpg",
+      "image_source": "https://fandomwire.com/james-bond-denis-villeneuve-reaction-robert-pattinson/"
+    },
+    {
+      "title": "Here’s Why Robert Pattinson Is the Right Choice to Play Bond",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jVzlBeGlGZzdBOTMxZ1FaT0Z0cFhJWUxBcXQxTTdKUmdONjQzRlQ1V2doRnZncldFZ244Umd2d2FpV3YtUGI2ckNydk1uTHAyemlQTjZUcllOTDdBRmtDX0NZRVpaZzFXd2szNEZleGxUWXRfTmc?oc=5",
+      "published": "2026-11-11T12:17:30+00:00",
+      "outlets": [
+        {
+          "source": "Vogue",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jVzlBeGlGZzdBOTMxZ1FaT0Z0cFhJWUxBcXQxTTdKUmdONjQzRlQ1V2doRnZncldFZ244Umd2d2FpV3YtUGI2ckNydk1uTHAyemlQTjZUcllOTDdBRmtDX0NZRVpaZzFXd2szNEZleGxUWXRfTmc?oc=5",
+          "article_url": "https://www.vogue.com/article/the-case-for-robert-pattinson-as-bond",
+          "image": "https://assets.vogue.com/photos/6af45bf4de1b8d55155b17b1/16:9/w_1280,c_limit/2293701086"
+        }
+      ],
+      "image": "https://assets.vogue.com/photos/6af45bf4de1b8d55155b17b1/16:9/w_1280,c_limit/2293701086",
+      "image_source": "https://www.vogue.com/article/the-case-for-robert-pattinson-as-bond"
+    }
+  ]
+}

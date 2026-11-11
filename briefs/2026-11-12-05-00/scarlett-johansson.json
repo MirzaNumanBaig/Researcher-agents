@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-12 05:00",
+  "celebrity": "Scarlett Johansson",
+  "stories": [
+    {
+      "title": "Scarlett Johansson put her blind faith in Ari Aster for mysterious new movie",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uczZvM1pXejczbFdOWE5kdzJwNmxJbWZwZkcwOUE4Vm5QY1o3UWlJVEY1ai1pN3lic2p4WTNFODU5X2htYV9KXzJTem54bUxZazdZR0MyWndkeEZZSUpZNm1ScTlvMERZQl9ac3diQnpKX2FhLW1qVnBNRXQ?oc=5",
+      "published": "2026-11-11T15:43:50+00:00",
+      "outlets": [
+        {
+          "source": "A.V. Club",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uczZvM1pXejczbFdOWE5kdzJwNmxJbWZwZkcwOUE4Vm5QY1o3UWlJVEY1ai1pN3lic2p4WTNFODU5X2htYV9KXzJTem54bUxZazdZR0MyWndkeEZZSUpZNm1ScTlvMERZQl9ac3diQnpKX2FhLW1qVnBNRXQ?oc=5",
+          "article_url": "https://www.avclub.com/scarlett-johannson-ari-aster-scapegoat-mysterious",
+          "image": "https://www.avclub.com/wp-content/uploads/2026/11/11/SJ-feature.jpg"
+        }
+      ],
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/11/SJ-feature.jpg",
+      "image_source": "https://www.avclub.com/scarlett-johannson-ari-aster-scapegoat-mysterious"
+    },
+    {
+      "title": "Scarlett Johansson is on the hunt for something deeper",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTFNyRXJvY1VKR0lGY0ZjRzdQMXBRLUNoNzFNX1Ria3cwTGxDRHNiUzFhT0NGUFhERktKT3U3NWY0V3F1aS1iTlVNclpabVhjVVlPRjY0bXhUXzZ6eHh2ZGFsS3NBbE5NdW5HZURZLWhBdTB5Ti1qbWtzekt0eXltOWhlMXZrZnB4c0F0TXRXUWhNMGhoS2tYTFhjQlM3aWEtTUlDMUZZZ1dBU2sy?oc=5",
+      "published": "2026-11-11T11:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTFNyRXJvY1VKR0lGY0ZjRzdQMXBRLUNoNzFNX1Ria3cwTGxDRHNiUzFhT0NGUFhERktKT3U3NWY0V3F1aS1iTlVNclpabVhjVVlPRjY0bXhUXzZ6eHh2ZGFsS3NBbE5NdW5HZURZLWhBdTB5Ti1qbWtzekt0eXltOWhlMXZrZnB4c0F0TXRXUWhNMGhoS2tYTFhjQlM3aWEtTUlDMUZZZ1dBU2sy?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}
