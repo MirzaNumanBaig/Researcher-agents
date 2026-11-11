@@ -82,16 +82,19 @@ class Credits(unittest.TestCase):
 
 
 class Hot(unittest.TestCase):
-    def test_roles_only_for_living_film_and_music_people(self):
-        def ent(job, human="Q5", died=False):
-            c = {"P31": [{"mainsnak": {"datavalue": {"value": {"id": human}}}}], "P106": [{"mainsnak": {"datavalue": {"value": {"id": job}}}}]}
-            if died:
-                c["P570"] = [{"mainsnak": {"datavalue": {"value": {}}}}]
-            return {"claims": c}
-        self.assertEqual(tp.roles_of(ent("Q33999"))["roles"], ["actor"])
-        self.assertEqual(tp.roles_of(ent("Q2526255"))["roles"], ["director"])
-        self.assertEqual(tp.roles_of(ent("Q82955"))["roles"], [])  # politician
-        self.assertFalse(tp.roles_of(ent("Q33999", died=True))["alive"])
+    def test_ids_come_from_wikipedia_with_redirects(self):
+        data = {"query": {"normalized": [{"from": "Margot robbie", "to": "Margot Robbie"}], "redirects": [{"from": "Mags", "to": "Margot Robbie"}],
+                          "pages": [{"title": "Margot Robbie", "pageprops": {"wikibase_item": "Q1924847"}}, {"title": "Main Page"}]}}
+        with mock.patch.object(tp.rc, "fetch", return_value=data):
+            self.assertEqual(tp.qids_for(["Margot_robbie", "Mags", "Main_Page"]), {"Margot_robbie": "Q1924847", "Mags": "Q1924847"})
+
+    def test_people_query_groups_roles_and_flags_australians(self):
+        def b(q, occ, au="0"):
+            return {"p": {"value": "http://www.wikidata.org/entity/" + q}, "pLabel": {"value": "Margot Robbie"}, "pDescription": {"value": "Australian actress"},
+                    "occ": {"value": "http://www.wikidata.org/entity/" + occ}, "au": {"value": au}}
+        with mock.patch.object(tp, "qids_for", return_value={"Margot_Robbie": "Q1"}), mock.patch.object(tp.rc, "sparql", return_value=[b("Q1", "Q33999", "1"), b("Q1", "Q3282637", "1")]):
+            p = tp.people_for(["Margot_Robbie"])["Q1"]
+        self.assertEqual((p["roles"], p["australian"], p["page"]), (["actor", "producer"], True, "Margot_Robbie"))
 
 
 class Money(unittest.TestCase):

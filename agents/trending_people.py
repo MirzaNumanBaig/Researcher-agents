@@ -15,6 +15,7 @@ import json
 import math
 import re
 import sys
+import urllib.parse
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -60,42 +61,65 @@ def popularity():
     return week, month, n
 
 
-def roles_of(ent):
-    """{"roles": [...], "human": bool, "australian": bool} from a Wikidata entity."""
-    claims = ent.get("claims", {})
-    human = any(c["mainsnak"]["datavalue"]["value"].get("id") == "Q5" for c in rc.claim_values(claims, "P31"))
-    jobs = []
-    for c in rc.claim_values(claims, "P106"):
-        r = ROLES.get(c["mainsnak"]["datavalue"]["value"].get("id"))
-        if r and r not in jobs:
-            jobs.append(r)
-    aus = any(c["mainsnak"]["datavalue"]["value"].get("id") == AUSTRALIA for c in rc.claim_values(claims, "P27"))
-    died = bool(rc.claim_values(claims, "P570"))
-    return {"roles": jobs, "human": human, "australian": aus, "alive": not died}
+WP_API = "https://en.wikipedia.org/w/api.php"
 
 
-def people_for(titles):
-    """{title: {qid, name, description, roles...}} for the film/TV/music people among the Wikipedia titles."""
-    found = {}
+def qids_for(titles):
+    """{wikipedia title: Wikidata id} through Wikipedia's own API (50 titles per call, generous limits): far lighter on Wikidata than fetching entities."""
+    out = {}
     titles = list(titles)
     for i in range(0, len(titles), 50):
         chunk = [t.replace("_", " ") for t in titles[i:i + 50]]
-        print(f"  looking up people {i}-{i + len(chunk)} of {len(titles)}", flush=True)
+        print(f"  finding ids {i}-{i + len(chunk)} of {len(titles)}", flush=True)
         try:
-            data = rc.api(action="wbgetentities", sites="enwiki", titles="|".join(chunk), props="claims|descriptions|labels|sitelinks", sitefilter="enwiki", languages="en")
-        except Exception as e:  # one throttled batch must not lose the whole run
+            data = rc.fetch(WP_API + "?format=json&formatversion=2&action=query&prop=pageprops&ppprop=wikibase_item&redirects=1&titles=" + urllib.parse.quote("|".join(chunk)))["query"]
+        except Exception as e:  # one failed batch must not lose the whole run
             print(f"  batch skipped: {e}", file=sys.stderr, flush=True)
             continue
-        if data.get("error"):
-            raise RuntimeError(data["error"].get("info", "Wikidata error"))
-        for qid, ent in (data.get("entities") or {}).items():
-            if not qid.startswith("Q"):
-                continue
-            info = roles_of(ent)
-            if info["human"] and info["roles"] and info["alive"]:
-                page = (ent.get("sitelinks", {}).get("enwiki") or {}).get("title", "").replace(" ", "_")
-                found[qid] = {"qid": qid, "page": page, "name": rc.label(ent) or page.replace("_", " "), "description": (ent.get("descriptions", {}).get("en") or {}).get("value", ""),
-                              "roles": info["roles"], "australian": info["australian"]}
+        back = {}  # final page title -> the titles we asked for
+        for t in chunk:
+            cur = t
+            for step in ("normalized", "redirects"):
+                cur = next((m["to"] for m in data.get(step, []) if m["from"] == cur), cur)
+            back.setdefault(cur, []).append(t)
+        for pg in data.get("pages", []):
+            q = (pg.get("pageprops") or {}).get("wikibase_item")
+            for t in back.get(pg.get("title"), []):
+                if q:
+                    out[t.replace(" ", "_")] = q
+    return out
+
+
+def people_for(titles):
+    """{qid: {qid, page, name, description, roles, australian}} for the living film/TV/music people among the Wikipedia titles (ONE SPARQL query per 150)."""
+    ids = qids_for(titles)
+    page_of = {}
+    for t, q in ids.items():
+        page_of.setdefault(q, t)
+    found = {}
+    qs = list(page_of)
+    occ = " ".join(f"wd:{o}" for o in ROLES)
+    for i in range(0, len(qs), 150):
+        vals = " ".join(f"wd:{q}" for q in qs[i:i + 150])
+        query = f"""SELECT ?p ?pLabel ?pDescription ?occ (COUNT(?aus) AS ?au) WHERE {{
+          VALUES ?p {{ {vals} }} ?p wdt:P31 wd:Q5; wdt:P106 ?occ. VALUES ?occ {{ {occ} }}
+          FILTER NOT EXISTS {{ ?p wdt:P570 ?died }}
+          OPTIONAL {{ ?p wdt:P27 ?aus. FILTER(?aus = wd:{AUSTRALIA}) }}
+          SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }} }} GROUP BY ?p ?pLabel ?pDescription ?occ"""
+        try:
+            rows = rc.sparql(query)
+        except Exception as e:
+            print(f"  people query skipped: {e}", file=sys.stderr, flush=True)
+            continue
+        for b in rows:
+            q = rc.qid_of(rc.val(b, "p"))
+            page = page_of.get(q, "")
+            e = found.setdefault(q, {"qid": q, "page": page, "name": rc.val(b, "pLabel") or page.replace("_", " "), "description": rc.val(b, "pDescription"),
+                                     "roles": [], "australian": False})
+            r = ROLES.get(rc.qid_of(rc.val(b, "occ")))
+            if r and r not in e["roles"]:
+                e["roles"].append(r)
+            e["australian"] = e["australian"] or rc.val(b, "au") not in ("", "0")
     return found
 
 
