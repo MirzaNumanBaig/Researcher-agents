@@ -11039,6 +11039,22 @@
    "turns": 7,
    "seconds": 10,
    "cost_usd": 0.1036
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T18:37:06+00:00",
+   "batch": "2026-11-12 05:00",
+   "celebrity": "Dane Cook",
+   "article": "2026-11-12-05-00-dane-cook.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 18,
+   "output_tokens": 4451,
+   "cache_read_tokens": 258001,
+   "cache_write_tokens": 26078,
+   "turns": 12,
+   "seconds": 58,
+   "cost_usd": 0.1918
   }
  ]
 }
