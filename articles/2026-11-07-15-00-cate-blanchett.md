@@ -14,15 +14,16 @@ tags: ["Cate Blanchett", "Sydney"]
 image_prompt: "A quiet coastal garden at golden hour with granite steps, grasses and boulders beside a modern timber house, warm path lights glowing softly."
 sources:
   - "https://timesofindia.indiatimes.com/world/rest-of-world/cate-blanchett-wins-approval-for-a-luxury-garden-at-her-cornwall-eco-home-after-neighbours-raised-concerns-locals-had-earlier-accused-the-actor-of-encroaching-on-environmentally-important-land/articleshow/135575817.cms"
-image_alt: "Illustration of coastal eco-home with grass driveway and hardwood decking, lit by daytime, warm-white lighting."
+image_alt: "Cate Blanchett: Cate Blanchett presenting the movie T\u00e1r at the Berlinale 2023"
 image: "images/2026-11-07-15-00-cate-blanchett.webp"
-wp_media_id: 1690
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-15-00-cate-blanchett-768x432.webp"
 wp_id: 1691
 wp_link: "https://moduscarry.com/cate-blanchett-cornwall-garden/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:MKr26816_Cate_Blanchett_(T%C3%A1r,_Berlinale_2023).jpg\" rel=\"noopener\">Martin Kraft</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:MKr26816_Cate_Blanchett_(T%C3%A1r,_Berlinale_2023).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1690
 ---
 
 **Quick summary**

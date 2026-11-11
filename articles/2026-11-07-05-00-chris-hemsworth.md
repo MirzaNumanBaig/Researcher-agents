@@ -15,15 +15,16 @@ image_prompt: "A dusty stunt gym with crash mats, a rope rig and a half-built fi
 sources:
   - "https://theplaylist.net/stuntnuts-chris-hemsworth-sam-rockwell-matt-damon-to-star-in-matthew-vaughns-next-movie-a-meta-action-comedy-about-stuntmen-20261106/"
   - "https://collider.com/matt-damon-cast-chris-hemsworth-action-thriller-stuntnuts/"
-image_alt: "Illustration of film set with stunt performers and Hollywood blockbuster, lit by daytime, studio lights."
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
 image: "images/2026-11-07-05-00-chris-hemsworth.webp"
-wp_media_id: 1671
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-05-00-chris-hemsworth-768x432.webp"
 wp_id: 1672
 wp_link: "https://moduscarry.com/stuntnuts-chris-hemsworth/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1671
 ---
 
 **Quick summary**

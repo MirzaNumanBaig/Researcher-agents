@@ -15,15 +15,16 @@ image_prompt: "A city fire escape on a red brick building in soft morning light,
 sources:
   - "https://www.attitude.co.uk/culture/hudson-williams-sparks-underwear-campaign-speculation-539307/"
   - "https://www.attitude.co.uk/culture/hudson-williams-kisses-himself-yaga-539243/"
-image_alt: "Illustration of a woman in fire escape, lit by daytime."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-11-07-05-00-hudson-williams.webp"
-wp_media_id: 1673
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-05-00-hudson-williams-768x432.webp"
 wp_id: 1674
 wp_link: "https://moduscarry.com/hudson-williams-underwear-shoot/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(18).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(18).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1673
 ---
 
 **Quick summary**

@@ -15,15 +15,16 @@ image_prompt: "A quiet wooden dock stretching into calm water at sunrise beside 
 sources:
   - "https://nypost.com/2026/11/06/real-estate/inside-pamela-andersons-new-life-of-solitude-in-canada/"
   - "https://www.harpersbazaar.com/uk/beauty/hair/a74356030/soft-wolf-cut-pamela-anderson/"
-image_alt: "Illustration of two womans in private estate, lit by sunrise."
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
 image: "images/2026-11-07-05-00-pamela-anderson.webp"
-wp_media_id: 1677
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-05-00-pamela-anderson-768x432.webp"
 wp_id: 1678
 wp_link: "https://moduscarry.com/pamela-anderson-vancouver-island-life/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1677
 ---
 
 **Quick summary**

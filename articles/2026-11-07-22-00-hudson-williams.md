@@ -14,15 +14,16 @@ tags: ["Hudson Williams", "Connor Storrie", "Heated Rivalry"]
 image_prompt: "An empty hockey rink at night under bright arena lights, with a quiet row of empty seats and a soft haze over the ice."
 sources:
   - "https://www.classichits.ie/news/showbiz/hudson-williams-on-platonic-relationship-with-heated-rivalry-costar-were-just-completely-in-love-with-each-other/"
-image_alt: "Illustration of a man and a woman in television studio, lit by daytime, studio lights."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-11-07-22-00-hudson-williams.webp"
-wp_media_id: 1698
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-22-00-hudson-williams-768x432.webp"
 wp_id: 1699
 wp_link: "https://moduscarry.com/hudson-williams-connor-storrie-platonic/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(20).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(20).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1698
 ---
 
 **Quick summary**

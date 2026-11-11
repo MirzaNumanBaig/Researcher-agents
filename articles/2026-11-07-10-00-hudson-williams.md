@@ -15,15 +15,16 @@ image_prompt: "A foggy coastal fishing town at dusk with a lone cabin in dark wo
 sources:
   - "https://www.queerty.com/hudson-williams-makes-out-with-hudson-williams-in-wild-yaga-scene-20261106/"
   - "https://www.out.com/gay-tv-shows/hudson-williams-yaga-threesome-scene"
-image_alt: "Illustration of TV show set with TV show a person and a person, lit by daytime, studio lights."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-11-07-10-00-hudson-williams.webp"
-wp_media_id: 1683
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-10-00-hudson-williams-768x432.webp"
 wp_id: 1684
 wp_link: "https://moduscarry.com/hudson-williams-yaga-episode-4/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(19).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(19).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1683
 ---
 
 **Quick summary**

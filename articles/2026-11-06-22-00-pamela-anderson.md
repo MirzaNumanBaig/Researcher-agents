@@ -16,15 +16,16 @@ sources:
   - "https://variety.com/2026/film/festivals/torino-john-travolta-pamela-anderson-isabelle-huppert-1236940407/"
   - "https://mezha.net/eng/news/mezha-5f808542492293cdfcbd7b65_torino_film_festival/"
   - "https://www.dailymail.com/tvshowbiz/article-16270415/Pamela-Anderson-Vancouver-Island-home.html"
-image_alt: "Illustration of a single empty wooden chair beside a tall window, a row of lit white candles on a small table."
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
 image: "images/2026-11-06-22-00-pamela-anderson.webp"
-wp_media_id: 1665
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-22-00-pamela-anderson-768x432.webp"
 wp_id: 1666
 wp_link: "https://moduscarry.com/pamela-anderson-torino-honour/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1665
 ---
 
 **Quick summary**

@@ -15,15 +15,16 @@ image_prompt: "An empty premium cinema auditorium glowing with a bright lightnin
 sources:
   - "https://english.mathrubhumi.com/movies-music/news/avengers-doomsday-chris-hemsworth-teases-film-as-marvel-announces-nine-city-global-tour-hn55c1l7"
   - "https://www.koimoi.com/hollywood-news/avengers-doomsday-marvel-reveals-9-cities-for-world-tour-chris-hemsworth-reacts-with-doomsday-is-coming/"
-image_alt: "Illustration of a man in film set, lit by daytime, sunlight."
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
 image: "images/2026-11-07-22-00-chris-hemsworth.webp"
-wp_media_id: 1696
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-22-00-chris-hemsworth-768x432.webp"
 wp_id: 1697
 wp_link: "https://moduscarry.com/avengers-doomsday-world-tour/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1696
 ---
 
 **Quick summary**

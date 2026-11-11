@@ -15,15 +15,16 @@ image_prompt: "A film studio stunt set at dusk with a padded crash mat, rigging 
 sources:
   - "https://www.comingsoon.net/movies/news/2219503-cristiano-ronaldo-hollywood-matt-damon-chris-hemsworth-stuntnuts"
   - "https://www.mt.co.kr/index.php/en/entertainment/2026/11/06/2026110608161626615"
-image_alt: "Illustration of a man in film set, lit by daytime, studio lights."
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
 image: "images/2026-11-07-10-00-chris-hemsworth.webp"
-wp_media_id: 1681
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-07-10-00-chris-hemsworth-768x432.webp"
 wp_id: 1682
 wp_link: "https://moduscarry.com/chris-hemsworth-stuntnuts-ronaldo-korea/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1681
 ---
 
 **Quick summary**

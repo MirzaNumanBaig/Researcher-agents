@@ -14,15 +14,16 @@ tags: ["Cate Blanchett"]
 image_prompt: "An empty theatre stage lit by a single spotlight, rows of red velvet seats in soft shadow, a pair of shoes left at the edge of the boards"
 sources:
   - "https://www.harpersbazaar.com/uk/culture/a74364557/cate-blanchett-women-of-the-year-speech/"
-image_alt: "Illustration of a woman in theatre, lit by evening, stage lights."
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
 image: "images/2026-11-08-08-00-cate-blanchett.webp"
-wp_media_id: 1710
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-08-08-00-cate-blanchett-768x432.webp"
 wp_id: 1711
 wp_link: "https://moduscarry.com/cate-blanchett-women-of-the-year-speech/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-6.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-6.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1710
 ---
 
 **Quick summary**

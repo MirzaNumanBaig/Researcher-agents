@@ -15,15 +15,16 @@ image_prompt: "An empty grand European cinema at dusk, red velvet seats facing a
 sources:
   - "https://variety.com/2026/film/festivals/golshifteh-farahani-renate-reinsve-torino-female-talent-1236940760/"
   - "https://www.bbc.com/culture/article/20261103-the-norwegian-star-on-her-life-changing-role-in-2021s-the-worst-person-in-the-world"
-image_alt: "Illustration of two mans in film set, lit by daytime, natural light."
+image_alt: "Renate Reinsve: Actress Renate Reinsve at the 74nd Berlin International Film Festival"
 image: "images/2026-11-06-22-00-renate-reinsve.webp"
-wp_media_id: 1667
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-06-22-00-renate-reinsve-768x432.webp"
 wp_id: 1668
 wp_link: "https://moduscarry.com/renate-reinsve-butterfly/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-64403.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-64403.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1667
 ---
 
 **Quick summary**
