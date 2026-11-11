@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond: Villeneuve's Cryptic Answer"
 seo_description: "Robert Pattinson James Bond talk grows after Denis Villeneuve said casting is 'in process' and covered his eyes. See what is confirmed and what is not."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-villeneuve"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 05:00"
 celebrity: "Robert Pattinson"
@@ -15,6 +15,15 @@ image_prompt: "A dimly lit cinema auditorium with empty red seats and a single s
 sources:
   - "https://fandomwire.com/james-bond-denis-villeneuve-reaction-robert-pattinson/"
   - "https://www.vogue.com/article/the-case-for-robert-pattinson-as-bond"
+image: "images/2026-11-12-05-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson Bond Rumours: Villeneuve Covers His Eyes"
+image_credit: "Image: <a href=\"https://fandomwire.com/james-bond-denis-villeneuve-reaction-robert-pattinson/\" rel=\"nofollow noopener\">FandomWire</a> (cropped)"
+wp_media_id: 1909
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-05-00-robert-pattinson-768x432.webp"
+wp_id: 1910
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-villeneuve/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -10,14 +10,15 @@ tags: ["Hudson Williams", "Heated Rivalry"]
 image_prompt: "A quiet television studio with empty chairs facing each other under soft warm lights, a small crowd of blurred seats in the background."
 sources:
   - "https://www.bustle.com/entertainment/heated-rivalry-hudson-williams-parasocial-fans"
-image_alt: "Illustration of two mans in TV studio, lit by daytime, studio lights."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-10-31-09-00-hudson-williams.webp"
-wp_media_id: 1374
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-09-00-hudson-williams-768x432.webp"
 wp_id: 1375
 wp_link: "https://moduscarry.com/hudson-williams-on-fans-parasocial-bonds-and-shipping/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1374
 ---
 
 **Quick summary**

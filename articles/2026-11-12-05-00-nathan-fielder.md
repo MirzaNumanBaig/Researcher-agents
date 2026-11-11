@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder Documentary: Amanda Seyfried Speaks Out"
 seo_description: "Nathan Fielder's documentary You Can See Everything: Amanda Seyfried says she filmed it without telling her agents and had no approval over scenes."
 focus_keyword: "Nathan Fielder documentary"
 permalink: "nathan-fielder-documentary-amanda-seyfried"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 05:00"
 celebrity: "Nathan Fielder"
@@ -14,6 +14,10 @@ tags: ["Amanda Seyfried", "Emma Stone"]
 image_prompt: "An empty cinema with red seats and a glowing screen at night, a lone projector beam cutting through the dust."
 sources:
   - "https://variety.com/2026/film/news/amanda-seyfried-slams-billy-evans-you-can-see-everything-filming-1236945046/"
+wp_id: 1907
+wp_link: "https://moduscarry.com/nathan-fielder-documentary-amanda-seyfried/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

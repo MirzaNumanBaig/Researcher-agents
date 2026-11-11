@@ -11,14 +11,15 @@ image_prompt: "A misty coastal fishing town at dusk on Halloween night, a lone l
 sources:
   - "https://www.radiotimes.com/tv/fantasy/yaga-hudson-williams-input-kat-sandler-exclusive-newsupdate/"
   - "https://www.theguardian.com/tv-and-radio/2026/oct/31/tv-tonight-halloween-weirdness-with-heated-rivalrys-hudson-williams"
-image_alt: "Illustration of a man in film set, lit by night, moonlight."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-10-31-19-00-hudson-williams.webp"
-wp_media_id: 1384
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-19-00-hudson-williams-768x432.webp"
 wp_id: 1385
 wp_link: "https://moduscarry.com/hudson-williams-plays-two-roles-as-yaga-lands-on-sky/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1384
 ---
 
 **Quick summary**

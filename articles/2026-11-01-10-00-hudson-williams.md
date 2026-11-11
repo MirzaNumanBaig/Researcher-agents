@@ -10,14 +10,15 @@ tags: ["Hudson Williams", "Yaga", "Heated Rivalry", "Carrie-Anne Moss"]
 image_prompt: "A misty coastal forest at dusk with a lone old mansion, bare trees and a dark bird perched on a fence."
 sources:
   - "https://www.theguardian.com/tv-and-radio/2026/oct/31/yaga-review-sky-atlantic-erotic-thriller-hudson-williams"
-image_alt: "Illustration of a man in film set, lit by night, moonlight."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-11-01-10-00-hudson-williams.webp"
-wp_media_id: 1407
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-01-10-00-hudson-williams-768x432.webp"
 wp_id: 1408
 wp_link: "https://moduscarry.com/yaga-review-hudson-williams-plays-two-roles-in-sky-thriller/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1407
 ---
 
 **Quick summary**

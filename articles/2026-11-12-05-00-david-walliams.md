@@ -5,7 +5,7 @@ seo_title: "David Walliams Allegations: Ministers Weigh New TV Laws"
 seo_description: "David Walliams allegations prompt UK ministers to weigh new laws for TV and film, while Fing! loses its distributors. He denies wrongdoing. Read the latest."
 focus_keyword: "David Walliams allegations"
 permalink: "david-walliams-allegations-ministers-law"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 05:00"
 celebrity: "David Walliams"
@@ -19,6 +19,15 @@ sources:
   - "https://www.theguardian.com/tv-and-radio/2026/nov/11/david-walliams-power-and-silence-review-itvx-youtube"
   - "https://www.theguardian.com/commentisfree/2026/nov/11/russell-brand-david-walliams-noughties-culture-girls-women"
   - "https://deadline.com/2026/11/david-walliams-jonathan-ross-statement-comedy-awards-joke-1237220082/"
+image: "images/2026-11-12-05-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams Allegations: Ministers Weigh Law Change"
+image_credit: "Image: <a href=\"https://www.theguardian.com/tv-and-radio/2026/nov/11/david-walliams-australian-film-cameo-cut-sexual-harassment-allegations-ntwnfb\" rel=\"nofollow noopener\">The Guardian</a> (cropped)"
+wp_media_id: 1891
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-05-00-david-walliams-768x432.webp"
+wp_id: 1892
+wp_link: "https://moduscarry.com/david-walliams-allegations-ministers-law/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

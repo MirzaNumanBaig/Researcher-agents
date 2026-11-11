@@ -5,7 +5,7 @@ seo_title: "Stallone Schwarzenegger Rivalry: Sly Looks Back on the Feud"
 seo_description: "Sylvester Stallone talks about his Schwarzenegger rivalry on a new podcast, from the Golden Globes stink eye to Rambo versus Commando. Here is what he said."
 focus_keyword: "Stallone Schwarzenegger rivalry"
 permalink: "stallone-schwarzenegger-rivalry"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 05:00"
 celebrity: "Sylvester Stallone"
@@ -16,6 +16,15 @@ sources:
   - "https://collider.com/sylvester-stallone-arnold-schwarzenegger-20-year-rivalry/"
   - "https://www.newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/sylvester-stallone-hollywood-icon-on-his-new-career-rocky-tulsa-king-memoir-the-steps/"
   - "https://theholofiles.com/2026/11/11/i-play-rocky-ending-explained/"
+image: "images/2026-11-12-05-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Stallone Reflects on His 20-Year Schwarzenegger Rivalry"
+image_credit: "Image: <a href=\"https://collider.com/sylvester-stallone-arnold-schwarzenegger-20-year-rivalry/\" rel=\"nofollow noopener\">Collider</a> (cropped)"
+wp_media_id: 1919
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-05-00-sylvester-stallone-768x432.webp"
+wp_id: 1920
+wp_link: "https://moduscarry.com/stallone-schwarzenegger-rivalry/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

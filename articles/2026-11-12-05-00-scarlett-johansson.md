@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Scapegoat: Ari Aster Film and Paper Tiger"
 seo_description: "Scarlett Johansson on Scapegoat, Ari Aster's secret new film, and her role as a mother facing a hidden diagnosis in James Gray's Paper Tiger."
 focus_keyword: "Scarlett Johansson Scapegoat"
 permalink: "scarlett-johansson-scapegoat"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 05:00"
 celebrity: "Scarlett Johansson"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium at night with red seats and a glowing 
 sources:
   - "https://www.latimes.com/entertainment-arts/movies/story/2026-11-11/scarlett-johansson-paper-tiger-james-gray"
   - "https://www.avclub.com/scarlett-johannson-ari-aster-scapegoat-mysterious"
+image: "images/2026-11-12-05-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson Talks Paper Tiger and Ari Aster's Scapegoat"
+image_credit: "Image: <a href=\"https://www.avclub.com/scarlett-johannson-ari-aster-scapegoat-mysterious\" rel=\"nofollow noopener\">A.V. Club</a> (cropped)"
+wp_media_id: 1917
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-05-00-scarlett-johansson-768x432.webp"
+wp_id: 1918
+wp_link: "https://moduscarry.com/scarlett-johansson-scapegoat/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

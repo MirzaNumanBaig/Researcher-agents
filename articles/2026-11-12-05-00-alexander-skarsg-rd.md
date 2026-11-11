@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Wicker Sequel Corduroy Joke Explained"
 seo_description: "Alexander Skarsgård jokes that a Wicker sequel called Corduroy is being pitched around Hollywood. Here is what he said and how critics rate the film."
 focus_keyword: "Alexander Skarsgård Wicker sequel"
 permalink: "alexander-skarsgard-wicker-sequel"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 05:00"
 celebrity: "Alexander Skarsgård"
@@ -14,6 +14,15 @@ tags: ["Alexander Skarsgård", "Olivia Colman", "Peter Dinklage", "Elizabeth Deb
 image_prompt: "A handwoven wicker figure standing in a misty seaside fishing village at dawn, with a small boat and a cosy cinema marquee glowing nearby."
 sources:
   - "https://uk.news.yahoo.com/alexander-skarsg-rd-reveals-material-153000112.html"
+image: "images/2026-11-12-05-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd Jokes About a Wicker Sequel Called Corduroy"
+image_credit: "Image: <a href=\"https://uk.news.yahoo.com/alexander-skarsg-rd-reveals-material-153000112.html\" rel=\"nofollow noopener\">Yahoo News UK</a> (cropped)"
+wp_media_id: 1885
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-05-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 1886
+wp_link: "https://moduscarry.com/alexander-skarsgard-wicker-sequel/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

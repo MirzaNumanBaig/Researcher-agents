@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Billy Evans: Her First Interview Explained"
 seo_description: "Amanda Seyfried breaks her silence on You Can See Everything and her tense dinner with Billy Evans. Here is what she told Rolling Stone and why it matters."
 focus_keyword: "Amanda Seyfried Billy Evans"
 permalink: "amanda-seyfried-billy-evans"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 05:00"
 celebrity: "Amanda Seyfried"
@@ -18,6 +18,15 @@ sources:
   - "https://variety.com/2026/film/news/amanda-seyfried-slams-billy-evans-you-can-see-everything-filming-1236945046/"
   - "https://www.cinemablend.com/movies/curious-what-it-was-like-being-in-room-with-elizabeth-holmes-partner-prison-entrance-amanda-seyfried-opens-up-billy-evans-nathan-fielder"
   - "https://www.goldderby.com/film/2026/you-can-see-everything-amanda-seyfried-first-interview/"
+image: "images/2026-11-12-05-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried on Billy Evans and 'You Can See Everything'"
+image_credit: "Image: <a href=\"https://www.thewrap.com/creative-content/movies/amanda-seyfried-billy-evans-you-can-see-everything-interview/\" rel=\"nofollow noopener\">TheWrap</a> (cropped)"
+wp_media_id: 1887
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-05-00-amanda-seyfried-768x432.webp"
+wp_id: 1888
+wp_link: "https://moduscarry.com/amanda-seyfried-billy-evans/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

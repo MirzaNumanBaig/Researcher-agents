@@ -19,6 +19,7 @@ wp_id: 1882
 wp_link: "https://moduscarry.com/robert-pattinson-james-bond-drama/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
