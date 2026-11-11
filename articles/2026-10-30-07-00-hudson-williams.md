@@ -10,14 +10,15 @@ tags: ["Hudson Williams", "Heated Rivalry", "Fashion"]
 image_prompt: "A single hand-knitted cardigan on a wooden hanger in a bright studio, orange fabric swatches and a sewing table nearby, warm morning light."
 sources:
   - "https://www.albertanativenews.com/section-35-cardigan-go-viral-after-hudson-williams-wears-it-on-orange-shirt-day/"
-image_alt: "Illustration of a man in a person event, lit by daytime, natural light."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-10-30-07-00-hudson-williams.webp"
-wp_media_id: 1311
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-07-00-hudson-williams-768x432.webp"
 wp_id: 1312
 wp_link: "https://moduscarry.com/hudson-williams-orange-shirt-day-cardigan-sells-out/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1311
 ---
 
 **Quick summary**

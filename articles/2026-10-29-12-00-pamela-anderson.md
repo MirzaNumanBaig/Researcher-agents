@@ -11,14 +11,15 @@ image_prompt: "A quiet vanity table with soft white and cream nail polish bottle
 sources:
   - "https://www.women.com/2294469/pamela-anderson-is-jumping-on-the-ombre-manicure-trend-aka-the-french-fade/"
   - "https://latination.com/pamela-anderson-rediscovers-beauty-without-makeup/"
-image_alt: "Illustration of a man in a person, lit by daytime, natural light."
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
 image: "images/2026-10-29-12-00-pamela-anderson.webp"
-wp_media_id: 1283
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-12-00-pamela-anderson-768x432.webp"
 wp_id: 1284
 wp_link: "https://moduscarry.com/pamela-andersons-soft-french-fade-nails-and-bare-faced-style/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1283
 ---
 
 **Quick summary**

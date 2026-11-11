@@ -11,14 +11,15 @@ image_prompt: "A quiet film set at dusk with a empty director's chair, a clapper
 sources:
   - "https://www.ladbible.com/entertainment/celebrity/jennifer-lawrence-hunger-games-kiss-scenes-liam-hemsworth-bad-breath-427733-20261028"
   - "https://www.justjared.com/2026/10/28/jennifer-lawrence-responds-to-liam-hemsworths-tuna-sandwich-dig-reveals-cringey-remark-she-made-to-bradley-cooper/"
-image_alt: "Illustration of a woman and a man in podcast recording studio, lit by daytime, studio lights."
+image_alt: "Liam Hemsworth: Liam Hemsworth"
 image: "images/2026-10-29-03-00-liam-hemsworth.webp"
-wp_media_id: 1265
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-03-00-liam-hemsworth-768x432.webp"
 wp_id: 1266
 wp_link: "https://moduscarry.com/jennifer-lawrence-answers-liam-hemsworths-tuna-kiss-claim/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/9358123180\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/9358123180\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 1265
 ---
 
 **Quick summary**

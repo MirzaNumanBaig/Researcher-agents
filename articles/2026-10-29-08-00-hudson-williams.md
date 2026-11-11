@@ -11,14 +11,15 @@ image_prompt: "An empty ice rink at dusk with a lone pair of hockey skates and a
 sources:
   - "https://www.fanbolt.com/185953/from-heated-rivalry-to-the-writers-room-hudson-williams-teases-a-new-film-with-a-hockey-twist/"
   - "https://www.eonline.com/news/1437580/the-best-k-beauty-gifts-under-s25-including-hudson-williams-skincare-pick"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-10-29-08-00-hudson-williams.webp"
-wp_media_id: 1275
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-08-00-hudson-williams-768x432.webp"
 wp_id: 1276
 wp_link: "https://moduscarry.com/hudson-williams-is-writing-a-film-with-an-ex-hockey-player/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1275
 ---
 
 **Quick summary**

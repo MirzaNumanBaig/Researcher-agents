@@ -10,14 +10,15 @@ tags: ["Pamela Anderson"]
 image_prompt: "A rustic cottage kitchen garden with raised wooden beds, tall sunflowers, pink roses and a squash-covered archway in soft morning light."
 sources:
   - "https://timesofindia.indiatimes.com/life-style/home-garden/pamela-andersons-garden-at-her-childhood-estate-in-vancouver-is-a-rustic-vintage-cottage-straight-out-of-a-storybook-from-embracing-imperfection-to-consistency-gardening-rules-beginners-can-follow/articleshow/135291470.cms"
-image_alt: "Illustration of a person with raised beds and climbing squash, lit by daylight."
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
 image: "images/2026-10-29-18-00-pamela-anderson.webp"
-wp_media_id: 1291
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-18-00-pamela-anderson-768x432.webp"
 wp_id: 1292
 wp_link: "https://moduscarry.com/pamela-andersons-storybook-garden-and-her-simple-growing-rules/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1291
 ---
 
 **Quick summary**

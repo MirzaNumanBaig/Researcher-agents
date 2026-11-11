@@ -10,14 +10,15 @@ tags: ["Hudson Williams", "The Assembly", "Jay Baruchel", "Heated Rivalry", "CBC
 image_prompt: "An empty television studio with a single armchair facing a semicircle of chairs under warm lights, quiet and inviting."
 sources:
   - "https://ca.news.yahoo.com/assembly-returns-season-hudson-mack-180027484.html"
-image_alt: "Illustration of two womans in TV studio, lit by evening, studio lights."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-10-31-00-00-hudson-williams.webp"
-wp_media_id: 1347
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-00-00-hudson-williams-768x432.webp"
 wp_id: 1348
 wp_link: "https://moduscarry.com/hudson-williams-joins-cbcs-the-assembly-for-season-2/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1347
 ---
 
 **Quick summary**

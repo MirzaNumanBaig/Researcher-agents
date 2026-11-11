@@ -14,14 +14,15 @@ sources:
   - "https://economictimes.indiatimes.com/magazines/panache/pamela-andersons-peaceful-garden-inside-baywatch-stars-vancouver-island-home-and-her-love-for-gardening/articleshow/135359599.cms"
   - "https://news.ssbcrack.com/pamela-anderson-embraces-the-ombre-manicure-trend-with-a-chic-french-twist/"
   - "https://news.ssbcrack.com/pamela-anderson-redefines-hollywood-glamour-with-natural-look-and-sustainable-fashion-choices/"
-image_alt: "Illustration of a woman in a person, lit by sunset."
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
 image: "images/2026-10-31-00-00-pamela-anderson.webp"
-wp_media_id: 1353
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-31-00-00-pamela-anderson-768x432.webp"
 wp_id: 1354
 wp_link: "https://moduscarry.com/pamela-andersons-garden-video-and-tomato-red-nails/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1353
 ---
 
 **Quick summary**

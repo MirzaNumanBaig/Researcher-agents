@@ -10,14 +10,15 @@ tags: ["Hudson Williams", "Yaga", "Heated Rivalry", "Carrie-Anne Moss"]
 image_prompt: "A foggy fishing town on a rugged coastline at dusk, a lit diner window glowing beside a dark forest edge."
 sources:
   - "https://www.yahoo.com/entertainment/tv/articles/hudson-williams-isn-t-only-213531969.html"
-image_alt: "Illustration of a woman in film set, lit by daytime, soft studio lights."
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
 image: "images/2026-10-30-11-00-hudson-williams.webp"
-wp_media_id: 1331
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-11-00-hudson-williams-768x432.webp"
 wp_id: 1332
 wp_link: "https://moduscarry.com/hudson-williams-plays-two-roles-in-craves-yaga/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1331
 ---
 
 **Quick summary**

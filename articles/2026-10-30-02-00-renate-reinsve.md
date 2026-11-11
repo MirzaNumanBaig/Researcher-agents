@@ -10,14 +10,15 @@ tags: ["Renate Reinsve", "Sebastian Stan", "Fjord", "Cristian Mungiu"]
 image_prompt: "A lone wooden house beside a cold Norwegian fjord at dusk, mist over dark water and a single lit window."
 sources:
   - "https://www.inlander.com/screen/sebastian-stan-and-renate-reinsve-are-both-outstanding-but-cristian-mungiu-s-frigid-fjord-is/article_1316da3a-2929-467e-b7f7-01cf64263f42.html"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Renate Reinsve: Renate Reinsve @ Sentimental Value screening, tiff 2025"
 image: "images/2026-10-30-02-00-renate-reinsve.webp"
-wp_media_id: 1305
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-30-02-00-renate-reinsve-768x432.webp"
 wp_id: 1306
 wp_link: "https://moduscarry.com/renate-reinsve-shines-in-cristian-mungius-fjord-critic-says/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve_@_Sentimental_Value_screening,_tiff_2025.jpg\" rel=\"noopener\">Jyo in Toronto</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve_@_Sentimental_Value_screening,_tiff_2025.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1305
 ---
 
 **Quick summary**

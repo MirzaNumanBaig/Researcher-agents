@@ -27,6 +27,7 @@ wp_id: 1888
 wp_link: "https://moduscarry.com/amanda-seyfried-billy-evans/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
