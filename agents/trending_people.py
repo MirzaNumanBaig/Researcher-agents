@@ -137,7 +137,8 @@ def films_for(people):
         query = f"""SELECT ?p ?f ?pub WHERE {{
           VALUES ?p {{ {vals} }} ?f (wdt:P161|wdt:P57|wdt:P162) ?p.
           ?f wdt:P31 ?kind. VALUES ?kind {{ {FILM_KINDS} }} ?f wdt:P577 ?pub.
-          FILTER(?pub >= "{since}T00:00:00Z"^^xsd:dateTime && ?pub <= "{until}T00:00:00Z"^^xsd:dateTime) }}"""
+          FILTER(?pub >= "{since}T00:00:00Z"^^xsd:dateTime && ?pub <= "{until}T00:00:00Z"^^xsd:dateTime)
+          FILTER NOT EXISTS {{ ?f wdt:P577 ?early. FILTER(?early < "{since}T00:00:00Z"^^xsd:dateTime) }} }}"""
         try:
             rows = rc.sparql(query)
         except Exception as e:
@@ -191,10 +192,10 @@ def k(n):
 def report(data):
     lines = [f"# Hot people ({data['updated']})", "", "Source: Wikipedia most-viewed pages (last 7 days vs last full month) + Wikidata. Trend = views per day this week / last month.", ""]
     for key, title in (("hot_now", "In the news right now"), ("always_popular", "Always popular"), ("filmmakers", "Directors, producers and writers")):
-        lines += [f"## {title}", "", "| Person | Roles | Views 7d | Trend | Tracked | Films (release date) |", "|---|---|---|---|---|---|"]
+        lines += [f"## {title}", "", "| Person | Roles | Views 7d | Views month | Trend | Tracked | Films (release date) |", "|---|---|---|---|---|---|---|"]
         for r in data[key][:25]:
             films = "; ".join(f"{f['title']} ({f['date']})" for f in r.get("films", [])[:4]) or "-"
-            lines.append(f"| [{r['name']}]({r['wikipedia']}) | {', '.join(r['roles'])} | {k(r['views_7d'])} | {r['trend'] if r['trend'] is not None else '-'} | {'yes' if r['tracked'] else 'no'} | {films} |")
+            lines.append(f"| [{r['name']}]({r['wikipedia']}) | {', '.join(r['roles'])} | {k(r['views_7d'])} | {k(r['views_month'])} | {r['trend'] if r['trend'] is not None else '-'} | {'yes' if r['tracked'] else 'no'} | {films} |")
         lines.append("")
     if data["not_tracked"]:
         lines += ["## Not tracked yet (candidates to add to config.json)", "", ", ".join(data["not_tracked"][:40]), ""]

@@ -471,7 +471,7 @@ $("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=
 /* --- Hot people and Movies views (data/trending.json and data/movies.json, built weekly from Wikipedia + Wikidata) --- */
 const mon=n=>!n?"-":n>=1e9?"$"+(n/1e9).toFixed(2)+"B":n>=1e6?"$"+Math.round(n/1e6)+"M":"$"+Math.round(n/1e3)+"k";
 const hotRow=r=>'<li class="hrow"><div><a href="'+esc(r.wikipedia)+'" target="_blank" rel="noopener"><b>'+esc(r.name)+'</b></a> <span class="chip">'+esc(r.roles.join(" · "))+'</span>'+(r.tracked?' <span class="chip ok">tracked</span>':' <span class="chip">not tracked</span>')+(r.australian?' <span class="chip">Australian</span>':"")+'</div>'+
-'<div class="muted small">'+esc(r.description||"")+'</div><div class="small">'+kf(r.views_7d)+' Wikipedia views this week'+(r.trend?' · trend '+(r.trend>=2?'spiking ':r.trend>=1.3?'rising ':'')+'×'+r.trend:"")+'</div>'+
+'<div class="muted small">'+esc(r.description||"")+'</div><div class="small">'+kf(r.views_7d)+' Wikipedia views this week · '+kf(r.views_month)+' last month'+(r.trend?' · trend '+(r.trend>=2?'spiking ':r.trend>=1.3?'rising ':'')+'×'+r.trend:"")+'</div>'+
 ((r.films||[]).length?'<div class="small">Films: '+r.films.slice(0,4).map(f=>esc(f.title)+' <span class="muted">('+esc(f.date)+')</span>').join(" · ")+'</div>':"")+'</li>';
 function hotView(){const H=D.hot||{};if(!H.hot_now)return'<div class="empty">No list yet. Run the "Hot people and movies" workflow (Actions tab) once; it then refreshes every week.</div>';
 const sec=(t,k,n)=>'<section class="ucard"><h2>'+t+'</h2><ul class="hlist">'+(H[k]||[]).slice(0,n||15).map(hotRow).join("")+'</ul></section>';

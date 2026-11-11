@@ -34,20 +34,21 @@ UNITS = {"Q4917": "USD", "Q4916": "EUR", "Q25224": "GBP", "Q25236": "AUD"}
 
 # ---------- money and verdicts (pure functions, tested) ----------
 def money(text):
-    """USD amount in dollars from infobox text like '$150 million', 'US$1.2 billion', '$12,345,678'. None when unclear (other currencies are not guessed)."""
-    t = html.unescape(re.sub(r"<[^>]+>|\[\d+\]", "", text or "")).replace(",", "")
-    m = re.search(r"(?:US|USD)?\s*\$\s*([\d.]+)\s*(billion|million|bn|m)?", t, re.I)
-    if not m:
-        m2 = re.search(r"\{\{\s*(?:US\$|USD|\$)\s*\|\s*([\d.]+)\s*\|?\s*(billion|million)?", text or "", re.I)
-        m = m2
+    """USD amount in dollars from infobox text like '$150 million', 'US$1.2 billion', '$30-35 million', '$12,345,678'. None when unclear
+    (other currencies are not guessed; a bare number under $10,000 is treated as a parsing slip)."""
+    raw = text or ""
+    t = html.unescape(re.sub(r"<[^>]+>|\[\d+\]", "", raw)).replace(",", "")
+    m = re.search(r"(?:US|USD)?\s*\$\s*([\d.]+)(?:\s*[\u2013\u2014-]\s*\$?([\d.]+))?\s*(billion|million|bn|m(?![a-z]))?", t, re.I) \
+        or re.search(r"\{\{\s*(?:US\$|USD|\$)\s*\|\s*([\d.]+)()\s*\|?\s*(billion|million)?", raw, re.I)
     if not m:
         return None
     try:
         n = float(m.group(1))
     except ValueError:
         return None
-    unit = (m.group(2) or "").lower()
-    return int(n * (1e9 if unit in ("billion", "bn") else 1e6 if unit in ("million", "m") else 1))
+    unit = (m.group(3) or "").lower()
+    v = int(n * (1e9 if unit in ("billion", "bn") else 1e6 if unit in ("million", "m") else 1))
+    return v if v >= 10_000 else None
 
 
 def fmt_money(n):
@@ -82,6 +83,8 @@ def verdict(release, gross, budget, today=None):
     if (today - d).days < 21 or not gross:
         return "Too early" if (today - d).days < 21 else "No figures yet"
     if not budget:
+        return f"Grossed {fmt_money(gross)}"
+    if gross == budget:  # identical figures are almost always a data slip, not a verdict
         return f"Grossed {fmt_money(gross)}"
     r = gross / budget
     return "Hit" if r >= 2.5 else "Modest" if r >= 1.5 else "Weak"
@@ -136,7 +139,9 @@ def reception(page):
     cons = re.search(r"consensus[^\"“”]{0,60}[\"“]([^\"”]{20,320})[\"”]", text, re.I)
     if cons:
         out["consensus"] = cons.group(1).strip()
-    sents = [s for s in re.split(r"(?<=[.!?])\s+", text) if 40 < len(s) < 330 and not re.search(r"Rotten Tomatoes|Metacritic|CinemaScore|reviews? from|based on \d", s)]
+    text = re.sub(r"\[(?:edit|edit source)[^\]]*\]", ". ", text)
+    sents = [s.strip() for s in re.split(r"(?<=[.!?])\s+", text) if 40 < len(s) < 330
+             and not re.search(r"Rotten Tomatoes|Metacritic|CinemaScore|reviews? from|based on \d|gross|box office|crore|million|billion|\$|\u20b9|Reception|\[edit", s, re.I)]
     if sents:
         out["overview"] = " ".join(sents[:2])[:480]
     return out
@@ -197,7 +202,8 @@ def tracked_films(names):
           VALUES ?name {{ {labels} }} ?p rdfs:label ?name. ?p wdt:P31 wd:Q5.
           ?f (wdt:P161|wdt:P57|wdt:P162) ?p.
           ?f wdt:P31 ?kind. VALUES ?kind {{ {FILM_KINDS} }} ?f wdt:P577 ?pub.
-          FILTER(?pub >= "{since}T00:00:00Z"^^xsd:dateTime && ?pub <= "{until}T00:00:00Z"^^xsd:dateTime) }}"""
+          FILTER(?pub >= "{since}T00:00:00Z"^^xsd:dateTime && ?pub <= "{until}T00:00:00Z"^^xsd:dateTime)
+          FILTER NOT EXISTS {{ ?f wdt:P577 ?early. FILTER(?early < "{since}T00:00:00Z"^^xsd:dateTime) }} }}"""
         try:
             ids += [rc.qid_of(rc.val(b, "f")) for b in rc.sparql(q)]
         except Exception as e:
@@ -221,8 +227,9 @@ def build(limit=60):
     details = film_details(qids)
     films = []
     for q, d in details.items():
-        if not d["title"] or not parse_date(d["release"]):
-            continue
+        rd = parse_date(d["release"])
+        if not d["title"] or not rd or not (date.today() - timedelta(days=150) <= rd <= date.today() + timedelta(days=430)):
+            continue  # unknown date, or the real first release was long ago (a re-release matched the window)
         films.append(d)
     # rank: films with many tracked/hot people and recent/soon first
     today = date.today()

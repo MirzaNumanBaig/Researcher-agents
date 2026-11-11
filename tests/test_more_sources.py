@@ -118,6 +118,8 @@ class Money(unittest.TestCase):
         self.assertEqual(movies.money("US$1.2 billion"), 1_200_000_000)
         self.assertEqual(movies.money("$12,345,678<ref>x</ref>"), 12_345_678)
         self.assertEqual(movies.money("{{US$|150|million}}"), 150_000_000)
+        self.assertEqual(movies.money("$30\u201335 million"), 30_000_000)
+        self.assertIsNone(movies.money("$50"))  # a bare small number is a parsing slip
         self.assertIsNone(movies.money("€40 million"))
         self.assertIsNone(movies.money(""))
 
@@ -131,6 +133,7 @@ class Money(unittest.TestCase):
         self.assertEqual(movies.verdict("2026-06-01", 180e6, 100e6, today), "Modest")
         self.assertEqual(movies.verdict("2026-06-01", 90e6, 100e6, today), "Weak")
         self.assertEqual(movies.verdict("2026-06-01", None, 100e6, today), "No figures yet")
+        self.assertEqual(movies.verdict("2026-06-01", 345e3, 345e3, today), "Grossed $345k")  # equal figures: data slip, no verdict
 
 
 if __name__ == "__main__":
