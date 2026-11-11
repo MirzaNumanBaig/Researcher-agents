@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-11 04:00",
+  "celebrity": "Keanu Reeves",
+  "stories": [
+    {
+      "title": "Keanu Reeves' Brand-New John Wick Movie Looks Too Good to Ignore",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sZUYzYzNvSGFQbVZsUGNXaFhqbDhlR0REUVRmVzdCWUJQT2hoeFdqZllXek9MTkZ2T1ZBaHZuN2M2OXg3dGV6R2lLNEp4bnpWQ1JKOVNoSnBUU2NjSDVLekdIMjhoT29hOXBtTjRTR0dJT3FoN0tjVmlPY2I?oc=5",
+      "published": "2026-11-10T17:09:56+00:00",
+      "outlets": [
+        {
+          "source": "Comic Book Resources",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sZUYzYzNvSGFQbVZsUGNXaFhqbDhlR0REUVRmVzdCWUJQT2hoeFdqZllXek9MTkZ2T1ZBaHZuN2M2OXg3dGV6R2lLNEp4bnpWQ1JKOVNoSnBUU2NjSDVLekdIMjhoT29hOXBtTjRTR0dJT3FoN0tjVmlPY2I?oc=5",
+          "article_url": "https://www.cbr.com/john-wick-animated-prequel-perfect-new-action-movie/",
+          "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/keanu-reeves-wearing-suit-in-a-still-from-john-wick.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/keanu-reeves-wearing-suit-in-a-still-from-john-wick.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://www.cbr.com/john-wick-animated-prequel-perfect-new-action-movie/"
+    }
+  ]
+}

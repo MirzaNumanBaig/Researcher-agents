@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-11T01:16:34.633322+00:00",
+  "article": "2026-11-11-04-00-ryan-gosling",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "an anonymous figure and Mikey Day made the figure the figure laugh uncontrollably in a Saturday Night Live the figure.",
+    "emotion": "laughter",
+    "setting": "TV studio",
+    "key_objects": [
+      "Saturday Night Live",
+      "the figure the figure",
+      "cue card",
+      "red carpet"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "Saturday Night Live",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "TV studio",
+    "props": [
+      "Saturday Night Live",
+      "the figure the figure",
+      "cue card",
+      "red carpet"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "mood": "laughter",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot of a woman in her early 30s, standing confidently in a sleek, black dress, her long, curly brown hair tied back in a loose ponytail, her bright, inquisitive eyes sparkling with amusement as her eyebrows arch upwards in a gentle, knowing curve. Her full, rosy lips curve upwards in a soft, tender smile, and her jaw relaxes slightly, giving her a relaxed, carefree air. Her head is tilted slightly to one side, as if she's listening intently to something being whispered in her ear, and her shoulders are slightly raised, giving her a subtle, playful slouch. Her slender hands are tucked into the pockets of her dress, and she's standing a little ways off from the other person in the scene, giving her a sense of independence and confidence. She's standing in the midst of a bustling TV studio, with a bright, red carpet stretching out behind her, and a row of studio lights overhead casting a warm, golden glow over the entire scene. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3393833590,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of TV studio with Saturday Night Live and a person a person, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 123.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3393833590,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

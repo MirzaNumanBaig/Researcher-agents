@@ -1,0 +1,54 @@
+{
+ "name": "Delta Goodrem",
+ "qid": "Q228818",
+ "description": "Australian singer, songwriter, musician and actress (born 1984)",
+ "wikipedia_editions": 43,
+ "born": "1984-11-09",
+ "birthplace": "Sydney",
+ "occupations": [
+  "singer",
+  "actor",
+  "musician",
+  "pianist",
+  "songwriter",
+  "film actor",
+  "composer"
+ ],
+ "relationships": [
+  {
+   "name": "Nick Jonas",
+   "qid": "Q201656",
+   "kind": "partner",
+   "start": "2011-05-00",
+   "end": "2012-02-00",
+   "ended_by": "",
+   "fame": 75
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Love Is in the Air",
+   "qid": "Q122704340",
+   "date": "2023-09-28",
+   "type": "film",
+   "directors": [
+    "Adrian Powers"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Adrian Powers",
+   "projects": 1
+  }
+ ],
+ "costars": [],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}

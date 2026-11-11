@@ -1,0 +1,156 @@
+{
+ "name": "Kylie Minogue",
+ "qid": "Q11998",
+ "description": "Australian singer and actress (born 1968)",
+ "wikipedia_editions": 123,
+ "born": "1968-05-28",
+ "birthplace": "Melbourne",
+ "occupations": [
+  "singer",
+  "singer-songwriter",
+  "actor",
+  "entrepreneur",
+  "composer",
+  "film producer"
+ ],
+ "relationships": [
+  {
+   "name": "Olivier Martinez",
+   "qid": "Q504886",
+   "kind": "partner",
+   "start": "2003-00-00",
+   "end": "2007-02-00",
+   "ended_by": "",
+   "fame": 32
+  },
+  {
+   "name": "Andrés Velencoso",
+   "qid": "Q1060011",
+   "kind": "partner",
+   "start": "2008-07-00",
+   "end": "2013-10-00",
+   "ended_by": "",
+   "fame": 19
+  },
+  {
+   "name": "Clément Sibony",
+   "qid": "Q2980691",
+   "kind": "partner",
+   "start": "2014-02-00",
+   "end": "2015-00-00",
+   "ended_by": "",
+   "fame": 15
+  },
+  {
+   "name": "Joshua Sasse",
+   "qid": "Q16735484",
+   "kind": "partner",
+   "start": "",
+   "end": "2017-00-00",
+   "ended_by": "",
+   "fame": 14
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [],
+ "directors": [],
+ "costars": [
+  {
+   "name": "Julian McMahon",
+   "qid": "Q4223",
+   "projects": 1,
+   "fame": 44
+  },
+  {
+   "name": "Dwayne Johnson",
+   "qid": "Q10738",
+   "projects": 1,
+   "fame": 113
+  },
+  {
+   "name": "Whitney Houston",
+   "qid": "Q34389",
+   "projects": 1,
+   "fame": 137
+  },
+  {
+   "name": "Jane Fonda",
+   "qid": "Q41142",
+   "projects": 1,
+   "fame": 122
+  },
+  {
+   "name": "Leo Fitzpatrick",
+   "qid": "Q166493",
+   "projects": 1,
+   "fame": 21
+  },
+  {
+   "name": "Dolly Parton",
+   "qid": "Q180453",
+   "projects": 1,
+   "fame": 126
+  },
+  {
+   "name": "Paul Giamatti",
+   "qid": "Q208649",
+   "projects": 1,
+   "fame": 59
+  },
+  {
+   "name": "Guy Pearce",
+   "qid": "Q223745",
+   "projects": 1,
+   "fame": 61
+  },
+  {
+   "name": "Carla Gugino",
+   "qid": "Q228871",
+   "projects": 1,
+   "fame": 60
+  },
+  {
+   "name": "Q230516",
+   "qid": "Q230516",
+   "projects": 1,
+   "fame": 41
+  },
+  {
+   "name": "Alexandra Daddario",
+   "qid": "Q231556",
+   "projects": 1,
+   "fame": 72
+  },
+  {
+   "name": "Juno Temple",
+   "qid": "Q234434",
+   "projects": 1,
+   "fame": 49
+  },
+  {
+   "name": "Archie Panjabi",
+   "qid": "Q242702",
+   "projects": 1,
+   "fame": 36
+  },
+  {
+   "name": "Riley Keough",
+   "qid": "Q254947",
+   "projects": 1,
+   "fame": 43
+  },
+  {
+   "name": "Ioan Gruffudd",
+   "qid": "Q295974",
+   "projects": 1,
+   "fame": 40
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}

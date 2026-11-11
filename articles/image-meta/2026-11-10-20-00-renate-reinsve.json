@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-10T09:21:14.254931+00:00",
+  "article": "2026-11-10-20-00-renate-reinsve",
+  "ai_generated": true,
+  "story_type": "interview",
+  "analysis": {
+    "story_type": "interview",
+    "core_event": "an anonymous figure and an anonymous figure discuss their film an anonymous figure, which explores a the figure the figure between a devout couple and Norwegian authorities.",
+    "emotion": "thoughtful",
+    "setting": "film set",
+    "key_objects": [
+      "film an anonymous figure",
+      "Norwegian authorities",
+      "devout couple",
+      "children"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "muted blue",
+      "neutral beige",
+      "warm wood"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "film an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "film an anonymous figure",
+      "Norwegian authorities",
+      "devout couple",
+      "children"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "muted blue",
+      "neutral beige",
+      "warm wood"
+    ],
+    "mood": "thoughtful",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A wide establishing shot of a serene film set, taken from behind, captured with a 24mm lens, showcasing the simplicity of a single, empty armchair positioned in front of a rain-streaked window, its worn wood frame weathered to a soft, silvery grey. Soft grey light, seeping through the window, casts a gentle glow across the worn, beige-colored floor, illuminating the delicate dust motes dancing in the air. The camera's subtle grain and natural, muted colours evoke a sense of nostalgia and quiet contemplation. A single, empty chair stands as a poignant reminder of the film that was, its presence a testament to the thoughtful and respectful discussion that took place within its confines. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3232479243,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 223.7
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3232479243,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

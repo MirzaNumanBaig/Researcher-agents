@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-10T09:21:27.233911+00:00",
+  "article": "2026-11-10-20-00-margot-robbie",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "the figure the figure Coastal Gin appoints the figure the figure the figure Director",
+    "emotion": "excitement",
+    "setting": "business office",
+    "key_objects": [
+      "the figure the figure Gin",
+      "Richard Pilbeam",
+      "an anonymous figure",
+      "gin bottles",
+      "the figure strategy"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "blue",
+      "green",
+      "gold"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "the figure the figure Gin",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "business office",
+    "props": [
+      "the figure the figure Gin",
+      "Richard Pilbeam",
+      "an anonymous figure",
+      "gin bottles"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "green",
+      "gold"
+    ],
+    "mood": "excitement",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot of a middle-aged man in a suit, positioned side-on with his back to the left edge of the frame, looks over his shoulder with a mixture of excitement and pride etched on his face, his eyebrows slightly raised and his eyes shining with enthusiasm as he addresses a figure standing in the foreground, his mouth curved into a confident smile and his jaw set in determination. His shoulders are slightly hunched forward and his weight is evenly distributed between both feet, with one hand resting in his pocket and the other holding a gin bottle as a prop. He stands amidst a cluttered business office, with papers and files scattered across a large wooden desk in the midground, while a sleek blue and green striped background serves as a subtle backdrop, gradually fading into a soft blur in the background. The image is captured from an overhead position, using a 24mm lens to emphasize the scene's depth and create a sense of intimacy. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2575440084,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of business office with a person a person Gin and Richard Pilbeam, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 175.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2575440084,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

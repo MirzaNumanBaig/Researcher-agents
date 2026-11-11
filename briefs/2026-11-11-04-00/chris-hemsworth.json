@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-11 04:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "Luke Hemsworth, 45, Shares His Muscle Building Routine – from Regular Deadlifts to Daily Cardio",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM05nYk1CRXB4b1pXR2FXeVpSTTRoY3hmbl9qaUZEOVhoODlMY3dDMW9NQWhXOWJicGVlakhmMG53SHhpREc1RU9NcHhzdl9qOGxkcS1uT2xXZEx6Y3NaM0ZhTUFmanVxOHBlUUZZMUp2SGtJS25ZLUI3MzNjS3RuSGs3NC1YLS1OZzVTcUV0V3VTTG1zbWgwOWlR?oc=5",
+      "published": "2026-11-10T15:10:34+00:00",
+      "outlets": [
+        {
+          "source": "Men's Health",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM05nYk1CRXB4b1pXR2FXeVpSTTRoY3hmbl9qaUZEOVhoODlMY3dDMW9NQWhXOWJicGVlakhmMG53SHhpREc1RU9NcHhzdl9qOGxkcS1uT2xXZEx6Y3NaM0ZhTUFmanVxOHBlUUZZMUp2SGtJS25ZLUI3MzNjS3RuSGs3NC1YLS1OZzVTcUV0V3VTTG1zbWgwOWlR?oc=5",
+          "article_url": "https://www.menshealth.com/uk/building-muscle/a74374800/luke-hemsworth-training-diet-recovery/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/f15633ab-7982-4a00-bb0e-e811c8c92cd9.jpg?crop=0.979xw:1.00xh;0.0112xw,0&resize=1200:*"
+        }
+      ],
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f15633ab-7982-4a00-bb0e-e811c8c92cd9.jpg?crop=0.979xw:1.00xh;0.0112xw,0&resize=1200:*",
+      "image_source": "https://www.menshealth.com/uk/building-muscle/a74374800/luke-hemsworth-training-diet-recovery/"
+    },
+    {
+      "title": "A New Study Provides Hope for People Like Chris Hemsworth (and Me) Who May Have a Genetic Predisposition for Alzheimer's",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM1N2Nl93SFNuajNYLWtCYVBzS3JVOG5RVjd5b1p4T3Nsc3J4LXhHM0gwUklXS21CWWhqM0xUdzVFUXNfSVZZenNNVnk0eVZXYzBwdzV0a0JtWGpMcU1JeEh0UnFiVXc2aTRzeWJlbEFMV2Z5bEhOeVFWT1lYdVU2NldRZ3lTXzd5R0s2bGNMdE10eFlaNXVWVkhoa0c1THhuVERiRkRIaEF3Sm5YcUNVeVRWdFlhQkNTaXNQQTZVemZSbUoyaVZvSy04al9BQ3Jkc01paHkwZnN5aVQwX2NiaF9faVJ2Y2t2SHktR1hR?oc=5",
+      "published": "2026-11-10T12:40:36+00:00",
+      "outlets": [
+        {
+          "source": "Inc.com",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM1N2Nl93SFNuajNYLWtCYVBzS3JVOG5RVjd5b1p4T3Nsc3J4LXhHM0gwUklXS21CWWhqM0xUdzVFUXNfSVZZenNNVnk0eVZXYzBwdzV0a0JtWGpMcU1JeEh0UnFiVXc2aTRzeWJlbEFMV2Z5bEhOeVFWT1lYdVU2NldRZ3lTXzd5R0s2bGNMdE10eFlaNXVWVkhoa0c1THhuVERiRkRIaEF3Sm5YcUNVeVRWdFlhQkNTaXNQQTZVemZSbUoyaVZvSy04al9BQ3Jkc01paHkwZnN5aVQwX2NiaF9faVJ2Y2t2SHktR1hR?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

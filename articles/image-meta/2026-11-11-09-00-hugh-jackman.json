@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-10T23:13:49.197670+00:00",
+  "article": "2026-11-11-09-00-hugh-jackman",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure's an anonymous figure film misses its planned the figure date due to the director's medical procedure.",
+    "emotion": "delayed",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure film",
+      "Bondi Beach"
+    ],
+    "time_and_light": "daytime, sunlight",
+    "palette": [
+      "blue",
+      "sand",
+      "green"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "an anonymous figure film",
+      "Bondi Beach"
+    ],
+    "time_of_day": "daytime, sunlight",
+    "light": {
+      "source": "daytime, sunlight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "sand",
+      "green"
+    ],
+    "mood": "delayed",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium-wide shot, taken from an eye-level perspective, captures a dimly lit film set, with the 50mm lens framing the scene in a neutral, documentary style. A single, worn leather armchair sits empty, positioned directly in front of a large, curved screen displaying a faded image of Bondi Beach, the colours muted by the soft, diffused light streaming through the windows behind it. The screen's edges are slightly worn, and the image on it appears to be a few years old, with a few scratches and cracks scattered across the surface. A faint, blue-green glow emanates from the screen, casting a subtle sheen across the surrounding furniture. The room is quiet, with only the soft hum of a distant air conditioning unit breaking the stillness. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 3339216577,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 201.1
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 3339216577,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

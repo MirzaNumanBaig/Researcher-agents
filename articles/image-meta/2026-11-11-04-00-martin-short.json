@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-10T17:59:35.415723+00:00",
+  "article": "2026-11-11-04-00-martin-short",
+  "ai_generated": true,
+  "story_type": "music_release",
+  "analysis": {
+    "story_type": "music_release",
+    "core_event": "the figure the figure releases her first holiday the figure, featuring an anonymous figure and others.",
+    "emotion": "festive",
+    "setting": "recording studio",
+    "key_objects": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "the figure the figure",
+      "banjo",
+      "holiday carols"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "red",
+      "green",
+      "gold"
+    ],
+    "sensitivity": "high_risk",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "recording studio",
+    "props": [
+      "an anonymous figure",
+      "an anonymous figure",
+      "the figure the figure",
+      "banjo"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "red",
+      "green",
+      "gold"
+    ],
+    "mood": "festive",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A close-up detail shot of an empty recording studio, taken from a tilted angle with a 50mm lens, captures the faint scent of fresh wood and the soft hum of equipment. The camera pans across a gleaming banjo, its golden strings reflecting the warm studio lights like a miniature sun. A cluster of crisp, printed holiday carols lies scattered on a nearby music stand, their red and green covers glowing against the pale wood. The overall mood is one of tranquil anticipation, as if the music itself is waiting to be born. The image is bathed in the soft, golden light of the studio, with a subtle focus on the textures and details of the scene, reminiscent of a candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2895877980,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 140.8
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2895877980,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

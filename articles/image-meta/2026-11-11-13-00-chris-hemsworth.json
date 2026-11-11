@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-11T02:43:19.418811+00:00",
+  "article": "2026-11-11-13-00-chris-hemsworth",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "Muay Thai star the figure met an anonymous figure on the an anonymous figure set in Thailand.",
+    "emotion": "friendly",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "the figure",
+      "Muay Thai",
+      "an anonymous figure set",
+      "hammer"
+    ],
+    "time_and_light": "daylight",
+    "palette": [
+      "blue",
+      "gray",
+      "green"
+    ],
+    "sensitivity": "sensitive",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "the figure",
+      "Muay Thai",
+      "an anonymous figure set"
+    ],
+    "time_of_day": "daylight",
+    "light": {
+      "source": "daylight",
+      "direction": "from the side"
+    },
+    "palette": [
+      "blue",
+      "gray",
+      "green"
+    ],
+    "mood": "friendly",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot from a high angle, captured with a 24mm lens, shows an empty armchair positioned at the edge of a Muay Thai training ring, partially shaded by a Thai-style umbrella. The wooden floorboards, polished from years of use, reflect a soft grey light that spills across the space. A weathered Muay Thai bag hangs from a sturdy wooden post, its surface scarred and faded from countless hits. In the background, a subtle blur of green foliage and the distant sound of a waterfall create a sense of tranquility. The colour palette is a soothing blend of blue, gray, and green, reminiscent of a warm Thai day. The overall mood is calm and respectful, evoking a sense of stillness and contemplation. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 2313354033,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 283.6
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 2313354033,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

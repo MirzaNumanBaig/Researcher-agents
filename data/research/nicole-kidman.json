@@ -1,0 +1,222 @@
+{
+ "name": "Nicole Kidman",
+ "qid": "Q37459",
+ "description": "Australian-American actress, producer, and model (born 1967)",
+ "wikipedia_editions": 134,
+ "born": "1967-06-20",
+ "birthplace": "Honolulu",
+ "occupations": [
+  "actor",
+  "singer",
+  "film producer",
+  "television actor",
+  "model",
+  "film actor",
+  "voice actor",
+  "diplomat",
+  "producer",
+  "musician"
+ ],
+ "relationships": [
+  {
+   "name": "Tom Cruise",
+   "qid": "Q37079",
+   "kind": "spouse",
+   "start": "1990-12-24",
+   "end": "2001-00-00",
+   "ended_by": "Q93190",
+   "fame": 128
+  },
+  {
+   "name": "Keith Urban",
+   "qid": "Q315547",
+   "kind": "spouse",
+   "start": "2006-06-25",
+   "end": "2025-00-00",
+   "ended_by": "Q93190",
+   "fame": 36
+  }
+ ],
+ "family": {
+  "children_recorded": 3,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Practical Magic 2",
+   "qid": "Q131901398",
+   "date": "2026-09-10",
+   "type": "film",
+   "directors": [
+    "Susanne Bier"
+   ]
+  },
+  {
+   "title": "Holland",
+   "qid": "Q116730669",
+   "date": "2025-03-27",
+   "type": "film",
+   "directors": [
+    "Mimi Cave"
+   ]
+  },
+  {
+   "title": "Babygirl",
+   "qid": "Q123861757",
+   "date": "2025-01-30",
+   "type": "film",
+   "directors": [
+    "Halina Reijn"
+   ]
+  },
+  {
+   "title": "A Family Affair",
+   "qid": "Q116599963",
+   "date": "2024-06-28",
+   "type": "film",
+   "directors": [
+    "Richard LaGravenese"
+   ]
+  },
+  {
+   "title": "Aquaman and the Lost Kingdom",
+   "qid": "Q91226161",
+   "date": "2023-12-22",
+   "type": "film",
+   "directors": [
+    "James Wan"
+   ]
+  },
+  {
+   "title": "The Northman",
+   "qid": "Q87126244",
+   "date": "2022-05-19",
+   "type": "film",
+   "directors": [
+    "Robert Eggers"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Susanne Bier",
+   "projects": 1
+  },
+  {
+   "name": "Mimi Cave",
+   "projects": 1
+  },
+  {
+   "name": "Halina Reijn",
+   "projects": 1
+  },
+  {
+   "name": "Richard LaGravenese",
+   "projects": 1
+  },
+  {
+   "name": "James Wan",
+   "projects": 1
+  },
+  {
+   "name": "Robert Eggers",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Colin Firth",
+   "qid": "Q162492",
+   "projects": 3,
+   "fame": 85
+  },
+  {
+   "name": "Parker Posey",
+   "qid": "Q204586",
+   "projects": 2,
+   "fame": 47
+  },
+  {
+   "name": "Keegan-Michael Key",
+   "qid": "Q6382703",
+   "projects": 2,
+   "fame": 43
+  },
+  {
+   "name": "Matt Lucas",
+   "qid": "Q317251",
+   "projects": 2,
+   "fame": 36
+  },
+  {
+   "name": "Dolph Lundgren",
+   "qid": "Q181678",
+   "projects": 2,
+   "fame": 71
+  },
+  {
+   "name": "Willem Dafoe",
+   "qid": "Q188772",
+   "projects": 2,
+   "fame": 86
+  },
+  {
+   "name": "Elle Fanning",
+   "qid": "Q228943",
+   "projects": 2,
+   "fame": 71
+  },
+  {
+   "name": "Amber Heard",
+   "qid": "Q229166",
+   "projects": 2,
+   "fame": 85
+  },
+  {
+   "name": "Jason Momoa",
+   "qid": "Q315271",
+   "projects": 2,
+   "fame": 77
+  },
+  {
+   "name": "Patrick Wilson",
+   "qid": "Q351290",
+   "projects": 2,
+   "fame": 53
+  },
+  {
+   "name": "Temuera Morrison",
+   "qid": "Q529851",
+   "projects": 2,
+   "fame": 38
+  },
+  {
+   "name": "Yahya Abdul-Mateen II",
+   "qid": "Q28655334",
+   "projects": 2,
+   "fame": 40
+  },
+  {
+   "name": "Colin Farrell",
+   "qid": "Q172035",
+   "projects": 2,
+   "fame": 77
+  },
+  {
+   "name": "Dianne Wiest",
+   "qid": "Q217573",
+   "projects": 2,
+   "fame": 57
+  },
+  {
+   "name": "Zac Efron",
+   "qid": "Q45229",
+   "projects": 2,
+   "fame": 95
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}

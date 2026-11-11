@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-11-10T02:37:36.882729+00:00",
+  "article": "2026-11-10-12-00-keanu-reeves",
+  "ai_generated": true,
+  "story_type": "film_release",
+  "analysis": {
+    "story_type": "film_release",
+    "core_event": "an anonymous figure to voice an anonymous figure in animated prequel",
+    "emotion": "action",
+    "setting": "film set",
+    "key_objects": [
+      "an anonymous figure",
+      "animated prequel",
+      "an anonymous figure",
+      "Lionsgate",
+      "Impossible Task"
+    ],
+    "time_and_light": "daytime, studio lights",
+    "palette": [
+      "dark grey",
+      "neon blue",
+      "silver"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the people left of centre with the setting opening up to the right",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "an anonymous figure",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 1,
+    "people": [
+      {
+        "gender_presentation": "unspecified",
+        "age_range": "",
+        "facial_expression": {
+          "eyebrows": "slightly raised",
+          "eyes": "wide and attentive",
+          "mouth": "lips just parted",
+          "jaw": "relaxed"
+        },
+        "gaze": "up and off-frame right",
+        "head": "tilted slightly up",
+        "posture": "leaning forward, elbows on knees",
+        "hands": "holding a paper cup",
+        "interaction": "",
+        "clothing": ""
+      }
+    ],
+    "setting": "film set",
+    "props": [
+      "an anonymous figure",
+      "animated prequel",
+      "an anonymous figure",
+      "Lionsgate"
+    ],
+    "time_of_day": "daytime, studio lights",
+    "light": {
+      "source": "daytime, studio lights",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark grey",
+      "neon blue",
+      "silver"
+    ],
+    "mood": "action",
+    "source": "template"
+  },
+  "stand_ins": [
+    "cast-07"
+  ],
+  "prompt": "A medium-wide shot of the woman in her early 20s, with loose curly dark brown hair and rich brown skin, leans forward, elbows on knees, and tilts her head slightly up, as if listening intently. Her eyebrows are slightly raised, her eyes are wide and attentive, and her lips are just parted. Her gaze is directed up and off-frame to the right. She holds a paper cup in her hands and wears a mustard knit dress. The animated prequel props sit on a nearby table, with an anonymous figure standing beside it, and the Lionsgate displayed prominently in the background. Soft haze and bokeh in the background blur the midground, where the second anonymous figure stands, and opens up to the right, creating a sense of depth. The daytime studio lights illuminate the scene from the side, casting a bright and airy atmosphere. The mood is action-packed, with a focus on energy and movement. The composition is balanced, with the subject left of centre, and the setting unfolding to the right. A 85mm lens captures the scene, emphasizing the subject's presence and the depth of the composition. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 4104734117,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of a woman in film set, lit by daytime, studio lights.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 117.5
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 4104734117,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}

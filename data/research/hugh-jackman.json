@@ -1,0 +1,189 @@
+{
+ "name": "Hugh Jackman",
+ "qid": "Q129591",
+ "description": "Australian and English actor and singer (born 1968)",
+ "wikipedia_editions": 106,
+ "born": "1968-10-12",
+ "birthplace": "Sydney",
+ "occupations": [
+  "singer",
+  "film producer",
+  "musician",
+  "stage actor",
+  "film actor",
+  "executive producer",
+  "television presenter",
+  "television actor",
+  "actor",
+  "musical theatre actor",
+  "voice actor",
+  "producer"
+ ],
+ "relationships": [
+  {
+   "name": "Deborra-Lee Furness",
+   "qid": "Q447694",
+   "kind": "spouse",
+   "start": "1996-01-01",
+   "end": "2023-00-00",
+   "ended_by": "Q93190",
+   "fame": 24
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "The Sheep Detectives",
+   "qid": "Q126405648",
+   "date": "2026-05-08",
+   "type": "film",
+   "directors": [
+    "Kyle Balda"
+   ]
+  },
+  {
+   "title": "Song Sung Blue",
+   "qid": "Q130532687",
+   "date": "2026-01-08",
+   "type": "film",
+   "directors": [
+    "Craig Brewer"
+   ]
+  },
+  {
+   "title": "Deadpool & Wolverine",
+   "qid": "Q102180106",
+   "date": "2024-11-08",
+   "type": "film",
+   "directors": [
+    "Shawn Levy"
+   ]
+  },
+  {
+   "title": "The Son",
+   "qid": "Q108470901",
+   "date": "2023-03-01",
+   "type": "film",
+   "directors": [
+    "Florian Zeller"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Kyle Balda",
+   "projects": 1
+  },
+  {
+   "name": "Craig Brewer",
+   "projects": 1
+  },
+  {
+   "name": "Shawn Levy",
+   "projects": 1
+  },
+  {
+   "name": "Florian Zeller",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "James McAvoy",
+   "qid": "Q193659",
+   "projects": 4,
+   "fame": 69
+  },
+  {
+   "name": "Q16296",
+   "qid": "Q16296",
+   "projects": 4,
+   "fame": 93
+  },
+  {
+   "name": "Nicholas Hoult",
+   "qid": "Q298347",
+   "projects": 4,
+   "fame": 76
+  },
+  {
+   "name": "Michael Fassbender",
+   "qid": "Q57147",
+   "projects": 3,
+   "fame": 73
+  },
+  {
+   "name": "Jennifer Lawrence",
+   "qid": "Q189490",
+   "projects": 3,
+   "fame": 121
+  },
+  {
+   "name": "Lucas Till",
+   "qid": "Q316541",
+   "projects": 3,
+   "fame": 40
+  },
+  {
+   "name": "Evan Peters",
+   "qid": "Q785270",
+   "projects": 3,
+   "fame": 54
+  },
+  {
+   "name": "Stephen Merchant",
+   "qid": "Q23814",
+   "projects": 2,
+   "fame": 28
+  },
+  {
+   "name": "Terrence Howard",
+   "qid": "Q296500",
+   "projects": 2,
+   "fame": 57
+  },
+  {
+   "name": "Halle Berry",
+   "qid": "Q1033016",
+   "projects": 2,
+   "fame": 120
+  },
+  {
+   "name": "Famke Janssen",
+   "qid": "Q190794",
+   "projects": 2,
+   "fame": 72
+  },
+  {
+   "name": "Ian McKellen",
+   "qid": "Q170510",
+   "projects": 2,
+   "fame": 91
+  },
+  {
+   "name": "Jennifer Garner",
+   "qid": "Q172044",
+   "projects": 2,
+   "fame": 86
+  },
+  {
+   "name": "Rose Byrne",
+   "qid": "Q228717",
+   "projects": 2,
+   "fame": 57
+  },
+  {
+   "name": "Morgan Lily",
+   "qid": "Q268076",
+   "projects": 2,
+   "fame": 22
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}

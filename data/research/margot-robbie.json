@@ -1,0 +1,197 @@
+{
+ "name": "Margot Robbie",
+ "qid": "Q1924847",
+ "description": "Australian actress and film producer (born 1990)",
+ "wikipedia_editions": 92,
+ "born": "1990-07-02",
+ "birthplace": "Dalby",
+ "occupations": [
+  "actor",
+  "film actor",
+  "model",
+  "film producer",
+  "voice actor",
+  "television actor"
+ ],
+ "relationships": [
+  {
+   "name": "Tom Ackerley",
+   "qid": "Q29222955",
+   "kind": "spouse",
+   "start": "2016-12-00",
+   "end": "",
+   "ended_by": "",
+   "fame": 9
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [
+  {
+   "title": "untitled Ocean's Eleven prequel",
+   "qid": "Q116058594",
+   "date": "2027-06-25",
+   "type": "film project",
+   "directors": [
+    "Bradley Cooper"
+   ]
+  }
+ ],
+ "recent": [
+  {
+   "title": "A Big Bold Beautiful Journey",
+   "qid": "Q124497778",
+   "date": "2025-09-19",
+   "type": "film",
+   "directors": [
+    "Kogonada"
+   ]
+  },
+  {
+   "title": "Asteroid City",
+   "qid": "Q108086029",
+   "date": "2023-09-14",
+   "type": "film",
+   "directors": [
+    "Wes Anderson"
+   ]
+  },
+  {
+   "title": "Barbie",
+   "qid": "Q55436290",
+   "date": "2023-07-21",
+   "type": "film",
+   "directors": [
+    "Greta Gerwig"
+   ]
+  },
+  {
+   "title": "Amsterdam",
+   "qid": "Q104830968",
+   "date": "2022-10-27",
+   "type": "film",
+   "directors": [
+    "David O. Russell"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Bradley Cooper",
+   "projects": 1
+  },
+  {
+   "name": "Kogonada",
+   "projects": 1
+  },
+  {
+   "name": "Wes Anderson",
+   "projects": 1
+  },
+  {
+   "name": "Greta Gerwig",
+   "projects": 1
+  },
+  {
+   "name": "David O. Russell",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Brad Pitt",
+   "qid": "Q35332",
+   "projects": 3,
+   "fame": 147
+  },
+  {
+   "name": "Leonardo DiCaprio",
+   "qid": "Q38111",
+   "projects": 2,
+   "fame": 150
+  },
+  {
+   "name": "Spike Jonze",
+   "qid": "Q259913",
+   "projects": 2,
+   "fame": 47
+  },
+  {
+   "name": "Ethan Suplee",
+   "qid": "Q314610",
+   "projects": 2,
+   "fame": 39
+  },
+  {
+   "name": "Katarina Čas",
+   "qid": "Q2803741",
+   "projects": 2,
+   "fame": 20
+  },
+  {
+   "name": "P.J. Byrne",
+   "qid": "Q12200303",
+   "projects": 2,
+   "fame": 24
+  },
+  {
+   "name": "Joel Kinnaman",
+   "qid": "Q28262",
+   "projects": 2,
+   "fame": 46
+  },
+  {
+   "name": "Will Smith",
+   "qid": "Q40096",
+   "projects": 2,
+   "fame": 137
+  },
+  {
+   "name": "Viola Davis",
+   "qid": "Q229181",
+   "projects": 2,
+   "fame": 81
+  },
+  {
+   "name": "Jai Courtney",
+   "qid": "Q604849",
+   "projects": 2,
+   "fame": 42
+  },
+  {
+   "name": "Matthias Schoenaerts",
+   "qid": "Q427019",
+   "projects": 2,
+   "fame": 32
+  },
+  {
+   "name": "Domhnall Gleeson",
+   "qid": "Q456047",
+   "projects": 2,
+   "fame": 51
+  },
+  {
+   "name": "Christian Bale",
+   "qid": "Q45772",
+   "projects": 2,
+   "fame": 99
+  },
+  {
+   "name": "Mike Myers",
+   "qid": "Q185724",
+   "projects": 2,
+   "fame": 88
+  },
+  {
+   "name": "Allison Janney",
+   "qid": "Q229487",
+   "projects": 2,
+   "fame": 63
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}

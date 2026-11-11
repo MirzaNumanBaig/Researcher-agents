@@ -1,0 +1,42 @@
+{
+ "name": "Miranda Kerr",
+ "qid": "Q127454",
+ "description": "Australian model",
+ "wikipedia_editions": 72,
+ "born": "1983-04-20",
+ "birthplace": "Sydney",
+ "occupations": [
+  "model"
+ ],
+ "relationships": [
+  {
+   "name": "Orlando Bloom",
+   "qid": "Q44467",
+   "kind": "spouse",
+   "start": "2010-07-22",
+   "end": "2013-00-00",
+   "ended_by": "",
+   "fame": 97
+  },
+  {
+   "name": "Evan Spiegel",
+   "qid": "Q15439301",
+   "kind": "spouse",
+   "start": "2017-05-27",
+   "end": "",
+   "ended_by": "",
+   "fame": 31
+  }
+ ],
+ "family": {
+  "children_recorded": 1,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [],
+ "directors": [],
+ "costars": [],
+ "anime_voice_roles": [],
+ "researched": "2026-11-09"
+}

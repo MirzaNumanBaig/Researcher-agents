@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-11-11T02:43:05.643403+00:00",
+  "article": "2026-11-11-13-00-hudson-williams",
+  "ai_generated": true,
+  "story_type": "other",
+  "analysis": {
+    "story_type": "other",
+    "core_event": "New photos and synopsis for an anonymous figure episode 5 released.",
+    "emotion": "mysterious",
+    "setting": "film set",
+    "key_objects": [
+      "photos",
+      "synopsis",
+      "episode 5",
+      "an anonymous figure",
+      "an anonymous figure"
+    ],
+    "time_and_light": "daytime, natural light",
+    "palette": [
+      "dark blue",
+      "muted green",
+      "flickering candlelight"
+    ],
+    "sensitivity": "safe",
+    "source": "llm"
+  },
+  "scene_blueprint": {
+    "shot_size": "medium",
+    "angle": "eye-level",
+    "lens_feel": "50mm",
+    "camera_height": "eye level",
+    "composition": {
+      "layout": "the main object centred with depth behind it",
+      "leading_lines": "",
+      "depth_layers": {
+        "foreground": "photos",
+        "midground": "the main subject",
+        "background": "soft haze and bokeh"
+      }
+    },
+    "people_count": 0,
+    "people": [],
+    "setting": "film set",
+    "props": [
+      "photos",
+      "synopsis",
+      "episode 5",
+      "an anonymous figure"
+    ],
+    "time_of_day": "daytime, natural light",
+    "light": {
+      "source": "daytime, natural light",
+      "direction": "from the side"
+    },
+    "palette": [
+      "dark blue",
+      "muted green",
+      "flickering candlelight"
+    ],
+    "mood": "mysterious",
+    "source": "template"
+  },
+  "stand_ins": [],
+  "prompt": "A medium shot from behind, taken with a 85mm lens, captures an anonymous figure in a dimly lit film set. Her head is slightly tilted, gazing at a stack of photographs in her hands, her eyes narrowed with intrigue. Her eyebrows are raised, and her lips are pursed, giving her a look of subtle intensity. Her shoulders are slightly hunched, and her posture is relaxed, conveying a sense of quiet contemplation. She's dressed in a simple black jacket with a white button-down shirt, her hands grasping the photographs. The film set is cluttered with props and equipment, with a large screen displaying the words \"Episode 5\" in the background. The camera lingers on the anonymous figure, with the set blurred in the background. Natural light filters through the windows, casting a warm glow over the scene. The colour palette is dark blue and muted green, with flickering candlelight casting shadows on the walls. The image has a candid, editorial quality to it, with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt_source": "llm",
+  "prompt_notes": [],
+  "seed": 313696515,
+  "seed_supported": true,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "preset": "candid_news_photo",
+  "alt": "Illustration of film set with photos and synopsis, lit by daytime, natural light.",
+  "caption": "",
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 194.4
+  },
+  "fallback": "",
+  "ok": true,
+  "error": "",
+  "quality": [
+    {
+      "seed": 313696515,
+      "raw_size": [
+        1024,
+        576
+      ],
+      "passed": true,
+      "reasons": [],
+      "scores": {},
+      "vision_ran": false,
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
+    }
+  ]
+}
