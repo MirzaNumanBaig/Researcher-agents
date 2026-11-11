@@ -556,18 +556,18 @@
   },
   {
     "path": "articles/2026-11-11-15-00-michael-j-fox.md",
-    "title": "Michael J. Fox",
-    "description": "",
-    "status": "rewrite",
+    "title": "Michael J. Fox Joins Harrison Ford in Shrinking Season 3",
+    "description": "Michael J. Fox returns to acting as a Parkinson's patient opposite Harrison Ford in the Season 3 premiere of Apple TV's Shrinking.",
+    "status": "sent",
     "wp_status": "publish",
-    "wp_synced": "",
+    "wp_synced": "publish",
     "batch": "2026-11-11 15:00",
     "celebrity": "Michael J. Fox",
-    "wp_link": "",
-    "wp_id": null,
-    "skip_reason": "Single source (SSBCrack) recycles the Shrinking Season 3 premiere story, which has been covered already and has no new facts.",
-    "rewrite_note": "try to get the info from the source",
-    "image": ""
+    "wp_link": "https://moduscarry.com/michael-j-fox-shrinking/",
+    "wp_id": 1867,
+    "skip_reason": "",
+    "rewrite_note": "",
+    "image": "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-15-00-michael-j-fox-768x432.webp"
   },
   {
     "path": "articles/2026-11-11-15-00-miranda-kerr.md",
