@@ -10191,6 +10191,22 @@
    "turns": 9,
    "seconds": 38,
    "cost_usd": 0.2694
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T06:50:09+00:00",
+   "batch": "2026-11-11 16:00",
+   "celebrity": "Nitesh Tiwari",
+   "article": "2026-11-11-16-00-nitesh-tiwari.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 5512,
+   "cache_read_tokens": 235701,
+   "cache_write_tokens": 37852,
+   "turns": 9,
+   "seconds": 39,
+   "cost_usd": 0.2303
   }
  ]
 }
