@@ -4,10 +4,15 @@ name: Hot people and movies
 # shows them in the "Hot people" and "Movies" tabs. Wikimedia throttles politely, so a run can take 20-40 minutes.
 on:
   workflow_dispatch:
+    inputs:
+      add:
+        description: "movies = add new films of tracked people (weekly default); all = also add the most popular people and films not tracked yet (dashboard button)"
+        default: "movies"
   schedule:
     - cron: "43 2 * * 3"
 permissions:
   contents: write
+  actions: write
 concurrency: {group: repo-writes, cancel-in-progress: false}
 jobs:
   hot:
@@ -19,6 +24,8 @@ jobs:
         with: {python-version: "3.12"}
       - run: python -u agents/trending_people.py --top 30
       - run: python -u agents/movies.py --max 60
+      - name: Add popular people and new films to config.json (tagged New)
+        run: python -u agents/discover.py --mode "${{ github.event.inputs.add || 'movies' }}"
       - uses: actions/upload-artifact@v4
         with:
           name: hot-people-movies
@@ -33,5 +40,7 @@ jobs:
           git config user.name "researcher-bot"
           git config user.email "researcher-bot@users.noreply.github.com"
           python agents/build_dashboard.py
-          git add data/trending.json data/movies.json data/research docs/index.html data/articles.json data/stories.json
-          git diff --cached --quiet || { git commit -m "Update hot people and movies" && bash scripts/push_retry.sh; }
+          git add config.json data/trending.json data/movies.json data/research docs/index.html data/articles.json data/stories.json
+          git diff --cached --quiet || { git commit -m "Update hot people and movies" && bash scripts/push_retry.sh && git diff --quiet HEAD~1 HEAD -- config.json || gh workflow run collect.yml --ref main; }
+        env:
+          GH_TOKEN: ${{ github.token }}

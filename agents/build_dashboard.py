@@ -5,6 +5,7 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
+import tracking
 import usage_stats
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -14,7 +15,7 @@ leads = json.loads((ROOT / "data" / "leads.json").read_text())
 STOP = set("a an the and or of to in on at for with by is are was were as from after before his her their its this that it be has have will new says say over into".split())
 
 
-NAME_PARTS = {w for n in cfg["celebrities"] for w in n.lower().split()}
+NAME_PARTS = {w for n in tracking.topics(cfg) for w in n.lower().split()}
 
 
 def tokens(title):
@@ -120,12 +121,13 @@ data = {
     "lead_count": len(leads),
     "articles": read_articles(),
     "writers": writers(),
-    "celebrities": cfg["celebrities"],
+    "celebrities": tracking.topics(cfg),          # people + tracked films (a film is followed like a person)
+    "movies_tracked": cfg.get("movies", []),
+    "new": [n for n in tracking.topics(cfg) if tracking.is_new(cfg, n)],   # added by Find trending / weekly film step in the last 7 days
     "paused": bool(cfg.get("paused")),
     "updated": datetime.now(timezone.utc).isoformat(),
     "leads": stories,
     "wp": json.loads((ROOT / "data" / "wp_sync.json").read_text()) if (ROOT / "data" / "wp_sync.json").exists() else None,
-    "hot": json.loads((ROOT / "data" / "trending.json").read_text()) if (ROOT / "data" / "trending.json").exists() else None,    # Hot people view
     "movies": json.loads((ROOT / "data" / "movies.json").read_text()) if (ROOT / "data" / "movies.json").exists() else None,    # Movies view
     "neurons": usage_stats.neuron_summary(ROOT, cfg),       # Usage view: Cloudflare neuron estimates per account
     "claude_usage": usage_stats.claude_summary(ROOT),       # Usage view: Claude tokens spent on writing articles
