@@ -40,8 +40,8 @@
         {
           "source": "Yahoo",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlJTSm5FRWZSQm9KLWFFS1BKdHBwd0ZsWDFiT2FDdllwNTNwaXFMeGp0VE1pZ0h4V1VVTVZLSjZSVm5TeVNXUncwUi1IV2prNVJIZW1teEpTczN3N2hOdTJCUC1aNTlTSFQ0Q2R6WTc5ZWdVck1GTkhESW56bVZRa0R4N3BxNS1CcEdTMlNsNFVwUUpGZGRoWUlLenVJem9ka1Z1UWtxcjVtQQ?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/katy-perry-very-controlling-comments-203044207.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/dc238e9079cf31d2a2903a379319b44a42ab99cdb4b3b356aba15ed3942e97ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fd054404b2978e882945823dbce264343.jpg"
         },
         {
           "source": "IMDb",
@@ -56,8 +56,8 @@
           "image": ""
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://s.yimg.com/lo/mysterio/api/dc238e9079cf31d2a2903a379319b44a42ab99cdb4b3b356aba15ed3942e97ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fd054404b2978e882945823dbce264343.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/katy-perry-very-controlling-comments-203044207.html"
     },
     {
       "title": "Katy Perry’s chilling 2013 comments about Russell Brand take on new meaning after his rape conviction",
@@ -985,6 +985,21 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "How Brand’s marriage to Katy Perry went from ‘tornado’ courtship to text break-up",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNndFSzhGVWxvRnozWnRKMm1JVlVqdTFaTzI1VDFmN1BHUXppZnlkSjFCamJlNkt4cWxoMmRNQ2VVRHk0cmtWUjFCTXd5bzVqLTcwZGYxRjV4NWJoazVZaHJZYzJBMWZwUGNOS3VJNHdDSGM1VVZHRHFERDlBbVFsM2s2M2lVYkRWTlhvaHRXd3VMdThxS0RPelFaQVlUcERpSXVVT0M5UWpSd1NoNHd4RkFHOVN6b2tvTXcxWXJab1JCdw?oc=5",
+      "published": "2026-11-11T08:09:00+00:00",
+      "outlets": [
+        {
+          "source": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNndFSzhGVWxvRnozWnRKMm1JVlVqdTFaTzI1VDFmN1BHUXppZnlkSjFCamJlNkt4cWxoMmRNQ2VVRHk0cmtWUjFCTXd5bzVqLTcwZGYxRjV4NWJoazVZaHJZYzJBMWZwUGNOS3VJNHdDSGM1VVZHRHFERDlBbVFsM2s2M2lVYkRWTlhvaHRXd3VMdThxS0RPelFaQVlUcERpSXVVT0M5UWpSd1NoNHd4RkFHOVN6b2tvTXcxWXJab1JCdw?oc=5",
+          "article_url": "https://www.the-independent.com/arts-entertainment/music/features/katy-perry-russell-brand-marriage-divorce-text-b3082908.html",
+          "image": "https://static.the-independent.com/2026/11/05/15/21/GettyImages-96306322.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
+        }
+      ],
+      "image": "https://static.the-independent.com/2026/11/05/15/21/GettyImages-96306322.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "image_source": "https://www.the-independent.com/arts-entertainment/music/features/katy-perry-russell-brand-marriage-divorce-text-b3082908.html"
     }
   ]
 }

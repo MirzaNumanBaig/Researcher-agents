@@ -358,12 +358,12 @@
         {
           "source": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2FwX0s0S25Sd0Y0YlVCZDZlMEFtSlV3N2t3N3RUSGFWbE9zQURUS0FKZi01R3Y4QzRpdmVJZmpMZE9HNjdCc1dtREJpX3N4dGNhcFFwZ0JFX0RNWlk1YWY2N3NVVVktdk9ueTY5blVxQW1RUFdFQXl0Z0otb2ZSYU5valNHaThaNVFFZw?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.theguardian.com/australia-news/2026/nov/11/morning-mail-wednesday-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/8eec922fcf836acdb088ec6553756f4110662b6c/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9421ae588d6c32035b58e0b6c6581bf"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://i.guim.co.uk/img/media/8eec922fcf836acdb088ec6553756f4110662b6c/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9421ae588d6c32035b58e0b6c6581bf",
+      "image_source": "https://www.theguardian.com/australia-news/2026/nov/11/morning-mail-wednesday-ntwnfb"
     },
     {
       "title": "David Walliams identified as high-profile man at centre of sexual misconduct investigation",
@@ -670,6 +670,27 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "How grooming claims against David Walliams came to light",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGZWUGJkd05HSmJ3bksyemxJQ3lqczBTTFVKaWZucHY1M0R1bTNBZFQybGoyWlAzckRGajRiTV9OaDJ0ZjZoRmhoaWg2QkV4UTRqR0NQMU1vRmxZMHBsaUc3elVWLThRSjljeHJyTnUwYmxvVVFYTlpHSEpvbG9BR1R2SllLRnBCdlhjd0Y1M3lVXzcyM244amppdHI1dW1EN3c?oc=5",
+      "published": "2026-11-11T07:00:43+00:00",
+      "outlets": [
+        {
+          "source": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGZWUGJkd05HSmJ3bksyemxJQ3lqczBTTFVKaWZucHY1M0R1bTNBZFQybGoyWlAzckRGajRiTV9OaDJ0ZjZoRmhoaWg2QkV4UTRqR0NQMU1vRmxZMHBsaUc3elVWLThRSjljeHJyTnUwYmxvVVFYTlpHSEpvbG9BR1R2SllLRnBCdlhjd0Y1M3lVXzcyM244amppdHI1dW1EN3c?oc=5",
+          "article_url": "https://www.rnz.co.nz/life/people/celebrity/how-grooming-claims-against-david-walliams-came-to-light",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--1IMZRs29--/t_tohu-badge-facebook/f_auto/q_auto/4JFBHE8_AFP__20171017__TG9N7__v1__HighRes__BritainRoyalsInvestiture_jpg"
+        },
+        {
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNy1Xam40SGlqN2JaWlpsTU9YY0VIZFRRX3JMT1N2Q2psb21vUlE0aWVHeE5HYzhaUDFoNTNJcVVndXZuN0pCVVEzbXIwVXZfYVBMRkxnVDFidkpxM3VrQ29jTGE1NXd5dTRoR2xqX0ZiVGV6dFdxY1VaeGRUZHpKMS1VMDZaZFpnSDFzeWF2Ylpnc2VLMlQwMHZ6ZldOQWg1ZGx2eVZ5cm5BSmRMQ1l4NA?oc=5",
+          "article_url": "https://www.abc.net.au/news/2026-11-11/david-walliams-grooming-sexual-misconduct-accusations-uk-media/107371962",
+          "image": "https://live-production.wcms.abc-cdn.net.au/51af1b02e3dbd565c7bdf0cda2fc810e?impolicy=wcms_watermark_news&cropH=1655&cropW=2942&xPos=0&yPos=2&width=862&height=485&imformat=generic"
+        }
+      ],
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--1IMZRs29--/t_tohu-badge-facebook/f_auto/q_auto/4JFBHE8_AFP__20171017__TG9N7__v1__HighRes__BritainRoyalsInvestiture_jpg",
+      "image_source": "https://www.rnz.co.nz/life/people/celebrity/how-grooming-claims-against-david-walliams-came-to-light"
     }
   ]
 }

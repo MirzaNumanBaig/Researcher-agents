@@ -40,8 +40,8 @@
         {
           "source": "Yahoo",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlJTSm5FRWZSQm9KLWFFS1BKdHBwd0ZsWDFiT2FDdllwNTNwaXFMeGp0VE1pZ0h4V1VVTVZLSjZSVm5TeVNXUncwUi1IV2prNVJIZW1teEpTczN3N2hOdTJCUC1aNTlTSFQ0Q2R6WTc5ZWdVck1GTkhESW56bVZRa0R4N3BxNS1CcEdTMlNsNFVwUUpGZGRoWUlLenVJem9ka1Z1UWtxcjVtQQ?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/katy-perry-very-controlling-comments-203044207.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/dc238e9079cf31d2a2903a379319b44a42ab99cdb4b3b356aba15ed3942e97ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fd054404b2978e882945823dbce264343.jpg"
         },
         {
           "source": "IMDb",
@@ -56,8 +56,8 @@
           "image": ""
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://s.yimg.com/lo/mysterio/api/dc238e9079cf31d2a2903a379319b44a42ab99cdb4b3b356aba15ed3942e97ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fd054404b2978e882945823dbce264343.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/katy-perry-very-controlling-comments-203044207.html"
     },
     {
       "title": "Katy Perry’s chilling 2013 comments about Russell Brand take on new meaning after his rape conviction",
@@ -379,6 +379,114 @@
         {
           "source": "Yahoo News New Zealand",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qOTM0U2R2WVpnV0RCLUlNcllHcFE1RS01QXR6dFFtQ2d4MTVtM1FVZkcxWVlNa3hHRkY3SVdJbTRhQVVGanVQQU5PLUlnU3dlcVV6WHVIcHBUdlZOcEM1c2plS2xDRE56RXgyaUZXUXJDMXlRYzN3Wm1vWndBQTA?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "How Brand’s marriage to Katy Perry went from ‘tornado’ courtship to text break-up",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNndFSzhGVWxvRnozWnRKMm1JVlVqdTFaTzI1VDFmN1BHUXppZnlkSjFCamJlNkt4cWxoMmRNQ2VVRHk0cmtWUjFCTXd5bzVqLTcwZGYxRjV4NWJoazVZaHJZYzJBMWZwUGNOS3VJNHdDSGM1VVZHRHFERDlBbVFsM2s2M2lVYkRWTlhvaHRXd3VMdThxS0RPelFaQVlUcERpSXVVT0M5UWpSd1NoNHd4RkFHOVN6b2tvTXcxWXJab1JCdw?oc=5",
+      "published": "2026-11-11T08:09:00+00:00",
+      "outlets": [
+        {
+          "source": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNndFSzhGVWxvRnozWnRKMm1JVlVqdTFaTzI1VDFmN1BHUXppZnlkSjFCamJlNkt4cWxoMmRNQ2VVRHk0cmtWUjFCTXd5bzVqLTcwZGYxRjV4NWJoazVZaHJZYzJBMWZwUGNOS3VJNHdDSGM1VVZHRHFERDlBbVFsM2s2M2lVYkRWTlhvaHRXd3VMdThxS0RPelFaQVlUcERpSXVVT0M5UWpSd1NoNHd4RkFHOVN6b2tvTXcxWXJab1JCdw?oc=5",
+          "article_url": "https://www.the-independent.com/arts-entertainment/music/features/katy-perry-russell-brand-marriage-divorce-text-b3082908.html",
+          "image": "https://static.the-independent.com/2026/11/05/15/21/GettyImages-96306322.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
+        }
+      ],
+      "image": "https://static.the-independent.com/2026/11/05/15/21/GettyImages-96306322.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "image_source": "https://www.the-independent.com/arts-entertainment/music/features/katy-perry-russell-brand-marriage-divorce-text-b3082908.html"
+    },
+    {
+      "title": "Russell Brand Sentenced to 10 Years, 6 Months After Rape Conviction",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaE1hVTFjRXV3ck9lbU5wc3B3OTl4RFFNaXRub196c2xSLVNYY0IzSnZPdHJTVHZqOEVVS1Q0WXpPMWVxN3lkNzVSY0xNXzZlaF9DcDM2Y01GQzY1WVdhdDh6ZE1idUdpSElNeTZfNENYQkVWYWFSV1dPSlc1WllWaVFES0tFNWVFQ2c?oc=5",
+      "published": "2026-11-10T15:36:11+00:00",
+      "outlets": [
+        {
+          "source": "JournalArta",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaE1hVTFjRXV3ck9lbU5wc3B3OTl4RFFNaXRub196c2xSLVNYY0IzSnZPdHJTVHZqOEVVS1Q0WXpPMWVxN3lkNzVSY0xNXzZlaF9DcDM2Y01GQzY1WVdhdDh6ZE1idUdpSElNeTZfNENYQkVWYWFSV1dPSlc1WllWaVFES0tFNWVFQ2c?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "AFR",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHpPcHQ2M3laVHVKUFNIME9zWmM2OEZYclBvSS1hZ3JQazYtUTJrRWRFUDZlRlRIQTlKSjRxQm9lbm5KUTgwZ2dVUFRYNmxzclhGTUFITndHY3dXYWxVb29UVXc5bngxZXNPRURZZlhDNGh6TlprYUk0azgzcjZBcDdwSTZ1al8zQlRTS05jU3JSY25KZzIxdmxNQnlIelZTSVcyZXN1V0c?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "HOLA",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWEM2YS1kdmROajc0dmtES0Y3WG4zUnVsNHpoMzJhZGozN0NYc3lyTG5tTkE2VXpDc0d1Y0NGakdhZFhnb3EwOTVucjhjUDY1aWdBWUpyT3dkUkVldHNYbGlVUzdjUXM4MGtVQ3RKOC1Hb3cteFh4LTN2X0g4ajQxbEdQWDcyX3VnX1d4NjZnNGJJUXFBNlV3amFsMXRBMUU1Mm1ZMEZ1YTI2blVyWXMxOC1aNA?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVHRMTVBrRjJWWjM4d2VxTnNfOThzQlIxTjJ2T2dXWmRPc2hUbE9admZaV1h0NDR6NFl6TWFRaEtvVzRkWjVKYnJIT013UHNEa0lKRHlMZmtEZzgwMW1KdTlNQ1dZdmZtZ0hYSHlnMVV6eUNiZ3NmM2V2RjhZRUxfVFlnb1RsVktwbThfTjU2cnZzZHA4SVFIeXZfSWNZOVBybGxxdl9yQ2ZPaVVLT1VPQlhfclVjcHRFcXlIYTk5WFBlSE92?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "AFP.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWng4YXlxdC1LbWVPcVplWi1oRnppdFVHYnM4V29FeDh0djd3dmpDS0hVd3VJQi10SmpOMHNQUXVjdGdBbW92M1VMaFVfYTVHQ1pPRVhGUlpVNGJSUTNGUF9ZanZjaE5BRG53Z3VFYWJKdC1hYlNyR3IzUFozTmZvQXVUajRma1dP?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVpRVlZtZE14RTZjUjRQUWZvSkxabDc5TUVoVkZDN2c3b0dadF8wS2MtZHk0UmlrWXA1Z3JkY3JRYUJGRTc0Skkydm43NkVCandaNDJCZXk0bThRZGU5MlRHR2lnelp5MXR1Q3M2ODRZNkRpVGVYb1M0MUltOVhYTnpKU1p4dVJiM1pIY1hGR2tvc1lYdFRoakIxR2tVMjVlR29uOTFfSlRxRG5YeWxCOEE3Q2M2S25HbUZSVTB1WW5QMHdTaGd0WG51X01iTWplYmhab0k3Yw?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmZ0VnU4M05GMEFqRDJnWTA3QWx6NU1IZU9TRXdJeDdObnh6M2Rxbmk2aUwyZ08yM1FjQUpNTW05OFdYUkpQa2Q0dHVieXVUYU9jdVBsNzZyZGtfcGhta0I3ZVFOUlBmM05CZ3BOUlljbHVxa1pyeHdkRVFfWVc4ekNhcHF2ZlJFSlNWbC1odm5NRTNPZEZUdENGODdXN0U?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGlGXzVnUHZaVVhKV2JGaVF2RW5Bb0NHaGg1UmFzOWVNdVFZUU44eXdKclhvLWlJQmVnNmptSnh1dFJveUY4Q3ZycEVjOGRKdlUzSVZiRzAzbzcxeTZ5TGltRXhSNWZoRDZNM2RuNjBJZVBNVDdQUUpaTHRmaWFqeE9MUHdJbDRSUG9RLXo0RVR1LUFpWUROWjlfMEJ1WHNNYnlVRHRFeUNiQmtmbjZod244N2haZlI3LTJrVlYzMTgwdEk?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjhpX2VpMHI2ZkUxalRXVjJ0WEhpczFRUUV3N3hfa2NGMFYyR3pJbW5PM1c0dGpjS0hWYjlzYlhzaTh0Ui1sRXB0SDY1amtLVHF3M1ppa2VKa2RxMWphcDh0ZW9UUUROTDVlY3N1NHZ6Uy1kT29OYkYydVBvSWFWdDY1ZExpRmttTlNuTHF3?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05TW1TNkw2NkgzTTVzMEptNmdCNER1VnpmNGMzLXIwN292Sm1qbm53NFprQk9BZFk4S3k1NHdyTGt3OGZGbW1zTnAtNjdYS1ZLekFsTnRjb3hFOVZzMkl5bXNFbHhxZHl0eXhCSG5SdmxHT1RRMDlTSHN3V0Y?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "SMH.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmJJV25oZC1CaExrT3cxYkozblF6THJ6WnpUOTRGTUpZaThnRmU5TTN1NWcyRl90SFVkYmdHNkNTZkZpN0hWa0dhNXNqZVdUeThGNElPR0pxZWdzMDdDUVRXR0ZqbHJQUWJET1ZJNDdvZ1lIVGx2cVhkUUVHSGx6NGNGODM5SzlUQzZZWG9QNmxqQkM2QWV2X0NPR0liNjNTeWxyTURwUWNKZXJsUUsydjBCMHdtQzVTNW5qbTVaQzN6eENRczZSakVn?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaFo3VEpKQ3J5RWl3MHVESWRfNGg4RU9xR2E5aHZlNWVhUGRuWklPRDZLMUQ1WlpRR3FRVDJ2ZlN0Q0JiYXBVanVLdHZqWk10QnFQMDJacWh6VHJUNjVOdTFSLXNfOURialNPRHhHRUQwRzdTUlVYYWkyRmUyWnZIdllaekk?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2djUWtOcm9mSjdzSDJvS09aSUs1a0pRZ3JoazdubHdQZEYtVzJpems4UE5ZY3FhZlAxWXRRX1JuMG5WcmEtUnh2OEc4dGJ6SUtHcDdrQXZaNUd0bDdJVlVNNWVmYUdzNkxNZTdycUZzNmliSnJzUkwzWGZibGdrLVF2cVNQQQ?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmk4dlVnT1E1bFJGb01tRkZvLVFXSkt0bTRsY2t4RzMzRDVGb2RzLUJTblJPQ1EwZFhlSUZXOTR3VlF2UTU0V29tVjd5dWwtOFZpUGNxSE1uRW5JNF94a0RmRV9SRWgyZ3dCaDNJZmR2M05ZRHMzam9EVkF0OUJ3bnloSGdkNVZZU3QyODdKei14dU9nalBDSmwxOFpCNUJHUDFTbnFLTVp2UTJfaGlPQ1htNGxvbjRB?oc=5",
           "article_url": "",
           "image": ""
         }
