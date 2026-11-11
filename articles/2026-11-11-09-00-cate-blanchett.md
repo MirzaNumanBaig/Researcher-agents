@@ -15,15 +15,16 @@ image_prompt: "An empty Off-Broadway theatre stage at night, glowing marquee lig
 sources:
   - "https://playbill.com/article/off-broadways-a-kidman-carol-will-host-cate-blanchett-and-nicole-kidman-look-alike-contest"
   - "https://www.broadwayworld.com/article/A-KIDMAN-CAROL-to-Hold-Cate-Blanchett-and-Nicole-Kidman-Look-Alike-Contest-20261110"
-image_alt: "Illustration of Off-Broadway stage with a person costume and a person costume, lit by 5pm ET, stage lights."
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
 image: "images/2026-11-11-09-00-cate-blanchett.webp"
-wp_media_id: 1797
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-09-00-cate-blanchett-768x432.webp"
 wp_id: 1798
 wp_link: "https://moduscarry.com/a-kidman-carol-cate-blanchett/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-4.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-4.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1797
 ---
 
 **Quick summary**

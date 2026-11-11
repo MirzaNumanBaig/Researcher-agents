@@ -14,15 +14,16 @@ tags: ["Renate Reinsve", "Sebastian Stan", "Fjord"]
 image_prompt: "A quiet wooden house beside a grey Norwegian fjord at dusk, warm lamplight in the windows, mist on the water."
 sources:
   - "https://www.independent.co.uk/arts-entertainment/films/features/sebastian-stan-interview-fjord-renate-reinsve-b3080509.html"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Renate Reinsve: Renate Reinsve poses during the \"Fjord\" photocall at the 79th annual Cannes Film Festival at Palais des Festivals on May 19, 2026"
 image: "images/2026-11-10-20-00-renate-reinsve.webp"
-wp_media_id: 1784
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-10-20-00-renate-reinsve-768x432.webp"
 wp_id: 1785
 wp_link: "https://moduscarry.com/renate-reinsve-fjord-sebastian-stan/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve_at_the_2026_Cannes_Film_Festival_04.jpg\" rel=\"noopener\">Gabriel Hutchinson</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve_at_the_2026_Cannes_Film_Festival_04.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1784
 ---
 
 **Quick summary**

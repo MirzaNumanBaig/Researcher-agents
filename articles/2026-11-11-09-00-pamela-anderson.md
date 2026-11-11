@@ -15,15 +15,16 @@ image_prompt: "A quiet recording studio at dusk with a drum kit, a vintage micro
 sources:
   - "https://doyouremember.com/241134/pamela-anderson-son-dylan-lee"
   - "https://www.women.com/2312407/pamela-anderson-lioness-star-jill-wagner-are-loving-the-soft-wolf-haircut-right-now/"
-image_alt: "Illustration of recording studio, film set with Motel 7 and Midnight Kids, lit by daytime, studio lights."
+image_alt: "Pamela Anderson: Actress Pamela Anderson at the 2026 Berlin International Film Festival"
 image: "images/2026-11-11-09-00-pamela-anderson.webp"
-wp_media_id: 1803
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-09-00-pamela-anderson-768x432.webp"
 wp_id: 1804
 wp_link: "https://moduscarry.com/pamela-anderson-sons-dylan-brandon/"
 wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson-69699.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson-69699.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1803
 ---
 
 **Quick summary**

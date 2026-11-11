@@ -14,14 +14,16 @@ tags: ["Chris Hemsworth", "Extraction 3", "Marvel Studios"]
 image_prompt: "A film set in a tropical Thai town at dusk, with a boxing ring and camera crane under warm lights."
 sources:
   - "https://mmasucka.com/news/hes-super-sweet-rodtang-recalls-meeting-chris-hemsworth-on-extraction-3-set-ahead-of-the-inner-circl/"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Chris Hemsworth: Chris Hemsworth"
 image: "images/2026-11-11-13-00-chris-hemsworth.webp"
-wp_media_id: 1815
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-13-00-chris-hemsworth-768x432.webp"
 wp_id: 1816
 wp_link: "https://moduscarry.com/rodtang-chris-hemsworth/"
 wp_synced: publish
 seo_synced: 1
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 1815
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -14,14 +14,16 @@ tags: ["Hudson Williams", "Yaga", "Carrie-Anne Moss"]
 image_prompt: "A quiet coastal fishing town at dusk, wooden docks, fog over dark water and a single lit window in a distant house."
 sources:
   - "https://www.justjared.com/2026/11/10/yaga-episode-5-photos-synopsis-revealed-see-new-looks-at-hudson-williams-carrie-anne-moss-in-crave-series/"
-image_alt: "Illustration of film set with photos and synopsis, lit by daytime, natural light."
+image_alt: "Hudson Williams: Hudson Williams attends the premiere of \"YAGA\" during the 2026 Toronto International Film Festival at TIFF Lightbox on September 17, 2026 in Toronto, Ontario"
 image: "images/2026-11-11-13-00-hudson-williams.webp"
-wp_media_id: 1817
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-13-00-hudson-williams-768x432.webp"
 wp_id: 1818
 wp_link: "https://moduscarry.com/hudson-williams-yaga-episode-5/"
 wp_synced: publish
 seo_synced: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:2026_Toronto_International_Film_Festival_-_%22YAGA%22_Premiere_16.jpg\" rel=\"noopener\">Gabriel Hutchinson</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:2026_Toronto_International_Film_Festival_-_%22YAGA%22_Premiere_16.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1817
+embed_checked: 1
 ---
 
 **Quick summary**
