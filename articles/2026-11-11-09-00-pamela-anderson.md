@@ -23,6 +23,7 @@ wp_id: 1804
 wp_link: "https://moduscarry.com/pamela-anderson-sons-dylan-brandon/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

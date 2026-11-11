@@ -23,6 +23,7 @@ wp_id: 1798
 wp_link: "https://moduscarry.com/a-kidman-carol-cate-blanchett/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

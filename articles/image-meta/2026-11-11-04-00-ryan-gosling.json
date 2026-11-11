@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-11-10T23:14:37.064787+00:00",
+  "timestamp": "2026-11-11T01:16:34.633322+00:00",
   "article": "2026-11-11-04-00-ryan-gosling",
   "ai_generated": true,
   "story_type": "other",
   "analysis": {
     "story_type": "other",
-    "core_event": "an anonymous figure and Mikey Day made the figure the figure laugh uncontrollably in a SNL the figure.",
-    "emotion": "laughing",
+    "core_event": "an anonymous figure and Mikey Day made the figure the figure laugh uncontrollably in a Saturday Night Live the figure.",
+    "emotion": "laughter",
     "setting": "TV studio",
     "key_objects": [
       "Saturday Night Live",
       "the figure the figure",
       "cue card",
-      "SNL cast"
+      "red carpet"
     ],
     "time_and_light": "daytime, studio lights",
     "palette": [
       "blue",
-      "red",
-      "yellow"
+      "yellow",
+      "green"
     ],
     "sensitivity": "safe",
     "source": "llm"
@@ -44,7 +44,7 @@
       "Saturday Night Live",
       "the figure the figure",
       "cue card",
-      "SNL cast"
+      "red carpet"
     ],
     "time_of_day": "daytime, studio lights",
     "light": {
@@ -53,56 +53,56 @@
     },
     "palette": [
       "blue",
-      "red",
-      "yellow"
+      "yellow",
+      "green"
     ],
-    "mood": "laughing",
+    "mood": "laughter",
     "source": "template"
   },
   "stand_ins": [],
-  "prompt": "A medium shot of Mikey Day, a cast member of Saturday Night Live, stands with his arms crossed, a wide grin spreading across his face as he looks down at the figure in front of him, his eyebrows slightly raised and his eyes crinkled at the corners. The corners of his mouth are turned up, and his jaw is relaxed. He is positioned about a foot away from the figure, his weight shifted slightly onto his the figure foot. Mikey is dressed in a crisp white SNL cast t-shirt and dark-washed jeans, with a black leather jacket slung over his shoulder, and he holds a cue card in his right hand, its bright yellow color standing out against the blue backdrop of the TV studio. In the midground, the Saturday Night Live emblazoned on a large screen behind them glows with a soft blue light, while the background of the studio is a soft blur of blue and red hues. This is a candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
+  "prompt": "A medium shot of a woman in her early 30s, standing confidently in a sleek, black dress, her long, curly brown hair tied back in a loose ponytail, her bright, inquisitive eyes sparkling with amusement as her eyebrows arch upwards in a gentle, knowing curve. Her full, rosy lips curve upwards in a soft, tender smile, and her jaw relaxes slightly, giving her a relaxed, carefree air. Her head is tilted slightly to one side, as if she's listening intently to something being whispered in her ear, and her shoulders are slightly raised, giving her a subtle, playful slouch. Her slender hands are tucked into the pockets of her dress, and she's standing a little ways off from the other person in the scene, giving her a sense of independence and confidence. She's standing in the midst of a bustling TV studio, with a bright, red carpet stretching out behind her, and a row of studio lights overhead casting a warm, golden glow over the entire scene. Candid editorial news photograph with natural film-like colour and subtle grain. No text, no logos, no watermark.",
   "prompt_source": "llm",
   "prompt_notes": [],
-  "seed": null,
+  "seed": 3393833590,
   "seed_supported": true,
   "model": "@cf/black-forest-labs/flux-2-klein-4b",
   "preset": "candid_news_photo",
   "alt": "Illustration of TV studio with Saturday Night Live and a person a person, lit by daytime, studio lights.",
   "caption": "",
-  "finish": {},
+  "finish": {
+    "raw_size": [
+      1024,
+      576
+    ],
+    "upscaler": "lanczos",
+    "upscaled_size": [
+      2048,
+      1152
+    ],
+    "quality": 90,
+    "size": [
+      1600,
+      900
+    ],
+    "format": "webp",
+    "ext": "webp",
+    "kb": 123.1
+  },
   "fallback": "",
-  "ok": false,
+  "ok": true,
   "error": "",
   "quality": [
     {
-      "seed": null,
-      "passed": false,
-      "reasons": [
-        "the output was flagged by Cloudflare's safety filter"
+      "seed": 3393833590,
+      "raw_size": [
+        1024,
+        576
       ],
+      "passed": true,
+      "reasons": [],
       "scores": {},
       "vision_ran": false,
-      "vision_skipped": ""
-    },
-    {
-      "seed": null,
-      "passed": false,
-      "reasons": [
-        "the output was flagged by Cloudflare's safety filter"
-      ],
-      "scores": {},
-      "vision_ran": false,
-      "vision_skipped": ""
-    },
-    {
-      "seed": null,
-      "passed": false,
-      "reasons": [
-        "the output was flagged by Cloudflare's safety filter"
-      ],
-      "scores": {},
-      "vision_ran": false,
-      "vision_skipped": ""
+      "vision_skipped": "vision model unavailable: HTTP 403 {\"errors\":[{\"message\":\"AiError: Model Agreement: Prior to using this model, you must submit the prompt 'agree'. By submitting ‘agree’, you  hereby agre"
     }
   ]
 }
