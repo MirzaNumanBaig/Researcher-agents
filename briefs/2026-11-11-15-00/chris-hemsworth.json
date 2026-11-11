@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-11 15:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "Au Revoir, Chris Hemsworth (2020)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObXBJWDlGQk44ZzlRREEzeVhGbXFqQUJXblM5Vy14RU52ek93VEIxS3k4aGFjdm1CYS1USzNYRjJYOG5uYzFVR1p1clJhZTI1d2RsSldsOEtEYkVMMzRWemt4R0RJaUZZMHpsTHkwTV9weVNVLXNzNHF4dXRLOFRPenlR?oc=5",
+      "published": "2026-11-10T07:52:48+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObXBJWDlGQk44ZzlRREEzeVhGbXFqQUJXblM5Vy14RU52ek93VEIxS3k4aGFjdm1CYS1USzNYRjJYOG5uYzFVR1p1clJhZTI1d2RsSldsOEtEYkVMMzRWemt4R0RJaUZZMHpsTHkwTV9weVNVLXNzNHF4dXRLOFRPenlR?oc=5",
+          "article_url": "https://www.imdb.com/title/tt13640382/mediaviewer/rm2406087938/?ref_=tt_ov_i",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}
