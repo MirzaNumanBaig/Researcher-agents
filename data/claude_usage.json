@@ -10111,6 +10111,22 @@
    "turns": 12,
    "seconds": 40,
    "cost_usd": 0.2953
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T06:35:41+00:00",
+   "batch": "2026-11-11 16:00",
+   "celebrity": "Keira Knightley",
+   "article": "2026-11-11-16-00-keira-knightley.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 4961,
+   "cache_read_tokens": 331148,
+   "cache_write_tokens": 46920,
+   "turns": 10,
+   "seconds": 37,
+   "cost_usd": 0.2706
   }
  ]
 }
