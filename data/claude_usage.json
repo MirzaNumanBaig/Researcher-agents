@@ -10127,6 +10127,22 @@
    "turns": 10,
    "seconds": 37,
    "cost_usd": 0.2706
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T06:38:08+00:00",
+   "batch": "2026-11-11 16:00",
+   "celebrity": "Kylie Minogue",
+   "article": "2026-11-11-16-00-kylie-minogue.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 1251,
+   "cache_read_tokens": 126604,
+   "cache_write_tokens": 27893,
+   "turns": 7,
+   "seconds": 12,
+   "cost_usd": 0.1369
   }
  ]
 }
