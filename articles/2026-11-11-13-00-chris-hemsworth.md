@@ -5,7 +5,7 @@ seo_title: "Rodtang Chris Hemsworth: Extraction 3 Set Visit Recalled"
 seo_description: "Rodtang Chris Hemsworth meeting on the Extraction 3 set in Thailand: the Muay Thai star recalls a hug, striking tips and a promised hammer."
 focus_keyword: "Rodtang Chris Hemsworth"
 permalink: "rodtang-chris-hemsworth"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 13:00"
 celebrity: "Chris Hemsworth"
@@ -14,6 +14,14 @@ tags: ["Chris Hemsworth", "Extraction 3", "Marvel Studios"]
 image_prompt: "A film set in a tropical Thai town at dusk, with a boxing ring and camera crane under warm lights."
 sources:
   - "https://mmasucka.com/news/hes-super-sweet-rodtang-recalls-meeting-chris-hemsworth-on-extraction-3-set-ahead-of-the-inner-circl/"
+image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image: "images/2026-11-11-13-00-chris-hemsworth.webp"
+wp_media_id: 1815
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-13-00-chris-hemsworth-768x432.webp"
+wp_id: 1816
+wp_link: "https://moduscarry.com/rodtang-chris-hemsworth/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Yaga Episode 5: Photos and Synopsis"
 seo_description: "Hudson Williams Yaga episode 5 arrives Friday, November 13. See what the new stills and the synopsis for The Horns reveal about Henry Park."
 focus_keyword: "Hudson Williams Yaga episode 5"
 permalink: "hudson-williams-yaga-episode-5"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 13:00"
 celebrity: "Hudson Williams"
@@ -14,6 +14,14 @@ tags: ["Hudson Williams", "Yaga", "Carrie-Anne Moss"]
 image_prompt: "A quiet coastal fishing town at dusk, wooden docks, fog over dark water and a single lit window in a distant house."
 sources:
   - "https://www.justjared.com/2026/11/10/yaga-episode-5-photos-synopsis-revealed-see-new-looks-at-hudson-williams-carrie-anne-moss-in-crave-series/"
+image_alt: "Illustration of film set with photos and synopsis, lit by daytime, natural light."
+image: "images/2026-11-11-13-00-hudson-williams.webp"
+wp_media_id: 1817
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-13-00-hudson-williams-768x432.webp"
+wp_id: 1818
+wp_link: "https://moduscarry.com/hudson-williams-yaga-episode-5/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
