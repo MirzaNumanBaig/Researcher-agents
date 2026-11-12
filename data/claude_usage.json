@@ -11871,6 +11871,22 @@
    "turns": 8,
    "seconds": 25,
    "cost_usd": 0.1405
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T02:05:34+00:00",
+   "batch": "2026-11-12 12:00",
+   "celebrity": "Nicole Kidman",
+   "article": "2026-11-12-12-00-nicole-kidman.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4958,
+   "cache_read_tokens": 148928,
+   "cache_write_tokens": 25366,
+   "turns": 8,
+   "seconds": 40,
+   "cost_usd": 0.1661
   }
  ]
 }
