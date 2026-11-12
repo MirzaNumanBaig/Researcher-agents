@@ -11615,6 +11615,22 @@
    "turns": 13,
    "seconds": 41,
    "cost_usd": 0.1923
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T01:34:34+00:00",
+   "batch": "2026-11-12 12:00",
+   "celebrity": "David Walliams",
+   "article": "2026-11-12-12-00-david-walliams.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4288,
+   "cache_read_tokens": 159706,
+   "cache_write_tokens": 28173,
+   "turns": 9,
+   "seconds": 31,
+   "cost_usd": 0.1717
   }
  ]
 }
