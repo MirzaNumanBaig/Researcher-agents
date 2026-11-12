@@ -18,6 +18,7 @@ wp_id: 2000
 wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything-2/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
