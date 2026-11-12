@@ -13135,6 +13135,22 @@
    "turns": 7,
    "seconds": 35,
    "cost_usd": 0.2146
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T19:21:07+00:00",
+   "batch": "2026-11-13 04:00",
+   "celebrity": "Troye Sivan",
+   "article": "2026-11-13-04-00-troye-sivan.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 2948,
+   "cache_read_tokens": 111291,
+   "cache_write_tokens": 22387,
+   "turns": 7,
+   "seconds": 24,
+   "cost_usd": 0.1303
   }
  ]
 }
