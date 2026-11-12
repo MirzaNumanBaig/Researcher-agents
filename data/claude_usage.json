@@ -12431,6 +12431,22 @@
    "turns": 9,
    "seconds": 25,
    "cost_usd": 0.1544
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T10:01:51+00:00",
+   "batch": "2026-11-12 20:00",
+   "celebrity": "Robert Pattinson",
+   "article": "2026-11-12-20-00-robert-pattinson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 26,
+   "output_tokens": 4542,
+   "cache_read_tokens": 364197,
+   "cache_write_tokens": 26558,
+   "turns": 14,
+   "seconds": 86,
+   "cost_usd": 0.2054
   }
  ]
 }
