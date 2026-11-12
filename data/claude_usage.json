@@ -12831,6 +12831,22 @@
    "turns": 8,
    "seconds": 31,
    "cost_usd": 0.1773
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T18:35:06+00:00",
+   "batch": "2026-11-13 04:00",
+   "celebrity": "Jithu Madhavan",
+   "article": "2026-11-13-04-00-jithu-madhavan.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 3684,
+   "cache_read_tokens": 157572,
+   "cache_write_tokens": 27304,
+   "turns": 9,
+   "seconds": 31,
+   "cost_usd": 0.1621
   }
  ]
 }
