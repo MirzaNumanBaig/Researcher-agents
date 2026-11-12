@@ -12415,6 +12415,22 @@
    "turns": 6,
    "seconds": 13,
    "cost_usd": 0.0984
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T09:59:46+00:00",
+   "batch": "2026-11-12 20:00",
+   "celebrity": "Ravi Dubey",
+   "article": "2026-11-12-20-00-ravi-dubey.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 1188,
+   "cache_read_tokens": 186364,
+   "cache_write_tokens": 24920,
+   "turns": 9,
+   "seconds": 25,
+   "cost_usd": 0.1544
   }
  ]
 }
