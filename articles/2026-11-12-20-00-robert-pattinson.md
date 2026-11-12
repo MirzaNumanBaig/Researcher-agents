@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Twilight Replaced: Netflix Casts New Edward"
 seo_description: "Robert Pattinson is being replaced as Edward in Netflix's animated Twilight series. Here is who has been cast, what is confirmed and what comes next."
 focus_keyword: "Robert Pattinson Twilight Netflix"
 permalink: "robert-pattinson-twilight-netflix"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 20:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,10 @@ sources:
   - "https://comicbookmovie.com/fantasy/netflixs-twilight-reboot-has-found-its-new-edward-and-bella-heres-whos-playing-them-a230865"
   - "https://www.superherohype.com/news/678064-netflixs-twilight-tv-show-finally-gets-a-major-casting-update-after-2-years"
   - "https://www.imdb.com/news/ni66102458/"
+wp_id: 1986
+wp_link: "https://moduscarry.com/robert-pattinson-twilight-netflix/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

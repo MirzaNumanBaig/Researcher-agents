@@ -5,7 +5,7 @@ seo_title: "Jithu Madhavan Next Film: Director Clears Up Rumours"
 seo_description: "Jithu Madhavan next film rumours with Dulquer Salmaan and Mamitha Baiju are false, the Scene director says. Here is what he confirmed in Kochi."
 focus_keyword: "Jithu Madhavan next film"
 permalink: "jithu-madhavan-next-film"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 20:00"
 celebrity: "Jithu Madhavan"
@@ -15,6 +15,10 @@ image_prompt: "An empty cinema auditorium with warm light on rows of red seats a
 sources:
   - "https://www.cinemaexpress.com/malayalam/news/2026/Nov/12/jithu-madhavan-clarifies-rumour-on-film-with-dulquer-salmaan-mamitha-baiju"
   - "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/scene-director-jithu-madhavan-clarifies-aavesham-2-rumours-reveals-only-romancham-2-is-confirmed-else-is-speculation/articleshow/135761343.cms"
+wp_id: 1979
+wp_link: "https://moduscarry.com/jithu-madhavan-next-film/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

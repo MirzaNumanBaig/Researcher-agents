@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Home Break-In: 3 Cars Stolen in Byron Bay"
 seo_description: "Chris Hemsworth home break-in: police say three cars were stolen from the Broken Head property and two have been found. Here are the latest details."
 focus_keyword: "Chris Hemsworth home break-in"
 permalink: "chris-hemsworth-home-break-in"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 20:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,15 @@ image_prompt: "A quiet coastal driveway and closed garage door at dawn, with euc
 sources:
   - "https://7news.com.au/entertainment/police-investigate-break-in-and-theft-at-hollywood-actor-chris-hemsworths-northern-rivers-home-c-23152107"
   - "https://www.dailymail.com/news/article-16286359/Chris-Hemsworth-house-break-theft.html"
+image: "images/2026-11-12-20-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 1967
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-20-00-chris-hemsworth-768x432.webp"
+wp_id: 1968
+wp_link: "https://moduscarry.com/chris-hemsworth-home-break-in/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

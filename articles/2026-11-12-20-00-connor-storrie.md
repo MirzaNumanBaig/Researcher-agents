@@ -5,7 +5,7 @@ seo_title: "Connor Storrie Wet: Lionsgate Buys Alma Har'el Film"
 seo_description: "Connor Storrie stars in Wet, the Alma Har'el film Lionsgate has bought for North America and the UK. See the cast, the deal and when filming starts."
 focus_keyword: "Connor Storrie Wet"
 permalink: "connor-storrie-wet-lionsgate"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 20:00"
 celebrity: "Connor Storrie"
@@ -15,6 +15,15 @@ image_prompt: "A luxury yacht anchored on a calm turquoise Caribbean sea at gold
 sources:
   - "https://www.hollywoodreporter.com/movies/movie-news/lionsgate-acquires-wet-connor-storrie-rebecca-ferguson-1236753619/"
   - "https://www.martincid.com/movies/lionsgate-wet-connor-storrie-alma-harel/"
+image: "images/2026-11-12-20-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1969
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-20-00-connor-storrie-768x432.webp"
+wp_id: 1970
+wp_link: "https://moduscarry.com/connor-storrie-wet-lionsgate/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

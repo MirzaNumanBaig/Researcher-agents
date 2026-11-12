@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Black Doves: Love Actually Quotes Puzzle Her"
 seo_description: "Keira Knightley Black Doves season two is streaming, and she says Love Actually quotes mean nothing to her. Here is what she told Heart."
 focus_keyword: "Keira Knightley Black Doves"
 permalink: "keira-knightley-black-doves"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 20:00"
 celebrity: "Keira Knightley"
@@ -18,6 +18,15 @@ sources:
   - "https://www.cinemablend.com/movies/daniel-radcliffe-keira-knightley-same-take-fans-quoting-movies-harry-potter-love-actually"
   - "https://inews.co.uk/culture/television/keira-knightley-black-doves-violence-video-game-4871596"
   - "https://www.mirror.co.uk/3am/celebrity-news/keira-knightley-ben-wishaw-doves-37862430"
+image: "images/2026-11-12-20-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley on Black Doves 2 and Love Actually Quotes"
+image_credit: "Image: <a href=\"https://www.cinemablend.com/movies/daniel-radcliffe-keira-knightley-same-take-fans-quoting-movies-harry-potter-love-actually\" rel=\"nofollow noopener\">Cinemablend</a> (cropped)"
+wp_media_id: 1980
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-20-00-keira-knightley-768x432.webp"
+wp_id: 1981
+wp_link: "https://moduscarry.com/keira-knightley-black-doves/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

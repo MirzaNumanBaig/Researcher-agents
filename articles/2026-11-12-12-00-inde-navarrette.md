@@ -20,6 +20,7 @@ wp_id: 1938
 wp_link: "https://moduscarry.com/inde-navarrette-david-yurman/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

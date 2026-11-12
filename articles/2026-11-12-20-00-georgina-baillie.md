@@ -5,7 +5,7 @@ seo_title: "Georgina Baillie Russell Brand Letter: What It Said"
 seo_description: "Georgina Baillie's character reference for Russell Brand has been revealed. See what she told the judge before his 10-and-a-half-year sentence."
 focus_keyword: "Georgina Baillie Russell Brand letter"
 permalink: "georgina-baillie-russell-brand-letter"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 20:00"
 celebrity: "Georgina Baillie"
@@ -16,6 +16,15 @@ sources:
   - "https://www.lbc.co.uk/article/russell-brand-andrew-sachs-georgina-baillie-5HjdmHb_2/"
   - "https://www.independent.co.uk/news/uk/crime/russell-brand-georgina-baillie-andrew-sachs-b3083616.html"
   - "https://www.dailymail.com/news/article-16286407/Andrew-Sachs-granddaughter-Georgina-Baillie-told-judge-Russell-Brand-understood-respected-boundaries-12-times-slept-rapist-comic.html"
+image: "images/2026-11-12-20-00-georgina-baillie.webp"
+image_alt: "Georgina Baillie: Georgina Baillie's Letter to the Judge Backing Russell Brand"
+image_credit: "Image: <a href=\"https://www.dailymail.com/news/article-16286407/Andrew-Sachs-granddaughter-Georgina-Baillie-told-judge-Russell-Brand-understood-respected-boundaries-12-times-slept-rapist-comic.html\" rel=\"nofollow noopener\">Daily Mail</a> (cropped)"
+wp_media_id: 1973
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-20-00-georgina-baillie-768x432.webp"
+wp_id: 1974
+wp_link: "https://moduscarry.com/georgina-baillie-russell-brand-letter/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

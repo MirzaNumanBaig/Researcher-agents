@@ -18,6 +18,7 @@ wp_id: 1939
 wp_link: "https://moduscarry.com/jason-sudeikis-nanny-arbitration/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
