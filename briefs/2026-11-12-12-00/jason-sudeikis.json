@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-12 12:00",
+  "celebrity": "Jason Sudeikis",
+  "stories": [
+    {
+      "title": "Jason Sudeikis and Olivia Wilde's Former Nanny Gets Nothing in Battle",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRkZFYmtIZXp3dkI5NnQ4VkJrbXZHN2RIUVVZZWR0dUxYLWxqMnhEQnZlQV9RaXJ4N1JQTGV1X1hTeER5cXJJR1dwenRlSjNtaFZNZFZGNE4tR1A1dUFBYk4tc0R5a1FQVU9iSWFONGMyYVg4MS1lV05sbHhQR3V5ZHVoR2ZMMDlRVUlVVTBR?oc=5",
+      "published": "2026-11-12T00:40:15+00:00",
+      "outlets": [
+        {
+          "source": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRkZFYmtIZXp3dkI5NnQ4VkJrbXZHN2RIUVVZZWR0dUxYLWxqMnhEQnZlQV9RaXJ4N1JQTGV1X1hTeER5cXJJR1dwenRlSjNtaFZNZFZGNE4tR1A1dUFBYk4tc0R5a1FQVU9iSWFONGMyYVg4MS1lV05sbHhQR3V5ZHVoR2ZMMDlRVUlVVTBR?oc=5",
+          "article_url": "https://www.tmz.com/2026/11/11/jason-sudeikis-olivia-wilde-nanny-arbitration-results/",
+          "image": "https://imagez.tmz.com/image/ef/16by9/2026/11/11/ef9810ccf40842b6a50aabf7dfd9a4a6_xl.jpg"
+        }
+      ],
+      "image": "https://imagez.tmz.com/image/ef/16by9/2026/11/11/ef9810ccf40842b6a50aabf7dfd9a4a6_xl.jpg",
+      "image_source": "https://www.tmz.com/2026/11/11/jason-sudeikis-olivia-wilde-nanny-arbitration-results/"
+    }
+  ]
+}

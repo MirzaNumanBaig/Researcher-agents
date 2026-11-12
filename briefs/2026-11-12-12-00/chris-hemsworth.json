@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-12 12:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "Chris Hemsworth’s Netflix Action Sequel's Filming Milestone Sets Up One Of The Streamer's Biggest Events",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXd2MzU1UUF1QUFCNjFDMkpkcjlwdFRmaFkyYnc4M2RQdWxCYTY1OUxLcXZaNnFSRUp1OTF0VEdLekpXaTY4RS10bkxpaXVKZFZLWHdUaTlOZm5tSDZTeC00MmlIV3JyNUJFUFpNQ19oRUVrVXhkWVR6U0FhZWo4SWJFSHMtbUpyYUhxWg?oc=5",
+      "published": "2026-11-11T23:09:29+00:00",
+      "outlets": [
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXd2MzU1UUF1QUFCNjFDMkpkcjlwdFRmaFkyYnc4M2RQdWxCYTY1OUxLcXZaNnFSRUp1OTF0VEdLekpXaTY4RS10bkxpaXVKZFZLWHdUaTlOZm5tSDZTeC00MmlIV3JyNUJFUFpNQ19oRUVrVXhkWVR6U0FhZWo4SWJFSHMtbUpyYUhxWg?oc=5",
+          "article_url": "https://screenrant.com/chris-hemsworth-extraction-3-netflix-filming-end-event-setup/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/chris-hemsworth-as-tyler-rake-in-extraction-2.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/chris-hemsworth-as-tyler-rake-in-extraction-2.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/chris-hemsworth-extraction-3-netflix-filming-end-event-setup/"
+    },
+    {
+      "title": "Chris Hemsworth’s New Gin Was Made Using Honey From His Australian Farm",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVVHbUZpcDhtS2ptMHoyNl9oLXVpZE5rQ3JZXzFnMDhLUWtXNElFaFk5SDJBc2JKMWJQLWw1SGs4UUF3OFRnZThXbTMyNmpBWjYyNXZLWXd6MlZiYk1aRV9jN3lOenJwQ0dLTWJXM0ZyWWgyV1ZZem5haVNXemNxenZaT0dqU0xtZDVzNnhESHJfYUdXVGc?oc=5",
+      "published": "2026-11-11T22:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Robb Report",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVVHbUZpcDhtS2ptMHoyNl9oLXVpZE5rQ3JZXzFnMDhLUWtXNElFaFk5SDJBc2JKMWJQLWw1SGs4UUF3OFRnZThXbTMyNmpBWjYyNXZLWXd6MlZiYk1aRV9jN3lOenJwQ0dLTWJXM0ZyWWgyV1ZZem5haVNXemNxenZaT0dqU0xtZDVzNnhESHJfYUdXVGc?oc=5",
+          "article_url": "https://robbreport.com/food-drink/spirits/chris-hemsworth-archie-rose-honey-gin-1238834812/",
+          "image": "https://robbreport.com/wp-content/uploads/2026/11/Archie_Rose_Gin.jpg?w=681&h=383&crop=1"
+        }
+      ],
+      "image": "https://robbreport.com/wp-content/uploads/2026/11/Archie_Rose_Gin.jpg?w=681&h=383&crop=1",
+      "image_source": "https://robbreport.com/food-drink/spirits/chris-hemsworth-archie-rose-honey-gin-1238834812/"
+    }
+  ]
+}
