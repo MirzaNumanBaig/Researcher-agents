@@ -5,7 +5,7 @@ seo_title: "David Walliams Allegations: UK Confronts Laddie Culture"
 seo_description: "David Walliams denies the allegations, but the fallout is reshaping UK entertainment. See what ministers, publishers and critics have said so far."
 focus_keyword: "David Walliams allegations"
 permalink: "david-walliams-allegations-laddie-culture"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 12:00"
 celebrity: "David Walliams"
@@ -16,6 +16,15 @@ sources:
   - "https://www.abc.net.au/news/2026-11-12/uk-confronts-banter-culture-after-david-walliams-russell-brand/107376026"
   - "https://www.abc.net.au/news/2026-11-12/zelda-perkins-comments-on-david-walliams-investigation/107376196"
   - "https://www.bbc.com/news/articles/c6vg233enxjro"
+image: "images/2026-11-12-12-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams Allegations Put UK 'Laddie' Culture on Trial"
+image_credit: "Image: <a href=\"https://www.abc.net.au/news/2026-11-12/uk-confronts-banter-culture-after-david-walliams-russell-brand/107376026\" rel=\"nofollow noopener\">ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation</a> (cropped)"
+wp_media_id: 1932
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-12-00-david-walliams-768x432.webp"
+wp_id: 1933
+wp_link: "https://moduscarry.com/david-walliams-allegations-laddie-culture/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

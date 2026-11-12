@@ -5,7 +5,7 @@ seo_title: "Jason Sudeikis Nanny Arbitration: Ruling Goes His Way"
 seo_description: "Jason Sudeikis nanny arbitration ends with all eight claims dismissed, TMZ reports. See what the ruling says and what happens in court next."
 focus_keyword: "Jason Sudeikis nanny arbitration"
 permalink: "jason-sudeikis-nanny-arbitration"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 12:00"
 celebrity: "Jason Sudeikis"
@@ -14,6 +14,10 @@ tags: ["Jason Sudeikis", "Olivia Wilde"]
 image_prompt: "An empty courtroom at dusk with polished wooden benches, a closed folder on a desk and soft light through tall windows."
 sources:
   - "https://www.tmz.com/2026/11/11/jason-sudeikis-olivia-wilde-nanny-arbitration-results/"
+wp_id: 1939
+wp_link: "https://moduscarry.com/jason-sudeikis-nanny-arbitration/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

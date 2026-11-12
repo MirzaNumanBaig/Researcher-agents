@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Studio Offers: 'Don't Make This'"
 seo_description: "Scarlett Johansson studio offers sometimes leave her asking why a film exists, she told the LA Times, as Paper Tiger opens in the US on 13 November."
 focus_keyword: "Scarlett Johansson studio offers"
 permalink: "scarlett-johansson-studio-offers"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 12:00"
 celebrity: "Scarlett Johansson"
@@ -15,6 +15,10 @@ image_prompt: "An empty cinema auditorium with a single lit screen and rows of r
 sources:
   - "https://variety.com/2026/film/news/scarlett-johansson-bad-studio-movie-offers-1236945270/"
   - "https://www.usatoday.com/story/entertainment/movies/2026/11/11/scarlett-johansson-adam-driver-paper-tiger-interview/92690923007/"
+wp_id: 1959
+wp_link: "https://moduscarry.com/scarlett-johansson-studio-offers/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

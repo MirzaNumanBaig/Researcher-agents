@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Billy Evans: No Regrets After Dinner Clash"
 seo_description: "Amanda Seyfried breaks her silence on the Billy Evans dinner scene in You Can See Everything and says she has no regrets. Here is what she said."
 focus_keyword: "Amanda Seyfried Billy Evans"
 permalink: "amanda-seyfried-billy-evans-no-regrets"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 12:00"
 celebrity: "Amanda Seyfried"
@@ -18,6 +18,15 @@ sources:
   - "https://wwd.com/eye/parties/amanda-seyfried-mikey-madison-tiffany-co-holiday-party-1239411732/"
   - "https://wwd.com/footwear-news/shoe-trends/amanda-seyfried-jimmy-choo-pumps-tiffany-co-holiday-event-1239411215/"
   - "https://extratv.com/2026/11/11/amanda-seyfried-on-her-cinderella-with-a-side-of-mental-illness-in-steps-exclusive/"
+image: "images/2026-11-12-12-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried Has No Regrets Over Billy Evans Dinner Clash"
+image_credit: "Image: <a href=\"https://extratv.com/2026/11/11/amanda-seyfried-on-her-cinderella-with-a-side-of-mental-illness-in-steps-exclusive/\" rel=\"nofollow noopener\">Extra</a> (cropped)"
+wp_media_id: 1924
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-12-00-amanda-seyfried-768x432.webp"
+wp_id: 1925
+wp_link: "https://moduscarry.com/amanda-seyfried-billy-evans-no-regrets/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

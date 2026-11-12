@@ -24,6 +24,7 @@ wp_id: 1910
 wp_link: "https://moduscarry.com/robert-pattinson-james-bond-villeneuve/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Hudson Williams The Assembly Season 2: Guests and Format"
 seo_description: "Hudson Williams is a guest on The Assembly season 2 at CBC, where autistic and neurodivergent adults interview celebrities. Here is what we know."
 focus_keyword: "Hudson Williams The Assembly"
 permalink: "hudson-williams-the-assembly"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 12:00"
 celebrity: "Hudson Williams"
@@ -16,6 +16,15 @@ sources:
   - "https://mediacentre.cbc.ca/announcement/5683/cbc-renews-unscripted-series-the-assembly-for-a-second-season"
   - "https://www.c21media.net/news/cbc-renews-canadian-version-of-the-assembly-for-s2/"
   - "https://www.thepinknews.com/2026/10/16/heated-rivalrys-hudson-williams-asked-if-he-has-more-than-a-friendship-with-connor-storrie/"
+image: "images/2026-11-12-12-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1934
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-12-00-hudson-williams-768x432.webp"
+wp_id: 1935
+wp_link: "https://moduscarry.com/hudson-williams-the-assembly-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

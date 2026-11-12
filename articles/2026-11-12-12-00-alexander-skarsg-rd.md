@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Quinn Felled Audio Story Explained"
 seo_description: "Alexander Skarsgård Quinn: the Wicker star narrates Felled, a fan-fiction contest winner on the audio erotica app. Here is what we know."
 focus_keyword: "Alexander Skarsgård Quinn"
 permalink: "alexander-skarsgard-quinn-felled"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 12:00"
 celebrity: "Alexander Skarsgård"
@@ -15,6 +15,10 @@ image_prompt: "A lone willow tree beside a misty autumn field at dusk, with a pa
 sources:
   - "https://mashable.com/life/wicker-alexander-skarsgard-audio-erotica-fan-fiction"
   - "https://www.queerty.com/alexander-skarsgard-gets-smutty-alanis-morissette-comes-out-all-the-best-lgbtq-releases-this-week-20261111/"
+wp_id: 1923
+wp_link: "https://moduscarry.com/alexander-skarsgard-quinn-felled/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

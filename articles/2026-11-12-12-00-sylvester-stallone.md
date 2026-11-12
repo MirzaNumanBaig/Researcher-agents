@@ -5,7 +5,7 @@ seo_title: "I Play Rocky Audience Score Tops Every Rocky Film"
 seo_description: "I Play Rocky opens with a 97% Rotten Tomatoes audience score, beating Creed III, ahead of its 20 November wide release. Here is what we know."
 focus_keyword: "I Play Rocky"
 permalink: "i-play-rocky-audience-score"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 12:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,10 @@ tags: ["Sylvester Stallone", "I Play Rocky", "Rocky", "Peter Farrelly"]
 image_prompt: "An empty vintage boxing ring under a single spotlight in a dark arena, with worn ropes and a pair of old gloves hanging on a post."
 sources:
   - "https://screenrant.com/i-play-rocky-movie-rotten-tomatoes-audience-score-sylvester-stallone-franchise-knockout/"
+wp_id: 1960
+wp_link: "https://moduscarry.com/i-play-rocky-audience-score/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

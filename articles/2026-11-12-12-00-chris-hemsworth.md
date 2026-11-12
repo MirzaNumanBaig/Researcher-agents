@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Extraction 3 Wraps, Honey Gin Launches"
 seo_description: "Chris Hemsworth Extraction 3 has finished filming in Thailand, while his Archie Rose honey gin goes on sale in Australia. Here is what we know."
 focus_keyword: "Chris Hemsworth Extraction 3"
 permalink: "chris-hemsworth-extraction-3-wrap"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 12:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,15 @@ image_prompt: "A rain-soaked Bangkok street at night with neon signs, a parked m
 sources:
   - "https://screenrant.com/chris-hemsworth-extraction-3-netflix-filming-end-event-setup/"
   - "https://robbreport.com/food-drink/spirits/chris-hemsworth-archie-rose-honey-gin-1238834812/"
+image: "images/2026-11-12-12-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1930
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-12-00-chris-hemsworth-768x432.webp"
+wp_id: 1931
+wp_link: "https://moduscarry.com/chris-hemsworth-extraction-3-wrap/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

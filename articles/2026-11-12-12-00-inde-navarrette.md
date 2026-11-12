@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette David Yurman Party at Chateau Marmont"
 seo_description: "Inde Navarrette joined Eiza González and Tyriq Withers at David Yurman's Chateau Marmont dinner marking its Rodeo Drive reopening. Here is what happened."
 focus_keyword: "Inde Navarrette David Yurman"
 permalink: "inde-navarrette-david-yurman"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 12:00"
 celebrity: "Inde Navarrette"
@@ -16,6 +16,10 @@ sources:
   - "https://wwd.com/eye/parties/inde-navarrette-eiza-gonzalez-david-yurman-chateau-marmont-1239411377/"
   - "https://variety.com/gallery/inde-navarrettes-role-model-david-yurman-party/"
   - "https://deadline.com/video/inde-navarrette-obsession-video-interview/"
+wp_id: 1938
+wp_link: "https://moduscarry.com/inde-navarrette-david-yurman/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -12,14 +12,15 @@ sources:
   - "https://www.digitalspy.com/movies/a74272684/marvel-connor-storrie-ghost-rider-villain-rumours/"
   - "https://www.laineygossip.com/will-connor-storries-new-role-as-villain-in-marvels-ghost-rider-be-one-and-done-deal/"
   - "https://en.tempo.co/read/2122556/connor-storrie-circling-villain-role-in-marvel-ghost-rider-who-is-he"
-image_alt: "Illustration of an empty armchair beside a rain-streaked window, soft grey light across the floor."
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
 image: "images/2026-10-29-03-00-connor-storrie.webp"
-wp_media_id: 1257
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/10/2026-10-29-03-00-connor-storrie-768x432.webp"
 wp_id: 1258
 wp_link: "https://moduscarry.com/connor-storrie-in-talks-for-villain-role-in-ghost-rider/"
 wp_synced: publish
 embed_checked: 1
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 1257
 ---
 
 **Quick summary**
