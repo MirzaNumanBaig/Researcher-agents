@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-13 10:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ghost Rider actor says he's open to return for Ryan Gosling's Marvel reboot",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ3Axbm11MTdKUDYzMTJkM2pobnh5OElfUUdacTdLN0Y0SjlvSXJwYllHQjFqLTlnalg2a2NvaWl2RnVzc2JMbU10LXg3X1N4QldiNHMtMUVFM2puNVVNTEJCLTJqZHM4VGNCM054cWpnM0pVaXdmdlhOQ2V4eFZoZy13?oc=5",
+      "published": "2026-11-12T22:05:59+00:00",
+      "outlets": [
+        {
+          "source": "Polygon.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ3Axbm11MTdKUDYzMTJkM2pobnh5OElfUUdacTdLN0Y0SjlvSXJwYllHQjFqLTlnalg2a2NvaWl2RnVzc2JMbU10LXg3X1N4QldiNHMtMUVFM2puNVVNTEJCLTJqZHM4VGNCM054cWpnM0pVaXdmdlhOQ2V4eFZoZy13?oc=5",
+          "article_url": "https://www.polygon.com/ghost-rider-ryan-reynolds-gabriel-luna-marvel-movie/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ghost-rider-agents-of-shield.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ghost-rider-agents-of-shield.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://www.polygon.com/ghost-rider-ryan-reynolds-gabriel-luna-marvel-movie/"
+    },
+    {
+      "title": "Ryan Gosling’s 10 Most Underrated Movie Performances, Ranked",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVUtyWFZ4VkV5YklCUEdvWEtJWWFLVGNKZ2xnSTBuYWV0YV9FR3JPMnYyTllLWXlVMHNVbzZvTTYyUFA5Q2ZwZkJmQkRkcTJmTTZlMWZtRzZiOEtHU01VVzRJSGNfdw?oc=5",
+      "published": "2026-11-12T19:32:45+00:00",
+      "outlets": [
+        {
+          "source": "No Film School",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVUtyWFZ4VkV5YklCUEdvWEtJWWFLVGNKZ2xnSTBuYWV0YV9FR3JPMnYyTllLWXlVMHNVbzZvTTYyUFA5Q2ZwZkJmQkRkcTJmTTZlMWZtRzZiOEtHU01VVzRJSGNfdw?oc=5",
+          "article_url": "https://nofilmschool.com/ryan-gosling-underrated-movies",
+          "image": "https://nofilmschool.com/media-library/image.webp?id=65493914&width=1200&height=600&coordinates=0%2C41%2C0%2C41"
+        }
+      ],
+      "image": "https://nofilmschool.com/media-library/image.webp?id=65493914&width=1200&height=600&coordinates=0%2C41%2C0%2C41",
+      "image_source": "https://nofilmschool.com/ryan-gosling-underrated-movies"
+    }
+  ]
+}
