@@ -12159,6 +12159,22 @@
    "turns": 11,
    "seconds": 36,
    "cost_usd": 0.1559
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T09:26:18+00:00",
+   "batch": "2026-11-12 20:00",
+   "celebrity": "Chris Hemsworth",
+   "article": "2026-11-12-20-00-chris-hemsworth.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 4357,
+   "cache_read_tokens": 227126,
+   "cache_write_tokens": 36328,
+   "turns": 10,
+   "seconds": 34,
+   "cost_usd": 0.2118
   }
  ]
 }
