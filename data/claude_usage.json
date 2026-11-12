@@ -11983,6 +11983,22 @@
    "turns": 10,
    "seconds": 52,
    "cost_usd": 0.1932
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T02:19:45+00:00",
+   "batch": "2026-11-12 12:00",
+   "celebrity": "Sai Pallavi",
+   "article": "2026-11-12-12-00-sai-pallavi.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 16,
+   "output_tokens": 5356,
+   "cache_read_tokens": 301228,
+   "cache_write_tokens": 35640,
+   "turns": 13,
+   "seconds": 38,
+   "cost_usd": 0.2264
   }
  ]
 }
