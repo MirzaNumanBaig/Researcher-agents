@@ -19,6 +19,7 @@ wp_id: 1923
 wp_link: "https://moduscarry.com/alexander-skarsgard-quinn-felled/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

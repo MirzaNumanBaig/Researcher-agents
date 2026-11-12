@@ -25,6 +25,7 @@ wp_id: 1933
 wp_link: "https://moduscarry.com/david-walliams-allegations-laddie-culture/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
