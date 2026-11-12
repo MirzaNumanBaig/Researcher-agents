@@ -18,6 +18,7 @@ wp_id: 1960
 wp_link: "https://moduscarry.com/i-play-rocky-audience-score/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
