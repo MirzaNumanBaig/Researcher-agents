@@ -12847,6 +12847,22 @@
    "turns": 9,
    "seconds": 31,
    "cost_usd": 0.1621
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T18:38:34+00:00",
+   "batch": "2026-11-13 04:00",
+   "celebrity": "Johnny Depp",
+   "article": "2026-11-13-04-00-johnny-depp.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4959,
+   "cache_read_tokens": 208558,
+   "cache_write_tokens": 45173,
+   "turns": 9,
+   "seconds": 35,
+   "cost_usd": 0.2513
   }
  ]
 }
