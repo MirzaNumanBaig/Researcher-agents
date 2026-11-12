@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-12 20:00",
+  "celebrity": "Heath Ledger",
+  "stories": [
+    {
+      "title": "In 2002, Heath Ledger turned down a $155 million movie role. Two years later, it lost a fortune and was nominated for six Razzies",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelhIZjdYdEVRRDcxdTJqbWw5ZkIwbGxKdDRER2p3aWNaLXpmQ2NpenJBYmpHVGhKT2lmYTdLUi02ZzNFajhoNEEwLWw0MGZXNHR3OEY1YWg5MVJRT3JSdUNsQUdPZjU1M2lMNEZGT29Mdzg4cjNMT0lLdUg5cmV6UmdmTnduWnoxM0JCN21EVEIyMEJ3aEVCX3RGVkdYMDNtRUg0?oc=5",
+      "published": "2026-11-12T07:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelhIZjdYdEVRRDcxdTJqbWw5ZkIwbGxKdDRER2p3aWNaLXpmQ2NpenJBYmpHVGhKT2lmYTdLUi02ZzNFajhoNEEwLWw0MGZXNHR3OEY1YWg5MVJRT3JSdUNsQUdPZjU1M2lMNEZGT29Mdzg4cjNMT0lLdUg5cmV6UmdmTnduWnoxM0JCN21EVEIyMEJ3aEVCX3RGVkdYMDNtRUg0?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/heath-ledger-turned-down-movie-role-lost-fortune-six-razzie-nominations/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2023/06/Heath-Ledger-Actor-Far-Out-Magazine-F.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2023/06/Heath-Ledger-Actor-Far-Out-Magazine-F.jpg",
+      "image_source": "https://faroutmagazine.co.uk/heath-ledger-turned-down-movie-role-lost-fortune-six-razzie-nominations/"
+    },
+    {
+      "title": "Timothée Chalamet Hints at Dark Transformation with Buzzcut in 'Dune: Part Three,' Drawing Inspiration from Marlon Brando and Heath Ledger",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YX3I0eWMxd1N2dFdlVVdoZkg5UXVjVXpNeURlMXN1SzlhSE9HRmVWcXNVMGlYS002VlRrOW1EaDNVWndvd0J6NWVOaUdXbG1IWHdKQ0p4WUtGSFFyekFGUVR3MFB1UnFhejNvZ0N3?oc=5",
+      "published": "2026-11-12T02:08:47+00:00",
+      "outlets": [
+        {
+          "source": "news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YX3I0eWMxd1N2dFdlVVdoZkg5UXVjVXpNeURlMXN1SzlhSE9HRmVWcXNVMGlYS002VlRrOW1EaDNVWndvd0J6NWVOaUdXbG1IWHdKQ0p4WUtGSFFyekFGUVR3MFB1UnFhejNvZ0N3?oc=5",
+          "article_url": "https://news.sbs.co.kr/english/article.do?news_id=N1008842684",
+          "image": "https://img.sbs.co.kr/newsnet/etv/upload/2026/11/12/30001099151_16v9.jpg"
+        }
+      ],
+      "image": "https://img.sbs.co.kr/newsnet/etv/upload/2026/11/12/30001099151_16v9.jpg",
+      "image_source": "https://news.sbs.co.kr/english/article.do?news_id=N1008842684"
+    }
+  ]
+}
