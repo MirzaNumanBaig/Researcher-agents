@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Wicker Makeup: How the Look Was Built"
 seo_description: "Alexander Skarsgård's Wicker makeup used about 50 body pieces and took 90 minutes a day to apply. Here is how it was made, and True Blood's Hulu exit."
 focus_keyword: "Alexander Skarsgård Wicker makeup"
 permalink: "alexander-skarsgard-wicker-makeup"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Alexander Skarsgård"
@@ -15,6 +15,15 @@ image_prompt: "A quiet workshop bench covered in woven basket strands, flax fibr
 sources:
   - "https://www.newsbreak.com/wealth-of-geeks-368512803/5002826054245-alexander-skarsg-rd-jokes-he-s-pitching-a-wicker-sequel-called-corduroy-but-can-t-find-funding"
   - "https://screenrant.com/true-blood-leaving-hulu-december-2026/"
+image: "images/2026-11-13-04-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd's Wicker Makeup Took 18 Months to Build"
+image_credit: "Image: <a href=\"https://screenrant.com/true-blood-leaving-hulu-december-2026/\" rel=\"nofollow noopener\">ScreenRant</a> (cropped)"
+wp_media_id: 1998
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 1999
+wp_link: "https://moduscarry.com/alexander-skarsgard-wicker-makeup/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

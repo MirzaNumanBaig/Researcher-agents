@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond Odds: Now Neck and Neck"
 seo_description: "Robert Pattinson James Bond odds hit 32% on Kalshi, just behind Callum Turner at 34%, after a reported screen test. See who else is in the race."
 focus_keyword: "Robert Pattinson James Bond odds"
 permalink: "robert-pattinson-james-bond-odds"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Robert Pattinson"
@@ -14,6 +14,10 @@ tags: ["Robert Pattinson", "James Bond", "Callum Turner", "Jack Lowden"]
 image_prompt: "A dimly lit empty cinema with a single spotlight on a velvet seat, a vintage tuxedo jacket draped over it, moody blue tones"
 sources:
   - "https://news.kalshi.com/p/james-bond-casting-odds-robert-pattinson-callum-turner-now-neck-and-neck"
+wp_id: 2032
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-odds/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

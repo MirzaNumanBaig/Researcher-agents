@@ -5,7 +5,7 @@ seo_title: "David Walliams Allegations: Industry Reaction Grows"
 seo_description: "David Walliams allegations prompt Australian broadcasters and Dymocks to pull his work, while Jonathan Ross responds. Walliams denies any wrongdoing."
 focus_keyword: "David Walliams allegations"
 permalink: "david-walliams-allegations-industry-reaction"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 20:00"
 celebrity: "David Walliams"
@@ -17,6 +17,15 @@ sources:
   - "https://www.theguardian.com/tv-and-radio/2026/nov/12/years-of-onscreen-jokes-suggest-walliams-reputation-was-in-plain-sight-within-industry-insider-says"
   - "https://www.nine.com.au/entertainment/celebrity/all-celebrities-spoke-out-russell-brand-david-walliams-20261112-p61dgq.html"
   - "https://womensagenda.com.au/latest/lucy-beaumont-speaks-out-about-david-walliams-allegations-warning-powerful-people-are-protected-by-silence/"
+image: "images/2026-11-12-20-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams Allegations: Ross, Retailers and Broadcasters React"
+image_credit: "Image: <a href=\"https://www.theguardian.com/tv-and-radio/2026/nov/12/years-of-onscreen-jokes-suggest-walliams-reputation-was-in-plain-sight-within-industry-insider-says\" rel=\"nofollow noopener\">The Guardian</a> (cropped)"
+wp_media_id: 1996
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-20-00-david-walliams-768x432.webp"
+wp_id: 1997
+wp_link: "https://moduscarry.com/david-walliams-allegations-industry-reaction/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

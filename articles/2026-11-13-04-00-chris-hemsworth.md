@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth KINSYN Launch, Break-In and Netflix Hit"
 seo_description: "Chris Hemsworth KINSYN launches as police probe a Broken Head break-in and In the Heart of the Sea returns to Netflix's global top ten."
 focus_keyword: "Chris Hemsworth KINSYN"
 permalink: "chris-hemsworth-kinsyn-launch"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Chris Hemsworth"
@@ -19,6 +19,15 @@ sources:
   - "https://www.prnewswire.com/news-releases/chris-hemsworth-launches-kinsyn-as-co-founder-bringing-personalized-wellness-medical-care-and-health-data-together-in-one-platform-302937319.html"
   - "https://movieweb.com/in-the-heart-of-the-sea-stream-netflix-november-2026/"
   - "https://www.mirror.co.uk/tv/tv-news/masterpiece-period-movie-starring-chris-37864514"
+image: "images/2026-11-13-04-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2006
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-chris-hemsworth-768x432.webp"
+wp_id: 2007
+wp_link: "https://moduscarry.com/chris-hemsworth-kinsyn-launch/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

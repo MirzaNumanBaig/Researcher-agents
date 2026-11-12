@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette SNL Halloween Host: Review and Reaction"
 seo_description: "Inde Navarrette hosted the Halloween episode of Saturday Night Live in season 52. See which sketches worked, which fell flat and what comes next."
 focus_keyword: "Inde Navarrette SNL"
 permalink: "inde-navarrette-snl-halloween"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Inde Navarrette"
@@ -14,6 +14,10 @@ tags: ["X-Men", "Marvel", "Jacob Elordi", "Marvel Studios"]
 image_prompt: "A dimly lit late-night television studio decorated for Halloween, with pumpkins, a red curtain and warm stage lights on an empty set."
 sources:
   - "https://www.michigandaily.com/arts/tv/saturday-night-rewind-inde-navarrette-is-deservingly-a-rising-star/"
+wp_id: 2016
+wp_link: "https://moduscarry.com/inde-navarrette-snl-halloween/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

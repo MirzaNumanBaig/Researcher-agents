@@ -5,7 +5,7 @@ seo_title: "Jithu Madhavan Romancham 2 and Aavesham 2: Sequel Update"
 seo_description: "Jithu Madhavan explains where Romancham 2 and Aavesham 2 stand, and why neither sequel is what fans have been expecting so far."
 focus_keyword: "Jithu Madhavan Romancham 2"
 permalink: "jithu-madhavan-romancham-2"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Jithu Madhavan"
@@ -14,6 +14,10 @@ tags: ["Fahadh Faasil", "Dulquer Salmaan"]
 image_prompt: "An empty cinema auditorium with a glowing screen and rows of red seats in warm dim light"
 sources:
   - "https://www.cinemaexpress.com/malayalam/news/2026/Nov/12/jithu-madhavan-opens-up-on-sequels-to-romancham-aavesham"
+wp_id: 2020
+wp_link: "https://moduscarry.com/jithu-madhavan-romancham-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

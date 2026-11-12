@@ -5,7 +5,7 @@ seo_title: "Georgina Baillie Russell Brand Reference: What She Wrote"
 seo_description: "Georgina Baillie's Russell Brand character reference was read at his sentencing. Here is what the Sachsgate figure told the judge and what comes next."
 focus_keyword: "Georgina Baillie Russell Brand"
 permalink: "georgina-baillie-russell-brand-reference"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Georgina Baillie"
@@ -18,6 +18,15 @@ sources:
   - "https://www.lbc.co.uk/article/who-georgina-baillie-5HjdmJj_2/"
   - "https://www.dailystar.co.uk/news/latest-news/russell-brands-sachsgate-ex-tells-37869805"
   - "https://www.independent.co.uk/bulletin/news/russell-brand-georgina-baillie-character-reference-sachs-b3083687.html"
+image: "images/2026-11-13-04-00-georgina-baillie.webp"
+image_alt: "Georgina Baillie: Georgina Baillie's Character Reference for Russell Brand Explained"
+image_credit: "Image: <a href=\"https://www.lbc.co.uk/article/who-georgina-baillie-5HjdmJj_2/\" rel=\"nofollow noopener\">LBC</a> (cropped)"
+wp_media_id: 2012
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-georgina-baillie-768x432.webp"
+wp_id: 2013
+wp_link: "https://moduscarry.com/georgina-baillie-russell-brand-reference/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

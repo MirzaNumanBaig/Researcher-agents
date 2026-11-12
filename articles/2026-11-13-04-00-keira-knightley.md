@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Atonement Dress and Black Doves Stunts"
 seo_description: "Keira Knightley's green Atonement dress goes to Christie's on 9 December, and she talks stunts and door-kicking in Black Doves season 2 on Netflix."
 focus_keyword: "Keira Knightley Atonement dress"
 permalink: "keira-knightley-atonement-dress"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Keira Knightley"
@@ -15,6 +15,15 @@ image_prompt: "An emerald silk gown on a mannequin in a softly lit auction house
 sources:
   - "https://tucson.com/life-entertainment/nation-world/movies-tv/article_1e20567d-9f0c-5037-a5f3-72c485f4fa17.html"
   - "https://nypost.com/2026/11/11/lifestyle/keira-knightleys-atonement-dress-could-fetch-166k-at-auction-but-new-yorkers-can-see-it-for-free/"
+image: "images/2026-11-13-04-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley: Black Doves Stunts and Atonement Dress Sale"
+image_credit: "Image: <a href=\"https://tucson.com/life-entertainment/nation-world/movies-tv/article_1e20567d-9f0c-5037-a5f3-72c485f4fa17.html\" rel=\"nofollow noopener\">Arizona Daily Star</a> (cropped)"
+wp_media_id: 2024
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-keira-knightley-768x432.webp"
+wp_id: 2025
+wp_link: "https://moduscarry.com/keira-knightley-atonement-dress/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

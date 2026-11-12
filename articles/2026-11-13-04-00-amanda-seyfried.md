@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried You Can See Everything: Career Fear"
 seo_description: "Amanda Seyfried explains why You Can See Everything felt dangerous, how Emma Stone connected her to Nathan Fielder, and that tense Billy Evans dinner."
 focus_keyword: "Amanda Seyfried You Can See Everything"
 permalink: "amanda-seyfried-you-can-see-everything"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Amanda Seyfried"
@@ -14,6 +14,10 @@ tags: ["Amanda Seyfried", "Nathan Fielder", "Emma Stone"]
 image_prompt: "An empty cinema auditorium with a single glowing screen and rows of red seats in dim light."
 sources:
   - "https://www.usatoday.com/story/entertainment/movies/2026/11/12/amanda-seyfried-elizabeth-holmes-interview/92739145007/"
+wp_id: 2000
+wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -27,6 +27,7 @@ wp_id: 1981
 wp_link: "https://moduscarry.com/keira-knightley-black-doves/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

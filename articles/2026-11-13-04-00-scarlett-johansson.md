@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Ray Gunn Trailer: Netflix Date Set"
 seo_description: "The new Scarlett Johansson Ray Gunn trailer is out. See the voice cast, the story and the 4 December cinema and 18 December Netflix dates."
 focus_keyword: "Scarlett Johansson Ray Gunn"
 permalink: "scarlett-johansson-ray-gunn-trailer"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Scarlett Johansson"
@@ -17,6 +17,15 @@ sources:
   - "https://screenrant.com/scarlett-johansson-ray-gunn-netflix-new-trailer/"
   - "https://ca.news.yahoo.com/watch-sam-rockwell-scarlett-johansson-160624713.html"
   - "https://pagesix.com/2026/11/12/celebrity-news/scarlett-johansson-reveals-who-wears-the-pants-in-colin-jost-marriage/"
+image: "images/2026-11-13-04-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson's Ray Gunn Gets a New Netflix Trailer"
+image_credit: "Image: <a href=\"https://ca.news.yahoo.com/watch-sam-rockwell-scarlett-johansson-160624713.html\" rel=\"nofollow noopener\">Yahoo News Canada</a> (cropped)"
+wp_media_id: 2044
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-scarlett-johansson-768x432.webp"
+wp_id: 2045
+wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-trailer/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

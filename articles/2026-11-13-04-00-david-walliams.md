@@ -5,7 +5,7 @@ seo_title: "David Walliams Dressing Room Claim: Nish Kumar Speaks Out"
 seo_description: "Nish Kumar made a David Walliams dressing room claim on his podcast. Walliams denies wrongdoing. Here is what was said and what comes next."
 focus_keyword: "David Walliams dressing room"
 permalink: "david-walliams-dressing-room-claim"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "David Walliams"
@@ -16,6 +16,10 @@ sources:
   - "https://www.independent.co.uk/arts-entertainment/tv/news/nish-kumar-david-walliams-podcast-women-dressing-room-b3083721.html"
   - "https://www.independent.co.uk/voices/editorials/david-walliams-sexual-assault-girls-grooming-russell-brand-b3083309.html"
   - "https://www.independent.co.uk/arts-entertainment/tv/news/russell-brand-david-walliams-friendship-allegations-b3082502.html"
+wp_id: 2011
+wp_link: "https://moduscarry.com/david-walliams-dressing-room-claim/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

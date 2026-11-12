@@ -24,6 +24,7 @@ wp_id: 1970
 wp_link: "https://moduscarry.com/connor-storrie-wet-lionsgate/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

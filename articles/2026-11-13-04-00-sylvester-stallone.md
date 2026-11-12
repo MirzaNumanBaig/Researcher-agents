@@ -5,7 +5,7 @@ seo_title: "I Play Rocky Review: Stallone Film Called 'Phony' by WBUR"
 seo_description: "WBUR's I Play Rocky review calls Peter Farrelly's film about Sylvester Stallone a phony, flattering take on how Rocky was made. Read what it says."
 focus_keyword: "I Play Rocky review"
 permalink: "i-play-rocky-review"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,10 @@ tags: ["Sylvester Stallone", "I Play Rocky", "Rocky", "Peter Farrelly"]
 image_prompt: "An empty vintage boxing gym at dawn, a worn leather punching bag and a battered film projector casting light on the wall."
 sources:
   - "https://www.wbur.org/news/2026/11/12/sylvester-stallone-peter-farrelly-i-play-rocky-film-review"
+wp_id: 2046
+wp_link: "https://moduscarry.com/i-play-rocky-review/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
