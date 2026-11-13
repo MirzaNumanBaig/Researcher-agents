@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson CFDA Awards 2026: Stars Hit New York"
 seo_description: "Pamela Anderson joined Matt Damon, Demi Moore and Hailey Bieber at the 2026 CFDA Fashion Awards in New York. See who presented and what they wore."
 focus_keyword: "Pamela Anderson CFDA Awards"
 permalink: "pamela-anderson-cfda-awards"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 10:00"
 celebrity: "Pamela Anderson"
@@ -14,6 +14,15 @@ tags: ["Pamela Anderson", "Red carpet", "Fashion"]
 image_prompt: "A grand museum hall at night set for an awards ceremony, with a red carpet, warm lights and empty chairs"
 sources:
   - "https://hollywoodpq.com/en/pamela-anderson-matt-damon-and-demi-moore-gathered-for-a-glamorous-evening-in-new-york/"
+image: "images/2026-11-13-10-00-pamela-anderson.webp"
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2071
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-10-00-pamela-anderson-768x432.webp"
+wp_id: 2072
+wp_link: "https://moduscarry.com/pamela-anderson-cfda-awards/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

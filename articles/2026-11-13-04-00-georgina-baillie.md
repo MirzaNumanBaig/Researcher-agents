@@ -27,6 +27,7 @@ wp_id: 2013
 wp_link: "https://moduscarry.com/georgina-baillie-russell-brand-reference/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

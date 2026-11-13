@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Paper Tiger: Why She Rejects Studio Offers"
 seo_description: "Scarlett Johansson says she tells studios some projects shouldn't be made, as Paper Tiger opens in US cinemas on 13 November. Here's what she said."
 focus_keyword: "Scarlett Johansson Paper Tiger"
 permalink: "scarlett-johansson-paper-tiger-studio-offers"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 10:00"
 celebrity: "Scarlett Johansson"
@@ -17,6 +17,15 @@ sources:
   - "https://www.yahoo.com/entertainment/celebrity/interviews/articles/scarlett-johansson-reveals-shes-rejected-180257123.html"
   - "https://uk.news.yahoo.com/scarlett-johansson-makes-candid-admission-230000813.html"
   - "https://solzyatthemovies.com/2026/11/12/scarlett-johansson-ray-gunn/"
+image: "images/2026-11-13-10-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson Backs Paper Tiger and Slams Bad Offers"
+image_credit: "Image: <a href=\"https://www.avclub.com/scarlett-johansson-irresponsible-studio-movie-offers\" rel=\"nofollow noopener\">A.V. Club</a> (cropped)"
+wp_media_id: 2081
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-10-00-scarlett-johansson-768x432.webp"
+wp_id: 2082
+wp_link: "https://moduscarry.com/scarlett-johansson-paper-tiger-studio-offers/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Home Raid: Three Stolen Cars Recovered"
 seo_description: "Police have recovered all three cars taken in the Chris Hemsworth home raid at Broken Head. No arrests yet, and forensic checks are under way."
 focus_keyword: "Chris Hemsworth home raid"
 permalink: "chris-hemsworth-home-raid-cars-recovered"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 10:00"
 celebrity: "Chris Hemsworth"
@@ -17,6 +17,15 @@ sources:
   - "https://www.power100.com.au/trending/stories/chris-hemsworths-shopping-centre-sized-home-robbed/"
   - "https://www.yahoo.com/entertainment/celebrity/articles/masked-men-steal-3-cars-205622482.html"
   - "https://pagesix.com/2026/11/12/celebrity-news/chris-hemsworths-multi-million-dollar-beach-retreat-targeted-by-burglars-who-stole-three-cars/"
+image: "images/2026-11-13-10-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2053
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-10-00-chris-hemsworth-768x432.webp"
+wp_id: 2054
+wp_link: "https://moduscarry.com/chris-hemsworth-home-raid-cars-recovered/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

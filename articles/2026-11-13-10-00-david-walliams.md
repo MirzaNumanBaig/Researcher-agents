@@ -5,7 +5,7 @@ seo_title: "David Walliams Books Australia: Dymocks, Big W Pull Titles"
 seo_description: "David Walliams books are off Dymocks and Big W shelves in Australia, while Booktopia is still selling them. Here is what each retailer has said."
 focus_keyword: "David Walliams books Australia"
 permalink: "david-walliams-books-australia"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 10:00"
 celebrity: "David Walliams"
@@ -15,6 +15,10 @@ image_prompt: "An empty bookshop aisle at dusk with a bare children's book shelf
 sources:
   - "https://www.nine.com.au/entertainment/celebrity/booktopia-still-selling-russell-brand-david-walliams-books-pulled-craig-silvey-from-shelves-20261112-p61d95.html"
   - "https://www.independent.co.uk/arts-entertainment/books/news/david-walliams-children-books-problematic-themes-b3083723.html"
+wp_id: 2056
+wp_link: "https://moduscarry.com/david-walliams-books-australia/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

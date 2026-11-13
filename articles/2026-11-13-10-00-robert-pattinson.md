@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Screen Test: Who Is in the Race"
 seo_description: "The Robert Pattinson Bond screen test puts him against Callum Turner and Jack Lowden for 007. See the odds, the shortlist and what is unconfirmed."
 focus_keyword: "Robert Pattinson Bond screen test"
 permalink: "robert-pattinson-bond-screen-test"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 10:00"
 celebrity: "Robert Pattinson"
@@ -15,6 +15,15 @@ image_prompt: "A dimly lit empty film audition room with a single chair, a tripo
 sources:
   - "https://thenightly.com.au/culture/robert-pattinson-would-be-a-magnificent-james-bond-but-for-his-sake-and-ours-he-shouldnt-do-it-c-23134104"
   - "https://www.olbg.com/news/next-james-bond-odds-bookmakers-make-callum-turner-5-4-robert-pattinson-joins-007-race"
+image: "images/2026-11-13-10-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson Bond Screen Test Puts Him in 007 Race"
+image_credit: "Image: <a href=\"https://thenightly.com.au/culture/robert-pattinson-would-be-a-magnificent-james-bond-but-for-his-sake-and-ours-he-shouldnt-do-it-c-23134104\" rel=\"nofollow noopener\">The Nightly</a> (cropped)"
+wp_media_id: 2073
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-10-00-robert-pattinson-768x432.webp"
+wp_id: 2074
+wp_link: "https://moduscarry.com/robert-pattinson-bond-screen-test/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

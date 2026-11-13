@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder You Can See Everything: What Critics Note"
 seo_description: "Nathan Fielder's You Can See Everything is drawing fresh analysis, from a debate over the word 'can' to his grey New Balance sneakers. Here is what was said."
 focus_keyword: "Nathan Fielder You Can See Everything"
 permalink: "nathan-fielder-you-can-see-everything"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 10:00"
 celebrity: "Nathan Fielder"
@@ -15,6 +15,10 @@ image_prompt: "A lone pair of grey running sneakers beside an empty chair in a d
 sources:
   - "https://www.wyomingnewsnow.tv/news/entertainment/what-nathan-fielder-s-you-can-see-everything-reveals-about-the-delicate-balance-between-ambition/article_df6fd5cd-2701-5fd3-b58a-2119affa0f17.html"
   - "https://www.highsnobiety.com/p/new-balance-nathan-fielder-992-new/"
+wp_id: 2070
+wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -23,6 +23,7 @@ wp_id: 2009
 wp_link: "https://moduscarry.com/connor-storrie-wet-cast-rosalia/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

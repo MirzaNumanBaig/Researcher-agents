@@ -5,7 +5,7 @@ seo_title: "Wild Horse Nine Cast and Plot: Martin McDonagh's New Film"
 seo_description: "Wild Horse Nine cast and plot: Martin McDonagh's CIA story set before the 1973 Chilean coup, with Sam Rockwell, John Malkovich and Steve Buscemi."
 focus_keyword: "Wild Horse Nine cast"
 permalink: "wild-horse-nine-cast-plot"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 10:00"
 celebrity: "Martin McDonagh"
@@ -14,6 +14,10 @@ tags: ["Martin McDonagh", "Sam Rockwell", "Steve Buscemi", "Tom Waits", "Parker 
 image_prompt: "A remote windswept island with weathered stone statues facing a grey ocean under a heavy evening sky"
 sources:
   - "https://www.iftn.ie/index.php/Scripts/filmography/digital/news/?act1=record&only=1&aid=73&rid=4297316&tpl=archnews&force=1"
+wp_id: 2066
+wp_link: "https://moduscarry.com/wild-horse-nine-cast-plot/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
