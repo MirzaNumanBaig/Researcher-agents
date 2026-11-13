@@ -19,6 +19,7 @@ wp_id: 2056
 wp_link: "https://moduscarry.com/david-walliams-books-australia/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

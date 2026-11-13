@@ -18,6 +18,7 @@ wp_id: 2066
 wp_link: "https://moduscarry.com/wild-horse-nine-cast-plot/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
