@@ -14367,6 +14367,22 @@
    "turns": 11,
    "seconds": 38,
    "cost_usd": 0.1866
+  },
+  {
+   "date": "2026-11-13",
+   "time": "2026-11-13T13:26:23+00:00",
+   "batch": "2026-11-13 23:00",
+   "celebrity": "Margot Robbie",
+   "article": "2026-11-13-23-00-margot-robbie.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 1110,
+   "cache_read_tokens": 78928,
+   "cache_write_tokens": 22395,
+   "turns": 6,
+   "seconds": 19,
+   "cost_usd": 0.1087
   }
  ]
 }
