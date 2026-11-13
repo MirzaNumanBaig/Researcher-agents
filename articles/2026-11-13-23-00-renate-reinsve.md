@@ -23,6 +23,7 @@ wp_id: 2129
 wp_link: "https://moduscarry.com/renate-reinsve-fjord-reaction/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

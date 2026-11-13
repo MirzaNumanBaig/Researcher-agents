@@ -18,6 +18,7 @@ wp_id: 2130
 wp_link: "https://moduscarry.com/robert-pattinson-the-take-netflix/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
