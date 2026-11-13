@@ -24,6 +24,7 @@ wp_id: 2093
 wp_link: "https://moduscarry.com/cate-blanchett-moma-film-benefit/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

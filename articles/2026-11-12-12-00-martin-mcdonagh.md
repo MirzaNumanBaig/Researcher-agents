@@ -18,6 +18,7 @@ wp_id: 2108
 wp_link: "https://moduscarry.com/sam-rockwell-oscar-wild-horse-nine-2/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
