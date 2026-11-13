@@ -5,7 +5,7 @@ seo_title: "Sam Rockwell Oscar Chance for Wild Horse Nine Explained"
 seo_description: "Sam Rockwell Oscar odds for Wild Horse Nine: he is second in Gold Derby's supporting actor race, and a win would be a rare feat with Martin McDonagh."
 focus_keyword: "Sam Rockwell Oscar"
 permalink: "sam-rockwell-oscar-wild-horse-nine"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-12 12:00"
 celebrity: "Martin McDonagh"
@@ -14,6 +14,10 @@ tags: ["Martin McDonagh", "Sam Rockwell", "Wild Horse Nine"]
 image_prompt: "An empty golden-lit theatre stage with a single spotlight and rows of velvet seats, awards season mood"
 sources:
   - "https://www.goldderby.com/film/2026/sam-rockwell-oscar-wild-horse-nine-supporting-actor-director-history/"
+wp_id: 2108
+wp_link: "https://moduscarry.com/sam-rockwell-oscar-wild-horse-nine-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

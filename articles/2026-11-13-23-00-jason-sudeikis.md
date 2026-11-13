@@ -5,7 +5,7 @@ seo_title: "Jason Sudeikis Ted Lasso: What He Said About the Show"
 seo_description: "Jason Sudeikis Ted Lasso comments: the actor spoke about the show helping him through a hard time and the Bill Lawrence tension claims. Read more."
 focus_keyword: "Jason Sudeikis Ted Lasso"
 permalink: "jason-sudeikis-ted-lasso-comments"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 23:00"
 celebrity: "Jason Sudeikis"
@@ -15,6 +15,15 @@ image_prompt: "An empty football pitch at dusk with a lone coach's whistle on a 
 sources:
   - "https://theblast.com/884551/jason-sudeikis-how-ted-lasso-saved-him/"
   - "https://theblast.com/884567/jason-sudeikis-responds-ted-lasso-showrunner-claims/"
+image: "images/2026-11-13-23-00-jason-sudeikis.webp"
+image_alt: "Jason Sudeikis: Jason Sudeikis Says Ted Lasso Helped Him Through Dark Times"
+image_credit: "Image: <a href=\"https://theblast.com/884567/jason-sudeikis-responds-ted-lasso-showrunner-claims/\" rel=\"nofollow noopener\">The Blast</a> (cropped)"
+wp_media_id: 2116
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-23-00-jason-sudeikis-768x432.webp"
+wp_id: 2117
+wp_link: "https://moduscarry.com/jason-sudeikis-ted-lasso-comments/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder You Can See Everything Space Station"
 seo_description: "NASA asked to screen Nathan Fielder's You Can See Everything on the International Space Station, A24 says. Here is what we know and when Australia may see it."
 focus_keyword: "Nathan Fielder You Can See Everything"
 permalink: "nathan-fielder-you-can-see-everything-space-station"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 23:00"
 celebrity: "Nathan Fielder"
@@ -14,6 +14,10 @@ tags: ["Nathan Fielder", "You Can See Everything", "A24", "Elizabeth Holmes"]
 image_prompt: "A quiet space station window looking down at Earth at night, a glowing screen in a dim cabin."
 sources:
   - "https://mashable.com/entertainment/you-can-see-everything-a24-nasa-iss-screening"
+wp_id: 2125
+wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-space-station/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

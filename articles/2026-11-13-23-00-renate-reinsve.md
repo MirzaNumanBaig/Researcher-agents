@@ -5,7 +5,7 @@ seo_title: "Renate Reinsve Fjord Reaction: Why Debate Excites Her"
 seo_description: "Renate Reinsve says the anger and debate around Palme d'Or winner Fjord surprised her, and Sebastian Stan explains why films should provoke."
 focus_keyword: "Renate Reinsve Fjord reaction"
 permalink: "renate-reinsve-fjord-reaction"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 23:00"
 celebrity: "Renate Reinsve"
@@ -14,6 +14,15 @@ tags: ["Renate Reinsve", "Sebastian Stan", "Fjord", "Cristian Mungiu"]
 image_prompt: "An empty cinema auditorium with rows of red seats facing a softly lit screen, warm light spilling from the aisle."
 sources:
   - "https://www.radiotimes.com/movies/sebastian-stan-renate-reinsve-fjord-response-exclusive-newsupdate/"
+image: "images/2026-11-13-23-00-renate-reinsve.webp"
+image_alt: "Renate Reinsve: Actress Renate Reinsve at the 2025 Cannes Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-9952.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-9952.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2128
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-23-00-renate-reinsve-768x432.webp"
+wp_id: 2129
+wp_link: "https://moduscarry.com/renate-reinsve-fjord-reaction/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

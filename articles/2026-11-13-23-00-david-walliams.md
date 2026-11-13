@@ -5,7 +5,7 @@ seo_title: "David Walliams Legal Threats: Push to Outlaw Silencing Tactics"
 seo_description: "David Walliams legal threats are at the centre of a call to change UK law on NDAs and SLAPPs. Here is what was reported and what he denies."
 focus_keyword: "David Walliams legal threats"
 permalink: "david-walliams-legal-threats"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 23:00"
 celebrity: "David Walliams"
@@ -14,6 +14,10 @@ tags: ["David Walliams", "Russell Brand", "Noel Clarke"]
 image_prompt: "An empty courtroom with a closed wooden door and a single shaft of light across the floor, quiet and sombre mood."
 sources:
   - "https://www.thebureauinvestigates.com/stories/2026-11-13/russell-brand-and-david-walliams-silenced-women-with-legal-threats-its-time-these-were-outlawed"
+wp_id: 2109
+wp_link: "https://moduscarry.com/david-walliams-legal-threats/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

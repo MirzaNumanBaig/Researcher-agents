@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone at 80: Rocky at 50 and The Steps Memoir"
 seo_description: "Sylvester Stallone at 80 reflects on Rocky's 50th anniversary, the I Play Rocky film and his memoir The Steps, and says he will not retire. Here is what he said."
 focus_keyword: "Sylvester Stallone at 80"
 permalink: "sylvester-stallone-at-80"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 23:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,10 @@ tags: ["Sylvester Stallone", "Rocky", "I Play Rocky"]
 image_prompt: "Stone steps leading up to a grand museum at dawn, with a pair of worn boxing gloves hanging on a rail in the foreground."
 sources:
   - "https://www.ynetnews.com/culture/article/hjwjdbecgg"
+wp_id: 2136
+wp_link: "https://moduscarry.com/sylvester-stallone-at-80/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

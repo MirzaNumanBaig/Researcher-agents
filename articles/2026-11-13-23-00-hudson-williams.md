@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Yaga Review: Two Roles, One Mystery"
 seo_description: "Hudson Williams plays a missing heir and his lookalike in Yaga. See what the first review says about the cast, the mystery and the Baba Yaga twist."
 focus_keyword: "Hudson Williams Yaga review"
 permalink: "hudson-williams-yaga-review"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 23:00"
 celebrity: "Hudson Williams"
@@ -14,6 +14,15 @@ tags: ["Hudson Williams", "Yaga", "Carrie-Anne Moss", "Heated Rivalry"]
 image_prompt: "A foggy coastal fishing town at dusk with a lone lit window, fishing boats and a dark forest behind it."
 sources:
   - "https://www.indiatoday.in/entertainment/ott/story/yaga-review-carrie-anne-moss-hudson-williams-seductive-mystery-3038075-2026-11-13"
+image: "images/2026-11-13-23-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(21).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(21).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2110
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-23-00-hudson-williams-768x432.webp"
+wp_id: 2111
+wp_link: "https://moduscarry.com/hudson-williams-yaga-review/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson The Take: Netflix Thriller Fuels Bond Talk"
 seo_description: "Robert Pattinson stars in Netflix heist thriller The Take opposite Denzel Washington from 15 January 2027. See the plot, the cast and the Bond buzz."
 focus_keyword: "Robert Pattinson The Take"
 permalink: "robert-pattinson-the-take-netflix"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 23:00"
 celebrity: "Robert Pattinson"
@@ -14,6 +14,10 @@ tags: ["Robert Pattinson", "Netflix", "James Bond", "Denzel Washington", "The Ta
 image_prompt: "A dim bank vault door standing open, with a faint beam of light across an empty marble lobby at night."
 sources:
   - "https://www.bosshunting.com.au/entertainment/movies/robert-pattinson-the-take-netflix"
+wp_id: 2130
+wp_link: "https://moduscarry.com/robert-pattinson-the-take-netflix/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

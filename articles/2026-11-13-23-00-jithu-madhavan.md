@@ -5,7 +5,7 @@ seo_title: "Jithu Madhavan Scene 2 and Aavesham 2: No Sequels Planned"
 seo_description: "Jithu Madhavan says no Scene 2 or Aavesham 2 is planned and Romancham 2 is the only sequel announced, as Scene passes Rs 200 crore worldwide."
 focus_keyword: "Jithu Madhavan Scene 2"
 permalink: "jithu-madhavan-scene-2"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 23:00"
 celebrity: "Jithu Madhavan"
@@ -16,6 +16,15 @@ sources:
   - "https://www.deccanchronicle.com/entertainment/mollywood/jithu-madhavan-rules-out-scene-2-and-aavesham-2-2004022"
   - "https://www.hollywoodreporterindia.com/amp/story/features/insight/director-jithu-madhavan-says-no-sequels-in-the-works-for-scene-or-aavesham"
   - "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/are-you-arrogant-scene-actor-naslens-response-sparks-funny-exchange-with-jithu-madhavan-and-nazriya/articleshow/135790903.cms"
+image: "images/2026-11-13-23-00-jithu-madhavan.webp"
+image_alt: "Jithu Madhavan: Jithu Madhavan Rules Out Scene 2 and Aavesham 2 Sequels"
+image_credit: "Image: <a href=\"https://www.deccanchronicle.com/entertainment/mollywood/jithu-madhavan-rules-out-scene-2-and-aavesham-2-2004022\" rel=\"nofollow noopener\">Deccan Chronicle</a> (cropped)"
+wp_media_id: 2118
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-23-00-jithu-madhavan-768x432.webp"
+wp_id: 2119
+wp_link: "https://moduscarry.com/jithu-madhavan-scene-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

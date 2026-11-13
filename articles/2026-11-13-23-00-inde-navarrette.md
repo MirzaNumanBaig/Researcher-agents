@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette GQ Men of the Year Jil Sander Look"
 seo_description: "Inde Navarrette wore an all-black Jil Sander bandeau top and taffeta skirt to the GQ Men of the Year party in Los Angeles. See the full look and prices."
 focus_keyword: "Inde Navarrette GQ Men of the Year"
 permalink: "inde-navarrette-gq-men-of-the-year"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 23:00"
 celebrity: "Inde Navarrette"
@@ -16,6 +16,15 @@ sources:
   - "https://www.yahoo.com/entertainment/celebrity/fashion/articles/inde-navarrette-jil-sander-high-060937401.html"
   - "https://www.realitytea.com/2026/11/13/inde-navarrette-tiny-bandeau-top-bare-midriff-gq-men-of-the-year/"
   - "https://ca.news.yahoo.com/matt-damon-chris-rock-inde-115303946.html"
+image: "images/2026-11-13-23-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette Wears Jil Sander to GQ Men of the Year"
+image_credit: "Image: <a href=\"https://www.yahoo.com/news/videos/inde-navarrette-handling-fame-114825244.html\" rel=\"nofollow noopener\">Yahoo</a> (cropped)"
+wp_media_id: 2112
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-23-00-inde-navarrette-768x432.webp"
+wp_id: 2113
+wp_link: "https://moduscarry.com/inde-navarrette-gq-men-of-the-year/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
