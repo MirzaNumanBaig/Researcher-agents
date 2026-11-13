@@ -18,6 +18,7 @@ wp_id: 2032
 wp_link: "https://moduscarry.com/robert-pattinson-james-bond-odds/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -24,6 +24,7 @@ wp_id: 2025
 wp_link: "https://moduscarry.com/keira-knightley-atonement-dress/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
