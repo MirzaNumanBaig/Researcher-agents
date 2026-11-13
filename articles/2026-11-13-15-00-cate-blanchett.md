@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett at MoMA Film Benefit Honouring Spielberg"
 seo_description: "Cate Blanchett joined Scorsese, Pfeiffer and Emily Blunt at the MoMA Film Benefit in New York, where Steven Spielberg was honoured. Here is what we know."
 focus_keyword: "Cate Blanchett MoMA Film Benefit"
 permalink: "cate-blanchett-moma-film-benefit"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 15:00"
 celebrity: "Cate Blanchett"
@@ -15,6 +15,15 @@ image_prompt: "A rain-soaked red carpet at night outside a modern art museum, gl
 sources:
   - "https://www.showbiz411.com/2026/11/12/a-director-named-spielberg-brings-in-a-few-a-list-guests-to-moma-gala-including-scorsese-de-niro-blanchett-pfeiffer-cruise-during-a-nor-easter"
   - "https://pagesix.com/2026/11/12/photos/museum-of-modern-art-film-benefit-2026-red-carpet-emily-blunt-cate-blanchett-zoe-saldana-and-more/"
+image: "images/2026-11-13-15-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Bernadette Fox, protagonist of the film version of Where'd You Go, Bernadette , played by Cate Blanchett"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Bernadette_Fox.jpg\" rel=\"noopener\">DV.Pranu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Bernadette_Fox.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2092
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-15-00-cate-blanchett-768x432.webp"
+wp_id: 2093
+wp_link: "https://moduscarry.com/cate-blanchett-moma-film-benefit/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

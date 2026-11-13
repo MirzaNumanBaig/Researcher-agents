@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Awards Eligibility: Split Decisions"
 seo_description: "Amanda Seyfried awards eligibility is split: Critics Choice says yes, the Globes, BAFTAs and Actor Awards say no. Here is what it means for the Oscars."
 focus_keyword: "Amanda Seyfried awards eligibility"
 permalink: "amanda-seyfried-awards-eligibility"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 15:00"
 celebrity: "Amanda Seyfried"
@@ -15,6 +15,15 @@ image_prompt: "An empty awards ceremony stage with a gold trophy on a podium und
 sources:
   - "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-awards-eligibility-you-can-see-everything-1236753138/"
   - "https://www.vulture.com/article/is-amanda-seyfried-eligible-for-oscar.html"
+image: "images/2026-11-13-15-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried's Awards Hopes Split Over Holmes Documentary Role"
+image_credit: "Image: <a href=\"https://www.vulture.com/article/is-amanda-seyfried-eligible-for-oscar.html\" rel=\"nofollow noopener\">Vulture</a> (cropped)"
+wp_media_id: 2090
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-15-00-amanda-seyfried-768x432.webp"
+wp_id: 2091
+wp_link: "https://moduscarry.com/amanda-seyfried-awards-eligibility/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

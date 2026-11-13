@@ -5,7 +5,7 @@ seo_title: "David Walliams NDA Rules: UK Ministers Weigh Quick Change"
 seo_description: "UK ministers are looking at quick ways to limit NDAs after the David Walliams allegations. He denies wrongdoing. See what could change and when."
 focus_keyword: "David Walliams NDA"
 permalink: "david-walliams-nda-rules"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 15:00"
 celebrity: "David Walliams"
@@ -15,6 +15,15 @@ image_prompt: "A closed conference room at dusk with a long table, stacked paper
 sources:
   - "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations"
   - "https://thenightly.com.au/culture/lily-allen-lucy-beaumont-among-stars-who-previously-spoke-out-against-russell-brand-and-david-walliams-c-23151392"
+image: "images/2026-11-13-15-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams NDA Row: UK Ministers Eye Quick Law Fix"
+image_credit: "Image: <a href=\"https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations\" rel=\"nofollow noopener\">The Guardian</a> (cropped)"
+wp_media_id: 2094
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-15-00-david-walliams-768x432.webp"
+wp_id: 2095
+wp_link: "https://moduscarry.com/david-walliams-nda-rules/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

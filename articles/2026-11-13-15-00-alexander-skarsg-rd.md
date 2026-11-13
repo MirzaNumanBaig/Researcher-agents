@@ -5,7 +5,7 @@ seo_title: "Wicker Box Office Passes $30 Million With Skarsgård"
 seo_description: "The Wicker box office has passed $30 million worldwide, three times its reported budget. See the numbers behind Alexander Skarsgård's fairy-tale hit."
 focus_keyword: "Wicker box office"
 permalink: "wicker-box-office-skarsgard"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 15:00"
 celebrity: "Alexander Skarsgård"
@@ -14,6 +14,10 @@ tags: ["Alexander Skarsgård", "Wicker"]
 image_prompt: "A seaside village at dusk with a small wicker figure standing by a fishing boat on the shore, warm lantern light, quiet fairy-tale mood."
 sources:
   - "https://collider.com/alexander-skarsgard-wicker-box-office-30-million/"
+wp_id: 2089
+wp_link: "https://moduscarry.com/wicker-box-office-skarsgard/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

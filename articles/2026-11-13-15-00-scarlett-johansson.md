@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Ray Gunn Trailer: Release Date and Cast"
 seo_description: "The new Scarlett Johansson Ray Gunn trailer shows Brad Bird's animated noir with Sam Rockwell. See the cast, plot and release dates."
 focus_keyword: "Scarlett Johansson Ray Gunn"
 permalink: "scarlett-johansson-ray-gunn-noir-trailer"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 15:00"
 celebrity: "Scarlett Johansson"
@@ -16,6 +16,10 @@ sources:
   - "https://www.netflix.com/tudum/articles/ray-gunn-trailer"
   - "https://www.slashfilm.com/2266236/ray-gunn-trailer-netflix-brad-bird"
   - "https://www.imdb.com/news/ni66108637/"
+wp_id: 2107
+wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-noir-trailer/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
