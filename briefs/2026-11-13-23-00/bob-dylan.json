@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-13 23:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "Pope Leo meets music legend Bob Dylan",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmZWX3RIYzd4Z2NTZ1liUnJweFZlV0pGbmhsRXUxNndWdUh4OVFmaFh6c1cyaEhFa09LZWZCWEhQU2REUFlVYTRVZWFhaWtzbEg1YkhnWlh3cGVfc2VSN3pQRFc3RHdFU1l1UEs0azZNb0g5OGJLOXVqMUhLZVVIUE1wbEY5WnZR?oc=5",
+      "published": "2026-11-13T07:49:01+00:00",
+      "outlets": [
+        {
+          "source": "Herald Malaysia Online",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmZWX3RIYzd4Z2NTZ1liUnJweFZlV0pGbmhsRXUxNndWdUh4OVFmaFh6c1cyaEhFa09LZWZCWEhQU2REUFlVYTRVZWFhaWtzbEg1YkhnWlh3cGVfc2VSN3pQRFc3RHdFU1l1UEs0azZNb0g5OGJLOXVqMUhLZVVIUE1wbEY5WnZR?oc=5",
+          "article_url": "https://www.heraldmalaysia.com/news/pope-leo-meets-music-legend-bob-dylan/92929/4",
+          "image": "https://heraldmalaysia.s3.ap-southeast-1.amazonaws.com/uploads/news/2026/11/12262356691793853222.jpg"
+        }
+      ],
+      "image": "https://heraldmalaysia.s3.ap-southeast-1.amazonaws.com/uploads/news/2026/11/12262356691793853222.jpg",
+      "image_source": "https://www.heraldmalaysia.com/news/pope-leo-meets-music-legend-bob-dylan/92929/4"
+    },
+    {
+      "title": "1971 Joni Mitchell album, written on an instrument she’d never played before, beat Bob Dylan and Neil Young to be the best folk-rock album ever made",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUEMzN1laeXBGSWdWSXExeTFJYXdrZVFleThFZkxzVnZQUFFUX25TWDNzUUluOEZMNXZGX1JmSDNuR1BFSlNRZnRPLU8zZlN3eGhaeXZ2S2RQTFJDVlZmNTJheERFSGRZb2phUE9GTl9rbUxOUk56QVN3cnRoUmtDcnY1ZzJrY0xtSDFPcnB6bGRPWm9HaDFzTFlHVUI0S0xsYnVydlJWR1BudWJ2V0FxWHlDUWJjb3d6M0tqaDdiVGRFTXFydG5VOFE2VWlyTkVMd0hJSUc0NHhhRi11VzZ4M3BIRkhRQ1JFZFUySXl3eUpfZmdHQUFCdzNUOTBVYzhyS2xRbHJZdWtjQQ?oc=5",
+      "published": "2026-11-13T03:23:00+00:00",
+      "outlets": [
+        {
+          "source": "Parade Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUEMzN1laeXBGSWdWSXExeTFJYXdrZVFleThFZkxzVnZQUFFUX25TWDNzUUluOEZMNXZGX1JmSDNuR1BFSlNRZnRPLU8zZlN3eGhaeXZ2S2RQTFJDVlZmNTJheERFSGRZb2phUE9GTl9rbUxOUk56QVN3cnRoUmtDcnY1ZzJrY0xtSDFPcnB6bGRPWm9HaDFzTFlHVUI0S0xsYnVydlJWR1BudWJ2V0FxWHlDUWJjb3d6M0tqaDdiVGRFTXFydG5VOFE2VWlyTkVMd0hJSUc0NHhhRi11VzZ4M3BIRkhRQ1JFZFUySXl3eUpfZmdHQUFCdzNUOTBVYzhyS2xRbHJZdWtjQQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

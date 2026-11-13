@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-13 23:00",
+  "celebrity": "Nathan Fielder",
+  "stories": [
+    {
+      "title": "Nathan Fielder’s 'You Can See Everything' is headed to space",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjNrcU1PUU9GXzlXTk1WYnJSaVZZaGZpQmlmUWQ0QkhlVXh0RjkxcGF1T2VqNFFmTU03OFV0azZXTTFjSExUUkNIdDY4NFpBLTNnLU5YSXZ6ZFplX2JWaE9fdDRROEgtLVZWdGl3RVptZU10TVgwY3pjQW05bU1HQVV4ZV85dm8?oc=5",
+      "published": "2026-11-13T12:18:30+00:00",
+      "outlets": [
+        {
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjNrcU1PUU9GXzlXTk1WYnJSaVZZaGZpQmlmUWQ0QkhlVXh0RjkxcGF1T2VqNFFmTU03OFV0azZXTTFjSExUUkNIdDY4NFpBLTNnLU5YSXZ6ZFplX2JWaE9fdDRROEgtLVZWdGl3RVptZU10TVgwY3pjQW05bU1HQVV4ZV85dm8?oc=5",
+          "article_url": "https://mashable.com/entertainment/you-can-see-everything-a24-nasa-iss-screening",
+          "image": "https://helios-i.mashable.com/imagery/articles/05CwdrqWSmCUglGBM9DWVdM/hero-image.fill.size_1200x675.v1793830586.jpg"
+        }
+      ],
+      "image": "https://helios-i.mashable.com/imagery/articles/05CwdrqWSmCUglGBM9DWVdM/hero-image.fill.size_1200x675.v1793830586.jpg",
+      "image_source": "https://mashable.com/entertainment/you-can-see-everything-a24-nasa-iss-screening"
+    }
+  ]
+}
