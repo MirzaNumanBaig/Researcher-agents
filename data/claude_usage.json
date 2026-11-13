@@ -14127,6 +14127,22 @@
    "turns": 7,
    "seconds": 12,
    "cost_usd": 0.1078
+  },
+  {
+   "date": "2026-11-13",
+   "time": "2026-11-13T12:56:56+00:00",
+   "batch": "2026-11-13 23:00",
+   "celebrity": "Bob Dylan",
+   "article": "2026-11-13-23-00-bob-dylan.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 1472,
+   "cache_read_tokens": 186300,
+   "cache_write_tokens": 25079,
+   "turns": 9,
+   "seconds": 40,
+   "cost_usd": 0.1338
   }
  ]
 }
