@@ -5,7 +5,7 @@ seo_title: "David Walliams Police Investigation: What the Met Said"
 seo_description: "The Met has opened a David Walliams police investigation into non-recent allegations. Here is what police said, what he denies and what happens next."
 focus_keyword: "David Walliams police investigation"
 permalink: "david-walliams-police-investigation"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "David Walliams"
@@ -19,6 +19,15 @@ sources:
   - "https://deadline.com/2026/11/david-walliams-being-investigated-police-allegations-1237222821/"
   - "https://variety.com/2026/tv/global/david-walliams-investigated-police-serious-sexual-offences-1236947077/"
   - "https://spectator.com/article/the-jokes-over-for-david-walliams-and-russell-brand/"
+image: "images/2026-11-14-07-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams Police Investigation Opened by the Met"
+image_credit: "Image: <a href=\"https://www.dw.com/en/david-walliams-sexual-abuse-allegations-investigation-little-britain/a-79944161\" rel=\"nofollow noopener\">DW.com</a> (cropped)"
+wp_media_id: 2142
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-david-walliams-768x432.webp"
+wp_id: 2143
+wp_link: "https://moduscarry.com/david-walliams-police-investigation/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

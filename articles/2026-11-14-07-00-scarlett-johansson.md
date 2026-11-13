@@ -5,7 +5,7 @@ seo_title: "Paper Tiger Review: Johansson, Driver and Teller Reunite"
 seo_description: "Our Paper Tiger review roundup: Scarlett Johansson and Adam Driver reunite as in-laws in James Gray's 1986 New York family crime drama."
 focus_keyword: "Paper Tiger review"
 permalink: "paper-tiger-review-scarlett-johansson"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Scarlett Johansson"
@@ -17,6 +17,10 @@ sources:
   - "https://www.abc12.com/news/entertainment/review-and-extended-interview-scarlett-johansson-and-adam-driver-on-paper-tiger/video_d485a461-3e86-5bc7-89c0-7bea3d470325.html"
   - "https://ca.style.yahoo.com/scarlett-johansson-calls-herself-ceo-152229903.html"
   - "https://graziamagazine.com/us/articles/goodbye-ballet-flats-scarlett-johansson-41-is-wearing-the-adidas-mary-jane-sneakers-with-wide-leg-trousers-25497/"
+wp_id: 2184
+wp_link: "https://moduscarry.com/paper-tiger-review-scarlett-johansson/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

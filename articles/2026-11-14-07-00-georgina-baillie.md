@@ -5,7 +5,7 @@ seo_title: "Georgina Baillie Sachsgate: 'Most Hated' Claim in Netflix Doc"
 seo_description: "Georgina Baillie Sachsgate comments in Netflix's Russell Brand: Open Secret: why she felt 'made into a villain' and what she wrote to the judge."
 focus_keyword: "Georgina Baillie Sachsgate"
 permalink: "georgina-baillie-sachsgate-netflix-documentary"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Georgina Baillie"
@@ -15,6 +15,15 @@ image_prompt: "A dim empty television studio with a single lit sofa and a blank 
 sources:
   - "https://www.the-independent.com/arts-entertainment/tv/news/georgina-baillie-russell-brand-andrew-sachs-b3084678.html"
   - "https://www.independent.co.uk/bulletin/culture/russell-brand-georgina-baillie-sachs-netflix-b3084723.html"
+image: "images/2026-11-14-07-00-georgina-baillie.webp"
+image_alt: "Georgina Baillie: Georgina Baillie Says Sachsgate Made Her 'Most Hated' in Britain"
+image_credit: "Image: <a href=\"https://www.independent.co.uk/bulletin/culture/russell-brand-georgina-baillie-sachs-netflix-b3084723.html\" rel=\"nofollow noopener\">The Independent</a> (cropped)"
+wp_media_id: 2146
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-georgina-baillie-768x432.webp"
+wp_id: 2147
+wp_link: "https://moduscarry.com/georgina-baillie-sachsgate-netflix-documentary/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

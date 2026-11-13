@@ -5,7 +5,7 @@ seo_title: "Jason Sudeikis Thundergong! 2026: Lineup and Cause"
 seo_description: "Jason Sudeikis Thundergong! returns to Kansas City on 14 November with Weird Al and Will Forte. See the lineup and how it helps amputees."
 focus_keyword: "Jason Sudeikis Thundergong"
 permalink: "jason-sudeikis-thundergong-2026"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Jason Sudeikis"
@@ -15,6 +15,10 @@ image_prompt: "An empty historic theatre stage with warm spotlights, a microphon
 sources:
   - "https://www.kctv5.com/2026/11/13/jason-sudeikis-steps-faith-presents-thundergong-kansas-city/"
   - "https://www.kmbc.com/article/jason-sudeikis-thundergong-benefit-2026/74424062"
+wp_id: 2158
+wp_link: "https://moduscarry.com/jason-sudeikis-thundergong-2026/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

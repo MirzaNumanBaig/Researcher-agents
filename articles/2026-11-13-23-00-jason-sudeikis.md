@@ -24,6 +24,7 @@ wp_id: 2117
 wp_link: "https://moduscarry.com/jason-sudeikis-ted-lasso-comments/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Black Doves Netflix No. 1: Keira Knightley's Spy Hit"
 seo_description: "Black Doves Netflix No. 1: Keira Knightley's spy thriller tops the global chart one week after Season 2 launched. Here is what the numbers show."
 focus_keyword: "Black Doves Netflix No. 1"
 permalink: "black-doves-netflix-number-one"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Keira Knightley"
@@ -15,6 +15,10 @@ image_prompt: "A cosy living room at night with a television glowing red in the 
 sources:
   - "https://www.aol.co.uk/articles/keira-knightley-stars-global-hit-155932000.html"
   - "https://startefacts.com/news/pirates-of-the-caribbean-did-something-to-keira-knightley-that-took-years-to-undo"
+wp_id: 2164
+wp_link: "https://moduscarry.com/black-doves-netflix-number-one/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

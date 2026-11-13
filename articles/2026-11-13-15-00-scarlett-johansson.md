@@ -20,6 +20,7 @@ wp_id: 2107
 wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-noir-trailer/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

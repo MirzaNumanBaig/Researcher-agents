@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Sonsie Holiday Film: Made by Hand"
 seo_description: "Pamela Anderson's Sonsie holiday film took eight months, 11 puppets and 1,668 frames, all made by hand with no AI. Here is how it came together."
 focus_keyword: "Pamela Anderson Sonsie holiday film"
 permalink: "pamela-anderson-sonsie-holiday-film"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Pamela Anderson"
@@ -18,6 +18,15 @@ sources:
   - "https://www.adweek.com/brand-marketing/pamela-anderson-on-how-skincare-brand-sonsies-first-holiday-ad-reflects-her-world/"
   - "https://www.newbeauty.com/view/pamela-anderson-holiday-interview-2026"
   - "https://www.hellomagazine.com/us/934918/pamela-anderson-winter-wonderland-new-update-home-vancouver-island/"
+image: "images/2026-11-14-07-00-pamela-anderson.webp"
+image_alt: "Pamela Anderson: Pamela Anderson at the WWD Style Awards 2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_WWD_Style_Awards_2026.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_WWD_Style_Awards_2026.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2174
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-pamela-anderson-768x432.webp"
+wp_id: 2175
+wp_link: "https://moduscarry.com/pamela-anderson-sonsie-holiday-film/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

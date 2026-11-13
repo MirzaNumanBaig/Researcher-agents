@@ -25,6 +25,7 @@ wp_id: 2113
 wp_link: "https://moduscarry.com/inde-navarrette-gq-men-of-the-year/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

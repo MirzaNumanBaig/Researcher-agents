@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder Documentary: Billy Evans Responds as Villain"
 seo_description: "Billy Evans has spoken out about being seen as the villain in Nathan Fielder's You Can See Everything. Here is what he told CBS and what comes next."
 focus_keyword: "Nathan Fielder documentary"
 permalink: "nathan-fielder-documentary-billy-evans"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Nathan Fielder"
@@ -14,6 +14,10 @@ tags: ["Amanda Seyfried"]
 image_prompt: "An empty cinema auditorium with a single lit screen and rows of red seats in soft dim light"
 sources:
   - "https://www.the-independent.com/arts-entertainment/tv/news/billy-evans-you-can-see-everything-elizabeth-holmes-b3084765.html"
+wp_id: 2173
+wp_link: "https://moduscarry.com/nathan-fielder-documentary-billy-evans/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

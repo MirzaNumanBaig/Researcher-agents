@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond deal: three films, bigger fee"
 seo_description: "The Robert Pattinson Bond deal is reportedly three films and a bigger fee, against four for rivals. Here is what the report says and what is unconfirmed."
 focus_keyword: "Robert Pattinson Bond deal"
 permalink: "robert-pattinson-bond-deal"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Robert Pattinson"
@@ -18,6 +18,15 @@ sources:
   - "https://www.cgmagonline.com/news/james-bond-new-robert-pattinson-amazon/"
   - "https://www.justjared.com/2026/11/13/robert-pattinsons-james-bond-deal-is-different-from-the-other-finalists-heres-why-what-that-suggests/"
   - "https://www.denofgeek.com/movies/james-bond-robert-pattinson-rumors-new-status-quo/"
+image: "images/2026-11-14-07-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson Bond Deal: Three Films, Bigger Fee"
+image_credit: "Image: <a href=\"https://www.denofgeek.com/movies/james-bond-robert-pattinson-rumors-new-status-quo/\" rel=\"nofollow noopener\">Den of Geek</a> (cropped)"
+wp_media_id: 2176
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-robert-pattinson-768x432.webp"
+wp_id: 2177
+wp_link: "https://moduscarry.com/robert-pattinson-bond-deal/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

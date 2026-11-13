@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Yaga: Scene With Carrie-Anne Moss Explained"
 seo_description: "Hudson Williams and Carrie-Anne Moss reveal how they rehearsed their Yaga scene, and how his double role as Henry and Logan is landing with fans."
 focus_keyword: "Hudson Williams Yaga"
 permalink: "hudson-williams-yaga-carrie-anne-moss"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Hudson Williams"
@@ -17,6 +17,15 @@ sources:
   - "https://pagesix.com/2026/11/13/entertainment/hudson-williams-25-and-carrie-anne-moss-59-share-insight-into-initimate-scene/"
   - "https://www.thepinknews.com/2026/11/13/hudson-williams-yaga-threesome/"
   - "https://showsnob.com/yaga-episode-5-recap-review-hudson-williams-devours-henry-devilish-allure"
+image: "images/2026-11-14-07-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(17).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(17).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2150
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-hudson-williams-768x432.webp"
+wp_id: 2151
+wp_link: "https://moduscarry.com/hudson-williams-yaga-carrie-anne-moss/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

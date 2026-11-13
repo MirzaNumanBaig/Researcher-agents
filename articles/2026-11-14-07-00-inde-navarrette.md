@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Blonde Wig: Why Rogue Stays Brunette"
 seo_description: "Inde Navarrette says her blonde look was a wig worn to avoid fans, and that Rogue won't be blonde in Marvel's X-Men. Here is what she told reporters."
 focus_keyword: "Inde Navarrette blonde wig"
 permalink: "inde-navarrette-blonde-wig"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Inde Navarrette"
@@ -17,6 +17,15 @@ sources:
   - "https://www.comingsoon.net/movies/news/2223056-inde-navarrette-blonde-makeover-x-men-wig-reveal"
   - "https://bloody-disgusting.com/movie/3975688/obsession-inde-navarrette-hardest-scene-nikki-trivia/"
   - "https://thestatetimes.com/2026/11/13/inde-navarrette-hosts-snl-for-the-first-time/"
+image: "images/2026-11-14-07-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette Explains Blonde Wig and Rogue Hair Rumour"
+image_credit: "Image: <a href=\"https://www.comingsoon.net/movies/news/2223056-inde-navarrette-blonde-makeover-x-men-wig-reveal\" rel=\"nofollow noopener\">ComingSoon.net</a> (cropped)"
+wp_media_id: 2154
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-inde-navarrette-768x432.webp"
+wp_id: 2155
+wp_link: "https://moduscarry.com/inde-navarrette-blonde-wig/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

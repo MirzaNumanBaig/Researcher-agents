@@ -18,6 +18,7 @@ wp_id: 2109
 wp_link: "https://moduscarry.com/david-walliams-legal-threats/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

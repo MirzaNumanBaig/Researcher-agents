@@ -5,7 +5,7 @@ seo_title: "I Play Rocky: Sylvester Stallone's True Story Explained"
 seo_description: "I Play Rocky retells how Sylvester Stallone refused to sell his script unless he starred. See what the biopic gets right and what it changes."
 focus_keyword: "I Play Rocky"
 permalink: "i-play-rocky-true-story"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Sylvester Stallone"
@@ -18,6 +18,10 @@ sources:
   - "https://www.today.com/popculture/movies/i-play-rocky-anthony-ippolito-sylvester-stallone-voice-rcna609044"
   - "https://screenrant.com/i-play-rocky-movie-true-story-sylvester-stallone-real-life-accuracy/"
   - "https://collider.com/taylor-sheridan-tulsa-king-andrew-garfield-casting-hopes-sylvester-stallone/"
+wp_id: 2187
+wp_link: "https://moduscarry.com/i-play-rocky-true-story/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Wild Horse Nine Cinematography: Ben Davis on Easter Island"
 seo_description: "Wild Horse Nine cinematography explained: Ben Davis on shooting Martin McDonagh's film on Easter Island, from Ektachrome stills to Super 8 footage."
 focus_keyword: "Wild Horse Nine cinematography"
 permalink: "wild-horse-nine-cinematography"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 07:00"
 celebrity: "Martin McDonagh"
@@ -15,6 +15,10 @@ image_prompt: "A windswept grassy hillside on a remote island at golden hour, an
 sources:
   - "https://deadline.com/2026/11/wild-horse-nine-ben-davis-easter-island-martin-mcdonagh-1237222683/"
   - "https://www.hollywoodreporter.com/movies/movie-features/martin-mcdonagh-interview-making-wild-horse-9-1236753454/"
+wp_id: 2167
+wp_link: "https://moduscarry.com/wild-horse-nine-cinematography/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
