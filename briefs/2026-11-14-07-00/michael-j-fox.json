@@ -1,0 +1,27 @@
+{
+  "batch": "2026-11-14 07:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "Michael J. Fox's Forgotten Political Sitcom Is Still Worth Watching Today",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWmRpUnhaNXBxT2pTZ3FySUVRZFluVHlmOXpLalFUX2xMOFU2akNsMF94Tmd4Y3NkaE1OSHNKWklYZTdDek5YMTctVWM2djVnWS02QVBSeFZnSXZxSHVzWTk2NlhqUQ?oc=5",
+      "published": "2026-11-13T20:06:23+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWmRpUnhaNXBxT2pTZ3FySUVRZFluVHlmOXpLalFUX2xMOFU2akNsMF94Tmd4Y3NkaE1OSHNKWklYZTdDek5YMTctVWM2djVnWS02QVBSeFZnSXZxSHVzWTk2NlhqUQ?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66110193/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "TVLine",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzBEdERvYm5SYUNuVURiVlJMa3EtRVBlNWVPYkNmWXFYbzNhS2VFQ2JfMlFZSFFhcVIzWVZGTFBxN2dDV3dtR0lLdjdzLU1ZUVVHZXppWElhSURFSGw4eDZJejBEcWgyQWJFQjJxV0RCVGlYWUV0eGw4c295MkFUQnQ2dERNQ2RJaGxxUS1URGw1UGRfSzJqZg?oc=5",
+          "article_url": "https://www.tvline.com/2310945/michael-j-fox-political-sitcom-spin-city-worth-watching-today/",
+          "image": "https://www.tvline.com/img/gallery/michael-j-foxs-forgotten-political-sitcom-is-still-worth-watching-today/l-intro-1793893269.jpg"
+        }
+      ],
+      "image": "https://www.tvline.com/img/gallery/michael-j-foxs-forgotten-political-sitcom-is-still-worth-watching-today/l-intro-1793893269.jpg",
+      "image_source": "https://www.tvline.com/2310945/michael-j-fox-political-sitcom-spin-city-worth-watching-today/"
+    }
+  ]
+}

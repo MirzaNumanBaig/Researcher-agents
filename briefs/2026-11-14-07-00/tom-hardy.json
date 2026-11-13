@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-14 07:00",
+  "celebrity": "Tom Hardy",
+  "stories": [
+    {
+      "title": "Tom Hardy's Near-Perfect 120-Minute Non-Stop Action Thriller Is Officially a Global Streaming Hit",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16bTY3UkhiX182dVRjQXZSa1pQeEJQNk5ONUZvazg1dTVCeGdqUWpJV09ydWlDRmo5bzU3dFZvTjE3ODhBQW1jZGRqdThqQQ?oc=5",
+      "published": "2026-11-13T17:26:19+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16bTY3UkhiX182dVRjQXZSa1pQeEJQNk5ONUZvazg1dTVCeGdqUWpJV09ydWlDRmo5bzU3dFZvTjE3ODhBQW1jZGRqdThqQQ?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66096978/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Tom Hardy’s 8-Episode Ridley Scott Thriller Is Even Better Than ‘MobLand’",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jcktpWlJYS056RXhIajVCdHFaUl82SUlPQjdqTlVIaWZaQ05wWU8tYmtuZkVPdGxrODhHSjh6Tk9mWVV2UU1JbTJQclhHUVpGbGFxRWFoNU1mdw?oc=5",
+      "published": "2026-11-13T14:00:16+00:00",
+      "outlets": [
+        {
+          "source": "MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jcktpWlJYS056RXhIajVCdHFaUl82SUlPQjdqTlVIaWZaQ05wWU8tYmtuZkVPdGxrODhHSjh6Tk9mWVV2UU1JbTJQclhHUVpGbGFxRWFoNU1mdw?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

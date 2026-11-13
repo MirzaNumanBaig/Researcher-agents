@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-14 07:00",
+  "celebrity": "Katy Perry",
+  "stories": [
+    {
+      "title": "Katy Perry Seemingly Ignores Russell Brand Question on Outing With Boyfriend",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTFCTjlYcTZEMmRURUNBQktEOW1YczhURnR1TmlCbjJRdTh6eWtWT0VBeThSVER3REc4eXEwdDk0OTRSU1ZVclNrbGs3czRUVC1Va2toaVJjd0pZb094eFRtb0o4d0l1b0d6ZWRzVUlya2xHT1I2Uk5XSHVob0pGVEcteWI4a000VTFqcGxWMnlSWVBYY0RDcEhNNkNENHZVR0lpbTRGeURldw?oc=5",
+      "published": "2026-11-13T19:21:06+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTFCTjlYcTZEMmRURUNBQktEOW1YczhURnR1TmlCbjJRdTh6eWtWT0VBeThSVER3REc4eXEwdDk0OTRSU1ZVclNrbGs3czRUVC1Va2toaVJjd0pZb094eFRtb0o4d0l1b0d6ZWRzVUlya2xHT1I2Uk5XSHVob0pGVEcteWI4a000VTFqcGxWMnlSWVBYY0RDcEhNNkNENHZVR0lpbTRGeURldw?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/katy-perry-seemingly-ignores-russell-192106516.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/73bde26a5f8a24f925a7c3393c7cad9ddca342e56efc847dafed324d7d4aa3d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fe55a7a445111b59cd2ba66149e3482dc.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/73bde26a5f8a24f925a7c3393c7cad9ddca342e56efc847dafed324d7d4aa3d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fe55a7a445111b59cd2ba66149e3482dc.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/katy-perry-seemingly-ignores-russell-192106516.html"
+    },
+    {
+      "title": "Katy Perry Performs for Tech Firm Founded by Ex-IDF Soldiers",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVlBmSW1BNDh2cGZsQTBnSHdNTUhBMnJzc3VRdWc1OTlEUzNabVE1NUo1bUV5MzBaY2NwTVFvT0lHVndfMUxhNkpzQkxjSllpbERZTDl1TGcxM2VUWjNkdG1VeU9SQVU0dzVhSjJTUk9keU9pWlE4LUxxaWpYaG8yTC1wcVVKalBXSU9EQ24zeHR1ODNVOFQxVHNTRkU?oc=5",
+      "published": "2026-11-13T16:50:49+00:00",
+      "outlets": [
+        {
+          "source": "Novara Media",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVlBmSW1BNDh2cGZsQTBnSHdNTUhBMnJzc3VRdWc1OTlEUzNabVE1NUo1bUV5MzBaY2NwTVFvT0lHVndfMUxhNkpzQkxjSllpbERZTDl1TGcxM2VUWjNkdG1VeU9SQVU0dzVhSjJTUk9keU9pWlE4LUxxaWpYaG8yTC1wcVVKalBXSU9EQ24zeHR1ODNVOFQxVHNTRkU?oc=5",
+          "article_url": "https://novaramedia.com/2026/11/13/katy-perry-performs-for-tech-firm-founded-by-ex-idf-soldiers/",
+          "image": "https://novaramedia.com/wp-content/uploads/2026/11/2026-08-01T011523Z_1092144008_RC29PMA0FIZ9_RTRMADP_3_KOSOVO-FESTIVAL-1200x630.jpg"
+        }
+      ],
+      "image": "https://novaramedia.com/wp-content/uploads/2026/11/2026-08-01T011523Z_1092144008_RC29PMA0FIZ9_RTRMADP_3_KOSOVO-FESTIVAL-1200x630.jpg",
+      "image_source": "https://novaramedia.com/2026/11/13/katy-perry-performs-for-tech-firm-founded-by-ex-idf-soldiers/"
+    }
+  ]
+}
