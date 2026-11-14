@@ -26,6 +26,7 @@ wp_id: 2155
 wp_link: "https://moduscarry.com/inde-navarrette-blonde-wig/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

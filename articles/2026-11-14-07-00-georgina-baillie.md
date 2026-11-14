@@ -24,6 +24,7 @@ wp_id: 2147
 wp_link: "https://moduscarry.com/georgina-baillie-sachsgate-netflix-documentary/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

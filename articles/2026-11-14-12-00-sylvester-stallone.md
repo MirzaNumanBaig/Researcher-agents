@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone Favourite Rocky Movies: Rocky II and VI"
 seo_description: "Sylvester Stallone names his favourite Rocky movies, explains why his wife called him a coward over Creed, and Tulsa King returns."
 focus_keyword: "Sylvester Stallone favourite Rocky"
 permalink: "sylvester-stallone-favourite-rocky"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 12:00"
 celebrity: "Sylvester Stallone"
@@ -16,6 +16,15 @@ sources:
   - "https://www.cinemablend.com/movies/sylvester-stallone-revealed-favorite-rocky-movies-hes-got-great-taste-rocky-ii-rocky-balboa"
   - "https://faroutmagazine.co.uk/role-sylvester-stallone-wife-called-him-coward-for-turning-down/"
   - "https://www.cbr.com/tulsa-king-season-4-episode-5-clip/"
+image: "images/2026-11-14-12-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Stallone Names His Favourite Rocky Films, Creed Story"
+image_credit: "Image: <a href=\"https://www.cinemablend.com/movies/sylvester-stallone-revealed-favorite-rocky-movies-hes-got-great-taste-rocky-ii-rocky-balboa\" rel=\"nofollow noopener\">Cinemablend</a> (cropped)"
+wp_media_id: 2214
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-12-00-sylvester-stallone-768x432.webp"
+wp_id: 2215
+wp_link: "https://moduscarry.com/sylvester-stallone-favourite-rocky/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

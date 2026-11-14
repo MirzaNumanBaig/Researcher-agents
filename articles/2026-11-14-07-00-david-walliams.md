@@ -28,6 +28,7 @@ wp_id: 2143
 wp_link: "https://moduscarry.com/david-walliams-police-investigation/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

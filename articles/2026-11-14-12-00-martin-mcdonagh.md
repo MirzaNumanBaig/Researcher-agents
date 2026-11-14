@@ -5,7 +5,7 @@ seo_title: "Martin McDonagh Sam Rockwell: 'Best of His Generation'"
 seo_description: "Martin McDonagh Sam Rockwell praise at LACMA: the director on male friendship, casting and the Wild Horse Nine cast. Read what was said."
 focus_keyword: "Martin McDonagh Sam Rockwell"
 permalink: "martin-mcdonagh-sam-rockwell-praise"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 12:00"
 celebrity: "Martin McDonagh"
@@ -15,6 +15,10 @@ image_prompt: "An empty velvet-seated theatre auditorium lit by a single project
 sources:
   - "https://www.vanityfair.com/story/martin-mcdonagh-john-malkovich-sam-rockwell-screening-room"
   - "https://www.dailyactor.com/interview/casting-director-sarah-finn-wild-horse-nine/"
+wp_id: 2201
+wp_link: "https://moduscarry.com/martin-mcdonagh-sam-rockwell-praise/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

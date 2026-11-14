@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Ray Gunn: Interview With Brad Bird"
 seo_description: "Scarlett Johansson and Brad Bird talk about their Ray Gunn partnership and the pop star Venus Nova. See when the film reaches cinemas and Netflix."
 focus_keyword: "Scarlett Johansson Ray Gunn"
 permalink: "scarlett-johansson-ray-gunn-brad-bird"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 12:00"
 celebrity: "Scarlett Johansson"
@@ -14,6 +14,10 @@ tags: ["Scarlett Johansson", "Netflix", "Sam Rockwell"]
 image_prompt: "An empty vintage cinema with red velvet seats and a glowing screen, art deco details, soft noir lighting and a hint of retro-futuristic city lights"
 sources:
   - "https://awardsbuzz.com/interview-brad-bird-and-scarlett-johansson-on-sparking-a-creative-partnership-with-netflixs-ray-gunn/"
+wp_id: 2211
+wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-brad-bird/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

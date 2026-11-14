@@ -26,6 +26,7 @@ wp_id: 2151
 wp_link: "https://moduscarry.com/hudson-williams-yaga-carrie-anne-moss/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

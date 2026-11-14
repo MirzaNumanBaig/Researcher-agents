@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond frontrunner: what is reported"
 seo_description: "Robert Pattinson is reported as the Bond frontrunner after a Puck scoop on his test deal. See what is confirmed, what is not, and what happens next."
 focus_keyword: "Robert Pattinson Bond frontrunner"
 permalink: "robert-pattinson-bond-frontrunner"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 12:00"
 celebrity: "Robert Pattinson"
@@ -18,6 +18,15 @@ sources:
   - "https://www.dailymail.com/tvshowbiz/article-16290137/james-bond-robert-pattinson-casting-role-race-frontrunner.html"
   - "https://www.independent.co.uk/arts-entertainment/films/news/james-bond-robert-pattinson-movies-007-b3084626.html"
   - "https://vincemancini.substack.com/p/a-modest-proposal-do-not-let-robert"
+image: "images/2026-11-14-12-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson Named Bond Frontrunner as Doubts Grow"
+image_credit: "Image: <a href=\"https://www.digitalspy.com/movies/a74426162/robert-pattinson-james-bond-deal/\" rel=\"nofollow noopener\">Digital Spy</a> (cropped)"
+wp_media_id: 2206
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-12-00-robert-pattinson-768x432.webp"
+wp_id: 2207
+wp_link: "https://moduscarry.com/robert-pattinson-bond-frontrunner/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

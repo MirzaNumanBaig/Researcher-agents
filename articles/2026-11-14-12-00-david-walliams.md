@@ -5,7 +5,7 @@ seo_title: "David Walliams Police Investigation: What the Met Said"
 seo_description: "The David Walliams police investigation is now criminal: what the Met confirmed, what he has denied, and the fallout so far, including the age of consent debate."
 focus_keyword: "David Walliams police investigation"
 permalink: "david-walliams-police-investigation-met"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 12:00"
 celebrity: "David Walliams"
@@ -17,6 +17,15 @@ sources:
   - "https://au.rollingstone.com/culture/culture-news/david-walliams-london-police-investigation-sexual-misconduct-103364/"
   - "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law"
   - "https://www.bbc.com/news/articles/c8r4g04904xqo"
+image: "images/2026-11-14-12-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams Police Investigation: Met Opens Criminal Inquiry"
+image_credit: "Image: <a href=\"https://aa.com.tr/en/world/london-police-investigate-british-author-david-walliams-over-alleged-sexual-offenses/4124804\" rel=\"nofollow noopener\">Anadolu Ajans\u0131</a> (cropped)"
+wp_media_id: 2192
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-12-00-david-walliams-768x432.webp"
+wp_id: 2193
+wp_link: "https://moduscarry.com/david-walliams-police-investigation-met/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
