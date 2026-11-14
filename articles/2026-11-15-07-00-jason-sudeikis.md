@@ -26,6 +26,7 @@ wp_id: 2252
 wp_link: "https://moduscarry.com/jason-sudeikis-co-parenting/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

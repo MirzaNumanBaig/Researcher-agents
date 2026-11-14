@@ -24,6 +24,7 @@ wp_id: 2243
 wp_link: "https://moduscarry.com/chris-hemsworth-home-break-in-2/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

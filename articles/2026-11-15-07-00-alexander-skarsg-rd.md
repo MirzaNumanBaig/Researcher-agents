@@ -19,6 +19,7 @@ wp_id: 2239
 wp_link: "https://moduscarry.com/alexander-skarsgard-hamilton-awards/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
