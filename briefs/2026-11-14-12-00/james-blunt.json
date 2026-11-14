@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-14 12:00",
+  "celebrity": "James Blunt",
+  "stories": [
+    {
+      "title": "James Blunt finally got what he wanted from Celeb Traitors despite dramatic loss",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSWkwRVlIQ0dzdE9CYjNtd2NNT2RZaEt5aVlOdnBBU0wzU2o3SmJEdFo2bDBuckh2d1plaHZ4ekozM0dOVDFzRjRyeHZQLUtFWHJ0TjNPZjNDTGloMldyMk4ySUlnN3pLaUxNRWRXTHpNZHpSeHRFNnJKYw?oc=5",
+      "published": "2026-11-13T21:36:23+00:00",
+      "outlets": [
+        {
+          "source": "Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSWkwRVlIQ0dzdE9CYjNtd2NNT2RZaEt5aVlOdnBBU0wzU2o3SmJEdFo2bDBuckh2d1plaHZ4ekozM0dOVDFzRjRyeHZQLUtFWHJ0TjNPZjNDTGloMldyMk4ySUlnN3pLaUxNRWRXTHpNZHpSeHRFNnJKYw?oc=5",
+          "article_url": "https://www.dailystar.co.uk/showbiz/james-blunt-lands-first-uk-37876526",
+          "image": "https://i2-prod.dailystar.co.uk/article37876524.ece/ALTERNATES/s1200d/0_LDBR_MEN_231026_James.jpg"
+        }
+      ],
+      "image": "https://i2-prod.dailystar.co.uk/article37876524.ece/ALTERNATES/s1200d/0_LDBR_MEN_231026_James.jpg",
+      "image_source": "https://www.dailystar.co.uk/showbiz/james-blunt-lands-first-uk-37876526"
+    },
+    {
+      "title": "Celebrity Traitors star James Blunt back on top of UK album charts after almost two decades",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaU5KbE5GZkFudjIzMjJsTFc1QzlBSkNweE93LWFMSGRQcTFDTHBhTzJXOHJVU3N4bkkyREw3ck11TWlYRG4zU09nZUJVaXRaU0NqY2NqRGE3cmRHOUFfNTJ4d3ZrUldJMUJoRUpOaW5kMXRmaXJvM0RWbmN6Uk1ZdnUxaEw2X2FiMEtCc3ZPTC1zd1E3c2lYbE5vUFBvUlQwVGk1dXMwcWI5emM?oc=5",
+      "published": "2026-11-13T20:16:00+00:00",
+      "outlets": [
+        {
+          "source": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaU5KbE5GZkFudjIzMjJsTFc1QzlBSkNweE93LWFMSGRQcTFDTHBhTzJXOHJVU3N4bkkyREw3ck11TWlYRG4zU09nZUJVaXRaU0NqY2NqRGE3cmRHOUFfNTJ4d3ZrUldJMUJoRUpOaW5kMXRmaXJvM0RWbmN6Uk1ZdnUxaEw2X2FiMEtCc3ZPTC1zd1E3c2lYbE5vUFBvUlQwVGk1dXMwcWI5emM?oc=5",
+          "article_url": "https://www.independent.co.uk/bulletin/culture/james-blunt-uk-album-charts-celebrity-traitors-b3084805.html",
+          "image": "https://static.independent.co.uk/2026/09/23/17/2277518014..?trim=123,0,2462,0&width=1200&height=800&crop=1200:800"
+        }
+      ],
+      "image": "https://static.independent.co.uk/2026/09/23/17/2277518014..?trim=123,0,2462,0&width=1200&height=800&crop=1200:800",
+      "image_source": "https://www.independent.co.uk/bulletin/culture/james-blunt-uk-album-charts-celebrity-traitors-b3084805.html"
+    }
+  ]
+}

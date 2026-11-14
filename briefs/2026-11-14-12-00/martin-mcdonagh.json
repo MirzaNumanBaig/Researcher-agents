@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-14 12:00",
+  "celebrity": "Martin McDonagh",
+  "stories": [
+    {
+      "title": "Martin McDonagh Calls Sam Rockwell \"One of the Best Actors of His Generation, If Not the Best",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFRkc3FWTzBmX1lWbWZTR3FzcWszajJ0RjlMZElJWC1ZUkJNcGw5STFsNy1qMlM1eFRVbHJVeFNJemtJMXNsOGJPeFpFT3dPc3BUcVZwNFoyVTdwQjdISlRTSVlmNHZzWkUzR2ROWHUxb01yWkxjeEFLMFVBT0FmTWNDcFdJMHRoQVBOMnJLRTZ2WWRsMnc?oc=5",
+      "published": "2026-11-14T00:17:00+00:00",
+      "outlets": [
+        {
+          "source": "Vanity Fair",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFRkc3FWTzBmX1lWbWZTR3FzcWszajJ0RjlMZElJWC1ZUkJNcGw5STFsNy1qMlM1eFRVbHJVeFNJemtJMXNsOGJPeFpFT3dPc3BUcVZwNFoyVTdwQjdISlRTSVlmNHZzWkUzR2ROWHUxb01yWkxjeEFLMFVBT0FmTWNDcFdJMHRoQVBOMnJLRTZ2WWRsMnc?oc=5",
+          "article_url": "https://www.vanityfair.com/story/martin-mcdonagh-john-malkovich-sam-rockwell-screening-room",
+          "image": "https://media.vanityfair.com/photos/6af7a554aa0e93dbcc980855/16:9/w_1280,c_limit/20261113_VF_SCREENING_ROOM_LA_WH9_HunterAbramsStudiosLLC-64.jpg"
+        }
+      ],
+      "image": "https://media.vanityfair.com/photos/6af7a554aa0e93dbcc980855/16:9/w_1280,c_limit/20261113_VF_SCREENING_ROOM_LA_WH9_HunterAbramsStudiosLLC-64.jpg",
+      "image_source": "https://www.vanityfair.com/story/martin-mcdonagh-john-malkovich-sam-rockwell-screening-room"
+    },
+    {
+      "title": "Sarah Finn on Bringing Together the Cast of Martin McDonagh’s ‘Wild Horse Nine’",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmZlM1h3clNqUklyTUp6ekM1ODAwc2hmWWxxSlBxZV9FVTIyanBtRU9pQXo0Zm1TemVHUUdqaWpsRnhHTGcyNjNob2VjUXFSU0p6TzFRSlZCdXhrSlAwSWE3SGlaT2xScFdZZG5SY282VjQwWDlhUGwxcHR2bExJbnVZUkxxZ1g0?oc=5",
+      "published": "2026-11-13T23:01:08+00:00",
+      "outlets": [
+        {
+          "source": "Daily Actor",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmZlM1h3clNqUklyTUp6ekM1ODAwc2hmWWxxSlBxZV9FVTIyanBtRU9pQXo0Zm1TemVHUUdqaWpsRnhHTGcyNjNob2VjUXFSU0p6TzFRSlZCdXhrSlAwSWE3SGlaT2xScFdZZG5SY282VjQwWDlhUGwxcHR2bExJbnVZUkxxZ1g0?oc=5",
+          "article_url": "https://www.dailyactor.com/interview/casting-director-sarah-finn-wild-horse-nine/",
+          "image": "https://www.dailyactor.com/wp-content/uploads/2026/11/Casting-Director-Sarah-Finn-Wild-Horse-Nine-Interview-1.jpg"
+        }
+      ],
+      "image": "https://www.dailyactor.com/wp-content/uploads/2026/11/Casting-Director-Sarah-Finn-Wild-Horse-Nine-Interview-1.jpg",
+      "image_source": "https://www.dailyactor.com/interview/casting-director-sarah-finn-wild-horse-nine/"
+    }
+  ]
+}
