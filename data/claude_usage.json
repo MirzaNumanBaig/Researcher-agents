@@ -16127,6 +16127,22 @@
    "turns": 6,
    "seconds": 7,
    "cost_usd": 0.0925
+  },
+  {
+   "date": "2026-11-14",
+   "time": "2026-11-14T08:51:50+00:00",
+   "batch": "2026-11-14 19:00",
+   "celebrity": "Rachel McAdams",
+   "article": "2026-11-14-19-00-rachel-mcadams.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 789,
+   "cache_read_tokens": 74982,
+   "cache_write_tokens": 18175,
+   "turns": 6,
+   "seconds": 7,
+   "cost_usd": 0.0882
   }
  ]
 }
