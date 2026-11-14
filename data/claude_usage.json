@@ -15503,6 +15503,22 @@
    "turns": 8,
    "seconds": 13,
    "cost_usd": 0.1403
+  },
+  {
+   "date": "2026-11-14",
+   "time": "2026-11-14T01:32:33+00:00",
+   "batch": "2026-11-14 12:00",
+   "celebrity": "Inde Navarrette",
+   "article": "2026-11-14-12-00-inde-navarrette.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 1258,
+   "cache_read_tokens": 150973,
+   "cache_write_tokens": 22797,
+   "turns": 8,
+   "seconds": 12,
+   "cost_usd": 0.119
   }
  ]
 }
