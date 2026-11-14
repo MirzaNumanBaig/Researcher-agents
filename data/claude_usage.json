@@ -15855,6 +15855,22 @@
    "turns": 8,
    "seconds": 30,
    "cost_usd": 0.1586
+  },
+  {
+   "date": "2026-11-14",
+   "time": "2026-11-14T02:15:04+00:00",
+   "batch": "2026-11-14 12:00",
+   "celebrity": "Sam Rockwell",
+   "article": "2026-11-14-12-00-sam-rockwell.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4208,
+   "cache_read_tokens": 154741,
+   "cache_write_tokens": 25920,
+   "turns": 8,
+   "seconds": 29,
+   "cost_usd": 0.1614
   }
  ]
 }
