@@ -23,6 +23,7 @@ wp_id: 2222
 wp_link: "https://moduscarry.com/renate-reinsve-fjord-review/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
