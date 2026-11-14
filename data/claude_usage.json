@@ -16527,6 +16527,22 @@
    "turns": 6,
    "seconds": 27,
    "cost_usd": 0.1623
+  },
+  {
+   "date": "2026-11-14",
+   "time": "2026-11-14T20:54:52+00:00",
+   "batch": "2026-11-15 07:00",
+   "celebrity": "Jason Sudeikis",
+   "article": "2026-11-15-07-00-jason-sudeikis.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4946,
+   "cache_read_tokens": 183889,
+   "cache_write_tokens": 36001,
+   "turns": 9,
+   "seconds": 34,
+   "cost_usd": 0.212
   }
  ]
 }
