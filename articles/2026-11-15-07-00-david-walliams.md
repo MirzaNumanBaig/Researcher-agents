@@ -5,7 +5,7 @@ seo_title: "David Walliams Allegations: Osman, Beaumont React"
 seo_description: "David Walliams allegations draw responses from Richard Osman and Lucy Beaumont, who want TV complaint systems and consent laws changed. Walliams denies wrongdoing."
 focus_keyword: "David Walliams allegations"
 permalink: "david-walliams-allegations-osman-beaumont"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 07:00"
 celebrity: "David Walliams"
@@ -17,6 +17,10 @@ sources:
   - "https://www.independent.co.uk/news/uk/politics/david-walliams-consent-law-lucy-beaumont-b3084289.html"
   - "https://spectator.com/article/why-did-anyone-think-david-walliams-kids-books-were-a-good-idea/"
   - "https://www.thebookseller.com/comment/the-fall-of-walliams-is-a-moment-to-consider-everything"
+wp_id: 2244
+wp_link: "https://moduscarry.com/david-walliams-allegations-osman-beaumont/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

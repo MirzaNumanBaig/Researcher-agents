@@ -5,7 +5,7 @@ seo_title: "Martin McDonagh Wild Horse Nine Interviews: Guilt and Hope"
 seo_description: "Martin McDonagh talks to NPR and The New York Times about Wild Horse Nine, the CIA in Chile and why his dark films are really about hope."
 focus_keyword: "Martin McDonagh Wild Horse Nine"
 permalink: "martin-mcdonagh-wild-horse-nine-interviews"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 07:00"
 celebrity: "Martin McDonagh"
@@ -16,6 +16,10 @@ sources:
   - "https://www.npr.org/2026/11/14/nx-s1-6037521/steve-buscemi-martin-mcdonagh"
   - "https://www.southcarolinapublicradio.org/2026-11-14/fresh-air-weekend-actor-steve-buscemi-filmmaker-martin-mcdonagh"
   - "https://www.nytimes.com/2026/10/31/magazine/martin-mcdonagh-interview.html"
+wp_id: 2260
+wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine-interviews/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

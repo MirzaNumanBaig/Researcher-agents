@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Ray Gunn: Netflix Date, Cast and Reviews"
 seo_description: "Scarlett Johansson voices Venus Nova in Ray Gunn, Brad Bird's animated Netflix film. Here is the release date, the cast and how critics reacted."
 focus_keyword: "Scarlett Johansson Ray Gunn"
 permalink: "scarlett-johansson-ray-gunn-netflix"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 07:00"
 celebrity: "Scarlett Johansson"
@@ -15,6 +15,10 @@ image_prompt: "A rain-slicked retro-futuristic city street at night, neon signs 
 sources:
   - "https://www.whats-on-netflix.com/news/ray-gunn-gets-rousing-lff-premiere-as-scarlett-johansson-reveals-why-she-signed-on/"
   - "https://www.thewrap.com/creative-content/movies/ray-gunn-cast-revealed-sam-rockwell-scarlett-johansson/"
+wp_id: 2274
+wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-netflix/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

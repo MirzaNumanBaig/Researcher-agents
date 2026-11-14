@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond Front-Runner: Deal Report"
 seo_description: "Robert Pattinson is reportedly the James Bond front-runner, with a three-film deal and the biggest offer in the race. Here is what is known so far."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-front-runner"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 07:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,10 @@ sources:
   - "https://www.telegraph.co.uk/news/2026/11/14/robert-pattinson-is-007-front-runner/"
   - "https://www.avclub.com/robert-pattinson-reported-frontrunner-james-bond-amazon-mgm-studios"
   - "https://www.laineygossip.com/why-pucks-matt-belloni-has-all-but-crowned-robert-pattinson-the-new-james-bond/"
+wp_id: 2267
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-front-runner/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

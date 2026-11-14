@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Vancouver Island Home: Inside Her Garden Life"
 seo_description: "Pamela Anderson's Vancouver Island home is a restored seven-acre family estate. See what she built, who helped and what comes next for her."
 focus_keyword: "Pamela Anderson Vancouver Island home"
 permalink: "pamela-anderson-vancouver-island-home"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 07:00"
 celebrity: "Pamela Anderson"
@@ -14,6 +14,15 @@ tags: ["Pamela Anderson"]
 image_prompt: "A lush cottage garden with pink roses, a weathered wooden boathouse and a warm orange sunset through pine trees beside the sea."
 sources:
   - "https://graziamagazine.com/us/articles/pamela-anderson-59-left-hollywood-behind-to-restore-her-grandparents-7-acre-estate-inside-her-idyllic-new-life-on-vancouver-island/"
+image: "images/2026-11-15-07-00-pamela-anderson.webp"
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230509).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230509).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2265
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-07-00-pamela-anderson-768x432.webp"
+wp_id: 2266
+wp_link: "https://moduscarry.com/pamela-anderson-vancouver-island-home-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

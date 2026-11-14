@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Home Break-In: Police Recover Vehicles"
 seo_description: "Chris Hemsworth home break-in: four masked intruders stole three vehicles near Byron Bay, NSW Police say no one was hurt and all cars were found."
 focus_keyword: "Chris Hemsworth home break-in"
 permalink: "chris-hemsworth-home-break-in"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 07:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,15 @@ image_prompt: "A quiet coastal driveway at dawn with an open garage, a security 
 sources:
   - "https://www.sportschosun.com/en/celebrity/2026-11-14/202611140100096310009009"
   - "https://www.bgr.com/2314967/chris-hemsworth-remake-classic-80s-action-movie-streaming-free-red-dawn/"
+image: "images/2026-11-15-07-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2242
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-07-00-chris-hemsworth-768x432.webp"
+wp_id: 2243
+wp_link: "https://moduscarry.com/chris-hemsworth-home-break-in-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Hamilton Awards Look in Pink COS Satin"
 seo_description: "Alexander Skarsgård wore a dusty pink COS satin shirt to honour Wicker's Joe Dunckley at the Hamilton Behind the Camera Awards. See the look and the story."
 focus_keyword: "Alexander Skarsgård Hamilton Awards"
 permalink: "alexander-skarsgard-hamilton-awards"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 07:00"
 celebrity: "Alexander Skarsgård"
@@ -15,6 +15,10 @@ image_prompt: "A softly lit awards stage with an empty podium, dusty pink satin 
 sources:
   - "https://wwd.com/pop-culture/celebrity-news/alexander-skarsgard-satin-cos-mens-shirt-hamilton-awards-1239416644/"
   - "https://sg.news.yahoo.com/alexander-skarsg-rd-glistens-liquid-191312831.html"
+wp_id: 2239
+wp_link: "https://moduscarry.com/alexander-skarsgard-hamilton-awards/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Jason Sudeikis Co-Parenting: Olivia Wilde Speaks Out"
 seo_description: "Olivia Wilde says her Jason Sudeikis co-parenting has reached a 'healthy equilibrium' but remains hard. Here is what she told The New York Times."
 focus_keyword: "Jason Sudeikis co-parenting"
 permalink: "jason-sudeikis-co-parenting"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 07:00"
 celebrity: "Jason Sudeikis"
@@ -17,6 +17,15 @@ sources:
   - "https://www.justjared.com/2026/11/14/olivia-wilde-shares-update-on-co-parenting-relationship-with-ex-jason-sudeikis/"
   - "https://www.instyle.com/olivia-wilde-hard-journey-co-parenting-kids-with-ex-fiance-jason-sudeikis-12254583"
   - "https://www.bollywoodshaadis.com/articles/olivia-wilde-admits-co-parenting-with-ex-fiance-jason-sudeikis-is-so-hard-after-their-bitter-split-86655"
+image: "images/2026-11-15-07-00-jason-sudeikis.webp"
+image_alt: "Jason Sudeikis: Olivia Wilde on Co-Parenting With Jason Sudeikis: 'It's So Hard'"
+image_credit: "Image: <a href=\"https://www.tmz.com/2026/11/14/olivia-wilde-rare-comments-co-parenting-jason-sudeikis/\" rel=\"nofollow noopener\">TMZ</a> (cropped)"
+wp_media_id: 2251
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-07-00-jason-sudeikis-768x432.webp"
+wp_id: 2252
+wp_link: "https://moduscarry.com/jason-sudeikis-co-parenting/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Green Dress: Atonement Gown at Christie's"
 seo_description: "The Keira Knightley green dress from Atonement goes to Christie's in December with a £100,000 to £120,000 guide. Here is what we know."
 focus_keyword: "Keira Knightley green dress"
 permalink: "keira-knightley-green-dress-christies"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 07:00"
 celebrity: "Keira Knightley"
@@ -15,6 +15,15 @@ image_prompt: "An emerald silk gown on a mannequin in a softly lit auction house
 sources:
   - "https://www.telegraph.co.uk/news/2026/11/14/keira-knightleys-green-dress-is-a-bargain-at-120k/"
   - "https://graziamagazine.com/us/articles/goodbye-sharp-bob-keira-knightley-41-debuts-a-soft-waterfall-french-bob-for-her-west-end-comeback-25497/"
+image: "images/2026-11-15-07-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley's Atonement Green Dress Heads to Christie's"
+image_credit: "Image: <a href=\"https://graziamagazine.com/us/articles/goodbye-sharp-bob-keira-knightley-41-debuts-a-soft-waterfall-french-bob-for-her-west-end-comeback-25497/\" rel=\"nofollow noopener\">Grazia</a> (cropped)"
+wp_media_id: 2258
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-07-00-keira-knightley-768x432.webp"
+wp_id: 2259
+wp_link: "https://moduscarry.com/keira-knightley-green-dress-christies/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
