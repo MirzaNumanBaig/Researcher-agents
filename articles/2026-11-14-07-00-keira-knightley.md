@@ -19,6 +19,7 @@ wp_id: 2164
 wp_link: "https://moduscarry.com/black-doves-netflix-number-one/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

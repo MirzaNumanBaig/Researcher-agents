@@ -19,6 +19,7 @@ wp_id: 2158
 wp_link: "https://moduscarry.com/jason-sudeikis-thundergong-2026/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
