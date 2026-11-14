@@ -15599,6 +15599,22 @@
    "turns": 7,
    "seconds": 34,
    "cost_usd": 0.1824
+  },
+  {
+   "date": "2026-11-14",
+   "time": "2026-11-14T01:44:27+00:00",
+   "batch": "2026-11-14 12:00",
+   "celebrity": "Katy Perry",
+   "article": "2026-11-14-12-00-katy-perry.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 1361,
+   "cache_read_tokens": 118010,
+   "cache_write_tokens": 24328,
+   "turns": 7,
+   "seconds": 12,
+   "cost_usd": 0.1229
   }
  ]
 }
