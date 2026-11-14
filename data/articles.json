@@ -1,5 +1,35 @@
 [
   {
+    "path": "articles/2026-11-15-02-00-callum-turner.md",
+    "title": "Callum Turner",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-11-15 02:00",
+    "celebrity": "Callum Turner",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text: the only story is a Page Six photo gallery (star snaps of the week) with no article to verify",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-11-15-02-00-hugh-jackman.md",
+    "title": "Hugh Jackman: skipped",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-11-15 02:00",
+    "celebrity": "Hugh Jackman",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text; the only story is a Page Six photo gallery whose headline does not name Hugh Jackman",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
     "path": "articles/2026-11-14-19-00-alexander-skarsg-rd.md",
     "title": "Alexander Skarsgård: Wicker removed from more than 500 theatres",
     "description": "",
