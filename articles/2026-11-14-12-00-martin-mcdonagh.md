@@ -19,6 +19,7 @@ wp_id: 2201
 wp_link: "https://moduscarry.com/martin-mcdonagh-sam-rockwell-praise/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
