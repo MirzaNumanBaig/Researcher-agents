@@ -1,0 +1,27 @@
+{
+  "batch": "2026-11-15 07:00",
+  "celebrity": "Tom Hardy",
+  "stories": [
+    {
+      "title": "Tom Hardy’s MobLand Controversy Wasn’t Season 2's Only Behind-The-Scenes Problem",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04REZodUI3NWpadXgtcmh3Q2k5S296bGFLOEhYOTVZVTBabUZQUFZ5SUdyemZVQ0JJM2V1emhrNDl3RGZhejJfWVV0cm93RG9fRURJUTl2RkZPVVJWTnBoTTEweHk0RG8?oc=5",
+      "published": "2026-11-14T16:56:58+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04REZodUI3NWpadXgtcmh3Q2k5S296bGFLOEhYOTVZVTBabUZQUFZ5SUdyemZVQ0JJM2V1emhrNDl3RGZhejJfWVV0cm93RG9fRURJUTl2RkZPVVJWTnBoTTEweHk0RG8?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66111198/?ref_=ttnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblBYSVlCa0lLUzlFeTdaWG42dElhZ1d4bks1LW4ybkFaRU16cWVOemlocnZRZWhYeXFnRW9yeXcxb3Fhbkd2TWxjVFhLV0VNaUlfZlV0QmR4S0tzdXhEWUlpc2xaTjc2eTFkeC1mMFZMMTJta3l0djFOTllMWkhGTE9STlZkQ3VCdV9nYklpMU1nUW00dWlLMA?oc=5",
+          "article_url": "https://screenrant.com/tom-hardy-mobland-season-2-controversy-script-problems-pierce-brosnan/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/mobland_206_lv_260216_01175_rt3.JPG?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/mobland_206_lv_260216_01175_rt3.JPG?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/tom-hardy-mobland-season-2-controversy-script-problems-pierce-brosnan/"
+    }
+  ]
+}

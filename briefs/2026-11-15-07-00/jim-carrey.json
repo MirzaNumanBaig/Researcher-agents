@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-15 07:00",
+  "celebrity": "Jim Carrey",
+  "stories": [
+    {
+      "title": "The Forgotten 1980s Francis Ford Coppola Movie Where Nicolas Cage and Jim Carrey Sang A Cappella",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNE0ybmNyeVBfOTMxVl8zZWxpUWpMX1NLcUZ1MWswZm5hM0VrQlRScHp4aWFnV2RqSHo5SHByWlRWVXNpcV9Ma3RyblRVMll4S0t3RTVOOWtaeERadnNBaEhDV1gzRFZvOC1uTzgtaS1ZM1VqZTBIeHdrM1l3QURVcnVJbEx5YTVuQWRySE5vUmdPcS00eWdORnhuUW93a25kdFdVdHBINTQ2N1ZhVy1vOUhSZDR3TWc5ZUh3aUxwYThJWlNVaXBmbHduaktzVWRYU2lfTQ?oc=5",
+      "published": "2026-11-14T18:18:00+00:00",
+      "outlets": [
+        {
+          "source": "Men's Journal",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNE0ybmNyeVBfOTMxVl8zZWxpUWpMX1NLcUZ1MWswZm5hM0VrQlRScHp4aWFnV2RqSHo5SHByWlRWVXNpcV9Ma3RyblRVMll4S0t3RTVOOWtaeERadnNBaEhDV1gzRFZvOC1uTzgtaS1ZM1VqZTBIeHdrM1l3QURVcnVJbEx5YTVuQWRySE5vUmdPcS00eWdORnhuUW93a25kdFdVdHBINTQ2N1ZhVy1vOUhSZDR3TWc5ZUh3aUxwYThJWlNVaXBmbHduaktzVWRYU2lfTQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Version Control: Is Johnny Depp’s ‘Ebenezer’ The Best Movie Star Scrooge?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2liYTJXUDN2SWJyZi1uVTIyZHYxelFmTEQza0Y1UGNEMDhjelpndG9ZazlBczhDNEt4bE5PMExFRFV2ZmU1bHRjS0ZPRFdhdm03NGpSX2ZsMW5BU1E0MEU3V2pKT1F5MGd5N2hUcmVmLWVDZFlGQnFrX2Y0SWdnRFotemg4RndO?oc=5",
+      "published": "2026-11-14T14:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Decider",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2liYTJXUDN2SWJyZi1uVTIyZHYxelFmTEQza0Y1UGNEMDhjelpndG9ZazlBczhDNEt4bE5PMExFRFV2ZmU1bHRjS0ZPRFdhdm03NGpSX2ZsMW5BU1E0MEU3V2pKT1F5MGd5N2hUcmVmLWVDZFlGQnFrX2Y0SWdnRFotemg4RndO?oc=5",
+          "article_url": "https://decider.com/2026/11/14/johnny-depp-ebenezer-vs-other-movie-star-scrooges/",
+          "image": "https://decider.com/wp-content/uploads/2026/11/scrooges.jpg?quality=75&strip=all&w=1200"
+        }
+      ],
+      "image": "https://decider.com/wp-content/uploads/2026/11/scrooges.jpg?quality=75&strip=all&w=1200",
+      "image_source": "https://decider.com/2026/11/14/johnny-depp-ebenezer-vs-other-movie-star-scrooges/"
+    }
+  ]
+}

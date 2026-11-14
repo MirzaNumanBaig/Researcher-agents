@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-15 07:00",
+  "celebrity": "Seth Rogen",
+  "stories": [
+    {
+      "title": "Sly Stallone vs. Arnold Schwarzenegger: Is Seth Rogen Right?",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRmh5M3d0ZnB6UXhCUTJCOHNuaWZ1LUhZSHFBNW5kaVFrYk5BVlB5bGNYOUZmdU00WVZtVEdhWHF5ZERsS1BnZHh2aWVyOTljSVJ2MEZZaEhISzExMGhGM0FEaTFlWHUxR0M4YmRmTjNhc2gyLXpXXzRWQ0tiMVFSdTRRNWhjVjdsNGdN?oc=5",
+      "published": "2026-11-14T14:58:40+00:00",
+      "outlets": [
+        {
+          "source": "Fortress of Solitude",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRmh5M3d0ZnB6UXhCUTJCOHNuaWZ1LUhZSHFBNW5kaVFrYk5BVlB5bGNYOUZmdU00WVZtVEdhWHF5ZERsS1BnZHh2aWVyOTljSVJ2MEZZaEhISzExMGhGM0FEaTFlWHUxR0M4YmRmTjNhc2gyLXpXXzRWQ0tiMVFSdTRRNWhjVjdsNGdN?oc=5",
+          "article_url": "https://www.fortressofsolitude.co.za/stallone-vs-schwarzenegger-best-movies-ranked/",
+          "image": "https://www.fortressofsolitude.co.za/wp-content/uploads/2026/11/sylvester-stallone-arnold-schwarzenegger-movies.jpg"
+        }
+      ],
+      "image": "https://www.fortressofsolitude.co.za/wp-content/uploads/2026/11/sylvester-stallone-arnold-schwarzenegger-movies.jpg",
+      "image_source": "https://www.fortressofsolitude.co.za/stallone-vs-schwarzenegger-best-movies-ranked/"
+    }
+  ]
+}
