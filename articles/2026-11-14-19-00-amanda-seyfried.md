@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Tiffany Holiday Campaign: Love Is a Gift"
 seo_description: "Amanda Seyfried is Tiffany & Co.'s newest ambassador and star of its Love Is a Gift holiday film, while she tempers awards-season hopes."
 focus_keyword: "Amanda Seyfried Tiffany"
 permalink: "amanda-seyfried-tiffany-holiday-campaign"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 19:00"
 celebrity: "Amanda Seyfried"
@@ -15,6 +15,10 @@ image_prompt: "A glowing Christmas tree hung with small pale blue gift boxes in 
 sources:
   - "https://galeriemagazine.com/tiffany-co-and-amanda-seyfried-kick-off-an-enchanting-holiday-season-at-the-landmark/"
   - "https://ca.style.yahoo.com/amanda-seyfried-low-expectations-why-040000410.html"
+wp_id: 2217
+wp_link: "https://moduscarry.com/amanda-seyfried-tiffany-holiday-campaign/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

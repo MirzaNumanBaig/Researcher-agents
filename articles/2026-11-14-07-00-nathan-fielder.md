@@ -18,6 +18,7 @@ wp_id: 2173
 wp_link: "https://moduscarry.com/nathan-fielder-documentary-billy-evans/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

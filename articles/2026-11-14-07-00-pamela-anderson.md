@@ -27,6 +27,7 @@ wp_id: 2175
 wp_link: "https://moduscarry.com/pamela-anderson-sonsie-holiday-film/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

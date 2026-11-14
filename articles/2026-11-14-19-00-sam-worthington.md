@@ -5,7 +5,7 @@ seo_title: "Sam Worthington I Will Find You: Netflix Teaser Out"
 seo_description: "Sam Worthington leads Netflix's I Will Find You. See the cast, the Harlan Coben story behind the thriller and when the eight episodes stream."
 focus_keyword: "Sam Worthington I Will Find You"
 permalink: "sam-worthington-i-will-find-you"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 19:00"
 celebrity: "Sam Worthington"
@@ -14,6 +14,15 @@ tags: ["Sam Worthington", "Netflix", "I Will Find You", "Harlan Coben"]
 image_prompt: "An empty prison corridor with a single door ajar and cold light spilling across the floor at dusk"
 sources:
   - "https://www.joblo.com/i-will-find-you-teaser/"
+image: "images/2026-11-14-19-00-sam-worthington.webp"
+image_alt: "Sam Worthington: Sam Worthington"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/8480979653\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/8480979653\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2230
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-19-00-sam-worthington-768x432.webp"
+wp_id: 2231
+wp_link: "https://moduscarry.com/sam-worthington-i-will-find-you/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

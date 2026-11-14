@@ -5,7 +5,7 @@ seo_title: "Renate Reinsve Fjord Review: Mungiu Drama Divides Critics"
 seo_description: "Renate Reinsve Fjord review: a UK critic calls Cristian Mungiu's Cannes drama with Sebastian Stan underpowered. Here is what it says and when it opens in Australia."
 focus_keyword: "Renate Reinsve Fjord review"
 permalink: "renate-reinsve-fjord-review"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 19:00"
 celebrity: "Renate Reinsve"
@@ -14,6 +14,15 @@ tags: ["Renate Reinsve", "Fjord", "Sebastian Stan", "Cristian Mungiu"]
 image_prompt: "A remote Norwegian fjord village at dusk, a small white church beside still dark water, lit windows in the mist."
 sources:
   - "https://www.aol.co.uk/articles/fjord-review-cristian-mungiu-sea-172647000.html"
+image: "images/2026-11-14-19-00-renate-reinsve.webp"
+image_alt: "Renate Reinsve: Renate Reinsve @ Sentimental Value screening, tiff 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve_@_Sentimental_Value_screening,_tiff_2025.jpg\" rel=\"noopener\">Jyo in Toronto</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve_@_Sentimental_Value_screening,_tiff_2025.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2221
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-19-00-renate-reinsve-768x432.webp"
+wp_id: 2222
+wp_link: "https://moduscarry.com/renate-reinsve-fjord-review/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

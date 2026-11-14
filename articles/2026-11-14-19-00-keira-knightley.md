@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Black Doves: Why She Loves Complex Roles"
 seo_description: "Keira Knightley Black Doves comments: she calls Helen Webb a morally ambiguous creature and reflects on her 25-year career and Hollywood's anger."
 focus_keyword: "Keira Knightley Black Doves"
 permalink: "keira-knightley-black-doves-complicated-characters"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-14 19:00"
 celebrity: "Keira Knightley"
@@ -14,6 +14,10 @@ tags: ["Keira Knightley", "Black Doves", "Ben Whishaw"]
 image_prompt: "A rain-slicked London street at night with a lit doorway and a single red umbrella left on the pavement."
 sources:
   - "https://www.femalefirst.co.uk/celebrity/keira-knightley-loves-playing-complicated-characters-1453685.html"
+wp_id: 2219
+wp_link: "https://moduscarry.com/keira-knightley-black-doves-complicated-characters/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
