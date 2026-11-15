@@ -5,7 +5,7 @@ seo_title: "Jithu Madhavan Scene: Tamil Debut Wins Praise and Box Office"
 seo_description: "Jithu Madhavan's Scene, his Tamil debut with Suriya, has praise from Mahesh Babu and Atlee and a reported ₹145 crore in three days. Read the details."
 focus_keyword: "Jithu Madhavan Scene"
 permalink: "jithu-madhavan-scene"
-status: sent
+status: removed
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Jithu Madhavan"
@@ -21,7 +21,7 @@ sources:
   - "https://www.highonfilms.com/scene-2026-movie-review/"
 wp_id: 1843
 wp_link: "https://moduscarry.com/jithu-madhavan-scene/"
-wp_synced: publish
+wp_synced: trash
 seo_synced: 1
 embed_checked: 1
 image: "images/2026-11-11-16-00-jithu-madhavan.webp"

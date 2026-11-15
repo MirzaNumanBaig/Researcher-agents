@@ -11,6 +11,8 @@ Structured memory index. Each entry points to a memory file with full context.
 - [feedback-communication.md](feedback-communication.md) — Short, simple answers; yes/no first; show results and links
 - [feedback-image-policy.md](feedback-image-policy.md) — IMAGE RULES (2026-11-15): every post needs an image, no image = not live, no AI images, credited reference pictures
 
+- [feedback-blocked-markets.md](feedback-blocked-markets.md) — No Indian/Tamil or other low-CPM-country people, films or posts; `blocked` list in config
+
 ## Project
 - [project-state-2026-10.md](project-state-2026-10.md) — 2026-10-28: pipeline v2 merged (klein 4B, two Cloudflare accounts, Usage tab); unproven bits, branch cleanup left to the user, pending items
 

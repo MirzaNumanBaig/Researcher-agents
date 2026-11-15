@@ -51,19 +51,15 @@
     "David Walliams",
     "Katy Perry",
     "Callum Turner",
-    "Nitesh Tiwari",
     "Sylvester Stallone",
     "Nathan Fielder",
     "Mckenna Grace",
     "Druski",
     "Bob Dylan",
     "Inde Navarrette",
-    "Ravi Dubey",
-    "Sai Pallavi",
     "Georgina Baillie",
     "Ben Whishaw",
     "Johnny Flynn",
-    "Jithu Madhavan",
     "Keira Knightley",
     "James Blunt",
     "Amanda Seyfried",
@@ -416,11 +412,16 @@
     "Pamela Anderson"
   ],
   "added": {
-    "Ramayana: Rise of a Legend": "2026-11-15",
     "The Take": "2026-11-15"
   },
   "movies": [
-    "Ramayana: Rise of a Legend",
     "The Take"
+  ],
+  "blocked": [
+    "Sai Pallavi",
+    "Ravi Dubey",
+    "Nitesh Tiwari",
+    "Jithu Madhavan",
+    "Ramayana: Rise of a Legend"
   ]
 }

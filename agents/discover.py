@@ -23,7 +23,7 @@ def decent_title(t):
 
 
 def pick_people(trend, cfg, n):
-    have = {c.lower() for c in cfg["celebrities"]}
+    have = {c.lower() for c in cfg["celebrities"]} | {b.lower() for b in cfg.get("blocked", [])}  # blocked = the owner removed them (low-CPM markets); never re-added
     pool, seen = [], set()
     for key in ("hot_now", "always_popular", "filmmakers"):
         for p in trend.get(key, []):
@@ -42,9 +42,14 @@ def film_score(f, views, tracked):
 
 def pick_movies(movies, trend, cfg, n, need_tracked, today):
     views = {p["name"]: p.get("views_7d") or 0 for k in ("hot_now", "always_popular", "filmmakers") for p in trend.get(k, [])}
-    tracked, have = set(cfg["celebrities"]), {m.lower() for m in cfg.get("movies", [])}
+    tracked, have = set(cfg["celebrities"]), {m.lower() for m in cfg.get("movies", [])} | {b.lower() for b in cfg.get("blocked", [])}
+    blocked = {b.lower() for b in cfg.get("blocked", [])}
     out = []
     for f in movies.get("films", []):
+        d = f.get("director") or []
+        names = ([d] if isinstance(d, str) else list(d)) + list(f.get("cast") or [])
+        if any(str(n).lower() in blocked for n in names):
+            continue  # a film made by or starring someone the owner blocked
         try:
             rel = date.fromisoformat(f["release"])
         except ValueError:
