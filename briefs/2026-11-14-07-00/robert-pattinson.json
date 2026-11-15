@@ -67,12 +67,12 @@
         {
           "source": "Українські Національні Новини (УНН)",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHM3N2JSdVhtOUdMbkFHWmVYbkRtZk1JZG1oNGJxMkZwV1l4REY3RlNvNzhBQ05nRGlNUmR4c2IxUEx3RnFpZkZMOGFLUm4tMmR2MEV6a1p6ckcxekpBVnRSMEgtTVM3SlhzTnFUQmZQbzBpQzg5NnczNS0xR2lLVWZmdnVJZ1ppNXRHcFI3eWdleTZtc1FIdEQ1bjlNcE56b1NGT29FRdIBpgFBVV95cUxNd2ozcFptem1maHFFcEhmdk5iQ0xDSHVVYVlLUlFCNVowT2liZ19WM2drdmNaX2tqY1BKSDQ3Vk50WEw1NHBZeHdXOEtJTEtCR1pyQmRVOVBFLWRaVXRWckF4MzVoMjlVYjFfT3Z5bWZhRTUxNmx5Q1pVQlo5Zk9vbXJrSVJUeTh1a1Y5YW1vN1p5ME1QaTJ5Ui1oTThFM0NidkhwdUd3?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://unn.ua/en/news/robert-pattinson-has-become-the-favorite-to-play-the-new-james-bond-media-reports",
+          "image": "https://unn.ua/img/2026/11/13/1794586937-4788-large.webp"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://unn.ua/img/2026/11/13/1794586937-4788-large.webp",
+      "image_source": "https://unn.ua/en/news/robert-pattinson-has-become-the-favorite-to-play-the-new-james-bond-media-reports"
     },
     {
       "title": "Robert Pattinson as James Bond? Why His Batman Future Might Leave the Door Open",
@@ -238,6 +238,62 @@
       ],
       "image": "https://i.guim.co.uk/img/media/5d9df4d9855cba3883b954df19e7f67df283ede1/39_222_5628_4502/master/5628.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5610b5cf312fa55be91e4fbc2df4ea9c",
       "image_source": "https://www.theguardian.com/film/2026/nov/13/robert-pattinson-reportedly-leads-james-bond-contenders"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Primetime",
+      "release": "2026-09-05",
+      "director": [
+        "Lance Oppenheim"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Phoebe Bridgers",
+        "Merritt Wever",
+        "Sean Bridgers",
+        "Skyler Gisondo"
+      ],
+      "budget_usd": 14500000,
+      "box_office_usd": 62000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 4.28,
+      "rotten_tomatoes": "86%",
+      "metacritic": "68/100 from 54 critics",
+      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Yet it’s hard to know to what end, or to care.\" Nicholas Barber of the BBC gave the film 5 out of 5 stars, calling Pattinson's performance \"extraordinary\" and \"the best performance yet from the most intriguing actor of his generation\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
+      }
+    },
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
     }
   ]
 }

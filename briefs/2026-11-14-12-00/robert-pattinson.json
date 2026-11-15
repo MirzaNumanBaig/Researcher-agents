@@ -55,12 +55,12 @@
         {
           "source": "Daily Mail",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWWEweGhkZ2lwbUo3SHQ0N0NHVHEwc3E2NDlUalhrZ0N4cGVTN3pJX1gzM0RxWTZrc1JPYnItdURyY1ZTNGtvanMxbVExaUkxR21xWUl2d000cmlkYXFiSy1lOFFfR2wwZHVRdGs5Ymx2LW9pZzBWbzFraVU1Yk1nNWpPYm9tR3ZtcUlvUDlCb3NRc1l4cDdCYzE4ck82UDYwelQxcTk1QTFNTFFJVjk4OS1GclphZ9IBuwFBVV95cUxObEJlWkF6MVVaVUJjd2Q0QnN0SkFiZHBBQmUyUGJXbWtIYU1LSDZCVU8yVDVWUHd5X0lNZ2ZfbmhWU01tQkZBbG84OWlqQ21iVnduRDhqdlgwdmRSSzU4dVBEV0E1WUs2S3p3eW9oYUxDMGFlTFNRU3ZqbUUyRHQtSmxfbV9iUzlkMFhvZzdmdGZnTm1OZ3RFcEg2OENKMGh0VFBLSmFLV3NUeFdZYmlWR2lqX2F2UzZjcF9B?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.dailymail.com/tvshowbiz/article-16290137/james-bond-robert-pattinson-casting-role-race-frontrunner.html",
+          "image": "https://i.dailymail.com/1s/2026/11/13/13/112489757-0-image-m-21_1794578063661.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://i.dailymail.com/1s/2026/11/13/13/112489757-0-image-m-21_1794578063661.jpg",
+      "image_source": "https://www.dailymail.com/tvshowbiz/article-16290137/james-bond-robert-pattinson-casting-role-race-frontrunner.html"
     },
     {
       "title": "Robert Pattinson’s deal to play James Bond ‘leaked’ after audition",
@@ -112,6 +112,62 @@
       ],
       "image": "https://static.the-independent.com/2026/11/13/15/2199054768..?trim=85,0,85,0&width=1200&height=800&crop=1200:800",
       "image_source": "https://www.the-independent.com/arts-entertainment/films/news/james-bond-robert-pattinson-007-leaked-audition-b3084975.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Primetime",
+      "release": "2026-09-05",
+      "director": [
+        "Lance Oppenheim"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Phoebe Bridgers",
+        "Merritt Wever",
+        "Sean Bridgers",
+        "Skyler Gisondo"
+      ],
+      "budget_usd": 14500000,
+      "box_office_usd": 62000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 4.28,
+      "rotten_tomatoes": "86%",
+      "metacritic": "68/100 from 54 critics",
+      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Yet it’s hard to know to what end, or to care.\" Nicholas Barber of the BBC gave the film 5 out of 5 stars, calling Pattinson's performance \"extraordinary\" and \"the best performance yet from the most intriguing actor of his generation\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
+      }
+    },
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
     }
   ]
 }
