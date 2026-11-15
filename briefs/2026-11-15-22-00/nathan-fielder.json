@@ -1,0 +1,49 @@
+{
+  "batch": "2026-11-15 22:00",
+  "celebrity": "Nathan Fielder",
+  "stories": [
+    {
+      "title": "Maze of story-telling: Nathan Fielder’s ‘You Can See Everything’ | Daily Sabah",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFUza3o5WGdybjh3MU0zUkFsZVViek4wNUotdWR1Z3lCbHFTZEkxUVYzUVFjSFlqdjBYbnA0TGZzY3FSNzRBeTY2RXN3ejJsOGJ1VWFPdTJGUHROWWxRN3JtVUxEUW56Wm5UeGF4ZlpaLWpiVkNJYnlyT2dmTWlYeHpGS3hlbGJYd2xUUnpTcFVNTkFndzNPRmJpVU96WHJz0gGmAUFVX3lxTFBaLWZuRkxHV1lGVWgyU3hFSHFrcTNtNmtRNW1OOWlTTzdoYVd3U2FsSC1vcWNlMlJhWE9jVkV1NlRNb2dGVDFwTHBmUDZhY2dDWHptSE5KMGVKYjd6QjhxbGR3OTg2MzVMSGFlU25VQXhPQVNCVUlQZTM2S0ZYZG9rdjRlYkVDbms5dFZiU3lBa1Y3LV80dVFyQ29Qem5teXFISHlfeGc?oc=5",
+      "published": "2026-11-15T07:36:52+00:00",
+      "outlets": [
+        {
+          "source": "Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFUza3o5WGdybjh3MU0zUkFsZVViek4wNUotdWR1Z3lCbHFTZEkxUVYzUVFjSFlqdjBYbnA0TGZzY3FSNzRBeTY2RXN3ejJsOGJ1VWFPdTJGUHROWWxRN3JtVUxEUW56Wm5UeGF4ZlpaLWpiVkNJYnlyT2dmTWlYeHpGS3hlbGJYd2xUUnpTcFVNTkFndzNPRmJpVU96WHJz0gGmAUFVX3lxTFBaLWZuRkxHV1lGVWgyU3hFSHFrcTNtNmtRNW1OOWlTTzdoYVd3U2FsSC1vcWNlMlJhWE9jVkV1NlRNb2dGVDFwTHBmUDZhY2dDWHptSE5KMGVKYjd6QjhxbGR3OTg2MzVMSGFlU25VQXhPQVNCVUlQZTM2S0ZYZG9rdjRlYkVDbms5dFZiU3lBa1Y3LV80dVFyQ29Qem5teXFISHlfeGc?oc=5",
+          "article_url": "https://www.dailysabah.com/arts/cinema/maze-of-story-telling-nathan-fielders-you-can-see-everything",
+          "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/11/15/thumbs/1200x675/470462.jpg"
+        }
+      ],
+      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/11/15/thumbs/1200x675/470462.jpg",
+      "image_source": "https://www.dailysabah.com/arts/cinema/maze-of-story-telling-nathan-fielders-you-can-see-everything"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "You Can See Everything",
+      "release": "2026-09-06",
+      "director": [
+        "Lance Oppenheim",
+        "Nathan Fielder"
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Christopher Abbott"
+      ],
+      "budget_usd": 7000000,
+      "box_office_usd": 86500000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 12.36,
+      "rotten_tomatoes": "96% from 226 reviews",
+      "metacritic": "97/100 from 42 critics",
+      "critics_consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+      "critics_overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+        "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+      }
+    }
+  ]
+}

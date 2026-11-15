@@ -61,12 +61,12 @@
         {
           "source": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQVJ6S0UzX1hrMFR4VEZPV29TTF9hcTUxVlRNOXI4MlR1dmZyQnF1X3pVMjZGWXZKNlUwbmhFOGp1WExaQkJUOUNPd3g2WTAzWnpTVUhkS3JuSWZCMDI5ZFFNN3FhTjE4UU5Cc3h0MmtBZlhBXzBKQ29abFlFNFdyV2tUOXFleGNzaGt2akRvd0VRX0lWQVBZVG5ZNHhoWkNwMWYzTEozUW00UQ?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes",
+          "image": "https://i.guim.co.uk/img/media/63317558fe1124674c2a9f21bf903ddce5e7ded4/367_0_2334_1868/master/2334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84257e71cdd5a55544df429c6c204056"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://i.guim.co.uk/img/media/63317558fe1124674c2a9f21bf903ddce5e7ded4/367_0_2334_1868/master/2334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84257e71cdd5a55544df429c6c204056",
+      "image_source": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes"
     },
     {
       "title": "Commentary: Russell Brand doc excoriates a predatory chameleon and the culture that celebrated him",
@@ -76,12 +76,12 @@
         {
           "source": "Los Angeles Times",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5QeUk5QjJYemo4Mlp1N2FyQnlnb044T284VGZwV0F0Mng2SFJJLWNuaElhMDB0d0xRR3FLckd3UU9GUHVCZHJvU1QwS0l3T3VfR05BdmZfa2psUUFGLXhGSEZwaG02THhfZGoxRnVyaGRsel9tNllHaE0zcl9rVXVZM0h3TElYZS1XMUstRnlKUEpINVVTOTM4RUx6c2c0VlZZQ3hxN3FZaWtGQTFpMlJCSDhOQTE4ZnBIRjdFMFZEMUk?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.latimes.com/entertainment-arts/story/2026-11-14/russell-brand-documentary-netflix-open-secret-rape-sexual-assault",
+          "image": "https://ca-times.brightspotcdn.com/dims4/default/c8e0a39/2147483647/strip/true/crop/3691x1938+0+298/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2Fe1%2Fb038f63b4241bb4d6ab233b9ad01%2Faptopix-britain-russell-brand-98522.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/c8e0a39/2147483647/strip/true/crop/3691x1938+0+298/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2Fe1%2Fb038f63b4241bb4d6ab233b9ad01%2Faptopix-britain-russell-brand-98522.jpg",
+      "image_source": "https://www.latimes.com/entertainment-arts/story/2026-11-14/russell-brand-documentary-netflix-open-secret-rape-sexual-assault"
     },
     {
       "title": "Russell Brand Accused of Predatory Behavior by Several More Women: “I Begged Him to Stop”",
@@ -127,6 +127,33 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "Russell Brand's ex makes shocking claim about Katy Perry marriage in new Netflix documentary",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzdYOWJuUmgxQW1raTF4d1ZLdjFoU1ZYTHFESFBxaExMR2E3bnprYjNTVGZ2TzlEV0lIYmFuOFF1X2ZXcHhqa3hjUm1SM3NFRzlzRFB4V2hFSE5kY3RlQlZqcEtsY3E2dFhPN1lMNGk2eUhDY3k4MHlxWThzVDZvb2gwOUlINW40SkliX005SnJpdnpTX1lHVGpqdzJPalFJTGUwa3RuZ29ubVBrd0Qyb1djUi1JVTJMelNJZ2J1YjNLMjJ2UHVfMW8tZ0g?oc=5",
+      "published": "2026-11-14T22:25:53+00:00",
+      "outlets": [
+        {
+          "source": "HELLO!",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzdYOWJuUmgxQW1raTF4d1ZLdjFoU1ZYTHFESFBxaExMR2E3bnprYjNTVGZ2TzlEV0lIYmFuOFF1X2ZXcHhqa3hjUm1SM3NFRzlzRFB4V2hFSE5kY3RlQlZqcEtsY3E2dFhPN1lMNGk2eUhDY3k4MHlxWThzVDZvb2gwOUlINW40SkliX005SnJpdnpTX1lHVGpqdzJPalFJTGUwa3RuZ29ubVBrd0Qyb1djUi1JVTJMelNJZ2J1YjNLMjJ2UHVfMW8tZ0g?oc=5",
+          "article_url": "https://www.hellomagazine.com/us/935053/russell-brands-ex-makes-shocking-claim-about-katy-perry-marriage-in-new-netflix-documentary/",
+          "image": "https://images.hellomagazine.com/horizon/landscape/1200/864fa36e0127-gettyimages-134856331.jpg"
+        },
+        {
+          "source": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcXMxZkF3Z0dQcHdBdzN4Sm5PSjctSmJZcGY2Wm0xQjRTVGxlOU96MFFERnBScmlFM2FzZ3dEaDYydnRULWdDeTFQblFPaHh1bDI5M2FhTmdTMjJUbUtIMGYxY053NXEzNWFaNWo2Zk94YjZMWmRHUTR5NDB4WTM1NjhlVEpBdV9NajJWQXhGazJ2YjVkUlViTTl2eHdpY2otZkcwNmZCUjAySmRKbjE5cHhSa2RmNHFjMzFvQXpWaTc3NF9aZjFtbVdXZ3FjeE1pQ1E?oc=5",
+          "article_url": "https://pagesix.com/2026/11/14/entertainment/russell-brands-ex-makes-bombshell-claim-about-why-he-married-katy-perry-in-new-netflix-doc/",
+          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148757724.jpg?quality=75&strip=all&w=1200"
+        },
+        {
+          "source": "pagesix.com",
+          "url": "https://pagesix.com/2026/11/14/entertainment/russell-brands-ex-makes-bombshell-claim-about-why-he-married-katy-perry-in-new-netflix-doc/",
+          "article_url": "",
+          "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fscreenshot-russel-brand-doc-148757607.jpg?w%3D1024"
+        }
+      ],
+      "image": "https://images.hellomagazine.com/horizon/landscape/1200/864fa36e0127-gettyimages-134856331.jpg",
+      "image_source": "https://www.hellomagazine.com/us/935053/russell-brands-ex-makes-shocking-claim-about-katy-perry-marriage-in-new-netflix-documentary/"
     }
   ]
 }
