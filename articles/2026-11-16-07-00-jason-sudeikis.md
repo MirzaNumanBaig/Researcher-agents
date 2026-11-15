@@ -5,7 +5,7 @@ seo_title: "Jason Sudeikis Co-Parenting: Olivia Wilde on the Split"
 seo_description: "Olivia Wilde says splitting from Jason Sudeikis felt like failure but was better for their children. Here is what she said and what is on record."
 focus_keyword: "Jason Sudeikis co-parenting"
 permalink: "jason-sudeikis-co-parenting-olivia-wilde"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-16 07:00"
 celebrity: "Jason Sudeikis"
@@ -15,6 +15,15 @@ image_prompt: "A quiet suburban kitchen table at dusk with two coffee mugs and a
 sources:
   - "https://www.yahoo.com/entertainment/celebrity/articles/olivia-wilde-says-splitting-jason-170024822.html"
   - "https://www.fashiontimes.co.uk/olivia-wilde-jason-sudeikis-co-parenting-equilibrium-1767770"
+image: "images/2026-11-16-07-00-jason-sudeikis.webp"
+image_alt: "Jason Sudeikis: Jason Sudeikis 2011 Shankbone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/27865228@N06/5678011903\" rel=\"noopener\">david_shankbone</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/27865228@N06/5678011903\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2602
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-16-07-00-jason-sudeikis-768x432.webp"
+wp_id: 2603
+wp_link: "https://moduscarry.com/jason-sudeikis-co-parenting-olivia-wilde/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

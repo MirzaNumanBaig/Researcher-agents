@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson The Odyssey: Affleck's Praise, Damon Says"
 seo_description: "Robert Pattinson's The Odyssey performance earned a rave from Ben Affleck, according to Matt Damon. Here is what was said and what comes next."
 focus_keyword: "Robert Pattinson The Odyssey"
 permalink: "robert-pattinson-the-odyssey-affleck"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-16 07:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,15 @@ sources:
   - "https://variety.com/2026/film/news/ben-affleck-robert-pattinson-the-odyssey-1236948199/"
   - "https://en.wikipedia.org/wiki/Primetime_(film)"
   - "https://www.tomsguide.com/entertainment/netflix/5-movies-to-watch-after-netflixs-new-mystery-thriller-heartland-my-picks-include-robert-pattinson-hugh-jackman-and-jessica-chastains-best-leading-performance"
+image: "images/2026-11-16-07-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2612
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-16-07-00-robert-pattinson-768x432.webp"
+wp_id: 2613
+wp_link: "https://moduscarry.com/robert-pattinson-the-odyssey-affleck/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki Cliff Booth: Early Buzz From LA Screening"
 seo_description: "Elizabeth Debicki Cliff Booth buzz builds after a Los Angeles screening of David Fincher's film, which opens on IMAX screens on 25 November."
 focus_keyword: "Elizabeth Debicki Cliff Booth"
 permalink: "elizabeth-debicki-cliff-booth"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-16 07:00"
 celebrity: "Elizabeth Debicki"
@@ -14,6 +14,15 @@ tags: ["Elizabeth Debicki", "Cliff Booth", "David Fincher", "Brad Pitt"]
 image_prompt: "An empty vintage cinema auditorium at night with warm light on the screen and rows of red seats"
 sources:
   - "https://www.worldofreel.com/blog/2026/11/15/finchers-cliff-booth-screens-in-la-tarantino-on-speed-and-elizabeth-debicki-steals-the-show"
+image: "images/2026-11-16-07-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki Steals Early Buzz in Fincher's Cliff Booth"
+image_credit: "Image: <a href=\"https://www.worldofreel.com/blog/2026/11/15/finchers-cliff-booth-screens-in-la-tarantino-on-speed-and-elizabeth-debicki-steals-the-show\" rel=\"nofollow noopener\">worldofreel.com</a> (cropped)"
+wp_media_id: 2598
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-16-07-00-elizabeth-debicki-768x432.webp"
+wp_id: 2599
+wp_link: "https://moduscarry.com/elizabeth-debicki-cliff-booth/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried SNL Host: Billy Evans Responds to Doc Role"
 seo_description: "Amanda Seyfried SNL host news: she debuts on December 5 while Billy Evans speaks out about her Elizabeth Holmes role in You Can See Everything."
 focus_keyword: "Amanda Seyfried SNL host"
 permalink: "amanda-seyfried-snl-host-billy-evans"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-16 07:00"
 celebrity: "Amanda Seyfried"
@@ -18,6 +18,15 @@ sources:
   - "https://www.thewrap.com/creative-content/tv-shows/snl-amanda-seyfried-host-don-toliver-musical-guest/"
   - "https://variety.com/2026/film/news/billy-evans-amanda-seyfried-elizabeth-holmes-portrayal-1236948144/"
   - "https://www.goldderby.com/film/2026/billy-evans-you-can-see-everything-tv-interview-amanda-seyfried/"
+image: "images/2026-11-16-07-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, actor, at the 2025 Toronto International Film Festival (TIFF) for the movie The Testament of Ann Lee ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._03.jpg\" rel=\"noopener\">Sara Komatsu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._03.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2590
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-16-07-00-amanda-seyfried-768x432.webp"
+wp_id: 2591
+wp_link: "https://moduscarry.com/amanda-seyfried-snl-host-billy-evans/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

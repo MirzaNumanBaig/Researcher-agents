@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder You Can See Everything Pay Debate"
 seo_description: "The Atlantic says the fuss over paying subjects in Nathan Fielder's You Can See Everything misses the bigger picture. Here is what the essay argues."
 focus_keyword: "Nathan Fielder You Can See Everything"
 permalink: "nathan-fielder-you-can-see-everything-pay-debate"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-16 07:00"
 celebrity: "Nathan Fielder"
@@ -15,6 +15,15 @@ image_prompt: "A quiet documentary edit suite at night, a lone monitor glowing b
 sources:
   - "https://www.theatlantic.com/ideas/2026/11/holmes-documentary-journalistic-ethics/689350/"
   - "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+image: "images/2026-11-16-07-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2610
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-16-07-00-nathan-fielder-768x432.webp"
+wp_id: 2611
+wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-pay-debate/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

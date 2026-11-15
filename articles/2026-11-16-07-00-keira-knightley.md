@@ -5,7 +5,7 @@ seo_title: "Black Doves Season 2: Keira Knightley Hits No. 3 on IMDb"
 seo_description: "Black Doves Season 2 with Keira Knightley is No. 3 on IMDb's most popular TV chart, with a 96% critics' score. Here is what the reviews say."
 focus_keyword: "Black Doves Season 2"
 permalink: "black-doves-season-2-imdb-chart"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-16 07:00"
 celebrity: "Keira Knightley"
@@ -15,6 +15,15 @@ image_prompt: "A rain-soaked London street at night with a black umbrella left o
 sources:
   - "https://www.cbr.com/black-doves-season-2-netflix-streaming-success-november-2026/"
   - "https://www.todoalicante.es/english/black-doves-season-2-20261114111101-nt.html"
+image: "images/2026-11-16-07-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley pastel"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/89587384@N00/22933591432\" rel=\"noopener\">David in Lisburn</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://www.flickr.com/photos/89587384@N00/22933591432\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2608
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-16-07-00-keira-knightley-768x432.webp"
+wp_id: 2609
+wp_link: "https://moduscarry.com/black-doves-season-2-imdb-chart/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
