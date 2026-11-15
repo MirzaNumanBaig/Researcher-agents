@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-15 23:00",
+  "celebrity": "Guy Pearce",
+  "stories": [
+    {
+      "title": "Guy Pearce's Solid New Netflix Thriller Releases Trailer Ahead of Next Month’s Release",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jTVljWWdHWk9yamR2VkZQU0JQNWcxSkNtUVJVZ2dxMzVLd0MxcWhId1RFS3ROTlJORnhoT3ZKay11T1YyUTRPMlNVS3NncGN3LVlKY3VYcGVOZ2NLaUpJTS1xdzRBdmc?oc=5",
+      "published": "2026-11-14T02:49:56+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jTVljWWdHWk9yamR2VkZQU0JQNWcxSkNtUVJVZ2dxMzVLd0MxcWhId1RFS3ROTlJORnhoT3ZKay11T1YyUTRPMlNVS3NncGN3LVlKY3VYcGVOZ2NLaUpJTS1xdzRBdmc?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66110692/?ref_=ttnw_art_perm",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Dog Stars",
+      "release": "2026-08-26",
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Jacob Elordi",
+        "Margaret Qualley",
+        "Josh Brolin",
+        "Guy Pearce",
+        "Benedict Wong"
+      ],
+      "budget_usd": 70000000,
+      "box_office_usd": 39000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 0.56,
+      "rotten_tomatoes": "41%",
+      "metacritic": "49/100 from 46 critics",
+      "critics_consensus": "A derivative and drowsy tour through the post-apocalypse, The Dog Stars' lush visuals can't compensate for its listless narrative and underpowered pacing.",
+      "critics_overview": "In the United States and Canada, The Dog Stars was released alongside Buddy, Coyote vs. Robert Daniels of RogerEbert.com gave the film one and a half out of four stars, writing, \"It probably takes more effort to make a boring post-apocalyptic survivalist action film than to make a good one.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132256832",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Dog_Stars_(film)"
+      }
+    }
+  ]
+}

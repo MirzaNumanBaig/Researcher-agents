@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-07 10:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ghost Rider Is Back! Nicolas Cage Reveals What He REALLY Thinks of Ryan Gosling!",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONERNeG0yeG5xT3dnMkl6WWU5RnlOTWdJVks2OUlnWU83blVjcVVrTXc3NlA4blJPdTdkbV9Hcjd1UHEzLWRqNFp4SUVHUW0zVHNrckg1ZUZpSUJ3Sm44ZnNwd0lETHlOLUk5YmhhUDNZdVZyQlMyM1ZFSGpNeGI4MlhZS2lPUmp1LW8zMUd5WXQ?oc=5",
+      "published": "2026-11-06T10:07:17+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONERNeG0yeG5xT3dnMkl6WWU5RnlOTWdJVks2OUlnWU83blVjcVVrTXc3NlA4blJPdTdkbV9Hcjd1UHEzLWRqNFp4SUVHUW0zVHNrckg1ZUZpSUJ3Sm44ZnNwd0lETHlOLUk5YmhhUDNZdVZyQlMyM1ZFSGpNeGI4MlhZS2lPUmp1LW8zMUd5WXQ?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/videos/ghost-rider-back-nicolas-cage-100717413.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/c1d2ee454cd8e645c028c3d7afa109c018b12d227496147cd425e827a942299c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2Ff698341f9665a86215058f71787226e1.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/c1d2ee454cd8e645c028c3d7afa109c018b12d227496147cd425e827a942299c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2Ff698341f9665a86215058f71787226e1.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/videos/ghost-rider-back-nicolas-cage-100717413.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

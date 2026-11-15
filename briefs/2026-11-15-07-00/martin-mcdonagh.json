@@ -31,12 +31,12 @@
         {
           "source": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mb1RkODZzS0hPT0EwTVdBU1V3bU1jYlh2bDJPTm1NNS00N3JkOXpzUDRzV1dNM3l6Zl9KOGpNc3hIWkxfMmswTUVYQkhnMVdnNjBrU1NqUHhQNlpVSVJJb1RZVTU1ekRmVmVIdVhhN1RsOENnRDlsaVhqWF9UWkU?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.nytimes.com/2026/10/31/magazine/martin-mcdonagh-interview.html",
+          "image": "https://static01.nyt.com/images/2026/11/08/magazine/08mag-interview-mcdonagh-04/08mag-interview-mcdonagh-04-facebookJumbo.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://static01.nyt.com/images/2026/11/08/magazine/08mag-interview-mcdonagh-04/08mag-interview-mcdonagh-04-facebookJumbo.jpg",
+      "image_source": "https://www.nytimes.com/2026/10/31/magazine/martin-mcdonagh-interview.html"
     }
   ]
 }

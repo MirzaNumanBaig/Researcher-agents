@@ -130,6 +130,65 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "Mckenna Grace Shares Her Review of ‘The Hunger Games: Sunrise on the Reaping’",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJQXFaRlhQaDdyWTVFbjNGLTQwczdUak5PU3d6Vng4cGJvaWFuQnh6QUZVdFUtOHZnN0w5UFl3VDB3cjRwSGRERlJjWVV5cURMS1E?oc=5",
+      "published": "2026-11-13T14:56:28+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJQXFaRlhQaDdyWTVFbjNGLTQwczdUak5PU3d6Vng4cGJvaWFuQnh6QUZVdFUtOHZnN0w5UFl3VDB3cjRwSGRERlJjWVV5cURMS1E?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "NYLON",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFRobUlkeTZwaFVLX3hLSHlJTllCbjM5MjlGRjBRUzEwY0RDN3Q2MjVKNmVfTmdubFFadEhRTUtvRG4wU3RxcV9tajVjSk1DaDNPSUZLYmo2UFd3ZlgxR0lrUy1lMHhLTWlsaVlEekIwR0FKWEluTmVwY2hqekhNWFVkZ2poZnlpX2N2YkpSMGU1aG8yZF9zLQ?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Toowoomba Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRzNNckNxbkRtV2hRMmh1SUtKUUJkQ3p1ZVphT2t3QlAzLXJIUV9Eb0lZdVlRZ0IyRHNZYmV1Uzk2UzI5MkctQ2otcm1nSkY1WS0xY0V3U0VBQXdPYnp4VVVLVnd0LUQ1ZTB0S0JpTU4xWldHSXd1emRDZDdERml4cXpUb242OGJoUDY1TjNDMGRFd0tZeUVzTmh4aVRFWFBYbVBCSUcwVnQxSHhTbXkxelRkdjBpYUlydVBmVkwxclZlaUUwT25BM3pVOE1ZRVZzOXdrcU1ramg1NF9UREV4T3BwNVpwcnF4VFNMSWlSSWQ5aGg2dThOeGdFYjdIU21rMHJ6bGhaRlpubTVEdVdtZVFlUHZVbEVtbG84S1ZxbUpDcUli?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Adelaide Now",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdjdBTTBHYlNrT24tYzVJcjlDNXlLb25ocjFvbmVDMEFmSEdhRE56a1BrUHBVa3hmSVJKR0ltc1QzLWducDhKdlYtWmRHS0tMVy1uMzdxcDBXUzNjVXNYRXFxTlBhbVhPU2lJcFZ4dVFrWHFKeTUwZ1BsLWtjWFlHeC1fdlhJaVhrYTJzSkpiaXlsMTJEcjVXM1UyemFWbGZpaEtjZURlUFNTNnVDMXpieVJHYXRqb2dfaDFfRFFYYkVXakx5VHFJd2RtOEJZdVozWTQzcHhaal9PY2d0cVhMMWo5VlIwZ3dVaUdGMzBuTDBFRUM1MG1GbzBqYzg3aTVsd2RabTEyRHBLWFNaOWwxUVRIRkJielJKLVJMSnkxdVBzVWM?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Last Kiss",
+      "release": "2026-09-15",
+      "director": [
+        "Yoko Okumura"
+      ],
+      "cast": [
+        "Mckenna Grace",
+        "Jaden Michael"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141430687",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Kiss_(2026_film)"
+      }
     }
   ]
 }
