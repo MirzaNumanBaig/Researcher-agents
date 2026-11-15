@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried SNL Debut: Host on December 5 With Don Toliver"
 seo_description: "Amanda Seyfried SNL hosting debut is set for 5 December with Don Toliver, while her Oscar eligibility for You Can See Everything is still undecided."
 focus_keyword: "Amanda Seyfried SNL"
 permalink: "amanda-seyfried-snl"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 18:00"
 celebrity: "Amanda Seyfried"
@@ -15,6 +15,10 @@ image_prompt: "An empty late-night television studio stage with a red curtain, w
 sources:
   - "https://deadline.com/2026/11/amanda-seyfried-host-saturday-night-live-1237224388/"
   - "https://www.yahoo.com/entertainment/movies/articles/amanda-seyfried-elizabeth-holmes-role-030057257.html"
+wp_id: 2278
+wp_link: "https://moduscarry.com/amanda-seyfried-snl/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

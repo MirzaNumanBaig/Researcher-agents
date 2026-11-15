@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Wicker: Suit, Script and Sequel Joke"
 seo_description: "Alexander Skarsgård Wicker panel: why he took the role, how the straw suit shaped his voice, and the joke sequel Corduroy he is pitching."
 focus_keyword: "Alexander Skarsgård Wicker"
 permalink: "alexander-skarsgard-wicker-suit-sequel"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 18:00"
 celebrity: "Alexander Skarsgård"
@@ -16,6 +16,10 @@ sources:
   - "https://deadline.com/2026/11/alexander-skarsgard-wicker-interview-1237224217/"
   - "https://www.cinemablend.com/movies/alexander-skarsgard-reveals-hilarious-pitch-wicker-sequel"
   - "https://collider.com/alexander-skarsgard-thriller-straw-dogs-streaming-free-tubi-november-2026/"
+wp_id: 2277
+wp_link: "https://moduscarry.com/alexander-skarsgard-wicker-suit-sequel/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

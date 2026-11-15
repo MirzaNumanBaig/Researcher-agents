@@ -5,7 +5,7 @@ seo_title: "Catherine O'Hara Remembered by Parker Posey in Tearful Interview"
 seo_description: "Parker Posey grew teary remembering Catherine O'Hara on the Best in Show and A Mighty Wind sets. Here is what she said and how others paid tribute."
 focus_keyword: "Catherine O'Hara Parker Posey"
 permalink: "catherine-ohara-parker-posey-tribute"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 18:00"
 celebrity: "Catherine O'Hara"
@@ -14,6 +14,15 @@ tags: ["Catherine O'Hara", "Martin Scorsese"]
 image_prompt: "An empty dog show arena with a spotlit green carpet and rows of empty seats, soft evening light, quiet and nostalgic mood."
 sources:
   - "https://www.thewrap.com/culture-lifestyle/culture/parker-posey-remembers-catherine-o-hara/"
+image: "images/2026-11-15-18-00-catherine-o-hara.webp"
+image_alt: "Catherine O'Hara: Catherine O'Hara as part of SCTV Network 90"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara_as_part_of_SCTV_Network_90_(1981).jpg\" rel=\"noopener\">NBC</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara_as_part_of_SCTV_Network_90_(1981).jpg\" rel=\"noopener\">Public domain</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara_as_part_of_SCTV_Network_90_(1981).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2279
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-18-00-catherine-o-hara-768x432.webp"
+wp_id: 2280
+wp_link: "https://moduscarry.com/catherine-ohara-parker-posey-tribute/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

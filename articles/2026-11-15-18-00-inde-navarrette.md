@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Matt Damon: Her Dream Father-Daughter Comedy"
 seo_description: "Inde Navarrette told Entertainment Tonight she would rather make a father-daughter comedy with Matt Damon than a rom-com. Here is what is known."
 focus_keyword: "Inde Navarrette Matt Damon"
 permalink: "inde-navarrette-matt-damon-comedy"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 18:00"
 celebrity: "Inde Navarrette"
@@ -15,6 +15,10 @@ image_prompt: "An empty cinema auditorium with warm house lights, rows of red se
 sources:
   - "https://fandomwire.com/inde-navarette-matt-damon-next-comedy-movie/"
   - "https://www.imdb.com/news/ni66111751/?ref_=nmnw_art_perm"
+wp_id: 2283
+wp_link: "https://moduscarry.com/inde-navarrette-matt-damon-comedy/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
