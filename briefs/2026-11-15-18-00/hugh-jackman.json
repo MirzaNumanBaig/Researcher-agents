@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-15 18:00",
+  "celebrity": "Hugh Jackman",
+  "stories": [
+    {
+      "title": "Hugh Jackman Officially Confirms Key Role Weeks Before Avengers: Doomsday Release",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Id1ZQWGhsYkxsZDZwc2dIbmhpVFpMcTB6WmhNRlpJOFRpdGRqOXM3SjlSVzBNZDBTZ3VYc3A0UnRnbXV6ZzZzc3BpeGdUc18yT0dDY1pDVHQwRkVtcEVNX1FxWktxMzZ1?oc=5",
+      "published": "2026-11-14T23:59:26+00:00",
+      "outlets": [
+        {
+          "source": "MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Id1ZQWGhsYkxsZDZwc2dIbmhpVFpMcTB6WmhNRlpJOFRpdGRqOXM3SjlSVzBNZDBTZ3VYc3A0UnRnbXV6ZzZzc3BpeGdUc18yT0dDY1pDVHQwRkVtcEVNX1FxWktxMzZ1?oc=5",
+          "article_url": "https://movieweb.com/avengers-doomsday-hugh-jackman-role/",
+          "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/10/hugh-jackman-as-wolverine-with-a-bullet-in-his-mouth-in-deadpool-wolverine.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/10/hugh-jackman-as-wolverine-with-a-bullet-in-his-mouth-in-deadpool-wolverine.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://movieweb.com/avengers-doomsday-hugh-jackman-role/"
+    }
+  ]
+}
