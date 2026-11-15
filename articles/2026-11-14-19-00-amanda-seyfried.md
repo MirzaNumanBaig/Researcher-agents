@@ -17,9 +17,14 @@ sources:
   - "https://ca.style.yahoo.com/amanda-seyfried-low-expectations-why-040000410.html"
 wp_id: 2217
 wp_link: "https://moduscarry.com/amanda-seyfried-tiffany-holiday-campaign/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-14-19-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, model, actrs, at 83rd Venice International Film Festival in Venice, Italy for the film Miu Miu Women's Tales ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_83rd_Venice_International_Film_Festival-3.jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_83rd_Venice_International_Film_Festival-3.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2433
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-19-00-amanda-seyfried-768x432.webp"
 ---
 
 **Quick summary**

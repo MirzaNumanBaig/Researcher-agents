@@ -19,9 +19,14 @@ sources:
   - "https://www.thebookseller.com/comment/the-fall-of-walliams-is-a-moment-to-consider-everything"
 wp_id: 2244
 wp_link: "https://moduscarry.com/david-walliams-allegations-osman-beaumont/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-15-07-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams, actor, comedian, and writer, at the 2025 Jaipur Literature Festival in Jaipur, India."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival.jpg\" rel=\"noopener\">Sriya Sarkar</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2439
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-07-00-david-walliams-768x432.webp"
 ---
 
 **Quick summary**

@@ -18,9 +18,14 @@ sources:
   - "https://www.nytimes.com/2026/10/31/magazine/martin-mcdonagh-interview.html"
 wp_id: 2260
 wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine-interviews/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-15-07-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Martin McDonagh attends the \"Wild Horse Nine\" Screening during the 83rd Venice International Film Festival, at Sala Grande on September 03, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_Venice_Film_Festival.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_Venice_Film_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2441
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-07-00-martin-mcdonagh-768x432.webp"
 ---
 
 **Quick summary**

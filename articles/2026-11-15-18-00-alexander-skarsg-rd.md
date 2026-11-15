@@ -18,8 +18,14 @@ sources:
   - "https://collider.com/alexander-skarsgard-thriller-straw-dogs-streaming-free-tubi-november-2026/"
 wp_id: 2277
 wp_link: "https://moduscarry.com/alexander-skarsgard-wicker-suit-sequel/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-15-18-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd at the 63rd New York Film Festival in New York City for the film Pillion"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_01.jpg\" rel=\"noopener\">Veggiegalaxy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_01.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+embed_checked: 1
+wp_media_id: 2444
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-18-00-alexander-skarsg-rd-768x432.webp"
 ---
 
 **Quick summary**

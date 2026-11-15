@@ -16,9 +16,14 @@ sources:
   - "https://www.femalefirst.co.uk/celebrity/keira-knightley-loves-playing-complicated-characters-1453685.html"
 wp_id: 2219
 wp_link: "https://moduscarry.com/keira-knightley-black-doves-complicated-characters/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-14-19-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley smoking 3"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/9355127@N07/35392595510\" rel=\"noopener\">Nicholas R. Andrew</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/9355127@N07/35392595510\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2435
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-19-00-keira-knightley-768x432.webp"
 ---
 
 **Quick summary**
