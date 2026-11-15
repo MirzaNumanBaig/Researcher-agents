@@ -18239,6 +18239,22 @@
    "turns": 7,
    "seconds": 30,
    "cost_usd": 0.2038
+  },
+  {
+   "date": "2026-11-15",
+   "time": "2026-11-15T20:53:12+00:00",
+   "batch": "2026-11-16 07:00",
+   "celebrity": "Ben Whishaw",
+   "article": "2026-11-16-07-00-ben-whishaw.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 22,
+   "output_tokens": 5453,
+   "cache_read_tokens": 406307,
+   "cache_write_tokens": 29026,
+   "turns": 14,
+   "seconds": 52,
+   "cost_usd": 0.2115
   }
  ]
 }
