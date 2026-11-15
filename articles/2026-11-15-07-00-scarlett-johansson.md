@@ -19,6 +19,7 @@ wp_id: 2274
 wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-netflix/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
