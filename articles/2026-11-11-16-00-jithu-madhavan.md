@@ -21,9 +21,14 @@ sources:
   - "https://www.highonfilms.com/scene-2026-movie-review/"
 wp_id: 1843
 wp_link: "https://moduscarry.com/jithu-madhavan-scene/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-11-16-00-jithu-madhavan.webp"
+image_alt: "Jithu Madhavan: Jithu Madhavan's Scene: Tamil Debut Draws Star Praise"
+image_credit: "Image: <a href=\"https://www.bollywoodhungama.com/news/south-cinema/mahesh-babu-reviews-suriya-starrer-scene-calls-the-jithu-madhavan-directorial-cool-smart-and-so-much-fun/\" rel=\"nofollow noopener\">bollywoodhungama.com</a> (cropped)"
+wp_media_id: 2533
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-jithu-madhavan-768x432.webp"
 ---
 
 **Quick summary**

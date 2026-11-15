@@ -19,9 +19,14 @@ sources:
   - "https://thenational.co.za/culture/2026-11-09-inside-russell-brand-s-sentencing-prayer-beads-celebrity-privilege-and-a-10-5-year-prison-term/"
 wp_id: 1839
 wp_link: "https://moduscarry.com/georgina-baillie-statement-russell-brand/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-11-16-00-georgina-baillie.webp"
+image_alt: "Georgina Baillie: Georgina Baillie backs Russell Brand in court statement"
+image_credit: "Image: <a href=\"https://www.oxfordmail.co.uk/news/26712910.andrew-sachs-granddaughter-declares-support-rapist-russell-brand/\" rel=\"nofollow noopener\">oxfordmail.co.uk</a> (cropped)"
+wp_media_id: 2532
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-georgina-baillie-768x432.webp"
 ---
 
 **Quick summary**

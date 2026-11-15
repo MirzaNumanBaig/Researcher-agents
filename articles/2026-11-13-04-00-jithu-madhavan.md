@@ -16,9 +16,14 @@ sources:
   - "https://www.cinemaexpress.com/malayalam/news/2026/Nov/12/jithu-madhavan-opens-up-on-sequels-to-romancham-aavesham"
 wp_id: 2020
 wp_link: "https://moduscarry.com/jithu-madhavan-romancham-2/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-13-04-00-jithu-madhavan.webp"
+image_alt: "Jithu Madhavan: Jithu Madhavan on Romancham 2 and Aavesham 2 Sequel Plans"
+image_credit: "Image: <a href=\"https://www.cinemaexpress.com/malayalam/news/2026/Nov/12/jithu-madhavan-opens-up-on-sequels-to-romancham-aavesham\" rel=\"nofollow noopener\">cinemaexpress.com</a> (cropped)"
+wp_media_id: 2540
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-jithu-madhavan-768x432.webp"
 ---
 
 **Quick summary**
