@@ -17679,6 +17679,22 @@
    "turns": 7,
    "seconds": 11,
    "cost_usd": 0.1136
+  },
+  {
+   "date": "2026-11-15",
+   "time": "2026-11-15T11:14:35+00:00",
+   "batch": "2026-11-15 18:00",
+   "celebrity": "Ramayana: Rise of a Legend",
+   "article": "2026-11-15-18-00-ramayana-rise-of-a-legend.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 985,
+   "cache_read_tokens": 116519,
+   "cache_write_tokens": 22692,
+   "turns": 6,
+   "seconds": 8,
+   "cost_usd": 0.1124
   }
  ]
 }
