@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder Elizabeth Holmes: Does She Know She Lies?"
 seo_description: "Nathan Fielder Elizabeth Holmes: the filmmaker tells Wired he still can't say whether she knows she's lying. Here is what he said and how the film is doing."
 focus_keyword: "Nathan Fielder Elizabeth Holmes"
 permalink: "nathan-fielder-elizabeth-holmes-lie"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Nathan Fielder"
@@ -15,6 +15,15 @@ image_prompt: "An empty interview room with two armchairs facing each other unde
 sources:
   - "https://www.cinemablend.com/movies/thing-nathan-fielder-found-interesting-elizabeth-holmes-wasnt-in-you-can-see-everything"
   - "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+image: "images/2026-11-13-04-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2578
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-nathan-fielder-768x432.webp"
+wp_id: 2579
+wp_link: "https://moduscarry.com/nathan-fielder-elizabeth-holmes-lie/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

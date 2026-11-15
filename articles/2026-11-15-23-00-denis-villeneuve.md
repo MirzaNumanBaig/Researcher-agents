@@ -5,7 +5,7 @@ seo_title: "Denis Villeneuve Dune Part Three Wraps, Bond Is Next"
 seo_description: "Denis Villeneuve Dune Part Three is finished, says editor Joe Walker, who is now cutting Villeneuve's James Bond film. Here is what he revealed."
 focus_keyword: "Denis Villeneuve Dune Part Three"
 permalink: "denis-villeneuve-dune-part-three"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 23:00"
 celebrity: "Denis Villeneuve"
@@ -16,6 +16,15 @@ sources:
   - "https://www.hollywoodreporter.com/movies/movie-news/joe-walker-on-dune-part-three-villeneuve-mcqueen-james-bond-1236754607/"
   - "https://mezha.net/eng/news/mezha-ef5622c33317e655511dd1f0_joe_walker_on/"
   - "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk"
+image: "images/2026-11-15-23-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve's Dune Part Three Is Finished, Says Editor"
+image_credit: "Image: <a href=\"https://mezha.net/eng/news/mezha-ef5622c33317e655511dd1f0_joe_walker_on/\" rel=\"nofollow noopener\">mezha.net</a> (cropped)"
+wp_media_id: 2582
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-23-00-denis-villeneuve-768x432.webp"
+wp_id: 2583
+wp_link: "https://moduscarry.com/denis-villeneuve-dune-part-three/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

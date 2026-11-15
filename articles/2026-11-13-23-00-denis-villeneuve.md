@@ -5,7 +5,7 @@ seo_title: "Blade Runner 2049 Free on Pluto TV Before 2099 Series"
 seo_description: "Blade Runner 2049 is streaming free on Pluto TV, with Amazon's Blade Runner 2099 series due on Prime Video on 25 November. Here is what to know."
 focus_keyword: "Blade Runner 2049 free"
 permalink: "blade-runner-2049-free-pluto-tv"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 23:00"
 celebrity: "Denis Villeneuve"
@@ -14,6 +14,15 @@ tags: ["Denis Villeneuve", "Ryan Gosling"]
 image_prompt: "A rain-soaked neon-lit futuristic city street at night with glowing signs reflecting on wet pavement and a lone flying vehicle in the hazy sky."
 sources:
   - "https://www.bgr.com/2315458/ryan-gosling-harrison-ford-sci-fi-epic-blade-runner-2049-streaming-free/"
+image: "images/2026-11-13-23-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve's Blade Runner 2049 Streams Free on Pluto TV"
+image_credit: "Image: <a href=\"https://www.bgr.com/2315458/ryan-gosling-harrison-ford-sci-fi-epic-blade-runner-2049-streaming-free/\" rel=\"nofollow noopener\">bgr.com</a> (cropped)"
+wp_media_id: 2580
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-23-00-denis-villeneuve-768x432.webp"
+wp_id: 2581
+wp_link: "https://moduscarry.com/blade-runner-2049-free-pluto-tv/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

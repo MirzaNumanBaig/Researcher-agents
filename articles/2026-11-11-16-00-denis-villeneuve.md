@@ -5,7 +5,7 @@ seo_title: "Denis Villeneuve Bond: Director Won't Discuss Pattinson"
 seo_description: "Denis Villeneuve Bond comments: the director would not discuss reports that Robert Pattinson screen tested for 007, saying he is having a great time."
 focus_keyword: "Denis Villeneuve Bond"
 permalink: "denis-villeneuve-bond-pattinson"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-11 16:00"
 celebrity: "Denis Villeneuve"
@@ -14,6 +14,15 @@ tags: ["Denis Villeneuve", "Robert Pattinson", "James Bond", "Callum Turner", "J
 image_prompt: "An empty cinema auditorium with red velvet seats and a bright screen glowing in the dark, a single spotlight cutting through the haze"
 sources:
   - "https://www.digitalspy.com/movies/a74373310/james-bond-denis-villeneuve-robert-pattinson/"
+image: "images/2026-11-11-16-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve Keeps Quiet on Robert Pattinson Bond Talk"
+image_credit: "Image: <a href=\"https://www.digitalspy.com/movies/a74373310/james-bond-denis-villeneuve-robert-pattinson/\" rel=\"nofollow noopener\">digitalspy.com</a> (cropped)"
+wp_media_id: 2574
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-denis-villeneuve-768x432.webp"
+wp_id: 2575
+wp_link: "https://moduscarry.com/denis-villeneuve-bond-pattinson/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
