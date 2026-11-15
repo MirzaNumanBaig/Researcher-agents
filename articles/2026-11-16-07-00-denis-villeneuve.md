@@ -1,0 +1,7 @@
+---
+title: "Denis Villeneuve"
+status: skipped
+skip_reason: "no readable source text"
+batch: "2026-11-16 07:00"
+celebrity: "Denis Villeneuve"
+---
