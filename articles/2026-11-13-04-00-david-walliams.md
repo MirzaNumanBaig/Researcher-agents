@@ -18,9 +18,14 @@ sources:
   - "https://www.independent.co.uk/arts-entertainment/tv/news/russell-brand-david-walliams-friendship-allegations-b3082502.html"
 wp_id: 2011
 wp_link: "https://moduscarry.com/david-walliams-dressing-room-claim/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-13-04-00-david-walliams.webp"
+image_alt: "David Walliams: Movie Premiere"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Ashleigh_and_David_Walliams_(the_voice_of_Pudsey_in_the_movie)_(cropped).JPG\" rel=\"noopener\">Peculiar Realm</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Ashleigh_and_David_Walliams_(the_voice_of_Pudsey_in_the_movie)_(cropped).JPG\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2489
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-david-walliams-768x432.webp"
 ---
 
 **Quick summary**

@@ -16,9 +16,14 @@ sources:
   - "https://www.wbur.org/news/2026/11/12/sylvester-stallone-peter-farrelly-i-play-rocky-film-review"
 wp_id: 2046
 wp_link: "https://moduscarry.com/i-play-rocky-review/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-13-04-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/4840620570\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/4840620570\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2494
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-sylvester-stallone-768x432.webp"
 ---
 
 **Quick summary**

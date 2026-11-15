@@ -17,9 +17,14 @@ sources:
   - "https://www.independent.co.uk/arts-entertainment/books/news/david-walliams-children-books-problematic-themes-b3083723.html"
 wp_id: 2056
 wp_link: "https://moduscarry.com/david-walliams-books-australia/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-13-10-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams, actor, comedian, and writer, at the 2025 Jaipur Literature Festival in Jaipur, India."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival_(cropped).jpg\" rel=\"noopener\">Sriya Sarkar</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2497
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-10-00-david-walliams-768x432.webp"
 ---
 
 **Quick summary**

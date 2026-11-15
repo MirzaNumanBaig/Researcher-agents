@@ -18,9 +18,14 @@ sources:
   - "https://www.imdb.com/news/ni66102458/"
 wp_id: 1986
 wp_link: "https://moduscarry.com/robert-pattinson-twilight-netflix/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-12-20-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Actor Robert Pattinson at the 75th Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2484
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-20-00-robert-pattinson-768x432.webp"
 ---
 
 **Quick summary**

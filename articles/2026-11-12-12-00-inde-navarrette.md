@@ -18,9 +18,14 @@ sources:
   - "https://deadline.com/video/inde-navarrette-obsession-video-interview/"
 wp_id: 1938
 wp_link: "https://moduscarry.com/inde-navarrette-david-yurman/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-12-12-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03.jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2474
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-12-00-inde-navarrette-768x432.webp"
 ---
 
 **Quick summary**

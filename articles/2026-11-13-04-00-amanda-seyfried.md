@@ -16,9 +16,14 @@ sources:
   - "https://www.usatoday.com/story/entertainment/movies/2026/11/12/amanda-seyfried-elizabeth-holmes-interview/92739145007/"
 wp_id: 2000
 wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything-2/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-13-04-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, actor, at the 2025 Toronto International Film Festival (TIFF) for the movie The Testament of Ann Lee ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._01.jpg\" rel=\"noopener\">Sara Komatsu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._01.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2486
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-amanda-seyfried-768x432.webp"
 ---
 
 **Quick summary**

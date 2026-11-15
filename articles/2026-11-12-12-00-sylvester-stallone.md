@@ -16,9 +16,14 @@ sources:
   - "https://screenrant.com/i-play-rocky-movie-rotten-tomatoes-audience-score-sylvester-stallone-franchise-knockout/"
 wp_id: 1960
 wp_link: "https://moduscarry.com/i-play-rocky-audience-score/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-12-12-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone inside?"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/75062596@N00/462568919\" rel=\"noopener\">Lars Plougmann</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/75062596@N00/462568919\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2480
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-12-00-sylvester-stallone-768x432.webp"
 ---
 
 **Quick summary**
