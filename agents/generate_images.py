@@ -400,6 +400,62 @@ def news_photo(front, tries=4):
     return None
 
 
+def source_photo(front, tries=6):
+    """(webp bytes, alt, credit) from the lead picture (og:image) of the pages the article itself cites, credited to the outlet with a link.
+    Used when nothing else gave a picture, so a post never has to stay without one. No face check (the owner chose this: every post gets its reference image);
+    at least 400 px wide. Same rules as news_photo: credited, never claimed as free, removed when its owner asks."""
+    if not (json.loads((ROOT / "config.json").read_text()).get("image_pipeline") or {}).get("credited_news_images"):
+        return None
+    try:
+        from PIL import Image
+        import html as _h
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import fetch_images as fi
+        try:
+            ban = set(json.loads((ROOT / "data" / "photo_blocklist.json").read_text()).get("files", []))
+        except (OSError, ValueError):
+            ban = set()
+        block = re.search(r"^sources:\s*\n((?:[ \t]+-.*\n?)+)", front + "\n", re.M)
+        pages = re.findall(r'https?://[^\s"\']+', block.group(1)) if block else []
+        pages = list(dict.fromkeys(pages + [c[2] for c in news_candidates(front)]))
+        if len(pages) < 3:  # the brief's own outlet links (Google News links are resolved to the publisher page)
+            slug = lambda t: re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")  # noqa: E731
+            try:
+                brief = json.loads((ROOT / "briefs" / slug(field(front, "batch")) / f"{slug(field(front, 'celebrity'))}.json").read_text())
+                for st in brief.get("stories", []):
+                    for o in st.get("outlets") or []:
+                        u = o.get("article_url") or o.get("url") or ""
+                        if u.startswith("http"):
+                            try:
+                                pages.append(fi.fs.resolve(u))
+                            except Exception:
+                                pages.append(u)
+            except (OSError, ValueError):
+                pass
+            pages = list(dict.fromkeys(pages))
+        for page in pages[:tries]:
+            if page in ban:
+                continue
+            try:
+                html_, final = fi.fetch_head(page)
+                img_url = fi.page_image(html_, final)
+                if not img_url or img_url in ban or re.search(r"gstatic|googleusercontent|google\.com|logo|favicon|avatar|placeholder", img_url, re.I):
+                    continue
+                req = urllib.request.Request(img_url, headers={"User-Agent": "Mozilla/5.0 (ModusCarry image fetch)", "Referer": final})
+                with urllib.request.urlopen(req, timeout=40) as r:
+                    img = Image.open(io.BytesIO(r.read())).convert("RGB")
+            except Exception:
+                continue
+            if img.width < 400 or img.height < 225:
+                continue
+            outlet = urllib.parse.urlparse(final).netloc.removeprefix("www.")
+            credit = f'Image: <a href="{_h.escape(final)}" rel="nofollow noopener">{_h.escape(outlet)}</a> (cropped)'
+            return compose(img), f"{field(front, 'celebrity')}: {field(front, 'title')}"[:200], credit
+    except Exception as e:
+        print(f"source photo unavailable for {field(front, 'celebrity')} ({e})", file=sys.stderr)
+    return None
+
+
 def real_photo(front):
     """(webp bytes, alt, credit) from data/character-sheet.json (newest free-licence Commons photo of the article's celebrity), else None.
     Portrait photos are centred on a blurred copy of themselves so the face is never cropped. Needs image_pipeline.real_photos true."""
@@ -467,7 +523,7 @@ def main():
                     and f.stem in field(front, "wp_image") and now - datetime.strptime(f.stem[:16], "%Y-%m-%d-%H-%M").replace(tzinfo=timezone.utc) <= timedelta(days=REDO_DAYS))
         if (field(front, "wp_media_id") and not redo) or have or (not redo and not wants_image(field(front, "status"), f.stem, "--include-pending" in sys.argv, now)):
             continue
-        rp = licensed_photo(front) or real_photo(front) or (None if redo else news_photo(front))  # licensed press image, then a free-licence photo, then (if allowed) a credited news picture
+        rp = licensed_photo(front) or real_photo(front) or (None if redo else (news_photo(front) or source_photo(front)))  # licensed press image, then a free-licence photo, then (if allowed) a credited news picture
         if redo and not rp:
             continue
         if rp:  # a real, free-licence photo of the person beats any AI picture; no Cloudflare neurons used
