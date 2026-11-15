@@ -17,7 +17,7 @@ sources:
   - "https://www.imdb.com/news/ni66111751/?ref_=nmnw_art_perm"
 wp_id: 2283
 wp_link: "https://moduscarry.com/inde-navarrette-matt-damon-comedy/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 ---
 

@@ -19,7 +19,7 @@ sources:
   - "https://graziamagazine.com/us/articles/goodbye-ballet-flats-scarlett-johansson-41-is-wearing-the-adidas-mary-jane-sneakers-with-wide-leg-trousers-25497/"
 wp_id: 2184
 wp_link: "https://moduscarry.com/paper-tiger-review-scarlett-johansson/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

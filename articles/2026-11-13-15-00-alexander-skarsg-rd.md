@@ -16,7 +16,7 @@ sources:
   - "https://collider.com/alexander-skarsgard-wicker-box-office-30-million/"
 wp_id: 2089
 wp_link: "https://moduscarry.com/wicker-box-office-skarsgard/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

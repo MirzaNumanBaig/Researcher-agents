@@ -16,7 +16,7 @@ sources:
   - "https://www.ynetnews.com/culture/article/hjwjdbecgg"
 wp_id: 2136
 wp_link: "https://moduscarry.com/sylvester-stallone-at-80/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

@@ -17,7 +17,7 @@ sources:
   - "https://www.yahoo.com/entertainment/movies/articles/amanda-seyfried-elizabeth-holmes-role-030057257.html"
 wp_id: 2278
 wp_link: "https://moduscarry.com/amanda-seyfried-snl/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 ---
 

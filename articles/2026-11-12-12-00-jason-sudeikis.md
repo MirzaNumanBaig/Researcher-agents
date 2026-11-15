@@ -16,7 +16,7 @@ sources:
   - "https://www.tmz.com/2026/11/11/jason-sudeikis-olivia-wilde-nanny-arbitration-results/"
 wp_id: 1939
 wp_link: "https://moduscarry.com/jason-sudeikis-nanny-arbitration/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

@@ -17,7 +17,7 @@ sources:
   - "https://www.thewrap.com/creative-content/movies/ray-gunn-cast-revealed-sam-rockwell-scarlett-johansson/"
 wp_id: 2274
 wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-netflix/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

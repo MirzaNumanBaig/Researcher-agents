@@ -17,7 +17,7 @@ sources:
   - "https://www.cinemaexpress.com/tamil/news/2026/Nov/11/jithu-madhavan-i-was-scared-when-key-detail-about-scene-got-leaked-before-release"
 wp_id: 1875
 wp_link: "https://moduscarry.com/jithu-madhavan-scene-leak/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

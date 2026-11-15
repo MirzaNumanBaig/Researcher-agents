@@ -18,7 +18,7 @@ sources:
   - "https://collider.com/alexander-skarsgard-thriller-straw-dogs-streaming-free-tubi-november-2026/"
 wp_id: 2277
 wp_link: "https://moduscarry.com/alexander-skarsgard-wicker-suit-sequel/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 ---
 

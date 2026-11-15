@@ -16,7 +16,7 @@ sources:
   - "https://www.usatoday.com/story/entertainment/movies/2026/11/12/amanda-seyfried-elizabeth-holmes-interview/92739145007/"
 wp_id: 2000
 wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything-2/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

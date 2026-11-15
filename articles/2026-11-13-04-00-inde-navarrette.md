@@ -16,7 +16,7 @@ sources:
   - "https://www.michigandaily.com/arts/tv/saturday-night-rewind-inde-navarrette-is-deservingly-a-rising-star/"
 wp_id: 2016
 wp_link: "https://moduscarry.com/inde-navarrette-snl-halloween/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

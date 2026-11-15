@@ -17,7 +17,7 @@ sources:
   - "https://www.usatoday.com/story/entertainment/movies/2026/11/11/scarlett-johansson-adam-driver-paper-tiger-interview/92690923007/"
 wp_id: 1959
 wp_link: "https://moduscarry.com/scarlett-johansson-studio-offers/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

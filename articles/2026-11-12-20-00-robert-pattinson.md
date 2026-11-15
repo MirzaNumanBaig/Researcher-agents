@@ -18,7 +18,7 @@ sources:
   - "https://www.imdb.com/news/ni66102458/"
 wp_id: 1986
 wp_link: "https://moduscarry.com/robert-pattinson-twilight-netflix/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

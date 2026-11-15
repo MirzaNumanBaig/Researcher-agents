@@ -16,7 +16,7 @@ sources:
   - "https://screenrant.com/i-play-rocky-movie-rotten-tomatoes-audience-score-sylvester-stallone-franchise-knockout/"
 wp_id: 1960
 wp_link: "https://moduscarry.com/i-play-rocky-audience-score/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

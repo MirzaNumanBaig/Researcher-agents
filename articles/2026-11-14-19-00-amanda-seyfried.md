@@ -17,7 +17,7 @@ sources:
   - "https://ca.style.yahoo.com/amanda-seyfried-low-expectations-why-040000410.html"
 wp_id: 2217
 wp_link: "https://moduscarry.com/amanda-seyfried-tiffany-holiday-campaign/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

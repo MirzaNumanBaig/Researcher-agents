@@ -17,7 +17,7 @@ sources:
   - "https://www.kmbc.com/article/jason-sudeikis-thundergong-benefit-2026/74424062"
 wp_id: 2158
 wp_link: "https://moduscarry.com/jason-sudeikis-thundergong-2026/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

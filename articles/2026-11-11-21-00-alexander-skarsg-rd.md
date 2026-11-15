@@ -18,7 +18,7 @@ sources:
   - "https://www.admiddleeast.com/story/thanks-to-alexander-skarsgard-wicker-is-having-a-moment"
 wp_id: 1870
 wp_link: "https://moduscarry.com/alexander-skarsgard-wicker/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

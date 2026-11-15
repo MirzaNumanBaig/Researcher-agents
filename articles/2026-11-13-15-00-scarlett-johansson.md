@@ -18,7 +18,7 @@ sources:
   - "https://www.imdb.com/news/ni66108637/"
 wp_id: 2107
 wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-noir-trailer/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

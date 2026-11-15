@@ -18,7 +18,7 @@ sources:
   - "https://www.nytimes.com/2026/10/31/magazine/martin-mcdonagh-interview.html"
 wp_id: 2260
 wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine-interviews/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

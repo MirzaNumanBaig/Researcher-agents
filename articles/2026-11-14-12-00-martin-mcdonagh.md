@@ -17,7 +17,7 @@ sources:
   - "https://www.dailyactor.com/interview/casting-director-sarah-finn-wild-horse-nine/"
 wp_id: 2201
 wp_link: "https://moduscarry.com/martin-mcdonagh-sam-rockwell-praise/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

@@ -16,7 +16,7 @@ sources:
   - "https://www.femalefirst.co.uk/celebrity/keira-knightley-loves-playing-complicated-characters-1453685.html"
 wp_id: 2219
 wp_link: "https://moduscarry.com/keira-knightley-black-doves-complicated-characters/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

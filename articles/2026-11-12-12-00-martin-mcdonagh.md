@@ -16,7 +16,7 @@ sources:
   - "https://www.goldderby.com/film/2026/sam-rockwell-oscar-wild-horse-nine-supporting-actor-director-history/"
 wp_id: 2108
 wp_link: "https://moduscarry.com/sam-rockwell-oscar-wild-horse-nine-2/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

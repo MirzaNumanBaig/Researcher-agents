@@ -19,7 +19,7 @@ sources:
   - "https://www.thebookseller.com/comment/the-fall-of-walliams-is-a-moment-to-consider-everything"
 wp_id: 2244
 wp_link: "https://moduscarry.com/david-walliams-allegations-osman-beaumont/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

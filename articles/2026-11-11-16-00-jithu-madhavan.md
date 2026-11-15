@@ -21,7 +21,7 @@ sources:
   - "https://www.highonfilms.com/scene-2026-movie-review/"
 wp_id: 1843
 wp_link: "https://moduscarry.com/jithu-madhavan-scene/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

@@ -18,7 +18,7 @@ sources:
   - "https://deadline.com/video/inde-navarrette-obsession-video-interview/"
 wp_id: 1938
 wp_link: "https://moduscarry.com/inde-navarrette-david-yurman/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

@@ -16,7 +16,7 @@ sources:
   - "https://www.mundoamerica.com/entertainment/2026/11/11/6af43cbce85ece74488b4588.html"
 wp_id: 1878
 wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine-interview/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

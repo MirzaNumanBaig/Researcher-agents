@@ -16,7 +16,7 @@ sources:
   - "https://www.iftn.ie/index.php/Scripts/filmography/digital/news/?act1=record&only=1&aid=73&rid=4297316&tpl=archnews&force=1"
 wp_id: 2066
 wp_link: "https://moduscarry.com/wild-horse-nine-cast-plot/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

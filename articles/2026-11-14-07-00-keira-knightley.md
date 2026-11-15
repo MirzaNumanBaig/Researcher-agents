@@ -17,7 +17,7 @@ sources:
   - "https://startefacts.com/news/pirates-of-the-caribbean-did-something-to-keira-knightley-that-took-years-to-undo"
 wp_id: 2164
 wp_link: "https://moduscarry.com/black-doves-netflix-number-one/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

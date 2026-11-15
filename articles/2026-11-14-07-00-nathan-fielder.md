@@ -16,7 +16,7 @@ sources:
   - "https://www.the-independent.com/arts-entertainment/tv/news/billy-evans-you-can-see-everything-elizabeth-holmes-b3084765.html"
 wp_id: 2173
 wp_link: "https://moduscarry.com/nathan-fielder-documentary-billy-evans/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

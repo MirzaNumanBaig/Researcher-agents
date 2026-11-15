@@ -16,7 +16,7 @@ sources:
   - "https://awardsbuzz.com/interview-brad-bird-and-scarlett-johansson-on-sparking-a-creative-partnership-with-netflixs-ray-gunn/"
 wp_id: 2211
 wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-brad-bird/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

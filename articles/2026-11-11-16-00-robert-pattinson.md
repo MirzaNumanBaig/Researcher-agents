@@ -21,7 +21,7 @@ sources:
   - "https://theankler.com/robert-pattinson-is-my-oscar-frontrunner/"
 wp_id: 1857
 wp_link: "https://moduscarry.com/robert-pattinson-james-bond/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

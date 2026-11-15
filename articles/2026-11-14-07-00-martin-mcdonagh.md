@@ -17,7 +17,7 @@ sources:
   - "https://www.hollywoodreporter.com/movies/movie-features/martin-mcdonagh-interview-making-wild-horse-9-1236753454/"
 wp_id: 2167
 wp_link: "https://moduscarry.com/wild-horse-nine-cinematography/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

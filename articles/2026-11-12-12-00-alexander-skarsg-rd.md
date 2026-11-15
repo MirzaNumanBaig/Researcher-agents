@@ -17,7 +17,7 @@ sources:
   - "https://www.queerty.com/alexander-skarsgard-gets-smutty-alanis-morissette-comes-out-all-the-best-lgbtq-releases-this-week-20261111/"
 wp_id: 1923
 wp_link: "https://moduscarry.com/alexander-skarsgard-quinn-felled/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

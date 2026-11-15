@@ -18,7 +18,7 @@ sources:
   - "https://www.independent.co.uk/arts-entertainment/tv/news/russell-brand-david-walliams-friendship-allegations-b3082502.html"
 wp_id: 2011
 wp_link: "https://moduscarry.com/david-walliams-dressing-room-claim/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

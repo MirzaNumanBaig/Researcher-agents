@@ -16,7 +16,7 @@ sources:
   - "https://news.kalshi.com/p/james-bond-casting-odds-robert-pattinson-callum-turner-now-neck-and-neck"
 wp_id: 2032
 wp_link: "https://moduscarry.com/robert-pattinson-james-bond-odds/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

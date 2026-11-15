@@ -16,7 +16,7 @@ sources:
   - "https://www.thebureauinvestigates.com/stories/2026-11-13/russell-brand-and-david-walliams-silenced-women-with-legal-threats-its-time-these-were-outlawed"
 wp_id: 2109
 wp_link: "https://moduscarry.com/david-walliams-legal-threats/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

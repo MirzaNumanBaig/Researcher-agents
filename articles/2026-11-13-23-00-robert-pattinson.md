@@ -16,7 +16,7 @@ sources:
   - "https://www.bosshunting.com.au/entertainment/movies/robert-pattinson-the-take-netflix"
 wp_id: 2130
 wp_link: "https://moduscarry.com/robert-pattinson-the-take-netflix/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

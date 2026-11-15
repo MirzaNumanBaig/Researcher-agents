@@ -18,7 +18,7 @@ sources:
   - "https://www.cbr.com/tulsa-king-season-4-supporting-characters-greater-roles/"
 wp_id: 1862
 wp_link: "https://moduscarry.com/i-play-rocky-oscars/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

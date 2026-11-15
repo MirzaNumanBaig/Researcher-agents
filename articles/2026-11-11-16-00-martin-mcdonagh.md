@@ -21,7 +21,7 @@ sources:
   - "https://headstuff.org/entertainment/film/if-nothing-else-wild-horse-nine-is-undeniably-a-mcdonagh-production-film-review/"
 wp_id: 1850
 wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

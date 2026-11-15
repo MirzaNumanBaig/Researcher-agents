@@ -17,7 +17,7 @@ sources:
   - "https://sg.news.yahoo.com/alexander-skarsg-rd-glistens-liquid-191312831.html"
 wp_id: 2239
 wp_link: "https://moduscarry.com/alexander-skarsgard-hamilton-awards/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

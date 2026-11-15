@@ -16,7 +16,7 @@ sources:
   - "https://www.wbur.org/news/2026/11/12/sylvester-stallone-peter-farrelly-i-play-rocky-film-review"
 wp_id: 2046
 wp_link: "https://moduscarry.com/i-play-rocky-review/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

@@ -18,7 +18,7 @@ sources:
   - "https://www.laineygossip.com/why-pucks-matt-belloni-has-all-but-crowned-robert-pattinson-the-new-james-bond/"
 wp_id: 2267
 wp_link: "https://moduscarry.com/robert-pattinson-james-bond-front-runner/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

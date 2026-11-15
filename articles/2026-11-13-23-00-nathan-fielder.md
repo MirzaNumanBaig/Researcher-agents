@@ -16,7 +16,7 @@ sources:
   - "https://mashable.com/entertainment/you-can-see-everything-a24-nasa-iss-screening"
 wp_id: 2125
 wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-space-station/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

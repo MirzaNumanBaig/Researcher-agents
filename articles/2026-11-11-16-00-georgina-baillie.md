@@ -19,7 +19,7 @@ sources:
   - "https://thenational.co.za/culture/2026-11-09-inside-russell-brand-s-sentencing-prayer-beads-celebrity-privilege-and-a-10-5-year-prison-term/"
 wp_id: 1839
 wp_link: "https://moduscarry.com/georgina-baillie-statement-russell-brand/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

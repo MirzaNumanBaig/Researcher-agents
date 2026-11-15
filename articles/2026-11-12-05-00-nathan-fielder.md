@@ -16,7 +16,7 @@ sources:
   - "https://variety.com/2026/film/news/amanda-seyfried-slams-billy-evans-you-can-see-everything-filming-1236945046/"
 wp_id: 1907
 wp_link: "https://moduscarry.com/nathan-fielder-documentary-amanda-seyfried/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

@@ -17,7 +17,7 @@ sources:
   - "https://www.highsnobiety.com/p/new-balance-nathan-fielder-992-new/"
 wp_id: 2070
 wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-2/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

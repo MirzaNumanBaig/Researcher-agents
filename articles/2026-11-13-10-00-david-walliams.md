@@ -17,7 +17,7 @@ sources:
   - "https://www.independent.co.uk/arts-entertainment/books/news/david-walliams-children-books-problematic-themes-b3083723.html"
 wp_id: 2056
 wp_link: "https://moduscarry.com/david-walliams-books-australia/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

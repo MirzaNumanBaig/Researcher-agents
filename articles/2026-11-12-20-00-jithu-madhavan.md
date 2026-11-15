@@ -17,7 +17,7 @@ sources:
   - "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/scene-director-jithu-madhavan-clarifies-aavesham-2-rumours-reveals-only-romancham-2-is-confirmed-else-is-speculation/articleshow/135761343.cms"
 wp_id: 1979
 wp_link: "https://moduscarry.com/jithu-madhavan-next-film/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

@@ -17,7 +17,7 @@ sources:
   - "https://www.digitalspy.com/movies/a74385010/zendaya-robert-pattinson-the-drama-prime-video/"
 wp_id: 1882
 wp_link: "https://moduscarry.com/robert-pattinson-james-bond-drama/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

@@ -20,7 +20,7 @@ sources:
   - "https://collider.com/taylor-sheridan-tulsa-king-andrew-garfield-casting-hopes-sylvester-stallone/"
 wp_id: 2187
 wp_link: "https://moduscarry.com/i-play-rocky-true-story/"
-wp_synced: publish
+wp_synced: pending
 seo_synced: 1
 embed_checked: 1
 ---

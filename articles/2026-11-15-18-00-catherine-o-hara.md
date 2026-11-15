@@ -23,6 +23,7 @@ wp_id: 2280
 wp_link: "https://moduscarry.com/catherine-ohara-parker-posey-tribute/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
