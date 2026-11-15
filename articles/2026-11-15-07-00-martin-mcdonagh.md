@@ -20,6 +20,7 @@ wp_id: 2260
 wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine-interviews/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

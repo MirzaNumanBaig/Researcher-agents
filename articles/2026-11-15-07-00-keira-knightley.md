@@ -24,6 +24,7 @@ wp_id: 2259
 wp_link: "https://moduscarry.com/keira-knightley-green-dress-christies/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
