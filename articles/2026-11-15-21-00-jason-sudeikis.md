@@ -24,6 +24,7 @@ wp_id: 2559
 wp_link: "https://moduscarry.com/jason-sudeikis-angry-birds-movie-3/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
