@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SHOWN = ["Australia", "UK", "Norway", "Denmark", "Canada"]  # the audience; everyone else is "USA" or "Other"
 CITIZEN = {  # Wikidata country id -> our label
     "Q408": "Australia", "Q145": "UK", "Q21": "UK", "Q22": "UK", "Q25": "UK", "Q26": "UK", "Q174193": "UK",
-    "Q20": "Norway", "Q35": "Denmark", "Q16": "Canada", "Q30": "USA",
+    "Q20": "Norway", "Q35": "Denmark", "Q756617": "Denmark", "Q16": "Canada", "Q30": "USA",
 }
 RANK = {c: i for i, c in enumerate(SHOWN + ["USA"])}
 
@@ -214,7 +214,8 @@ def find(country, top=8, exclude=(), today=None):
         have = {r["name"] for r in rows}
         rows += [r for r in hot_nordic(country, top * 2, list(exclude) + list(have), today) if r["name"] not in have]
     real = countries_of([r["qid"] for r in rows])
-    rows = [r for r in rows if real.get(r["qid"]) == country]
+    gone = {e.lower() for e in exclude}
+    rows = [r for r in rows if real.get(r["qid"], country) == country and r["name"].lower() not in gone]
     rows.sort(key=lambda r: -r["views_30d"])
     return rows[:top]
 
