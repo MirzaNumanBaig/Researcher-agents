@@ -18079,6 +18079,22 @@
    "turns": 9,
    "seconds": 14,
    "cost_usd": 0.1375
+  },
+  {
+   "date": "2026-11-15",
+   "time": "2026-11-15T12:51:19+00:00",
+   "batch": "2026-11-15 18:00",
+   "celebrity": "Brigitte Nielsen",
+   "article": "2026-11-15-18-00-brigitte-nielsen.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 969,
+   "cache_read_tokens": 79194,
+   "cache_write_tokens": 21966,
+   "turns": 6,
+   "seconds": 8,
+   "cost_usd": 0.1056
   }
  ]
 }
