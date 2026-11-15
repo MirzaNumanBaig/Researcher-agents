@@ -18175,6 +18175,22 @@
    "turns": 7,
    "seconds": 12,
    "cost_usd": 0.1007
+  },
+  {
+   "date": "2026-11-15",
+   "time": "2026-11-15T13:03:10+00:00",
+   "batch": "2026-11-12 12:00",
+   "celebrity": "Joseph Zada",
+   "article": "2026-11-12-12-00-joseph-zada.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3574,
+   "cache_read_tokens": 124360,
+   "cache_write_tokens": 29110,
+   "turns": 7,
+   "seconds": 24,
+   "cost_usd": 0.1648
   }
  ]
 }
