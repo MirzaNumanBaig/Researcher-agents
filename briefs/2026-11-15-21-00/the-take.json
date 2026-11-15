@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-15 21:00",
+  "celebrity": "The Take",
+  "stories": [
+    {
+      "title": "Denzel Washington, Robert Pattinson Link Up 'The Take': What We Know So Far",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelRiWXJpQlFjOE9sa2tZTXRCNXpieXR3WVU0Mzg2NWV4YnRtdmpUNkdBZFRXMEVFMnZtRTlsNmwyVFBDRXlXRW9oOTJwdlNLOVhqVUExUVZoaHA2ZjVuN0VETTZ2bFFkdzYxdEh2WGlpRW94VWE5SFJ1S1pjNUF3cVdzQ2Q2R2RwakE5eXpsLXB2TmRBbmF6VU1XbTBPbjRYR2g3Z3ZLX3Utdw?oc=5",
+      "published": "2026-11-14T19:33:56+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelRiWXJpQlFjOE9sa2tZTXRCNXpieXR3WVU0Mzg2NWV4YnRtdmpUNkdBZFRXMEVFMnZtRTlsNmwyVFBDRXlXRW9oOTJwdlNLOVhqVUExUVZoaHA2ZjVuN0VETTZ2bFFkdzYxdEh2WGlpRW94VWE5SFJ1S1pjNUF3cVdzQ2Q2R2RwakE5eXpsLXB2TmRBbmF6VU1XbTBPbjRYR2g3Z3ZLX3Utdw?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    }
+  ]
+}

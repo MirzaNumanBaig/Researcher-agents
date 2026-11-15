@@ -58,6 +58,58 @@
       ],
       "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-05-Nov-2026-08-36-PM-5329.jpg",
       "image_source": "https://variety.com/2026/film/festivals/golshifteh-farahani-renate-reinsve-torino-female-talent-1236940760/"
+    },
+    {
+      "title": "Golshifteh Farahani, Renate Reinsve and Alicia Vikander Lead Torino’s Female Talent Charge",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XT0c1MXFBdGZUaE5yZ2F1Z3RiUzVqdVVzSTY2b3BwUlJodFpPM2NhRUtlWWpWVEFpaHB4M2luVXhLZDg0UndCaUNOb29wV0FoVzJEb1N3?oc=5",
+      "published": "2026-11-15T05:05:51+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XT0c1MXFBdGZUaE5yZ2F1Z3RiUzVqdVVzSTY2b3BwUlJodFpPM2NhRUtlWWpWVEFpaHB4M2luVXhLZDg0UndCaUNOb29wV0FoVzJEb1N3?oc=5",
+          "article_url": "https://www.imdb.com/es-es/news/ni66098225/",
+          "image": ""
+        },
+        {
+          "source": "variety.com",
+          "url": "https://variety.com/2026/film/festivals/golshifteh-farahani-renate-reinsve-torino-female-talent-1236940760/",
+          "article_url": "",
+          "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-05-Nov-2026-08-36-PM-5329.jpg"
+        },
+        {
+          "source": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDM2UDRvcHRMenhua2phVnZTeEJJMzg5QU5FS1FRZ1JSOXBFMG43dE1OclBWYTNhZy02dnR3UWZTSjVkRDUwZ1Z4azJIbzhoM3BCVnAyOFlpd05fRDV4VXBxRmo2czI3Z3l1WWZaWks3cFFzT0NZQnZ1VWJPV1RZMzZZSkVHdWFnWm5qeTNQNW16c1BvbkY4SGRJRkRDMm0tX1hJTGdLVGtoOTQ?oc=5",
+          "article_url": "https://variety.com/2026/film/festivals/golshifteh-farahani-renate-reinsve-torino-female-talent-1236940760/",
+          "image": ""
+        }
+      ],
+      "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-05-Nov-2026-08-36-PM-5329.jpg",
+      "image_source": "https://variety.com/2026/film/festivals/golshifteh-farahani-renate-reinsve-torino-female-talent-1236940760/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Butterfly",
+      "release": "2026-09-25",
+      "director": [
+        "Itonje Søimer Guttormsen"
+      ],
+      "cast": [
+        "Renate Reinsve",
+        "Numan Acar"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141559767"
+      }
     }
   ]
 }
