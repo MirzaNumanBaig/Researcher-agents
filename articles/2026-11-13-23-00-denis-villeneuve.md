@@ -23,6 +23,7 @@ wp_id: 2581
 wp_link: "https://moduscarry.com/blade-runner-2049-free-pluto-tv/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

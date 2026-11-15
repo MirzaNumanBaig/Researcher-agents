@@ -24,6 +24,7 @@ wp_id: 2579
 wp_link: "https://moduscarry.com/nathan-fielder-elizabeth-holmes-lie/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
