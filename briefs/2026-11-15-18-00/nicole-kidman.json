@@ -10,12 +10,12 @@
         {
           "source": "Women.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3RDRjBxQmMtWFk1NzdRdWpWOXMwR3gzbVdoMTVFWW1yVmEzWGhNTDl3LXI4U19aUGU0YktIbTVqeExFcXhuTVRUNDhYRzlHNjhBNi1QSjRzMXF6RnNMN0ZUTHBmUUxjVFp3TFhXcy0zZUJXVFhsNzhpUm16QWRfdFZEYjdTcWdhaDgtcFhoU1d0NGEyOVJlU0tMS2czZw?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.women.com/2316462/nicole-kidman-medium-length-manicures-perfect-nail-inspo-fall-2026/",
+          "image": "https://www.women.com/img/gallery/nicole-kidman-manicures-you-can-copy-right-now-for-trendy-medium-length-fall-nails/l-intro-1794599317.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://www.women.com/img/gallery/nicole-kidman-manicures-you-can-copy-right-now-for-trendy-medium-length-fall-nails/l-intro-1794599317.jpg",
+      "image_source": "https://www.women.com/2316462/nicole-kidman-medium-length-manicures-perfect-nail-inspo-fall-2026/"
     },
     {
       "title": "Celebrity Homes: Will Nicole Kidman be parking her car in her US$10-million penthouse?",
@@ -31,6 +31,35 @@
       ],
       "image": "",
       "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
     }
   ]
 }

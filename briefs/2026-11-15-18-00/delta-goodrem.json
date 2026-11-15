@@ -55,12 +55,12 @@
         {
           "source": "Daily Mail",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORHlyelZEeE1aMUlXdnJpTEhXdlBaNlFOTndYVmFEVmFjVENrYTU2MThqcTI1RDl2OTJuMjVGMDNtY2hQb1VHWGZNSUR2R2VZSVZBT0dIN2R3UmdLYi0xY2VWRmRRdmU5LWpaREh3WENSX09reWtKSjNfVUFPbXd0cEJhUWx2U0t4TjdPYmwxNHZfbDBOcEtoaVJDR1VOQzYzOWc2eXlueHA3MEluUm5scVZTU1NWZy1mZGhLaWlPV0V6c0UyYU95ZXlzSXNSa0x5MHpsVWpBV3BrUUhtOW56dU1KSkpQSGPSAewBQVVfeXFMTmgxZFJTRmhxSGpLVi1kMVhDNUcwUWV2Vl9fRm5FTXdSMS15X1hjNWtwYW14cGJSU3NNdDlrMmRKcXAyaFVVR0NnWDlVcjYzVVAyeHJuNndvNktQR0VEdHJUbkpRblJPXzA0UGRVa0NyS29BWXlQY0tDUGFzazVxdmtpQ2VlNWtrZGdKZDdaZzZvamlKcWN5eXQ3WmpFY1l5VzB4YUVRUjRWcWUzOUZaTW5RbzZUaXFWb3E4ZEV4RkRpdzNkdjd5SXhuUW40RDdaT3BkX1YwelhpS21nWGpWZXpCVThJcUF1bnFkNVM?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.dailymail.com/tvshowbiz/article-16292887/Strictly-hosts-Aljaz-Skorjanec-stepping-Kai-Widdrington-illness-welcome-injured-Jaime-Winstone.html",
+          "image": "https://i.dailymail.com/1s/2026/11/14/18/112509183-0-image-m-44_1794682640525.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://i.dailymail.com/1s/2026/11/14/18/112509183-0-image-m-44_1794682640525.jpg",
+      "image_source": "https://www.dailymail.com/tvshowbiz/article-16292887/Strictly-hosts-Aljaz-Skorjanec-stepping-Kai-Widdrington-illness-welcome-injured-Jaime-Winstone.html"
     },
     {
       "title": "Delta Goodrem 'set for early Strictly exit' after second heartbreaking setback",
@@ -70,12 +70,18 @@
         {
           "source": "Daily Star",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sUXZUT1ZvSFFoRVhSTXZLdmZGREJ0TnZIak50TEllLV9xbmd0WjlibXFnZ0NzVTIwbHNKR3NaMVV2MHhuM0NLRENGTWxRdDd5RFZuSmVDelBCa3B6ZzdIcWhKR25qbHFUUGVmX2xGeVcwck5oeGRlUU1xZVc?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.dailystar.co.uk/tv/delta-goodrem-set-early-strictly-37877975",
+          "image": "https://i2-prod.dailystar.co.uk/article37877974.ece/ALTERNATES/s1200d/1_579726.jpg"
+        },
+        {
+          "source": "Daily Record",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92SHozN2E0MllLbmthR2pqdnNZTHpzNzBhNW0ySWVjbG9NNlctVmMxa2Y0QXZpekZKMzkyS2hBZEkzWnZJbjVteUxiQjBGdEl5WksyVnFoN1hJN2lpNllFYk9xMXVHTHc4YlBCQndEbno2RjRISUNxUjNGVVlSeWM?oc=5",
+          "article_url": "https://www.dailyrecord.co.uk/tv/delta-goodrem-set-early-strictly-37877975",
+          "image": "https://i2-prod.dailystar.co.uk/tv/article37877974.ece/ALTERNATES/s1200/1_579726.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://i2-prod.dailystar.co.uk/article37877974.ece/ALTERNATES/s1200d/1_579726.jpg",
+      "image_source": "https://www.dailystar.co.uk/tv/delta-goodrem-set-early-strictly-37877975"
     }
   ]
 }

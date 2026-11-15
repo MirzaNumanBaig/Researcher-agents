@@ -10,12 +10,12 @@
         {
           "source": "AOL.com",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PQkUxckcydkJrRHhvWTdIQ2NkSEs5dTFGUHB5VWlkNTBIc2FiM3FOZUdBbU9JRXhRanU0UzdxTXJMQ09iX0RnSFlSM0dZY0xjTGJ0bEFmQTJiQ3czdDh2VzlKQUtZektOQ3ZmTU52a1NTTzBEOWNzTQ?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://www.aol.com/articles/did-know-nicolas-cage-jim-181800000.html",
+          "image": "https://hermes.media.static.aol.com/media/2026/11/14/f87f78a1-0200-3f61-9fef-711479f49267/57ef9527-1634-48ea-95bc-4f1ac9dd6f95.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://hermes.media.static.aol.com/media/2026/11/14/f87f78a1-0200-3f61-9fef-711479f49267/57ef9527-1634-48ea-95bc-4f1ac9dd6f95.jpg",
+      "image_source": "https://www.aol.com/articles/did-know-nicolas-cage-jim-181800000.html"
     }
   ]
 }
