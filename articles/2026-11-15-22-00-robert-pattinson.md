@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond Buzz After a Hit Year"
 seo_description: "Robert Pattinson James Bond talk grows after a hit-filled year. See what Puck reported, which films earned millions and what opens next."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-hit-year"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 22:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,15 @@ sources:
   - "https://nypost.com/2026/11/14/entertainment/robert-pattinson-a-james-bond-favorite-is-suddenly-the-biggest-star-in-hollywood/"
   - "https://en.wikipedia.org/wiki/Primetime_(film)"
   - "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+image: "images/2026-11-15-22-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2572
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-22-00-robert-pattinson-768x432.webp"
+wp_id: 2573
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-hit-year/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
