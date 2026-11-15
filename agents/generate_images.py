@@ -46,7 +46,7 @@ FALLBACK = {  # used only when the writer gave no image_prompt; scenes, never pe
 # and the result is cover-cropped to the exact size, so the picture is never stretched.
 OUT_W, OUT_H = int(os.environ.get("OUT_WIDTH", "1600")), int(os.environ.get("OUT_HEIGHT", "900"))
 WEBP_QUALITY = int(os.environ.get("WEBP_QUALITY", "82"))
-RETRY_HOURS = 48
+RETRY_HOURS = 168  # sent posts without a picture keep getting one for a week (a post with no image is held back from the site)
 REDO_DAYS = 30  # how far back posts get the real photo added
 DEFAULT_SCENE = "a red carpet at night with camera flashes and velvet ropes, no people"
 

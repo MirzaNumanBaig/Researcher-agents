@@ -20,7 +20,7 @@ class WantsImage(unittest.TestCase):
 
     def test_sent_retries_recent_but_never_backfills_old(self):
         self.assertTrue(gi.wants_image("sent", "2026-10-26-18-00-x", False, NOW))
-        self.assertFalse(gi.wants_image("sent", "2026-10-23-09-00-x", False, NOW))
+        self.assertFalse(gi.wants_image("sent", "2026-10-15-09-00-x", False, NOW))
         self.assertFalse(gi.wants_image("sent", "garbage", False, NOW))
 
     def test_other_statuses_never(self):

@@ -237,6 +237,11 @@ def featured_image(front):
     return None
 
 
+def has_image(front):
+    """A post may only be live with a featured image: one already in WordPress, or a file ready to upload now."""
+    return bool(field(front, "wp_media_id") or field(front, "wp_image") or featured_image(front))
+
+
 def live_posts(articles):
     """{wp_id: {status, link}} for every sent article, fetched 100 ids per request. Ids WordPress no longer returns are deleted posts.
     Returns None when the lookup failed, so a network or permission problem is never mistaken for 'everything was deleted'."""
@@ -350,6 +355,17 @@ def main():
         except Exception as e:  # a sync problem must not block sending new articles
             print(f"  could not check {f.name} in WordPress: {e}", file=sys.stderr)
         status, want = field(front, "status"), field(front, "wp_status") or "draft"
+        wid = field(front, "wp_id")
+        if status == "sent" and wid.isdigit() and live and field(front, "wp_synced") == "publish" and live.get(int(wid), {}).get("status") == "publish" \
+                and not live[int(wid)].get("featured_media") and not featured_image(front):
+            try:  # a live post without a featured image goes back to review; it is published again when its picture is added
+                wp(f"posts/{wid}", {"status": "pending"})
+                front = set_field(front, "wp_synced", "pending")
+                f.write_text(f"---\n{front}\n---\n\n{body}")
+                print(f"held {f.name}: no featured image, moved from published to pending review")
+                continue
+            except Exception as e:
+                print(f"  could not hold {f.name}: {e}", file=sys.stderr)
         if status == "sent" and field(front, "wp_id") and not field(front, "embed_checked") and backfill_budget > 0 and field(front, "wp_synced") in WP_STATUSES:
             backfill_budget -= 1  # a few per run so a long backlog never slows sending
             try:
@@ -387,6 +403,9 @@ def main():
                 except Exception as e:
                     print(f"  embed lookup failed for {f.name}: {e}", file=sys.stderr)
                 payload = {"title": field(front, "title"), "content": content, "status": want}
+                if want in ("publish", "future") and not has_image(front):
+                    payload["status"] = "pending"  # no picture yet: held for review, published automatically once the image is added
+                    print(f"  {f.name}: no featured image yet, sent as pending instead of {want}")
                 if field(front, "description"):
                     payload["excerpt"] = field(front, "description")
                 if seo_fields(front)[3]:
@@ -415,6 +434,7 @@ def main():
                         payload.pop(k, None)
                     post = wp("posts", payload)
                 front = set_field(front, "status", "sent")
+                want = payload["status"]
             elif status == "sent" and field(front, "wp_id") and featured_image(front):
                 img = featured_image(front)  # a sent article that got its image later (or whose upload failed)
                 media_id, image_url = upload_media(img[0], img[1], field(front, "image_credit") or image_caption())
@@ -423,6 +443,8 @@ def main():
                 if want != field(front, "wp_synced"):
                     post = wp(f"posts/{field(front, 'wp_id')}", {"status": want})
             elif status == "sent" and field(front, "wp_id") and want != field(front, "wp_synced"):
+                if want == "publish" and not has_image(front):
+                    continue  # never go live without a featured image
                 post = wp(f"posts/{field(front, 'wp_id')}", {"status": want})
             else:
                 continue
