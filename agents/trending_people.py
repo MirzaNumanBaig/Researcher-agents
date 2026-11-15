@@ -34,7 +34,7 @@ ROLES = {  # occupation id -> role we show
 }
 FILM_KINDS = "wd:Q11424 wd:Q24869 wd:Q202866"  # film, feature film, animated film
 AUSTRALIA = "Q408"
-NOT_ENTERTAINER = re.compile(r"politician|senator|governor|president|minister|secretary|congress|businessperson|businessman|businesswoman|journalist|footballer|cricketer|athlete", re.I)
+NOT_ENTERTAINER = re.compile(r"politician|senator|governor|president|minister|secretary|congress|businessperson|businessman|businesswoman|journalist|footballer|cricketer|athlete|fighter|martial artist|wrestler|boxer|racing driver|swimmer|golfer", re.I)
 
 
 def days(n):

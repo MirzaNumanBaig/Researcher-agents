@@ -65,7 +65,7 @@ def pick_movies(movies, trend, cfg, n, need_tracked, today):
     return [f for _, f in out[:n]]
 
 
-def run(mode="all", people=8, movies=10, today=None):
+def run(mode="all", people=4, movies=10, today=None):  # people = per country
     today = today or date.today()
     cfg = tracking.load()
     trend = json.loads((tracking.ROOT / "data" / "trending.json").read_text()) if (tracking.ROOT / "data" / "trending.json").exists() else {}
@@ -73,13 +73,19 @@ def run(mode="all", people=8, movies=10, today=None):
     added = cfg.setdefault("added", {})
     log = {"people": [], "movies": [], "dropped": []}
 
-    if mode == "all":
-        for p in pick_people(trend, cfg, people):
-            cfg["celebrities"].append(p["name"])
-            added[p["name"]] = today.isoformat()
-            log["people"].append(p["name"])
-            if len(p["name"].split()) == 1 or p["name"].split()[-1].lower() in {"hall", "cook", "grace", "hardy", "fox", "short"}:
-                cfg.setdefault("headline_full_name_only", []).append(p["name"])
+    if mode == "all":  # people only from the audience countries (Australia, UK, Norway, Denmark, Canada): hot now + a film coming out
+        import countries
+        taken = list(cfg["celebrities"]) + list(cfg.get("blocked", []))
+        for country in countries.SHOWN:
+            for p in countries.find(country, people, taken):
+                cfg["celebrities"].append(p["name"])
+                cfg.setdefault("countries", {})[p["name"]] = country
+                taken.append(p["name"])
+                added[p["name"]] = today.isoformat()
+                log["people"].append(p["name"])
+                if p["name"].split()[-1].lower() in {"hall", "cook", "grace", "hardy", "fox", "short"}:
+                    cfg.setdefault("headline_full_name_only", []).append(p["name"])
+        countries.fill_countries(cfg)  # label anyone still without a country
 
     for f in pick_movies(films, trend, cfg, movies, mode != "all", today):
         cfg.setdefault("movies", []).append(f["title"])
@@ -99,7 +105,7 @@ def run(mode="all", people=8, movies=10, today=None):
         log["dropped"] += keep[:-MAX_MOVIES]
     live = set(cfg["celebrities"]) | set(cfg["movies"])
     cfg["added"] = {k: v for k, v in added.items() if k in live and v >= (today - timedelta(days=30)).isoformat()}
-    if log["people"] or log["movies"] or log["dropped"]:
+    if log["people"] or log["movies"] or log["dropped"] or cfg.get("countries") != tracking.load().get("countries"):
         tracking.save(cfg)
     return log
 
@@ -107,7 +113,7 @@ def run(mode="all", people=8, movies=10, today=None):
 def main(argv=None):
     a = sys.argv[1:] if argv is None else argv
     opt = lambda k, d: a[a.index(k) + 1] if k in a else d  # noqa: E731
-    log = run(opt("--mode", "all"), int(opt("--people", 8)), int(opt("--movies", 10)))
+    log = run(opt("--mode", "all"), int(opt("--people", 4)), int(opt("--movies", 10)))
     print(f"added people: {', '.join(log['people']) or '-'}")
     print(f"added films:  {', '.join(log['movies']) or '-'}")
     print(f"dropped films: {', '.join(log['dropped']) or '-'}")

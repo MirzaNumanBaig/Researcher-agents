@@ -123,6 +123,7 @@ data = {
     "writers": writers(),
     "celebrities": tracking.topics(cfg),          # people + tracked films (a film is followed like a person)
     "movies_tracked": cfg.get("movies", []),
+    "countries": cfg.get("countries", {}),   # name -> Australia / UK / Norway / Denmark / Canada / USA / Other (agents/countries.py)
     "new": [n for n in tracking.topics(cfg) if tracking.is_new(cfg, n)],   # added by Find trending / weekly film step in the last 7 days
     "paused": bool(cfg.get("paused")),
     "updated": datetime.now(timezone.utc).isoformat(),
