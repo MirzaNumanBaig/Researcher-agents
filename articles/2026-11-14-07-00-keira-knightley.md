@@ -17,9 +17,14 @@ sources:
   - "https://startefacts.com/news/pirates-of-the-caribbean-did-something-to-keira-knightley-that-took-years-to-undo"
 wp_id: 2164
 wp_link: "https://moduscarry.com/black-doves-netflix-number-one/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-14-07-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Madame Tussauds London - Keira Knightley"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/36708987@N06/3430590331\" rel=\"noopener\">the12thplaya</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://www.flickr.com/photos/36708987@N06/3430590331\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2466
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-keira-knightley-768x432.webp"
 ---
 
 **Quick summary**

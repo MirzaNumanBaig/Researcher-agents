@@ -18,9 +18,14 @@ sources:
   - "https://www.imdb.com/news/ni66108637/"
 wp_id: 2107
 wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-noir-trailer/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-13-15-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2456
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-15-00-scarlett-johansson-768x432.webp"
 ---
 
 **Quick summary**

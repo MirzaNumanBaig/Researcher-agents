@@ -16,9 +16,14 @@ sources:
   - "https://mashable.com/entertainment/you-can-see-everything-a24-nasa-iss-screening"
 wp_id: 2125
 wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-space-station/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-13-23-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2459
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-23-00-nathan-fielder-768x432.webp"
 ---
 
 **Quick summary**

@@ -19,9 +19,14 @@ sources:
   - "https://graziamagazine.com/us/articles/goodbye-ballet-flats-scarlett-johansson-41-is-wearing-the-adidas-mary-jane-sneakers-with-wide-leg-trousers-25497/"
 wp_id: 2184
 wp_link: "https://moduscarry.com/paper-tiger-review-scarlett-johansson/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-14-07-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-080.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-080.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2472
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-scarlett-johansson-768x432.webp"
 ---
 
 **Quick summary**

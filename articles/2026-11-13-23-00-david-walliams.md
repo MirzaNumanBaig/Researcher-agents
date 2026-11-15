@@ -16,9 +16,14 @@ sources:
   - "https://www.thebureauinvestigates.com/stories/2026-11-13/russell-brand-and-david-walliams-silenced-women-with-legal-threats-its-time-these-were-outlawed"
 wp_id: 2109
 wp_link: "https://moduscarry.com/david-walliams-legal-threats/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-13-23-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_(6745348487).jpg\" rel=\"noopener\">Sean Reynolds from Liverpool, United Kingdom</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_(6745348487).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2457
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-23-00-david-walliams-768x432.webp"
 ---
 
 **Quick summary**

@@ -20,9 +20,14 @@ sources:
   - "https://collider.com/taylor-sheridan-tulsa-king-andrew-garfield-casting-hopes-sylvester-stallone/"
 wp_id: 2187
 wp_link: "https://moduscarry.com/i-play-rocky-true-story/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-14-07-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone & Arnold Schwarzenegger speaking at the 2012 San Diego Comic-Con International in San Diego, California. Please attribute to Gage Skidmore if used elsewhere."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_%26_Arnold_Schwarzenegger_(7588431274).jpg\" rel=\"noopener\">Gage Skidmore from Peoria, AZ, United States of America</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_%26_Arnold_Schwarzenegger_(7588431274).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2473
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-sylvester-stallone-768x432.webp"
 ---
 
 **Quick summary**

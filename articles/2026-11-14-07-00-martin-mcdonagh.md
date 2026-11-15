@@ -17,9 +17,14 @@ sources:
   - "https://www.hollywoodreporter.com/movies/movie-features/martin-mcdonagh-interview-making-wild-horse-9-1236753454/"
 wp_id: 2167
 wp_link: "https://moduscarry.com/wild-horse-nine-cinematography/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-14-07-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Martin McDonagh, director, at 82nd Venice International Film Festival in Venice, Italy for the film Wild Horse Nine."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_(cropped).jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2467
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-martin-mcdonagh-768x432.webp"
 ---
 
 **Quick summary**

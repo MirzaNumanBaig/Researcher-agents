@@ -17,9 +17,14 @@ sources:
   - "https://www.kmbc.com/article/jason-sudeikis-thundergong-benefit-2026/74424062"
 wp_id: 2158
 wp_link: "https://moduscarry.com/jason-sudeikis-thundergong-2026/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-14-07-00-jason-sudeikis.webp"
+image_alt: "Jason Sudeikis: Jason Sudeikis 2011 Shankbone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/27865228@N06/5678011903\" rel=\"noopener\">david_shankbone</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/27865228@N06/5678011903\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2464
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-14-07-00-jason-sudeikis-768x432.webp"
 ---
 
 **Quick summary**
