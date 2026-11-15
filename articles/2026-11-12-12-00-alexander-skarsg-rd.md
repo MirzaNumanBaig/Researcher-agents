@@ -17,9 +17,14 @@ sources:
   - "https://www.queerty.com/alexander-skarsgard-gets-smutty-alanis-morissette-comes-out-all-the-best-lgbtq-releases-this-week-20261111/"
 wp_id: 1923
 wp_link: "https://moduscarry.com/alexander-skarsgard-quinn-felled/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-12-12-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd, actor, and Harry Lighton, director, at the 63rd New York Film Festival for the film Pillion"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_and_Harry_Lighton_at_NYFF_2025.jpg\" rel=\"noopener\">Claire Fridkin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_and_Harry_Lighton_at_NYFF_2025.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2523
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-12-12-00-alexander-skarsg-rd-768x432.webp"
 ---
 
 **Quick summary**

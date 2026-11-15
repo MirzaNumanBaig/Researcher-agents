@@ -21,9 +21,14 @@ sources:
   - "https://theankler.com/robert-pattinson-is-my-oscar-frontrunner/"
 wp_id: 1857
 wp_link: "https://moduscarry.com/robert-pattinson-james-bond/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-11-16-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2501
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-robert-pattinson-768x432.webp"
 ---
 
 **Quick summary**

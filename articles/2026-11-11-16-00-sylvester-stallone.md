@@ -18,9 +18,14 @@ sources:
   - "https://www.cbr.com/tulsa-king-season-4-supporting-characters-greater-roles/"
 wp_id: 1862
 wp_link: "https://moduscarry.com/i-play-rocky-oscars/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-11-16-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588423560\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588423560\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2504
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-sylvester-stallone-768x432.webp"
 ---
 
 **Quick summary**

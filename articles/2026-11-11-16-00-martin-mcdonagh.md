@@ -21,9 +21,14 @@ sources:
   - "https://headstuff.org/entertainment/film/if-nothing-else-wild-horse-nine-is-undeniably-a-mcdonagh-production-film-review/"
 wp_id: 1850
 wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-11-16-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Director Martin McDonagh at the premiere of Seven Psychopaths, Toronto Film Festival 2012"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Seven_Psychopaths_29.jpg\" rel=\"noopener\">GabboT</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Seven_Psychopaths_29.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2500
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-16-00-martin-mcdonagh-768x432.webp"
 ---
 
 **Quick summary**

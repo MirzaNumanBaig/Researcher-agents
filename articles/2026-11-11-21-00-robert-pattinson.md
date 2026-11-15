@@ -17,9 +17,14 @@ sources:
   - "https://www.digitalspy.com/movies/a74385010/zendaya-robert-pattinson-the-drama-prime-video/"
 wp_id: 1882
 wp_link: "https://moduscarry.com/robert-pattinson-james-bond-drama/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-11-21-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2511
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-21-00-robert-pattinson-768x432.webp"
 ---
 
 **Quick summary**

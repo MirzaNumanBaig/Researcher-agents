@@ -16,9 +16,14 @@ sources:
   - "https://www.mundoamerica.com/entertainment/2026/11/11/6af43cbce85ece74488b4588.html"
 wp_id: 1878
 wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine-interview/"
-wp_synced: pending
+wp_synced: publish
 seo_synced: 1
 embed_checked: 1
+image: "images/2026-11-11-21-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Director Martin McDonagh at the premiere of Seven Psychopaths, Toronto Film Festival 2012"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Seven_Psychopaths_29.jpg\" rel=\"noopener\">GabboT</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Seven_Psychopaths_29.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2509
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-11-21-00-martin-mcdonagh-768x432.webp"
 ---
 
 **Quick summary**
