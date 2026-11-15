@@ -5,7 +5,7 @@ seo_title: "David Walliams Allegations: Lucy Beaumont Book Sells Out"
 seo_description: "David Walliams allegations: Lucy Beaumont feared for her TV career after speaking out, but her book sold out and fans bought tour tickets. Walliams denies wrongdoing."
 focus_keyword: "David Walliams allegations"
 permalink: "david-walliams-allegations-lucy-beaumont-book"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 21:00"
 celebrity: "David Walliams"
@@ -14,6 +14,15 @@ tags: ["David Walliams", "Lucy Beaumont", "Celebrity Traitors"]
 image_prompt: "An empty theatre stage with a single spotlight and rows of empty red seats, quiet and moody"
 sources:
   - "https://www.theguardian.com/tv-and-radio/2026/nov/15/lucy-beaumont-work-tv-david-walliams"
+image: "images/2026-11-15-21-00-david-walliams.webp"
+image_alt: "David Walliams: Movie Premiere"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Ashleigh_and_David_Walliams_(the_voice_of_Pudsey_in_the_movie)_(cropped).JPG\" rel=\"noopener\">Peculiar Realm</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Ashleigh_and_David_Walliams_(the_voice_of_Pudsey_in_the_movie)_(cropped).JPG\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2554
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-21-00-david-walliams-768x432.webp"
+wp_id: 2555
+wp_link: "https://moduscarry.com/david-walliams-allegations-lucy-beaumont-book/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

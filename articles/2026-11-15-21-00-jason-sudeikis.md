@@ -5,7 +5,7 @@ seo_title: "Jason Sudeikis Angry Birds Movie 3 and GameDay Picks"
 seo_description: "Jason Sudeikis Angry Birds Movie 3 hits cinemas 23 December, weeks after his College GameDay turn at Notre Dame. Here is what we know."
 focus_keyword: "Jason Sudeikis Angry Birds Movie 3"
 permalink: "jason-sudeikis-angry-birds-movie-3"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 21:00"
 celebrity: "Jason Sudeikis"
@@ -15,6 +15,15 @@ image_prompt: "A empty cinema auditorium with a glowing screen, red velvet seats
 sources:
   - "https://www.kctv5.com/2026/11/06/jason-sudeikis-make-appearance-college-gameday-guest-picker-heres-why/?outputType=amp"
   - "https://www.cartoonbrew.com/animators/angry-birds-movie-3-trailer-263911.html"
+image: "images/2026-11-15-21-00-jason-sudeikis.webp"
+image_alt: "Jason Sudeikis: Jason Sudeikis 2011 Shankbone 2"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/27865228@N06/5678575422\" rel=\"noopener\">david_shankbone</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/27865228@N06/5678575422\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2558
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-21-00-jason-sudeikis-768x432.webp"
+wp_id: 2559
+wp_link: "https://moduscarry.com/jason-sudeikis-angry-birds-movie-3/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

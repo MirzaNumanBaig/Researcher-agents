@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson The Take: Cast, Plot and Release Date"
 seo_description: "Robert Pattinson plays opposite Denzel Washington in The Take, a Netflix heist film arriving 15 January. Here is the plot, cast and what we know."
 focus_keyword: "Robert Pattinson The Take"
 permalink: "robert-pattinson-the-take-cast-release"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-15 21:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,15 @@ sources:
   - "https://www.yahoo.com/entertainment/movies/articles/denzel-washington-robert-pattinson-know-193356556.html"
   - "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
   - "https://en.wikipedia.org/wiki/Primetime_(film)"
+image: "images/2026-11-15-21-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson and director Lance Oppenheim attend the \u2018Primetime\u2019 premiere during the 83rd Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2562
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-15-21-00-robert-pattinson-768x432.webp"
+wp_id: 2563
+wp_link: "https://moduscarry.com/robert-pattinson-the-take-cast-release/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
