@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-16 07:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Ryan Reynolds & Hugh Jackman's Roles in 'Avengers: Doomsday' Confirmed",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SVnN6aVYwaFczN1JGbW9RUDFIRUoxZmVMMEFCOWNwS28yZzFRa2JLb2ljUWdEckJwVTFUT04xVjRqdnRBa016SEwxOGlseVF6RjhGelY4bUxmQnp5RFI3Y3JpYWJmUzA?oc=5",
+      "published": "2026-11-15T14:43:43+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SVnN6aVYwaFczN1JGbW9RUDFIRUoxZmVMMEFCOWNwS28yZzFRa2JLb2ljUWdEckJwVTFUT04xVjRqdnRBa016SEwxOGlseVF6RjhGelY4bUxmQnp5RFI3Y3JpYWJmUzA?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66112262/?ref_=ttnw_art_perm",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

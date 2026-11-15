@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-16 07:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ryan Gosling & Eva Mendes: The Love Story They Kept Away From Hollywood",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeS1lR3Vobkd0ekVNOGxwa1VhdFUxeGxwdHpYazhHUmVhMVFkMDZ1WUZONjJmMkkwOHNPd3RfRHQ0SUNfUzhvd2VodlE1Tld6OTV2bFM5bkhoSm1IWE5kTkJnOV9hcVAyVVZiXzNHQ1ZtaGVGZXhpeVJUOElxNmcwMk1sN1pQbEctRTFRWXhibTRZMGhuR2l4Um9yR3FGZUk1SHViMVR3Zk9tamQ2Rzg1dWhGcFpBRGRldkFDVnZma3NZUXlZZEJQTGRQcy1aMlZw?oc=5",
+      "published": "2026-11-14T19:20:42+00:00",
+      "outlets": [
+        {
+          "source": "NewsBreak: Local News & Alerts",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeS1lR3Vobkd0ekVNOGxwa1VhdFUxeGxwdHpYazhHUmVhMVFkMDZ1WUZONjJmMkkwOHNPd3RfRHQ0SUNfUzhvd2VodlE1Tld6OTV2bFM5bkhoSm1IWE5kTkJnOV9hcVAyVVZiXzNHQ1ZtaGVGZXhpeVJUOElxNmcwMk1sN1pQbEctRTFRWXhibTRZMGhuR2l4Um9yR3FGZUk1SHViMVR3Zk9tamQ2Rzg1dWhGcFpBRGRldkFDVnZma3NZUXlZZEJQTGRQcy1aMlZw?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

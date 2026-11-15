@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-16 07:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Nina’s What’s Trending: Bond Rumors & Nicole Kidman’s Chanel Controversy - Nina's What's Trending on The Jubal Show",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWDdhZG1neE1jb0RnVG0tZUNKV01CMmhwZjF6YWJKdFRiT0lPbUxuRHRpazFUMkozbnBrcHB0bDZDSFFZeWk4c182cGx1NXU1WUE1aG5sb1hpZFZFWlhRdGl5Z3RVT2FmcERxanVaY2pieXQ5aks4NkNmdk1xUFNZcnluQVVKRE9GN1JwaUJsM0I0Y0NNOFFRT3ZFeXMtajhqbzA5NEdZNXlVQmhVc3pZ?oc=5",
+      "published": "2026-11-14T05:08:03+00:00",
+      "outlets": [
+        {
+          "source": "iHeart",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWDdhZG1neE1jb0RnVG0tZUNKV01CMmhwZjF6YWJKdFRiT0lPbUxuRHRpazFUMkozbnBrcHB0bDZDSFFZeWk4c182cGx1NXU1WUE1aG5sb1hpZFZFWlhRdGl5Z3RVT2FmcERxanVaY2pieXQ5aks4NkNmdk1xUFNZcnluQVVKRE9GN1JwaUJsM0I0Y0NNOFFRT3ZFeXMtajhqbzA5NEdZNXlVQmhVc3pZ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
+    }
+  ]
+}

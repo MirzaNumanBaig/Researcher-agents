@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-16 07:00",
+  "celebrity": "Johnny Flynn",
+  "stories": [
+    {
+      "title": "Johnny Flynn's Frankie Cooper Has MobLand Fans Making Heath Ledger Joker Comparisons",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2UGY2SUpEOGE3NTNhbHZlcEtTMHRSQ3dUU2NlS2RGRVFXVzJpQ2RtMTEyTmFvaTI0bFJ6VGdpMVZwajY3RHFRMGt4SWpfTG5ZQ21JVjdWYkVvOHI4U1FmNA?oc=5",
+      "published": "2026-11-15T19:56:32+00:00",
+      "outlets": [
+        {
+          "source": "Cosmic Book News",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2UGY2SUpEOGE3NTNhbHZlcEtTMHRSQ3dUU2NlS2RGRVFXVzJpQ2RtMTEyTmFvaTI0bFJ6VGdpMVZwajY3RHFRMGt4SWpfTG5ZQ21JVjdWYkVvOHI4U1FmNA?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Elsinore",
+      "release": "2026-09-04",
+      "director": [
+        "Simon Stone"
+      ],
+      "cast": [
+        "Andrew Scott",
+        "Olivia Colman",
+        "Billie Piper",
+        "Johnny Flynn",
+        "Luke Thompson"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "89%",
+      "metacritic": "75/100 from 19 critics",
+      "critics_consensus": null,
+      "critics_overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137722359",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
+      }
+    }
+  ]
+}

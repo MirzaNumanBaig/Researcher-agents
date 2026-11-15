@@ -1,0 +1,77 @@
+{
+  "batch": "2026-11-16 07:00",
+  "celebrity": "Seth Rogen",
+  "stories": [
+    {
+      "title": "Exclusive | Seth Rogen's wife, Lauren Miller, recalls feeling 'so alone' during mom's heartbreaking Alzheimer's battle",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRE5ZaW5HZDZmaWQ1aUhCU0M1YjZaMTUwTm9QOV8xT3hLMGR1UEZnZVEwOUNld0dnRWZsUUZyeGs0ZUlJaC1FbU44QV9Ha3k1RjB0eHVGeTZmZGpGN1ZOSFhXSWRNaWhud1NlME9sV2lTWElWdC1WY3NtTjZrZXh1LW1OLXowMkVXekk5eklOemZOTUpsOWZaYzhIX0doSUVZNFFRbFVqUFhsck4wUW0ydTVyQkFBaUZLd0NxMzU0Z3Z1emdvNjZreG5YdU5zUVBSbGhicktIU3ZjQVByemNv?oc=5",
+      "published": "2026-11-15T13:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRE5ZaW5HZDZmaWQ1aUhCU0M1YjZaMTUwTm9QOV8xT3hLMGR1UEZnZVEwOUNld0dnRWZsUUZyeGs0ZUlJaC1FbU44QV9Ha3k1RjB0eHVGeTZmZGpGN1ZOSFhXSWRNaWhud1NlME9sV2lTWElWdC1WY3NtTjZrZXh1LW1OLXowMkVXekk5eklOemZOTUpsOWZaYzhIX0doSUVZNFFRbFVqUFhsck4wUW0ydTVyQkFBaUZLd0NxMzU0Z3Z1emdvNjZreG5YdU5zUVBSbGhicktIU3ZjQVByemNv?oc=5",
+          "article_url": "https://pagesix.com/2026/11/15/celebrity-news/seth-rogens-wife-lauren-miller-recalls-feeling-so-alone-during-moms-heartbreaking-alzheimers-battle/",
+          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148367545.jpg?quality=75&strip=all&w=1200"
+        }
+      ],
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148367545.jpg?quality=75&strip=all&w=1200",
+      "image_source": "https://pagesix.com/2026/11/15/celebrity-news/seth-rogens-wife-lauren-miller-recalls-feeling-so-alone-during-moms-heartbreaking-alzheimers-battle/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Babies",
+      "release": "2026-09-12",
+      "director": [
+        "Lauren Miller"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Seth Rogen",
+        "Issa Rae",
+        "Dan Stevens",
+        "Zach Cherry"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137380437",
+        "wikipedia": "https://en.wikipedia.org/wiki/Babies_(2026_film)"
+      }
+    },
+    {
+      "title": "The Wrong Girls",
+      "release": "2026-08-14",
+      "director": [
+        "Dylan Meyer"
+      ],
+      "cast": [
+        "Alia Shawkat",
+        "LaKeith Stanfield",
+        "Zack Fox",
+        "Tony Hale",
+        "Kumail Nanjiani"
+      ],
+      "budget_usd": null,
+      "box_office_usd": 887116,
+      "scope": "",
+      "verdict": "Grossed $887k",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "61%",
+      "metacritic": "59/100 from 20 critics",
+      "critics_consensus": "Proudly stupid and surprisingly sweet, The Wrong Girls coasts on Kristen Stewart and Alia Shawkat's chemistry, even as its barrage of stoner gags produces more genial laughs than truly memorable ones.",
+      "critics_overview": "Archived from the original on August 15, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132560837",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wrong_Girls"
+      }
+    }
+  ]
+}

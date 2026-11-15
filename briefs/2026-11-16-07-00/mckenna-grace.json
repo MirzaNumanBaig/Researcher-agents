@@ -1,0 +1,47 @@
+{
+  "batch": "2026-11-16 07:00",
+  "celebrity": "Mckenna Grace",
+  "stories": [
+    {
+      "title": "Mckenna Grace's Stunning 'Catching Fire' Inspired Look",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnVXSlpBRmVQbDh4T1AtdU0tazdWVGJVTF9vQS1jeF9FcGt4WlRRU0RubHFmS1VqMHJydWhuMDJVelI4d2JmNVVnV2c5RWlVbzBiNk9lbmNPX3ZMeGVZOVJsM0hxM002MFVNN0Q2RVo2LWFkMXJiMHZ5cUdZZVhGR3pYZjZJa2Q3ekJGaGtnN3JRUFdaenc?oc=5",
+      "published": "2026-11-15T17:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnVXSlpBRmVQbDh4T1AtdU0tazdWVGJVTF9vQS1jeF9FcGt4WlRRU0RubHFmS1VqMHJydWhuMDJVelI4d2JmNVVnV2c5RWlVbzBiNk9lbmNPX3ZMeGVZOVJsM0hxM002MFVNN0Q2RVo2LWFkMXJiMHZ5cUdZZVhGR3pYZjZJa2Q3ekJGaGtnN3JRUFdaenc?oc=5",
+          "article_url": "https://www.yahoo.com/lifestyle/videos/mckenna-graces-stunning-catching-fire-173000158.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/4e9da984eb2201f52fe65eb7223262d16c4559ee73d4cdd8bfc46110b177c6da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwho_what_wear_vertical_videos_555%2Fd4c2d744c4453900851129763567f96c.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/4e9da984eb2201f52fe65eb7223262d16c4559ee73d4cdd8bfc46110b177c6da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwho_what_wear_vertical_videos_555%2Fd4c2d744c4453900851129763567f96c.jpg",
+      "image_source": "https://www.yahoo.com/lifestyle/videos/mckenna-graces-stunning-catching-fire-173000158.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Last Kiss",
+      "release": "2026-09-15",
+      "director": [
+        "Yoko Okumura"
+      ],
+      "cast": [
+        "Mckenna Grace",
+        "Jaden Michael"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141430687",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Kiss_(2026_film)"
+      }
+    }
+  ]
+}

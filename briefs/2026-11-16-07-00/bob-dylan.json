@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-16 07:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "Bob Dylan, the ‘Great White Wonder’, and the beginning of the bootleg craze",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnQnF1SXAwLWdsbTdrN0RWUUJFVVMyamVVNEx0cEhzTnhPaGZGNnNiYzdmdkVnR3BOR2VJcEtyaGhsY1l3WHpaTng0bzVaU1lTcEYzUmVXVEN0bjRMUzM2NEp2TkxDWGhHX1o2ZTFFSjBHREJ1SmMwY0Y1bw?oc=5",
+      "published": "2026-11-15T19:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnQnF1SXAwLWdsbTdrN0RWUUJFVVMyamVVNEx0cEhzTnhPaGZGNnNiYzdmdkVnR3BOR2VJcEtyaGhsY1l3WHpaTng0bzVaU1lTcEYzUmVXVEN0bjRMUzM2NEp2TkxDWGhHX1o2ZTFFSjBHREJ1SmMwY0Y1bw?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/bob-dylan-great-white-wonder-bootleg-1969/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/11/Bob-Dylan-the-Great-White-Wonder-and-the-beginning-of-the-bootleg-craze-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/11/Bob-Dylan-the-Great-White-Wonder-and-the-beginning-of-the-bootleg-craze-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/bob-dylan-great-white-wonder-bootleg-1969/"
+    },
+    {
+      "title": "Bob Dylan revives \"Honest With Me\" in Salzburg setlist",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2RVR2xzNVVkLV9DS2JpZDNBckFCaGRrSjBWbkdGWkw5aUNpR3gwT2Y0Qm9pR09WT3NsNHZyU2NBYjhGeVNUc2xfeWpBdi04dk5pekxuUTZmTHZhYmFEMkxQNm15Z2tzWU1LYndja0lGS1k1SmppMHk2MVlJcVZQU1FndnNyanpzYk56Qmdray1UNXREcmhwTWxCUDJQb3ZIVUhicklJSzZuRVQ0VXUyLVRlZjVXdw?oc=5",
+      "published": "2026-11-15T16:57:25+00:00",
+      "outlets": [
+        {
+          "source": "KarloBag.eu",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2RVR2xzNVVkLV9DS2JpZDNBckFCaGRrSjBWbkdGWkw5aUNpR3gwT2Y0Qm9pR09WT3NsNHZyU2NBYjhGeVNUc2xfeWpBdi04dk5pekxuUTZmTHZhYmFEMkxQNm15Z2tzWU1LYndja0lGS1k1SmppMHk2MVlJcVZQU1FndnNyanpzYk56Qmdray1UNXREcmhwTWxCUDJQb3ZIVUhicklJSzZuRVQ0VXUyLVRlZjVXdw?oc=5",
+          "article_url": "https://karlobag.eu/en/music/bob-dylan-brings-honest-with-me-back-to-the-salzburg-setlist-after-nearly-seven-5smp1/",
+          "image": "https://karlobag.eu/images/upload/v7fyc.jpg"
+        }
+      ],
+      "image": "https://karlobag.eu/images/upload/v7fyc.jpg",
+      "image_source": "https://karlobag.eu/en/music/bob-dylan-brings-honest-with-me-back-to-the-salzburg-setlist-after-nearly-seven-5smp1/"
+    }
+  ]
+}
