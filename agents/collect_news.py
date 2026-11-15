@@ -78,8 +78,8 @@ def parse_feed(data, source, limit):
     return leads
 
 
-def google_news_url(name, gn):
-    q = urllib.parse.quote(f'"{name}" when:{gn["when"]}')
+def google_news_url(name, gn, extra=""):
+    q = urllib.parse.quote(f'"{name}"{extra} when:{gn["when"]}')
     return (f"https://news.google.com/rss/search?q={q}"
             f"&hl={gn['hl']}&gl={gn['gl']}&ceid={gn['ceid']}")
 
@@ -139,7 +139,9 @@ def prune_briefs(cutoff):
 
 def main():
     cfg = json.loads((ROOT / "config.json").read_text())
-    names = cfg["celebrities"]
+    movies = [m for m in cfg.get("movies", []) if m not in cfg["celebrities"]]  # films found by the discovery step are searched like people
+    names = cfg["celebrities"] + movies
+    cfg["headline_full_name_only"] = list(cfg.get("headline_full_name_only", [])) + movies  # a film title must appear in full
     limit = cfg["max_items_per_feed"]
     existing = json.loads(LEADS.read_text()) if LEADS.exists() else []
     by_url = {l["url"]: l for l in existing}
@@ -159,7 +161,7 @@ def main():
 
     # Per-celebrity Google News search, localised to the chosen country.
     for name in names:
-        feed = google_news_url(name, cfg["google_news"])
+        feed = google_news_url(name, cfg["google_news"], " film" if name in movies else "")
         try:
             for lead in parse_feed(fetch(feed), "Google News", limit):
                 # Google News titles end with " - Publisher"

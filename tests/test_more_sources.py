@@ -137,5 +137,42 @@ class Money(unittest.TestCase):
         self.assertEqual(movies.verdict("2026-06-01", 345e3, 345e3, today), "Grossed $345k")  # equal figures: data slip, no verdict
 
 
+class Discover(unittest.TestCase):
+    TREND = {"hot_now": [{"qid": "Q1", "name": "New Star", "views_7d": 900}, {"qid": "Q2", "name": "Madonna", "views_7d": 5000},
+                         {"qid": "Q3", "name": "Old Friend", "views_7d": 100}], "always_popular": [], "filmmakers": []}
+    FILMS = {"films": [{"title": "Big Movie Two", "release": "2026-12-01", "people": ["New Star"], "director": [], "cast": ["Old Friend"]},
+                       {"title": "Us", "release": "2026-12-01", "people": ["New Star"], "director": [], "cast": []},
+                       {"title": "Nobody Film", "release": "2026-12-01", "people": [], "director": [], "cast": ["Unknown"]}]}
+
+    def setUp(self):
+        import discover
+        self.d = discover
+        self.cfg = {"celebrities": ["Old Friend"], "movies": [], "added": {}}
+
+    def test_people_ranked_by_views_and_single_names_skipped(self):
+        got = [p["name"] for p in self.d.pick_people(self.TREND, self.cfg, 5)]
+        self.assertEqual(got, ["New Star"])  # "Madonna" is a single name: too loose to match headlines; "Old Friend" is tracked already
+
+    def test_movies_need_a_popular_or_tracked_person_and_a_decent_title(self):
+        got = self.d.pick_movies(self.FILMS, self.TREND, self.cfg, 5, False, date(2026, 11, 11))
+        self.assertEqual([f["title"] for f in got], ["Big Movie Two"])  # "Us" is too short, "Nobody Film" has nobody popular
+        none = self.d.pick_movies(self.FILMS, self.TREND, {"celebrities": [], "movies": []}, 5, True, date(2026, 11, 11))
+        self.assertEqual(none, [])  # weekly mode: only films with a tracked person
+
+    def test_new_tag_lasts_a_week(self):
+        import tracking
+        cfg = {"added": {"A": "2026-11-08", "B": "2026-10-01"}}
+        self.assertTrue(tracking.is_new(cfg, "A", date(2026, 11, 11)))
+        self.assertFalse(tracking.is_new(cfg, "B", date(2026, 11, 11)))
+
+    def test_film_facts_reach_the_brief(self):
+        import make_briefs
+        films = [{"title": "Big Movie Two", "release": "2026-12-01", "director": ["D"], "cast": ["Old Friend"], "producers": [], "budget": 100, "gross": 300,
+                  "scale": "Mid-budget", "verdict": "Hit", "multiple": 3.0, "critics": {"rotten_tomatoes": "90%"}, "sources": {}}]
+        self.assertEqual(make_briefs.film_facts("Old Friend", films)[0]["rotten_tomatoes"], "90%")
+        self.assertEqual(len(make_briefs.film_facts("big movie two", films)), 1)
+        self.assertEqual(make_briefs.film_facts("Someone", films), [])
+
+
 if __name__ == "__main__":
     unittest.main()

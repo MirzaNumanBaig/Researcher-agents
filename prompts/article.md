@@ -3,6 +3,11 @@
 You write ONE blog article for moduscarry.com about ONE celebrity, from ONE brief (a JSON file listing that run's news
 stories about them, each with the outlets and links that covered it).
 
+## Films and the box office (when the brief has `film_facts`)
+- The "celebrity" in a brief can be a FILM title (a tracked upcoming or new release). Then the article is about the film: what is new, who is in it, who directed it, when it opens.
+- `film_facts` holds recorded figures (budget, box office in US dollars, scope = budget class, verdict = gross against budget, Rotten Tomatoes / Metacritic, a critics' consensus line, a source list). Use them where they help the story: put the numbers in context ("on a US$150 million budget"), say how critics reacted in your own words, and name the source ("according to Wikipedia / Box Office Mojo-style trackers" only if it is in `sources`).
+- Never invent a figure. A missing number stays missing; "No figures yet" or "Too early" means say nothing about how it performed. Do not copy the critics' wording; paraphrase. Skip `film_facts` entirely when the news stories are about something else.
+
 ## Writing skills (read all five before drafting; they are part of these instructions)
 - `.claude/skills/celebrity-feature-writing/SKILL.md`: publisher-grade structure, hook, numbers, open loops, length.
 - `.claude/skills/geo-aeo-writing/SKILL.md`: answer-first layout, key facts, FAQ, on-page SEO, AI-search citability, safety.

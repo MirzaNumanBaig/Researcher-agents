@@ -9,7 +9,7 @@ Structured memory index. Each entry points to a memory file with full context.
 - [feedback-working-style.md](feedback-working-style.md) — Branch, test, ask before merging to main; report honestly
 - [feedback-stop-hook-false-alarm.md](feedback-stop-hook-false-alarm.md) — Stop-hook "unpushed" warning is usually false; verify with git ls-remote
 - [feedback-communication.md](feedback-communication.md) — Short, simple answers; yes/no first; show results and links
-- [feedback-image-policy.md](feedback-image-policy.md) — Free AI images; fictional stand-ins only, no real people, no publisher photos; no visible caption by default
+- [feedback-image-policy.md](feedback-image-policy.md) — IMAGE RULES (2026-11-15): every post needs an image, no image = not live, no AI images, credited reference pictures
 
 ## Project
 - [project-state-2026-10.md](project-state-2026-10.md) — 2026-10-28: pipeline v2 merged (klein 4B, two Cloudflare accounts, Usage tab); unproven bits, branch cleanup left to the user, pending items

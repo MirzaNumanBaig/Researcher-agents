@@ -1,8 +1,17 @@
 ---
 name: feedback-image-policy
-description: Image rules - real open-licence Commons photos first (user, 2026-11-09: AI images are bad); AI only as a fallback; never copy publisher photos
+description: Image rules (user, 2026-11-15) - every post needs a real featured image, no AI images, reference/news pictures credited, no image = not live
 type: feedback
 ---
+
+CURRENT RULES (user, 2026-11-15, these win over everything below):
+1. Every post must have a featured image. A post without one must NOT be live: it is held as Pending review and goes live by itself once its image is added (`publish_wordpress.py`: `has_image()`, new posts sent as pending, live ones without an image moved back to pending; the check runs hourly).
+2. NO AI images. Not now, not as a fallback (`ai_images: false`). The user will say later when AI images are to be removed for good.
+3. Use the article's own reference image (the picture of the news pages it cites, and the blog's image) when there is no free photo. Order: free-licence Commons photo, Openverse photo, the brief's news picture (face-checked), then `source_photo()` = lead picture (og:image, at least 400 px, no face check) of the cited pages. Always credit the outlet with a link to its story in the caption (user, earlier: "credit in the caption using their source link").
+4. Fix missing images for every post, old ones too: sent posts without a picture are retried for 7 days (`RETRY_HOURS` 168) and the hourly send run fills them.
+5. Remove a picture when its owner asks.
+
+Older notes follow.
 
 UPDATE 2026-11-09 (user): AI images look bad (wrong faces, environment, camera angle) and hurt monetisation, so featured images are real open-licence Wikimedia Commons photos of the named celebrity (CC0/PD/CC BY/CC BY-SA, credit shown). A photo is reused (least recently used) before any AI picture is made; AI pictures are off (`ai_images: false`) unless a person has no free photo and the user turns them back on. Everything below applies only to the AI fallback.
 

@@ -177,7 +177,7 @@ details>div{padding:0 14px 12px}
 </style>
 <header class="bar"><div class="wrap bar-in">
 <div class="brand"><div class="logo" id="logo">CN</div><div><h1 id="h1"></h1><div class="sub" id="upd"></div></div></div>
-<div class="actions"><button class="btn pri" id="run">Run now</button><button class="btn" id="conn">Setup</button></div>
+<div class="actions"><button class="btn pri" id="run">Run now</button><button class="btn" id="trend" title="Search Wikipedia page views for popular people and films you do not follow yet, add them and start collecting their news">Find trending</button><button class="btn" id="conn">Setup</button></div>
 </div></header>
 <main class="wrap">
 <section class="health usagebar" id="usagebar" aria-label="Usage today"></section>
@@ -187,7 +187,7 @@ details>div{padding:0 14px 12px}
 <div class="people" id="people"></div>
 <div id="profile"></div>
 <div class="toolbar">
-<div class="seg" role="tablist"><button id="v-stories" class="on">Stories</button><button id="v-articles">Articles</button><button id="v-hot">Hot people</button><button id="v-movies">Movies</button><button id="v-usage">Usage</button></div>
+<div class="seg" role="tablist"><button id="v-stories" class="on">Stories</button><button id="v-articles">Articles</button><button id="v-movies">Movies</button><button id="v-usage">Usage</button></div>
 <div class="seg" id="pool-seg" role="tablist"><button id="p-recent" class="on">Last 48 hours</button><button id="p-archive">Archive</button></div>
 <input id="q" type="search" placeholder="Search headlines" aria-label="Search headlines">
 <select id="batch" aria-label="Run"></select>
@@ -328,13 +328,14 @@ function batchOptions(){const keep=batch,bs=batches.filter(b=>D.leads.some(l=>l.
 $("batch").innerHTML="";$("batch").add(new Option("All runs",""));
 bs.forEach(b=>$("batch").add(new Option(b==="Earlier"?"Earlier":b+" ("+D.leads.filter(l=>l.batch===b&&inPool(l)).length+")",b)));
 batch=bs.includes(keep)?keep:"";$("batch").value=batch}
+const isNew=n=>(D.new||[]).includes(n);
 const cnt=n=>D.leads.filter(l=>inPool(l)&&(l.celebrities||[]).includes(n)).length;
 function av(n,cls){const p=D.profiles[n]||{},ph=safeImg(p.photo);return'<span class="av '+(cls||"")+'" style="background-color:'+col(n)+(ph?';background-image:url('+esc(ph)+')':'')+'">'+(ph?'':esc(ini(n)))+'</span>'}
 let pOpen=false;
 function people(){const f=$("pfind").value.trim().toLowerCase(),all=D.celebrities,
 list=all.filter(n=>!f||n.toLowerCase().includes(f)).sort((a,b)=>cnt(b)-cnt(a)||a.localeCompare(b)); /* most stories first */
 const open=pOpen||!!f;$("people").classList.toggle("open",open);
-$("people").innerHTML='<button class="who all'+(celeb===""?' on':'')+'" data-v="">All</button>'+list.map(n=>'<button class="who'+(n===celeb?' on':'')+(cnt(n)?'':' zero')+'" data-v="'+esc(n)+'">'+av(n)+esc(n)+' <span class="n">'+cnt(n)+'</span></button>').join("")+(list.length?'':'<span class="muted">No actor matches "'+esc(f)+'".</span>');
+$("people").innerHTML='<button class="who all'+(celeb===""?' on':'')+'" data-v="">All</button>'+list.map(n=>'<button class="who'+(n===celeb?' on':'')+(cnt(n)?'':' zero')+'" data-v="'+esc(n)+'">'+av(n)+esc(n)+(isNew(n)?' <span class="badge">NEW</span>':'')+' <span class="n">'+cnt(n)+'</span></button>').join("")+(list.length?'':'<span class="muted">No actor matches "'+esc(f)+'".</span>');
 $("pmore").textContent=open?"Show less":"Show all "+all.length;$("pmore").hidden=!!f||all.length<8;
 document.querySelectorAll(".who").forEach(b=>b.onclick=()=>{celeb=celeb===b.dataset.v?"":b.dataset.v;people();render()})}
 $("pfind").oninput=people;$("pmore").onclick=()=>{pOpen=!pOpen;people()};
@@ -410,7 +411,7 @@ const artChip=l=>{const as=(l.celebrities||[]).map(c=>D.articles.find(x=>x.batch
 if(!as.length)return"";const a=as.find(x=>x.status==="sent")||as[0];const t={sent:a.wp_status==="publish"?"Published":"On site ("+a.wp_status+")",skipped:"Skipped by writer",rejected:"Rejected",removed:"Removed",pending:"Awaiting approval",approved:"Sending",rewrite:"Rewriting"}[a.status];
 return t?'<span class="badge" style="background:var(--mut);color:var(--bg)" title="'+esc(a.skip_reason||"")+'">'+esc(t)+'</span>':""};
 function meta(l){const n=(l.celebrities||[]).join(", "),o=l.outlets.length>1?" +"+(l.outlets.length-1)+" more":"";
-return'<div class="meta">'+(n?'<span class="nm">'+esc(n)+'</span>':'')+'<span>'+esc(l.source)+esc(o)+'</span><span>'+(l.published?ago(l.published):"")+'</span>'+(age(l)<=3?'<span class="badge">NEW</span>':'')+artChip(l)+'</div>'}
+return'<div class="meta">'+(n?'<span class="nm">'+esc(n)+'</span>':'')+'<span>'+esc(l.source)+esc(o)+'</span><span>'+(l.published?ago(l.published):"")+'</span>'+(age(l)<=3?'<span class="badge">NEW</span>':'')+((l.celebrities||[]).some(isNew)?'<span class="badge">NEW TOPIC</span>':'')+artChip(l)+'</div>'}
 const avl=l=>{const n=(l.celebrities||[])[0]||"";return n?av(n):'<span class="av" style="background:var(--mut)">?</span>'};
 const thumb=l=>l.image?'<img class="thumb" loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(safeUrl(l.image))+'" title="'+esc(l.image)+'" onerror="this.remove()">':"";
 const topCard=l=>'<a class="top" href="'+esc(safeUrl(l.url))+'" target="_blank" rel="noopener">'+thumb(l)+meta(l)+'<h3>'+esc(l.title)+'</h3>'+(l.summary?'<p>'+esc(l.summary.slice(0,180))+'</p>':'')+'</a>';
@@ -420,12 +421,11 @@ const olderBtn=n=>n?'<div style="text-align:center;margin:16px 0"><button class=
 function wireOlder(){const b=$("show-old");if(b)b.onclick=()=>{showOld=true;render()}}
 function render(){
 usageBar();
-$("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");$("v-usage").classList.toggle("on",view==="usage");$("v-hot").classList.toggle("on",view==="hot");$("v-movies").classList.toggle("on",view==="movies");
+$("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");$("v-usage").classList.toggle("on",view==="usage");$("v-movies").classList.toggle("on",view==="movies");
 ["q","batch","src","when","sort"].forEach(i=>$(i).hidden=view!=="stories");
 $("pool-seg").hidden=view!=="stories";
 [document.querySelector(".peoplebar"),$("people"),$("profile")].forEach(e=>{if(e)e.hidden=view==="usage"||view==="hot"||view==="movies"});
 if(view==="usage"){$("top").innerHTML="";$("list").innerHTML=usageView();return}
-if(view==="hot"){$("top").innerHTML="";$("list").innerHTML=hotView();return}
 if(view==="movies"){$("top").innerHTML="";$("list").innerHTML=moviesView();return}
 $("p-recent").classList.toggle("on",pool==="recent");$("p-archive").classList.toggle("on",pool==="archive");
 $("p-recent").textContent="Last "+(D.dashboard_hours||48)+" hours ("+D.leads.filter(isRecent).length+")";$("p-archive").textContent="Archive ("+D.leads.filter(l=>!isRecent(l)).length+")";
@@ -464,26 +464,20 @@ $("list").innerHTML=Object.keys(g).sort().map(k=>'<h2 class="sec">'+esc(k)+' <sp
 ["q","src","when","sort"].forEach(i=>$(i).oninput=render);
 $("batch").onchange=()=>{batch=$("batch").value;render()};
 $("p-recent").onclick=()=>{pool="recent";render()};$("p-archive").onclick=()=>{pool="archive";render()};
-$("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};$("v-usage").onclick=()=>{view="usage";render()};$("v-hot").onclick=()=>{view="hot";render()};$("v-movies").onclick=()=>{view="movies";render()};
+$("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};$("v-usage").onclick=()=>{view="usage";render()};$("v-movies").onclick=()=>{view="movies";render()};
 
 
 
-/* --- Hot people and Movies views (data/trending.json and data/movies.json, built weekly from Wikipedia + Wikidata) --- */
+/* --- Movies view (data/trending.json and data/movies.json, built weekly from Wikipedia + Wikidata) --- */
 const mon=n=>!n?"-":n>=1e9?"$"+(n/1e9).toFixed(2)+"B":n>=1e6?"$"+Math.round(n/1e6)+"M":"$"+Math.round(n/1e3)+"k";
-const hotRow=r=>'<li class="hrow"><div><a href="'+esc(r.wikipedia)+'" target="_blank" rel="noopener"><b>'+esc(r.name)+'</b></a> <span class="chip">'+esc(r.roles.join(" · "))+'</span>'+(r.tracked?' <span class="chip ok">tracked</span>':' <span class="chip">not tracked</span>')+(r.australian?' <span class="chip">Australian</span>':"")+'</div>'+
-'<div class="muted small">'+esc(r.description||"")+'</div><div class="small">'+kf(r.views_7d)+' Wikipedia views this week · '+kf(r.views_month)+' last month'+(r.trend?' · trend '+(r.trend>=2?'spiking ':r.trend>=1.3?'rising ':'')+'×'+r.trend:"")+'</div>'+
-((r.films||[]).length?'<div class="small">Films: '+r.films.slice(0,4).map(f=>esc(f.title)+' <span class="muted">('+esc(f.date)+')</span>').join(" · ")+'</div>':"")+'</li>';
-function hotView(){const H=D.hot||{};if(!H.hot_now)return'<div class="empty">No list yet. Run the "Hot people and movies" workflow (Actions tab) once; it then refreshes every week.</div>';
-const sec=(t,k,n)=>'<section class="ucard"><h2>'+t+'</h2><ul class="hlist">'+(H[k]||[]).slice(0,n||15).map(hotRow).join("")+'</ul></section>';
-return'<div class="muted small" style="margin:8px 0">Built '+esc(H.updated)+' from Wikipedia\'s most-viewed pages and Wikidata. People marked "not tracked" are not in your celebrity list yet.</div>'+sec("In the news right now","hot_now")+sec("Always popular","always_popular")+sec("Directors, producers and writers to watch","filmmakers")}
 const critic=c=>{c=c||{};const t=[c.rotten_tomatoes?'Rotten Tomatoes '+esc(c.rotten_tomatoes):"",c.metacritic?'Metacritic '+esc(c.metacritic):""].filter(Boolean).join(" · ");return(t?'<div class="small">'+t+'</div>':"")+(c.consensus?'<div class="small"><i>"'+esc(c.consensus)+'"</i></div>':"")+(c.overview?'<div class="muted small">'+esc(c.overview)+'</div>':"")};
-const movRow=f=>'<li class="hrow"><div><b>'+esc(f.title)+'</b> <span class="chip">'+esc(f.release)+'</span> '+(f.verdict?'<span class="chip '+(f.verdict==="Hit"?"ok":"")+'">'+esc(f.verdict)+'</span>':"")+(f.scale?' <span class="chip">'+esc(f.scale)+'</span>':"")+'</div>'+
+const movRow=f=>'<li class="hrow"><div><b>'+esc(f.title)+'</b> '+(isNew(f.title)?'<span class="badge">NEW</span> ':'')+((D.movies_tracked||[]).includes(f.title)?'<span class="chip ok">news tracked</span> ':'')+'<span class="chip">'+esc(f.release)+'</span> '+(f.verdict?'<span class="chip '+(f.verdict==="Hit"?"ok":"")+'">'+esc(f.verdict)+'</span>':"")+(f.scale?' <span class="chip">'+esc(f.scale)+'</span>':"")+'</div>'+
 '<div class="small">'+(f.director.length?'Directed by '+esc(f.director.join(", "))+' · ':"")+(f.cast.length?'with '+esc(f.cast.slice(0,4).join(", ")):"")+'</div>'+
 '<div class="small">Budget '+mon(f.budget)+' · Box office '+mon(f.gross)+(f.multiple?' ('+f.multiple+'× budget)':"")+(f.countries.length?' · '+esc(f.countries.slice(0,3).join(", ")):"")+'</div>'+critic(f.critics)+
 '<div class="muted small">Sources: '+Object.entries(f.sources||{}).map(([k,u])=>'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(k)+'</a>').join(" · ")+(f.people&&f.people.length?' · in the news: '+esc(f.people.slice(0,3).join(", ")):"")+'</div></li>';
 function moviesView(){const M=D.movies||{};if(!(M.films||[]).length)return'<div class="empty">No movies yet. Run the "Hot people and movies" workflow (Actions tab) once.</div>';
 const today=new Date().toISOString().slice(0,10),up=M.films.filter(f=>f.release>today).sort((a,b)=>a.release<b.release?-1:1),out=M.films.filter(f=>f.release<=today).sort((a,b)=>(b.gross||0)-(a.gross||0));
-return'<div class="muted small" style="margin:8px 0">Built '+esc(M.updated)+'. Figures from Wikidata and Wikipedia (CC BY-SA), in US dollars. Scope = budget size; verdict = box office against budget.</div><section class="ucard"><h2>Coming soon</h2><ul class="hlist">'+up.map(movRow).join("")+'</ul></section><section class="ucard"><h2>Out now &amp; recent (by box office)</h2><ul class="hlist">'+out.map(movRow).join("")+'</ul></section>'}
+return'<div class="muted small" style="margin:8px 0">Built '+esc(M.updated)+'. Figures from Wikidata and Wikipedia (CC BY-SA), in US dollars. Scope = budget size; verdict = box office against budget. Films marked "news tracked" are searched for news and used in articles; new ones are added every week, and "Find trending" adds more.</div><section class="ucard"><h2>Coming soon</h2><ul class="hlist">'+up.map(movRow).join("")+'</ul></section><section class="ucard"><h2>Out now &amp; recent (by box office)</h2><ul class="hlist">'+out.map(movRow).join("")+'</ul></section>'}
 
 /* --- Usage view: Cloudflare neuron estimates per account, and Claude tokens spent writing articles --- */
 const nf=n=>(+n||0).toLocaleString("en-AU");
@@ -555,7 +549,7 @@ async function gh(path,opt={}){const t=token(),{raw,...o}=opt;const r=await fetc
 if(!r.ok)throw Error(r.status+" "+(await r.text()).slice(0,120));return r.status===204?null:raw?r.text():r.json()}
 async function editCfg(fn){const f=await gh("/contents/config.json");const c=JSON.parse(b64dec(f.content));fn(c);
 await gh("/contents/config.json",{method:"PUT",body:JSON.stringify({message:"Update config from dashboard",sha:f.sha,content:b64enc(JSON.stringify(c,null,2)+"\n")})})}
-const dispatch=wf=>gh("/actions/workflows/"+wf+"/dispatches",{method:"POST",body:JSON.stringify({ref:"main"})});
+const dispatch=(wf,inputs)=>gh("/actions/workflows/"+wf+"/dispatches",{method:"POST",body:JSON.stringify(inputs?{ref:"main",inputs}:{ref:"main"})});
 function copy(t,ok){const done=()=>say(ok||"Copied.");
 if(navigator.clipboard)navigator.clipboard.writeText(t).then(done,()=>say("Copy blocked. Select the text and copy it by hand."));else say("Copy blocked. Select the text and copy it by hand.")}
 
@@ -595,6 +589,7 @@ timer=setTimeout(async()=>{if(!document.hidden)await live();schedule()},busy||Da
 function watch(){watchUntil=Date.now()+15*6e4;setTimeout(()=>live().then(schedule),5e3)}
 document.addEventListener("visibilitychange",()=>{if(!document.hidden)live().then(schedule)});
 
+$("trend").onclick=async()=>{if(!store.get("gh_token")){askToken(()=>$("trend").click());return}const b=$("trend");b.disabled=true;try{await dispatch("hot-people-movies.yml",{add:"all"});say("Searching for popular people and films you do not follow yet. New ones are added with a NEW tag and their news is collected right after. This takes 15 to 40 minutes; refresh later.");watch()}catch(e){say("Failed: "+e.message)}setTimeout(()=>b.disabled=false,1e4)};
 $("run").onclick=async()=>{if(!store.get("gh_token")){askToken(()=>$("run").click());return}const b=$("run");b.disabled=true;try{await dispatch("collect.yml");say("Run started: collect, then write, then send to WordPress (5 to 10 minutes). Status updates above.");watch()}catch(e){say("Failed: "+e.message)}setTimeout(()=>b.disabled=false,1e4)};
 /* One-time connect: the page needs a GitHub key to change the repo. Ask for it on the first click, then carry on with that click. */
 let afterConnect=null;
