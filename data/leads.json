@@ -6,7 +6,7 @@
     "published": "2026-11-15T10:08:00+00:00",
     "summary": "",
     "batch": "2026-11-15 21:00",
-    "found": "2026-11-15T10:35:17.253634+00:00",
+    "found": "2026-11-15T10:36:46.542413+00:00",
     "celebrities": [
       "Pamela Anderson"
     ],
@@ -20,7 +20,7 @@
     "published": "2026-11-15T10:02:00+00:00",
     "summary": "",
     "batch": "2026-11-15 21:00",
-    "found": "2026-11-15T10:35:17.253634+00:00",
+    "found": "2026-11-15T10:36:46.542413+00:00",
     "celebrities": [
       "David Walliams"
     ],
@@ -66,9 +66,8 @@
     "celebrities": [
       "Scarlett Johansson"
     ],
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15cul-paper-tiger-roundtable1-lbmt/15cul-paper-tiger-roundtable1-lbmt-facebookJumbo.jpg",
-    "image_tries": 1,
-    "article_url": "https://www.nytimes.com/2026/11/15/movies/adam-driver-scarlett-johansson-and-miles-teller-interview-paper-tiger.html"
+    "image": "",
+    "image_tries": 2
   },
   {
     "title": "Ill Strictly pro Kai Widdrington cheers on Delta Goodrem from home after missing live show & fears he'll have to quit",
@@ -714,7 +713,7 @@
     "published": "2026-11-15T03:53:45+00:00",
     "summary": "",
     "batch": "2026-11-15 21:00",
-    "found": "2026-11-15T10:35:17.253634+00:00",
+    "found": "2026-11-15T10:36:46.542413+00:00",
     "celebrities": [
       "Michael J. Fox"
     ],
@@ -855,7 +854,7 @@
     "published": "2026-11-15T02:35:06+00:00",
     "summary": "",
     "batch": "2026-11-15 21:00",
-    "found": "2026-11-15T10:35:17.253634+00:00",
+    "found": "2026-11-15T10:36:46.542413+00:00",
     "celebrities": [
       "Zara Larsson"
     ],
@@ -903,8 +902,9 @@
     "celebrities": [
       "Jason Sudeikis"
     ],
-    "image": "",
-    "image_tries": 3
+    "image": "https://intouchweekly.com/wp-content/uploads/2026/06/MEGA715082_001-1000x600.jpg",
+    "image_tries": 2,
+    "article_url": "https://intouchweekly.com/olivia-wilde-opens-up-about-co-parenting-with-jason-sudeikis-after-painful-split/"
   },
   {
     "title": "Mckenna Grace on Smosh Reads Reddit Stories",
@@ -1039,7 +1039,7 @@
     "published": "2026-11-15T01:15:38+00:00",
     "summary": "",
     "batch": "2026-11-15 21:00",
-    "found": "2026-11-15T10:35:17.253634+00:00",
+    "found": "2026-11-15T10:36:46.542413+00:00",
     "celebrities": [
       "Keanu Reeves"
     ],
@@ -1985,7 +1985,7 @@
     "published": "2026-11-14T18:53:46+00:00",
     "summary": "",
     "batch": "2026-11-15 21:00",
-    "found": "2026-11-15T10:35:17.253634+00:00",
+    "found": "2026-11-15T10:36:46.542413+00:00",
     "celebrities": [
       "Jason Sudeikis"
     ],
@@ -3291,7 +3291,7 @@
     "published": "2026-11-14T11:08:55+00:00",
     "summary": "",
     "batch": "2026-11-15 21:00",
-    "found": "2026-11-15T10:35:17.253634+00:00",
+    "found": "2026-11-15T10:36:46.542413+00:00",
     "celebrities": [
       "Bug Hall"
     ]
@@ -4225,7 +4225,7 @@
     "published": "2026-11-14T00:52:54+00:00",
     "summary": "",
     "batch": "2026-11-15 21:00",
-    "found": "2026-11-15T10:35:17.253634+00:00",
+    "found": "2026-11-15T10:36:46.542413+00:00",
     "celebrities": [
       "Amanda Seyfried"
     ]
