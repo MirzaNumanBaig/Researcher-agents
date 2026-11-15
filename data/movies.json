@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-15",
  "films": [
   {
    "qid": "Q135196186",
@@ -28,7 +28,7 @@
    "critics": {
     "rotten_tomatoes": "77%",
     "metacritic": "58/100",
-    "overview": "While DNA India and The Economic Times characterised the reviews as positive, and The Indian Express deemed those as \"largely positive\", BBC News summarised that the film received mixed reviews. Audiences surveyed by PostTrak gave the film an 86% positive score, with 75% saying they would definitely recommend it."
+    "overview": "This article contains an excessive amount of intricate detail. Please help improve it by spinning off or relocating relevant information and removing excessive detail that goes against Wikipedia's inclusion policy."
    },
    "scale": "",
    "verdict": "Too early",
@@ -44,17 +44,25 @@
    }
   },
   {
-   "qid": "Q141430687",
-   "title": "The Last Kiss",
-   "release": "2026-09-15",
+   "qid": "Q131523413",
+   "title": "Verity",
+   "release": "2026-10-01",
    "director": [
-    "Yoko Okumura"
+    "Michael Showalter"
    ],
    "cast": [
-    "Mckenna Grace",
-    "Jaden Michael"
+    "Anne Hathaway",
+    "Dakota Johnson",
+    "Josh Hartnett",
+    "Ismaël Cruz Córdova",
+    "Irina Dvorovenko"
    ],
-   "producers": [],
+   "producers": [
+    "Nick Antosca",
+    "Stacey Sher",
+    "Michael Showalter",
+    "Anne Hathaway"
+   ],
    "language": [
     "English"
    ],
@@ -62,60 +70,30 @@
     "United States"
    ],
    "genres": [
-    "slasher film"
+    "crime film",
+    "drama film",
+    "mystery film"
    ],
-   "budget": null,
-   "gross": null,
-   "wikipedia": "The Last Kiss (2026 film)",
-   "critics": {},
-   "scale": "",
-   "verdict": "No figures yet",
-   "multiple": null,
+   "budget": 40000000,
+   "gross": 179000000,
+   "wikipedia": "Verity (film)",
+   "critics": {
+    "metacritic": "44/100 from 35 critics",
+    "rotten_tomatoes": "32%",
+    "consensus": "Possessing all the ingredients for a guilty pleasure, Verity leans more towards guilty than pleasurable due to plot twists that are more deflating than intriguing.",
+    "overview": "Ivan-Zadeh highlighted Johnson's return to the sensual thriller style associated with Fifty Shades of Grey, as well as Showalter's ability to balance the film's darker subject matter with a playful, self-aware tone. She also praised the performances and described the film as a \"wild and fun ride\", while criticizing its excessive twists and lengthy reveal."
+   },
+   "scale": "Mid-budget",
+   "verdict": "Hit",
+   "multiple": 4.47,
    "people": [
-    "Mckenna Grace"
+    "Anne Hathaway",
+    "Dakota Johnson",
+    "Josh Hartnett"
    ],
    "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q141430687",
-    "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Kiss_(2026_film)"
-   }
-  },
-  {
-   "qid": "Q136231215",
-   "title": "The Take",
-   "release": "2027-01-15",
-   "director": [
-    "Fernando Meirelles"
-   ],
-   "cast": [
-    "Robert Pattinson",
-    "Daisy Edgar-Jones",
-    "Danai Gurira",
-    "Sean Harris",
-    "Moisés Arias"
-   ],
-   "producers": [],
-   "language": [
-    "English"
-   ],
-   "countries": [
-    "United States"
-   ],
-   "genres": [
-    "heist film"
-   ],
-   "budget": null,
-   "gross": null,
-   "wikipedia": "The Take (2027 film)",
-   "critics": {},
-   "scale": "",
-   "verdict": "Upcoming",
-   "multiple": null,
-   "people": [
-    "Robert Pattinson"
-   ],
-   "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q136231215",
-    "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+    "wikidata": "https://www.wikidata.org/wiki/Q131523413",
+    "wikipedia": "https://en.wikipedia.org/wiki/Verity_(film)"
    }
   },
   {
@@ -147,18 +125,20 @@
     "documentary film"
    ],
    "budget": 7000000,
-   "gross": 80000000,
+   "gross": 86500000,
    "wikipedia": "You Can See Everything",
    "critics": {
-    "rotten_tomatoes": "96% from 209 reviews",
     "metacritic": "97/100 from 42 critics",
+    "rotten_tomatoes": "96% from 226 reviews",
     "consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
     "overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\"."
    },
    "scale": "Indie / low budget",
    "verdict": "Hit",
-   "multiple": 11.43,
+   "multiple": 12.36,
    "people": [
+    "Christopher Abbott",
+    "Lance Oppenheim",
     "Nathan Fielder"
    ],
    "sources": {
@@ -201,8 +181,8 @@
    "gross": 62000000,
    "wikipedia": "Primetime (film)",
    "critics": {
-    "rotten_tomatoes": "86%",
     "metacritic": "68/100 from 54 critics",
+    "rotten_tomatoes": "86%",
     "consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
     "overview": "Robert Pattinson received widespread acclaim from critics for his performance. Yet it’s hard to know to what end, or to care.\" Nicholas Barber of the BBC gave the film 5 out of 5 stars, calling Pattinson's performance \"extraordinary\" and \"the best performance yet from the most intriguing actor of his generation\"."
    },
@@ -210,6 +190,7 @@
    "verdict": "Hit",
    "multiple": 4.28,
    "people": [
+    "Lance Oppenheim",
     "Robert Pattinson"
    ],
    "sources": {
@@ -218,19 +199,191 @@
    }
   },
   {
-   "qid": "Q137722359",
-   "title": "Elsinore",
-   "release": "2026-09-04",
+   "qid": "Q124359083",
+   "title": "Animals",
+   "release": "2026-10-09",
+   "director": [],
+   "cast": [
+    "Gillian Anderson",
+    "Kerry Washington",
+    "Steven Yeun",
+    "Luis Gerardo Méndez",
+    "Adriana Paz"
+   ],
+   "producers": [
+    "Matt Damon",
+    "Brad Weston"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "thriller film",
+    "crime thriller film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "Animals (2026 film)",
+   "critics": {
+    "rotten_tomatoes": "30%",
+    "metacritic": "33/100 from 21 critics",
+    "overview": "Archived from the original on October 5, 2026."
+   },
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [
+    "Ben Affleck"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124359083",
+    "wikipedia": "https://en.wikipedia.org/wiki/Animals_(2026_film)"
+   }
+  },
+  {
+   "qid": "Q129677718",
+   "title": "Digger",
+   "release": "2026-10-01",
    "director": [
-    "Simon Stone"
+    "Alejandro González Iñárritu"
    ],
    "cast": [
-    "Andrew Scott",
-    "Olivia Colman",
-    "Billie Piper",
-    "Johnny Flynn",
-    "Luke Thompson",
-    "Monica Dolan"
+    "Tom Cruise",
+    "Sandra Hüller",
+    "John Goodman",
+    "Michael Stuhlbarg",
+    "Jesse Plemons",
+    "Sophie Wilde"
+   ],
+   "producers": [
+    "Alejandro González Iñárritu",
+    "Tom Cruise",
+    "Mary Parent"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States",
+    "United Kingdom",
+    "Mexico"
+   ],
+   "genres": [
+    "drama film",
+    "comedy film",
+    "black comedy film"
+   ],
+   "budget": 125000000,
+   "gross": 51000000,
+   "wikipedia": "Digger (2026 film)",
+   "critics": {
+    "metacritic": "46/100 from 60 critics",
+    "rotten_tomatoes": "52%",
+    "consensus": "A stylized satire whose audacious design proves too mannered for some of the laughs to smoothly land, Digger is a bold swing of the shovel by Tom Cruise and Alejandro González Iñárritu that misses as often as it strikes gold.",
+    "overview": "Ars Technica stated that \"some appreciat[ed] Iñárritu's bold, creative swings and others [found] the film practically unwatchable\". Manohla Dargis for The New York Times panned the film, calling it a \"lumbering white elephant of a movie that almost makes you feel sorry for everyone involved\" while offering tepid criticism of Cruise's performance, writing that \"all of Cruise's strenuous energy helps weigh down an already ponderous movie\"."
+   },
+   "scale": "Big studio",
+   "verdict": "Weak",
+   "multiple": 0.41,
+   "people": [
+    "Tom Cruise"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q129677718",
+    "wikipedia": "https://en.wikipedia.org/wiki/Digger_(2026_film)"
+   }
+  },
+  {
+   "qid": "Q136231215",
+   "title": "The Take",
+   "release": "2027-01-15",
+   "director": [
+    "Fernando Meirelles"
+   ],
+   "cast": [
+    "Robert Pattinson",
+    "Daisy Edgar-Jones",
+    "Danai Gurira",
+    "Sean Harris",
+    "Moisés Arias"
+   ],
+   "producers": [],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "heist film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "The Take (2027 film)",
+   "critics": {},
+   "scale": "",
+   "verdict": "Upcoming",
+   "multiple": null,
+   "people": [
+    "Robert Pattinson"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+   }
+  },
+  {
+   "qid": "Q141430687",
+   "title": "The Last Kiss",
+   "release": "2026-09-15",
+   "director": [
+    "Yoko Okumura"
+   ],
+   "cast": [
+    "Mckenna Grace",
+    "Jaden Michael"
+   ],
+   "producers": [],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "slasher film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "The Last Kiss (2026 film)",
+   "critics": {},
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [
+    "Mckenna Grace"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q141430687",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Kiss_(2026_film)"
+   }
+  },
+  {
+   "qid": "Q135454893",
+   "title": "The Liberation",
+   "release": "2026-09-04",
+   "director": [
+    "Guy Nattiv"
+   ],
+   "cast": [
+    "Carrie Coon",
+    "Bella Ramsey",
+    "Odessa Young",
+    "Lily James",
+    "Siobhan Williams"
    ],
    "producers": [],
    "language": [
@@ -241,41 +394,243 @@
     "United States"
    ],
    "genres": [
-    "biographical film"
+    "thriller film",
+    "drama film",
+    "mystery film"
    ],
    "budget": null,
    "gross": null,
-   "wikipedia": "Elsinore (film)",
+   "wikipedia": "The Liberation (film)",
    "critics": {
-    "rotten_tomatoes": "89%",
-    "metacritic": "73/100 from 18 critics",
-    "overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving."
+    "rotten_tomatoes": "83%"
    },
    "scale": "",
    "verdict": "No figures yet",
    "multiple": null,
    "people": [
-    "Johnny Flynn"
+    "Bella Ramsey"
    ],
    "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q137722359",
-    "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
+    "wikidata": "https://www.wikidata.org/wiki/Q135454893",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Liberation_(film)"
    }
   },
   {
-   "qid": "Q135906833",
-   "title": "One Night Only",
-   "release": "2026-08-07",
+   "qid": "Q133852597",
+   "title": "The Whisper Man",
+   "release": "2026-08-28",
    "director": [
-    "Will Gluck"
+    "James Ashcroft"
    ],
    "cast": [
-    "Monica Barbaro",
-    "Callum Turner",
-    "Molly Ringwald",
-    "LeVar Burton",
-    "Maya Hawke",
-    "Julia Fox"
+    "Robert De Niro",
+    "Michelle Monaghan",
+    "Adam Scott",
+    "Michael Keaton",
+    "John Carroll Lynch",
+    "Hamish Linklater"
+   ],
+   "producers": [
+    "Russo brothers",
+    "Angela Russo-Otstot",
+    "Michael Disco"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "thriller film",
+    "crime film"
+   ],
+   "budget": 50000000,
+   "gross": null,
+   "wikipedia": "The Whisper Man",
+   "critics": {
+    "metacritic": "52/100 from 19 critics",
+    "rotten_tomatoes": "45%",
+    "consensus": "Assembling an impressive cast to go through the motions, The Whisper Man is reasonably creepy but could've stood to crank up the fresh ideas and genuine tension by a few more decibels."
+   },
+   "scale": "Mid-budget",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [
+    "Robert De Niro"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133852597",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Whisper_Man"
+   }
+  },
+  {
+   "qid": "Q124804916",
+   "title": "The End of Oak Street",
+   "release": "2026-08-09",
+   "director": [
+    "David Robert Mitchell"
+   ],
+   "cast": [
+    "Anne Hathaway",
+    "Ewan McGregor",
+    "Maisy Stella",
+    "Christian Convery",
+    "Jordan Alexa Davis",
+    "P.J. Byrne"
+   ],
+   "producers": [
+    "J. J. Abrams",
+    "David Robert Mitchell",
+    "Matt Jackson",
+    "Tommy Harper"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States",
+    "Australia",
+    "Canada"
+   ],
+   "genres": [
+    "science fiction film",
+    "survival film"
+   ],
+   "budget": 80000000,
+   "gross": 122000000,
+   "wikipedia": "The End of Oak Street",
+   "critics": {
+    "rotten_tomatoes": "86%",
+    "metacritic": "69/100 from 52 critics",
+    "consensus": "Tapping into the primal pleasures of the classic creature feature, The End of Oak Street is pulpy good fun carried off with a light touch and a sharp bite.",
+    "overview": "Due to its high production and marketing costs, Variety estimated the film would lose Warner Bros. Zachary Lee of RogerEbert.com awarded The End of Oak Street four out of four, praising its combination of family drama, apocalyptic imagery, and dinosaur horror."
+   },
+   "scale": "Big studio",
+   "verdict": "Modest",
+   "multiple": 1.52,
+   "people": [
+    "Anne Hathaway"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124804916",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_End_of_Oak_Street"
+   }
+  },
+  {
+   "qid": "Q113244935",
+   "title": "Spider-Man: Brand New Day",
+   "release": "2026-07-29",
+   "director": [
+    "Destin Daniel Cretton"
+   ],
+   "cast": [
+    "Tom Holland",
+    "Zendaya",
+    "Jacob Batalon",
+    "Liza Colón-Zayas",
+    "Jon Bernthal"
+   ],
+   "producers": [
+    "Kevin Feige",
+    "Amy Pascal",
+    "Avi Arad",
+    "Rachel O'Connor"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Germany"
+   ],
+   "genres": [
+    "adventure film",
+    "fantasy film",
+    "action film"
+   ],
+   "budget": 225000000,
+   "gross": 2523000000,
+   "wikipedia": "Spider-Man: Brand New Day",
+   "critics": {
+    "rotten_tomatoes": "90%",
+    "metacritic": "66/100 from 56 critics",
+    "consensus": "Spinning a web of spectacular set pieces together with mature emotional stakes and Tom Holland's soulful performance, Brand New Day is a promising reset that portends Spidey will remain sticky on the big screen for years to come.",
+    "overview": "In its second weekend, it remained the top film in most of its 67 markets. Tom Holland (pictured in July 2026) received praise for his performance."
+   },
+   "scale": "Blockbuster",
+   "verdict": "Hit",
+   "multiple": 11.21,
+   "people": [
+    "Florence Pugh"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113244935",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+   }
+  },
+  {
+   "qid": "Q106392679",
+   "title": "Coyote vs. Acme",
+   "release": "2026-07-25",
+   "director": [
+    "Dave Green"
+   ],
+   "cast": [
+    "John Cena",
+    "Lana Condor",
+    "Will Forte",
+    "P.J. Byrne",
+    "Tone Bell",
+    "Martha Kelly"
+   ],
+   "producers": [
+    "James Gunn",
+    "Christopher DeFaria",
+    "Jesse Ehrman"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "comedy film",
+    "adventure film",
+    "family film"
+   ],
+   "budget": 70000000,
+   "gross": 126000000,
+   "wikipedia": "Coyote vs. Acme",
+   "critics": {
+    "metacritic": "77/100 from 46 critics",
+    "rotten_tomatoes": "96%",
+    "consensus": "A daffy satire that's equal parts heart and wily humor, Coyote vs. Acme makes a triumphant case for the Looney Tunes' modern relevance with a sense of good-natured mischief that'd make even Bugs Bunny bow.",
+    "overview": "In the United States and Canada, Coyote vs. The website's consensus reads: \"A daffy satire that's equal parts heart and wily humor, Coyote vs."
+   },
+   "scale": "Big studio",
+   "verdict": "Modest",
+   "multiple": 1.8,
+   "people": [
+    "James Gunn"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106392679",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coyote_vs._Acme"
+   }
+  },
+  {
+   "qid": "Q141913322",
+   "title": "The Housemaid's Secret",
+   "release": "2027-12-17",
+   "director": [
+    "Paul Feig"
+   ],
+   "cast": [
+    "Sydney Sweeney"
    ],
    "producers": [],
    "language": [
@@ -285,27 +640,21 @@
     "United States"
    ],
    "genres": [
-    "romantic comedy film",
-    "science fiction"
+    "psychological thriller"
    ],
-   "budget": 25000000,
-   "gross": 25200000,
-   "wikipedia": "One Night Only (2026 film)",
-   "critics": {
-    "rotten_tomatoes": "44%",
-    "metacritic": "42/100 from 36 critics",
-    "consensus": "Hampered by a high-concept premise that's full of red flags, One Night Only has charming moments thanks to its appealing stars but keeps killing the mood with world-building that prompts more questions than the script is willing to answer.",
-    "overview": "It opened to… Less than Jackass: Best and Last. Some critics wrote that the film's premise of a dystopia ruled by conservative capitalists was interesting and relevant to current events in the United States, but found that the implementation was nonsensical and distracting."
-   },
-   "scale": "Mid-budget",
-   "verdict": "Weak",
-   "multiple": 1.01,
+   "budget": null,
+   "gross": null,
+   "wikipedia": "The Housemaid's Secret",
+   "critics": {},
+   "scale": "",
+   "verdict": "Upcoming",
+   "multiple": null,
    "people": [
-    "Callum Turner"
+    "Sydney Sweeney"
    ],
    "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q135906833",
-    "wikipedia": "https://en.wikipedia.org/wiki/One_Night_Only_(2026_film)"
+    "wikidata": "https://www.wikidata.org/wiki/Q141913322",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Housemaid's_Secret"
    }
   },
   {
@@ -414,7 +763,7 @@
    "gross": null,
    "wikipedia": "Love of Your Life (film)",
    "critics": {
-    "rotten_tomatoes": "80% from 55 reviews",
+    "rotten_tomatoes": "81% from 57 reviews",
     "metacritic": "62/100 from 14 critics",
     "consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak."
    },
@@ -515,6 +864,49 @@
    }
   },
   {
+   "qid": "Q137722359",
+   "title": "Elsinore",
+   "release": "2026-09-04",
+   "director": [
+    "Simon Stone"
+   ],
+   "cast": [
+    "Andrew Scott",
+    "Olivia Colman",
+    "Billie Piper",
+    "Johnny Flynn",
+    "Luke Thompson",
+    "Monica Dolan"
+   ],
+   "producers": [],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United Kingdom",
+    "United States"
+   ],
+   "genres": [
+    "biographical film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "Elsinore (film)",
+   "critics": {
+    "rotten_tomatoes": "89%",
+    "metacritic": "75/100 from 19 critics",
+    "overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving."
+   },
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137722359",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
+   }
+  },
+  {
    "qid": "Q131901398",
    "title": "Practical Magic 2",
    "release": "2026-08-26",
@@ -548,8 +940,8 @@
    "gross": 106000000,
    "wikipedia": "Practical Magic 2",
    "critics": {
-    "rotten_tomatoes": "36%",
     "metacritic": "44/100 from 41 critics",
+    "rotten_tomatoes": "35%",
     "consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
     "overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans."
    },
@@ -597,8 +989,8 @@
    "gross": 39000000,
    "wikipedia": "The Dog Stars (film)",
    "critics": {
-    "rotten_tomatoes": "41%",
     "metacritic": "49/100 from 46 critics",
+    "rotten_tomatoes": "41%",
     "consensus": "A derivative and drowsy tour through the post-apocalypse, The Dog Stars' lush visuals can't compensate for its listless narrative and underpowered pacing.",
     "overview": "In the United States and Canada, The Dog Stars was released alongside Buddy, Coyote vs. Robert Daniels of RogerEbert.com gave the film one and a half out of four stars, writing, \"It probably takes more effort to make a boring post-apocalyptic survivalist action film than to make a good one."
    },
@@ -656,6 +1048,50 @@
    "sources": {
     "wikidata": "https://www.wikidata.org/wiki/Q132560837",
     "wikipedia": "https://en.wikipedia.org/wiki/The_Wrong_Girls"
+   }
+  },
+  {
+   "qid": "Q135906833",
+   "title": "One Night Only",
+   "release": "2026-08-07",
+   "director": [
+    "Will Gluck"
+   ],
+   "cast": [
+    "Monica Barbaro",
+    "Callum Turner",
+    "Molly Ringwald",
+    "LeVar Burton",
+    "Maya Hawke",
+    "Julia Fox"
+   ],
+   "producers": [],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "romantic comedy film",
+    "science fiction"
+   ],
+   "budget": 25000000,
+   "gross": 25200000,
+   "wikipedia": "One Night Only (2026 film)",
+   "critics": {
+    "rotten_tomatoes": "44%",
+    "metacritic": "42/100 from 36 critics",
+    "consensus": "Hampered by a high-concept premise that's full of red flags, One Night Only has charming moments thanks to its appealing stars but keeps killing the mood with world-building that prompts more questions than the script is willing to answer.",
+    "overview": "It opened to… Less than Jackass: Best and Last. Some critics wrote that the film's premise of a dystopia ruled by conservative capitalists was interesting and relevant to current events in the United States, but found that the implementation was nonsensical and distracting."
+   },
+   "scale": "Mid-budget",
+   "verdict": "Weak",
+   "multiple": 1.01,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135906833",
+    "wikipedia": "https://en.wikipedia.org/wiki/One_Night_Only_(2026_film)"
    }
   }
  ]
