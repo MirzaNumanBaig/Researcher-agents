@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-16 11:00",
+  "celebrity": "Hugh Jackman",
+  "stories": [
+    {
+      "title": "Hugh Jackman, Rebel Wilson Call For Famous Reef To Be Saved",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVYwLXMyZTJUeXFaVnY5ODNDdTQ2bzRFLWNPNkRhYU5xMy1YalBCSHlmQmZ0VHhNMm00WmxIYzBpUHFtS1V1N2tWXzJ6VmhtcEFKbUlNMEJBempKbUVJRlh5VWFGVm5GTDZqQ1ZGaFZLc1Z2d0s2dERCZzZFS1VORDhVLVVqNTlUZHpZcEYxbndBYkVBekpoSTBOVGNBbDZKX2k2UlFETzRqSDVVNHk0QW5lZDdNMnV3eVRTZmpHbkIxYmZqZ2lCc05NeFV3Z0oyS1NOWVppQQ?oc=5",
+      "published": "2026-11-15T22:47:58+00:00",
+      "outlets": [
+        {
+          "source": "Variety Australia",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVYwLXMyZTJUeXFaVnY5ODNDdTQ2bzRFLWNPNkRhYU5xMy1YalBCSHlmQmZ0VHhNMm00WmxIYzBpUHFtS1V1N2tWXzJ6VmhtcEFKbUlNMEJBempKbUVJRlh5VWFGVm5GTDZqQ1ZGaFZLc1Z2d0s2dERCZzZFS1VORDhVLVVqNTlUZHpZcEYxbndBYkVBekpoSTBOVGNBbDZKX2k2UlFETzRqSDVVNHk0QW5lZDdNMnV3eVRTZmpHbkIxYmZqZ2lCc05NeFV3Z0oyS1NOWVppQQ?oc=5",
+          "article_url": "https://au.variety.com/2026/film/news/hugh-jackman-rebel-wilson-among-150-plus-australian-artists-calling-for-famous-reef-to-be-saved-42614/",
+          "image": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=1200,height=628/https://images-r2-1.thebrag.com/var/uploads/2026/03/hugh-jackman-dec-2025-getty-aus-e1773105094963.jpg"
+        }
+      ],
+      "image": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=1200,height=628/https://images-r2-1.thebrag.com/var/uploads/2026/03/hugh-jackman-dec-2025-getty-aus-e1773105094963.jpg",
+      "image_source": "https://au.variety.com/2026/film/news/hugh-jackman-rebel-wilson-among-150-plus-australian-artists-calling-for-famous-reef-to-be-saved-42614/"
+    },
+    {
+      "title": "Kevin Parker, Hugh Jackman & Over 150 Australian Artists Sign Open Letter to Save Reef From Oil and Gas Plans",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTNVdENRZ1NCU1ZsVlcwM1UtVWFvMnJFZVNIb0lnay0yN21SMmNpRTdKSkptbVpHZFNvRU9jQkEzdHZIQnhSZVNfSzBvNGVWQTZsWW40UXktQkZXOU9OQXEzbklzMEZaV1VvQ1B2QVVocjA1N1g5Qm1tTDg3RVJvWWE5dWZqNl91R184MlQ0amdFTS15dlB5d1ZQaGdxcDU5NXdXZHJiQ2dqV1Ywd2RyUFh3?oc=5",
+      "published": "2026-11-15T22:27:47+00:00",
+      "outlets": [
+        {
+          "source": "Rolling Stone Australia",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTNVdENRZ1NCU1ZsVlcwM1UtVWFvMnJFZVNIb0lnay0yN21SMmNpRTdKSkptbVpHZFNvRU9jQkEzdHZIQnhSZVNfSzBvNGVWQTZsWW40UXktQkZXOU9OQXEzbklzMEZaV1VvQ1B2QVVocjA1N1g5Qm1tTDg3RVJvWWE5dWZqNl91R184MlQ0amdFTS15dlB5d1ZQaGdxcDU5NXdXZHJiQ2dqV1Ywd2RyUFh3?oc=5",
+          "article_url": "https://au.rollingstone.com/music/music-news/kevin-parker-hugh-jackman-greenpeace-open-letter-scott-reef-103394/",
+          "image": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=1200,height=628/https://images-r2-1.thebrag.com/rs/uploads/2026/10/tame-impala-brisbane-oct-2026-jordan-munns-02.jpg"
+        }
+      ],
+      "image": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=1200,height=628/https://images-r2-1.thebrag.com/rs/uploads/2026/10/tame-impala-brisbane-oct-2026-jordan-munns-02.jpg",
+      "image_source": "https://au.rollingstone.com/music/music-news/kevin-parker-hugh-jackman-greenpeace-open-letter-scott-reef-103394/"
+    }
+  ]
+}

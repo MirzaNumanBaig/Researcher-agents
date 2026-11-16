@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-16 11:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "‘SNL’ Imagines Bob Dylan & The Pope’s Conversation in Cut-for-Time Sketch",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXNYN3ZxU2lHZG8wVEV5dUxmdmZLc2RTMFg3OGlDbkpqVzV3czh0ZnVIeFdIME85bDlfcUpxUm5iZm9LVkVWOFlWOVlUZmVlZjdiSGs0T0s3Uk4xRVNWUzQ4SWdqd2FiWDUtdGp5LUo5UTNMVkJiVVJyS242eHJVRUVBVExjek1UcjNBbURB?oc=5",
+      "published": "2026-11-15T22:51:17+00:00",
+      "outlets": [
+        {
+          "source": "Billboard",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXNYN3ZxU2lHZG8wVEV5dUxmdmZLc2RTMFg3OGlDbkpqVzV3czh0ZnVIeFdIME85bDlfcUpxUm5iZm9LVkVWOFlWOVlUZmVlZjdiSGs0T0s3Uk4xRVNWUzQ4SWdqd2FiWDUtdGp5LUo5UTNMVkJiVVJyS242eHJVRUVBVExjek1UcjNBbURB?oc=5",
+          "article_url": "https://www.billboard.com/culture/tv-film/snl-bob-dylan-pope-john-mulaney-1236382560/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Bob Dylan Meets the Pope on SNL",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vZldoWW41N3NQbzFqYWlweHJLdzRCZjhVbm9aa1dnNjhxY21ISVcwTjZ5TnhQN0IwZU9PSUJDV0hCbkd4cXN2MW94Zm0zSUZETkgwMXZVVHB4RnR4NGYzaWN3bDQwUQ?oc=5",
+      "published": "2026-11-15T21:53:26+00:00",
+      "outlets": [
+        {
+          "source": "Consequence of Sound",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vZldoWW41N3NQbzFqYWlweHJLdzRCZjhVbm9aa1dnNjhxY21ISVcwTjZ5TnhQN0IwZU9PSUJDV0hCbkd4cXN2MW94Zm0zSUZETkgwMXZVVHB4RnR4NGYzaWN3bDQwUQ?oc=5",
+          "article_url": "https://consequence.net/2026/11/bob-dylan-the-pope-snl/",
+          "image": "https://consequence.net/wp-content/uploads/2026/11/Pope-and-Bob-Dylan.jpeg"
+        }
+      ],
+      "image": "https://consequence.net/wp-content/uploads/2026/11/Pope-and-Bob-Dylan.jpeg",
+      "image_source": "https://consequence.net/2026/11/bob-dylan-the-pope-snl/"
+    }
+  ]
+}
