@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Scrooge: A Kidman Carol Off Broadway"
 seo_description: "Cate Blanchett Scrooge is played by Josh Sharp in A Kidman Carol, an off-Broadway Dickens spoof running until 30 December. Here is what to know."
 focus_keyword: "Cate Blanchett Scrooge"
 permalink: "cate-blanchett-scrooge-kidman-carol"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Cate Blanchett"
@@ -14,6 +14,15 @@ tags: ["Cate Blanchett", "Nicole Kidman"]
 image_prompt: "An empty off-Broadway theatre stage dressed with Christmas lights and a golden statuette on a small table, warm spotlight, rows of red seats"
 sources:
   - "https://www.newyorktheatreguide.com/theatre-news/interviews/marla-mindelle-and-josh-sharp-bring-awards-season-to-the-holiday-season-in-a-kidman-carol"
+image: "images/2026-11-17-04-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-3.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-3.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2663
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-04-00-cate-blanchett-768x432.webp"
+wp_id: 2664
+wp_link: "https://moduscarry.com/cate-blanchett-scrooge-kidman-carol/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

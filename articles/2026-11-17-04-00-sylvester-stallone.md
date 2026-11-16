@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone Rocky Auction: Early Contracts for Sale"
 seo_description: "Sylvester Stallone Rocky auction: the first manager's contracts, letters and a revised script go on sale as the film turns 50. Bidding closes 1 December."
 focus_keyword: "Sylvester Stallone Rocky auction"
 permalink: "sylvester-stallone-rocky-auction"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Sylvester Stallone"
@@ -15,6 +15,15 @@ image_prompt: "A dusty box of old letters and film contracts on a wooden desk be
 sources:
   - "https://billypenn.com/2026/11/16/rocky-50th-anniversary-stallone-memorabilia-auction/"
   - "https://relevantmagazine.com/culture/movies/anthony-ippolito-bet-on-himself-to-play-young-sylvester-stallone-its-one-of-the-best-performances-of-the-year/"
+image: "images/2026-11-17-04-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588440614\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588440614\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2708
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-04-00-sylvester-stallone-768x432.webp"
+wp_id: 2709
+wp_link: "https://moduscarry.com/sylvester-stallone-rocky-auction/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

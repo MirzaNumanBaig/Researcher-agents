@@ -5,7 +5,7 @@ seo_title: "Brendan Fraser The Mummy 4: Cast, Director, Release Date"
 seo_description: "Brendan Fraser returns for The Mummy 4 with Rachel Weisz. Universal has set a 19 May 2028 release. Here is who is directing and what is known."
 focus_keyword: "Brendan Fraser The Mummy 4"
 permalink: "brendan-fraser-the-mummy-4"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Brendan Fraser"
@@ -15,6 +15,15 @@ image_prompt: "An empty vintage cinema at dusk, desert sand drifting across the 
 sources:
   - "https://au.variety.com/2026/film/global/the-mummy-4-release-date-may-2028-brendan-fraser-rachel-weisz-32961/"
   - "https://www.film-news.co.uk/news/UK/124734/The-Mummy-4-confirmed-with-Brendan-Fraser-and-Rachel-Weisz"
+image: "images/2026-11-17-04-00-brendan-fraser.webp"
+image_alt: "Brendan Fraser: Brendan Fraser Confirmed for The Mummy 4 in May 2028"
+image_credit: "Image: <a href=\"https://au.variety.com/2026/film/global/the-mummy-4-release-date-may-2028-brendan-fraser-rachel-weisz-32961/\" rel=\"nofollow noopener\">au.variety.com</a> (cropped)"
+wp_media_id: 2659
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-04-00-brendan-fraser-768x432.webp"
+wp_id: 2660
+wp_link: "https://moduscarry.com/brendan-fraser-the-mummy-4/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

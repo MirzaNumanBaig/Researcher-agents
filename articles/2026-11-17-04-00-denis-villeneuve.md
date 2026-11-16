@@ -5,7 +5,7 @@ seo_title: "Denis Villeneuve Bond: Why He Chose Robert Pattinson"
 seo_description: "Denis Villeneuve Bond update: the director explains why Robert Pattinson is the new 007 in Bond 26, who missed out and when filming starts."
 focus_keyword: "Denis Villeneuve Bond"
 permalink: "denis-villeneuve-bond-robert-pattinson-007"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Denis Villeneuve"
@@ -17,6 +17,15 @@ sources:
   - "https://www.indiewire.com/news/analysis/robert-pattinson-james-bond-risky-casting-denis-villeneuve-1235228305/"
   - "https://www.timeout.com/news/its-official-robert-pattinson-is-the-new-james-bond-111626"
   - "https://nexuspointnews.com/robert-pattinson-is-set-to-star-as-james-bond-in-denis-villeneuves-bond-26/"
+image: "images/2026-11-17-04-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve Explains Why Pattinson Is His Bond"
+image_credit: "Image: <a href=\"https://www.independent.co.uk/bulletin/culture/denis-villeneuve-robert-pattinson-james-bond-b3085895.html\" rel=\"nofollow noopener\">The Independent</a> (cropped)"
+wp_media_id: 2671
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-04-00-denis-villeneuve-768x432.webp"
+wp_id: 2672
+wp_link: "https://moduscarry.com/denis-villeneuve-bond-robert-pattinson-007/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Yaga Kiss and Bulgari Campaign Explained"
 seo_description: "Hudson Williams' Yaga kiss with Noah Reid went viral, and he fronts Bulgari's Christmas 2026 teaser with Joey King and Caleb McLaughlin. Here is the detail."
 focus_keyword: "Hudson Williams Yaga"
 permalink: "hudson-williams-yaga-bulgari-campaign"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Hudson Williams"
@@ -16,6 +16,15 @@ sources:
   - "https://www.out.com/gay-tv-shows/hudson-williams-and-noah-reid-yaga-kiss"
   - "https://en.xmag.live/bulgari-brings-together-hudson-williams-joey-king-and-caleb-mclaughlin-for-its-new-christmas-2026-campaign/"
   - "https://www.designscene.net/2026/11/bulgari-holiday-hudson-williams.html"
+image: "images/2026-11-17-04-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(18).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(18).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2673
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-04-00-hudson-williams-768x432.webp"
+wp_id: 2674
+wp_link: "https://moduscarry.com/hudson-williams-yaga-bulgari-campaign/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

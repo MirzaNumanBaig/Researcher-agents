@@ -5,7 +5,7 @@ seo_title: "Jacob Tremblay Unabomber: Governors Awards Appearance"
 seo_description: "Jacob Tremblay turned up at the Governors Awards on 15 November. Here is where his Netflix film Unabomber stands with critics and awards."
 focus_keyword: "Jacob Tremblay Unabomber"
 permalink: "jacob-tremblay-unabomber"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Jacob Tremblay"
@@ -15,6 +15,15 @@ image_prompt: "An empty awards-night ballroom with round tables, soft golden lig
 sources:
   - "https://www.laineygossip.com/kate-oflynn-jacob-tremblay-charles-melton-and-all-the-tv-people-at-the-governors-awards/"
   - "https://en.wikipedia.org/wiki/Unabomber_(film)"
+image: "images/2026-11-17-04-00-jacob-tremblay.webp"
+image_alt: "Jacob Tremblay: Jacob Tremblay Attends Governors Awards Ahead of Unabomber Push"
+image_credit: "Image: <a href=\"https://www.laineygossip.com/kate-oflynn-jacob-tremblay-charles-melton-and-all-the-tv-people-at-the-governors-awards/\" rel=\"nofollow noopener\">LaineyGossip</a> (cropped)"
+wp_media_id: 2678
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-04-00-jacob-tremblay-768x432.webp"
+wp_id: 2679
+wp_link: "https://moduscarry.com/jacob-tremblay-unabomber/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond: Amazon Names the New 007"
 seo_description: "Robert Pattinson is the new James Bond. See how Amazon revealed the casting on Instagram, what Denis Villeneuve said and what happens next."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,15 @@ sources:
   - "https://variety.com/2026/film/global/bond-announcement-amazon-tradition-robert-pattinson-1236949030/"
   - "https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/"
   - "https://www.independent.co.uk/bulletin/culture/denis-villeneuve-robert-pattinson-james-bond-b3085895.html"
+image: "images/2026-11-17-04-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Actor Robert Pattinson at the 75th Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2700
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-04-00-robert-pattinson-768x432.webp"
+wp_id: 2701
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

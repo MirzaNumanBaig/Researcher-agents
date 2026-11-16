@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Black Doves Finale: Helen's Secret Is Out"
 seo_description: "The Keira Knightley Black Doves finale ends with Helen's secret life exposed to her husband during a siege on London. Spoilers and what it means."
 focus_keyword: "Keira Knightley Black Doves finale"
 permalink: "keira-knightley-black-doves-finale"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Keira Knightley"
@@ -15,6 +15,15 @@ image_prompt: "A rain-soaked London street at night with a stalled black motorca
 sources:
   - "https://www.thedailybeast.com/obsessed/keira-knightley-blows-up-her-life-in-explosive-black-doves-finale"
   - "https://www.countryliving.com/uk/news/a74438401/keira-knightley-coat-black-doves-lookalike-marks-spencer/"
+image: "images/2026-11-17-04-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/36966509@N05/6138909957\" rel=\"noopener\">Josh Jensen</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/36966509@N05/6138909957\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2688
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-04-00-keira-knightley-768x432.webp"
+wp_id: 2689
+wp_link: "https://moduscarry.com/keira-knightley-black-doves-finale/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

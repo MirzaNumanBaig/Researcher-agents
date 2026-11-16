@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Bond Girl Wishlist and Dior Gown Debate"
 seo_description: "Inde Navarrette Bond Girl talk grows after Robert Pattinson's casting, while her Dior Governors Awards gown divides fans. Here is what is confirmed."
 focus_keyword: "Inde Navarrette Bond Girl"
 permalink: "inde-navarrette-bond-girl"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Inde Navarrette"
@@ -16,6 +16,15 @@ sources:
   - "https://www.hindustantimes.com/entertainment/hollywood/zendaya-margaret-qualley-or-inde-navrette-opposite-robert-pattinsons-james-bond-the-ultimate-bond-girl-wishlist-101794843774083.html"
   - "https://www.fashiontimes.co.uk/inde-navarrette-dior-gown-governors-awards-criticism-1767838"
   - "https://creepycatalog.com/inde-navarrette-says-playing-the-real-nikki-in-obsessions-trivia-bar-scene-was-harder-than-she-expected/"
+image: "images/2026-11-17-04-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03_(cropped2).jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03_(cropped2).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2675
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-04-00-inde-navarrette-768x432.webp"
+wp_id: 2676
+wp_link: "https://moduscarry.com/inde-navarrette-bond-girl/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

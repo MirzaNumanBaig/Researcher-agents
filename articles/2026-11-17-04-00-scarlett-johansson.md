@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Paper Tiger Opens to a Gray Record"
 seo_description: "Scarlett Johansson's Paper Tiger posted a US$35,834 per-screen average in six cinemas, a James Gray record. See how it compares and what comes next."
 focus_keyword: "Scarlett Johansson Paper Tiger"
 permalink: "scarlett-johansson-paper-tiger"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Scarlett Johansson"
@@ -15,6 +15,15 @@ image_prompt: "A single lit cinema marquee on a quiet city street at dusk, wet p
 sources:
   - "https://screenrant.com/scarlett-johansson-paper-tiger-box-office-opening-weekend-domestic-result/"
   - "https://www.imdb.com/news/ni66113736/?ref_=nmnw_art_perm"
+image: "images/2026-11-17-04-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-108.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-108.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2706
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-04-00-scarlett-johansson-768x432.webp"
+wp_id: 2707
+wp_link: "https://moduscarry.com/scarlett-johansson-paper-tiger/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

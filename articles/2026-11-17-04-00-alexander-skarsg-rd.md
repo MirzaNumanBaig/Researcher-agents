@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Wicker: Why Playing Good Was Scary"
 seo_description: "Alexander Skarsgård explains why his gentle husband in Wicker scared him, from the glued-on reed mask to working beside Olivia Colman."
 focus_keyword: "Alexander Skarsgård Wicker"
 permalink: "alexander-skarsgard-wicker-sweet-role"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 04:00"
 celebrity: "Alexander Skarsgård"
@@ -16,6 +16,10 @@ sources:
   - "https://creepycatalog.com/for-alexander-skarsgard-the-scary-part-of-playing-olivia-colmans-husband-in-wicker-was-being-good-and-sweet/"
   - "https://collider.com/game-of-thrones-meets-jack-reacher-netflix-near-perfect-action-epic-the-northman/"
   - "https://screenrant.com/murderbot-apple-tv-series-perfect-book-adaptation/"
+wp_id: 2658
+wp_link: "https://moduscarry.com/?p=2658"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**
