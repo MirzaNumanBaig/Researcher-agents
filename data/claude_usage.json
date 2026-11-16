@@ -19503,6 +19503,22 @@
    "turns": 11,
    "seconds": 48,
    "cost_usd": 0.2543
+  },
+  {
+   "date": "2026-11-16",
+   "time": "2026-11-16T18:24:53+00:00",
+   "batch": "2026-11-17 04:00",
+   "celebrity": "Druski",
+   "article": "2026-11-17-04-00-druski.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 818,
+   "cache_read_tokens": 76532,
+   "cache_write_tokens": 19236,
+   "turns": 6,
+   "seconds": 14,
+   "cost_usd": 0.0929
   }
  ]
 }
