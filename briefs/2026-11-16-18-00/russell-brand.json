@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-16 18:00",
+  "celebrity": "Russell Brand",
+  "stories": [
+    {
+      "title": "EXCLUSIVE: Russell Brand’s conviction proves women’s voices can change everything",
+      "url": "https://www.who.com.au/entertainment/russell-brand-prison/",
+      "published": "2026-11-16T01:30:23+00:00",
+      "outlets": [
+        {
+          "source": "who.com.au",
+          "url": "https://www.who.com.au/entertainment/russell-brand-prison/",
+          "article_url": "",
+          "image": "https://www.who.com.au/wp-content/uploads/sites/15/2026/11/copy-of-offline-17-6afa563024168.png?format=auto&v=1794790987"
+        }
+      ],
+      "image": "https://www.who.com.au/wp-content/uploads/sites/15/2026/11/copy-of-offline-17-6afa563024168.png?format=auto&v=1794790987",
+      "image_source": "https://www.who.com.au/entertainment/russell-brand-prison/"
+    }
+  ]
+}
