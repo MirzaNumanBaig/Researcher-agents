@@ -1,0 +1,46 @@
+{
+  "batch": "2026-11-17 04:00",
+  "celebrity": "Renate Reinsve",
+  "stories": [
+    {
+      "title": "Renate Reinsve and Norwegian cinema stand out at the European Film Awards",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlVTOUpWdWQ0NGRMTHhMaVVFUktKdkRubmRXdmdweHhEZ3gtTFB6MFItUjkwU0FXYnNQVDZ5MmloamVZRUNXdHBsMDdDcnFSdzFZT25IaHIyRVctQ2JMdmxZOTlpT2ZiS1pzNkVoNjduWUY1V2NGSkVIU3pKYjJFUUxaQzNxcWdUNWlzdGR2SzhhamJQc1hVQUl5SXNlV0tLZjh2M01qR3pjaFNCaVNhS19n?oc=5",
+      "published": "2026-11-16T16:35:50+00:00",
+      "outlets": [
+        {
+          "source": "Foro3D",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlVTOUpWdWQ0NGRMTHhMaVVFUktKdkRubmRXdmdweHhEZ3gtTFB6MFItUjkwU0FXYnNQVDZ5MmloamVZRUNXdHBsMDdDcnFSdzFZT25IaHIyRVctQ2JMdmxZOTlpT2ZiS1pzNkVoNjduWUY1V2NGSkVIU3pKYjJFUUxaQzNxcWdUNWlzdGR2SzhhamJQc1hVQUl5SXNlV0tLZjh2M01qR3pjaFNCaVNhS19n?oc=5",
+          "article_url": "https://foro3d.com/en/2026/noviembre/renate-reinsve-y-el-cine-noruego-destacan-en-los-premios-del-cine-euro.html",
+          "image": "https://foro3d.com/2026/noviembre/imagenes/renate-reinsve-y-el-cine-noruego-destacan-en-los-premios-del-cine-euro.webp"
+        }
+      ],
+      "image": "https://foro3d.com/2026/noviembre/imagenes/renate-reinsve-y-el-cine-noruego-destacan-en-los-premios-del-cine-euro.webp",
+      "image_source": "https://foro3d.com/en/2026/noviembre/renate-reinsve-y-el-cine-noruego-destacan-en-los-premios-del-cine-euro.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Butterfly",
+      "release": "2026-09-25",
+      "director": [
+        "Itonje Søimer Guttormsen"
+      ],
+      "cast": [
+        "Renate Reinsve",
+        "Numan Acar"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141559767"
+      }
+    }
+  ]
+}

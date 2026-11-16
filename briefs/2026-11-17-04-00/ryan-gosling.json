@@ -1,0 +1,65 @@
+{
+  "batch": "2026-11-17 04:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ryan Gosling’s Facial Features Suddenly Become Topic Of Discussion, Now Fans Are Bringing Up Shannen Doherty",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFZhMlA2T29PSlNQWWl3c1F2cFp4UU5fNTVGM3FYSTFCdWRGLVAtc0FYb09OZVNQU0tROWxDOTB5UHNBb0FiTk1jTTgzRDUxMGRwVUxFWDhEeDAxLURyLUlrUncydk9RVkwwNlRoNmJQS0Y4ellVTmo3cEF3bWFxdGpyNE1fVlBW?oc=5",
+      "published": "2026-11-16T13:11:55+00:00",
+      "outlets": [
+        {
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFZhMlA2T29PSlNQWWl3c1F2cFp4UU5fNTVGM3FYSTFCdWRGLVAtc0FYb09OZVNQU0tROWxDOTB5UHNBb0FiTk1jTTgzRDUxMGRwVUxFWDhEeDAxLURyLUlrUncydk9RVkwwNlRoNmJQS0Y4ellVTmo3cEF3bWFxdGpyNE1fVlBW?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Ryan Gosling's Star Wars: Starfighter Gets a Logo Unlike Any Star Wars Film Before It",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GcE9HSngzVm1ieVYyNnpsV19RcnhVaWQxR09IeXRXM1RSTmFkeG1HbHgwT0JhSzdqY01YLUVSTy15Rlo5dXRMVGtuQVpuNkk1dEdycjluVDBoa1liSDZYZWdGSk9NODV4bG1HQ0xtcERsSlpQMkVSeA?oc=5",
+      "published": "2026-11-16T07:14:41+00:00",
+      "outlets": [
+        {
+          "source": "The Direct",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GcE9HSngzVm1ieVYyNnpsV19RcnhVaWQxR09IeXRXM1RSTmFkeG1HbHgwT0JhSzdqY01YLUVSTy15Rlo5dXRMVGtuQVpuNkk1dEdycjluVDBoa1liSDZYZWdGSk9NODV4bG1HQ0xtcERsSlpQMkVSeA?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

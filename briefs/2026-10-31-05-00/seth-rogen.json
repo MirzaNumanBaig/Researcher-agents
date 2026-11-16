@@ -715,6 +715,89 @@
       ],
       "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ae5f4c972e6733e6fed21e1/1793627947423/angelina%2Bjolie%2Bcleopatra.webp?format=1500w",
       "image_source": "https://geektyrant.com/news/martin-scorsese-says-seth-rogen-and-the-sony-hack-ruined-his-cleopatra-movie-with-angelina-jolie"
+    },
+    {
+      "title": "Madonna gave ‘great performance’ in ‘The Studio’ season 2, teases Seth Rogen: ‘Very meta’",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOE03XzkxbGY5dUI4dlhQMlk5aF9EZDZSQUdsMEZBYmtWNVFuRjRWanZGbmwzNFVtamc3S2J6SlZXWHRhNkxUTXV6OGxlRXpMSGxGRXdvYVlmRjVYRERQa0gtdzFnWXc1OXpWZ2RtdHN4OGdrWkdEeVk2SDVNcmF2RzJTODdYRk1w?oc=5",
+      "published": "2026-11-16T16:46:20+00:00",
+      "outlets": [
+        {
+          "source": "Entertainment Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOE03XzkxbGY5dUI4dlhQMlk5aF9EZDZSQUdsMEZBYmtWNVFuRjRWanZGbmwzNFVtamc3S2J6SlZXWHRhNkxUTXV6OGxlRXpMSGxGRXdvYVlmRjVYRERQa0gtdzFnWXc1OXpWZ2RtdHN4OGdrWkdEeVk2SDVNcmF2RzJTODdYRk1w?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XZlNMb2RLNW9yaXgybm5MNFVoNmxfdkNYR0FqNVdibkVvMEpzaVVKckpOcDNRQ1dkSTBzZFVLUXpvU1VRaWgzOEtGSXJxd2tkX2pDMTVEeVJDelFUdndQWWVPRFE?oc=5",
+          "article_url": "https://www.imdb.com/it/news/ni66087442/?ref_=nm_nwr_1",
+          "image": ""
+        },
+        {
+          "source": "Gold Derby",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWpDczFQWUV4aWo0VHZ1ZVQwVldvWUpVZzdxU0hxS1lCLVMtei1PV0twdmI4d2FDeFJ2VVp5dHcxYzlmY2JpZllBV3pmcHpmMEh1NXFKQVoxeUZER3hxUFd2UWIxb3F4NF80Z1Y4dFNZakQwNjFRbWY3VjZHTTk3RXRmSW5PTng0V24tVnhadUh3Q2MxS3lNLQ?oc=5",
+          "article_url": "https://www.goldderby.com/tv/2026/seth-rogen-interview-the-studio-season-2-madonna-storyline/",
+          "image": "https://www.goldderby.com/wp-content/uploads/2026/10/GettyImages-2302301363.jpg?w=650"
+        }
+      ],
+      "image": "https://www.goldderby.com/wp-content/uploads/2026/10/GettyImages-2302301363.jpg?w=650",
+      "image_source": "https://www.goldderby.com/tv/2026/seth-rogen-interview-the-studio-season-2-madonna-storyline/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Babies",
+      "release": "2026-09-12",
+      "director": [
+        "Lauren Miller"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Seth Rogen",
+        "Issa Rae",
+        "Dan Stevens",
+        "Zach Cherry"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137380437",
+        "wikipedia": "https://en.wikipedia.org/wiki/Babies_(2026_film)"
+      }
+    },
+    {
+      "title": "The Wrong Girls",
+      "release": "2026-08-14",
+      "director": [
+        "Dylan Meyer"
+      ],
+      "cast": [
+        "Alia Shawkat",
+        "LaKeith Stanfield",
+        "Zack Fox",
+        "Tony Hale",
+        "Kumail Nanjiani"
+      ],
+      "budget_usd": null,
+      "box_office_usd": 887116,
+      "scope": "",
+      "verdict": "Grossed $887k",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "61%",
+      "metacritic": "59/100 from 20 critics",
+      "critics_consensus": "Proudly stupid and surprisingly sweet, The Wrong Girls coasts on Kristen Stewart and Alia Shawkat's chemistry, even as its barrage of stoner gags produces more genial laughs than truly memorable ones.",
+      "critics_overview": "Archived from the original on August 15, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132560837",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wrong_Girls"
+      }
     }
   ]
 }

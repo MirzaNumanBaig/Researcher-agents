@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-17 04:00",
+  "celebrity": "Jacob Tremblay",
+  "stories": [
+    {
+      "title": "Kate O'Flynn, Jacob Tremblay, Charles Melton, and all the TV people at the Governors Awards",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ0tTaEh2bENHN3pFT1M0Ry13Tjg2Q3g4ODNERmE3aGw0UjU0VEpJNnYzVjhsMDZuMVdDa3NCZU5mLXcyUjRjcFliOXZlUWE4YlFUdDAzd3BmaGphUHVfeGpwd1hHdmkwZnFOVEY5dnE1bHhiYlNGem5wZHd0dlVNWGFVQ3hsZ29lNWJoMk13emVQVEhKN0htQXRlVzJxa21lTVNRbzF6UHVtN2xtaEd1cWZYNlY0Zmo0?oc=5",
+      "published": "2026-11-16T16:25:35+00:00",
+      "outlets": [
+        {
+          "source": "LaineyGossip",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ0tTaEh2bENHN3pFT1M0Ry13Tjg2Q3g4ODNERmE3aGw0UjU0VEpJNnYzVjhsMDZuMVdDa3NCZU5mLXcyUjRjcFliOXZlUWE4YlFUdDAzd3BmaGphUHVfeGpwd1hHdmkwZnFOVEY5dnE1bHhiYlNGem5wZHd0dlVNWGFVQ3hsZ29lNWJoMk13emVQVEhKN0htQXRlVzJxa21lTVNRbzF6UHVtN2xtaEd1cWZYNlY0Zmo0?oc=5",
+          "article_url": "https://www.laineygossip.com/kate-oflynn-jacob-tremblay-charles-melton-and-all-the-tv-people-at-the-governors-awards/",
+          "image": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/size/w1200/2026/11/tv-governors-16nov26-0001.jpg"
+        }
+      ],
+      "image": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/size/w1200/2026/11/tv-governors-16nov26-0001.jpg",
+      "image_source": "https://www.laineygossip.com/kate-oflynn-jacob-tremblay-charles-melton-and-all-the-tv-people-at-the-governors-awards/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Unabomber",
+      "release": "2026-09-25",
+      "director": [
+        "Janus Metz Pedersen"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "25%",
+      "metacritic": "46/100 from 18 critics",
+      "critics_consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+      "critics_overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+      }
+    }
+  ]
+}
