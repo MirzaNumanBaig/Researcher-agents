@@ -23,6 +23,7 @@ wp_id: 2668
 wp_link: "https://moduscarry.com/david-walliams-jeremy-edwards/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

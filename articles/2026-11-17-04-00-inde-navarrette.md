@@ -25,6 +25,7 @@ wp_id: 2676
 wp_link: "https://moduscarry.com/inde-navarrette-bond-girl/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -25,6 +25,7 @@ wp_id: 2674
 wp_link: "https://moduscarry.com/hudson-williams-yaga-bulgari-campaign/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

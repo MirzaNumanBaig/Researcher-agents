@@ -24,6 +24,7 @@ wp_id: 2660
 wp_link: "https://moduscarry.com/brendan-fraser-the-mummy-4/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
