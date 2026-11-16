@@ -1,0 +1,175 @@
+{
+ "name": "Catherine O'Hara",
+ "qid": "Q233365",
+ "description": "Canadian-American actress (1954–2026)",
+ "wikipedia_editions": 72,
+ "born": "1954-03-04",
+ "birthplace": "Toronto",
+ "occupations": [
+  "television actor",
+  "film actor",
+  "voice actor",
+  "film director",
+  "improviser",
+  "film screenwriter",
+  "actor",
+  "screenwriter",
+  "musician",
+  "comedian",
+  "writer"
+ ],
+ "relationships": [
+  {
+   "name": "Bo Welch",
+   "qid": "Q484864",
+   "kind": "spouse",
+   "start": "1992-00-00",
+   "end": "2026-00-00",
+   "ended_by": "divorce",
+   "fame": 14
+  }
+ ],
+ "family": {
+  "children_recorded": 2,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Beetlejuice Beetlejuice",
+   "qid": "Q112865900",
+   "date": "2024-09-09",
+   "type": "film",
+   "directors": [
+    "Tim Burton"
+   ]
+  },
+  {
+   "title": "Argylle",
+   "qid": "Q107460063",
+   "date": "2024-02-02",
+   "type": "film",
+   "directors": [
+    "Matthew Vaughn"
+   ]
+  },
+  {
+   "title": "Pain Hustlers",
+   "qid": "Q113685772",
+   "date": "2023-10-27",
+   "type": "film",
+   "directors": [
+    "David Yates"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Tim Burton",
+   "projects": 1
+  },
+  {
+   "name": "Matthew Vaughn",
+   "projects": 1
+  },
+  {
+   "name": "David Yates",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Julia Ormond",
+   "qid": "Q229059",
+   "projects": 1,
+   "fame": 48
+  },
+  {
+   "name": "David Strathairn",
+   "qid": "Q310318",
+   "projects": 1,
+   "fame": 41
+  },
+  {
+   "name": "Claire Danes",
+   "qid": "Q867813",
+   "projects": 1,
+   "fame": 73
+  },
+  {
+   "name": "Ariel Winter",
+   "qid": "Q26378",
+   "projects": 1,
+   "fame": 44
+  },
+  {
+   "name": "Alex Borstein",
+   "qid": "Q116219",
+   "projects": 1,
+   "fame": 44
+  },
+  {
+   "name": "Ashton Kutcher",
+   "qid": "Q164782",
+   "projects": 1,
+   "fame": 84
+  },
+  {
+   "name": "Usher",
+   "qid": "Q165911",
+   "projects": 1,
+   "fame": 81
+  },
+  {
+   "name": "Katherine Heigl",
+   "qid": "Q189554",
+   "projects": 1,
+   "fame": 70
+  },
+  {
+   "name": "Tom Selleck",
+   "qid": "Q213706",
+   "projects": 1,
+   "fame": 56
+  },
+  {
+   "name": "LeToya Luckett",
+   "qid": "Q257302",
+   "projects": 1,
+   "fame": 27
+  },
+  {
+   "name": "Katheryn Winnick",
+   "qid": "Q268298",
+   "projects": 1,
+   "fame": 45
+  },
+  {
+   "name": "Lisa Ann Walter",
+   "qid": "Q434802",
+   "projects": 1,
+   "fame": 20
+  },
+  {
+   "name": "Casey Wilson",
+   "qid": "Q466016",
+   "projects": 1,
+   "fame": 26
+  },
+  {
+   "name": "Martin Mull",
+   "qid": "Q575795",
+   "projects": 1,
+   "fame": 26
+  },
+  {
+   "name": "Larry Joe Campbell",
+   "qid": "Q949043",
+   "projects": 1,
+   "fame": 16
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}

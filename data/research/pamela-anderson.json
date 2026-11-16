@@ -1,0 +1,258 @@
+{
+ "name": "Pamela Anderson",
+ "qid": "Q83325",
+ "description": "Canadian actress and model (born 1967)",
+ "wikipedia_editions": 109,
+ "born": "1967-07-01",
+ "birthplace": "Ladysmith",
+ "occupations": [
+  "actor",
+  "television actor",
+  "film actor",
+  "Playboy Playmate",
+  "model",
+  "voice actor",
+  "erotic photography model",
+  "manufacturer",
+  "presenter",
+  "film producer",
+  "television presenter",
+  "professional fitness coach",
+  "television producer"
+ ],
+ "relationships": [
+  {
+   "name": "David Charvet",
+   "qid": "Q1173971",
+   "kind": "partner",
+   "start": "1992-00-00",
+   "end": "1994-00-00",
+   "ended_by": "",
+   "fame": 18
+  },
+  {
+   "name": "Tommy Lee",
+   "qid": "Q331748",
+   "kind": "spouse",
+   "start": "1995-02-19",
+   "end": "1998-02-28",
+   "ended_by": "Q93190",
+   "fame": 38
+  },
+  {
+   "name": "Marcus Schenkenberg",
+   "qid": "Q503962",
+   "kind": "partner",
+   "start": "2000-01-01",
+   "end": "2001-01-01",
+   "ended_by": "",
+   "fame": 20
+  },
+  {
+   "name": "",
+   "qid": "Q158175",
+   "kind": "spouse",
+   "start": "2006-08-03",
+   "end": "2007-02-01",
+   "ended_by": "Q93190",
+   "fame": 40
+  },
+  {
+   "name": "Tommy Lee",
+   "qid": "Q331748",
+   "kind": "partner",
+   "start": "2008-00-00",
+   "end": "2008-00-00",
+   "ended_by": "",
+   "fame": 38
+  },
+  {
+   "name": "Rick Salomon",
+   "qid": "Q3431600",
+   "kind": "spouse",
+   "start": "2014-01-11",
+   "end": "2015-04-29",
+   "ended_by": "",
+   "fame": 7
+  },
+  {
+   "name": "Adil Rami",
+   "qid": "Q1909",
+   "kind": "partner",
+   "start": "2017-06-00",
+   "end": "2019-06-00",
+   "ended_by": "",
+   "fame": 60
+  },
+  {
+   "name": "Jon Peters",
+   "qid": "Q2563751",
+   "kind": "spouse",
+   "start": "2020-01-20",
+   "end": "2020-02-01",
+   "ended_by": "Q93190",
+   "fame": 10
+  },
+  {
+   "name": "Dan Hayhurst",
+   "qid": "Q119145603",
+   "kind": "spouse",
+   "start": "2020-12-24",
+   "end": "2022-01-21",
+   "ended_by": "Q93190",
+   "fame": 0
+  },
+  {
+   "name": "Liam Neeson",
+   "qid": "Q58444",
+   "kind": "partner",
+   "start": "",
+   "end": "",
+   "ended_by": "",
+   "fame": 98
+  }
+ ],
+ "family": {
+  "children_recorded": 2,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Rosebush Pruning",
+   "qid": "Q130369934",
+   "date": "2026-02-14",
+   "type": "film",
+   "directors": [
+    "Karim Aïnouz"
+   ]
+  },
+  {
+   "title": "The Naked Gun",
+   "qid": "Q125908027",
+   "date": "2025-08-14",
+   "type": "film",
+   "directors": [
+    "Akiva Schaffer"
+   ]
+  },
+  {
+   "title": "The Last Showgirl",
+   "qid": "Q124547601",
+   "date": "2024-12-13",
+   "type": "film",
+   "directors": [
+    "Gia Coppola"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Karim Aïnouz",
+   "projects": 1
+  },
+  {
+   "name": "Akiva Schaffer",
+   "projects": 1
+  },
+  {
+   "name": "Gia Coppola",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Dave Bautista",
+   "qid": "Q44158",
+   "projects": 1,
+   "fame": 68
+  },
+  {
+   "name": "Liam Neeson",
+   "qid": "Q58444",
+   "projects": 1,
+   "fame": 98
+  },
+  {
+   "name": "Q59185",
+   "qid": "Q59185",
+   "projects": 1,
+   "fame": 54
+  },
+  {
+   "name": "Jamie Lee Curtis",
+   "qid": "Q106997",
+   "projects": 1,
+   "fame": 80
+  },
+  {
+   "name": "Brenda Song",
+   "qid": "Q180011",
+   "projects": 1,
+   "fame": 60
+  },
+  {
+   "name": "Elle Fanning",
+   "qid": "Q228943",
+   "projects": 1,
+   "fame": 71
+  },
+  {
+   "name": "Q236434",
+   "qid": "Q236434",
+   "projects": 1,
+   "fame": 33
+  },
+  {
+   "name": "Elena Anaya",
+   "qid": "Q240949",
+   "projects": 1,
+   "fame": 37
+  },
+  {
+   "name": "Riley Keough",
+   "qid": "Q254947",
+   "projects": 1,
+   "fame": 43
+  },
+  {
+   "name": "Jamie Bell",
+   "qid": "Q297071",
+   "projects": 1,
+   "fame": 46
+  },
+  {
+   "name": "Cody Rhodes",
+   "qid": "Q299222",
+   "projects": 1,
+   "fame": 41
+  },
+  {
+   "name": "Jason Schwartzman",
+   "qid": "Q313705",
+   "projects": 1,
+   "fame": 45
+  },
+  {
+   "name": "Kevin Durand",
+   "qid": "Q320084",
+   "projects": 1,
+   "fame": 34
+  },
+  {
+   "name": "Danny Huston",
+   "qid": "Q357762",
+   "projects": 1,
+   "fame": 45
+  },
+  {
+   "name": "Kiernan Shipka",
+   "qid": "Q439939",
+   "projects": 1,
+   "fame": 45
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}

@@ -1,0 +1,215 @@
+{
+ "name": "Seth Rogen",
+ "qid": "Q220308",
+ "description": "Canadian actor, comedian, and filmmaker (born 1982)",
+ "wikipedia_editions": 59,
+ "born": "1982-04-15",
+ "birthplace": "Vancouver",
+ "occupations": [
+  "actor",
+  "film producer",
+  "writer",
+  "voice actor",
+  "screenwriter",
+  "film actor",
+  "television producer",
+  "film director",
+  "comedian",
+  "executive producer",
+  "television actor",
+  "director"
+ ],
+ "relationships": [
+  {
+   "name": "Lauren Miller",
+   "qid": "Q3218835",
+   "kind": "spouse",
+   "start": "2011-10-02",
+   "end": "",
+   "ended_by": "",
+   "fame": 15
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "The Invite",
+   "qid": "Q134083296",
+   "date": "2026-09-16",
+   "type": "film",
+   "directors": [
+    "Olivia Wilde"
+   ]
+  },
+  {
+   "title": "Babies",
+   "qid": "Q137380437",
+   "date": "2026-09-12",
+   "type": "film",
+   "directors": [
+    "Lauren Miller"
+   ]
+  },
+  {
+   "title": "The Wrong Girls",
+   "qid": "Q132560837",
+   "date": "2026-08-14",
+   "type": "film",
+   "directors": [
+    "Dylan Meyer"
+   ]
+  },
+  {
+   "title": "Good Fortune",
+   "qid": "Q124364757",
+   "date": "2025-10-17",
+   "type": "film",
+   "directors": [
+    "Aziz Ansari"
+   ]
+  },
+  {
+   "title": "Dumb Money",
+   "qid": "Q114740513",
+   "date": "2023-11-29",
+   "type": "film",
+   "directors": [
+    "Craig Gillespie"
+   ]
+  },
+  {
+   "title": "Chip 'n Dale: Rescue Rangers",
+   "qid": "Q106075513",
+   "date": "2022-05-20",
+   "type": "film",
+   "directors": [
+    "Akiva Schaffer"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Olivia Wilde",
+   "projects": 1
+  },
+  {
+   "name": "Lauren Miller",
+   "projects": 1
+  },
+  {
+   "name": "Dylan Meyer",
+   "projects": 1
+  },
+  {
+   "name": "Aziz Ansari",
+   "projects": 1
+  },
+  {
+   "name": "Craig Gillespie",
+   "projects": 1
+  },
+  {
+   "name": "Akiva Schaffer",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "James Franco",
+   "qid": "Q306403",
+   "projects": 7,
+   "fame": 83
+  },
+  {
+   "name": "Danny McBride",
+   "qid": "Q336400",
+   "projects": 5,
+   "fame": 38
+  },
+  {
+   "name": "Dave Franco",
+   "qid": "Q383930",
+   "projects": 5,
+   "fame": 52
+  },
+  {
+   "name": "Zac Efron",
+   "qid": "Q45229",
+   "projects": 4,
+   "fame": 95
+  },
+  {
+   "name": "Christopher Mintz-Plasse",
+   "qid": "Q440956",
+   "projects": 3,
+   "fame": 33
+  },
+  {
+   "name": "Hannibal Buress",
+   "qid": "Q5649155",
+   "projects": 3,
+   "fame": 28
+  },
+  {
+   "name": "Lisa Kudrow",
+   "qid": "Q179041",
+   "projects": 3,
+   "fame": 82
+  },
+  {
+   "name": "Adam Scott",
+   "qid": "Q201842",
+   "projects": 3,
+   "fame": 42
+  },
+  {
+   "name": "Lizzy Caplan",
+   "qid": "Q236578",
+   "projects": 3,
+   "fame": 47
+  },
+  {
+   "name": "Ari Graynor",
+   "qid": "Q454494",
+   "projects": 3,
+   "fame": 27
+  },
+  {
+   "name": "Kevin Smith",
+   "qid": "Q489831",
+   "projects": 3,
+   "fame": 57
+  },
+  {
+   "name": "Joseph Gordon-Levitt",
+   "qid": "Q177311",
+   "projects": 3,
+   "fame": 70
+  },
+  {
+   "name": "Randall Park",
+   "qid": "Q7291588",
+   "projects": 3,
+   "fame": 33
+  },
+  {
+   "name": "Channing Tatum",
+   "qid": "Q212064",
+   "projects": 2,
+   "fame": 68
+  },
+  {
+   "name": "Jonah Hill",
+   "qid": "Q313388",
+   "projects": 2,
+   "fame": 57
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}

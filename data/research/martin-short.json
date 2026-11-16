@@ -1,0 +1,160 @@
+{
+ "name": "Martin Short",
+ "qid": "Q329744",
+ "description": "Canadian comedian and actor (born 1950)",
+ "wikipedia_editions": 59,
+ "born": "1950-03-26",
+ "birthplace": "Hamilton",
+ "occupations": [
+  "actor",
+  "screenwriter",
+  "singer",
+  "voice actor",
+  "comedian",
+  "film director"
+ ],
+ "relationships": [
+  {
+   "name": "Nancy Dolman",
+   "qid": "Q6962642",
+   "kind": "spouse",
+   "start": "1980-01-01",
+   "end": "2010-01-01",
+   "ended_by": "",
+   "fame": 6
+  },
+  {
+   "name": "",
+   "qid": "Q873",
+   "kind": "partner",
+   "start": "2024-00-00",
+   "end": "",
+   "ended_by": "",
+   "fame": 135
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Saturday Night Live 50th Anniversary Special",
+   "qid": "Q131806449",
+   "date": "2025-02-16",
+   "type": "television special",
+   "directors": []
+  },
+  {
+   "title": "Mack & Rita",
+   "qid": "Q106362951",
+   "date": "2022-01-01",
+   "type": "film",
+   "directors": [
+    "Katie Aselton"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Katie Aselton",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Alyson Hannigan",
+   "qid": "Q199927",
+   "projects": 2,
+   "fame": 68
+  },
+  {
+   "name": "Cobie Smulders",
+   "qid": "Q200566",
+   "projects": 2,
+   "fame": 71
+  },
+  {
+   "name": "Jason Segel",
+   "qid": "Q202304",
+   "projects": 2,
+   "fame": 55
+  },
+  {
+   "name": "Josh Radnor",
+   "qid": "Q223455",
+   "projects": 2,
+   "fame": 54
+  },
+  {
+   "name": "Bob Saget",
+   "qid": "Q333544",
+   "projects": 2,
+   "fame": 70
+  },
+  {
+   "name": "Neil Patrick Harris",
+   "qid": "Q485310",
+   "projects": 2,
+   "fame": 73
+  },
+  {
+   "name": "Nazanin Boniadi",
+   "qid": "Q1189102",
+   "projects": 2,
+   "fame": 35
+  },
+  {
+   "name": "Steve Martin",
+   "qid": "Q16473",
+   "projects": 2,
+   "fame": 63
+  },
+  {
+   "name": "Robert De Niro",
+   "qid": "Q36949",
+   "projects": 2,
+   "fame": 141
+  },
+  {
+   "name": "Diane Keaton",
+   "qid": "Q102642",
+   "projects": 2,
+   "fame": 100
+  },
+  {
+   "name": "Maya Rudolph",
+   "qid": "Q236527",
+   "projects": 2,
+   "fame": 45
+  },
+  {
+   "name": "Patrick Stewart",
+   "qid": "Q16296",
+   "projects": 1,
+   "fame": 93
+  },
+  {
+   "name": "Dan Aykroyd",
+   "qid": "Q105221",
+   "projects": 1,
+   "fame": 60
+  },
+  {
+   "name": "Bonnie Wright",
+   "qid": "Q105466",
+   "projects": 1,
+   "fame": 63
+  },
+  {
+   "name": "Jim Belushi",
+   "qid": "Q107933",
+   "projects": 1,
+   "fame": 57
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}

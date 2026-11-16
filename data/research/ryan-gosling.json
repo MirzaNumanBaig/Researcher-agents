@@ -1,0 +1,224 @@
+{
+ "name": "Ryan Gosling",
+ "qid": "Q193815",
+ "description": "Canadian actor (born 1980)",
+ "wikipedia_editions": 90,
+ "born": "1980-11-12",
+ "birthplace": "London",
+ "occupations": [
+  "television actor",
+  "film actor",
+  "actor",
+  "restaurateur",
+  "film producer",
+  "film director",
+  "screenwriter",
+  "singer",
+  "composer",
+  "musician"
+ ],
+ "relationships": [
+  {
+   "name": "Sandra Bullock",
+   "qid": "Q40791",
+   "kind": "partner",
+   "start": "2002-00-00",
+   "end": "2003-00-00",
+   "ended_by": "",
+   "fame": 129
+  },
+  {
+   "name": "Rachel McAdams",
+   "qid": "Q190386",
+   "kind": "partner",
+   "start": "2005-00-00",
+   "end": "2007-00-00",
+   "ended_by": "",
+   "fame": 95
+  },
+  {
+   "name": "Eva Mendes",
+   "qid": "Q170606",
+   "kind": "partner",
+   "start": "2011-01-01",
+   "end": "",
+   "ended_by": "",
+   "fame": 79
+  },
+  {
+   "name": "Eva Mendes",
+   "qid": "Q170606",
+   "kind": "spouse",
+   "start": "2022-00-00",
+   "end": "",
+   "ended_by": "",
+   "fame": 79
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Project Hail Mary",
+   "qid": "Q107105860",
+   "date": "2026-03-27",
+   "type": "film",
+   "directors": [
+    "Phil Lord",
+    "Christopher Miller"
+   ]
+  },
+  {
+   "title": "The Fall Guy",
+   "qid": "Q113671585",
+   "date": "2024-05-03",
+   "type": "film",
+   "directors": [
+    "David Leitch"
+   ]
+  },
+  {
+   "title": "Barbie",
+   "qid": "Q55436290",
+   "date": "2023-07-21",
+   "type": "film",
+   "directors": [
+    "Greta Gerwig"
+   ]
+  },
+  {
+   "title": "The Gray Man",
+   "qid": "Q104891260",
+   "date": "2022-07-22",
+   "type": "film",
+   "directors": [
+    "Anthony Russo",
+    "Joe Russo"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Phil Lord",
+   "projects": 1
+  },
+  {
+   "name": "Christopher Miller",
+   "projects": 1
+  },
+  {
+   "name": "David Leitch",
+   "projects": 1
+  },
+  {
+   "name": "Greta Gerwig",
+   "projects": 1
+  },
+  {
+   "name": "Anthony Russo",
+   "projects": 1
+  },
+  {
+   "name": "Joe Russo",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Q147077",
+   "qid": "Q147077",
+   "projects": 3,
+   "fame": 114
+  },
+  {
+   "name": "Marisa Tomei",
+   "qid": "Q191828",
+   "projects": 3,
+   "fame": 66
+  },
+  {
+   "name": "George Clooney",
+   "qid": "Q23844",
+   "projects": 2,
+   "fame": 128
+  },
+  {
+   "name": "Steve Carell",
+   "qid": "Q216221",
+   "projects": 2,
+   "fame": 71
+  },
+  {
+   "name": "John Doman",
+   "qid": "Q984443",
+   "projects": 2,
+   "fame": 25
+  },
+  {
+   "name": "Kirsten Dunst",
+   "qid": "Q76478",
+   "projects": 2,
+   "fame": 103
+  },
+  {
+   "name": "Josh Pence",
+   "qid": "Q967833",
+   "projects": 2,
+   "fame": 20
+  },
+  {
+   "name": "Brad Pitt",
+   "qid": "Q35332",
+   "projects": 2,
+   "fame": 148
+  },
+  {
+   "name": "Christian Bale",
+   "qid": "Q45772",
+   "projects": 2,
+   "fame": 99
+  },
+  {
+   "name": "Finn Wittrock",
+   "qid": "Q5450687",
+   "projects": 2,
+   "fame": 36
+  },
+  {
+   "name": "Callie Hernandez",
+   "qid": "Q24444473",
+   "projects": 2,
+   "fame": 18
+  },
+  {
+   "name": "Margot Robbie",
+   "qid": "Q1924847",
+   "projects": 2,
+   "fame": 92
+  },
+  {
+   "name": "Shea Whigham",
+   "qid": "Q3959303",
+   "projects": 2,
+   "fame": 36
+  },
+  {
+   "name": "Rooney Mara",
+   "qid": "Q228766",
+   "projects": 2,
+   "fame": 63
+  },
+  {
+   "name": "Jessica Chastain",
+   "qid": "Q229313",
+   "projects": 2,
+   "fame": 80
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}

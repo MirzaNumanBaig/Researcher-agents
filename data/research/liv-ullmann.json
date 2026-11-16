@@ -1,0 +1,147 @@
+{
+ "name": "Liv Ullmann",
+ "qid": "Q191064",
+ "description": "Norwegian actress, director, and screenwriter (born 1938)",
+ "wikipedia_editions": 71,
+ "born": "1938-12-16",
+ "birthplace": "Tokyo",
+ "occupations": [
+  "screenwriter",
+  "autobiographer",
+  "film actor",
+  "television actor",
+  "stage actor",
+  "television director",
+  "film director",
+  "actor",
+  "director",
+  "author"
+ ],
+ "relationships": [
+  {
+   "name": "Ingmar Bergman",
+   "qid": "Q7546",
+   "kind": "partner",
+   "start": "1965-01-01",
+   "end": "1970-01-01",
+   "ended_by": "",
+   "fame": 165
+  },
+  {
+   "name": "Dragan Babić",
+   "qid": "Q15074519",
+   "kind": "partner",
+   "start": "",
+   "end": "",
+   "ended_by": "",
+   "fame": 3
+  }
+ ],
+ "family": {
+  "children_recorded": 1,
+  "adult_children_public": [
+   {
+    "name": "Linn Ullmann",
+    "qid": "Q256738"
+   }
+  ],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [],
+ "directors": [],
+ "costars": [
+  {
+   "name": "Roberto Rossellini",
+   "qid": "Q53003",
+   "projects": 1,
+   "fame": 71
+  },
+  {
+   "name": "Margarethe von Trotta",
+   "qid": "Q55418",
+   "projects": 1,
+   "fame": 39
+  },
+  {
+   "name": "Juliane Köhler",
+   "qid": "Q63450",
+   "projects": 1,
+   "fame": 30
+  },
+  {
+   "name": "Ken Duken",
+   "qid": "Q68084",
+   "projects": 1,
+   "fame": 18
+  },
+  {
+   "name": "Gaby Dohm",
+   "qid": "Q87945",
+   "projects": 1,
+   "fame": 17
+  },
+  {
+   "name": "Rainer Bock",
+   "qid": "Q97010",
+   "projects": 1,
+   "fame": 15
+  },
+  {
+   "name": "Sigourney Weaver",
+   "qid": "Q102124",
+   "projects": 1,
+   "fame": 122
+  },
+  {
+   "name": "Ursula Werner",
+   "qid": "Q103760",
+   "projects": 1,
+   "fame": 15
+  },
+  {
+   "name": "Isabella Rossellini",
+   "qid": "Q203840",
+   "projects": 1,
+   "fame": 67
+  },
+  {
+   "name": "Ruben Östlund",
+   "qid": "Q211228",
+   "projects": 1,
+   "fame": 43
+  },
+  {
+   "name": "Alicia Vikander",
+   "qid": "Q439314",
+   "projects": 1,
+   "fame": 76
+  },
+  {
+   "name": "Vicky Krieps",
+   "qid": "Q2522116",
+   "projects": 1,
+   "fame": 34
+  },
+  {
+   "name": "Thorbjørn Harr",
+   "qid": "Q12006179",
+   "projects": 1,
+   "fame": 15
+  },
+  {
+   "name": "Ingmar Bergman",
+   "qid": "Q7546",
+   "projects": 1,
+   "fame": 165
+  },
+  {
+   "name": "Ingrid Bergman",
+   "qid": "Q43247",
+   "projects": 1,
+   "fame": 126
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}

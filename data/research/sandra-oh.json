@@ -1,0 +1,163 @@
+{
+ "name": "Sandra Oh",
+ "qid": "Q40337",
+ "description": "Canadian and American actress (born 1971)",
+ "wikipedia_editions": 52,
+ "born": "1971-07-20",
+ "birthplace": "Nepean",
+ "occupations": [
+  "television actor",
+  "film actor",
+  "actor",
+  "voice actor",
+  "executive producer"
+ ],
+ "relationships": [
+  {
+   "name": "Alexander Payne",
+   "qid": "Q313566",
+   "kind": "spouse",
+   "start": "2003-01-01",
+   "end": "2006-00-00",
+   "ended_by": "",
+   "fame": 47
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Good Fortune",
+   "qid": "Q124364757",
+   "date": "2025-10-17",
+   "type": "film",
+   "directors": [
+    "Aziz Ansari"
+   ]
+  },
+  {
+   "title": "Quiz Lady",
+   "qid": "Q113635014",
+   "date": "2023-01-01",
+   "type": "film",
+   "directors": [
+    "Jessica Yu"
+   ]
+  },
+  {
+   "title": "Umma",
+   "qid": "Q100233511",
+   "date": "2022-01-01",
+   "type": "film",
+   "directors": []
+  }
+ ],
+ "directors": [
+  {
+   "name": "Aziz Ansari",
+   "projects": 1
+  },
+  {
+   "name": "Jessica Yu",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Q16297",
+   "qid": "Q16297",
+   "projects": 1,
+   "fame": 80
+  },
+  {
+   "name": "Chris Pine",
+   "qid": "Q23466",
+   "projects": 1,
+   "fame": 117
+  },
+  {
+   "name": "Janina Gavankar",
+   "qid": "Q39986",
+   "projects": 1,
+   "fame": 31
+  },
+  {
+   "name": "Amanda Peet",
+   "qid": "Q131332",
+   "projects": 1,
+   "fame": 72
+  },
+  {
+   "name": "Samuel L. Jackson",
+   "qid": "Q172678",
+   "projects": 1,
+   "fame": 99
+  },
+  {
+   "name": "Hayden Christensen",
+   "qid": "Q192812",
+   "projects": 1,
+   "fame": 63
+  },
+  {
+   "name": "Abigail Breslin",
+   "qid": "Q201418",
+   "projects": 1,
+   "fame": 60
+  },
+  {
+   "name": "James Earl Jones",
+   "qid": "Q203960",
+   "projects": 1,
+   "fame": 63
+  },
+  {
+   "name": "Mark Hamill",
+   "qid": "Q210447",
+   "projects": 1,
+   "fame": 72
+  },
+  {
+   "name": "Spencer Breslin",
+   "qid": "Q251984",
+   "projects": 1,
+   "fame": 29
+  },
+  {
+   "name": "Tom Kenny",
+   "qid": "Q299282",
+   "projects": 1,
+   "fame": 47
+  },
+  {
+   "name": "Brent Spiner",
+   "qid": "Q311453",
+   "projects": 1,
+   "fame": 45
+  },
+  {
+   "name": "Jason Alexander",
+   "qid": "Q311754",
+   "projects": 1,
+   "fame": 57
+  },
+  {
+   "name": "Robert Picardo",
+   "qid": "Q313789",
+   "projects": 1,
+   "fame": 39
+  },
+  {
+   "name": "Doug Jones",
+   "qid": "Q461309",
+   "projects": 1,
+   "fame": 37
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}

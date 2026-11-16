@@ -1,0 +1,38 @@
+{
+ "name": "Connor Storrie",
+ "qid": "Q137157746",
+ "description": "American actor (born 2000)",
+ "wikipedia_editions": 31,
+ "born": "2000-02-22",
+ "birthplace": "Aurora",
+ "occupations": [
+  "actor"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [
+  {
+   "title": "April X",
+   "qid": "Q141575644",
+   "date": "2026-12-10",
+   "type": "film",
+   "directors": [
+    "K-Michel Parandi"
+   ]
+  }
+ ],
+ "recent": [],
+ "directors": [
+  {
+   "name": "K-Michel Parandi",
+   "projects": 1
+  }
+ ],
+ "costars": [],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}

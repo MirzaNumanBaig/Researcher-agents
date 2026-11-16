@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11",
+ "built": "2026-11-16",
  "celebrities": [
   {
    "name": "Margot Robbie",
@@ -192,9 +192,119 @@
    "relationships": 1,
    "children_recorded": 0,
    "wikipedia_editions": 19
+  },
+  {
+   "name": "Thorbjørn Harr",
+   "qid": "Q12006179",
+   "upcoming": 0,
+   "relationships": 0,
+   "children_recorded": 0,
+   "wikipedia_editions": 15
+  },
+  {
+   "name": "Liv Ullmann",
+   "qid": "Q191064",
+   "upcoming": 0,
+   "relationships": 2,
+   "children_recorded": 1,
+   "wikipedia_editions": 71
+  },
+  {
+   "name": "Ryan Gosling",
+   "qid": "Q193815",
+   "upcoming": 0,
+   "relationships": 4,
+   "children_recorded": 0,
+   "wikipedia_editions": 90
+  },
+  {
+   "name": "Keanu Reeves",
+   "qid": "Q43416",
+   "upcoming": 1,
+   "relationships": 2,
+   "children_recorded": 1,
+   "wikipedia_editions": 124
+  },
+  {
+   "name": "Michael J. Fox",
+   "qid": "Q395274",
+   "upcoming": 0,
+   "relationships": 3,
+   "children_recorded": 4,
+   "wikipedia_editions": 87
+  },
+  {
+   "name": "Sandra Oh",
+   "qid": "Q40337",
+   "upcoming": 0,
+   "relationships": 1,
+   "children_recorded": 0,
+   "wikipedia_editions": 52
+  },
+  {
+   "name": "Pamela Anderson",
+   "qid": "Q83325",
+   "upcoming": 0,
+   "relationships": 10,
+   "children_recorded": 2,
+   "wikipedia_editions": 109
+  },
+  {
+   "name": "Connor Storrie",
+   "qid": "Q137157746",
+   "upcoming": 1,
+   "relationships": 0,
+   "children_recorded": 0,
+   "wikipedia_editions": 31
+  },
+  {
+   "name": "Hudson Williams",
+   "qid": "Q136912898",
+   "upcoming": 0,
+   "relationships": 0,
+   "children_recorded": 0,
+   "wikipedia_editions": 43
+  },
+  {
+   "name": "Catherine O'Hara",
+   "qid": "Q233365",
+   "upcoming": 0,
+   "relationships": 1,
+   "children_recorded": 2,
+   "wikipedia_editions": 72
+  },
+  {
+   "name": "Martin Short",
+   "qid": "Q329744",
+   "upcoming": 0,
+   "relationships": 2,
+   "children_recorded": 0,
+   "wikipedia_editions": 59
+  },
+  {
+   "name": "Seth Rogen",
+   "qid": "Q220308",
+   "upcoming": 0,
+   "relationships": 1,
+   "children_recorded": 0,
+   "wikipedia_editions": 59
   }
  ],
  "expansion_candidates": [
+  {
+   "name": "Elle Fanning",
+   "connected_to": [
+    "Anders Danielsen Lie",
+    "Nicole Kidman",
+    "Pamela Anderson",
+    "Renate Reinsve"
+   ],
+   "links": 4,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 71
+  },
   {
    "name": "Stellan Skarsgård",
    "connected_to": [
@@ -210,6 +320,20 @@
    "wikipedia_editions": 65
   },
   {
+   "name": "Pål Sverre Hagen",
+   "connected_to": [
+    "Aksel Hennie",
+    "Ingrid Bolsø Berdal",
+    "Thorbjørn Harr",
+    "Tobias Santelmann"
+   ],
+   "links": 4,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 26
+  },
+  {
    "name": "Dwayne Johnson",
    "connected_to": [
     "Aksel Hennie",
@@ -223,17 +347,30 @@
    "wikipedia_editions": 113
   },
   {
-   "name": "Elle Fanning",
+   "name": "Christian Bale",
    "connected_to": [
-    "Anders Danielsen Lie",
-    "Nicole Kidman",
-    "Renate Reinsve"
+    "Heath Ledger",
+    "Margot Robbie",
+    "Ryan Gosling"
    ],
    "links": 3,
    "roles": [
     "co-star"
    ],
-   "wikipedia_editions": 71
+   "wikipedia_editions": 99
+  },
+  {
+   "name": "Ian McShane",
+   "connected_to": [
+    "Aksel Hennie",
+    "Keanu Reeves",
+    "Tobias Santelmann"
+   ],
+   "links": 3,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 88
   },
   {
    "name": "Elizabeth Banks",
@@ -250,17 +387,41 @@
    "wikipedia_editions": 70
   },
   {
-   "name": "Pål Sverre Hagen",
+   "name": "Aziz Ansari",
    "connected_to": [
-    "Aksel Hennie",
-    "Ingrid Bolsø Berdal",
-    "Tobias Santelmann"
+    "Keanu Reeves",
+    "Sandra Oh",
+    "Seth Rogen"
    ],
    "links": 3,
    "roles": [
+    "director"
+   ],
+   "wikipedia_editions": 0
+  },
+  {
+   "name": "Brad Pitt",
+   "connected_to": [
+    "Margot Robbie",
+    "Ryan Gosling"
+   ],
+   "links": 2,
+   "roles": [
     "co-star"
    ],
-   "wikipedia_editions": 26
+   "wikipedia_editions": 148
+  },
+  {
+   "name": "George Clooney",
+   "connected_to": [
+    "Michael J. Fox",
+    "Ryan Gosling"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 128
   },
   {
    "name": "Jeremy Renner",
@@ -275,6 +436,18 @@
    "wikipedia_editions": 126
   },
   {
+   "name": "Sigourney Weaver",
+   "connected_to": [
+    "Liv Ullmann",
+    "Sam Worthington"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 122
+  },
+  {
    "name": "Jennifer Lawrence",
    "connected_to": [
     "Hugh Jackman",
@@ -287,16 +460,77 @@
    "wikipedia_editions": 121
   },
   {
-   "name": "Christian Bale",
+   "name": "Julianne Moore",
    "connected_to": [
-    "Heath Ledger",
-    "Margot Robbie"
+    "Alisha Boe",
+    "Thorbjørn Harr"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 107
+  },
+  {
+   "name": "Winona Ryder",
+   "connected_to": [
+    "Dacre Montgomery",
+    "Keanu Reeves"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 101
+  },
+  {
+   "name": "Diane Keaton",
+   "connected_to": [
+    "Alisha Boe",
+    "Martin Short"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 100
+  },
+  {
+   "name": "Samuel L. Jackson",
+   "connected_to": [
+    "Chris Hemsworth",
+    "Sandra Oh"
    ],
    "links": 2,
    "roles": [
     "co-star"
    ],
    "wikipedia_editions": 99
+  },
+  {
+   "name": "Liam Neeson",
+   "connected_to": [
+    "Pamela Anderson",
+    "Sam Worthington"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star",
+    "partner/spouse"
+   ],
+   "wikipedia_editions": 98
+  },
+  {
+   "name": "Zac Efron",
+   "connected_to": [
+    "Nicole Kidman",
+    "Seth Rogen"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 95
   },
   {
    "name": "Ian McKellen",
@@ -323,16 +557,40 @@
    "wikipedia_editions": 90
   },
   {
-   "name": "Ian McShane",
+   "name": "Idris Elba",
    "connected_to": [
-    "Aksel Hennie",
-    "Tobias Santelmann"
+    "Chris Hemsworth",
+    "Keanu Reeves"
    ],
    "links": 2,
    "roles": [
     "co-star"
    ],
-   "wikipedia_editions": 88
+   "wikipedia_editions": 86
+  },
+  {
+   "name": "Willem Dafoe",
+   "connected_to": [
+    "Nicole Kidman",
+    "Thorbjørn Harr"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 86
+  },
+  {
+   "name": "Ashton Kutcher",
+   "connected_to": [
+    "Catherine O'Hara",
+    "Michael J. Fox"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 84
   },
   {
    "name": "Colin Farrell",
@@ -371,6 +629,18 @@
    "wikipedia_editions": 72
   },
   {
+   "name": "Dave Bautista",
+   "connected_to": [
+    "Pamela Anderson",
+    "Russell Crowe"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 68
+  },
+  {
    "name": "John Hurt",
    "connected_to": [
     "Aksel Hennie",
@@ -393,6 +663,31 @@
     "co-star"
    ],
    "wikipedia_editions": 60
+  },
+  {
+   "name": "Rose Byrne",
+   "connected_to": [
+    "Hugh Jackman",
+    "Michael J. Fox"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 57
+  },
+  {
+   "name": "Jonah Hill",
+   "connected_to": [
+    "Keanu Reeves",
+    "Seth Rogen"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star",
+    "director"
+   ],
+   "wikipedia_editions": 57
   },
   {
    "name": "Gwendoline Christie",
@@ -431,6 +726,18 @@
    "wikipedia_editions": 49
   },
   {
+   "name": "Danny Huston",
+   "connected_to": [
+    "Pamela Anderson",
+    "Sam Worthington"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 45
+  },
+  {
    "name": "Rufus Sewell",
    "connected_to": [
     "Aksel Hennie",
@@ -441,6 +748,18 @@
     "co-star"
    ],
    "wikipedia_editions": 44
+  },
+  {
+   "name": "Riley Keough",
+   "connected_to": [
+    "Kylie Minogue",
+    "Pamela Anderson"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 43
   },
   {
    "name": "Barbara Palvin",
@@ -479,6 +798,18 @@
    "wikipedia_editions": 41
   },
   {
+   "name": "Finn Wittrock",
+   "connected_to": [
+    "Russell Crowe",
+    "Ryan Gosling"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 36
+  },
+  {
    "name": "Cliff Curtis",
    "connected_to": [
     "Aksel Hennie",
@@ -489,6 +820,30 @@
     "co-star"
    ],
    "wikipedia_editions": 36
+  },
+  {
+   "name": "Kevin Durand",
+   "connected_to": [
+    "Pamela Anderson",
+    "Russell Crowe"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 34
+  },
+  {
+   "name": "Q236434",
+   "connected_to": [
+    "Pamela Anderson",
+    "Sam Worthington"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 33
   },
   {
    "name": "Lena Endre",
@@ -539,6 +894,66 @@
    "wikipedia_editions": 24
   },
   {
+   "name": "Rainer Bock",
+   "connected_to": [
+    "Ingrid Bolsø Berdal",
+    "Liv Ullmann"
+   ],
+   "links": 2,
+   "roles": [
+    "co-star"
+   ],
+   "wikipedia_editions": 15
+  },
+  {
+   "name": "Greta Gerwig",
+   "connected_to": [
+    "Margot Robbie",
+    "Ryan Gosling"
+   ],
+   "links": 2,
+   "roles": [
+    "director"
+   ],
+   "wikipedia_editions": 0
+  },
+  {
+   "name": "Anthony Russo",
+   "connected_to": [
+    "Chris Hemsworth",
+    "Ryan Gosling"
+   ],
+   "links": 2,
+   "roles": [
+    "director"
+   ],
+   "wikipedia_editions": 0
+  },
+  {
+   "name": "Joe Russo",
+   "connected_to": [
+    "Chris Hemsworth",
+    "Ryan Gosling"
+   ],
+   "links": 2,
+   "roles": [
+    "director"
+   ],
+   "wikipedia_editions": 0
+  },
+  {
+   "name": "Dylan Meyer",
+   "connected_to": [
+    "Cate Blanchett",
+    "Seth Rogen"
+   ],
+   "links": 2,
+   "roles": [
+    "director"
+   ],
+   "wikipedia_editions": 0
+  },
+  {
    "name": "William Eubank",
    "connected_to": [
     "Liam Hemsworth",
@@ -563,6 +978,18 @@
    "wikipedia_editions": 0
   },
   {
+   "name": "Cecilie Mosli",
+   "connected_to": [
+    "Kristofer Hivju",
+    "Thorbjørn Harr"
+   ],
+   "links": 2,
+   "roles": [
+    "director"
+   ],
+   "wikipedia_editions": 0
+  },
+  {
    "name": "Joachim Trier",
    "connected_to": [
     "Anders Danielsen Lie",
@@ -575,323 +1002,27 @@
    "wikipedia_editions": 0
   },
   {
-   "name": "Leonardo DiCaprio",
+   "name": "Akiva Schaffer",
    "connected_to": [
-    "Margot Robbie"
+    "Pamela Anderson",
+    "Seth Rogen"
+   ],
+   "links": 2,
+   "roles": [
+    "director"
+   ],
+   "wikipedia_editions": 0
+  },
+  {
+   "name": "Steven Spielberg",
+   "connected_to": [
+    "Michael J. Fox"
    ],
    "links": 1,
    "roles": [
     "co-star"
    ],
-   "wikipedia_editions": 150
-  },
-  {
-   "name": "Brad Pitt",
-   "connected_to": [
-    "Margot Robbie"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 147
-  },
-  {
-   "name": "Miley Cyrus",
-   "connected_to": [
-    "Liam Hemsworth"
-   ],
-   "links": 1,
-   "roles": [
-    "partner/spouse"
-   ],
-   "wikipedia_editions": 143
-  },
-  {
-   "name": "Ariana Grande",
-   "connected_to": [
-    "Troye Sivan"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 142
-  },
-  {
-   "name": "Natalie Portman",
-   "connected_to": [
-    "Chris Hemsworth"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 138
-  },
-  {
-   "name": "Will Smith",
-   "connected_to": [
-    "Margot Robbie"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 137
-  },
-  {
-   "name": "Whitney Houston",
-   "connected_to": [
-    "Kylie Minogue"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 137
-  },
-  {
-   "name": "Morgan Freeman",
-   "connected_to": [
-    "Heath Ledger"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 129
-  },
-  {
-   "name": "Tom Cruise",
-   "connected_to": [
-    "Nicole Kidman"
-   ],
-   "links": 1,
-   "roles": [
-    "partner/spouse"
-   ],
-   "wikipedia_editions": 128
-  },
-  {
-   "name": "Dolly Parton",
-   "connected_to": [
-    "Kylie Minogue"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 126
-  },
-  {
-   "name": "Q23891",
-   "connected_to": [
-    "Heath Ledger"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 126
-  },
-  {
-   "name": "Jane Fonda",
-   "connected_to": [
-    "Kylie Minogue"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 122
-  },
-  {
-   "name": "Sigourney Weaver",
-   "connected_to": [
-    "Sam Worthington"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 122
-  },
-  {
-   "name": "Halle Berry",
-   "connected_to": [
-    "Hugh Jackman"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 120
-  },
-  {
-   "name": "Robert Downey Jr.",
-   "connected_to": [
-    "Chris Hemsworth"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 114
-  },
-  {
-   "name": "Christopher Lee",
-   "connected_to": [
-    "Cate Blanchett"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 113
-  },
-  {
-   "name": "Q483118",
-   "connected_to": [
-    "Jacob Elordi"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 112
-  },
-  {
-   "name": "Julianne Moore",
-   "connected_to": [
-    "Alisha Boe"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 107
-  },
-  {
-   "name": "Christopher Plummer",
-   "connected_to": [
-    "Heath Ledger"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 104
-  },
-  {
-   "name": "Gary Oldman",
-   "connected_to": [
-    "Heath Ledger"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 104
-  },
-  {
-   "name": "Kristen Stewart",
-   "connected_to": [
-    "Anders Danielsen Lie"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 103
-  },
-  {
-   "name": "Winona Ryder",
-   "connected_to": [
-    "Dacre Montgomery"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 101
-  },
-  {
-   "name": "Stan Lee",
-   "connected_to": [
-    "Chris Hemsworth"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 99
-  },
-  {
-   "name": "Samuel L. Jackson",
-   "connected_to": [
-    "Chris Hemsworth"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 99
-  },
-  {
-   "name": "Chris Evans",
-   "connected_to": [
-    "Chris Hemsworth"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 99
-  },
-  {
-   "name": "Diane Keaton",
-   "connected_to": [
-    "Alisha Boe"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 99
-  },
-  {
-   "name": "Liam Neeson",
-   "connected_to": [
-    "Sam Worthington"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 98
-  },
-  {
-   "name": "Orlando Bloom",
-   "connected_to": [
-    "Miranda Kerr"
-   ],
-   "links": 1,
-   "roles": [
-    "partner/spouse"
-   ],
-   "wikipedia_editions": 97
-  },
-  {
-   "name": "Donald Sutherland",
-   "connected_to": [
-    "Liam Hemsworth"
-   ],
-   "links": 1,
-   "roles": [
-    "co-star"
-   ],
-   "wikipedia_editions": 97
+   "wikipedia_editions": 171
   }
  ]
 }

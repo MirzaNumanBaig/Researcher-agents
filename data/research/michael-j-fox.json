@@ -1,0 +1,163 @@
+{
+ "name": "Michael J. Fox",
+ "qid": "Q395274",
+ "description": "Canadian-American actor, comedian, author, film producer, and activist",
+ "wikipedia_editions": 87,
+ "born": "1961-06-09",
+ "birthplace": "Edmonton",
+ "occupations": [
+  "television actor",
+  "film actor",
+  "actor",
+  "voice actor",
+  "autobiographer",
+  "blogger",
+  "television producer"
+ ],
+ "relationships": [
+  {
+   "name": "Nancy McKeon",
+   "qid": "Q2779246",
+   "kind": "partner",
+   "start": "1980-00-00",
+   "end": "",
+   "ended_by": "",
+   "fame": 19
+  },
+  {
+   "name": "Kari Michaelsen",
+   "qid": "Q3193150",
+   "kind": "partner",
+   "start": "1985-00-00",
+   "end": "1986-00-00",
+   "ended_by": "",
+   "fame": 7
+  },
+  {
+   "name": "Tracy Pollan",
+   "qid": "Q275958",
+   "kind": "spouse",
+   "start": "1988-01-01",
+   "end": "",
+   "ended_by": "",
+   "fame": 29
+  }
+ ],
+ "family": {
+  "children_recorded": 4,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Still: A Michael J. Fox Movie",
+   "qid": "Q116272399",
+   "date": "2023-05-12",
+   "type": "film",
+   "directors": [
+    "Davis Guggenheim"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Davis Guggenheim",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Bob Gale",
+   "qid": "Q725773",
+   "projects": 3,
+   "fame": 21
+  },
+  {
+   "name": "Christopher Lloyd",
+   "qid": "Q109324",
+   "projects": 2,
+   "fame": 63
+  },
+  {
+   "name": "Lea Thompson",
+   "qid": "Q230605",
+   "projects": 2,
+   "fame": 45
+  },
+  {
+   "name": "James Tolkan",
+   "qid": "Q783369",
+   "projects": 2,
+   "fame": 33
+  },
+  {
+   "name": "Steven Spielberg",
+   "qid": "Q8877",
+   "projects": 2,
+   "fame": 171
+  },
+  {
+   "name": "George Clooney",
+   "qid": "Q23844",
+   "projects": 1,
+   "fame": 128
+  },
+  {
+   "name": "Rihanna",
+   "qid": "Q36844",
+   "projects": 1,
+   "fame": 159
+  },
+  {
+   "name": "Q37628",
+   "qid": "Q37628",
+   "projects": 1,
+   "fame": 121
+  },
+  {
+   "name": "Cameron Diaz",
+   "qid": "Q44380",
+   "projects": 1,
+   "fame": 109
+  },
+  {
+   "name": "Ashton Kutcher",
+   "qid": "Q164782",
+   "projects": 1,
+   "fame": 84
+  },
+  {
+   "name": "Jamie Foxx",
+   "qid": "Q171905",
+   "projects": 1,
+   "fame": 83
+  },
+  {
+   "name": "Sia",
+   "qid": "Q181484",
+   "projects": 1,
+   "fame": 81
+  },
+  {
+   "name": "Rose Byrne",
+   "qid": "Q228717",
+   "projects": 1,
+   "fame": 57
+  },
+  {
+   "name": "Patricia Clarkson",
+   "qid": "Q229268",
+   "projects": 1,
+   "fame": 50
+  },
+  {
+   "name": "Tracie Thoms",
+   "qid": "Q241160",
+   "projects": 1,
+   "fame": 29
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}

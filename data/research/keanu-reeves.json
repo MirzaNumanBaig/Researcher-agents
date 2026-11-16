@@ -1,0 +1,223 @@
+{
+ "name": "Keanu Reeves",
+ "qid": "Q43416",
+ "description": "Canadian actor and musician (born 1964)",
+ "wikipedia_editions": 124,
+ "born": "1964-09-02",
+ "birthplace": "Beirut",
+ "occupations": [
+  "television actor",
+  "film actor",
+  "actor",
+  "film producer",
+  "film director",
+  "singer",
+  "voice actor",
+  "writer",
+  "author",
+  "musician"
+ ],
+ "relationships": [
+  {
+   "name": "Jennifer Syme",
+   "qid": "Q3378469",
+   "kind": "partner",
+   "start": "1998-00-00",
+   "end": "2000-00-00",
+   "ended_by": "",
+   "fame": 20
+  },
+  {
+   "name": "Alexandra Grant",
+   "qid": "Q4720650",
+   "kind": "partner",
+   "start": "2018-00-00",
+   "end": "",
+   "ended_by": "",
+   "fame": 13
+  }
+ ],
+ "family": {
+  "children_recorded": 1,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [
+  {
+   "title": "Shiver",
+   "qid": "Q138583014",
+   "date": "2027-08-13",
+   "type": "film project",
+   "directors": [
+    "Tim Miller"
+   ]
+  }
+ ],
+ "recent": [
+  {
+   "title": "Outcome",
+   "qid": "Q125029914",
+   "date": "2026-04-10",
+   "type": "film",
+   "directors": [
+    "Jonah Hill"
+   ]
+  },
+  {
+   "title": "Good Fortune",
+   "qid": "Q124364757",
+   "date": "2025-10-17",
+   "type": "film",
+   "directors": [
+    "Aziz Ansari"
+   ]
+  },
+  {
+   "title": "Ballerina",
+   "qid": "Q84713105",
+   "date": "2025-06-06",
+   "type": "film",
+   "directors": [
+    "Len Wiseman"
+   ]
+  },
+  {
+   "title": "Sonic the Hedgehog 3",
+   "qid": "Q115859490",
+   "date": "2024-12-26",
+   "type": "film",
+   "directors": [
+    "Jeff Fowler"
+   ]
+  },
+  {
+   "title": "John Wick: Chapter 4",
+   "qid": "Q80322358",
+   "date": "2023-03-24",
+   "type": "film",
+   "directors": [
+    "Chad Stahelski"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Tim Miller",
+   "projects": 1
+  },
+  {
+   "name": "Jonah Hill",
+   "projects": 1
+  },
+  {
+   "name": "Aziz Ansari",
+   "projects": 1
+  },
+  {
+   "name": "Len Wiseman",
+   "projects": 1
+  },
+  {
+   "name": "Jeff Fowler",
+   "projects": 1
+  },
+  {
+   "name": "Chad Stahelski",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Ian McShane",
+   "qid": "Q234141",
+   "projects": 5,
+   "fame": 88
+  },
+  {
+   "name": "Lance Reddick",
+   "qid": "Q322056",
+   "projects": 5,
+   "fame": 37
+  },
+  {
+   "name": "Bridget Moynahan",
+   "qid": "Q232343",
+   "projects": 3,
+   "fame": 39
+  },
+  {
+   "name": "Ana de Armas",
+   "qid": "Q698173",
+   "projects": 3,
+   "fame": 67
+  },
+  {
+   "name": "Laurence Fishburne",
+   "qid": "Q193048",
+   "projects": 3,
+   "fame": 76
+  },
+  {
+   "name": "Jim Carrey",
+   "qid": "Q40504",
+   "projects": 3,
+   "fame": 126
+  },
+  {
+   "name": "Daniel Bernhardt",
+   "qid": "Q115932",
+   "projects": 2,
+   "fame": 18
+  },
+  {
+   "name": "David Patrick Kelly",
+   "qid": "Q210076",
+   "projects": 2,
+   "fame": 26
+  },
+  {
+   "name": "John Leguizamo",
+   "qid": "Q295233",
+   "projects": 2,
+   "fame": 70
+  },
+  {
+   "name": "Randall Duk Kim",
+   "qid": "Q318110",
+   "projects": 2,
+   "fame": 28
+  },
+  {
+   "name": "Thomas Sadoski",
+   "qid": "Q3525542",
+   "projects": 2,
+   "fame": 22
+  },
+  {
+   "name": "Winona Ryder",
+   "qid": "Q101797",
+   "projects": 2,
+   "fame": 101
+  },
+  {
+   "name": "Riccardo Scamarcio",
+   "qid": "Q133787",
+   "projects": 2,
+   "fame": 30
+  },
+  {
+   "name": "Anjelica Huston",
+   "qid": "Q190998",
+   "projects": 2,
+   "fame": 68
+  },
+  {
+   "name": "Idris Elba",
+   "qid": "Q342604",
+   "projects": 2,
+   "fame": 86
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}

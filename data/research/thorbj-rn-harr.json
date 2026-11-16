@@ -1,0 +1,155 @@
+{
+ "name": "Thorbjørn Harr",
+ "qid": "Q12006179",
+ "description": "Norwegian actor",
+ "wikipedia_editions": 15,
+ "born": "1974-05-24",
+ "birthplace": "Oslo",
+ "occupations": [
+  "actor"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Sex",
+   "qid": "Q124306746",
+   "date": "2024-10-10",
+   "type": "film",
+   "directors": [
+    "Dag Johan Haugerud"
+   ]
+  },
+  {
+   "title": "Three Wishes For Cinderella",
+   "qid": "Q105642651",
+   "date": "2022-11-18",
+   "type": "film",
+   "directors": [
+    "Cecilie Mosli"
+   ]
+  },
+  {
+   "title": "Full Dekning",
+   "qid": "Q111225874",
+   "date": "2022-02-25",
+   "type": "film",
+   "directors": [
+    "Arild Andresen"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Dag Johan Haugerud",
+   "projects": 1
+  },
+  {
+   "name": "Cecilie Mosli",
+   "projects": 1
+  },
+  {
+   "name": "Arild Andresen",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Kristofer Hivju",
+   "qid": "Q6438398",
+   "projects": 2,
+   "fame": 33
+  },
+  {
+   "name": "Pål Sverre Hagen",
+   "qid": "Q2013068",
+   "projects": 2,
+   "fame": 26
+  },
+  {
+   "name": "Søren Pilmark",
+   "qid": "Q2033737",
+   "projects": 2,
+   "fame": 15
+  },
+  {
+   "name": "Gabriel Byrne",
+   "qid": "Q296616",
+   "projects": 2,
+   "fame": 50
+  },
+  {
+   "name": "Daryl McCormack",
+   "qid": "Q103758842",
+   "projects": 1,
+   "fame": 18
+  },
+  {
+   "name": "Astrid S",
+   "qid": "Q17107619",
+   "projects": 1,
+   "fame": 30
+  },
+  {
+   "name": "Sebastian Koch",
+   "qid": "Q63187",
+   "projects": 1,
+   "fame": 30
+  },
+  {
+   "name": "Julianne Moore",
+   "qid": "Q80405",
+   "projects": 1,
+   "fame": 107
+  },
+  {
+   "name": "Christopher Lambert",
+   "qid": "Q105158",
+   "projects": 1,
+   "fame": 60
+  },
+  {
+   "name": "Aleksander Krupa",
+   "qid": "Q125354",
+   "projects": 1,
+   "fame": 25
+  },
+  {
+   "name": "Willem Dafoe",
+   "qid": "Q188772",
+   "projects": 1,
+   "fame": 86
+  },
+  {
+   "name": "Ken Watanabe",
+   "qid": "Q211553",
+   "projects": 1,
+   "fame": 56
+  },
+  {
+   "name": "Julianne Nicholson",
+   "qid": "Q259663",
+   "projects": 1,
+   "fame": 33
+  },
+  {
+   "name": "Michael Gaston",
+   "qid": "Q386249",
+   "projects": 1,
+   "fame": 20
+  },
+  {
+   "name": "Q438580",
+   "qid": "Q438580",
+   "projects": 1,
+   "fame": 40
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-16"
+}
