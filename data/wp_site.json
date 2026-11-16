@@ -9,7 +9,7 @@
     {
       "id": 31,
       "name": "Celebrities",
-      "count": 586,
+      "count": 587,
       "link": "https://moduscarry.com/category/celebrities/"
     },
     {
@@ -33,7 +33,7 @@
     {
       "id": 27,
       "name": "News",
-      "count": 52,
+      "count": 53,
       "link": "https://moduscarry.com/category/news/"
     },
     {
@@ -75,16 +75,16 @@
       "link": "https://moduscarry.com/tag/marvel-studios/"
     },
     {
+      "id": 441,
+      "name": "Russell Brand",
+      "count": 40,
+      "link": "https://moduscarry.com/tag/russell-brand/"
+    },
+    {
       "id": 147,
       "name": "Red carpet",
       "count": 40,
       "link": "https://moduscarry.com/tag/red-carpet/"
-    },
-    {
-      "id": 441,
-      "name": "Russell Brand",
-      "count": 39,
-      "link": "https://moduscarry.com/tag/russell-brand/"
     },
     {
       "id": 197,
@@ -658,6 +658,17 @@
     }
   ],
   "recent_posts": [
+    {
+      "title": "Russell Brand’s Sentence and the Public Debate Behind It",
+      "link": "https://moduscarry.com/russell-brand-sentence-public-debate/",
+      "categories": [
+        31,
+        27
+      ],
+      "tags": [
+        441
+      ]
+    },
     {
       "title": "Sylvester Stallone Tops TV Pay Chart at $2 Million an Episode",
       "link": "https://moduscarry.com/sylvester-stallone-tv-salary/",
@@ -1932,20 +1943,6 @@
         446,
         274,
         147
-      ]
-    },
-    {
-      "title": "Stallone Names His Favourite Rocky Films, Creed Story",
-      "link": "https://moduscarry.com/sylvester-stallone-favourite-rocky/",
-      "categories": [
-        31,
-        29
-      ],
-      "tags": [
-        611,
-        416,
-        505,
-        506
       ]
     }
   ]
