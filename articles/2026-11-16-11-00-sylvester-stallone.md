@@ -23,6 +23,7 @@ wp_id: 2655
 wp_link: "https://moduscarry.com/sylvester-stallone-tv-salary/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
