@@ -24,6 +24,7 @@ wp_id: 2611
 wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-pay-debate/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

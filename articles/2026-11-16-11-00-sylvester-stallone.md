@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone TV Salary: $2 Million an Episode Report"
 seo_description: "Sylvester Stallone's TV salary is reportedly $2 million an episode, tying him with Chris Pratt at the top of a new Variety pay chart of 20 stars."
 focus_keyword: "Sylvester Stallone TV salary"
 permalink: "sylvester-stallone-tv-salary"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-16 11:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "Rocky", "Netflix"]
 image_prompt: "An empty executive boardroom at dusk with a long table, scattered contracts and a city skyline glowing through tall windows."
 sources:
   - "https://screenrant.com/chris-pratt-sylvester-stallone-2026-tv-actors-highest-paid-salary-report/"
+image: "images/2026-11-16-11-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/4840654690\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/4840654690\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2654
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-16-11-00-sylvester-stallone-768x432.webp"
+wp_id: 2655
+wp_link: "https://moduscarry.com/sylvester-stallone-tv-salary/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

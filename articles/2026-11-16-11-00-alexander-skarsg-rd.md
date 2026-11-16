@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Wicker Panel and Tarzan Streaming Return"
 seo_description: "Alexander Skarsgård Wicker panel in a mint and pink JW Anderson look, and The Legend of Tarzan is back on HBO Max's US top five. Read the details."
 focus_keyword: "Alexander Skarsgård Wicker"
 permalink: "alexander-skarsgard-wicker-tarzan-hbo-max"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-16 11:00"
 celebrity: "Alexander Skarsgård"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium with red seats and a softly lit screen
 sources:
   - "https://www.harpersbazaar.com/celebrity/latest/a74433389/alexander-skarsgard-jw-anderson-mint-green-bubblegum-pink-photos/"
   - "https://movieweb.com/the-legend-of-tarzan-november-2026/"
+image: "images/2026-11-16-11-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd at the 63rd New York Film Festival in New York City for the film Pillion"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_04.jpg\" rel=\"noopener\">Veggiegalaxy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_04.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2624
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-16-11-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 2625
+wp_link: "https://moduscarry.com/alexander-skarsgard-wicker-tarzan-hbo-max/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

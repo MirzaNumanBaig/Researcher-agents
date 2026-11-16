@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder Billy Evans: Holmes Film Claims Answered"
 seo_description: "Nathan Fielder Billy Evans says he saw nothing romantic between Fielder and Elizabeth Holmes while filming You Can See Everything. Here is what he said."
 focus_keyword: "Nathan Fielder Billy Evans"
 permalink: "nathan-fielder-billy-evans"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-16 11:00"
 celebrity: "Nathan Fielder"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium with a lit screen and rows of red seat
 sources:
   - "https://variety.com/2026/tv/news/nathan-fielder-elizabeth-holmes-billy-evans-1236948256/"
   - "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+image: "images/2026-11-16-11-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2644
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-16-11-00-nathan-fielder-768x432.webp"
+wp_id: 2645
+wp_link: "https://moduscarry.com/nathan-fielder-billy-evans/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

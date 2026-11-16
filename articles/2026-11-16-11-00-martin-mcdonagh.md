@@ -5,7 +5,7 @@ seo_title: "Wild Horse Nine Box Office: Wider Release Despite Dip"
 seo_description: "Wild Horse Nine box office: Searchlight expands Martin McDonagh's CIA comedy to 2,175 theatres on strong reviews, with $28 million worldwide."
 focus_keyword: "Wild Horse Nine box office"
 permalink: "wild-horse-nine-box-office"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-16 11:00"
 celebrity: "Martin McDonagh"
@@ -14,6 +14,15 @@ tags: ["Martin McDonagh", "Wild Horse Nine", "Sam Rockwell"]
 image_prompt: "An empty cinema auditorium with warm lights, red velvet seats and a glowing blank screen at dusk"
 sources:
   - "https://movieweb.com/wild-horse-nine-box-office-update/"
+image: "images/2026-11-16-11-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Director Martin McDonagh at the premiere of Seven Psychopaths, Toronto Film Festival 2012"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Seven_Psychopaths_29.jpg\" rel=\"noopener\">GabboT</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Seven_Psychopaths_29.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2636
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-16-11-00-martin-mcdonagh-768x432.webp"
+wp_id: 2637
+wp_link: "https://moduscarry.com/wild-horse-nine-box-office/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
