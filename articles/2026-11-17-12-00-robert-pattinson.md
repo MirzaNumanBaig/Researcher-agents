@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond: Why a 'Weird' 007 Divides Fans"
 seo_description: "Robert Pattinson Bond casting has split fans, with Australian critics backing a stranger 007. See what he said about the role in 2010 and 2012."
 focus_keyword: "Robert Pattinson Bond"
 permalink: "robert-pattinson-bond-weird-007"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 12:00"
 celebrity: "Robert Pattinson"
@@ -19,6 +19,15 @@ sources:
   - "https://digital.abcaudio.com/news/robert-pattinson-new-james-bond"
   - "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-manifested-james-bond-casting-2012-1236756679/"
   - "https://www.marieclaire.com.au/life/entertainment/robert-pattinson-james-bond-announcement-twilight/"
+image: "images/2026-11-17-12-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2751
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-12-00-robert-pattinson-768x432.webp"
+wp_id: 2752
+wp_link: "https://moduscarry.com/robert-pattinson-bond-weird-007/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

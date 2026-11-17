@@ -5,7 +5,7 @@ seo_title: "David Walliams Age of Consent Call: Accuser Speaks Out"
 seo_description: "David Walliams denies all allegations as a woman who accuses him backs a staggered age of consent in the UK, the Guardian and ITV News report."
 focus_keyword: "David Walliams age of consent"
 permalink: "david-walliams-age-of-consent"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 12:00"
 celebrity: "David Walliams"
@@ -14,6 +14,15 @@ tags: ["David Walliams", "Russell Brand"]
 image_prompt: "An empty courtroom bench and a closed law book in soft morning light, quiet and serious mood."
 sources:
   - "https://www.theguardian.com/tv-and-radio/2026/nov/16/woman-accusing-david-walliams-grooming-backs-staggered-age-of-consent-call"
+image: "images/2026-11-17-12-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_(6745348487).jpg\" rel=\"noopener\">Sean Reynolds from Liverpool, United Kingdom</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_(6745348487).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2725
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-12-00-david-walliams-768x432.webp"
+wp_id: 2726
+wp_link: "https://moduscarry.com/david-walliams-age-of-consent/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

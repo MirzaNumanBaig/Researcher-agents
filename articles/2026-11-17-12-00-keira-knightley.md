@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Love Actually: Seen It Only Once"
 seo_description: "Keira Knightley Love Actually: the actress says she has not watched the Christmas film since its premiere, and barely remembers shooting it."
 focus_keyword: "Keira Knightley Love Actually"
 permalink: "keira-knightley-love-actually"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 12:00"
 celebrity: "Keira Knightley"
@@ -14,6 +14,15 @@ tags: ["Keira Knightley", "Love Actually", "Richard Curtis", "Christmas films"]
 image_prompt: "A cosy London living room at dusk with a lit Christmas tree, a television glowing softly and a stack of handwritten cue cards on a table."
 sources:
   - "https://www.classichits.ie/news/showbiz/keira-knightley-says-shes-only-watched-love-actually-once/"
+image: "images/2026-11-17-12-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Madame Tussauds London - Keira Knightley"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/36708987@N06/3430590331\" rel=\"noopener\">the12thplaya</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://www.flickr.com/photos/36708987@N06/3430590331\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2741
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-12-00-keira-knightley-768x432.webp"
+wp_id: 2742
+wp_link: "https://moduscarry.com/keira-knightley-love-actually/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

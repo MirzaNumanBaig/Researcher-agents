@@ -5,7 +5,7 @@ seo_title: "Liam Hemsworth Hunger Games Throwback Photos Shared"
 seo_description: "Jennifer Lawrence shared unseen Liam Hemsworth Hunger Games throwback photos with Josh Hutcherson days before Sunrise on the Reaping opens. See what was posted."
 focus_keyword: "Liam Hemsworth Hunger Games"
 permalink: "liam-hemsworth-hunger-games-throwback"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 12:00"
 celebrity: "Liam Hemsworth"
@@ -14,6 +14,15 @@ tags: ["Liam Hemsworth", "Josh Hutcherson", "The Hunger Games"]
 image_prompt: "An empty airport tarmac at dusk with a small private jet parked under a soft orange sky."
 sources:
   - "https://www.justjared.com/2026/11/16/jennifer-lawrence-shares-never-before-seen-throwback-photos-with-hunger-games-co-stars-liam-hemsworth-josh-hutcherson/"
+image: "images/2026-11-17-12-00-liam-hemsworth.webp"
+image_alt: "Liam Hemsworth: Liam Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/9358005436\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/9358005436\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2743
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-12-00-liam-hemsworth-768x432.webp"
+wp_id: 2744
+wp_link: "https://moduscarry.com/liam-hemsworth-hunger-games-throwback/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

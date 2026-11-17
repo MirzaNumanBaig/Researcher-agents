@@ -5,7 +5,7 @@ seo_title: "Jason Sudeikis Thundergong! 2026: Islands in the Stream Duet"
 seo_description: "Jason Sudeikis and Hannah Waddingham sang Islands in the Stream at Thundergong! 2026, a Kansas City charity night that raised US$1.4 million."
 focus_keyword: "Jason Sudeikis Thundergong"
 permalink: "jason-sudeikis-thundergong-2026"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 12:00"
 celebrity: "Jason Sudeikis"
@@ -14,6 +14,15 @@ tags: ["Jason Sudeikis", "Hannah Waddingham", "Ted Lasso", "Thundergong", "Dolly
 image_prompt: "An empty concert stage in a Kansas City theatre with warm spotlights, two microphone stands and a crowd of silhouettes waiting"
 sources:
   - "https://www.whiskeyriff.com/2026/11/16/ted-lasso-stars-jason-sudeikis-hannah-waddingham-perform-the-dolly-parton-kenny-rogers-classic-islands-in-the-stream/"
+image: "images/2026-11-17-12-00-jason-sudeikis.webp"
+image_alt: "Jason Sudeikis: Jason Sudeikis 2011 Shankbone 2"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/27865228@N06/5678575422\" rel=\"noopener\">david_shankbone</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/27865228@N06/5678575422\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2733
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-12-00-jason-sudeikis-768x432.webp"
+wp_id: 2734
+wp_link: "https://moduscarry.com/jason-sudeikis-thundergong-2026-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

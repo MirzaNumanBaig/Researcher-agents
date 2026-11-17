@@ -5,7 +5,7 @@ seo_title: "Denis Villeneuve Bond: Robert Pattinson Is the New 007"
 seo_description: "Denis Villeneuve Bond news: Robert Pattinson is the new 007 in Bond 26. See who is involved, what changes and what comes next."
 focus_keyword: "Denis Villeneuve Bond"
 permalink: "denis-villeneuve-bond-robert-pattinson-casting"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-13 04:00"
 celebrity: "Denis Villeneuve"
@@ -15,6 +15,15 @@ image_prompt: "A black tuxedo jacket and a vintage cinema projector beam cutting
 sources:
   - "https://www.smh.com.au/culture/movies/robert-pattinson-cast-as-next-james-bond-20261117-p61eod.html"
   - "https://www.mediaweek.com.au/robert-pattinson-next-james-bond"
+image: "images/2026-11-13-04-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve Picks Robert Pattinson as the New James Bond"
+image_credit: "Image: <a href=\"https://www.npr.org/2026/11/16/nx-s1-6042420/james-bond-casting-robert-pattinson\" rel=\"nofollow noopener\">NPR</a> (cropped)"
+wp_media_id: 2712
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-13-04-00-denis-villeneuve-768x432.webp"
+wp_id: 2713
+wp_link: "https://moduscarry.com/denis-villeneuve-bond-robert-pattinson-casting/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

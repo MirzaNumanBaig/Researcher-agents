@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone Andrew Garfield Tulsa King Villain Idea"
 seo_description: "Sylvester Stallone says he wants Andrew Garfield as a Tulsa King villain, a thoughtful threat rather than a brute. No casting has been announced."
 focus_keyword: "Stallone Andrew Garfield Tulsa King"
 permalink: "stallone-andrew-garfield-tulsa-king"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 12:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "Tulsa King", "Andrew Garfield", "Taylor Sheridan"]
 image_prompt: "An empty Oklahoma street at dusk with a neon-lit diner sign glowing and a lone black car parked at the kerb"
 sources:
   - "https://www.tvline.com/2318659/sylvester-stallone-wants-andrew-garfield-tulsa-king-villain/"
+image: "images/2026-11-17-12-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588424132\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588424132\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2755
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-12-00-sylvester-stallone-768x432.webp"
+wp_id: 2756
+wp_link: "https://moduscarry.com/stallone-andrew-garfield-tulsa-king/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

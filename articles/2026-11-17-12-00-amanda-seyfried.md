@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Thomas Sadoski Broadway Opening Night"
 seo_description: "Amanda Seyfried turned up to Thomas Sadoski's Broadway opening of Downstate with flowers, Page Six reports, two months after their split. Here's what we know."
 focus_keyword: "Amanda Seyfried Thomas Sadoski"
 permalink: "amanda-seyfried-thomas-sadoski-broadway"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 12:00"
 celebrity: "Amanda Seyfried"
@@ -14,6 +14,15 @@ tags: ["Amanda Seyfried", "Nathan Fielder", "You Can See Everything"]
 image_prompt: "A Broadway theatre marquee glowing at night with an empty red-carpeted entrance and a bouquet of flowers on a lobby ledge."
 sources:
   - "https://pagesix.com/2026/11/16/celebrity-news/amanda-seyfried-supports-ex-husband-thomas-sadoskis-broadway-opening/"
+image: "images/2026-11-17-12-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, actor, at the 2025 Toronto International Film Festival (TIFF) for the movie The Testament of Ann Lee ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._03_(cropped).jpg\" rel=\"noopener\">Sara Komatsu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._03_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2720
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-12-00-amanda-seyfried-768x432.webp"
+wp_id: 2721
+wp_link: "https://moduscarry.com/amanda-seyfried-thomas-sadoski-broadway/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

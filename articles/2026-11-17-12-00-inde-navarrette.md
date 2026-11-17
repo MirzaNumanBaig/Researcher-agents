@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Rogue Training Confession and Elle Cover"
 seo_description: "Inde Navarrette Rogue prep is more reading than gym time, she told Deadline. She also joins Elle's Women in Hollywood covers. Here is what is confirmed."
 focus_keyword: "Inde Navarrette Rogue"
 permalink: "inde-navarrette-rogue-training"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 12:00"
 celebrity: "Inde Navarrette"
@@ -15,6 +15,15 @@ image_prompt: "A quiet rehearsal studio with a stack of comic books on a bench a
 sources:
   - "https://www.superherohype.com/news/706232-new-x-men-rogue-inde-navarrette-surprising-training-confession"
   - "https://www.gofugyourself.com/elle-women-in-hollywood-2026/"
+image: "images/2026-11-17-12-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_02_(cropped).jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_02_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2731
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-12-00-inde-navarrette-768x432.webp"
+wp_id: 2732
+wp_link: "https://moduscarry.com/inde-navarrette-rogue-training/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

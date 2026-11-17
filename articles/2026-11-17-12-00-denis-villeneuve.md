@@ -5,7 +5,7 @@ seo_title: "Villeneuve Bond Film: Robert Pattinson Is the New 007"
 seo_description: "Amazon MGM confirms Robert Pattinson as 007 in the Villeneuve Bond film. See what is confirmed, what is still unknown and how critics reacted."
 focus_keyword: "Villeneuve Bond film"
 permalink: "villeneuve-bond-film-pattinson-reaction"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 12:00"
 celebrity: "Denis Villeneuve"
@@ -17,6 +17,15 @@ sources:
   - "https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666/"
   - "https://www.theautopian.com/a-good-james-bond-has-to-be-a-little-funny-can-robert-pattinson-be-a-little-funny/"
   - "https://www.denofgeek.com/movies/james-bond-what-other-denis-villeneuve-vets-should-join-mi6/"
+image: "images/2026-11-17-12-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Villeneuve's Bond Film: Pattinson Cast, Critics Split"
+image_credit: "Image: <a href=\"https://screenrant.com/blade-runner-2049-sequel-prime-video-show/\" rel=\"nofollow noopener\">ScreenRant</a> (cropped)"
+wp_media_id: 2727
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-12-00-denis-villeneuve-768x432.webp"
+wp_id: 2728
+wp_link: "https://moduscarry.com/villeneuve-bond-film-pattinson-reaction/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

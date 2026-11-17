@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki Cliff Booth Screening and Elle Honour"
 seo_description: "Elizabeth Debicki joined David Fincher at a Netflix Cliff Booth screening in Los Angeles and appears in Elle's Women in Hollywood line-up."
 focus_keyword: "Elizabeth Debicki Cliff Booth screening"
 permalink: "elizabeth-debicki-cliff-booth-screening"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 12:00"
 celebrity: "Elizabeth Debicki"
@@ -15,6 +15,15 @@ image_prompt: "An empty private cinema with plush seats and a lit screen, warm l
 sources:
   - "https://www.broadwayworld.com/bwwtv/article/Photos-David-Fincher-Elizabeth-Debicki-and-Peter-Weller-Attend-Netflix-Screening-of-THE-FURTHER-MIS-ADVENTURES-OF-CLIFF-BOOTH-20261116"
   - "https://www.gofugyourself.com/elle-women-in-hollywood-2026/"
+image: "images/2026-11-17-12-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki Joins Fincher at Cliff Booth Screening"
+image_credit: "Image: <a href=\"https://www.broadwayworld.com/bwwtv/article/Photos-David-Fincher-Elizabeth-Debicki-and-Peter-Weller-Attend-Netflix-Screening-of-THE-FURTHER-MIS-ADVENTURES-OF-CLIFF-BOOTH-20261116\" rel=\"nofollow noopener\">broadwayworld.com</a> (cropped)"
+wp_media_id: 2729
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-12-00-elizabeth-debicki-768x432.webp"
+wp_id: 2730
+wp_link: "https://moduscarry.com/elizabeth-debicki-cliff-booth-screening/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
