@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-17 21:00",
+  "celebrity": "Alexander Skarsgård",
+  "stories": [
+    {
+      "title": "'Wicker' review: Olivia Colman and Alexander Skarsgård weave a raunchy fairy tale",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TQktkM2JQNDBqN2I4OEVUY3ZQZmd2M1JYSGd6TlZiMnFNYkN5dDhCMUpzT1ctNGZTOTZQc19QdXdxbGczVEdYUGxIb25XQXdjN0FpTF8taUdhQmFI?oc=5",
+      "published": "2026-11-17T05:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TQktkM2JQNDBqN2I4OEVUY3ZQZmd2M1JYSGd6TlZiMnFNYkN5dDhCMUpzT1ctNGZTOTZQc19QdXdxbGczVEdYUGxIb25XQXdjN0FpTF8taUdhQmFI?oc=5",
+          "article_url": "https://mashable.com/entertainment/wicker-review",
+          "image": "https://helios-i.mashable.com/imagery/articles/042kKzTdPlK2iPPEzXuf7BT/hero-image.fill.size_1200x675.v1791557924.jpg"
+        }
+      ],
+      "image": "https://helios-i.mashable.com/imagery/articles/042kKzTdPlK2iPPEzXuf7BT/hero-image.fill.size_1200x675.v1791557924.jpg",
+      "image_source": "https://mashable.com/entertainment/wicker-review"
+    }
+  ]
+}

@@ -31,6 +31,83 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "Bond. Vampire Bond. Why Robert Pattinson can’t possibly play 007",
+      "url": "https://www.smh.com.au/culture/movies/bond-vampire-bond-why-robert-pattinson-can-t-possibly-play-007-20261117-p61ev2.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
+      "published": "2026-11-17T19:00:00+11:00",
+      "outlets": [
+        {
+          "source": "smh.com.au",
+          "url": "https://www.smh.com.au/culture/movies/bond-vampire-bond-why-robert-pattinson-can-t-possibly-play-007-20261117-p61ev2.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
+          "article_url": "",
+          "image": "https://static.ffx.io/images/$zoom_0.1628%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_31/t_crop_custom/q_86%2Cf_auto/21674196a4117ec80ed63cb9ca4a5cabeb99798eafe3fe10c866a1db6707dc27"
+        },
+        {
+          "source": "스포츠조선",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0JieE1QWVBXTUZwa1JWSkp3RXZVS3dsdGRXREpyOWNiZThWUWdMWXdyMWt0V2NtSlVTaklEcklwdzh6N3lqdVFINkZvVUNVTTBvdmpvZkI3R1NqSklzMVk5Xzd2TkNXQTNaREN5RlQyTDRkQldaMGhmM3dVbDlsYnB4TQ?oc=5",
+          "article_url": "https://www.sportschosun.com/en/celebrity/2026-11-15/202611150100098520009172",
+          "image": "https://www.sportschosun.com/article/html/2026/11/15/2026111501000985200091721_w.jpg"
+        }
+      ],
+      "image": "https://static.ffx.io/images/$zoom_0.1628%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_31/t_crop_custom/q_86%2Cf_auto/21674196a4117ec80ed63cb9ca4a5cabeb99798eafe3fe10c866a1db6707dc27",
+      "image_source": "https://www.smh.com.au/culture/movies/bond-vampire-bond-why-robert-pattinson-can-t-possibly-play-007-20261117-p61ev2.html?ref=rss&utm_medium=rss&utm_source=rss_culture"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Primetime",
+      "release": "2026-09-05",
+      "director": [
+        "Lance Oppenheim"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Phoebe Bridgers",
+        "Merritt Wever",
+        "Sean Bridgers",
+        "Skyler Gisondo"
+      ],
+      "budget_usd": 14500000,
+      "box_office_usd": 62000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 4.28,
+      "rotten_tomatoes": "86%",
+      "metacritic": "68/100 from 54 critics",
+      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Yet it’s hard to know to what end, or to care.\" Nicholas Barber of the BBC gave the film 5 out of 5 stars, calling Pattinson's performance \"extraordinary\" and \"the best performance yet from the most intriguing actor of his generation\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
+      }
+    },
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
     }
   ]
 }
