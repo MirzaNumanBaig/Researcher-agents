@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Star Wars Audition: Parents Said No"
 seo_description: "Keira Knightley Star Wars audition story: her parents worried about The Phantom Menace, but at 12 she insisted on trying out. Here is what she recalls."
 focus_keyword: "Keira Knightley Star Wars"
 permalink: "keira-knightley-star-wars-audition"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 21:00"
 celebrity: "Keira Knightley"
@@ -14,6 +14,15 @@ tags: ["Keira Knightley", "Johnny Depp"]
 image_prompt: "A quiet empty cinema auditorium with red seats and a glowing blank screen, soft spotlight beam cutting through the dark"
 sources:
   - "https://www.yahoo.com/entertainment/celebrity/interviews/articles/keira-knightleys-parents-didnt-want-144500592.html"
+image: "images/2026-11-17-21-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley smoking 3"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/9355127@N07/35392595510\" rel=\"noopener\">Nicholas R. Andrew</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/9355127@N07/35392595510\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2780
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-21-00-keira-knightley-768x432.webp"
+wp_id: 2781
+wp_link: "https://moduscarry.com/keira-knightley-star-wars-audition/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

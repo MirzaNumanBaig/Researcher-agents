@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Ray Gunn: Release Date and Reviews"
 seo_description: "Scarlett Johansson voices pop star Venus Nova in Brad Bird's Ray Gunn. See the release dates, the plot and why early reviews sit at 94% on Rotten Tomatoes."
 focus_keyword: "Scarlett Johansson Ray Gunn"
 permalink: "scarlett-johansson-ray-gunn"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 21:00"
 celebrity: "Scarlett Johansson"
@@ -14,6 +14,15 @@ tags: ["Scarlett Johansson", "Sam Rockwell", "Netflix"]
 image_prompt: "A neon-lit retrofuturistic city street at night in the style of 1930s noir, rain on the pavement and a lone streetlamp glowing"
 sources:
   - "https://movieweb.com/ray-gunn-upcoming-tease/"
+image: "images/2026-11-17-21-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071_(cropped).jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2796
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-21-00-scarlett-johansson-768x432.webp"
+wp_id: 2797
+wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

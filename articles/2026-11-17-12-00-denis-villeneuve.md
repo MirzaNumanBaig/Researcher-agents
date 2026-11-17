@@ -26,6 +26,7 @@ wp_id: 2728
 wp_link: "https://moduscarry.com/villeneuve-bond-film-pattinson-reaction/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

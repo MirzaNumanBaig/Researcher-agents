@@ -5,7 +5,7 @@ seo_title: "Wicker Review: Alexander Skarsgård as the Wicker Husband"
 seo_description: "Mashable's Wicker review calls Alexander Skarsgård a stoically sweet husband in a raunchy fairy tale with Olivia Colman and Peter Dinklage."
 focus_keyword: "Wicker review"
 permalink: "wicker-review-alexander-skarsgard"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 21:00"
 celebrity: "Alexander Skarsgård"
@@ -14,6 +14,15 @@ tags: ["Alexander Skarsgård", "Wicker", "Olivia Colman", "Peter Dinklage", "Eli
 image_prompt: "A crumbling seaside cottage and a hand-woven wicker figure standing in a misty medieval meadow at dusk"
 sources:
   - "https://mashable.com/entertainment/wicker-review"
+image: "images/2026-11-17-21-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd speaking at the 2012 San Diego Comic-Con International in San Diego, California."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsgard_2012.jpg\" rel=\"noopener\">Gage Skidmore from Peoria, AZ, United States of America</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsgard_2012.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2758
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-21-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 2759
+wp_link: "https://moduscarry.com/wicker-review-alexander-skarsgard/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

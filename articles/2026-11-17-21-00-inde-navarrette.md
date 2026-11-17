@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Women in Hollywood: Suit and Rogue Plans"
 seo_description: "Inde Navarrette Women in Hollywood night brought a white Ralph Lauren suit with a train and fresh Rogue details. Here is what is confirmed."
 focus_keyword: "Inde Navarrette Women in Hollywood"
 permalink: "inde-navarrette-women-in-hollywood"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 21:00"
 celebrity: "Inde Navarrette"
@@ -17,6 +17,15 @@ sources:
   - "https://www.eonline.com/news/1438168/inde-navarrette-reveals-how-shes-prepping-to-play-rogue-in-x-men"
   - "https://substreammagazine.com/2026/11/curry-barker-and-inde-navarrette-are-still-taking-in-the-runaway-success-of-obsession/"
   - "https://hiplatina.com/inde-navarrette-follows-her-mexican-intuition-when-it-comes-to-superstition/"
+image: "images/2026-11-17-21-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03_(cropped).jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2770
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-21-00-inde-navarrette-768x432.webp"
+wp_id: 2771
+wp_link: "https://moduscarry.com/inde-navarrette-women-in-hollywood/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond: How He Won the 007 Role"
 seo_description: "Robert Pattinson is the new James Bond. See how he beat three rivals in screen tests, who directs Bond 26 and when the film is expected."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-casting"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 21:00"
 celebrity: "Robert Pattinson"
@@ -18,6 +18,15 @@ sources:
   - "https://www.perthnow.com.au/entertainment/movies/robert-pattinsons-twilight-co-star-jokes-he-predicted-james-bond-role-as-2008-film-scene-resurfaces-c-23174214"
   - "https://missflicks.com/2026/11/17/i-hope-james-bond-doesnt-stop-robert-pattinson-making-weird-movies/"
   - "https://simondillon.substack.com/p/robert-pattinson-as-james-bond-ok"
+image: "images/2026-11-17-21-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Actor Robert Pattinson at the 75th Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65806.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65806.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2790
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-21-00-robert-pattinson-768x432.webp"
+wp_id: 2791
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-casting/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

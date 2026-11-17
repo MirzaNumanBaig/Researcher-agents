@@ -5,7 +5,7 @@ seo_title: "David Walliams Allegations: Old Comedy Clips Resurface"
 seo_description: "David Walliams allegations spark fresh scrutiny of old TV jokes, while Jeremy Edwards describes a 2006 stage sketch. Walliams denies the claims."
 focus_keyword: "David Walliams allegations"
 permalink: "david-walliams-allegations-old-clips"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 21:00"
 celebrity: "David Walliams"
@@ -15,6 +15,15 @@ image_prompt: "An empty theatre stage with a single spotlight and rows of empty 
 sources:
   - "https://www.smh.com.au/culture/tv-and-radio/shocked-by-russell-brand-and-david-walliams-you-shouldn-t-be-20261117-p61dyf.html"
   - "https://www.nzherald.co.nz/world/uk-tv-star-jeremy-edwards-says-david-walliams-sexually-humiliated-him-during-sketch-on-stage/IDUUVNUX4FD67ET7FX5AEYQKOA/"
+image: "images/2026-11-17-21-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams, actor, comedian, and writer, at the 2025 Jaipur Literature Festival in Jaipur, India."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival.jpg\" rel=\"noopener\">Sriya Sarkar</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2764
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-21-00-david-walliams-768x432.webp"
+wp_id: 2765
+wp_link: "https://moduscarry.com/david-walliams-allegations-old-clips/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

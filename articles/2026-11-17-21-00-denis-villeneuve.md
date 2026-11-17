@@ -5,7 +5,7 @@ seo_title: "Denis Villeneuve Bond Film: Reaction to Pattinson Pick"
 seo_description: "Denis Villeneuve will direct Robert Pattinson as James Bond. See how fans and critics are reacting and what is confirmed about the 2028 film."
 focus_keyword: "Denis Villeneuve Bond film"
 permalink: "denis-villeneuve-bond-film-reaction"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 21:00"
 celebrity: "Denis Villeneuve"
@@ -16,6 +16,15 @@ sources:
   - "https://www.powerfmsa.com.au/trending/entertainment/robert-pattinson-is-the-new-james-bond-but-not-everyone-is-happy-about-it/"
   - "https://missflicks.com/2026/11/17/i-hope-james-bond-doesnt-stop-robert-pattinson-making-weird-movies/"
   - "https://simondillon.substack.com/p/robert-pattinson-as-james-bond-ok"
+image: "images/2026-11-17-21-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve's Bond Choice Splits Fans and Critics"
+image_credit: "Image: <a href=\"https://www.powerfmsa.com.au/trending/entertainment/robert-pattinson-is-the-new-james-bond-but-not-everyone-is-happy-about-it/\" rel=\"nofollow noopener\">powerfmsa.com.au</a> (cropped)"
+wp_media_id: 2766
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-21-00-denis-villeneuve-768x432.webp"
+wp_id: 2767
+wp_link: "https://moduscarry.com/denis-villeneuve-bond-film-reaction/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -23,6 +23,7 @@ wp_id: 2721
 wp_link: "https://moduscarry.com/amanda-seyfried-thomas-sadoski-broadway/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

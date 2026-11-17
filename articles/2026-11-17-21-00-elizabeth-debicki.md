@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki James Bond Reaction: Pattinson 'Perfect'"
 seo_description: "The Elizabeth Debicki James Bond reaction is in: the Tenet star says Robert Pattinson is 'perfect' for 007. Here is what she said and what is next."
 focus_keyword: "Elizabeth Debicki James Bond"
 permalink: "elizabeth-debicki-james-bond"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 21:00"
 celebrity: "Elizabeth Debicki"
@@ -18,6 +18,15 @@ sources:
   - "https://www.hollywoodreporterindia.com/amp/story/features/insight/robert-pattinson-is-the-next-james-bond-brad-pitt-ralph-fiennes-george-lazenby-and-elizabeth-debicki-react"
   - "https://www.elle.com/culture/celebrities/a74415290/elizabeth-debicki-photos-elle-women-in-hollywood-2026/"
   - "https://headlineplanet.com/home/2026/11/17/special-look-elizabeth-debicki-david-fincher-more-attend-netflixs-the-further-mis-adventures-of-cliff-booth-screening/"
+image: "images/2026-11-17-21-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki Calls Robert Pattinson 'Perfect' for Bond"
+image_credit: "Image: <a href=\"https://www.hollywoodreporterindia.com/amp/story/features/insight/robert-pattinson-is-the-next-james-bond-brad-pitt-ralph-fiennes-george-lazenby-and-elizabeth-debicki-react\" rel=\"nofollow noopener\">The Hollywood Reporter India</a> (cropped)"
+wp_media_id: 2768
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-21-00-elizabeth-debicki-768x432.webp"
+wp_id: 2769
+wp_link: "https://moduscarry.com/elizabeth-debicki-james-bond/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

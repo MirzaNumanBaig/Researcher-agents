@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Avengers: Doomsday Gold Coast Event"
 seo_description: "Chris Hemsworth Avengers: Doomsday Gold Coast event is set for December 4, and Extraction 3 has begun filming in NSW. Here is what we know."
 focus_keyword: "Chris Hemsworth Avengers Doomsday"
 permalink: "chris-hemsworth-avengers-doomsday-gold-coast"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-17 21:00"
 celebrity: "Chris Hemsworth"
@@ -16,6 +16,15 @@ sources:
   - "https://www.filmink.com.au/public-notice/chris-hemsworth-to-make-a-thunderous-arrival-at-avengers-doomsday-gold-coast-special-event-on-december-4/"
   - "https://au.variety.com/2026/film/news/chris-hemsworth-avengers-doomsday-premiere-australia-42658/"
   - "https://www.filmink.com.au/public-notice/chris-hemsworth-idris-elba-and-golshifteh-farahani-return-for-another-mission-as-netflixs-extraction-3-begins-production-in-new-south-wales/"
+image: "images/2026-11-17-21-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2762
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-17-21-00-chris-hemsworth-768x432.webp"
+wp_id: 2763
+wp_link: "https://moduscarry.com/chris-hemsworth-avengers-doomsday-gold-coast/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
