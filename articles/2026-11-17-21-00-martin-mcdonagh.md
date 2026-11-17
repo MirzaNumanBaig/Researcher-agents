@@ -24,6 +24,7 @@ wp_id: 2783
 wp_link: "https://moduscarry.com/wild-horse-nine-reviews/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

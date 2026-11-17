@@ -27,6 +27,7 @@ wp_id: 2791
 wp_link: "https://moduscarry.com/robert-pattinson-james-bond-casting/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

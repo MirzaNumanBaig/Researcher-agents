@@ -15,9 +15,14 @@ image_prompt: "A red carpet at night lined with photographers' lights and a dark
 sources:
   - "https://www.cnn.com/2026/11/17/style/alexander-skarsgard-tom-ford-lotw"
 wp_id: 2806
-wp_link: "https://moduscarry.com/?p=2806"
-wp_synced: pending
+wp_link: "https://moduscarry.com/alexander-skarsgard-tom-ford/"
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-18-06-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd at the 2025 Telluride Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_05.jpg\" rel=\"noopener\">FiesolanaNYC</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_05.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2862
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-alexander-skarsg-rd-768x432.webp"
 ---
 
 **Quick summary**

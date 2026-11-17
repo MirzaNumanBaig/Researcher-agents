@@ -24,6 +24,7 @@ wp_id: 2787
 wp_link: "https://moduscarry.com/billy-evans-consent-nathan-fielder/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

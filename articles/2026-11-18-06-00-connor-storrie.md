@@ -17,9 +17,14 @@ sources:
   - "https://www.goldderby.com/film/2026/bafta-breakthrough-cohort-connor-storrie-inde-navarrette/"
   - "https://variety.com/2026/biz/news/connor-storrie-inde-navarrette-parsons-bafta-breakthrough-1236950441/"
 wp_id: 2810
-wp_link: "https://moduscarry.com/?p=2810"
-wp_synced: pending
+wp_link: "https://moduscarry.com/connor-storrie-bafta-breakthrough/"
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-18-06-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2870
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-connor-storrie-768x432.webp"
 ---
 
 **Quick summary**
