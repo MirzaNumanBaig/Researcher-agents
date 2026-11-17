@@ -20767,6 +20767,22 @@
    "turns": 10,
    "seconds": 51,
    "cost_usd": 0.2685
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T10:35:11+00:00",
+   "batch": "2026-11-17 21:00",
+   "celebrity": "Georgina Baillie",
+   "article": "2026-11-17-21-00-georgina-baillie.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 985,
+   "cache_read_tokens": 78856,
+   "cache_write_tokens": 21389,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.1034
   }
  ]
 }
