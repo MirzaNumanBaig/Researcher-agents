@@ -21279,6 +21279,22 @@
    "turns": 7,
    "seconds": 27,
    "cost_usd": 0.1657
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T19:39:29+00:00",
+   "batch": "2026-11-18 06:00",
+   "celebrity": "Alisha Boe",
+   "article": "2026-11-18-06-00-alisha-boe.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 874,
+   "cache_read_tokens": 78080,
+   "cache_write_tokens": 20487,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.0987
   }
  ]
 }
