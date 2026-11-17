@@ -21615,6 +21615,22 @@
    "turns": 9,
    "seconds": 16,
    "cost_usd": 0.1593
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T20:26:23+00:00",
+   "batch": "2026-11-18 06:00",
+   "celebrity": "Jim Carrey",
+   "article": "2026-11-18-06-00-jim-carrey.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 18,
+   "output_tokens": 4295,
+   "cache_read_tokens": 265765,
+   "cache_write_tokens": 27346,
+   "turns": 13,
+   "seconds": 48,
+   "cost_usd": 0.194
   }
  ]
 }
