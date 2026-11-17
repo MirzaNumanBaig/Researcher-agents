@@ -20751,6 +20751,22 @@
    "turns": 7,
    "seconds": 29,
    "cost_usd": 0.1835
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T10:33:37+00:00",
+   "batch": "2026-11-17 21:00",
+   "celebrity": "Elizabeth Debicki",
+   "article": "2026-11-17-21-00-elizabeth-debicki.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 7415,
+   "cache_read_tokens": 253856,
+   "cache_write_tokens": 42205,
+   "turns": 10,
+   "seconds": 51,
+   "cost_usd": 0.2685
   }
  ]
 }
