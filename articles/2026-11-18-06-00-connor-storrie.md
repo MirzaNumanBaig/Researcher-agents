@@ -5,7 +5,7 @@ seo_title: "Connor Storrie BAFTA Breakthrough 2026 Cohort Named"
 seo_description: "Connor Storrie BAFTA Breakthrough: the Heated Rivalry star is one of 14 rising creatives in the 2026 U.S. cohort. See who joins him and what it offers."
 focus_keyword: "Connor Storrie BAFTA Breakthrough"
 permalink: "connor-storrie-bafta-breakthrough"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Connor Storrie"
@@ -16,6 +16,10 @@ sources:
   - "https://www.hollywoodreporter.com/news/general-news/bafta-us-breakouts-2026-connor-storrie-inde-navarette-1236756614/"
   - "https://www.goldderby.com/film/2026/bafta-breakthrough-cohort-connor-storrie-inde-navarrette/"
   - "https://variety.com/2026/biz/news/connor-storrie-inde-navarrette-parsons-bafta-breakthrough-1236950441/"
+wp_id: 2810
+wp_link: "https://moduscarry.com/?p=2810"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

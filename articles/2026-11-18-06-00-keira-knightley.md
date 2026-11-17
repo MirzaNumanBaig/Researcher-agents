@@ -5,7 +5,7 @@ seo_title: "Black Doves Season 3: Renewal Status and What We Know"
 seo_description: "Black Doves season 3 is not yet renewed by Netflix, but creator Joe Barton says a writers' room is working. Here is what is known so far."
 focus_keyword: "Black Doves Season 3"
 permalink: "black-doves-season-3-renewal"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Keira Knightley"
@@ -15,6 +15,15 @@ image_prompt: "A rain-soaked London street at night with a lone red telephone bo
 sources:
   - "https://www.marieclaire.com/culture/tv-shows/black-doves-season-3/"
   - "https://www.countryandtownhouse.com/?p=417531"
+image: "images/2026-11-18-06-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley pastel"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/89587384@N00/22933591432\" rel=\"noopener\">David in Lisburn</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://www.flickr.com/photos/89587384@N00/22933591432\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2838
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-keira-knightley-768x432.webp"
+wp_id: 2839
+wp_link: "https://moduscarry.com/black-doves-season-3-renewal/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

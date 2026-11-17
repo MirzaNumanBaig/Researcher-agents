@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki ELLE Women in Hollywood Speech Explained"
 seo_description: "Elizabeth Debicki's ELLE Women in Hollywood speech credited a casting director and Baz Luhrmann for her Gatsby break. Here is what she said."
 focus_keyword: "Elizabeth Debicki ELLE speech"
 permalink: "elizabeth-debicki-elle-speech"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Elizabeth Debicki"
@@ -16,6 +16,15 @@ sources:
   - "https://www.elle.com/culture/celebrities/a74455466/elizabeth-debicki-elle-2026-women-in-hollywood-speech-details/"
   - "https://www.hellomagazine.com/fashion/celebrity-style/935542/elizabeth-debicki-channels-princess-diana-in-most-flattering-black-dress/"
   - "https://www.hungamaexpress.com/news/56195-elizabeth-debicki-is-thrilled-for-007-robert-pattinson"
+image: "images/2026-11-18-06-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki Thanks Her 'Small Army' at ELLE Honours"
+image_credit: "Image: <a href=\"https://www.hellomagazine.com/fashion/celebrity-style/935542/elizabeth-debicki-channels-princess-diana-in-most-flattering-black-dress/\" rel=\"nofollow noopener\">HELLO!</a> (cropped)"
+wp_media_id: 2816
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-elizabeth-debicki-768x432.webp"
+wp_id: 2817
+wp_link: "https://moduscarry.com/elizabeth-debicki-elle-speech/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

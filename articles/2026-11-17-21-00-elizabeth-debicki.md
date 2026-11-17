@@ -27,6 +27,7 @@ wp_id: 2769
 wp_link: "https://moduscarry.com/elizabeth-debicki-james-bond/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

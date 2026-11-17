@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone Montecristo Cigar Arrives in 2027"
 seo_description: "Sylvester Stallone Montecristo cigar will debut in 2027, inspired by his memoir The Steps and 50 years of Rocky. Here is what is confirmed so far."
 focus_keyword: "Sylvester Stallone Montecristo cigar"
 permalink: "sylvester-stallone-montecristo-cigar"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Sylvester Stallone"
@@ -17,6 +17,15 @@ sources:
   - "https://halfwheel.com/?p=488738"
   - "https://www.cbc.ca/arts/q/anthony-ippolito-on-becoming-sylvester-stallone-9.7425047"
   - "https://spectator.com/article/sylvester-stallone-was-an-unlikely-hollywood-hero/?edition=us"
+image: "images/2026-11-18-06-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588426252\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588426252\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2860
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-sylvester-stallone-768x432.webp"
+wp_id: 2861
+wp_link: "https://moduscarry.com/sylvester-stallone-montecristo-cigar/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

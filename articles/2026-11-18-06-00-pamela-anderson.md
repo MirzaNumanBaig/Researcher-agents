@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Red Coat Dress and New Bob in New York"
 seo_description: "Pamela Anderson wore a ruby red Auter coat as a dress with mesh Giuseppe Zanotti pumps in New York, and her voluminous bob is getting attention."
 focus_keyword: "Pamela Anderson red coat dress"
 permalink: "pamela-anderson-red-coat-dress"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Pamela Anderson"
@@ -15,6 +15,15 @@ image_prompt: "A ruby red wool coat and black mesh high heels displayed on a sta
 sources:
   - "https://wwd.com/footwear-news/shoe-trends/pamela-anderson-mesh-giuseppe-zanotti-pumps-new-york-1239420639/"
   - "https://www.harpersbazaar.com/uk/beauty/hair/a74450715/pamela-anderson-bob-volume-for-short-hair/"
+image: "images/2026-11-18-06-00-pamela-anderson.webp"
+image_alt: "Pamela Anderson: Actress Pamela Anderson at the 2026 Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson-69699.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson-69699.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2848
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-pamela-anderson-768x432.webp"
+wp_id: 2849
+wp_link: "https://moduscarry.com/pamela-anderson-red-coat-dress/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Wild Horse Nine Review: McDonagh's Rapa Nui Spy Tale"
 seo_description: "A Wild Horse Nine review praises Martin McDonagh's CIA comedy with John Malkovich and Sam Rockwell, set on Rapa Nui before the 1973 Chilean coup."
 focus_keyword: "Wild Horse Nine review"
 permalink: "wild-horse-nine-review-rapa-nui"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Martin McDonagh"
@@ -14,6 +14,15 @@ tags: ["Martin McDonagh", "Wild Horse Nine", "Sam Rockwell"]
 image_prompt: "A windswept grassy hillside on a remote Pacific island at dusk, wild horses grazing near ancient stone statues under a stormy sky."
 sources:
   - "https://dailyfreepress.com/11/17/13/222600/absurdity-and-death-on-rapa-nui-martin-mcdonagh-returns-with-wild-horse-nine/"
+image: "images/2026-11-18-06-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Martin McDonagh, director, at 82nd Venice International Film Festival in Venice, Italy for the film Wild Horse Nine."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_(cropped).jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2840
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-martin-mcdonagh-768x432.webp"
+wp_id: 2841
+wp_link: "https://moduscarry.com/wild-horse-nine-review-rapa-nui/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

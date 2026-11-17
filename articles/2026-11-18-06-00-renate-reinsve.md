@@ -5,7 +5,7 @@ seo_title: "Renate Reinsve Bond Speculation and Fjord Release"
 seo_description: "Renate Reinsve Bond talk: she is floated as a dark horse opposite Robert Pattinson, but nothing is announced. See what is confirmed and how Fjord fared."
 focus_keyword: "Renate Reinsve Bond"
 permalink: "renate-reinsve-bond-fjord"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Renate Reinsve"
@@ -16,6 +16,15 @@ sources:
   - "https://www.indulgexpress.com/ampstories/web-stories/2026/Nov/17/who-can-be-the-next-bond-girl-opposite-robert-pattinson"
   - "https://www.thewrap.com/creative-content/movies/fjord-review-cannes-sebastian-stan-renate-reinsve/"
   - "https://www.timeout.com/movies/fjord-review-2026"
+image: "images/2026-11-18-06-00-renate-reinsve.webp"
+image_alt: "Renate Reinsve: Actress Renate Reinsve at the 2025 Cannes Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-9937.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-9937.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2850
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-renate-reinsve-768x432.webp"
+wp_id: 2851
+wp_link: "https://moduscarry.com/renate-reinsve-bond-fjord/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

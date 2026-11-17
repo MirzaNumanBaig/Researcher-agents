@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Tom Ford Look at the Governors Awards"
 seo_description: "Alexander Skarsgård wore Tom Ford by Haider Ackermann to the Governors Awards in Los Angeles. Here is the look and why CNN made it Look of the Week."
 focus_keyword: "Alexander Skarsgård Tom Ford"
 permalink: "alexander-skarsgard-tom-ford"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Alexander Skarsgård"
@@ -14,6 +14,10 @@ tags: ["Alexander Skarsgård", "Wicker", "Fashion", "Red carpet"]
 image_prompt: "A red carpet at night lined with photographers' lights and a dark velvet backdrop, with a rack of sparkling evening tops in the foreground."
 sources:
   - "https://www.cnn.com/2026/11/17/style/alexander-skarsgard-tom-ford-lotw"
+wp_id: 2806
+wp_link: "https://moduscarry.com/?p=2806"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

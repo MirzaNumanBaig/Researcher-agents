@@ -26,6 +26,7 @@ wp_id: 2771
 wp_link: "https://moduscarry.com/inde-navarrette-women-in-hollywood/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

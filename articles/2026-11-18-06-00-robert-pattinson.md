@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond: What Villeneuve Wants"
 seo_description: "Robert Pattinson James Bond casting is official. Denis Villeneuve explains the 007 he wants, and Pattinson's old jokes about the role resurface."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-villeneuve-vision"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Robert Pattinson"
@@ -17,6 +17,15 @@ sources:
   - "https://www.nine.com.au/entertainment/celebrity/robert-pattinson-james-bond-embarrassing-claim-years-before-casting-20261118-p61evn.html"
   - "https://www.abc.net.au/news/2026-11-18/bond-more-or-less-quiz/107207434"
   - "https://theconversation.com/robert-pattinson-is-the-first-bond-with-a-strong-franchise-history-it-makes-him-a-safe-choice-296872"
+image: "images/2026-11-18-06-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2852
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-robert-pattinson-768x432.webp"
+wp_id: 2853
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-villeneuve-vision/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

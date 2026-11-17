@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette BAFTA Breakthrough: 2026 US Cohort Named"
 seo_description: "Inde Navarrette BAFTA Breakthrough: the Obsession star joins 14 rising creatives in BAFTA's 2026 US cohort, a week of firsts for the actress."
 focus_keyword: "Inde Navarrette BAFTA Breakthrough"
 permalink: "inde-navarrette-bafta-breakthrough"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Inde Navarrette"
@@ -19,6 +19,15 @@ sources:
   - "https://www.elle.com/culture/celebrities/a74454476/inde-navarrette-elle-2026-women-in-hollywood-speech/"
   - "https://wwd.com/pop-culture/celebrity-news/inde-navarrette-ralph-lauren-suit-elle-women-in-hollywood-1239420872/"
   - "https://www.hola.com/us/celebrities/20261117935620/latina-bond-girls/"
+image: "images/2026-11-18-06-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03.jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2822
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-inde-navarrette-768x432.webp"
+wp_id: 2823
+wp_link: "https://moduscarry.com/inde-navarrette-bafta-breakthrough/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

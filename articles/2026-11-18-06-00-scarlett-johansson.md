@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Ray Gunn Trailer: Venus Nova Revealed"
 seo_description: "The new Scarlett Johansson Ray Gunn trailer shows her as megastar Venus Nova in Brad Bird's noir. See the cast, release dates and what to expect."
 focus_keyword: "Scarlett Johansson Ray Gunn"
 permalink: "scarlett-johansson-ray-gunn-trailer"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Scarlett Johansson"
@@ -15,6 +15,15 @@ image_prompt: "A neon-lit retro-futuristic city street at night with flying cars
 sources:
   - "https://www.netflix.com/tudum/articles/ray-gunn-trailer"
   - "https://www.whats-on-netflix.com/news/ray-gunn-gets-its-most-revealing-trailer-yet-plus-a-new-poster-and-first-looks-with-a-pixar-easter-egg/"
+image: "images/2026-11-18-06-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071_(cropped_II).jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071_(cropped_II).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2858
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-scarlett-johansson-768x432.webp"
+wp_id: 2859
+wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-trailer-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

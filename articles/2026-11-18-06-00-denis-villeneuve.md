@@ -5,7 +5,7 @@ seo_title: "Villeneuve James Bond Vision: Killer With Charisma"
 seo_description: "Villeneuve James Bond vision explained: the Dune director wants an assassin with charisma and wit, and Florence Pugh has pitched for a villain role."
 focus_keyword: "Villeneuve James Bond vision"
 permalink: "villeneuve-james-bond-vision"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 06:00"
 celebrity: "Denis Villeneuve"
@@ -18,6 +18,15 @@ sources:
   - "https://theplaylist.net/denis-villeneuve-james-bond-assassin-robert-pattinson-20261117/"
   - "https://theplaylist.net/denis-villeneuve-josh-oconnor-james-bond-bond-26-20261117/"
   - "https://people.com/florence-pugh-pitched-herself-as-a-bond-villain-to-denis-villeneuve-12260887"
+image: "images/2026-11-18-06-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Villeneuve's James Bond Vision: A Killer With Charisma"
+image_credit: "Image: <a href=\"https://theplaylist.net/denis-villeneuve-james-bond-assassin-robert-pattinson-20261117/\" rel=\"nofollow noopener\">The Playlist</a> (cropped)"
+wp_media_id: 2814
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-denis-villeneuve-768x432.webp"
+wp_id: 2815
+wp_link: "https://moduscarry.com/villeneuve-james-bond-vision/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
