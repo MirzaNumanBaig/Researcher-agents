@@ -24,6 +24,7 @@ wp_id: 2750
 wp_link: "https://moduscarry.com/nathan-fielder-governors-awards/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
