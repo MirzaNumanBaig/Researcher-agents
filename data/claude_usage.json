@@ -21743,6 +21743,22 @@
    "turns": 6,
    "seconds": 12,
    "cost_usd": 0.1068
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T20:43:00+00:00",
+   "batch": "2026-11-18 06:00",
+   "celebrity": "Martin McDonagh",
+   "article": "2026-11-18-06-00-martin-mcdonagh.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 3947,
+   "cache_read_tokens": 154603,
+   "cache_write_tokens": 25988,
+   "turns": 8,
+   "seconds": 31,
+   "cost_usd": 0.159
   }
  ]
 }
