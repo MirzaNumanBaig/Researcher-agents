@@ -21775,6 +21775,22 @@
    "turns": 11,
    "seconds": 39,
    "cost_usd": 0.2275
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T20:48:07+00:00",
+   "batch": "2026-11-18 06:00",
+   "celebrity": "Mckenna Grace",
+   "article": "2026-11-18-06-00-mckenna-grace.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4801,
+   "cache_read_tokens": 195917,
+   "cache_write_tokens": 39479,
+   "turns": 9,
+   "seconds": 35,
+   "cost_usd": 0.2257
   }
  ]
 }
