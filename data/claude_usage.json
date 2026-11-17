@@ -20527,6 +20527,22 @@
    "turns": 7,
    "seconds": 28,
    "cost_usd": 0.1654
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T02:35:36+00:00",
+   "batch": "2026-11-17 04:00",
+   "celebrity": "Zara Larsson",
+   "article": "2026-11-17-04-00-zara-larsson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 3443,
+   "cache_read_tokens": 152103,
+   "cache_write_tokens": 24704,
+   "turns": 8,
+   "seconds": 27,
+   "cost_usd": 0.1486
   }
  ]
 }
