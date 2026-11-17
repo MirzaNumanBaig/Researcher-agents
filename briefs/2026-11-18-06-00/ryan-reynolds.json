@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-18 06:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Shrewsbury owner Scott Davidson envious of Wrexham's success under Ryan Reynolds",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVRVVG5CRG5LQVYxQ29iQTRWOTlkNjh3aE02Mm9nQVBpZjg3QjNvc2txMGJSeF9xeTYxaHBVaktrTjdRRm4zaDBXdmV3cDNhRWhYUVpKb3ZqbHRxbzdHQ19KMjlkN3VtRWxJNlpMNW1na29DZWFFUHZmaXlacG9Fc1hybFhyNEFSUlp6NnIzNUtOZ3NBNmVqT3NYSkZGb3cy?oc=5",
+      "published": "2026-11-17T05:10:00+00:00",
+      "outlets": [
+        {
+          "source": "Wrexham and Flintshire News, Sport, Events | The Leader",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVRVVG5CRG5LQVYxQ29iQTRWOTlkNjh3aE02Mm9nQVBpZjg3QjNvc2txMGJSeF9xeTYxaHBVaktrTjdRRm4zaDBXdmV3cDNhRWhYUVpKb3ZqbHRxbzdHQ19KMjlkN3VtRWxJNlpMNW1na29DZWFFUHZmaXlacG9Fc1hybFhyNEFSUlp6NnIzNUtOZ3NBNmVqT3NYSkZGb3cy?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

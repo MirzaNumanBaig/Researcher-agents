@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-18 06:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Why Nicole Kidman Was Almost in Notting Hill (and Why She Didn't Get the Part!)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGN2WkNLYjJyRWQyZjRDYlJhVTM1TGQ3T3UwejJZM2RTelhkOXo3ZlZLRGd5UnROdHo0WmRuQXV1SngwcWlEU29lVFA0N0hsQkg5MmNUZmJ6WWJDVjBjVkJsQXZuc3dFaTRqQUx2VHBwcm9iZG1Od2cySnNqR21yMHVKcG5nckxoWmVWWXlsU1pBWU9w?oc=5",
+      "published": "2026-11-17T18:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGN2WkNLYjJyRWQyZjRDYlJhVTM1TGQ3T3UwejJZM2RTelhkOXo3ZlZLRGd5UnROdHo0WmRuQXV1SngwcWlEU29lVFA0N0hsQkg5MmNUZmJ6WWJDVjBjVkJsQXZuc3dFaTRqQUx2VHBwcm9iZG1Od2cySnNqR21yMHVKcG5nckxoWmVWWXlsU1pBWU9w?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/videos/why-nicole-kidman-almost-notting-180000564.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/853fc3daf770305d95a28ea61d6fdf313224885f19e53866be9a3c1ebb085f44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhatculture_videos_838%2F82f861cde6a09c6568ff6780860b369a.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/853fc3daf770305d95a28ea61d6fdf313224885f19e53866be9a3c1ebb085f44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhatculture_videos_838%2F82f861cde6a09c6568ff6780860b369a.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/videos/why-nicole-kidman-almost-notting-180000564.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
+    }
+  ]
+}

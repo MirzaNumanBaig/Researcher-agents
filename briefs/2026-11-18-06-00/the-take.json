@@ -1,0 +1,65 @@
+{
+  "batch": "2026-11-18 06:00",
+  "celebrity": "The Take",
+  "stories": [
+    {
+      "title": "16 Robert Pattinson movies, from Twilight and The Batman to art-house films",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Bb3F2a3VuVklnbjNxU1VHY0RBc3ZTZUw0dFpNaGQ4UDJaNTRMbXY5TTJYVEdNSGFkOC1RcGduUUtRZUJUcXB2VXgwdHIxemM?oc=5",
+      "published": "2026-11-17T14:43:40+00:00",
+      "outlets": [
+        {
+          "source": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Bb3F2a3VuVklnbjNxU1VHY0RBc3ZTZUw0dFpNaGQ4UDJaNTRMbXY5TTJYVEdNSGFkOC1RcGduUUtRZUJUcXB2VXgwdHIxemM?oc=5",
+          "article_url": "https://qz.com/robert-pattinson-movies",
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Robert_Pattinson_Deauville_2017-300x423.jpg"
+        }
+      ],
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Robert_Pattinson_Deauville_2017-300x423.jpg",
+      "image_source": "https://qz.com/robert-pattinson-movies"
+    },
+    {
+      "title": "Netflix Confirms Release Date for Robert Pattinson, Denzel Washington Thriller",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVdsMGRsbjh4b21GSFZuSGFwbTBiM1FJMl83Z184NXlnbDROVzZIQ0w4ZmtDMkdSbF9VN2pSZVlzWEhRS1YtbkxwaDNwNGZNd1d3aWRjbjJGdnJYLWRrdVNfckpVUkVrSUh6bHBPa2lnMUR5TXB2WlVkajdialJqX09oYWIxTEk?oc=5",
+      "published": "2026-11-17T00:27:00+00:00",
+      "outlets": [
+        {
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVdsMGRsbjh4b21GSFZuSGFwbTBiM1FJMl83Z184NXlnbDROVzZIQ0w4ZmtDMkdSbF9VN2pSZVlzWEhRS1YtbkxwaDNwNGZNd1d3aWRjbjJGdnJYLWRrdVNfckpVUkVrSUh6bHBPa2lnMUR5TXB2WlVkajdialJqX09oYWIxTEk?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    }
+  ]
+}

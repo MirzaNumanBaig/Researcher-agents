@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-12 05:00",
+  "celebrity": "Kristine Froseth",
+  "stories": [
+    {
+      "title": "Amanda Seyfried Lights Up Tiffany & Co.’s Iconic Bird on a Rock to Usher in the Holiday Season",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlZCZlQ4VUczeGI0NEZUcWZkRXFwVlZ2ZzV6SVhqa3Y1Zm1Vei1PanBzUG1sMzJicEFjLUV6aVNnTHlqWlNZUU1SelRlTF84Vml0TGdvb0tzLUlOSGVWS1lON2hHbWRXakdKUVJobTZIYnhldXFTSDl4enpjbVpnLUpzS2R4dExfX1F5TXhmdlJLdnY5TGc?oc=5",
+      "published": "2026-11-11T15:41:09+00:00",
+      "outlets": [
+        {
+          "source": "Vogue",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlZCZlQ4VUczeGI0NEZUcWZkRXFwVlZ2ZzV6SVhqa3Y1Zm1Vei1PanBzUG1sMzJicEFjLUV6aVNnTHlqWlNZUU1SelRlTF84Vml0TGdvb0tzLUlOSGVWS1lON2hHbWRXakdKUVJobTZIYnhldXFTSDl4enpjbVpnLUpzS2R4dExfX1F5TXhmdlJLdnY5TGc?oc=5",
+          "article_url": "https://www.vogue.com/slideshow/amanda-seyfried-tiffany-and-co-bird-on-a-rock-holiday-party",
+          "image": "https://assets.vogue.com/photos/6af4887ca067548b88077781/16:9/w_1280,c_limit/BFA_56711_8336040.JPG"
+        }
+      ],
+      "image": "https://assets.vogue.com/photos/6af4887ca067548b88077781/16:9/w_1280,c_limit/BFA_56711_8336040.JPG",
+      "image_source": "https://www.vogue.com/slideshow/amanda-seyfried-tiffany-and-co-bird-on-a-rock-holiday-party"
+    }
+  ]
+}

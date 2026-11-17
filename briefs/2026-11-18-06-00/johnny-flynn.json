@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-18 06:00",
+  "celebrity": "Johnny Flynn",
+  "stories": [
+    {
+      "title": "MobLand's new villain has fans dubbing him the next Heath Ledger Joker",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONl80blFUS1JFTTR0ZVR5TzhJQnotTGlyVGZzb2ZhY2dyOUNlSU5VYktLNnd4djFuNURJYmhJQnhGVUt0NFlXVXZfUkVBMlB5c3R0bkdWQUg4MDBrd3NxMXZYbXBZLTRHa29PUU9GaXdYcmpXSTNxLUt5MHBxNWJIRDQtWF9mRjBkcWZvZ3lpbmhSZGZhWHllMjlJc1NzUXh3?oc=5",
+      "published": "2026-11-17T15:23:00+00:00",
+      "outlets": [
+        {
+          "source": "Startefacts",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONl80blFUS1JFTTR0ZVR5TzhJQnotTGlyVGZzb2ZhY2dyOUNlSU5VYktLNnd4djFuNURJYmhJQnhGVUt0NFlXVXZfUkVBMlB5c3R0bkdWQUg4MDBrd3NxMXZYbXBZLTRHa29PUU9GaXdYcmpXSTNxLUt5MHBxNWJIRDQtWF9mRjBkcWZvZ3lpbmhSZGZhWHllMjlJc1NzUXh3?oc=5",
+          "article_url": "https://startefacts.com/news/mobland-s-new-villain-has-fans-dubbing-him-the-next-heath-ledger-joker",
+          "image": "https://startefacts.com/k2/news/canvas/1200x630/upload/upload/news/609208102208.jpg"
+        }
+      ],
+      "image": "https://startefacts.com/k2/news/canvas/1200x630/upload/upload/news/609208102208.jpg",
+      "image_source": "https://startefacts.com/news/mobland-s-new-villain-has-fans-dubbing-him-the-next-heath-ledger-joker"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Elsinore",
+      "release": "2026-09-04",
+      "director": [
+        "Simon Stone"
+      ],
+      "cast": [
+        "Andrew Scott",
+        "Olivia Colman",
+        "Billie Piper",
+        "Johnny Flynn",
+        "Luke Thompson"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "89%",
+      "metacritic": "75/100 from 19 critics",
+      "critics_consensus": null,
+      "critics_overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137722359",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
+      }
+    }
+  ]
+}

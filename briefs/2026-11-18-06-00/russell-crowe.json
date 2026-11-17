@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-18 06:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "'Really Dumb'— Russell Crowe Recalls Michael Jackson’s Bizarre Prank Calls",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOekZpanlDNW5SNXBnd194YVU4RzFpdE9RX3ZlOThKcUdmTmpscnZibC1lYUp4QVU1emZlRFNNYXBPQ2U3WGl3Z0htOEg5ZXc1cEhpTjJDdk1LTTdYcnhneFU3VV9RNl9aYkpzR2pJWWhXV3A1bGJpNS1ZYzJEY0NOcXRSanZjTXVQcHdjVWt6OG9ydEJfS1lPZWdhSWpPSW04OUxEakNfVmlESEtrU0p2a2hWN1VQdmxhaXZXWmpYenlKdFNwbk1FVXM3Sk4tc1dUSEE0ag?oc=5",
+      "published": "2026-11-17T09:47:17+00:00",
+      "outlets": [
+        {
+          "source": "Yardbarker",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOekZpanlDNW5SNXBnd194YVU4RzFpdE9RX3ZlOThKcUdmTmpscnZibC1lYUp4QVU1emZlRFNNYXBPQ2U3WGl3Z0htOEg5ZXc1cEhpTjJDdk1LTTdYcnhneFU3VV9RNl9aYkpzR2pJWWhXV3A1bGJpNS1ZYzJEY0NOcXRSanZjTXVQcHdjVWt6OG9ydEJfS1lPZWdhSWpPSW04OUxEakNfVmlESEtrU0p2a2hWN1VQdmxhaXZXWmpYenlKdFNwbk1FVXM3Sk4tc1dUSEE0ag?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Unabomber",
+      "release": "2026-09-25",
+      "director": [
+        "Janus Metz Pedersen"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "25%",
+      "metacritic": "46/100 from 18 critics",
+      "critics_consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+      "critics_overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+      }
+    }
+  ]
+}
