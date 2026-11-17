@@ -21887,6 +21887,22 @@
    "turns": 11,
    "seconds": 54,
    "cost_usd": 0.3075
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T21:03:41+00:00",
+   "batch": "2026-11-18 06:00",
+   "celebrity": "Russell Brand",
+   "article": "2026-11-18-06-00-russell-brand.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4098,
+   "cache_read_tokens": 128862,
+   "cache_write_tokens": 31917,
+   "turns": 7,
+   "seconds": 29,
+   "cost_usd": 0.1817
   }
  ]
 }
