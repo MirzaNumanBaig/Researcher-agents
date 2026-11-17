@@ -24,6 +24,7 @@ wp_id: 2707
 wp_link: "https://moduscarry.com/scarlett-johansson-paper-tiger/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
