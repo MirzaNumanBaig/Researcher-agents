@@ -21343,6 +21343,22 @@
    "turns": 6,
    "seconds": 30,
    "cost_usd": 0.1897
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T19:47:16+00:00",
+   "batch": "2026-11-18 06:00",
+   "celebrity": "Brendan Fraser",
+   "article": "2026-11-18-06-00-brendan-fraser.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 1014,
+   "cache_read_tokens": 79511,
+   "cache_write_tokens": 22029,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.1064
   }
  ]
 }
