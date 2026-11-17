@@ -21359,6 +21359,22 @@
    "turns": 6,
    "seconds": 9,
    "cost_usd": 0.1064
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T19:50:32+00:00",
+   "batch": "2026-11-18 06:00",
+   "celebrity": "Bug Hall",
+   "article": "2026-11-18-06-00-bug-hall.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4539,
+   "cache_read_tokens": 167838,
+   "cache_write_tokens": 29754,
+   "turns": 9,
+   "seconds": 35,
+   "cost_usd": 0.1814
   }
  ]
 }
