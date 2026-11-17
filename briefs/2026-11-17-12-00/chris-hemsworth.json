@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-17 12:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "Super Power Sips With Chris Hemsworth’s Archie Rose",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd3dUZXpjMlBBNGVwZEczTzZRU3EyMzRsZS1yT2dVYXEzd0NTbnZ2LS1PSDY1MFRlVW8za2twVHlSOXpLZUtveXd4dGExb0JVcXh2OXFiWTJ0RERSaEpfVk9hNXg4dW4zaC16YXdjRk02Q1hYcmtwU2NOd1hseEpmSmZRM0w?oc=5",
+      "published": "2026-11-16T21:52:35+00:00",
+      "outlets": [
+        {
+          "source": "The Knockturnal",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd3dUZXpjMlBBNGVwZEczTzZRU3EyMzRsZS1yT2dVYXEzd0NTbnZ2LS1PSDY1MFRlVW8za2twVHlSOXpLZUtveXd4dGExb0JVcXh2OXFiWTJ0RERSaEpfVk9hNXg4dW4zaC16YXdjRk02Q1hYcmtwU2NOd1hseEpmSmZRM0w?oc=5",
+          "article_url": "https://theknockturnal.com/super-power-sips-with-chris-hemsworths-archie-rose/",
+          "image": "https://theknockturnal.com/wp-content/uploads/2026/11/CH-ArchieRose-SuperPremiumLineup.jpg"
+        }
+      ],
+      "image": "https://theknockturnal.com/wp-content/uploads/2026/11/CH-ArchieRose-SuperPremiumLineup.jpg",
+      "image_source": "https://theknockturnal.com/super-power-sips-with-chris-hemsworths-archie-rose/"
+    },
+    {
+      "title": "Chris Hemsworth launches all-in-one longevity platform",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmNEQUdYcm1PYTUzRDcyUjc1TllDZHJEZDc3dWFoRWVMSFFELXhOejJHeEN4T18yNjRFMnpaNDd2NFFMU1BKalRGUWN2M3BqNzAwd0ZGN2VoSnFDaWFCZWhlZm5SRHRZWG5zcmhWTDFfNXRacWdhTlBfTFl4RWU0ZlNhM3I1OEt2RXh6dFI1QUZkcFE?oc=5",
+      "published": "2026-11-16T19:03:05+00:00",
+      "outlets": [
+        {
+          "source": "Longevity.Technology",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmNEQUdYcm1PYTUzRDcyUjc1TllDZHJEZDc3dWFoRWVMSFFELXhOejJHeEN4T18yNjRFMnpaNDd2NFFMU1BKalRGUWN2M3BqNzAwd0ZGN2VoSnFDaWFCZWhlZm5SRHRZWG5zcmhWTDFfNXRacWdhTlBfTFl4RWU0ZlNhM3I1OEt2RXh6dFI1QUZkcFE?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Chris Hemsworth launches AI longevity platform Kinsyn, offering GLP-1s and NAD+ injections",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcF9UaTNROWRVdGNMSWRhY3RNdXhDZTZoSFpFeTdCU3NDcnNRb1daRUZ2eEpONzlvT1diNVhhM1Q4RGRIdW1scG1jeG1QdlExUjhoY0hzUjhjV1BJZmFHOExjM3Q5eGtoaVpfVkFnTlFFS1dXdGFTZEtHNzJlRDFOTWY2VUlyU3NGSzFJY2Q5bTB0QW5nNWdv?oc=5",
+      "published": "2026-11-16T12:44:30+00:00",
+      "outlets": [
+        {
+          "source": "Nutrition Insight",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcF9UaTNROWRVdGNMSWRhY3RNdXhDZTZoSFpFeTdCU3NDcnNRb1daRUZ2eEpONzlvT1diNVhhM1Q4RGRIdW1scG1jeG1QdlExUjhoY0hzUjhjV1BJZmFHOExjM3Q5eGtoaVpfVkFnTlFFS1dXdGFTZEtHNzJlRDFOTWY2VUlyU3NGSzFJY2Q5bTB0QW5nNWdv?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

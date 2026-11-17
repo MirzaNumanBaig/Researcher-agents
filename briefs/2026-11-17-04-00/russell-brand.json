@@ -48,10 +48,16 @@
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYnk0bHl0Y0Y0NDhnMHM0STRDVjRzdFBGTzZ4YnRSVkdLcVh0enkwaEtINTlNdWV0NXo0UjBlSDNwbUV1TFp2dGs4VHRzeVp5VG12MWpPbUNyX1lvMU9UbXQ1QUI2VHMwaTRsMzBKSU1uX0xfVWdXRkhQWjRURmN6bUFNZmIwNFRfcm1HZHlUdjBDRF9xbFJZYy1tdGlPdldJTlBFTEdYZndRX1ZvQXdwNzVGem5rQUY4ZlBDTnFVaC1SM3BpUjY1V2U0QUJ4XzdhSHlNM1Q1MFFJR2JTaHRCZENtNEV1U2lYcWhEOV9Yaw?oc=5",
           "article_url": "",
           "image": ""
+        },
+        {
+          "source": "theguardian.com",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/russell-brand-open-secret-review-a-real-tribute-to-the-journalists-and-victims-who-brought-him-to-justice",
+          "article_url": "",
+          "image": "https://i.guim.co.uk/img/media/d1d1a6a821a52080f3720466d998a7df686a1d04/837_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=ea2cfc5905c97675e7f45a5a6bd5b052"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://i.guim.co.uk/img/media/d1d1a6a821a52080f3720466d998a7df686a1d04/837_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=ea2cfc5905c97675e7f45a5a6bd5b052",
+      "image_source": "https://www.theguardian.com/tv-and-radio/2026/nov/16/russell-brand-open-secret-review-a-real-tribute-to-the-journalists-and-victims-who-brought-him-to-justice"
     },
     {
       "title": "British Authorities Investigating Possibly Illegal Russell Brand Statement From Prison",
@@ -238,6 +244,54 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "UK investigating Russell Brand's message from behind bars",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWnVhMWpBVHA1Nl93QjNxNU16OHhndV9tYTUyNjM3N2NFNEYzeVdxMTdFRFFSdGhvQVZwcXpvOGIwNXRHMDNaemY5cEFQTTlOck05VWRZNFdETkYzSEcxNWgxWWVaZHVSc3hzQTkwOWlLbUdjbEtrblBHX2kwSC1ORTBlSjBRQnVLWlJfNTEwcy14bUpYNk9RNnZBc243UFRhS00yRGh1ajlIemZ4Y0E?oc=5",
+      "published": "2026-11-16T19:06:42+00:00",
+      "outlets": [
+        {
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWnVhMWpBVHA1Nl93QjNxNU16OHhndV9tYTUyNjM3N2NFNEYzeVdxMTdFRFFSdGhvQVZwcXpvOGIwNXRHMDNaemY5cEFQTTlOck05VWRZNFdETkYzSEcxNWgxWWVaZHVSc3hzQTkwOWlLbUdjbEtrblBHX2kwSC1ORTBlSjBRQnVLWlJfNTEwcy14bUpYNk9RNnZBc243UFRhS00yRGh1ajlIemZ4Y0E?oc=5",
+          "article_url": "https://www.abc.net.au/news/2026-11-17/russell-brand-prison-message-read-by-laura-on-sunday-service/107392812",
+          "image": "https://live-production.wcms.abc-cdn.net.au/4d594ce223405b703d4751e0bb35040b?impolicy=wcms_watermark_news&cropH=2526&cropW=4491&xPos=79&yPos=0&width=862&height=485&imformat=generic"
+        },
+        {
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEVCc3RwTXZPenBNZm12OTVxV1BDcDdFd1VfdVNrS24yYmV4RFNUd0VrRFpKOVUxNkw5aGlIWkR3N21nNkduQmYtLXFLbmRrNDlaaFYzNjhEQXRiZXpmenF2bFlSRXQ3dkZfUVFld2ZkLUtmM2xMVXVfSHM2bU5nRktYS3p0M0wwbTZxcWZjZ2JhaWJhTjYzMWNHRE83alRNbnlUcUtjMTlwejVhZkE?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUVKNEU1STZoMW5fa2ZLSHdWOXd6cHlFRXJMUXZuM1dLNmdST2c0X2xtWFVoWE9NcVp1NHhWWTFsblg0eDJYWlVLb2swZzVuTUoyQWl5X3NlbGszRkFRQ1J0N09SbG9UUFd6QXNVdWtPUFhDcEpBTjFBQjVOaG1STHltYk51dDJzNlhsdUVCSzA4ZFdJX25xSFNMRWhMZGFZbUZYYVl3?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "https://live-production.wcms.abc-cdn.net.au/4d594ce223405b703d4751e0bb35040b?impolicy=wcms_watermark_news&cropH=2526&cropW=4491&xPos=79&yPos=0&width=862&height=485&imformat=generic",
+      "image_source": "https://www.abc.net.au/news/2026-11-17/russell-brand-prison-message-read-by-laura-on-sunday-service/107392812"
+    },
+    {
+      "title": "Katy Perry’s Comment About Ex Who ‘Should Be in Jail’ Surfaces After Russell Brand’s Imprisonment",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUZQSVBHbkltb3R5ckFiNTFoR2NwVi1BeHBuQjJselI3YnM1SDhUVFhTWjA0eGNWTHVseXE3TEhqdWo3Yk5FTmZCbnVvOHdiTWp4NThXcU9DUFpoeDMxV2dhNkI4ZXlPbUxhdFZmYlZHYVpMUC1rVkVtSkRURUZMZ0lRWU8tektwU3VXVTdveDlkS2RyVU9WVFVPaTZ2Zw?oc=5",
+      "published": "2026-11-16T16:31:59+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUZQSVBHbkltb3R5ckFiNTFoR2NwVi1BeHBuQjJselI3YnM1SDhUVFhTWjA0eGNWTHVseXE3TEhqdWo3Yk5FTmZCbnVvOHdiTWp4NThXcU9DUFpoeDMxV2dhNkI4ZXlPbUxhdFZmYlZHYVpMUC1rVkVtSkRURUZMZ0lRWU8tektwU3VXVTdveDlkS2RyVU9WVFVPaTZ2Zw?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "SheKnows",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1pJV1gxYjZEWGpKYVQzU1oyNWZDRU5CamV0X19hTnh1RENsVnNsRTc0Yl9RNDVPRHZrNUdZWUR5a0UxNjdjNTdiYi1YTnY5RDNtakwxN2wxRDh0Ny1OcnczaDk2NlZvNW9HcU9OZm9RZVMtRWJPVU5Yb3BsQmQxUC1FOUh3UzdmSktNNXByeFFMeHQ3N3htODFKRmpzSnlsZEE?oc=5",
+          "article_url": "https://www.sheknows.com/entertainment/articles/1235093327/katy-perry-russell-brand-prison-response/",
+          "image": "https://www.sheknows.com/wp-content/uploads/2026/11/P113H1PC-e1794843987981.jpg?w=1024"
+        }
+      ],
+      "image": "https://www.sheknows.com/wp-content/uploads/2026/11/P113H1PC-e1794843987981.jpg?w=1024",
+      "image_source": "https://www.sheknows.com/entertainment/articles/1235093327/katy-perry-russell-brand-prison-response/"
     }
   ]
 }

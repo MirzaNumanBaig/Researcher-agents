@@ -1,0 +1,61 @@
+{
+  "batch": "2026-11-17 12:00",
+  "celebrity": "Nathan Fielder",
+  "stories": [
+    {
+      "title": "Glenn Close cries! John Malkovich weeps! But it’s Nathan Fielder everyone wants to talk to at the honorary Oscars",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84Tnd0aXE1cVh6cl8yb0t4WjdWWDZtTm5IVml5VXZkZURmZUsxYUZoNXRvazN5MkJCdnBhdnZ6c2hsaUR6bWswV0NNY09qQXFORG5aOFdKVFNTckx3NHNteGtQTlZEQQ?oc=5",
+      "published": "2026-11-16T19:53:51+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84Tnd0aXE1cVh6cl8yb0t4WjdWWDZtTm5IVml5VXZkZURmZUsxYUZoNXRvazN5MkJCdnBhdnZ6c2hsaUR6bWswV0NNY09qQXFORG5aOFdKVFNTckx3NHNteGtQTlZEQQ?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66114193/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ3l6NFFFNVZtaUtQZjUzUEY4Y2YyRFZYTVpzZlRDb0NZelR4cFVxQTBiRUFpaDV5amxnSGVfSlM2c0hKcWw1YnNDbHpvNENMa2ZJVDhkVXZSNDRyQ0RraTdOSG1oOEtDejIxaExfV1UwclV5UHZpRE8yU2R6YzhXSEpDMA?oc=5",
+          "article_url": "https://www.theguardian.com/film/2026/nov/16/governers-awards-honorary-oscars",
+          "image": "https://i.guim.co.uk/img/media/7b8bab95f621af31b5180565a9a5e4c394e3d560/278_0_2777_2222/master/2777.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a99e717b6e7bbeef7fe5d9414a8f2370"
+        },
+        {
+          "source": "theguardian.com",
+          "url": "https://www.theguardian.com/film/2026/nov/16/governers-awards-honorary-oscars",
+          "article_url": "",
+          "image": "https://i.guim.co.uk/img/media/7b8bab95f621af31b5180565a9a5e4c394e3d560/278_0_2777_2222/master/2777.jpg?width=140&quality=85&auto=format&fit=max&s=a4011a60fa8f49902d7f6e810667b86e"
+        }
+      ],
+      "image": "https://i.guim.co.uk/img/media/7b8bab95f621af31b5180565a9a5e4c394e3d560/278_0_2777_2222/master/2777.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a99e717b6e7bbeef7fe5d9414a8f2370",
+      "image_source": "https://www.theguardian.com/film/2026/nov/16/governers-awards-honorary-oscars"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "You Can See Everything",
+      "release": "2026-09-06",
+      "director": [
+        "Lance Oppenheim",
+        "Nathan Fielder"
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Christopher Abbott"
+      ],
+      "budget_usd": 7000000,
+      "box_office_usd": 86500000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 12.36,
+      "rotten_tomatoes": "96% from 226 reviews",
+      "metacritic": "97/100 from 42 critics",
+      "critics_consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+      "critics_overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+        "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+      }
+    }
+  ]
+}

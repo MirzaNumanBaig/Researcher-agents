@@ -1,0 +1,27 @@
+{
+  "batch": "2026-11-17 12:00",
+  "celebrity": "Sylvester Stallone",
+  "stories": [
+    {
+      "title": "Sylvester Stallone Wants To Face Off Against Andrew Garfield On Tulsa King",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SmdYa05QVTA1ZnAzekR6d2FEYjdLeHlIVDZqanBhWElXWk92LWpBOEEwS05ucXlLSFJXcjhSM2JvYmNyMXJkUzdwcERTTWF4MWhwdzBtV05nYlVjWEVaTzFRY2Fwdw?oc=5",
+      "published": "2026-11-16T23:42:21+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SmdYa05QVTA1ZnAzekR6d2FEYjdLeHlIVDZqanBhWElXWk92LWpBOEEwS05ucXlLSFJXcjhSM2JvYmNyMXJkUzdwcERTTWF4MWhwdzBtV05nYlVjWEVaTzFRY2Fwdw?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66114614/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "TVLine",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSzF0WnVBN1lBSGlXX3VGdV9rZ0czOGdpNkYzT2ZKSXAzaXVCYWxjS21LTlZhbEE3QjhwWllhZTRFZjUzT3pJQ0VFelp1eTJ5MHZURC1Rc0VGdDY5UEt3aFk5T2NrMFBUZTFWRVUtOWlOLTVlanBVWm1hU0tEdnVhbF9HV0VwczF1TW1wRm9Hd0pyYzBUbnc?oc=5",
+          "article_url": "https://www.tvline.com/2318659/sylvester-stallone-wants-andrew-garfield-tulsa-king-villain/",
+          "image": "https://www.tvline.com/img/gallery/sylvester-stallone-wants-to-face-off-against-andrew-garfield-on-tulsa-king/l-intro-1794871680.jpg"
+        }
+      ],
+      "image": "https://www.tvline.com/img/gallery/sylvester-stallone-wants-to-face-off-against-andrew-garfield-on-tulsa-king/l-intro-1794871680.jpg",
+      "image_source": "https://www.tvline.com/2318659/sylvester-stallone-wants-andrew-garfield-tulsa-king-villain/"
+    }
+  ]
+}
