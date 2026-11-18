@@ -166,12 +166,12 @@
         {
           "source": "ScreenRant",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlhMQ0RXbmQyVE91cUNxN3ZMQmxhSXdlTUZpZXloZDI5NWRGUWtwQk9zNUcxYkgta1NhNnhab0JUa1Y2cFJsWkZTSjlFcjhVdUtxekpwdFpGNjVIUWdQek1jTWtnZE0xUGtkWVlsTXlNalVKNG1uZUtfYkZsSzhUcTliZWIxdkl1bXhnLUMzRFhEbUlnYTAxNzdJRHROeHdjWFQzVXdZdFhyRXZhQ1NOekVB?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://screenrant.com/james-bond-26-robert-pattinson-casting-biggest-inspiration-sean-connery-denis-villeneuve/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/robert-pattinson-as-bond.jpg?w=1600&h=900&fit=crop"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/robert-pattinson-as-bond.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/james-bond-26-robert-pattinson-casting-biggest-inspiration-sean-connery-denis-villeneuve/"
     },
     {
       "title": "George Lazenby welcomes Robert Pattinson into 'exclusive' James Bond club",
@@ -236,33 +236,6 @@
   ],
   "film_facts": [
     {
-      "title": "Primetime",
-      "release": "2026-09-05",
-      "director": [
-        "Lance Oppenheim"
-      ],
-      "cast": [
-        "Robert Pattinson",
-        "Phoebe Bridgers",
-        "Merritt Wever",
-        "Sean Bridgers",
-        "Skyler Gisondo"
-      ],
-      "budget_usd": 14500000,
-      "box_office_usd": 62000000,
-      "scope": "Indie / low budget",
-      "verdict": "Hit",
-      "gross_vs_budget": 4.28,
-      "rotten_tomatoes": "86%",
-      "metacritic": "68/100 from 54 critics",
-      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
-      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Yet it’s hard to know to what end, or to care.\" Nicholas Barber of the BBC gave the film 5 out of 5 stars, calling Pattinson's performance \"extraordinary\" and \"the best performance yet from the most intriguing actor of his generation\".",
-      "sources": {
-        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
-        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
-      }
-    },
-    {
       "title": "The Take",
       "release": "2027-01-15",
       "director": [
@@ -287,6 +260,33 @@
       "sources": {
         "wikidata": "https://www.wikidata.org/wiki/Q136231215",
         "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    },
+    {
+      "title": "Primetime",
+      "release": "2026-09-05",
+      "director": [
+        "Lance Oppenheim"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Phoebe Bridgers",
+        "Merritt Wever",
+        "Sean Bridgers",
+        "Skyler Gisondo"
+      ],
+      "budget_usd": 14500000,
+      "box_office_usd": 62000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 4.28,
+      "rotten_tomatoes": "86%",
+      "metacritic": "68/100 from 54 critics",
+      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Manohla Dargis for The New York Times praised Skyler Gisondo and Alex Winter, writing that they added \"emotion\" and \"push the movie into depths it doesn’t remain in\" but otherwise felt that Primetime \"looks good and moves well, and the dark, saturated colors and visual grittiness add some fine Expressionistic texture.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
       }
     }
   ]
