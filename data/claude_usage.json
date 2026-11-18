@@ -22223,6 +22223,22 @@
    "turns": 6,
    "seconds": 7,
    "cost_usd": 0.0991
+  },
+  {
+   "date": "2026-11-18",
+   "time": "2026-11-18T02:27:22+00:00",
+   "batch": "2026-11-18 13:00",
+   "celebrity": "Hugh Jackman",
+   "article": "2026-11-18-13-00-hugh-jackman.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 1403,
+   "cache_read_tokens": 184964,
+   "cache_write_tokens": 21146,
+   "turns": 9,
+   "seconds": 14,
+   "cost_usd": 0.1173
   }
  ]
 }
