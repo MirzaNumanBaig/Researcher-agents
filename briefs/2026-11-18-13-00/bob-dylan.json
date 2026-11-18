@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-18 13:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "In 1991, Guns N’ Roses stole a classic Bob Dylan song. He never wanted to listen to it",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjdDbFdFM2RHdkxOcFRZS1M0QnlpelFBYmM5N3JCM2czWnFxaHNrY0w4VVlaRHRBeDd4djVkMFpuLUF3ajZDakF1d016U3FONVdlbjd0MWNSYTducW03a2I5R1psVFdTMl9yMkwxR052Sjg3SkZiUEVnMnlZRzVEM2xRTHY?oc=5",
+      "published": "2026-11-17T20:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjdDbFdFM2RHdkxOcFRZS1M0QnlpelFBYmM5N3JCM2czWnFxaHNrY0w4VVlaRHRBeDd4djVkMFpuLUF3ajZDakF1d016U3FONVdlbjd0MWNSYTducW03a2I5R1psVFdTMl9yMkwxR052Sjg3SkZiUEVnMnlZRzVEM2xRTHY?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/1991-guns-n-roses-stole-a-classic-bob-dylan-song/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/11/Bob-Dylan-Guns-N-Roses-Split-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/11/Bob-Dylan-Guns-N-Roses-Split-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/1991-guns-n-roses-stole-a-classic-bob-dylan-song/"
+    }
+  ]
+}

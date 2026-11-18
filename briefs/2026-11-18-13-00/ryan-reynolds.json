@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-18 13:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Ryan Reynolds And Samuel L. Jackson Are At Their Best When They Can’t Stand Each Other",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdmR4RmMyTDRHaF9tMnRYLVoyV3MzTG1Wd2NqdFhCMHVHRDYwMnVYdU9mUFI4OVc0dUo2LWpnYWlzWTc3ZEpqX00wOVJfbWo4b0pnYVI0SUNtYlBKQzd1NkNnZzM0UVJHdk9McEdwRmtqR3YyNWFiczNsZzJ1S1o4eERxcDZJclNFdFE4U1g3UE85WTdsa1h4V09CamliZw?oc=5",
+      "published": "2026-11-17T21:15:35+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdmR4RmMyTDRHaF9tMnRYLVoyV3MzTG1Wd2NqdFhCMHVHRDYwMnVYdU9mUFI4OVc0dUo2LWpnYWlzWTc3ZEpqX00wOVJfbWo4b0pnYVI0SUNtYlBKQzd1NkNnZzM0UVJHdk9McEdwRmtqR3YyNWFiczNsZzJ1S1o4eERxcDZJclNFdFE4U1g3UE85WTdsa1h4V09CamliZw?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/movies/articles/ryan-reynolds-samuel-l-jackson-211535592.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/7775eeb68cd9eb938dd2bf488c3717587a3a15e4c309fcfc1ce19533a5ce527e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_articles_628%2F8f48c3e6bd89c29237c70fc7411409c6.png"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/7775eeb68cd9eb938dd2bf488c3717587a3a15e4c309fcfc1ce19533a5ce527e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_articles_628%2F8f48c3e6bd89c29237c70fc7411409c6.png",
+      "image_source": "https://www.yahoo.com/entertainment/movies/articles/ryan-reynolds-samuel-l-jackson-211535592.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

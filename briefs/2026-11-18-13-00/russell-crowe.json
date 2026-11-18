@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-18 13:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "5 Actors Who Should Play Villains In Robert Pattinson's James Bond Movies",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXhSbDdsZG1MUVE1ZVdYUXpCcDFnLXl4SlJHY3Z1ajRpMUxXNkxlU0YzdDZuYm96NTA1bjRNVVRIa2MtWjVyUDhfMU04M3pRNWl3TWdIN1RaODNNVGxEY19FZjRXazRyVnA1VVVkTDk2NC1fZDNXTkdiMkVHUXI1enB1Qm9hbnhVOEFTOUxYc20zSk1U?oc=5",
+      "published": "2026-11-17T22:00:00+00:00",
+      "outlets": [
+        {
+          "source": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXhSbDdsZG1MUVE1ZVdYUXpCcDFnLXl4SlJHY3Z1ajRpMUxXNkxlU0YzdDZuYm96NTA1bjRNVVRIa2MtWjVyUDhfMU04M3pRNWl3TWdIN1RaODNNVGxEY19FZjRXazRyVnA1VVVkTDk2NC1fZDNXTkdiMkVHUXI1enB1Qm9hbnhVOEFTOUxYc20zSk1U?oc=5",
+          "article_url": "https://www.slashfilm.com/2319740/actors-play-villains-robert-pattinson-james-bond-movies/",
+          "image": "https://www.slashfilm.com/img/gallery/5-actors-who-should-play-villains-in-robert-pattinsons-james-bond-movies/l-intro-1794945898.jpg"
+        }
+      ],
+      "image": "https://www.slashfilm.com/img/gallery/5-actors-who-should-play-villains-in-robert-pattinsons-james-bond-movies/l-intro-1794945898.jpg",
+      "image_source": "https://www.slashfilm.com/2319740/actors-play-villains-robert-pattinson-james-bond-movies/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Unabomber",
+      "release": "2026-09-25",
+      "director": [
+        "Janus Metz Pedersen"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "25%",
+      "metacritic": "46/100 from 18 critics",
+      "critics_consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+      "critics_overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+      }
+    }
+  ]
+}
