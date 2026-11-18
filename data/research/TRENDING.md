@@ -1,4 +1,4 @@
-# Hot people (2026-11-15)
+# Hot people (2026-11-18)
 
 Source: Wikipedia most-viewed pages (last 7 days vs last full month) + Wikidata. Trend = views per day this week / last month.
 
@@ -6,92 +6,67 @@ Source: Wikipedia most-viewed pages (last 7 days vs last full month) + Wikidata.
 
 | Person | Roles | Views 7d | Views month | Trend | Tracked | Films (release date) |
 |---|---|---|---|---|---|---|
-| [Russell Brand](https://en.wikipedia.org/wiki/Russell_Brand) | actor, producer, comedian, singer, writer | 2.4M | 528k | 19.45 | yes | - |
-| [David Walliams](https://en.wikipedia.org/wiki/David_Walliams) | actor, producer, comedian, writer | 1.2M | 247k | 20.01 | yes | - |
-| [Katy Perry](https://en.wikipedia.org/wiki/Katy_Perry) | actor, musician, singer | 287k | 0 | - | yes | - |
-| [Lara Stone](https://en.wikipedia.org/wiki/Lara_Stone) | actor | 286k | 0 | - | no | - |
-| [Dane Cook](https://en.wikipedia.org/wiki/Dane_Cook) | actor, director, writer | 253k | 0 | - | yes | - |
-| [Druski](https://en.wikipedia.org/wiki/Druski) | comedian | 237k | 0 | - | yes | - |
-| [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone) | actor, producer, director, writer | 229k | 692k | 1.42 | yes | - |
-| [Nitesh Tiwari](https://en.wikipedia.org/wiki/Nitesh_Tiwari) | director, writer | 225k | 0 | - | yes | Ramayana: Rise of a Legend (2026-11-08) |
-| [Jemima Goldsmith](https://en.wikipedia.org/wiki/Jemima_Goldsmith) | producer, writer | 219k | 0 | - | no | - |
-| [Yash](https://en.wikipedia.org/wiki/Yash_(actor)) | actor | 215k | 0 | - | no | Ramayana: Rise of a Legend (2026-11-08) |
-| [Nathan Fielder](https://en.wikipedia.org/wiki/Nathan_Fielder) | actor, director, producer, comedian, writer | 204k | 1.3M | 0.67 | yes | You Can See Everything (2026-12-30) |
-| [Ben Whishaw](https://en.wikipedia.org/wiki/Ben_Whishaw) | actor | 204k | 0 | - | yes | - |
-| [Keira Knightley](https://en.wikipedia.org/wiki/Keira_Knightley) | actor | 200k | 0 | - | yes | - |
-| [Sai Pallavi](https://en.wikipedia.org/wiki/Sai_Pallavi) | actor | 185k | 0 | - | yes | Ramayana: Rise of a Legend (2026-11-08) |
-| [Yella Beezy](https://en.wikipedia.org/wiki/Yella_Beezy) | singer | 185k | 0 | - | no | - |
-| [Bug Hall](https://en.wikipedia.org/wiki/Bug_Hall) | actor | 184k | 0 | - | yes | - |
-| [Ravi Dubey](https://en.wikipedia.org/wiki/Ravi_Dubey) | actor | 180k | 0 | - | yes | - |
-| [Noel Fielding](https://en.wikipedia.org/wiki/Noel_Fielding) | actor, musician, comedian, writer | 171k | 0 | - | no | - |
-| [Georgina Baillie](https://en.wikipedia.org/wiki/Georgina_Baillie) | singer, actor | 164k | 0 | - | yes | - |
-| [Lucy Beaumont](https://en.wikipedia.org/wiki/Lucy_Beaumont_(comedian)) | comedian, writer | 163k | 0 | - | no | - |
-| [Naslen K. Gafoor](https://en.wikipedia.org/wiki/Naslen) | actor | 159k | 0 | - | no | - |
-| [Robert Pattinson](https://en.wikipedia.org/wiki/Robert_Pattinson) | actor | 153k | 333k | 1.97 | yes | Primetime (2026-09-25); The Take (2027-01-15) |
-| [James Gunn](https://en.wikipedia.org/wiki/James_Gunn) | musician, director, producer, actor, writer | 152k | 0 | - | no | Coyote vs. Acme (2026-09-24) |
-| [Amanda Seyfried](https://en.wikipedia.org/wiki/Amanda_Seyfried) | actor, singer | 150k | 677k | 0.95 | yes | - |
-| [Dustin Hoffman](https://en.wikipedia.org/wiki/Dustin_Hoffman) | actor | 150k | 0 | - | no | - |
+| [Robert Pattinson](https://en.wikipedia.org/wiki/Robert_Pattinson) | actor | 1.5M | 0 | - | yes | Primetime (2026-09-25); The Take (2027-01-15) |
+| [Russell Brand](https://en.wikipedia.org/wiki/Russell_Brand) | actor, producer, comedian, singer, writer | 1.3M | 0 | - | yes | - |
+| [David Walliams](https://en.wikipedia.org/wiki/David_Walliams) | actor, producer, comedian, writer | 1.2M | 0 | - | yes | - |
+| [Suki Waterhouse](https://en.wikipedia.org/wiki/Suki_Waterhouse) | actor | 410k | 0 | - | no | - |
+| [Lara Stone](https://en.wikipedia.org/wiki/Lara_Stone) | actor | 311k | 0 | - | no | - |
+| [Avril Lavigne](https://en.wikipedia.org/wiki/Avril_Lavigne) | actor, musician, singer | 295k | 0 | - | no | - |
+| [Phil Collins](https://en.wikipedia.org/wiki/Phil_Collins) | actor, producer, musician, singer | 262k | 0 | - | no | - |
+| [Sara Boustany](https://en.wikipedia.org/wiki/Sara_Boustany) | actor | 260k | 0 | - | no | - |
+| [Yella Beezy](https://en.wikipedia.org/wiki/Yella_Beezy) | singer | 256k | 0 | - | no | - |
+| [Sharad Kapoor](https://en.wikipedia.org/wiki/Sharad_Kapoor) | actor | 249k | 0 | - | no | - |
+| [Dane Cook](https://en.wikipedia.org/wiki/Dane_Cook) | actor, director, writer | 240k | 0 | - | yes | - |
+| [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone) | actor, producer, director, writer | 236k | 0 | - | yes | - |
+| [Kristina Bogic](https://en.wikipedia.org/wiki/Kristina_Bogic) | actor, singer | 210k | 0 | - | no | - |
+| [Noel Fielding](https://en.wikipedia.org/wiki/Noel_Fielding) | actor, musician, comedian, writer | 210k | 0 | - | no | - |
+| [John Malkovich](https://en.wikipedia.org/wiki/John_Malkovich) | actor, director, producer, musician | 202k | 0 | - | no | - |
+| [Katy Perry](https://en.wikipedia.org/wiki/Katy_Perry) | actor, musician, singer | 199k | 0 | - | yes | - |
+| [Lucy Beaumont](https://en.wikipedia.org/wiki/Lucy_Beaumont_(comedian)) | comedian, writer | 196k | 0 | - | no | - |
+| [Nathan Fielder](https://en.wikipedia.org/wiki/Nathan_Fielder) | actor, director, producer, comedian, writer | 190k | 0 | - | yes | You Can See Everything (2026-12-03) |
+| [Johnny Depp](https://en.wikipedia.org/wiki/Johnny_Depp) | actor, director, producer, musician | 188k | 0 | - | yes | - |
+| [Keira Knightley](https://en.wikipedia.org/wiki/Keira_Knightley) | actor | 187k | 0 | - | yes | - |
+| [Harper Steele](https://en.wikipedia.org/wiki/Harper_Steele) | producer, writer | 186k | 0 | - | no | - |
+| [Johnny Flynn](https://en.wikipedia.org/wiki/Johnny_Flynn) | musician, singer, actor | 177k | 0 | - | yes | Elsinore (2027-03-11) |
+| [Ben Whishaw](https://en.wikipedia.org/wiki/Ben_Whishaw) | actor | 177k | 0 | - | yes | - |
+| [Mckenna Grace](https://en.wikipedia.org/wiki/Mckenna_Grace) | actor, singer | 174k | 0 | - | yes | The Last Kiss (2026-09-15) |
+| [Yash](https://en.wikipedia.org/wiki/Yash_(actor)) | actor | 172k | 0 | - | no | Ramayana: Rise of a Legend (2026-11-08) |
 
 ## Always popular
 
 | Person | Roles | Views 7d | Views month | Trend | Tracked | Films (release date) |
 |---|---|---|---|---|---|---|
-| [Nathan Fielder](https://en.wikipedia.org/wiki/Nathan_Fielder) | actor, director, producer, comedian, writer | 204k | 1.3M | 0.67 | yes | You Can See Everything (2026-12-30) |
-| [Bella Ramsey](https://en.wikipedia.org/wiki/Bella_Ramsey) | actor | 0 | 1.3M | 0.0 | no | The Liberation (2026-11-01) |
-| [Dakota Johnson](https://en.wikipedia.org/wiki/Dakota_Johnson) | producer, actor | 91k | 1.2M | 0.32 | no | Verity (2026-10-02) |
-| [Sebastian Croft](https://en.wikipedia.org/wiki/Sebastian_Croft) | actor | 0 | 1.2M | 0.0 | no | - |
-| [Florence Pugh](https://en.wikipedia.org/wiki/Florence_Pugh) | actor, singer | 106k | 1.2M | 0.39 | no | Spider-Man: Brand New Day (2026-08-06) |
-| [Jerry Hall](https://en.wikipedia.org/wiki/Jerry_Hall) | actor | 0 | 1.1M | 0.0 | no | - |
-| [Josh Hartnett](https://en.wikipedia.org/wiki/Josh_Hartnett) | actor, producer | 32k | 1.1M | 0.13 | no | Verity (2026-10-02) |
-| [James Blunt](https://en.wikipedia.org/wiki/James_Blunt) | musician, singer | 88k | 1.0M | 0.37 | yes | - |
-| [Sunny Ozell](https://en.wikipedia.org/wiki/Sunny_Ozell) | singer | 30k | 986k | 0.13 | no | - |
-| [Selma Blair](https://en.wikipedia.org/wiki/Selma_Blair) | actor | 0 | 985k | 0.0 | no | - |
-| [Richard E. Grant](https://en.wikipedia.org/wiki/Richard_E._Grant) | actor, director, writer | 0 | 922k | 0.0 | no | - |
-| [Michael Douglas](https://en.wikipedia.org/wiki/Michael_Douglas) | actor, producer | 72k | 831k | 0.37 | no | - |
-| [Keri Russell](https://en.wikipedia.org/wiki/Keri_Russell) | actor | 100k | 801k | 0.54 | no | - |
-| [Christopher Abbott](https://en.wikipedia.org/wiki/Christopher_Abbott) | actor | 48k | 717k | 0.28 | no | You Can See Everything (2026-12-30) |
-| [Josie Totah](https://en.wikipedia.org/wiki/Josie_Totah) | actor, singer | 0 | 715k | 0.0 | no | - |
-| [Catherine Zeta-Jones](https://en.wikipedia.org/wiki/Catherine_Zeta-Jones) | actor, musician, singer | 47k | 710k | 0.29 | no | - |
-| [Michael Sheen](https://en.wikipedia.org/wiki/Michael_Sheen) | actor, producer, director | 0 | 707k | 0.0 | no | - |
-| [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone) | actor, producer, director, writer | 229k | 692k | 1.42 | yes | - |
-| [Amanda Seyfried](https://en.wikipedia.org/wiki/Amanda_Seyfried) | actor, singer | 150k | 677k | 0.95 | yes | - |
-| [Anne Hathaway](https://en.wikipedia.org/wiki/Anne_Hathaway) | actor, musician | 102k | 664k | 0.66 | no | The End of Oak Street (2026-08-14); Verity (2026-10-02) |
-| [Miranda Hart](https://en.wikipedia.org/wiki/Miranda_Hart) | actor, director, producer, comedian, writer | 0 | 656k | 0.0 | no | - |
-| [Sydney Sweeney](https://en.wikipedia.org/wiki/Sydney_Sweeney) | actor, producer | 81k | 643k | 0.54 | no | The Housemaid's Secret (2027-12-17) |
-| [Shane Gillis](https://en.wikipedia.org/wiki/Shane_Gillis) | comedian, actor | 0 | 636k | 0.0 | no | - |
-| [Ben Affleck](https://en.wikipedia.org/wiki/Ben_Affleck) | actor, producer, director, writer | 68k | 634k | 0.46 | no | Animals (2026-10-09) |
-| [Summer H. Howell](https://en.wikipedia.org/wiki/Summer_H._Howell) | actor | 0 | 628k | 0.0 | no | - |
 
 ## Directors, producers and writers
 
 | Person | Roles | Views 7d | Views month | Trend | Tracked | Films (release date) |
 |---|---|---|---|---|---|---|
-| [Russell Brand](https://en.wikipedia.org/wiki/Russell_Brand) | actor, producer, comedian, singer, writer | 2.4M | 528k | 19.45 | yes | - |
-| [David Walliams](https://en.wikipedia.org/wiki/David_Walliams) | actor, producer, comedian, writer | 1.2M | 247k | 20.01 | yes | - |
-| [Nathan Fielder](https://en.wikipedia.org/wiki/Nathan_Fielder) | actor, director, producer, comedian, writer | 204k | 1.3M | 0.67 | yes | You Can See Everything (2026-12-30) |
-| [Dakota Johnson](https://en.wikipedia.org/wiki/Dakota_Johnson) | producer, actor | 91k | 1.2M | 0.32 | no | Verity (2026-10-02) |
-| [Josh Hartnett](https://en.wikipedia.org/wiki/Josh_Hartnett) | actor, producer | 32k | 1.1M | 0.13 | no | Verity (2026-10-02) |
-| [Dane Cook](https://en.wikipedia.org/wiki/Dane_Cook) | actor, director, writer | 253k | 0 | - | yes | - |
-| [Richard E. Grant](https://en.wikipedia.org/wiki/Richard_E._Grant) | actor, director, writer | 0 | 922k | 0.0 | no | - |
-| [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone) | actor, producer, director, writer | 229k | 692k | 1.42 | yes | - |
-| [Nitesh Tiwari](https://en.wikipedia.org/wiki/Nitesh_Tiwari) | director, writer | 225k | 0 | - | yes | Ramayana: Rise of a Legend (2026-11-08) |
-| [Jemima Goldsmith](https://en.wikipedia.org/wiki/Jemima_Goldsmith) | producer, writer | 219k | 0 | - | no | - |
-| [Michael Douglas](https://en.wikipedia.org/wiki/Michael_Douglas) | actor, producer | 72k | 831k | 0.37 | no | - |
-| [Michael Sheen](https://en.wikipedia.org/wiki/Michael_Sheen) | actor, producer, director | 0 | 707k | 0.0 | no | - |
-| [Noel Fielding](https://en.wikipedia.org/wiki/Noel_Fielding) | actor, musician, comedian, writer | 171k | 0 | - | no | - |
-| [Miranda Hart](https://en.wikipedia.org/wiki/Miranda_Hart) | actor, director, producer, comedian, writer | 0 | 656k | 0.0 | no | - |
-| [Lucy Beaumont](https://en.wikipedia.org/wiki/Lucy_Beaumont_(comedian)) | comedian, writer | 163k | 0 | - | no | - |
-| [Sydney Sweeney](https://en.wikipedia.org/wiki/Sydney_Sweeney) | actor, producer | 81k | 643k | 0.54 | no | The Housemaid's Secret (2027-12-17) |
-| [Ben Affleck](https://en.wikipedia.org/wiki/Ben_Affleck) | actor, producer, director, writer | 68k | 634k | 0.46 | no | Animals (2026-10-09) |
-| [Mike Flanagan](https://en.wikipedia.org/wiki/Mike_Flanagan_(filmmaker)) | director, producer, actor, writer | 0 | 619k | 0.0 | no | - |
-| [Julia Stiles](https://en.wikipedia.org/wiki/Julia_Stiles) | actor, director | 9k | 612k | 0.06 | no | - |
-| [James Gunn](https://en.wikipedia.org/wiki/James_Gunn) | musician, director, producer, actor, writer | 152k | 0 | - | no | Coyote vs. Acme (2026-09-24) |
-| [James Acaster](https://en.wikipedia.org/wiki/James_Acaster) | actor, comedian, writer | 8k | 600k | 0.06 | no | - |
-| [Johnny Depp](https://en.wikipedia.org/wiki/Johnny_Depp) | actor, director, producer, musician | 149k | 326k | 1.96 | yes | - |
-| [Ian McKellen](https://en.wikipedia.org/wiki/Ian_McKellen) | actor, musician, writer | 85k | 597k | 0.61 | no | - |
-| [Jithu Madhavan](https://en.wikipedia.org/wiki/Jithu_Madhavan) | director | 143k | 0 | - | yes | - |
-| [Téa Leoni](https://en.wikipedia.org/wiki/Téa_Leoni) | actor, producer | 73k | 566k | 0.55 | no | - |
+| [Russell Brand](https://en.wikipedia.org/wiki/Russell_Brand) | actor, producer, comedian, singer, writer | 1.3M | 0 | - | yes | - |
+| [David Walliams](https://en.wikipedia.org/wiki/David_Walliams) | actor, producer, comedian, writer | 1.2M | 0 | - | yes | - |
+| [Phil Collins](https://en.wikipedia.org/wiki/Phil_Collins) | actor, producer, musician, singer | 262k | 0 | - | no | - |
+| [Dane Cook](https://en.wikipedia.org/wiki/Dane_Cook) | actor, director, writer | 240k | 0 | - | yes | - |
+| [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone) | actor, producer, director, writer | 236k | 0 | - | yes | - |
+| [Noel Fielding](https://en.wikipedia.org/wiki/Noel_Fielding) | actor, musician, comedian, writer | 210k | 0 | - | no | - |
+| [John Malkovich](https://en.wikipedia.org/wiki/John_Malkovich) | actor, director, producer, musician | 202k | 0 | - | no | - |
+| [Lucy Beaumont](https://en.wikipedia.org/wiki/Lucy_Beaumont_(comedian)) | comedian, writer | 196k | 0 | - | no | - |
+| [Nathan Fielder](https://en.wikipedia.org/wiki/Nathan_Fielder) | actor, director, producer, comedian, writer | 190k | 0 | - | yes | You Can See Everything (2026-12-03) |
+| [Johnny Depp](https://en.wikipedia.org/wiki/Johnny_Depp) | actor, director, producer, musician | 188k | 0 | - | yes | - |
+| [Harper Steele](https://en.wikipedia.org/wiki/Harper_Steele) | producer, writer | 186k | 0 | - | no | - |
+| [Nitesh Tiwari](https://en.wikipedia.org/wiki/Nitesh_Tiwari) | director, writer | 172k | 0 | - | no | Ramayana: Rise of a Legend (2026-11-08) |
+| [John Mulaney](https://en.wikipedia.org/wiki/John_Mulaney) | actor, writer | 155k | 0 | - | no | - |
+| [James Gunn](https://en.wikipedia.org/wiki/James_Gunn) | director, actor, producer, musician, writer | 151k | 0 | - | no | Coyote vs. Acme (2026-09-24) |
+| [Jessica Chastain](https://en.wikipedia.org/wiki/Jessica_Chastain) | producer, actor | 149k | 0 | - | no | Other Mommy (2026-10-29); Heartland (2026-11-13) |
+| [Robert De Niro](https://en.wikipedia.org/wiki/Robert_De_Niro) | actor, director, producer | 145k | 0 | - | no | The Whisper Man (2026-08-28) |
+| [Jemima Goldsmith](https://en.wikipedia.org/wiki/Jemima_Goldsmith) | producer, writer | 141k | 0 | - | no | - |
+| [James Keach](https://en.wikipedia.org/wiki/James_Keach) | actor, director, producer, writer | 138k | 0 | - | no | - |
+| [Pierce Brosnan](https://en.wikipedia.org/wiki/Pierce_Brosnan) | actor, producer, musician, singer | 132k | 0 | - | no | - |
+| [Callum Turner](https://en.wikipedia.org/wiki/Callum_Turner) | actor, director | 130k | 0 | - | yes | One Night Only (2026-08-28) |
+| [Olivia Wilde](https://en.wikipedia.org/wiki/Olivia_Wilde) | actor, director | 130k | 0 | - | no | Behemoth! (2026-12-04); Naughty (2027-01-01) |
+| [Tom Hardy](https://en.wikipedia.org/wiki/Tom_Hardy) | actor, producer, writer | 123k | 0 | - | yes | - |
+| [Matt Lucas](https://en.wikipedia.org/wiki/Matt_Lucas) | actor, producer, comedian, singer, writer | 117k | 0 | - | no | - |
+| [Jonathan Ross](https://en.wikipedia.org/wiki/Jonathan_Ross) | actor, producer, writer | 111k | 0 | - | no | - |
+| [Nicholas Hoult](https://en.wikipedia.org/wiki/Nicholas_Hoult) | actor, producer | 111k | 0 | - | no | How to Rob a Bank (2026-11-13) |
 
 ## Not tracked yet (candidates to add to config.json)
 
-Lara Stone, Jemima Goldsmith, Yash, Yella Beezy, Noel Fielding, Lucy Beaumont, Naslen K. Gafoor, James Gunn, Dustin Hoffman, Ashe (singer), Robert De Niro, Bella Ramsey, Dakota Johnson, Sebastian Croft, Florence Pugh, Jerry Hall, Josh Hartnett, Sunny Ozell, Selma Blair, Richard E. Grant, Michael Douglas, Keri Russell, Christopher Abbott, Josie Totah, Catherine Zeta-Jones, Michael Sheen, Anne Hathaway, Miranda Hart, Sydney Sweeney, Shane Gillis, Ben Affleck, Summer H. Howell, Mike Flanagan, Julia Stiles, Nicki Minaj, James Acaster, Ian McKellen, Téa Leoni, Tom Cruise, James Keach
+Suki Waterhouse, Lara Stone, Avril Lavigne, Phil Collins, Sara Boustany, Yella Beezy, Sharad Kapoor, Kristina Bogic, Noel Fielding, John Malkovich, Lucy Beaumont, Harper Steele, Yash, Nitesh Tiwari, Sai Pallavi, John Mulaney, James Gunn, Jessica Chastain, Robert De Niro, Jemima Goldsmith, James Keach, Pierce Brosnan, Olivia Wilde, Matt Lucas, Jonathan Ross, Nicholas Hoult, Clint Eastwood, Brad Pitt, Dakota Johnson, Jennifer Lawrence

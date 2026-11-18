@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-18",
  "films": [
   {
    "qid": "Q135196186",
@@ -26,7 +26,7 @@
    "gross": null,
    "wikipedia": "Ramayana: Part 1",
    "critics": {
-    "rotten_tomatoes": "77%",
+    "rotten_tomatoes": "78%",
     "metacritic": "58/100",
     "overview": "This article contains an excessive amount of intricate detail. Please help improve it by spinning off or relocating relevant information and removing excessive detail that goes against Wikipedia's inclusion policy."
    },
@@ -41,6 +41,197 @@
    "sources": {
     "wikidata": "https://www.wikidata.org/wiki/Q135196186",
     "wikipedia": "https://en.wikipedia.org/wiki/Ramayana:_Part_1"
+   }
+  },
+  {
+   "qid": "Q136757568",
+   "title": "Heartland",
+   "release": "2026-11-13",
+   "director": [
+    "Shana Feste"
+   ],
+   "cast": [
+    "Jessica Chastain",
+    "John Hawkes",
+    "Carter Faith",
+    "Garrett Hedlund",
+    "Jennifer Nettles",
+    "Ross Lynch"
+   ],
+   "producers": [
+    "Peter Chernin",
+    "Jenno Topping"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "thriller film",
+    "mystery film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "Heartland (2026 film)",
+   "critics": {
+    "rotten_tomatoes": "61%",
+    "metacritic": "54/100 from 11 critics",
+    "overview": "Archived from the original on November 15, 2026. Archived from the original on November 15, 2026."
+   },
+   "scale": "",
+   "verdict": "Too early",
+   "multiple": null,
+   "people": [
+    "Jessica Chastain"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136757568",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heartland_(2026_film)"
+   }
+  },
+  {
+   "qid": "Q134520822",
+   "title": "How to Rob a Bank",
+   "release": "2026-11-12",
+   "director": [
+    "David Leitch"
+   ],
+   "cast": [
+    "Nicholas Hoult",
+    "Zoë Kravitz",
+    "Anna Sawai",
+    "Pete Davidson",
+    "Rhenzy Feliz",
+    "John C. Reilly"
+   ],
+   "producers": [
+    "Brian Grazer",
+    "David Leitch"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "heist film"
+   ],
+   "budget": 40000000,
+   "gross": 10400000,
+   "wikipedia": "How to Rob a Bank (2026 film)",
+   "critics": {
+    "rotten_tomatoes": "34%",
+    "metacritic": "48/100 from 29 critics",
+    "consensus": "Frenetic entertainment with a lot on its mind, How to Rob a Bank fights the law but ultimately gets busted less so for its provocative ideas and more for its inability to make them cohere into a satisfying message.",
+    "overview": "^ D'Alessandro, Anthony (November 13, 2026). Archived from the original on November 10, 2026."
+   },
+   "scale": "Mid-budget",
+   "verdict": "Too early",
+   "multiple": 0.26,
+   "people": [
+    "Nicholas Hoult"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134520822",
+    "wikipedia": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)"
+   }
+  },
+  {
+   "qid": "Q134588273",
+   "title": "Other Mommy",
+   "release": "2026-10-08",
+   "director": [
+    "Rob Savage"
+   ],
+   "cast": [
+    "Jessica Chastain",
+    "Jay Duplass",
+    "Dichen Lachman",
+    "Karen Allen",
+    "Sean Kaufman"
+   ],
+   "producers": [
+    "James Wan"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "Ireland",
+    "United States"
+   ],
+   "genres": [
+    "supernatural horror film"
+   ],
+   "budget": 18000000,
+   "gross": 119400000,
+   "wikipedia": "Other Mommy",
+   "critics": {
+    "metacritic": "39/100 from 16 critics",
+    "rotten_tomatoes": "19%",
+    "consensus": "Despite a valiant turn from Jessica Chastain as the spectral embodiment of a smothering parent, Other Mommy proves too silly for its intermittently effective jump scares to add up to a spooky whole.",
+    "overview": "The New York Times called the film a \"sometimes-creepy, sometimes-hilarious schlockfest\", and questions \"What is the other mommy supposed to be?\" Benjamin Lee of the Guardian graded the film 2/5. He stated the film started as a \"tense, creepy thriller,\" but turns into an \"increasingly absurd battle with a special effects oogum-boogum that gets less scary as the movie progresses.\" ^ Cite error: The named reference BOM was invoked but never defined (see the help page)."
+   },
+   "scale": "Mid-budget",
+   "verdict": "Hit",
+   "multiple": 6.63,
+   "people": [
+    "Jessica Chastain"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134588273",
+    "wikipedia": "https://en.wikipedia.org/wiki/Other_Mommy"
+   }
+  },
+  {
+   "qid": "Q136706560",
+   "title": "Behemoth!",
+   "release": "2026-10-02",
+   "director": [
+    "Tony Gilroy"
+   ],
+   "cast": [
+    "Pedro Pascal",
+    "Will Arnett",
+    "Eva Victor",
+    "Olivia Wilde",
+    "Matthew Lillard",
+    "Alexa Swinton"
+   ],
+   "producers": [
+    "Tony Gilroy",
+    "Sanne Wohlenberg",
+    "John Gilroy"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "drama film"
+   ],
+   "budget": 36000000,
+   "gross": null,
+   "wikipedia": "Behemoth!",
+   "critics": {
+    "metacritic": "72/100 from 21 critics",
+    "rotten_tomatoes": "82%",
+    "overview": "TheWrap's Zachary Lee declared the film \"a love letter not just to film music, but to the complicated and passionate musicians who bring it to life\". Award Date of ceremony Category Nominee(s) Result Ref."
+   },
+   "scale": "Mid-budget",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [
+    "Olivia Wilde"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136706560",
+    "wikipedia": "https://en.wikipedia.org/wiki/Behemoth!"
    }
   },
   {
@@ -75,7 +266,7 @@
     "mystery film"
    ],
    "budget": 40000000,
-   "gross": 179000000,
+   "gross": 180000000,
    "wikipedia": "Verity (film)",
    "critics": {
     "metacritic": "44/100 from 35 critics",
@@ -85,11 +276,9 @@
    },
    "scale": "Mid-budget",
    "verdict": "Hit",
-   "multiple": 4.47,
+   "multiple": 4.5,
    "people": [
-    "Anne Hathaway",
-    "Dakota Johnson",
-    "Josh Hartnett"
+    "Dakota Johnson"
    ],
    "sources": {
     "wikidata": "https://www.wikidata.org/wiki/Q131523413",
@@ -97,23 +286,22 @@
    }
   },
   {
-   "qid": "Q141336617",
-   "title": "You Can See Everything",
-   "release": "2026-09-06",
+   "qid": "Q131900904",
+   "title": "Heart of the Beast",
+   "release": "2026-09-24",
    "director": [
-    "Lance Oppenheim",
-    "Nathan Fielder"
+    "David Ayer"
    ],
    "cast": [
-    "Elizabeth Holmes",
-    "Nathan Fielder",
-    "Christopher Abbott"
+    "Brad Pitt",
+    "J. K. Simmons",
+    "Anna Lambe"
    ],
    "producers": [
-    "Nathan Fielder",
-    "Lance Oppenheim",
-    "Tatiana Bears",
-    "Maggie Ambrose"
+    "Brad Pitt",
+    "Damien Chazelle",
+    "Olivia Hamilton",
+    "David Ayer"
    ],
    "language": [
     "English"
@@ -122,178 +310,26 @@
     "United States"
    ],
    "genres": [
-    "documentary film"
+    "action-adventure film"
    ],
-   "budget": 7000000,
-   "gross": 86500000,
-   "wikipedia": "You Can See Everything",
+   "budget": 82000000,
+   "gross": 192900000,
+   "wikipedia": "Heart of the Beast",
    "critics": {
-    "metacritic": "97/100 from 42 critics",
-    "rotten_tomatoes": "96% from 226 reviews",
-    "consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
-    "overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\"."
-   },
-   "scale": "Indie / low budget",
-   "verdict": "Hit",
-   "multiple": 12.36,
-   "people": [
-    "Christopher Abbott",
-    "Lance Oppenheim",
-    "Nathan Fielder"
-   ],
-   "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q141336617",
-    "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
-   }
-  },
-  {
-   "qid": "Q133273688",
-   "title": "Primetime",
-   "release": "2026-09-05",
-   "director": [
-    "Lance Oppenheim"
-   ],
-   "cast": [
-    "Robert Pattinson",
-    "Phoebe Bridgers",
-    "Merritt Wever",
-    "Sean Bridgers",
-    "Skyler Gisondo",
-    "Matthew Maher"
-   ],
-   "producers": [
-    "Robert Pattinson",
-    "Ari Aster",
-    "Fred Berger"
-   ],
-   "language": [
-    "English"
-   ],
-   "countries": [
-    "United States"
-   ],
-   "genres": [
-    "biographical film",
-    "psychological thriller",
-    "crime thriller film"
-   ],
-   "budget": 14500000,
-   "gross": 62000000,
-   "wikipedia": "Primetime (film)",
-   "critics": {
-    "metacritic": "68/100 from 54 critics",
-    "rotten_tomatoes": "86%",
-    "consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
-    "overview": "Robert Pattinson received widespread acclaim from critics for his performance. Yet it’s hard to know to what end, or to care.\" Nicholas Barber of the BBC gave the film 5 out of 5 stars, calling Pattinson's performance \"extraordinary\" and \"the best performance yet from the most intriguing actor of his generation\"."
-   },
-   "scale": "Indie / low budget",
-   "verdict": "Hit",
-   "multiple": 4.28,
-   "people": [
-    "Lance Oppenheim",
-    "Robert Pattinson"
-   ],
-   "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q133273688",
-    "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
-   }
-  },
-  {
-   "qid": "Q124359083",
-   "title": "Animals",
-   "release": "2026-10-09",
-   "director": [],
-   "cast": [
-    "Gillian Anderson",
-    "Kerry Washington",
-    "Steven Yeun",
-    "Luis Gerardo Méndez",
-    "Adriana Paz"
-   ],
-   "producers": [
-    "Matt Damon",
-    "Brad Weston"
-   ],
-   "language": [
-    "English"
-   ],
-   "countries": [
-    "United States"
-   ],
-   "genres": [
-    "thriller film",
-    "crime thriller film"
-   ],
-   "budget": null,
-   "gross": null,
-   "wikipedia": "Animals (2026 film)",
-   "critics": {
-    "rotten_tomatoes": "30%",
-    "metacritic": "33/100 from 21 critics",
-    "overview": "Archived from the original on October 5, 2026."
-   },
-   "scale": "",
-   "verdict": "No figures yet",
-   "multiple": null,
-   "people": [
-    "Ben Affleck"
-   ],
-   "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q124359083",
-    "wikipedia": "https://en.wikipedia.org/wiki/Animals_(2026_film)"
-   }
-  },
-  {
-   "qid": "Q129677718",
-   "title": "Digger",
-   "release": "2026-10-01",
-   "director": [
-    "Alejandro González Iñárritu"
-   ],
-   "cast": [
-    "Tom Cruise",
-    "Sandra Hüller",
-    "John Goodman",
-    "Michael Stuhlbarg",
-    "Jesse Plemons",
-    "Sophie Wilde"
-   ],
-   "producers": [
-    "Alejandro González Iñárritu",
-    "Tom Cruise",
-    "Mary Parent"
-   ],
-   "language": [
-    "English"
-   ],
-   "countries": [
-    "United States",
-    "United Kingdom",
-    "Mexico"
-   ],
-   "genres": [
-    "drama film",
-    "comedy film",
-    "black comedy film"
-   ],
-   "budget": 125000000,
-   "gross": 51000000,
-   "wikipedia": "Digger (2026 film)",
-   "critics": {
-    "metacritic": "46/100 from 60 critics",
-    "rotten_tomatoes": "52%",
-    "consensus": "A stylized satire whose audacious design proves too mannered for some of the laughs to smoothly land, Digger is a bold swing of the shovel by Tom Cruise and Alejandro González Iñárritu that misses as often as it strikes gold.",
-    "overview": "Ars Technica stated that \"some appreciat[ed] Iñárritu's bold, creative swings and others [found] the film practically unwatchable\". Manohla Dargis for The New York Times panned the film, calling it a \"lumbering white elephant of a movie that almost makes you feel sorry for everyone involved\" while offering tepid criticism of Cruise's performance, writing that \"all of Cruise's strenuous energy helps weigh down an already ponderous movie\"."
+    "metacritic": "66/100 from 32 critics",
+    "rotten_tomatoes": "84%",
+    "consensus": "A rigorously entertaining adventure story told through a spartan script and memorable set pieces, Heart of the Beast pays rousing tribute to man's best friend.",
+    "overview": "^ Cite error: The named reference NUM was invoked but never defined (see the help page). ^ Cite error: The named reference BOM was invoked but never defined (see the help page)."
    },
    "scale": "Big studio",
-   "verdict": "Weak",
-   "multiple": 0.41,
+   "verdict": "Modest",
+   "multiple": 2.35,
    "people": [
-    "Tom Cruise"
+    "Brad Pitt"
    ],
    "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q129677718",
-    "wikipedia": "https://en.wikipedia.org/wiki/Digger_(2026_film)"
+    "wikidata": "https://www.wikidata.org/wiki/Q131900904",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heart_of_the_Beast"
    }
   },
   {
@@ -372,18 +408,118 @@
    }
   },
   {
-   "qid": "Q135454893",
-   "title": "The Liberation",
-   "release": "2026-09-04",
+   "qid": "Q141336617",
+   "title": "You Can See Everything",
+   "release": "2026-09-06",
    "director": [
-    "Guy Nattiv"
+    "Lance Oppenheim",
+    "Nathan Fielder"
    ],
    "cast": [
-    "Carrie Coon",
-    "Bella Ramsey",
-    "Odessa Young",
-    "Lily James",
-    "Siobhan Williams"
+    "Elizabeth Holmes",
+    "Nathan Fielder",
+    "Christopher Abbott"
+   ],
+   "producers": [
+    "Nathan Fielder",
+    "Lance Oppenheim",
+    "Tatiana Bears",
+    "Maggie Ambrose"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "documentary film"
+   ],
+   "budget": 7000000,
+   "gross": 93000000,
+   "wikipedia": "You Can See Everything",
+   "critics": {
+    "metacritic": "97/100 from 43 critics",
+    "rotten_tomatoes": "97% from 229 reviews",
+    "consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+    "overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\"."
+   },
+   "scale": "Indie / low budget",
+   "verdict": "Hit",
+   "multiple": 13.29,
+   "people": [
+    "Nathan Fielder"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+    "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+   }
+  },
+  {
+   "qid": "Q133273688",
+   "title": "Primetime",
+   "release": "2026-09-05",
+   "director": [
+    "Lance Oppenheim"
+   ],
+   "cast": [
+    "Robert Pattinson",
+    "Phoebe Bridgers",
+    "Merritt Wever",
+    "Sean Bridgers",
+    "Skyler Gisondo",
+    "Matthew Maher"
+   ],
+   "producers": [
+    "Robert Pattinson",
+    "Ari Aster",
+    "Fred Berger"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "biographical film",
+    "psychological thriller",
+    "crime thriller film"
+   ],
+   "budget": 14500000,
+   "gross": 62000000,
+   "wikipedia": "Primetime (film)",
+   "critics": {
+    "metacritic": "68/100 from 54 critics",
+    "rotten_tomatoes": "86%",
+    "consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+    "overview": "Robert Pattinson received widespread acclaim from critics for his performance. Manohla Dargis for The New York Times praised Skyler Gisondo and Alex Winter, writing that they added \"emotion\" and \"push the movie into depths it doesn’t remain in\" but otherwise felt that Primetime \"looks good and moves well, and the dark, saturated colors and visual grittiness add some fine Expressionistic texture."
+   },
+   "scale": "Indie / low budget",
+   "verdict": "Hit",
+   "multiple": 4.28,
+   "people": [
+    "Robert Pattinson"
+   ],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+    "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
+   }
+  },
+  {
+   "qid": "Q137722359",
+   "title": "Elsinore",
+   "release": "2026-09-04",
+   "director": [
+    "Simon Stone"
+   ],
+   "cast": [
+    "Andrew Scott",
+    "Olivia Colman",
+    "Billie Piper",
+    "Johnny Flynn",
+    "Luke Thompson",
+    "Monica Dolan"
    ],
    "producers": [],
    "language": [
@@ -394,25 +530,25 @@
     "United States"
    ],
    "genres": [
-    "thriller film",
-    "drama film",
-    "mystery film"
+    "biographical film"
    ],
    "budget": null,
    "gross": null,
-   "wikipedia": "The Liberation (film)",
+   "wikipedia": "Elsinore (film)",
    "critics": {
-    "rotten_tomatoes": "83%"
+    "rotten_tomatoes": "89%",
+    "metacritic": "75/100 from 23 critics",
+    "overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving."
    },
    "scale": "",
    "verdict": "No figures yet",
    "multiple": null,
    "people": [
-    "Bella Ramsey"
+    "Johnny Flynn"
    ],
    "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q135454893",
-    "wikipedia": "https://en.wikipedia.org/wiki/The_Liberation_(film)"
+    "wikidata": "https://www.wikidata.org/wiki/Q137722359",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
    }
   },
   {
@@ -465,110 +601,49 @@
    }
   },
   {
-   "qid": "Q124804916",
-   "title": "The End of Oak Street",
-   "release": "2026-08-09",
+   "qid": "Q135906833",
+   "title": "One Night Only",
+   "release": "2026-08-07",
    "director": [
-    "David Robert Mitchell"
+    "Will Gluck"
    ],
    "cast": [
-    "Anne Hathaway",
-    "Ewan McGregor",
-    "Maisy Stella",
-    "Christian Convery",
-    "Jordan Alexa Davis",
-    "P.J. Byrne"
+    "Monica Barbaro",
+    "Callum Turner",
+    "Molly Ringwald",
+    "LeVar Burton",
+    "Maya Hawke",
+    "Julia Fox"
    ],
-   "producers": [
-    "J. J. Abrams",
-    "David Robert Mitchell",
-    "Matt Jackson",
-    "Tommy Harper"
-   ],
+   "producers": [],
    "language": [
     "English"
    ],
    "countries": [
-    "United States",
-    "Australia",
-    "Canada"
+    "United States"
    ],
    "genres": [
-    "science fiction film",
-    "survival film"
+    "romantic comedy film",
+    "science fiction"
    ],
-   "budget": 80000000,
-   "gross": 122000000,
-   "wikipedia": "The End of Oak Street",
+   "budget": 25000000,
+   "gross": 25200000,
+   "wikipedia": "One Night Only (2026 film)",
    "critics": {
-    "rotten_tomatoes": "86%",
-    "metacritic": "69/100 from 52 critics",
-    "consensus": "Tapping into the primal pleasures of the classic creature feature, The End of Oak Street is pulpy good fun carried off with a light touch and a sharp bite.",
-    "overview": "Due to its high production and marketing costs, Variety estimated the film would lose Warner Bros. Zachary Lee of RogerEbert.com awarded The End of Oak Street four out of four, praising its combination of family drama, apocalyptic imagery, and dinosaur horror."
+    "metacritic": "42/100 from 36 critics",
+    "rotten_tomatoes": "44%",
+    "consensus": "Hampered by a high-concept premise that's full of red flags, One Night Only has charming moments thanks to its appealing stars but keeps killing the mood with world-building that prompts more questions than the script is willing to answer.",
+    "overview": "It opened to… Less than Jackass: Best and Last. Some critics wrote that the film's premise of a dystopia ruled by conservative capitalists was interesting and relevant to current events in the United States, but found that the implementation was nonsensical and distracting."
    },
-   "scale": "Big studio",
-   "verdict": "Modest",
-   "multiple": 1.52,
+   "scale": "Mid-budget",
+   "verdict": "Weak",
+   "multiple": 1.01,
    "people": [
-    "Anne Hathaway"
+    "Callum Turner"
    ],
    "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q124804916",
-    "wikipedia": "https://en.wikipedia.org/wiki/The_End_of_Oak_Street"
-   }
-  },
-  {
-   "qid": "Q113244935",
-   "title": "Spider-Man: Brand New Day",
-   "release": "2026-07-29",
-   "director": [
-    "Destin Daniel Cretton"
-   ],
-   "cast": [
-    "Tom Holland",
-    "Zendaya",
-    "Jacob Batalon",
-    "Liza Colón-Zayas",
-    "Jon Bernthal"
-   ],
-   "producers": [
-    "Kevin Feige",
-    "Amy Pascal",
-    "Avi Arad",
-    "Rachel O'Connor"
-   ],
-   "language": [
-    "English"
-   ],
-   "countries": [
-    "United States",
-    "United Kingdom",
-    "Canada",
-    "Germany"
-   ],
-   "genres": [
-    "adventure film",
-    "fantasy film",
-    "action film"
-   ],
-   "budget": 225000000,
-   "gross": 2523000000,
-   "wikipedia": "Spider-Man: Brand New Day",
-   "critics": {
-    "rotten_tomatoes": "90%",
-    "metacritic": "66/100 from 56 critics",
-    "consensus": "Spinning a web of spectacular set pieces together with mature emotional stakes and Tom Holland's soulful performance, Brand New Day is a promising reset that portends Spidey will remain sticky on the big screen for years to come.",
-    "overview": "In its second weekend, it remained the top film in most of its 67 markets. Tom Holland (pictured in July 2026) received praise for his performance."
-   },
-   "scale": "Blockbuster",
-   "verdict": "Hit",
-   "multiple": 11.21,
-   "people": [
-    "Florence Pugh"
-   ],
-   "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q113244935",
-    "wikipedia": "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+    "wikidata": "https://www.wikidata.org/wiki/Q135906833",
+    "wikipedia": "https://en.wikipedia.org/wiki/One_Night_Only_(2026_film)"
    }
   },
   {
@@ -603,7 +678,7 @@
     "family film"
    ],
    "budget": 70000000,
-   "gross": 126000000,
+   "gross": 126500000,
    "wikipedia": "Coyote vs. Acme",
    "critics": {
     "metacritic": "77/100 from 46 critics",
@@ -613,7 +688,7 @@
    },
    "scale": "Big studio",
    "verdict": "Modest",
-   "multiple": 1.8,
+   "multiple": 1.81,
    "people": [
     "James Gunn"
    ],
@@ -623,14 +698,18 @@
    }
   },
   {
-   "qid": "Q141913322",
-   "title": "The Housemaid's Secret",
-   "release": "2027-12-17",
+   "qid": "Q130345436",
+   "title": "Street Fighter",
+   "release": "2026-10-12",
    "director": [
-    "Paul Feig"
+    "Kitao Sakurai"
    ],
    "cast": [
-    "Sydney Sweeney"
+    "Andrew Koji",
+    "Noah Centineo",
+    "Callina Liang",
+    "Cody Rhodes",
+    "Orville Peck"
    ],
    "producers": [],
    "language": [
@@ -640,21 +719,25 @@
     "United States"
    ],
    "genres": [
-    "psychological thriller"
+    "science fiction action film",
+    "martial arts film"
    ],
-   "budget": null,
-   "gross": null,
-   "wikipedia": "The Housemaid's Secret",
-   "critics": {},
-   "scale": "",
-   "verdict": "Upcoming",
-   "multiple": null,
-   "people": [
-    "Sydney Sweeney"
-   ],
+   "budget": 82000000,
+   "gross": 100800000,
+   "wikipedia": "Street Fighter (2026 film)",
+   "critics": {
+    "metacritic": "43/100 from 28 critics",
+    "rotten_tomatoes": "42%",
+    "consensus": "The latest iteration of Street Fighter has plenty of affection for its source material and doesn't lack for dizzying style, but its incoherent storytelling and juvenile humor make for a disappointing regression among video game adaptations.",
+    "overview": "It received a 65% definite recommend for children under 12. The audience was 30% Latino and Hispanic, 29% Caucasian, 21% Black, 14% Asian American and 6% Native American or Other."
+   },
+   "scale": "Big studio",
+   "verdict": "Weak",
+   "multiple": 1.23,
+   "people": [],
    "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q141913322",
-    "wikipedia": "https://en.wikipedia.org/wiki/The_Housemaid's_Secret"
+    "wikidata": "https://www.wikidata.org/wiki/Q130345436",
+    "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
    }
   },
   {
@@ -688,8 +771,8 @@
    "gross": null,
    "wikipedia": "Unabomber (film)",
    "critics": {
-    "rotten_tomatoes": "25%",
     "metacritic": "46/100 from 18 critics",
+    "rotten_tomatoes": "25%",
     "consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
     "overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\"."
    },
@@ -763,8 +846,8 @@
    "gross": null,
    "wikipedia": "Love of Your Life (film)",
    "critics": {
-    "rotten_tomatoes": "81% from 57 reviews",
     "metacritic": "62/100 from 14 critics",
+    "rotten_tomatoes": "81% from 57 reviews",
     "consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak."
    },
    "scale": "",
@@ -815,6 +898,49 @@
    }
   },
   {
+   "qid": "Q136773031",
+   "title": "The Face of Horror",
+   "release": "2026-09-11",
+   "director": [
+    "Anna Biller"
+   ],
+   "cast": [
+    "Kristine Froseth",
+    "Jonah Hauer-King",
+    "Ellie Bamber",
+    "Leo Suter",
+    "Bella Heathcote",
+    "Ben Radcliffe"
+   ],
+   "producers": [
+    "Anna Biller",
+    "Mike Goodridge"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United Kingdom"
+   ],
+   "genres": [
+    "horror film"
+   ],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "The Face of Horror",
+   "critics": {
+    "rotten_tomatoes": "83%"
+   },
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136773031",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Face_of_Horror"
+   }
+  },
+  {
    "qid": "Q124743667",
    "title": "Mayday",
    "release": "2026-09-04",
@@ -849,8 +975,8 @@
    "gross": null,
    "wikipedia": "Mayday (2026 film)",
    "critics": {
-    "rotten_tomatoes": "83%",
     "metacritic": "60/100 from 24 critics",
+    "rotten_tomatoes": "83%",
     "consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
     "overview": "Archived from the original on October 3, 2026."
    },
@@ -864,46 +990,50 @@
    }
   },
   {
-   "qid": "Q137722359",
-   "title": "Elsinore",
-   "release": "2026-09-04",
+   "qid": "Q136391219",
+   "title": "Ink",
+   "release": "2026-09-02",
    "director": [
-    "Simon Stone"
+    "Danny Boyle"
    ],
    "cast": [
-    "Andrew Scott",
-    "Olivia Colman",
-    "Billie Piper",
-    "Johnny Flynn",
-    "Luke Thompson",
-    "Monica Dolan"
+    "Guy Pearce",
+    "Jack O'Connell",
+    "Claire Foy",
+    "Blake Harrison",
+    "Patrick Kennedy",
+    "Angus Imrie"
    ],
-   "producers": [],
+   "producers": [
+    "Tessa Ross",
+    "Danny Boyle"
+   ],
    "language": [
     "English"
    ],
    "countries": [
-    "United Kingdom",
-    "United States"
+    "United Kingdom"
    ],
    "genres": [
-    "biographical film"
+    "biographical film",
+    "drama film"
    ],
    "budget": null,
    "gross": null,
-   "wikipedia": "Elsinore (film)",
+   "wikipedia": "Ink (2026 film)",
    "critics": {
-    "rotten_tomatoes": "89%",
-    "metacritic": "75/100 from 19 critics",
-    "overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving."
+    "metacritic": "78/100 from 21 critics",
+    "rotten_tomatoes": "73%",
+    "consensus": "Capturing the amoral thrill of",
+    "overview": "In a positive review David Rooney of The Hollywood Reporter described the film as \"a rise-and-fall story, played with aggressive self-determination but not monomaniacal monstrousness by O’Connell\", prising the film nature in reporting \"a chronicle of the degradation of what passes for news reporting\". Award Date of ceremony Category Recipient(s) Result Ref."
    },
    "scale": "",
    "verdict": "No figures yet",
    "multiple": null,
    "people": [],
    "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q137722359",
-    "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
+    "wikidata": "https://www.wikidata.org/wiki/Q136391219",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ink_(2026_film)"
    }
   },
   {
@@ -1004,6 +1134,51 @@
    }
   },
   {
+   "qid": "Q135285630",
+   "title": "Spa Weekend",
+   "release": "2026-08-21",
+   "director": [
+    "Jon Lucas",
+    "Scott Moore"
+   ],
+   "cast": [
+    "Isla Fisher",
+    "Leslie Mann",
+    "Anna Faris",
+    "Michelle Buteau",
+    "Adam Demos"
+   ],
+   "producers": [
+    "Suzanne Todd"
+   ],
+   "language": [
+    "English"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "genres": [
+    "comedy film"
+   ],
+   "budget": 20000000,
+   "gross": 13800000,
+   "wikipedia": "Spa Weekend",
+   "critics": {
+    "metacritic": "33/100 from 17 critics",
+    "rotten_tomatoes": "29%",
+    "consensus": "Saddling a terrific cast with meager material, Spa Weekend never relaxes as it stacks hijinks upon hijinks without unlocking how to make all the antics particularly funny.",
+    "overview": "^ D'Alessandro, Anthony (August 23, 2026). Retrieved August 23, 2026.{{cite web}}: CS1 maint: url-status (link)"
+   },
+   "scale": "Mid-budget",
+   "verdict": "Weak",
+   "multiple": 0.69,
+   "people": [],
+   "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135285630",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spa_Weekend"
+   }
+  },
+  {
    "qid": "Q132560837",
    "title": "The Wrong Girls",
    "release": "2026-08-14",
@@ -1051,47 +1226,39 @@
    }
   },
   {
-   "qid": "Q135906833",
-   "title": "One Night Only",
+   "qid": "Q140472786",
+   "title": "I Is Another",
    "release": "2026-08-07",
    "director": [
-    "Will Gluck"
+    "Felix Randau"
    ],
    "cast": [
-    "Monica Barbaro",
-    "Callum Turner",
-    "Molly Ringwald",
-    "LeVar Burton",
-    "Maya Hawke",
-    "Julia Fox"
+    "Claes Bang",
+    "Valerie Pachner",
+    "Markus Meyer",
+    "Susanne Wuest"
    ],
-   "producers": [],
+   "producers": [
+    "Veit Heiduschka"
+   ],
    "language": [
-    "English"
+    "German"
    ],
    "countries": [
-    "United States"
+    "Germany",
+    "Austria"
    ],
-   "genres": [
-    "romantic comedy film",
-    "science fiction"
-   ],
-   "budget": 25000000,
-   "gross": 25200000,
-   "wikipedia": "One Night Only (2026 film)",
-   "critics": {
-    "rotten_tomatoes": "44%",
-    "metacritic": "42/100 from 36 critics",
-    "consensus": "Hampered by a high-concept premise that's full of red flags, One Night Only has charming moments thanks to its appealing stars but keeps killing the mood with world-building that prompts more questions than the script is willing to answer.",
-    "overview": "It opened to… Less than Jackass: Best and Last. Some critics wrote that the film's premise of a dystopia ruled by conservative capitalists was interesting and relevant to current events in the United States, but found that the implementation was nonsensical and distracting."
-   },
-   "scale": "Mid-budget",
-   "verdict": "Weak",
-   "multiple": 1.01,
+   "genres": [],
+   "budget": null,
+   "gross": null,
+   "wikipedia": "",
+   "critics": {},
+   "scale": "",
+   "verdict": "No figures yet",
+   "multiple": null,
    "people": [],
    "sources": {
-    "wikidata": "https://www.wikidata.org/wiki/Q135906833",
-    "wikipedia": "https://en.wikipedia.org/wiki/One_Night_Only_(2026_film)"
+    "wikidata": "https://www.wikidata.org/wiki/Q140472786"
    }
   }
  ]
