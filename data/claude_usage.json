@@ -22447,6 +22447,22 @@
    "turns": 7,
    "seconds": 36,
    "cost_usd": 0.1551
+  },
+  {
+   "date": "2026-11-18",
+   "time": "2026-11-18T02:53:50+00:00",
+   "batch": "2026-11-18 13:00",
+   "celebrity": "Nicolas Winding Refn",
+   "article": "2026-11-18-13-00-nicolas-winding-refn.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 909,
+   "cache_read_tokens": 79200,
+   "cache_write_tokens": 21169,
+   "turns": 6,
+   "seconds": 7,
+   "cost_usd": 0.1018
   }
  ]
 }
