@@ -24,6 +24,7 @@ wp_id: 2913
 wp_link: "https://moduscarry.com/chris-hemsworth-avengers-doomsday-mma/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
