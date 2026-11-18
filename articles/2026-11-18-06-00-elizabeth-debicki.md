@@ -25,6 +25,7 @@ wp_id: 2817
 wp_link: "https://moduscarry.com/elizabeth-debicki-elle-speech/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
