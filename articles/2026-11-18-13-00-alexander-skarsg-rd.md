@@ -24,6 +24,7 @@ wp_id: 2875
 wp_link: "https://moduscarry.com/alexander-skarsgard-pink-boxers/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
