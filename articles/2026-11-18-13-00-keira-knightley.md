@@ -23,6 +23,7 @@ wp_id: 2889
 wp_link: "https://moduscarry.com/black-doves-season-2-viewership/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

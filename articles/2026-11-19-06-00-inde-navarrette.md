@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Role Model Goal After Obsession Fame"
 seo_description: "Inde Navarrette says she wants to be a good role model for her siblings after Obsession, and shares how a no-failure family mindset shaped her."
 focus_keyword: "Inde Navarrette role model"
 permalink: "inde-navarrette-role-model"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 06:00"
 celebrity: "Inde Navarrette"
@@ -14,6 +14,15 @@ tags: ["Inde Navarrette", "X-Men", "Marvel", "Marvel Studios"]
 image_prompt: "A quiet family kitchen table at golden hour with a stack of film scripts and a half-finished cup of tea"
 sources:
   - "https://ca.style.yahoo.com/inde-navarrette-reveals-simple-goal-190000350.html"
+image: "images/2026-11-19-06-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03_(cropped2).jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03_(cropped2).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2954
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-06-00-inde-navarrette-768x432.webp"
+wp_id: 2955
+wp_link: "https://moduscarry.com/inde-navarrette-role-model/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Aika Flores: Inside the Heartthrob Team"
 seo_description: "Hudson Williams and groomer Aika Flores explain how a close-knit team carried him through a Heated Rivalry year, in a new Hollywood Reporter interview."
 focus_keyword: "Hudson Williams Aika Flores"
 permalink: "hudson-williams-aika-flores"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 06:00"
 celebrity: "Hudson Williams"
@@ -15,6 +15,15 @@ image_prompt: "A quiet backstage green room with a styling chair, a mirror ringe
 sources:
   - "https://www.hollywoodreporter.com/lifestyle/style/hudson-williams-aika-flores-interview-behind-looks-1236746322/"
   - "https://www.queerty.com/whats-the-deal-with-those-hudson-williams-breakup-rumors-20261118/"
+image: "images/2026-11-19-06-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(19).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(19).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2950
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-06-00-hudson-williams-768x432.webp"
+wp_id: 2951
+wp_link: "https://moduscarry.com/hudson-williams-aika-flores/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Extraction 3: Chris Hemsworth Returns With a New Cast"
 seo_description: "Extraction 3 brings Chris Hemsworth back as Tyler Rake, with Pierce Brosnan on board and two Netflix spin-offs in the works. Here is what we know."
 focus_keyword: "Extraction 3"
 permalink: "extraction-3-chris-hemsworth-cast"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 06:00"
 celebrity: "Chris Hemsworth"
@@ -14,6 +14,15 @@ tags: ["Chris Hemsworth", "Extraction 3", "Netflix"]
 image_prompt: "A dimly lit warehouse rooftop at dusk with a helicopter silhouette, smoke drifting across the skyline, cinematic action mood."
 sources:
   - "https://movieweb.com/extraction-3-upcoming-tease/"
+image: "images/2026-11-19-06-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2942
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-06-00-chris-hemsworth-768x432.webp"
+wp_id: 2943
+wp_link: "https://moduscarry.com/extraction-3-chris-hemsworth-cast/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

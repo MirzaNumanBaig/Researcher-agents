@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Ted Animated Series: Trailer and Date"
 seo_description: "Amanda Seyfried returns as Sam in the Ted animated series on Peacock from December 17, and Billy Evans reflects on his dinner with her."
 focus_keyword: "Amanda Seyfried Ted animated series"
 permalink: "amanda-seyfried-ted-animated-series"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 06:00"
 celebrity: "Amanda Seyfried"
@@ -16,6 +16,15 @@ sources:
   - "https://theplaylist.net/ted-the-animated-series-trailer-seth-macfarlane-mark-wahlberg-peacock-20261117/"
   - "https://www.toy-people.com/en/?p=116680"
   - "https://www.cinemablend.com/movies/amanda-seyfried-elizabeth-holmes-partner-billy-evans-had-very-different-intentions-infamous-dinner-scene-you-can-see-everything"
+image: "images/2026-11-19-06-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried attends Miu Miu Women's Tales during the 83rd Venice International Film Festival at on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_Venice_Film_Festival.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_Venice_Film_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2936
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-06-00-amanda-seyfried-768x432.webp"
+wp_id: 2937
+wp_link: "https://moduscarry.com/amanda-seyfried-ted-animated-series/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

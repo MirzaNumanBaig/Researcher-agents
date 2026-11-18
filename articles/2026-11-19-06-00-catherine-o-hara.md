@@ -5,7 +5,7 @@ seo_title: "Catherine O'Hara Auction: Schitt's Creek, Beetlejuice Items"
 seo_description: "The Catherine O'Hara auction at Julien's on December 15 offers Moira Rose gowns, Beetlejuice costumes and Home Alone scripts. See the estimates."
 focus_keyword: "Catherine O'Hara auction"
 permalink: "catherine-ohara-auction"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 06:00"
 celebrity: "Catherine O'Hara"
@@ -14,6 +14,15 @@ tags: ["Catherine O'Hara"]
 image_prompt: "A dimly lit auction room with rows of empty chairs, a wooden podium and glass cases of old theatre costumes and puppets"
 sources:
   - "https://www.broadwayworld.com/bwwtv/article/Photos-Juliens-Auctions-and-TCM-to-Auction-Kirk-Douglas-Catherine-OHara-and-Rob-Lowe-Memorabilia-in-December-20261118"
+image: "images/2026-11-19-06-00-catherine-o-hara.webp"
+image_alt: "Catherine O'Hara: Actress Catherine O'Hara at the 81st Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara-63919_(cropped).jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara-63919_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2940
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-06-00-catherine-o-hara-768x432.webp"
+wp_id: 2941
+wp_link: "https://moduscarry.com/catherine-ohara-auction/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

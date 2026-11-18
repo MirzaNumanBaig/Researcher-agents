@@ -5,7 +5,7 @@ seo_title: "Florence Pugh Bond Villain Pitch to Denis Villeneuve"
 seo_description: "Florence Pugh texted Denis Villeneuve after Robert Pattinson's Bond news, asking about villain roles. Here is what she said and what comes next."
 focus_keyword: "Florence Pugh Bond villain"
 permalink: "florence-pugh-bond-villain"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 06:00"
 celebrity: "Denis Villeneuve"
@@ -14,6 +14,15 @@ tags: ["Denis Villeneuve", "James Bond", "Robert Pattinson"]
 image_prompt: "An empty grand cinema auditorium with red velvet seats, a glowing screen and a single spotlight beam cutting through the dark."
 sources:
   - "https://www.cinemablend.com/movies/one-of-the-first-people-text-denis-villeneuve-after-007s-casting-florence-pugh-robert-pattinson"
+image: "images/2026-11-19-06-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Florence Pugh Pitches Herself as a Villain in Villeneuve's Bond"
+image_credit: "Image: <a href=\"https://www.cinemablend.com/movies/one-of-the-first-people-text-denis-villeneuve-after-007s-casting-florence-pugh-robert-pattinson\" rel=\"nofollow noopener\">Cinemablend</a> (cropped)"
+wp_media_id: 2946
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-06-00-denis-villeneuve-768x432.webp"
+wp_id: 2947
+wp_link: "https://moduscarry.com/florence-pugh-bond-villain/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
