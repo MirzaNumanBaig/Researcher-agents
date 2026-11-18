@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Pink Boxers and Governors Awards Look"
 seo_description: "Alexander Skarsgård pink boxers at Deadline Contenders, then a silver sequinned tank at the Governors Awards. See what he wore on the Wicker tour."
 focus_keyword: "Alexander Skarsgård pink boxers"
 permalink: "alexander-skarsgard-pink-boxers"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 13:00"
 celebrity: "Alexander Skarsgård"
@@ -15,6 +15,15 @@ image_prompt: "A rack of satin shorts and silver sequinned tops beside a red car
 sources:
   - "https://www.fashiontimes.co.uk/alexander-skarsgard-pink-silk-boxers-red-carpet-look-1767784"
   - "https://news.ssbcrack.com/zendaya-florence-pugh-and-alexander-skarsgard-lead-the-2026-governors-awards-red-carpet-fashion/"
+image: "images/2026-11-18-13-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd at the 2025 Telluride Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_01.jpg\" rel=\"noopener\">FiesolanaNYC</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_01.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2874
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-13-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 2875
+wp_link: "https://moduscarry.com/alexander-skarsgard-pink-boxers/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

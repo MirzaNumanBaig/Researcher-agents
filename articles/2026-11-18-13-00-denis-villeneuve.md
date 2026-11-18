@@ -5,7 +5,7 @@ seo_title: "Denis Villeneuve Dune Part Three: 'Something Even Better'"
 seo_description: "Denis Villeneuve says Dune: Part Three beats the first two films, and a new report claims Josh O'Connor was his early pick for Bond. Here is what we know."
 focus_keyword: "Denis Villeneuve Dune Part Three"
 permalink: "denis-villeneuve-dune-part-three"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 13:00"
 celebrity: "Denis Villeneuve"
@@ -17,6 +17,15 @@ sources:
   - "https://dmarge.com/style/josh-oconnor-villeneuve-first-choice-james-bond"
   - "https://www.vulture.com/article/denis-villeneuve-pattinson-bond-killer.html"
   - "https://screenrant.com/james-bond-26-robert-pattinson-casting-biggest-inspiration-sean-connery-denis-villeneuve/"
+image: "images/2026-11-18-13-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve Says Dune: Part Three Is His Best Yet"
+image_credit: "Image: <a href=\"https://dmarge.com/style/josh-oconnor-villeneuve-first-choice-james-bond\" rel=\"nofollow noopener\">DMARGE</a> (cropped)"
+wp_media_id: 2880
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-13-00-denis-villeneuve-768x432.webp"
+wp_id: 2881
+wp_link: "https://moduscarry.com/denis-villeneuve-dune-part-three-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

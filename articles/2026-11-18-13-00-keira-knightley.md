@@ -5,7 +5,7 @@ seo_title: "Black Doves Season 2 Viewership Falls 65% on Netflix"
 seo_description: "Black Doves season 2 viewership opened at 3.8 million, about 65 per cent below season 1, even as critics rate Keira Knightley's spy series higher."
 focus_keyword: "Black Doves season 2 viewership"
 permalink: "black-doves-season-2-viewership"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 13:00"
 celebrity: "Keira Knightley"
@@ -14,6 +14,15 @@ tags: ["Keira Knightley", "Black Doves", "Netflix", "Ben Whishaw"]
 image_prompt: "A dimly lit living room at night with a television glowing in the dark, a remote control on a sofa cushion"
 sources:
   - "https://startefacts.com/news/keira-knightley-s-black-doves-season-2-doesn-t-seem-to-be-working-out-at-all"
+image: "images/2026-11-18-13-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/36966509@N05/6138909957\" rel=\"noopener\">Josh Jensen</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/36966509@N05/6138909957\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2888
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-13-00-keira-knightley-768x432.webp"
+wp_id: 2889
+wp_link: "https://moduscarry.com/black-doves-season-2-viewership/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

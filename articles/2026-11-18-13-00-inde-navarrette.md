@@ -5,7 +5,7 @@ seo_title: "Obsession Netflix: Inde Navarrette's Hit Streams From 17 Nov"
 seo_description: "Obsession Netflix release: the horror hit starring Inde Navarrette is streaming from 17 November after a $521 million run on a $1 million budget."
 focus_keyword: "Obsession Netflix"
 permalink: "obsession-netflix-inde-navarrette"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 13:00"
 celebrity: "Inde Navarrette"
@@ -17,6 +17,15 @@ sources:
   - "https://www.motorbiscuit.com/obsession-star-inde-navarrette-ranks-the-original-fast-furious-movies-by-their-cars/"
   - "https://extratv.com/2026/11/17/inde-navarrette-teases-her-rogue-and-reacts-to-possibly-playing-bond-girl-exclusive/"
   - "https://deadline.com/2026/11/bafta-north-america-breakthrough-us-cohort-list-1237226911/"
+image: "images/2026-11-18-13-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_02.jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_02.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2882
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-13-00-inde-navarrette-768x432.webp"
+wp_id: 2883
+wp_link: "https://moduscarry.com/obsession-netflix-inde-navarrette/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

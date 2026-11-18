@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Holiday Season: A Quieter Family Focus"
 seo_description: "The Pamela Anderson holiday season is about gardening, cooking and watching her sons build their own traditions, she tells ELLE."
 focus_keyword: "Pamela Anderson holiday season"
 permalink: "pamela-anderson-holiday-season"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 13:00"
 celebrity: "Pamela Anderson"
@@ -14,6 +14,15 @@ tags: ["Pamela Anderson", "Fashion"]
 image_prompt: "A candlelit autumn dinner table with a bowl of roasted vegetables, fallen leaves and a small garden through the window at dusk"
 sources:
   - "https://www.elle.com/fashion/jewelry/a74455413/pamela-anderson-pandora-interview-2026/"
+image: "images/2026-11-18-13-00-pamela-anderson.webp"
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2896
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-13-00-pamela-anderson-768x432.webp"
+wp_id: 2897
+wp_link: "https://moduscarry.com/pamela-anderson-holiday-season/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

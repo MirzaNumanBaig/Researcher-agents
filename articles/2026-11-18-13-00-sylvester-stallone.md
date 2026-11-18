@@ -5,7 +5,7 @@ seo_title: "I Play Rocky Stallone Biopic Heads to Wide Release"
 seo_description: "The I Play Rocky Stallone biopic quadrupled its cinema count and holds a 98% audience score ahead of its wide US release on Nov. 20."
 focus_keyword: "I Play Rocky"
 permalink: "i-play-rocky-stallone-biopic"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 13:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "Rocky"]
 image_prompt: "An empty vintage boxing gym at dawn with a worn heavy bag, a pair of red gloves on a bench and warm light through dusty windows."
 sources:
   - "https://movieweb.com/i-play-rocky-box-office-november-2026/"
+image: "images/2026-11-18-13-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588422376\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588422376\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2904
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-13-00-sylvester-stallone-768x432.webp"
+wp_id: 2905
+wp_link: "https://moduscarry.com/i-play-rocky-stallone-biopic/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

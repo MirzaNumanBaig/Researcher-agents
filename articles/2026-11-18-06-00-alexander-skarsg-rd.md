@@ -23,6 +23,7 @@ image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd at the 2025 Tellu
 image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_05.jpg\" rel=\"noopener\">FiesolanaNYC</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_05.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
 wp_media_id: 2862
 wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-06-00-alexander-skarsg-rd-768x432.webp"
+embed_checked: 1
 ---
 
 **Quick summary**

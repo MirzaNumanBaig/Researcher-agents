@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Casting: How Amazon Chose 007"
 seo_description: "Jeff Bezos explains the Robert Pattinson Bond casting: five finalists, three scenes each, full costume, and a Friday decision. Here is what he said."
 focus_keyword: "Robert Pattinson Bond casting"
 permalink: "robert-pattinson-bond-casting-bezos-screen-tests"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 13:00"
 celebrity: "Robert Pattinson"
@@ -18,6 +18,15 @@ sources:
   - "https://www.hollywoodreporter.com/movies/movie-news/jeff-bezos-chose-robert-pattinson-as-james-bond-amazon-mgm-1236757909/"
   - "https://www.hollywoodreporter.com/movies/movie-news/hollywood-celebs-react-robert-pattinson-james-bond-casting-1236757856/"
   - "https://en.wikipedia.org/wiki/Primetime_(film)"
+image: "images/2026-11-18-13-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson and director Lance Oppenheim attend the \u2018Primetime\u2019 premiere during the 83rd Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2900
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-13-00-robert-pattinson-768x432.webp"
+wp_id: 2901
+wp_link: "https://moduscarry.com/robert-pattinson-bond-casting-bezos-screen-tests/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

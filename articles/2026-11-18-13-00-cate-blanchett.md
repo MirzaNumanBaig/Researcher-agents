@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Displacement Film Fund: Five Shorts Out"
 seo_description: "The Cate Blanchett Displacement Film Fund is releasing five shorts by displaced directors with The New Yorker. Here is the slate and what comes next."
 focus_keyword: "Cate Blanchett Displacement Film Fund"
 permalink: "cate-blanchett-displacement-film-fund"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 13:00"
 celebrity: "Cate Blanchett"
@@ -15,6 +15,15 @@ image_prompt: "An empty small cinema with warm light on the screen and rows of r
 sources:
   - "https://wnyc.org/browse/shows/episode/simplecast/e76b763b-37a2-422a-83b7-2401916227be"
   - "https://au.variety.com/2026/film/news/cate-blanchett-displacement-film-fund-new-yorker-41841/"
+image: "images/2026-11-18-13-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett presenting the movie T\u00e1r at the Berlinale 2023"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:MKr26816_Cate_Blanchett_(T%C3%A1r,_Berlinale_2023).jpg\" rel=\"noopener\">Martin Kraft</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:MKr26816_Cate_Blanchett_(T%C3%A1r,_Berlinale_2023).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2876
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-13-00-cate-blanchett-768x432.webp"
+wp_id: 2877
+wp_link: "https://moduscarry.com/cate-blanchett-displacement-film-fund/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

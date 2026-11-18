@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Boxing Training Photos and Doomsday Event"
 seo_description: "Chris Hemsworth boxing training photos show his current workout, as he prepares for the Avengers: Doomsday Gold Coast event on December 4."
 focus_keyword: "Chris Hemsworth boxing training"
 permalink: "chris-hemsworth-boxing-training"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 13:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,15 @@ image_prompt: "A empty boxing gym at dawn with a heavy bag, gloves on a bench an
 sources:
   - "https://www.hellomagazine.com/us/935478/chris-hemsworth-looks-more-ripped-than-ever-in-new-photos/"
   - "https://heavymag.com.au/chris-hemsworth-to-appear-at-event-cinemas-pacific-fair/"
+image: "images/2026-11-18-13-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2878
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-13-00-chris-hemsworth-768x432.webp"
+wp_id: 2879
+wp_link: "https://moduscarry.com/chris-hemsworth-boxing-training/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
