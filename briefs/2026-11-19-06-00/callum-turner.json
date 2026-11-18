@@ -1,0 +1,65 @@
+{
+  "batch": "2026-11-19 06:00",
+  "celebrity": "Callum Turner",
+  "stories": [
+    {
+      "title": "Amazon MGM Studios casts Robert Pattinson as the next James Bond. Read the official announcement.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWtNUUg3V0sxNXlzWUtlZ1hqdm9JallxbW1MQXpFSWxFd01lZmxJNkxXdTl6UjUxX0ZodVNSSS0zSWJVUDU4VkFkdzczdS1RUEw3M253cjFLRWE4dE45MnQyd3FFV0ZFVmF6RWl4cTFZUGhKM09jN0pNNEZZVzVhRDNZMDFLVnRIcEJITW1FaTYtcTdSemV0Y24zZ1Y4b1FXZ250bEFSMldkbnhKWFc1Ul8zWUYwemUwMXJZYVo2cl9HWFFPaFZFdTE3dzNUcUZOeHBkOHR6YTF1QQ?oc=5",
+      "published": "2026-11-17T22:33:01+00:00",
+      "outlets": [
+        {
+          "source": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWtNUUg3V0sxNXlzWUtlZ1hqdm9JallxbW1MQXpFSWxFd01lZmxJNkxXdTl6UjUxX0ZodVNSSS0zSWJVUDU4VkFkdzczdS1RUEw3M253cjFLRWE4dE45MnQyd3FFV0ZFVmF6RWl4cTFZUGhKM09jN0pNNEZZVzVhRDNZMDFLVnRIcEJITW1FaTYtcTdSemV0Y24zZ1Y4b1FXZ250bEFSMldkbnhKWFc1Ul8zWUYwemUwMXJZYVo2cl9HWFFPaFZFdTE3dzNUcUZOeHBkOHR6YTF1QQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "How Robert Pattinson beat fellow James Bond favorites Jack Lowden and Josh O’Connor to snag 007 role",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcVRLMEowd2RDRU9GMW1NZHNWMDhxeEktcV9za2RuSFBmNVg4enNnSlFZX04ta19NV1BzWEpMUjMwTXN4bW9PbWRlNjZETVNuYlU4WENyQXFnTjBCQllfd1QtVGJBSWFXSnZqTG9aSGMyT3g4dTRPYTktcWUwdFloZEc5RktHdVZhMVpkbUlFVHpISHZHMzJvNUNjeGpRQjZZWmo3Q2xMYlpadFhXUlFrSUpuLVUxSXc?oc=5",
+      "published": "2026-11-17T17:07:00+00:00",
+      "outlets": [
+        {
+          "source": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcVRLMEowd2RDRU9GMW1NZHNWMDhxeEktcV9za2RuSFBmNVg4enNnSlFZX04ta19NV1BzWEpMUjMwTXN4bW9PbWRlNjZETVNuYlU4WENyQXFnTjBCQllfd1QtVGJBSWFXSnZqTG9aSGMyT3g4dTRPYTktcWUwdFloZEc5RktHdVZhMVpkbUlFVHpISHZHMzJvNUNjeGpRQjZZWmo3Q2xMYlpadFhXUlFrSUpuLVUxSXc?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "One Night Only",
+      "release": "2026-08-07",
+      "director": [
+        "Will Gluck"
+      ],
+      "cast": [
+        "Monica Barbaro",
+        "Callum Turner",
+        "Molly Ringwald",
+        "LeVar Burton",
+        "Maya Hawke"
+      ],
+      "budget_usd": 25000000,
+      "box_office_usd": 25200000,
+      "scope": "Mid-budget",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.01,
+      "rotten_tomatoes": "44%",
+      "metacritic": "42/100 from 36 critics",
+      "critics_consensus": "Hampered by a high-concept premise that's full of red flags, One Night Only has charming moments thanks to its appealing stars but keeps killing the mood with world-building that prompts more questions than the script is willing to answer.",
+      "critics_overview": "It opened to… Less than Jackass: Best and Last. Some critics wrote that the film's premise of a dystopia ruled by conservative capitalists was interesting and relevant to current events in the United States, but found that the implementation was nonsensical and distracting.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q135906833",
+        "wikipedia": "https://en.wikipedia.org/wiki/One_Night_Only_(2026_film)"
+      }
+    }
+  ]
+}

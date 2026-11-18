@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-12 12:00",
+  "celebrity": "Kristine Froseth",
+  "stories": [
+    {
+      "title": "Amanda Seyfried Kicks Off the Holiday Party Season in Jimmy Choo Pumps at Tiffany & Co.’s Holiday Event",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTlZhLUZxYUJlMUtPbGdxYU1HZGYxSVVnNGVPT3E1c3B1bjFFbTVWU0lGS19FbEZDcm5NdEYtS1pXSW9acWRQU0JPUV9aMDQyZndsX3pQcmtPWlJWU1REV0ExUlFYckx5S3lOWEFjMEJvcnZYNi1WcEtDcHhVeUVWNGp4UEk3SkhZaFlqbzM1bjZhRDF5emdUMU13YjQzT1JqZXpJYTlhQXNsYkR3R1Q5aA?oc=5",
+      "published": "2026-11-11T20:28:53+00:00",
+      "outlets": [
+        {
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTlZhLUZxYUJlMUtPbGdxYU1HZGYxSVVnNGVPT3E1c3B1bjFFbTVWU0lGS19FbEZDcm5NdEYtS1pXSW9acWRQU0JPUV9aMDQyZndsX3pQcmtPWlJWU1REV0ExUlFYckx5S3lOWEFjMEJvcnZYNi1WcEtDcHhVeUVWNGp4UEk3SkhZaFlqbzM1bjZhRDF5emdUMU13YjQzT1JqZXpJYTlhQXNsYkR3R1Q5aA?oc=5",
+          "article_url": "https://wwd.com/footwear-news/shoe-trends/amanda-seyfried-jimmy-choo-pumps-tiffany-co-holiday-event-1239411215/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Face of Horror",
+      "release": "2026-09-11",
+      "director": [
+        "Anna Biller"
+      ],
+      "cast": [
+        "Kristine Froseth",
+        "Jonah Hauer-King",
+        "Ellie Bamber",
+        "Leo Suter",
+        "Bella Heathcote"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136773031",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Face_of_Horror"
+      }
+    }
+  ]
+}
