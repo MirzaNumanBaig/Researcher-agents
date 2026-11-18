@@ -22623,6 +22623,22 @@
    "turns": 7,
    "seconds": 24,
    "cost_usd": 0.1416
+  },
+  {
+   "date": "2026-11-18",
+   "time": "2026-11-18T03:18:32+00:00",
+   "batch": "2026-11-18 13:00",
+   "celebrity": "Tom Hardy",
+   "article": "2026-11-18-13-00-tom-hardy.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 20,
+   "output_tokens": 5606,
+   "cache_read_tokens": 364270,
+   "cache_write_tokens": 28979,
+   "turns": 13,
+   "seconds": 43,
+   "cost_usd": 0.2086
   }
  ]
 }
