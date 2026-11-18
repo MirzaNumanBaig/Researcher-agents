@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder Career Explained: From Dumb Starbucks On"
 seo_description: "Nathan Fielder career explained: how Nathan for You and The Rehearsal led to the Elizabeth Holmes documentary You Can See Everything, out in the UK on Friday."
 focus_keyword: "Nathan Fielder career"
 permalink: "nathan-fielder-career-explained"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 21:00"
 celebrity: "Nathan Fielder"
@@ -15,6 +15,15 @@ image_prompt: "An empty small-town coffee shop at dusk with a hand-painted parod
 sources:
   - "https://www.theguardian.com/film/2026/nov/18/nathan-fielder-you-can-see-everything"
   - "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+image: "images/2026-11-18-21-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2922
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-21-00-nathan-fielder-768x432.webp"
+wp_id: 2923
+wp_link: "https://moduscarry.com/nathan-fielder-career-explained/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

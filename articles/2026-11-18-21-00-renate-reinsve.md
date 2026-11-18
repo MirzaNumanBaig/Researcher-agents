@@ -5,7 +5,7 @@ seo_title: "Renate Reinsve Fjord Interview: Why She Took the Role"
 seo_description: "In a new Renate Reinsve Fjord interview, the Oscar nominee explains what drew her to Cristian Mungiu's drama and its central debate."
 focus_keyword: "Renate Reinsve Fjord interview"
 permalink: "renate-reinsve-fjord-interview"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 21:00"
 celebrity: "Renate Reinsve"
@@ -14,6 +14,15 @@ tags: ["Renate Reinsve"]
 image_prompt: "An empty cinema auditorium with a glowing screen showing a misty Nordic fjord at dusk, rows of red seats in soft light"
 sources:
   - "https://awardsradar.com/2026/11/18/interview-renate-reinsve-discusses-the-appeal-of-starring-in-fjord/"
+image: "images/2026-11-18-21-00-renate-reinsve.webp"
+image_alt: "Renate Reinsve: Actress Renate Reinsve at the 74nd Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-64403.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-64403.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2926
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-21-00-renate-reinsve-768x432.webp"
+wp_id: 2927
+wp_link: "https://moduscarry.com/renate-reinsve-fjord-interview-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Obsession Nikki Role: 'Comforted' Her"
 seo_description: "Inde Navarrette says her Obsession role as Nikki Freeman comforted her, and she recalls walking dogs and streaming while auditions went nowhere."
 focus_keyword: "Inde Navarrette Obsession Nikki"
 permalink: "inde-navarrette-obsession-nikki"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 21:00"
 celebrity: "Inde Navarrette"
@@ -14,6 +14,15 @@ tags: ["Inde Navarrette", "X-Men"]
 image_prompt: "A quiet empty cinema auditorium with a single glowing screen and rows of red seats in soft light."
 sources:
   - "https://ca.style.yahoo.com/inde-navarrette-feels-comforted-obsession-100000177.html"
+image: "images/2026-11-18-21-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_01.jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_01.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2914
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-21-00-inde-navarrette-768x432.webp"
+wp_id: 2915
+wp_link: "https://moduscarry.com/inde-navarrette-obsession-nikki/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -24,6 +24,7 @@ wp_id: 2847
 wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-billy-evans/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

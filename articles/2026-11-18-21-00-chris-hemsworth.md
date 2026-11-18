@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Avengers: Doomsday and MMA Fight Talk"
 seo_description: "Chris Hemsworth reunites with Robert Downey Jr. and Chris Evans in Avengers: Doomsday, and his MMA comments are back in the spotlight. Here is what is confirmed."
 focus_keyword: "Chris Hemsworth Avengers Doomsday"
 permalink: "chris-hemsworth-avengers-doomsday-mma"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 21:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,15 @@ image_prompt: "A dimly lit boxing gym at dawn with a heavy bag swinging and a ci
 sources:
   - "https://www.tomsguide.com/entertainment/movies/avengers-doomsday-reunites-robert-downey-jr-chris-hemsworth-and-chris-evans-but-this-is-the-hero-i-cant-wait-to-see-in-marvels-biggest-crossover-yet"
   - "https://www.bosshunting.com.au/entertainment/movies/chris-hemsworth-mma-future"
+image: "images/2026-11-18-21-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2912
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-21-00-chris-hemsworth-768x432.webp"
+wp_id: 2913
+wp_link: "https://moduscarry.com/chris-hemsworth-avengers-doomsday-mma/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

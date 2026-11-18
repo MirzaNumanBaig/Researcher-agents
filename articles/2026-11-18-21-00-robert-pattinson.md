@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Reaction: Fans Split, Bezos Explains"
 seo_description: "Robert Pattinson Bond reaction is mixed: Guardian readers split, Elizabeth Debicki cheers, and Jeff Bezos explains the screen tests."
 focus_keyword: "Robert Pattinson Bond reaction"
 permalink: "robert-pattinson-bond-reaction"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 21:00"
 celebrity: "Robert Pattinson"
@@ -19,6 +19,15 @@ sources:
   - "https://www.indiablooms.com/showbiz/i-texted-him-straight-away-elizabeth-debickis-excited-reaction-to-robert-pattinson-becoming-james-bond/details"
   - "https://inshorts.com/en/news/debicki-calls-pattinson--perfect--choice-for-james-bond-1794989732934"
   - "https://www.theguardian.com/film/2026/nov/18/first-truly-weird-bond-13-things-robert-pattinson-from-heavy-saliva-to-dead-clowns"
+image: "images/2026-11-18-21-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2928
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-21-00-robert-pattinson-768x432.webp"
+wp_id: 2929
+wp_link: "https://moduscarry.com/robert-pattinson-bond-reaction/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

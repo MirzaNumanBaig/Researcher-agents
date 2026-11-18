@@ -5,7 +5,7 @@ seo_title: "Street Fighter Movie Box Office Passes US$100 Million"
 seo_description: "The Street Fighter movie box office tops US$100 million and the film heads to digital on 1 December, but theatre losses show how far it is from profit."
 focus_keyword: "Street Fighter movie box office"
 permalink: "street-fighter-movie-box-office"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 21:00"
 celebrity: "Street Fighter"
@@ -17,6 +17,15 @@ sources:
   - "https://www.koimoi.com/box-office/street-fighter-worldwide-box-office-crosses-100-million-claims-franchises-top-spot/"
   - "https://www.livemint.com/entertainment/street-fighter-removed-from-900-theatres-after-dropping-out-of-us-top-10-why-is-the-film-facing-another-setback-11794851666491.html"
   - "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+image: "images/2026-11-18-21-00-street-fighter.webp"
+image_alt: "Street Fighter: Street Fighter Film Passes US$100m but Falls Short of Profit"
+image_credit: "Image: <a href=\"https://www.wrestlezone.com/news/1672781-street-fighter-movie-digital-release-roman-reigns-cody-rhodes\" rel=\"nofollow noopener\">wrestlezone.com</a> (cropped)"
+wp_media_id: 2932
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-21-00-street-fighter-768x432.webp"
+wp_id: 2933
+wp_link: "https://moduscarry.com/street-fighter-movie-box-office/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Black Doves Season 2 Week Two: No. 2 on Netflix"
 seo_description: "Black Doves season 2 rose to No. 2 on Netflix in its second week with 6.6 million views, over 50% below season 1. Here is what the numbers show."
 focus_keyword: "Black Doves Season 2"
 permalink: "black-doves-season-2-week-two"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-18 21:00"
 celebrity: "Keira Knightley"
@@ -14,6 +14,15 @@ tags: ["Keira Knightley", "Black Doves", "Netflix"]
 image_prompt: "A dimly lit living room at night with a television glowing blue, a remote control on the sofa and a city skyline in the window."
 sources:
   - "https://www.cbr.com/keira-knightley-black-doves-season-2-viewership-drop/"
+image: "images/2026-11-18-21-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Madame Tussauds London - Keira Knightley"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/36708987@N06/3430590331\" rel=\"noopener\">the12thplaya</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://www.flickr.com/photos/36708987@N06/3430590331\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 2918
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-18-21-00-keira-knightley-768x432.webp"
+wp_id: 2919
+wp_link: "https://moduscarry.com/black-doves-season-2-week-two/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -24,6 +24,7 @@ wp_id: 2839
 wp_link: "https://moduscarry.com/black-doves-season-3-renewal/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
