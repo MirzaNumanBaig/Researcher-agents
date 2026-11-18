@@ -1,0 +1,7 @@
+---
+title: "Alexander Skarsgård"
+status: skipped
+skip_reason: "no readable source text"
+batch: "2026-11-18 21:00"
+celebrity: "Alexander Skarsgård"
+---
