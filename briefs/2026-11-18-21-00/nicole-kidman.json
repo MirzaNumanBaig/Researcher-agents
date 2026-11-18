@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-18 21:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Nicole Kidman’s Clever, Rich-Mom Duffel Bag Probably Costs Thousands — So We Found a $46 Alternative",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzhhRElaZGxRYS1fQTFKMjdON0JXYzFZYk45bV82Z2RVNVRqSnctRjVyUGV5ck44QmFHZDZYbEo2T2tVR24tc2NQdzRscjM2d0xvc0NHY3FqODN3MGljWWhqVkI4RlBoVGJ1NTZrMGZOUEh0cnlQUmRyM0tGeDREbUtjeHlxTjZkUkNadTBDa3pWUlhjeXUzTUJ3?oc=5",
+      "published": "2026-11-18T03:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzhhRElaZGxRYS1fQTFKMjdON0JXYzFZYk45bV82Z2RVNVRqSnctRjVyUGV5ck44QmFHZDZYbEo2T2tVR24tc2NQdzRscjM2d0xvc0NHY3FqODN3MGljWWhqVkI4RlBoVGJ1NTZrMGZOUEh0cnlQUmRyM0tGeDREbUtjeHlxTjZkUkNadTBDa3pWUlhjeXUzTUJ3?oc=5",
+          "article_url": "https://shopping.yahoo.com/style/luggage/articles/nicole-kidman-clever-rich-mom-033034873.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/956874ca63d1bbe40ad291a168cefe944d7a24232fe94d1e6f91f49ccad9df65/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_e_commerce_884%2Fdbc1be09bd63be90e2e2d903caf457a0.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/956874ca63d1bbe40ad291a168cefe944d7a24232fe94d1e6f91f49ccad9df65/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_e_commerce_884%2Fdbc1be09bd63be90e2e2d903caf457a0.jpg",
+      "image_source": "https://shopping.yahoo.com/style/luggage/articles/nicole-kidman-clever-rich-mom-033034873.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
+    }
+  ]
+}

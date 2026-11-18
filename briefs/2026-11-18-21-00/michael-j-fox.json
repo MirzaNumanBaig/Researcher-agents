@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-18 21:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "John Mayer and Michael J. Fox recreate Back to the Future history with Johnny B. Goode cover",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOalRVMXdMeHZrNm16MUEyUkwya2ZHajJsTGU0ek1ibThUUlJvVTdscVNCbGdnY2FQY19EZkFtNUswQVpPaTlKeHFoTVJBb3dsNFZjcVlVWUZHQ0JsUGZmNEhvc2ZxNVNQRTVkcWxORjRyMUlpd005NFhpckk5ZURoM1ZpTmdvUWFyOE5RUjlvSQ?oc=5",
+      "published": "2026-11-18T09:56:58+00:00",
+      "outlets": [
+        {
+          "source": "Guitar World",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOalRVMXdMeHZrNm16MUEyUkwya2ZHajJsTGU0ek1ibThUUlJvVTdscVNCbGdnY2FQY19EZkFtNUswQVpPaTlKeHFoTVJBb3dsNFZjcVlVWUZHQ0JsUGZmNEhvc2ZxNVNQRTVkcWxORjRyMUlpd005NFhpckk5ZURoM1ZpTmdvUWFyOE5RUjlvSQ?oc=5",
+          "article_url": "https://www.guitarworld.com/artists/guitarists/john-mayer-michael-j-fox-johnny-b-goode",
+          "image": "https://cdn.mos.cms.futurecdn.net/kaFDvwBgNDp2zLHReoKJa5-2000-80.jpg"
+        }
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/kaFDvwBgNDp2zLHReoKJa5-2000-80.jpg",
+      "image_source": "https://www.guitarworld.com/artists/guitarists/john-mayer-michael-j-fox-johnny-b-goode"
+    }
+  ]
+}

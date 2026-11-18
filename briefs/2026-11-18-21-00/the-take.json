@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-18 21:00",
+  "celebrity": "The Take",
+  "stories": [
+    {
+      "title": "All of Robert Pattinson’s upcoming movies: From ‘The Take’ to ‘The Batman: Part II’",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEJxdVVhd3RkWUp1dWtTQXRKeFVwcnJGZF9KZFNySkI0T3Npa0Zmb1NNU3dKY1JuaGh3aHl6WWphWGdyMUh3OWl0YlNZdkMxVXZZYlBQWlNOb1U1Mk5TYkVYQ0Fwa0xfVHJFanpyX3pJZjVDNk9fZExsOGY4OVBqbVNDMUhFdU5fcFdiV3hWdlBFYkNpMUR1LUgxRXRxYWhXWUFWWXJKMEVQSF9mblFJWk5pWjR2X3dES29jZDBBeDVHUQ?oc=5",
+      "published": "2026-11-18T03:05:40+00:00",
+      "outlets": [
+        {
+          "source": "Lifestyle Asia Hong Kong",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEJxdVVhd3RkWUp1dWtTQXRKeFVwcnJGZF9KZFNySkI0T3Npa0Zmb1NNU3dKY1JuaGh3aHl6WWphWGdyMUh3OWl0YlNZdkMxVXZZYlBQWlNOb1U1Mk5TYkVYQ0Fwa0xfVHJFanpyX3pJZjVDNk9fZExsOGY4OVBqbVNDMUhFdU5fcFdiV3hWdlBFYkNpMUR1LUgxRXRxYWhXWUFWWXJKMEVQSF9mblFJWk5pWjR2X3dES29jZDBBeDVHUQ?oc=5",
+          "article_url": "https://www.lifestyleasia.com/ind/entertainment/movies/upcoming-robert-pattinson-movies-dune-part-three-the-batman-part-two/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    }
+  ]
+}

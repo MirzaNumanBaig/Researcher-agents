@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-18 21:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "Bob Dylan's 1997 'Time Out of Mind' Is Getting a Star-Studded Concert With an Oscar-Nominated Actor",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0FmcGFLMU1nNEFfNmowQmgtMUxycDRWVWt5cVh6WUMwVjlWdmRuZmdQaXR5RVVBZUdtQlh4bVBZcjNyU2M1a1hBOHNoWWt2NEVoaWxsb2U5X0J2a3ZJTnBpS3hwR2dhdDRGN3U4QVh4TWVWNFRqbkFaZ0hNQ1ROUC1QZk8yNEFIWlVRRQ?oc=5",
+      "published": "2026-11-17T22:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Parade Magazine",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0FmcGFLMU1nNEFfNmowQmgtMUxycDRWVWt5cVh6WUMwVjlWdmRuZmdQaXR5RVVBZUdtQlh4bVBZcjNyU2M1a1hBOHNoWWt2NEVoaWxsb2U5X0J2a3ZJTnBpS3hwR2dhdDRGN3U4QVh4TWVWNFRqbkFaZ0hNQ1ROUC1QZk8yNEFIWlVRRQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Bob Dylan Fast Facts",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUgwR213UHdzQk54UGI5UDJ2SWU0UVBqT0p0NGpSd0ZXdGswWTliamxDdUpwdE52Y09wc29zemo5dmpoQWF4WktZWloycjdQSHpjNTBwTUJOeWtmTmJOQktfcVM3bzR2LVcyX1N6QzF0bnNUUndXN2t5TjY2enVLbncxSnBOV2Q1T0V3cQ?oc=5",
+      "published": "2026-11-17T20:44:18+00:00",
+      "outlets": [
+        {
+          "source": "KESQ",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUgwR213UHdzQk54UGI5UDJ2SWU0UVBqT0p0NGpSd0ZXdGswWTliamxDdUpwdE52Y09wc29zemo5dmpoQWF4WktZWloycjdQSHpjNTBwTUJOeWtmTmJOQktfcVM3bzR2LVcyX1N6QzF0bnNUUndXN2t5TjY2enVLbncxSnBOV2Q1T0V3cQ?oc=5",
+          "article_url": "https://kesq.com/news/national-world/cnn-national/2026/11/17/bob-dylan-fast-facts-6/",
+          "image": "https://kesq.b-cdn.net/2023/08/kesq-860x484.jpg"
+        }
+      ],
+      "image": "https://kesq.b-cdn.net/2023/08/kesq-860x484.jpg",
+      "image_source": "https://kesq.com/news/national-world/cnn-national/2026/11/17/bob-dylan-fast-facts-6/"
+    }
+  ]
+}

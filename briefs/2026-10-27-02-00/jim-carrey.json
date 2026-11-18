@@ -97,6 +97,27 @@
       ],
       "image": "https://avi-go.com/images/logo/share_icon.png",
       "image_source": "https://avi-go.com/news/articles/3254f6d3ae94795eea58c33b1ca28ec5"
+    },
+    {
+      "title": "Jim Carrey's Gulfstream V N162JC flies from Van Nuys to Las Vegas in 56 minutes",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EQnNfYkE0OUsyMk5JQlFZTW1YaHpkU0hyRjZCTExESmNhSHVoLXRJUER0ald2X1BWNFNWTkJ6ZzlMeWk1ZVFBMGhrbDVMdDNsVzk1dE9IN282UFlDR0RybUl0ajlzZUNyUnBFVg?oc=5",
+      "published": "2026-11-17T23:19:42+00:00",
+      "outlets": [
+        {
+          "source": "Celebplanes",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EQnNfYkE0OUsyMk5JQlFZTW1YaHpkU0hyRjZCTExESmNhSHVoLXRJUER0ald2X1BWNFNWTkJ6ZzlMeWk1ZVFBMGhrbDVMdDNsVzk1dE9IN282UFlDR0RybUl0ajlzZUNyUnBFVg?oc=5",
+          "article_url": "https://www.celebplanes.com/articles/jim-carrey-flight-33294",
+          "image": "https://www.celebplanes.com/api/flight-image/33294"
+        },
+        {
+          "source": "Avi-Go",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00VE9teDhQRUdQUDJNWmRFOFc1ckdoMDU2cEpFRmRxUjZvVHVTQ3lTazF3U2ZBMXJucS16UkpWcDNoR290REp3NUFRUUxEZ2tPZnZ3R0tyNHBuQ2pqOUNxRWdfNDRabWpDcFhPS0hwQllXbzQ?oc=5",
+          "article_url": "https://avi-go.com/news/articles/3254f6d3ae94795eea58c33b1ca28ec5",
+          "image": "https://avi-go.com/images/logo/share_icon.png"
+        }
+      ],
+      "image": "https://www.celebplanes.com/api/flight-image/33294",
+      "image_source": "https://www.celebplanes.com/articles/jim-carrey-flight-33294"
     }
   ]
 }

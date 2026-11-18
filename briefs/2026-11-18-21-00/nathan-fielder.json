@@ -1,0 +1,55 @@
+{
+  "batch": "2026-11-18 21:00",
+  "celebrity": "Nathan Fielder",
+  "stories": [
+    {
+      "title": "From Dumb Starbucks to dada documentary: everything you need to know about Nathan Fielder",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3R4bjdDdk5sTDR3ZGg3SGN5Mm5KcHQzdXlDeU5xUm9ZSnRtR2pnaUx4UUcyVlZnaERGNUw1c0NNLW5Fb0JZZVlQTDZWQ2NjbzdvT1pwVzBISlRIZzBFMTBiVUc5ZVVwamhJbDZzYnotWUpkVkdDdTVHMDlMc0p3YndfTE5hdTgzV1E?oc=5",
+      "published": "2026-11-18T08:02:00+00:00",
+      "outlets": [
+        {
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3R4bjdDdk5sTDR3ZGg3SGN5Mm5KcHQzdXlDeU5xUm9ZSnRtR2pnaUx4UUcyVlZnaERGNUw1c0NNLW5Fb0JZZVlQTDZWQ2NjbzdvT1pwVzBISlRIZzBFMTBiVUc5ZVVwamhJbDZzYnotWUpkVkdDdTVHMDlMc0p3YndfTE5hdTgzV1E?oc=5",
+          "article_url": "https://www.theguardian.com/film/2026/nov/18/nathan-fielder-you-can-see-everything",
+          "image": "https://i.guim.co.uk/img/media/08d17e003ab321c38f581324883389ad5cc8fc3b/0_351_2523_2017/master/2523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3de1e9ae2ff34263261eb3d38b7d99ed"
+        },
+        {
+          "source": "theguardian.com",
+          "url": "https://www.theguardian.com/film/2026/nov/18/nathan-fielder-you-can-see-everything",
+          "article_url": "",
+          "image": "https://i.guim.co.uk/img/media/08d17e003ab321c38f581324883389ad5cc8fc3b/0_351_2523_2017/master/2523.jpg?width=140&quality=85&auto=format&fit=max&s=83aec173404e15bd6075aae8ff6ab619"
+        }
+      ],
+      "image": "https://i.guim.co.uk/img/media/08d17e003ab321c38f581324883389ad5cc8fc3b/0_351_2523_2017/master/2523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3de1e9ae2ff34263261eb3d38b7d99ed",
+      "image_source": "https://www.theguardian.com/film/2026/nov/18/nathan-fielder-you-can-see-everything"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "You Can See Everything",
+      "release": "2026-09-06",
+      "director": [
+        "Lance Oppenheim",
+        "Nathan Fielder"
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Christopher Abbott"
+      ],
+      "budget_usd": 7000000,
+      "box_office_usd": 93000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 13.29,
+      "rotten_tomatoes": "97% from 229 reviews",
+      "metacritic": "97/100 from 43 critics",
+      "critics_consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+      "critics_overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+        "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+      }
+    }
+  ]
+}

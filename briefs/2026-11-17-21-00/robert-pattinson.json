@@ -535,36 +535,42 @@
       ],
       "image": "https://www.thewrap.com/wp-content/uploads/2026/11/Image-51.jpg",
       "image_source": "https://www.thewrap.com/creative-content/movies/denis-villeneuve-robert-pattinson-james-bond-casting-qualities/"
+    },
+    {
+      "title": "What Denis Villeneuve Was Looking for When Casting Robert Pattinson as His James Bond",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUOVJHdHl5QThuSE9BNFBmX01UaTh3LW5ia01jYmdqLTJHdHJ5SW1QMFItNEpuTW1YM1diNDEzeDN5VElxZ29zVWx5NWttLVJ6ZW1rQ3VBRHNRbXlhNEhhbm1NZ3FuVUhoa0E?oc=5",
+      "published": "2026-11-17T21:48:56+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUOVJHdHl5QThuSE9BNFBmX01UaTh3LW5ia01jYmdqLTJHdHJ5SW1QMFItNEpuTW1YM1diNDEzeDN5VElxZ29zVWx5NWttLVJ6ZW1rQ3VBRHNRbXlhNEhhbm1NZ3FuVUhoa0E?oc=5",
+          "article_url": "https://www.imdb.com/fr/news/ni66116152/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "TheWrap",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjFMM2lFc01PMGYzaE5Fb0h2bTJlTmpmQWtuWG9lSm9DQXd0dlBVS2dxek5XSFdWaGZoa3pNN2NwRmF0cHBVUlJBM0pZLUFDb2h0ZUtLbjdIY2dCWExZNE9qc0dfbU81aVhOR2JfOC1MeE9xOUtSUWpvcWt6SmYzdTF6SUFPdUJ2TEJvZTltSmFxLWd4N1BqVGdfc0UydHlyUWw4aGtwQ1FNRWZ0SWZQdg?oc=5",
+          "article_url": "https://www.thewrap.com/creative-content/movies/denis-villeneuve-robert-pattinson-james-bond-casting-qualities/",
+          "image": "https://www.thewrap.com/wp-content/uploads/2026/11/Image-51.jpg"
+        },
+        {
+          "source": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjgtVlRJM1J4RzRVN2FQNTVvZHZwWjZMbjVSemJDUTBBa0hEVk9MaVpFRWdlQjBZYTlrYmxhZm5VaFo3bWV4bnEzdlkwU1JCUkkxMzdrbGd0aUVLM0ZsbXpHczlOal81cm4zY2UxQlNyYWpKVVd0V3A2V0ZKWEo5U2NmSDRkWFd1Zmk3M1Z0STdiLTNUWDBMVzZHZ0NCVTFrTHBYTjFRamdobjZuOXhtcDh5UEJKNEZKQTdSLV9EX2s?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "hollywoodreporter.com",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-james-bond-cast-news-robert-eggers-werwulf-1236756972/",
+          "article_url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-james-bond-cast-news-robert-eggers-werwulf-1236756972/",
+          "image": ""
+        }
+      ],
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/11/Image-51.jpg",
+      "image_source": "https://www.thewrap.com/creative-content/movies/denis-villeneuve-robert-pattinson-james-bond-casting-qualities/"
     }
   ],
   "film_facts": [
-    {
-      "title": "Primetime",
-      "release": "2026-09-05",
-      "director": [
-        "Lance Oppenheim"
-      ],
-      "cast": [
-        "Robert Pattinson",
-        "Phoebe Bridgers",
-        "Merritt Wever",
-        "Sean Bridgers",
-        "Skyler Gisondo"
-      ],
-      "budget_usd": 14500000,
-      "box_office_usd": 62000000,
-      "scope": "Indie / low budget",
-      "verdict": "Hit",
-      "gross_vs_budget": 4.28,
-      "rotten_tomatoes": "86%",
-      "metacritic": "68/100 from 54 critics",
-      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
-      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Yet it’s hard to know to what end, or to care.\" Nicholas Barber of the BBC gave the film 5 out of 5 stars, calling Pattinson's performance \"extraordinary\" and \"the best performance yet from the most intriguing actor of his generation\".",
-      "sources": {
-        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
-        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
-      }
-    },
     {
       "title": "The Take",
       "release": "2027-01-15",
@@ -590,6 +596,33 @@
       "sources": {
         "wikidata": "https://www.wikidata.org/wiki/Q136231215",
         "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    },
+    {
+      "title": "Primetime",
+      "release": "2026-09-05",
+      "director": [
+        "Lance Oppenheim"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Phoebe Bridgers",
+        "Merritt Wever",
+        "Sean Bridgers",
+        "Skyler Gisondo"
+      ],
+      "budget_usd": 14500000,
+      "box_office_usd": 62000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 4.28,
+      "rotten_tomatoes": "86%",
+      "metacritic": "68/100 from 54 critics",
+      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Manohla Dargis for The New York Times praised Skyler Gisondo and Alex Winter, writing that they added \"emotion\" and \"push the movie into depths it doesn’t remain in\" but otherwise felt that Primetime \"looks good and moves well, and the dark, saturated colors and visual grittiness add some fine Expressionistic texture.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
       }
     }
   ]

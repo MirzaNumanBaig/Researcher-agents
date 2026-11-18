@@ -1,0 +1,46 @@
+{
+  "batch": "2026-11-18 21:00",
+  "celebrity": "Renate Reinsve",
+  "stories": [
+    {
+      "title": "Interview: Renate Reinsve Discusses the Appeal of Starring in ‘Fjord’",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkM3b1ZwdkwzbEFSenI2QmZiS1JUTWpaVWlBS1VDa1lXY29tQ2hqSW5hcThzOE54WDdZX05yNC1RcjU2S0pCQnVQOGNfVVFyTVpYQnc5M2dGQjdlM3dvVno0dFV2T3J6S0h1SVdjN0hFTEltNVJ4ZzZGMVdDTmdYaUlTb0ktODFqcVNiM1BRV2RlOHE3VVZzYTdadUFOZktHUVNVMQ?oc=5",
+      "published": "2026-11-18T06:45:00+00:00",
+      "outlets": [
+        {
+          "source": "Awards Radar",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkM3b1ZwdkwzbEFSenI2QmZiS1JUTWpaVWlBS1VDa1lXY29tQ2hqSW5hcThzOE54WDdZX05yNC1RcjU2S0pCQnVQOGNfVVFyTVpYQnc5M2dGQjdlM3dvVno0dFV2T3J6S0h1SVdjN0hFTEltNVJ4ZzZGMVdDTmdYaUlTb0ktODFqcVNiM1BRV2RlOHE3VVZzYTdadUFOZktHUVNVMQ?oc=5",
+          "article_url": "https://awardsradar.com/2026/11/18/interview-renate-reinsve-discusses-the-appeal-of-starring-in-fjord/",
+          "image": "https://i0.wp.com/awardsradar.com/wp-content/uploads/2026/11/AR-Interview-Renate-Reinsve.jpg?fit=1200%2C675&ssl=1"
+        }
+      ],
+      "image": "https://i0.wp.com/awardsradar.com/wp-content/uploads/2026/11/AR-Interview-Renate-Reinsve.jpg?fit=1200%2C675&ssl=1",
+      "image_source": "https://awardsradar.com/2026/11/18/interview-renate-reinsve-discusses-the-appeal-of-starring-in-fjord/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Butterfly",
+      "release": "2026-09-25",
+      "director": [
+        "Itonje Søimer Guttormsen"
+      ],
+      "cast": [
+        "Renate Reinsve",
+        "Numan Acar"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141559767"
+      }
+    }
+  ]
+}

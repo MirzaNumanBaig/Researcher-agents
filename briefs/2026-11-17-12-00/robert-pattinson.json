@@ -547,36 +547,30 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "Some Thoughts on Robert Pattinson as the New James Bond",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IVE9MRlRYTm1yak5ZbERmOXFOVUJHUkFpNFFjYkpCYWpGaWx2d3BrXzZMV05UMGRCcUN2c19YMXJIWFNqVUxFdmE4S2JmaWZheC1Xc2p0QUN0RU44QUhWMWtpcTRMYVZtOEVlLXlSVHBadw?oc=5",
+      "published": "2026-11-17T23:48:00+00:00",
+      "outlets": [
+        {
+          "source": "Opus",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IVE9MRlRYTm1yak5ZbERmOXFOVUJHUkFpNFFjYkpCYWpGaWx2d3BrXzZMV05UMGRCcUN2c19YMXJIWFNqVUxFdmE4S2JmaWZheC1Xc2p0QUN0RU44QUhWMWtpcTRMYVZtOEVlLXlSVHBadw?oc=5",
+          "article_url": "https://opus.ing/p/some-thoughts-robert-pattinson-new-james-bond",
+          "image": "https://opus.ing/_assets/entries/robert-pattinson-007.webp"
+        },
+        {
+          "source": "deadline.com",
+          "url": "https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666/",
+          "article_url": "",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/Robert-Pattinson-James-Bond.jpg"
+        }
+      ],
+      "image": "https://opus.ing/_assets/entries/robert-pattinson-007.webp",
+      "image_source": "https://opus.ing/p/some-thoughts-robert-pattinson-new-james-bond"
     }
   ],
   "film_facts": [
-    {
-      "title": "Primetime",
-      "release": "2026-09-05",
-      "director": [
-        "Lance Oppenheim"
-      ],
-      "cast": [
-        "Robert Pattinson",
-        "Phoebe Bridgers",
-        "Merritt Wever",
-        "Sean Bridgers",
-        "Skyler Gisondo"
-      ],
-      "budget_usd": 14500000,
-      "box_office_usd": 62000000,
-      "scope": "Indie / low budget",
-      "verdict": "Hit",
-      "gross_vs_budget": 4.28,
-      "rotten_tomatoes": "86%",
-      "metacritic": "68/100 from 54 critics",
-      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
-      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Yet it’s hard to know to what end, or to care.\" Nicholas Barber of the BBC gave the film 5 out of 5 stars, calling Pattinson's performance \"extraordinary\" and \"the best performance yet from the most intriguing actor of his generation\".",
-      "sources": {
-        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
-        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
-      }
-    },
     {
       "title": "The Take",
       "release": "2027-01-15",
@@ -602,6 +596,33 @@
       "sources": {
         "wikidata": "https://www.wikidata.org/wiki/Q136231215",
         "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    },
+    {
+      "title": "Primetime",
+      "release": "2026-09-05",
+      "director": [
+        "Lance Oppenheim"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Phoebe Bridgers",
+        "Merritt Wever",
+        "Sean Bridgers",
+        "Skyler Gisondo"
+      ],
+      "budget_usd": 14500000,
+      "box_office_usd": 62000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 4.28,
+      "rotten_tomatoes": "86%",
+      "metacritic": "68/100 from 54 critics",
+      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Manohla Dargis for The New York Times praised Skyler Gisondo and Alex Winter, writing that they added \"emotion\" and \"push the movie into depths it doesn’t remain in\" but otherwise felt that Primetime \"looks good and moves well, and the dark, saturated colors and visual grittiness add some fine Expressionistic texture.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
       }
     }
   ]
