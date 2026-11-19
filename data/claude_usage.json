@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-10-31",
-   "time": "2026-10-31T02:06:27+00:00",
-   "batch": "2026-10-31 12:00",
-   "celebrity": "Margot Robbie",
-   "article": "2026-10-31-12-00-margot-robbie.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1092,
-   "cache_read_tokens": 104792,
-   "cache_write_tokens": 18061,
-   "turns": 7,
-   "seconds": 11,
-   "cost_usd": 0.0938
-  },
-  {
-   "date": "2026-10-31",
    "time": "2026-10-31T02:07:00+00:00",
    "batch": "2026-10-31 12:00",
    "celebrity": "Miranda Kerr",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 11,
    "cost_usd": 0.1074
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T20:20:15+00:00",
+   "batch": "2026-11-20 05:00",
+   "celebrity": "Tom Hardy",
+   "article": "2026-11-20-05-00-tom-hardy.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4848,
+   "cache_read_tokens": 131733,
+   "cache_write_tokens": 33205,
+   "turns": 7,
+   "seconds": 34,
+   "cost_usd": 0.1946
   }
  ]
 }
