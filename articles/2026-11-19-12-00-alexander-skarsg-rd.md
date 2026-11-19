@@ -23,6 +23,7 @@ wp_id: 2971
 wp_link: "https://moduscarry.com/wicker-red-carpet-looks/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
