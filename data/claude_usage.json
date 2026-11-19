@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-10-30",
-   "time": "2026-10-30T22:55:08+00:00",
-   "batch": "2026-10-31 09:00",
-   "celebrity": "Kylie Minogue",
-   "article": "2026-10-31-09-00-kylie-minogue.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 6,
-   "output_tokens": 844,
-   "cache_read_tokens": 74332,
-   "cache_write_tokens": 19520,
-   "turns": 6,
-   "seconds": 7,
-   "cost_usd": 0.0941
-  },
-  {
-   "date": "2026-10-30",
    "time": "2026-10-30T22:56:48+00:00",
    "batch": "2026-10-31 09:00",
    "celebrity": "Margot Robbie",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 36,
    "cost_usd": 0.2095
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T20:05:34+00:00",
+   "batch": "2026-11-20 05:00",
+   "celebrity": "Russell Brand",
+   "article": "2026-11-20-05-00-russell-brand.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 18,
+   "output_tokens": 7845,
+   "cache_read_tokens": 421951,
+   "cache_write_tokens": 43432,
+   "turns": 13,
+   "seconds": 53,
+   "cost_usd": 0.2946
   }
  ]
 }
