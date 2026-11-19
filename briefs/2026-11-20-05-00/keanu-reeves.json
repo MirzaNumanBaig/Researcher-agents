@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-20 05:00",
+  "celebrity": "Keanu Reeves",
+  "stories": [
+    {
+      "title": "Student from North Haven presents award to Keanu Reeves",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHAtOVY4M0l5LVBnQkNTVU9UWWNINXF3ZUs2Q2FDbEptOVNkbXFpWDIyOGo5cnpLeDRxazdWZFNCQUFZbF8zeGZaWkk1bU1EVkRwUERoQWk2REU0TGZtWDNaMzM1cGdCbHRZRWIyZ3huZFluQ1Z2d19JVmxqRE1qSjFkVURtVV82U1JR?oc=5",
+      "published": "2026-11-19T13:33:53+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHAtOVY4M0l5LVBnQkNTVU9UWWNINXF3ZUs2Q2FDbEptOVNkbXFpWDIyOGo5cnpLeDRxazdWZFNCQUFZbF8zeGZaWkk1bU1EVkRwUERoQWk2REU0TGZtWDNaMzM1cGdCbHRZRWIyZ3huZFluQ1Z2d19JVmxqRE1qSjFkVURtVV82U1JR?oc=5",
+          "article_url": "https://www.yahoo.com/news/videos/student-north-haven-presents-award-133353421.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/d88f18026739143e789e32109792689b0694a3ad1191379e683257c74d890f46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwtnh-hartford%2F208192216ac5157285e62f9e2ccc818e.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/d88f18026739143e789e32109792689b0694a3ad1191379e683257c74d890f46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwtnh-hartford%2F208192216ac5157285e62f9e2ccc818e.jpg",
+      "image_source": "https://www.yahoo.com/news/videos/student-north-haven-presents-award-133353421.html"
+    },
+    {
+      "title": "Keanu Reeves' 27-Year-Old Cyberpunk Classic Resurfaces as a Free Streaming Hit",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Rd1Y2MXNqbkZ1eUFJVml1NTN1MVhXTFhhRzhJU2lQbkZYbHBkNE90Tl9WYV95b3RKYmg1cDF2VWFUUzF6RHhPSXRveTJVcFNiV1hxV0I4TjB2R2l2ZE5lUnNqQUR3TVp0UGVFZHlQbUhXUEpDR0Vxdw?oc=5",
+      "published": "2026-11-19T03:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Comic Book Resources",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Rd1Y2MXNqbkZ1eUFJVml1NTN1MVhXTFhhRzhJU2lQbkZYbHBkNE90Tl9WYV95b3RKYmg1cDF2VWFUUzF6RHhPSXRveTJVcFNiV1hxV0I4TjB2R2l2ZE5lUnNqQUR3TVp0UGVFZHlQbUhXUEpDR0Vxdw?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Kill Current: Everything We Know About Keanu Reeves’ New Action Movie",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmNUTnoxZEprVWFLNjBPYWt5S3ZMTDFMa1pZbzQwRS1VUmh2M3J3NXYzakFwekk0em1uQWF4V3FvMkNWaDFfZHV4dF9rVTlDeXZxXzRiVWxLQ0ZNWTExT2l6QlhGazk5T2M5eEtydTZ5cEhYTWNGNTBXRC1ucy1UVkNhcU9CQk5Fd0RKZG9PeUo4MFFqZUE?oc=5",
+      "published": "2026-11-17T21:39:24+00:00",
+      "outlets": [
+        {
+          "source": "TVovermind",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmNUTnoxZEprVWFLNjBPYWt5S3ZMTDFMa1pZbzQwRS1VUmh2M3J3NXYzakFwekk0em1uQWF4V3FvMkNWaDFfZHV4dF9rVTlDeXZxXzRiVWxLQ0ZNWTExT2l6QlhGazk5T2M5eEtydTZ5cEhYTWNGNTBXRC1ucy1UVkNhcU9CQk5Fd0RKZG9PeUo4MFFqZUE?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

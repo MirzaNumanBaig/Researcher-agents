@@ -397,6 +397,56 @@
       ],
       "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-12%2Fj82ba41o%2Fimages.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "image_source": "https://www.newindianexpress.com/entertainment/2026/Nov/12/englishnews2026nov11jacob-elordi-to-produce-and-star-in-the-executioners-song-adaptation"
+    },
+    {
+      "title": "Kendall Jenner Reveals Red Flags Amid Jacob Elordi Romance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0FVUGlMbDVES0JvWWh5LVE3YmJpMDl2ZXlHTFhieW1kUlFsbkYtRkl6SWFfeElFd2NRY3IzV1VYZFNfejNxZWR4NjJ1VF95NmJOcXd2M1N2T2ZmaHViQVJtUnBQX1I1c3dDQ1VBTDA2a1V6LVctTU82UkVoaXJTNkpzTVYtYjdyOUtmMDlfeWhoTzBjNUl2bGJhZ1lWR1dtRTd3TQ?oc=5",
+      "published": "2026-11-19T15:41:56+00:00",
+      "outlets": [
+        {
+          "source": "StyleCaster",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0FVUGlMbDVES0JvWWh5LVE3YmJpMDl2ZXlHTFhieW1kUlFsbkYtRkl6SWFfeElFd2NRY3IzV1VYZFNfejNxZWR4NjJ1VF95NmJOcXd2M1N2T2ZmaHViQVJtUnBQX1I1c3dDQ1VBTDA2a1V6LVctTU82UkVoaXJTNkpzTVYtYjdyOUtmMDlfeWhoTzBjNUl2bGJhZ1lWR1dtRTd3TQ?oc=5",
+          "article_url": "https://stylecaster.com/entertainment/celebrity-news/1234973669/kendall-jenner-jacob-elordi-red-flags/",
+          "image": "https://stylecaster.com/wp-content/uploads/2026/11/kendall-jenner-jacob-elordi-red-flags.jpg?w=650"
+        },
+        {
+          "source": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnJ1UHlWa19DNzNKRHhTZkJuMDlxY29lS2pkMmJ1c2p2T0ZPaTJvMk9VNDlxUkNzOFB6b19TQlZLSFkzYmJnUnlLSlZMRjg4emJvMWtoVV9WUERmRmZsVXBBbHVzeHJMLXpQWmFsLUtKU18wQUkwMHdKN2pWUXQtQzQ3VjFPZE9lUjZqRjZzVWNhNHFHVVBBT0hXdjdIN25EeVpr?oc=5",
+          "article_url": "https://www.geo.tv/latest/690487-kendall-jenner-makes-surprising-confession-amid-jacob-elordi-romance",
+          "image": "https://www.geo.tv/assets/uploads/updates/2026-11-10/690487_024244_updates.jpg"
+        }
+      ],
+      "image": "https://stylecaster.com/wp-content/uploads/2026/11/kendall-jenner-jacob-elordi-red-flags.jpg?w=650",
+      "image_source": "https://stylecaster.com/entertainment/celebrity-news/1234973669/kendall-jenner-jacob-elordi-red-flags/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Dog Stars",
+      "release": "2026-08-26",
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Jacob Elordi",
+        "Margaret Qualley",
+        "Josh Brolin",
+        "Guy Pearce",
+        "Benedict Wong"
+      ],
+      "budget_usd": 70000000,
+      "box_office_usd": 39000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 0.56,
+      "rotten_tomatoes": "41%",
+      "metacritic": "49/100 from 46 critics",
+      "critics_consensus": "A derivative and drowsy tour through the post-apocalypse, The Dog Stars' lush visuals can't compensate for its listless narrative and underpowered pacing.",
+      "critics_overview": "In the United States and Canada, The Dog Stars was released alongside Buddy, Coyote vs. Robert Daniels of RogerEbert.com gave the film one and a half out of four stars, writing, \"It probably takes more effort to make a boring post-apocalyptic survivalist action film than to make a good one.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132256832",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Dog_Stars_(film)"
+      }
     }
   ]
 }

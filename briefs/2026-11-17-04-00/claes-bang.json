@@ -1,0 +1,48 @@
+{
+  "batch": "2026-11-17 04:00",
+  "celebrity": "Claes Bang",
+  "stories": [
+    {
+      "title": "'Game of Thrones' Meets Jack Reacher in Alexander Skarsgård's Near-Perfect Action Epic",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnN5a3JGV2FjX2IxZnZhQ3pNUkZieUlEc3BJbUhmc0QzbHhWTDhpTTFPRmdIeEEwNTB2ZFhlVGk0X2F1eUN3TFVUV1Z6S0hjczVEb2dvV0NhMWJ5emZ3ZU5lQjJiMHJhM2dZSWFBenhvYzdyNWttc2FCc1Z1SEh3blYwZVFiaWZEd3BRTG81ZW5kQ1VXY3V5bzZXOTJMVnV3Ym9GMw?oc=5",
+      "published": "2026-11-16T04:19:00+00:00",
+      "outlets": [
+        {
+          "source": "Collider",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnN5a3JGV2FjX2IxZnZhQ3pNUkZieUlEc3BJbUhmc0QzbHhWTDhpTTFPRmdIeEEwNTB2ZFhlVGk0X2F1eUN3TFVUV1Z6S0hjczVEb2dvV0NhMWJ5emZ3ZU5lQjJiMHJhM2dZSWFBenhvYzdyNWttc2FCc1Z1SEh3blYwZVFiaWZEd3BRTG81ZW5kQ1VXY3V5bzZXOTJMVnV3Ym9GMw?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "I Is Another",
+      "release": "2026-08-07",
+      "director": [
+        "Felix Randau"
+      ],
+      "cast": [
+        "Claes Bang",
+        "Valerie Pachner",
+        "Markus Meyer",
+        "Susanne Wuest"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q140472786"
+      }
+    }
+  ]
+}

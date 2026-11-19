@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-20 05:00",
+  "celebrity": "Jim Carrey",
+  "stories": [
+    {
+      "title": "In 1992, Jim Carrey was snubbed by the biggest movie of all time. Two years later, he was making Hollywood history",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzN6NUVZVmpfVF9GYzl5TUY0VGdPV282a3dSQ1hZRnVLS2pVSW9Ba1JzZmVVa0toR2I2cUo1Rnk0RmFoV0NpMUQ3RHAzczRtQUxkOEFyMHZmbnE4WktLdEwxVk5EMFUwTnhJMFlYb1ItUDNPSTZONWNKdWpLQlZCUmgtZHVQQmlHak94R0tqeWdESW9XVlVRaFZWVXhjSDN2YWtrb1RzbFZMMlQwUTRocUNEYw?oc=5",
+      "published": "2026-11-19T17:45:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzN6NUVZVmpfVF9GYzl5TUY0VGdPV282a3dSQ1hZRnVLS2pVSW9Ba1JzZmVVa0toR2I2cUo1Rnk0RmFoV0NpMUQ3RHAzczRtQUxkOEFyMHZmbnE4WktLdEwxVk5EMFUwTnhJMFlYb1ItUDNPSTZONWNKdWpLQlZCUmgtZHVQQmlHak94R0tqeWdESW9XVlVRaFZWVXhjSDN2YWtrb1RzbFZMMlQwUTRocUNEYw?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/jim-carrey-snubbed-by-biggest-movie-all-time-2-years-later-making-hollywood-history/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/05/Jim-Carrey-Actor-1994-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/05/Jim-Carrey-Actor-1994-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/jim-carrey-snubbed-by-biggest-movie-all-time-2-years-later-making-hollywood-history/"
+    },
+    {
+      "title": "Ron Howard Says He and Jim Carrey Won't Make Another 'Grinch' Movie Without a 'Great Script'",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTVMYi11MWRmYWZvZURvQnYyTy1fWnhjdnpvNFJuWExDYkpyTDFWZmtLVjZ5bGgxTjAxWHV6SWhvMHJUSTBrUk5yekJ4R1czVnE1U1BCZVoxQXQtbHRJOHRYMElRX2MxQkh4cmk5ZHZwZWhlRGxsNWFCbUF0aDZMVUJqNmJCNWVVdnJ4SWszd2ItTzJycDVsVQ?oc=5",
+      "published": "2026-11-19T14:30:48+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTVMYi11MWRmYWZvZURvQnYyTy1fWnhjdnpvNFJuWExDYkpyTDFWZmtLVjZ5bGgxTjAxWHV6SWhvMHJUSTBrUk5yekJ4R1czVnE1U1BCZVoxQXQtbHRJOHRYMElRX2MxQkh4cmk5ZHZwZWhlRGxsNWFCbUF0aDZMVUJqNmJCNWVVdnJ4SWszd2ItTzJycDVsVQ?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/movies/articles/ron-howard-says-jim-carrey-143048799.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/a8c42a6919dbfe616edc3d85772b93909406e540fb1fefc9f558d40fd4592933/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F1754494960a61a0c0ce186e0b90f5af4.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/a8c42a6919dbfe616edc3d85772b93909406e540fb1fefc9f558d40fd4592933/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F1754494960a61a0c0ce186e0b90f5af4.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/movies/articles/ron-howard-says-jim-carrey-143048799.html"
+    }
+  ]
+}

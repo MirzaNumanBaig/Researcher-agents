@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-20 05:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "Russell Crowe Action Thriller Also Starring Liam Neeson Released 16 Years Ago Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEZZdklVaDE5YkMtNXl1QmhKM3kzUWczUmVvb3lYYmJkWTF0b2NoeGt0Z2VNXzZ5dmNXV2R5Q1dOV3VIS3pWanBUVnB4VzR5UjhuaXhxZ0Y3cmw4YnhWQUZ2bW5KSm03RW1vR2JQNF9XOW51bmFENnJXWThRYTloclp6bE92OGNRcjlYV1ZtM3R3cFFROE9GWlZYTUFLN095VHJvdEl6LTFpMTBUb1NOYnVCVTF6S2c?oc=5",
+      "published": "2026-11-19T11:35:00+00:00",
+      "outlets": [
+        {
+          "source": "Men's Journal",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEZZdklVaDE5YkMtNXl1QmhKM3kzUWczUmVvb3lYYmJkWTF0b2NoeGt0Z2VNXzZ5dmNXV2R5Q1dOV3VIS3pWanBUVnB4VzR5UjhuaXhxZ0Y3cmw4YnhWQUZ2bW5KSm03RW1vR2JQNF9XOW51bmFENnJXWThRYTloclp6bE92OGNRcjlYV1ZtM3R3cFFROE9GWlZYTUFLN095VHJvdEl6LTFpMTBUb1NOYnVCVTF6S2c?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Unabomber",
+      "release": "2026-09-25",
+      "director": [
+        "Janus Metz Pedersen"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "25%",
+      "metacritic": "46/100 from 18 critics",
+      "critics_consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+      "critics_overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+      }
+    }
+  ]
+}

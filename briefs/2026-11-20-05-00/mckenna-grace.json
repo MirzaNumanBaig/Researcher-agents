@@ -1,0 +1,47 @@
+{
+  "batch": "2026-11-20 05:00",
+  "celebrity": "Mckenna Grace",
+  "stories": [
+    {
+      "title": "McKenna Grace and Joseph Zada Reveal Matching Tattoos",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXZoNTBMOV9UY0FVQUF3dE8tTG85dnJSU0lvT3BVZUYxWUdaMEJpQ0NLZm52OW5QcGY5ZC1pRGZYNGxIamFyVDFOMS1ka3J4Nk1SSFRhcFNCak9XZEZHenE5NHI0eXQ2MXhXWVQtaHVZM3VDMnV2QVdINmRzLXRyUTZELTAzc1NGTEE?oc=5",
+      "published": "2026-11-19T18:22:30+00:00",
+      "outlets": [
+        {
+          "source": "InkedMag",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXZoNTBMOV9UY0FVQUF3dE8tTG85dnJSU0lvT3BVZUYxWUdaMEJpQ0NLZm52OW5QcGY5ZC1pRGZYNGxIamFyVDFOMS1ka3J4Nk1SSFRhcFNCak9XZEZHenE5NHI0eXQ2MXhXWVQtaHVZM3VDMnV2QVdINmRzLXRyUTZELTAzc1NGTEE?oc=5",
+          "article_url": "https://inkedmag.com/culture/mckenna-grace-and-joseph-zada-reveal-matching-tattoos",
+          "image": "https://inkedmag.com/wp-content/uploads/2026/11/mckennagraceful_1794938467_4032558465418165815_193803613.webp"
+        }
+      ],
+      "image": "https://inkedmag.com/wp-content/uploads/2026/11/mckennagraceful_1794938467_4032558465418165815_193803613.webp",
+      "image_source": "https://inkedmag.com/culture/mckenna-grace-and-joseph-zada-reveal-matching-tattoos"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Last Kiss",
+      "release": "2026-09-15",
+      "director": [
+        "Yoko Okumura"
+      ],
+      "cast": [
+        "Mckenna Grace",
+        "Jaden Michael"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141430687",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Kiss_(2026_film)"
+      }
+    }
+  ]
+}
