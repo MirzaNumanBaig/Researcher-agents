@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-10-29",
-   "time": "2026-10-29T21:09:25+00:00",
-   "batch": "2026-10-30 07:00",
-   "celebrity": "Jim Carrey",
-   "article": "2026-10-30-07-00-jim-carrey.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 6,
-   "output_tokens": 951,
-   "cache_read_tokens": 73001,
-   "cache_write_tokens": 18235,
-   "turns": 6,
-   "seconds": 9,
-   "cost_usd": 0.0899
-  },
-  {
-   "date": "2026-10-29",
    "time": "2026-10-29T21:11:04+00:00",
    "batch": "2026-10-30 07:00",
    "celebrity": "Keanu Reeves",
@@ -23999,6 +23983,22 @@
    "turns": 6,
    "seconds": 10,
    "cost_usd": 0.0951
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T11:28:32+00:00",
+   "batch": "2026-11-19 06:00",
+   "celebrity": "Jason Sudeikis",
+   "article": "2026-11-19-06-00-jason-sudeikis.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 1563,
+   "cache_read_tokens": 197156,
+   "cache_write_tokens": 24655,
+   "turns": 9,
+   "seconds": 21,
+   "cost_usd": 0.1341
   }
  ]
 }
