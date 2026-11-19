@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-10-29",
-   "time": "2026-10-29T08:20:25+00:00",
-   "batch": "2026-10-29 18:00",
-   "celebrity": "Russell Crowe",
-   "article": "2026-10-29-18-00-russell-crowe.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 3657,
-   "cache_read_tokens": 157646,
-   "cache_write_tokens": 27466,
-   "turns": 8,
-   "seconds": 36,
-   "cost_usd": 0.1624
-  },
-  {
-   "date": "2026-10-29",
    "time": "2026-10-29T15:10:35+00:00",
    "batch": "2026-10-30 02:00",
    "celebrity": "Cate Blanchett",
@@ -23999,6 +23983,22 @@
    "turns": 8,
    "seconds": 15,
    "cost_usd": 0.1414
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T10:44:23+00:00",
+   "batch": "2026-11-19 12:00",
+   "celebrity": "James Blunt",
+   "article": "2026-11-19-12-00-james-blunt.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 3873,
+   "cache_read_tokens": 168817,
+   "cache_write_tokens": 29194,
+   "turns": 8,
+   "seconds": 36,
+   "cost_usd": 0.1725
   }
  ]
 }
