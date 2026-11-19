@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-15 07:00",
+  "celebrity": "Street Fighter",
+  "stories": [
+    {
+      "title": "Margot Robbie Boards \"The Drama\" Director’s Next Film — Green Lantern Star Aaron Pierre Lands New Action Thriller From \"Sisu\" Filmmaker",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rUUJvNEVZZnl3MFBVWGhNazVnSnFZU2lublZJeGY4OG5nUXhkRS03aDEyWWJUSXdWTWFrX0JOX1Fqc0s1YWk1M0RVYS11WEE1?oc=5",
+      "published": "2026-11-14T10:54:11+00:00",
+      "outlets": [
+        {
+          "source": "玩具人 TOY PEOPLE",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rUUJvNEVZZnl3MFBVWGhNazVnSnFZU2lublZJeGY4OG5nUXhkRS03aDEyWWJUSXdWTWFrX0JOX1Fqc0s1YWk1M0RVYS11WEE1?oc=5",
+          "article_url": "https://www.toy-people.com/en/?p=116545",
+          "image": "https://img.toy-people.com/member/179465225034.jpg"
+        }
+      ],
+      "image": "https://img.toy-people.com/member/179465225034.jpg",
+      "image_source": "https://www.toy-people.com/en/?p=116545"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Street Fighter",
+      "release": "2026-10-12",
+      "director": [
+        "Kitao Sakurai"
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Cody Rhodes",
+        "Orville Peck"
+      ],
+      "budget_usd": 82000000,
+      "box_office_usd": 100800000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.23,
+      "rotten_tomatoes": "42%",
+      "metacritic": "43/100 from 28 critics",
+      "critics_consensus": "The latest iteration of Street Fighter has plenty of affection for its source material and doesn't lack for dizzying style, but its incoherent storytelling and juvenile humor make for a disappointing regression among video game adaptations.",
+      "critics_overview": "It received a 65% definite recommend for children under 12. The audience was 30% Latino and Hispanic, 29% Caucasian, 21% Black, 14% Asian American and 6% Native American or Other.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q130345436",
+        "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+      }
+    }
+  ]
+}

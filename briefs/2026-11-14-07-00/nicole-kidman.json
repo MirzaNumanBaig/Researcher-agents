@@ -31,6 +31,50 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "Ten songs named after famous people from Nicole Kidman to Elon Musk",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUVxQUdpcndteHJjcFR0TERNSHBIU3JIZ1hGM1BOUGl3aEI1M3pmR0ozMjJRQ2JTN1NsWmpXLWxhbVlhbzJRaURxZE84eEJ6ZGNFd1M5ZUt5U25TOEllaTNCOVQwbTRGd1hwd0JzdEVIMW5LQ1ZsUmM5bmRDNFNwMjg1VWZ3aklVUTVFWkgyaG9lM21nZ3laZmRhQzhoQ05QWnc?oc=5",
+      "published": "2026-11-13T16:02:10+00:00",
+      "outlets": [
+        {
+          "source": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUVxQUdpcndteHJjcFR0TERNSHBIU3JIZ1hGM1BOUGl3aEI1M3pmR0ozMjJRQ2JTN1NsWmpXLWxhbVlhbzJRaURxZE84eEJ6ZGNFd1M5ZUt5U25TOEllaTNCOVQwbTRGd1hwd0JzdEVIMW5LQ1ZsUmM5bmRDNFNwMjg1VWZ3aklVUTVFWkgyaG9lM21nZ3laZmRhQzhoQ05QWnc?oc=5",
+          "article_url": "https://www.rnz.co.nz/life/music/ten-songs-named-after-famous-people-from-nicole-kidman-to-elon-musk",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--mlhItGec--/t_tohu-badge-facebook/f_auto/q_auto/4JFBSHI_graphics_avif"
+        }
+      ],
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--mlhItGec--/t_tohu-badge-facebook/f_auto/q_auto/4JFBSHI_graphics_avif",
+      "image_source": "https://www.rnz.co.nz/life/music/ten-songs-named-after-famous-people-from-nicole-kidman-to-elon-musk"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
     }
   ]
 }

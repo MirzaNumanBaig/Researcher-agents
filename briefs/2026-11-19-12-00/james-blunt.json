@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-19 12:00",
+  "celebrity": "James Blunt",
+  "stories": [
+    {
+      "title": "James Blunt vowed to change his name if fans sent his new album to Number 1",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEM4ZDZ5Yl81SEZTdzM5aWhsU0IyQnpscFZnTXZ1dTFRSXY5bzZmdkJoeGwwVDZKRWk2MExtdEk2UlVRMHFJQmNuS1JnQXRWdjFQUEpNRS1sdjRhVW9handGVEt2bHlLWnVLczRHR1pDeHFuaFR5VmlCY1lESGRSTVdnYkFxbGtjZm9yZHdn?oc=5",
+      "published": "2026-11-18T21:20:27+00:00",
+      "outlets": [
+        {
+          "source": "Guitar Player",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEM4ZDZ5Yl81SEZTdzM5aWhsU0IyQnpscFZnTXZ1dTFRSXY5bzZmdkJoeGwwVDZKRWk2MExtdEk2UlVRMHFJQmNuS1JnQXRWdjFQUEpNRS1sdjRhVW9handGVEt2bHlLWnVLczRHR1pDeHFuaFR5VmlCY1lESGRSTVdnYkFxbGtjZm9yZHdn?oc=5",
+          "article_url": "https://www.guitarplayer.com/guitarists/james-blunt-name-change-ryan-air-aiplane-mode",
+          "image": "https://cdn.mos.cms.futurecdn.net/U6Sf76ffPzqrSXeUjbejzb-2000-80.jpg"
+        }
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/U6Sf76ffPzqrSXeUjbejzb-2000-80.jpg",
+      "image_source": "https://www.guitarplayer.com/guitarists/james-blunt-name-change-ryan-air-aiplane-mode"
+    },
+    {
+      "title": "James Blunt Just Legally Changed His Name, And The New One Is So Ridiculous People Can't Believe It's Real",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XVVJlMGhyOU9Gcm0xVGxzYkpkX200a0owZUJRY2NQemlsdmlxN3plVEpubFR3dmFRZUdNZnl3N01zczY0b25jZXNxQllnUkxHSG54UjZVU3VLd0NOdTdSYnJjLXBwcGY3c0dkeGJxUEJHM0lTaFNFNEFXSVBidW8?oc=5",
+      "published": "2026-11-18T21:18:16+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo Lifestyle Canada",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XVVJlMGhyOU9Gcm0xVGxzYkpkX200a0owZUJRY2NQemlsdmlxN3plVEpubFR3dmFRZUdNZnl3N01zczY0b25jZXNxQllnUkxHSG54UjZVU3VLd0NOdTdSYnJjLXBwcGY3c0dkeGJxUEJHM0lTaFNFNEFXSVBidW8?oc=5",
+          "article_url": "https://ca.style.yahoo.com/james-blunt-just-legally-changed-211816012.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/4c23c2862260044010778722564a5659661ac8680ae21c16885d30e1a7ff00c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbored_panda_ca_576%2F2bbfa0a5012372d3cdd7ff9afc6bca20.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/4c23c2862260044010778722564a5659661ac8680ae21c16885d30e1a7ff00c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbored_panda_ca_576%2F2bbfa0a5012372d3cdd7ff9afc6bca20.jpg",
+      "image_source": "https://ca.style.yahoo.com/james-blunt-just-legally-changed-211816012.html"
+    }
+  ]
+}

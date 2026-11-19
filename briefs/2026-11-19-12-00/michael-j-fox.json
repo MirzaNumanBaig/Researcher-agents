@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-19 12:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "John Mayer Transports Michael J. Fox Back to the Future With Chuck Berry Performance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFZrV0JaaVo2bzNrZE1yZmJYYXNpeFpTWGlLWVF3MDdmNkZsWF9KMlQyMTM5cHlJdWdyM2pSWVdsUkgtZ2RKNTNTb003dW1qY3pTQjlfUkFuNWt5UU1idjItTkJpLXQ2Q19yTEVSd0l3SEVCeTc0Y2FudWxWelpvdkFvbjVWd1NWSFlyT0dRU2JmY29fWnV4WFgzN2E0WExzRFUwM2t6MjU1c05FdFd3?oc=5",
+      "published": "2026-11-18T21:54:58+00:00",
+      "outlets": [
+        {
+          "source": "Rolling Stone",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFZrV0JaaVo2bzNrZE1yZmJYYXNpeFpTWGlLWVF3MDdmNkZsWF9KMlQyMTM5cHlJdWdyM2pSWVdsUkgtZ2RKNTNTb003dW1qY3pTQjlfUkFuNWt5UU1idjItTkJpLXQ2Q19yTEVSd0l3SEVCeTc0Y2FudWxWelpvdkFvbjVWd1NWSFlyT0dRU2JmY29fWnV4WFgzN2E0WExzRFUwM2t6MjU1c05FdFd3?oc=5",
+          "article_url": "https://www.rollingstone.com/music/music-news/john-mayer-michael-j-fox-brad-paisley-johnny-b-goode-1235660446/",
+          "image": "https://www.rollingstone.com/wp-content/uploads/2026/11/john-mayer-michael-j-fox.jpg?crop=0px%2C40px%2C1800px%2C1015px&resize=1600%2C900"
+        }
+      ],
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/11/john-mayer-michael-j-fox.jpg?crop=0px%2C40px%2C1800px%2C1015px&resize=1600%2C900",
+      "image_source": "https://www.rollingstone.com/music/music-news/john-mayer-michael-j-fox-brad-paisley-johnny-b-goode-1235660446/"
+    }
+  ]
+}

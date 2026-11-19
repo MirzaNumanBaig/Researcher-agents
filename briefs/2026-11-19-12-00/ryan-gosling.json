@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-19 12:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ryan Gosling's $685M Sci-Fi Space Adventure Returns to Theaters in Just 1 Month",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS095djEyUUplZmlUa3BSa0dmRlZUVzlabV83UFBuMXNrd2pJdkZGMUVvNm1SMnQ0N1hQX2xGSUszR25paExlb2JBRWJGSGszQnl0UHpUYVZpbTdKYmo4RG4xeXg1WEF1d2lLTWxLZ21lTmVPNGpETGp5UmtYbWZnMTV3?oc=5",
+      "published": "2026-11-18T21:19:52+00:00",
+      "outlets": [
+        {
+          "source": "Comic Book Resources",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS095djEyUUplZmlUa3BSa0dmRlZUVzlabV83UFBuMXNrd2pJdkZGMUVvNm1SMnQ0N1hQX2xGSUszR25paExlb2JBRWJGSGszQnl0UHpUYVZpbTdKYmo4RG4xeXg1WEF1d2lLTWxLZ21lTmVPNGpETGp5UmtYbWZnMTV3?oc=5",
+          "article_url": "https://www.cbr.com/project-hail-mary-theatrical-rerelease-theaters-tickets/",
+          "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/project-hail-mary-ryan-gosling.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/project-hail-mary-ryan-gosling.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://www.cbr.com/project-hail-mary-theatrical-rerelease-theaters-tickets/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

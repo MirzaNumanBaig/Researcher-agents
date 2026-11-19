@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-19 12:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "Hogwash or holy grail?: Unravelling the myth of Bob Dylan and John Lennon’s “lost” recording",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaHhpcl9DTFhYOW1nMXJIXzdhRUE5RmUxd0NGcndPZHRxSGlpbDBZajNRWkR2eDFNZ19LYkF5Wml0TmIzdm5HelZ0NlZ3V2FzUHQwNTdNYXR0VlFsTU02N0xMQ2p1VHE1Tk5vVkhZXzY4c2xET1RWeXFSYmpaUXJXeXUyaWEwd3NTbFBOaFZZbXBfRGttanc?oc=5",
+      "published": "2026-11-18T20:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaHhpcl9DTFhYOW1nMXJIXzdhRUE5RmUxd0NGcndPZHRxSGlpbDBZajNRWkR2eDFNZ19LYkF5Wml0TmIzdm5HelZ0NlZ3V2FzUHQwNTdNYXR0VlFsTU02N0xMQ2p1VHE1Tk5vVkhZXzY4c2xET1RWeXFSYmpaUXJXeXUyaWEwd3NTbFBOaFZZbXBfRGttanc?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/unravelling-the-myth-bob-dylan-and-john-lennon-lost-recording/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/04/John-Lennon-Bob-Dylan-Split-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/04/John-Lennon-Bob-Dylan-Split-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/unravelling-the-myth-bob-dylan-and-john-lennon-lost-recording/"
+    }
+  ]
+}

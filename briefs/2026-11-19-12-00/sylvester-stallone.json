@@ -1,0 +1,42 @@
+{
+  "batch": "2026-11-19 12:00",
+  "celebrity": "Sylvester Stallone",
+  "stories": [
+    {
+      "title": "Sylvester Stallone’s New Rocky Biopic Added To 1900 Theaters After 98% Rotten Tomatoes Victory",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BR1R6eUpsNFNIa2oxN0NsVVFJUk5KRjMyazhteXBPeXFDWG9RVDdoMTBheXZLMUt5MmlEUDJRVjRBckJfOFhnSDlURlhLQXA1NHBKT1hFVUlsdko5MTBYSFUtOGJIcGpEdWN3?oc=5",
+      "published": "2026-11-18T22:54:13+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BR1R6eUpsNFNIa2oxN0NsVVFJUk5KRjMyazhteXBPeXFDWG9RVDdoMTBheXZLMUt5MmlEUDJRVjRBckJfOFhnSDlURlhLQXA1NHBKT1hFVUlsdko5MTBYSFUtOGJIcGpEdWN3?oc=5",
+          "article_url": "https://www.imdb.com/de/news/ni66118039/?ref_=ttnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHYtZTV4R3V2MjNPZGFod0RtR3ROODVLQk5MdnVnR2JTb1dxZHFfRGx5RlY4eG1MeHBLQVByd29vMmFOQnR0LXkwdDkwNjlSaEp0T2x3YVllZEV5X3VJUUYxLVpSZERwRlducWY5NVpKeF9YMGdLTGNmQ3dqdGpIdmxScjVXOW1pUlpHZ0lrZ3Q5c3RD?oc=5",
+          "article_url": "https://screenrant.com/sylvester-stallone-i-play-rocky-box-office-theater-count-expansion/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/anthony-ippolito-as-sylvester-stallone-leaning-against-an-overhead-bar-in-i-play-rocky.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/anthony-ippolito-as-sylvester-stallone-leaning-against-an-overhead-bar-in-i-play-rocky.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/sylvester-stallone-i-play-rocky-box-office-theater-count-expansion/"
+    },
+    {
+      "title": "Meet Sylvester Stallone’s 5 Kids, Including His Daughter Who Co-Stars on ‘Tulsa King’",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXMTFNLU1rZmN5TVZ3LTYzS04zaFVjelpCbl8xQ2d2SVk3ajJYV01GcWlkbVA2Q2FGS1JqT1NBVExRUERCdFRpWDRhY2ZXRzBWQ0p0R19vek1reGdvb0RGeWhObC0wWHM?oc=5",
+      "published": "2026-11-18T22:40:00+00:00",
+      "outlets": [
+        {
+          "source": "InStyle",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXMTFNLU1rZmN5TVZ3LTYzS04zaFVjelpCbl8xQ2d2SVk3ajJYV01GcWlkbVA2Q2FGS1JqT1NBVExRUERCdFRpWDRhY2ZXRzBWQ0p0R19vek1reGdvb0RGeWhObC0wWHM?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}
