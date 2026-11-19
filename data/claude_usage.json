@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-10-30",
-   "time": "2026-10-30T06:54:39+00:00",
-   "batch": "2026-10-30 17:00",
-   "celebrity": "Hugh Jackman",
-   "article": "2026-10-30-17-00-hugh-jackman.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 4157,
-   "cache_read_tokens": 206247,
-   "cache_write_tokens": 31216,
-   "turns": 10,
-   "seconds": 30,
-   "cost_usd": 0.1872
-  },
-  {
-   "date": "2026-10-30",
    "time": "2026-10-30T06:55:51+00:00",
    "batch": "2026-10-30 17:00",
    "celebrity": "Jim Carrey",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 25,
    "cost_usd": 0.1736
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T12:02:20+00:00",
+   "batch": "2026-11-19 06:00",
+   "celebrity": "Sam Rockwell",
+   "article": "2026-11-19-06-00-sam-rockwell.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3671,
+   "cache_read_tokens": 126461,
+   "cache_write_tokens": 29567,
+   "turns": 7,
+   "seconds": 30,
+   "cost_usd": 0.1678
   }
  ]
 }
