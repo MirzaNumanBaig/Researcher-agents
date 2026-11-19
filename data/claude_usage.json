@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-10-29",
-   "time": "2026-10-29T21:03:47+00:00",
-   "batch": "2026-10-30 07:00",
-   "celebrity": "Hugh Jackman",
-   "article": "2026-10-30-07-00-hugh-jackman.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 4281,
-   "cache_read_tokens": 150560,
-   "cache_write_tokens": 26015,
-   "turns": 9,
-   "seconds": 30,
-   "cost_usd": 0.1621
-  },
-  {
-   "date": "2026-10-29",
    "time": "2026-10-29T21:08:27+00:00",
    "batch": "2026-10-30 07:00",
    "celebrity": "Jacob Elordi",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 29,
    "cost_usd": 0.164
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T11:25:26+00:00",
+   "batch": "2026-11-19 12:00",
+   "celebrity": "Sylvester Stallone",
+   "article": "2026-11-19-12-00-sylvester-stallone.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 4187,
+   "cache_read_tokens": 209540,
+   "cache_write_tokens": 29332,
+   "turns": 9,
+   "seconds": 41,
+   "cost_usd": 0.1803
   }
  ]
 }
