@@ -25,6 +25,7 @@ wp_id: 2937
 wp_link: "https://moduscarry.com/amanda-seyfried-ted-animated-series/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

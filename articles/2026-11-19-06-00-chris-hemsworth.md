@@ -23,6 +23,7 @@ wp_id: 2943
 wp_link: "https://moduscarry.com/extraction-3-chris-hemsworth-cast/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
