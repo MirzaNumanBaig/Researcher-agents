@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-10-31",
-   "time": "2026-10-31T02:07:00+00:00",
-   "batch": "2026-10-31 12:00",
-   "celebrity": "Miranda Kerr",
-   "article": "2026-10-31-12-00-miranda-kerr.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 6,
-   "output_tokens": 792,
-   "cache_read_tokens": 71123,
-   "cache_write_tokens": 16304,
-   "turns": 6,
-   "seconds": 7,
-   "cost_usd": 0.0804
-  },
-  {
-   "date": "2026-10-31",
    "time": "2026-10-31T02:07:40+00:00",
    "batch": "2026-10-31 12:00",
    "celebrity": "Nicole Kidman",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 34,
    "cost_usd": 0.1946
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T20:21:27+00:00",
+   "batch": "2026-11-20 05:00",
+   "celebrity": "Troye Sivan",
+   "article": "2026-11-20-05-00-troye-sivan.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 1529,
+   "cache_read_tokens": 197016,
+   "cache_write_tokens": 24581,
+   "turns": 9,
+   "seconds": 14,
+   "cost_usd": 0.1335
   }
  ]
 }
