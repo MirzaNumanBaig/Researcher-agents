@@ -26,6 +26,7 @@ wp_id: 2997
 wp_link: "https://moduscarry.com/robert-pattinson-bond-brosnan-welcome/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

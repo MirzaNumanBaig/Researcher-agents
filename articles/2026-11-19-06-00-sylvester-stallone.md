@@ -20,9 +20,15 @@ sources:
   - "https://screenrant.com/rocky-50th-anniversary-steelbook-bluray-release-date/"
   - "https://movieweb.com/rocky-50th-anniversary-4k-steelbook/"
 wp_id: 3022
-wp_link: "https://moduscarry.com/?p=3022"
-wp_synced: pending
+wp_link: "https://moduscarry.com/sylvester-stallone-i-play-rocky/"
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-19-06-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/4840620570\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/4840620570\" rel=\"noopener\">Flickr</a> (cropped)"
+embed_checked: 1
+wp_media_id: 3079
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-06-00-sylvester-stallone-768x432.webp"
 ---
 
 **Quick summary**

@@ -18,9 +18,15 @@ sources:
   - "https://www.thedailystar.net/campus/news/street-fighter-unapologetically-fun-and-faithful-love-letter-the-games-4327186"
   - "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
 wp_id: 3021
-wp_link: "https://moduscarry.com/?p=3021"
-wp_synced: pending
+wp_link: "https://moduscarry.com/street-fighter-movie-box-office-100-million/"
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-19-06-00-street-fighter.webp"
+image_alt: "Street Fighter: Street Fighter Film Hits US$100m as Cody Rhodes Talks Role"
+image_credit: "Image: <a href=\"https://collider.com/street-fighter-box-office-100-million-removed-from-2700-theaters/\" rel=\"nofollow noopener\">collider.com</a> (cropped)"
+embed_checked: 1
+wp_media_id: 3077
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-06-00-street-fighter-768x432.webp"
 ---
 
 **Quick summary**
