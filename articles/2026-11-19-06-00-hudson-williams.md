@@ -24,6 +24,7 @@ wp_id: 2951
 wp_link: "https://moduscarry.com/hudson-williams-aika-flores/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

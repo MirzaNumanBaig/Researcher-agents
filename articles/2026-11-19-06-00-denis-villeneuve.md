@@ -23,6 +23,7 @@ wp_id: 2947
 wp_link: "https://moduscarry.com/florence-pugh-bond-villain/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
