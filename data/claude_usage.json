@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-10-29",
-   "time": "2026-10-29T20:53:56+00:00",
-   "batch": "2026-10-30 07:00",
-   "celebrity": "Cate Blanchett",
-   "article": "2026-10-30-07-00-cate-blanchett.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 3957,
-   "cache_read_tokens": 180735,
-   "cache_write_tokens": 27198,
-   "turns": 11,
-   "seconds": 45,
-   "cost_usd": 0.1802
-  },
-  {
-   "date": "2026-10-29",
    "time": "2026-10-29T20:56:19+00:00",
    "batch": "2026-10-30 07:00",
    "celebrity": "Delta Goodrem",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 31,
    "cost_usd": 0.1975
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T11:16:48+00:00",
+   "batch": "2026-11-19 12:00",
+   "celebrity": "Ryan Gosling",
+   "article": "2026-11-19-12-00-ryan-gosling.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3653,
+   "cache_read_tokens": 118817,
+   "cache_write_tokens": 25476,
+   "turns": 7,
+   "seconds": 26,
+   "cost_usd": 0.1505
   }
  ]
 }
