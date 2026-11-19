@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth workout post ahead of Doomsday"
 seo_description: "Chris Hemsworth workout post lands a month before Avengers: Doomsday. See what the Instagram photos show and what is confirmed about Thor."
 focus_keyword: "Chris Hemsworth workout post"
 permalink: "chris-hemsworth-workout-post"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,15 @@ image_prompt: "A dimly lit empty gym at dawn with cardio machines in a row and c
 sources:
   - "https://www.cinemablend.com/movies/doctor-doom-strong-chris-hemsworth-abs-workout-post-stronger"
   - "https://en.wikipedia.org/wiki/Chris_Hemsworth"
+image: "images/2026-11-20-05-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3028
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-05-00-chris-hemsworth-768x432.webp"
+wp_id: 3029
+wp_link: "https://moduscarry.com/chris-hemsworth-workout-post/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

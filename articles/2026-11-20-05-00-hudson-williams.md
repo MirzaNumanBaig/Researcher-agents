@@ -5,7 +5,7 @@ seo_title: "Hudson Williams The Altruists: Episodes and Role Explained"
 seo_description: "Hudson Williams appears in three episodes of Netflix's The Altruists as Duncan Rheingans-Yoo. See which episodes, when he shows up and who else stars."
 focus_keyword: "Hudson Williams The Altruists"
 permalink: "hudson-williams-the-altruists"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Hudson Williams"
@@ -16,6 +16,15 @@ sources:
   - "https://www.tvinsider.com/1304554/the-altruists-hudson-williams-scenes-episodes/"
   - "https://www.yahoo.com/entertainment/tv/articles/yes-hudson-williams-netflix-crypto-150000471.html"
   - "https://www.aol.com/articles/yes-hudson-williams-netflix-crypto-150000000.html"
+image: "images/2026-11-20-05-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(24).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(24).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3035
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-05-00-hudson-williams-768x432.webp"
+wp_id: 3036
+wp_link: "https://moduscarry.com/hudson-williams-the-altruists/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

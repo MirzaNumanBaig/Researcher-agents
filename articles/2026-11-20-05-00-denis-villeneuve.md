@@ -5,7 +5,7 @@ seo_title: "Denis Villeneuve James Bond: Why Pattinson Fits the Brief"
 seo_description: "Denis Villeneuve wants a James Bond who is a killer first and a spy second. See why Robert Pattinson's casting fits that vision, and what comes next."
 focus_keyword: "Denis Villeneuve James Bond"
 permalink: "denis-villeneuve-james-bond-pattinson"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Denis Villeneuve"
@@ -14,6 +14,15 @@ tags: ["Denis Villeneuve", "Robert Pattinson", "James Bond"]
 image_prompt: "A dimly lit empty cinema with a single spotlight beam crossing red velvet seats, moody and tense, in the style of a spy thriller."
 sources:
   - "https://screenrant.com/robert-pattinson-james-bond-casting-denis-villeneuve-comments/"
+image: "images/2026-11-20-05-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve Wants a Killer for Bond, and Pattinson Fits"
+image_credit: "Image: <a href=\"https://screenrant.com/robert-pattinson-james-bond-casting-denis-villeneuve-comments/\" rel=\"nofollow noopener\">screenrant.com</a> (cropped)"
+wp_media_id: 3032
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-05-00-denis-villeneuve-768x432.webp"
+wp_id: 3033
+wp_link: "https://moduscarry.com/denis-villeneuve-james-bond-pattinson/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

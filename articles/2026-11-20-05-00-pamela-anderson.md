@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Winter Cherry Nails: The Holiday Shade"
 seo_description: "Pamela Anderson wore deep winter cherry nails at the CFDA Fashion Awards. Here is the shade, how to wear it and how to do it at home."
 focus_keyword: "Pamela Anderson winter cherry nails"
 permalink: "pamela-anderson-winter-cherry-nails"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Pamela Anderson"
@@ -14,6 +14,15 @@ tags: ["Pamela Anderson", "Fashion", "Red carpet"]
 image_prompt: "A close-up of glossy deep cherry red nail polish bottles on a marble vanity beside a velvet ribbon, warm winter light"
 sources:
   - "https://graziamagazine.com/us/articles/goodbye-bright-red-pamela-anderson-59-is-wearing-the-deeper-winter-cherry-manicure-for-the-holidays-25497/"
+image: "images/2026-11-20-05-00-pamela-anderson.webp"
+image_alt: "Pamela Anderson: Pamela Anderson at the WWD Style Awards 2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_WWD_Style_Awards_2026.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_WWD_Style_Awards_2026.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3057
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-05-00-pamela-anderson-768x432.webp"
+wp_id: 3058
+wp_link: "https://moduscarry.com/pamela-anderson-winter-cherry-nails-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

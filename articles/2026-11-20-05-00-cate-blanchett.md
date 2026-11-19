@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Martha Stewart Biopic: What We Know"
 seo_description: "The Cate Blanchett Martha Stewart biopic, Good Thing, is set to be directed by Janicza Bravo. Here is what is confirmed and what is not."
 focus_keyword: "Cate Blanchett Martha Stewart biopic"
 permalink: "cate-blanchett-martha-stewart-biopic"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Cate Blanchett"
@@ -16,6 +16,15 @@ sources:
   - "https://www.dailymail.com/tvshowbiz/article-16306395/martha-stewart-cate-blanchett-biopic-trial.html"
   - "https://www.tmz.com/2026/11/19/martha-stewart-talks-casting-cate-blanchett-in-her-biopic/"
   - "https://www.femalefirst.co.uk/celebrity/martha-stewart-delighted-cate-blanchett-cast-biopic-1453949.html"
+image: "images/2026-11-20-05-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-4.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-4.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3026
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-05-00-cate-blanchett-768x432.webp"
+wp_id: 3027
+wp_link: "https://moduscarry.com/cate-blanchett-martha-stewart-biopic/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

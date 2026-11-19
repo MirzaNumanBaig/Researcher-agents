@@ -5,7 +5,7 @@ seo_title: "Connor Storrie April X: HBO Max Date Is 18 December"
 seo_description: "Connor Storrie's April X starts streaming on HBO Max on 18 December. Here is the cast, the plot and his new Saint Laurent campaign."
 focus_keyword: "Connor Storrie April X"
 permalink: "connor-storrie-april-x-hbo-max"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Connor Storrie"
@@ -17,6 +17,15 @@ sources:
   - "https://mezha.net/eng/news/mezha-7ba6820bf2cced97f80c808d_connor_storrie-s_-april/"
   - "https://www.broadwayworld.com/bwwtv/article/APRIL-X-to-Stream-Exclusively-on-HBO-Max-Connor-Storrie-Stars-in-Near-Future-Thriller-20261119"
   - "https://www.designscene.net/2026/11/saint-laurent-le-smoking-campaign.html"
+image: "images/2026-11-20-05-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3030
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-05-00-connor-storrie-768x432.webp"
+wp_id: 3031
+wp_link: "https://moduscarry.com/connor-storrie-april-x-hbo-max/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone I Play Rocky: Stallone Backs Star"
 seo_description: "Sylvester Stallone I Play Rocky: Stallone calls Anthony Ippolito fantastic as the film opens wide on Nov. 20. See what reviews say."
 focus_keyword: "Sylvester Stallone I Play Rocky"
 permalink: "sylvester-stallone-i-play-rocky"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 06:00"
 celebrity: "Sylvester Stallone"
@@ -19,6 +19,10 @@ sources:
   - "https://movieswetextedabout.com/i-play-rocky-movie-review-anthony-ippolitos-transformative-performance-as-a-young-sylvester-stallone/"
   - "https://screenrant.com/rocky-50th-anniversary-steelbook-bluray-release-date/"
   - "https://movieweb.com/rocky-50th-anniversary-4k-steelbook/"
+wp_id: 3022
+wp_link: "https://moduscarry.com/?p=3022"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

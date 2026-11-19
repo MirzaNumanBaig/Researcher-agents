@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki on Robert Pattinson as James Bond"
 seo_description: "Elizabeth Debicki says Robert Pattinson is 'perfect' as the next James Bond. Here is what she said and what we know about the Villeneuve film."
 focus_keyword: "Elizabeth Debicki Pattinson Bond"
 permalink: "elizabeth-debicki-pattinson-bond"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Elizabeth Debicki"
@@ -14,6 +14,10 @@ tags: ["Robert Pattinson", "James Bond", "Denis Villeneuve", "Callum Turner"]
 image_prompt: "A velvet-curtained cinema screen glowing in a dark, empty auditorium, with rows of red seats and a single spotlight beam."
 sources:
   - "https://theshillongtimes.com/2026/11/19/jeff-bezos-elizabeth-debicki-hail-pattinson-as-the-perfect-new-007/"
+wp_id: 3034
+wp_link: "https://moduscarry.com/?p=3034"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

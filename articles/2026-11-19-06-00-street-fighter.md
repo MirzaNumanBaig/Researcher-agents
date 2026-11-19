@@ -5,7 +5,7 @@ seo_title: "Street Fighter Movie Box Office Reaches US$100 Million"
 seo_description: "The Street Fighter movie box office has reached US$100 million against an US$82 million budget, as Cody Rhodes recalls fearing Triple H's reaction."
 focus_keyword: "Street Fighter movie box office"
 permalink: "street-fighter-movie-box-office-100-million"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 06:00"
 celebrity: "Street Fighter"
@@ -17,6 +17,10 @@ sources:
   - "https://www.sacnilk.com/news/cody-rhodes-admits-he-was-terrified-to-tell-triple-h-about-his-street-fighter-movie-role"
   - "https://www.thedailystar.net/campus/news/street-fighter-unapologetically-fun-and-faithful-love-letter-the-games-4327186"
   - "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+wp_id: 3021
+wp_link: "https://moduscarry.com/?p=3021"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

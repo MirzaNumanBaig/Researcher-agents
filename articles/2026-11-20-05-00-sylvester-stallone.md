@@ -5,7 +5,7 @@ seo_title: "I Play Rocky Review: Stallone Biopic Earns 3.5 Stars"
 seo_description: "I Play Rocky review: USA Today awards the Sylvester Stallone origin story 3.5 out of four stars as it opens in US theatres on Nov. 20."
 focus_keyword: "I Play Rocky review"
 permalink: "i-play-rocky-review-stallone-biopic"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "Rocky", "I Play Rocky"]
 image_prompt: "An empty boxing ring under a single spotlight in a quiet old gym at dawn, worn gloves hanging on the ropes."
 sources:
   - "https://www.usatoday.com/story/entertainment/movies/reviews/2026/11/19/i-play-rocky-movie-review/92792971007/"
+image: "images/2026-11-20-05-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone inside?"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/75062596@N00/462568919\" rel=\"noopener\">Lars Plougmann</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/75062596@N00/462568919\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3069
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-05-00-sylvester-stallone-768x432.webp"
+wp_id: 3070
+wp_link: "https://moduscarry.com/i-play-rocky-review-stallone-biopic/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

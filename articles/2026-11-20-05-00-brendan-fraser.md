@@ -5,7 +5,7 @@ seo_title: "Brendan Fraser Thin Red Line: The Role Malick Forgot"
 seo_description: "Brendan Fraser Thin Red Line story: the actor says Terrence Malick offered him a part in the war epic, then forgot. Read what he said and why it matters."
 focus_keyword: "Brendan Fraser Thin Red Line"
 permalink: "brendan-fraser-thin-red-line"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Brendan Fraser"
@@ -14,6 +14,15 @@ tags: ["Brendan Fraser", "Terrence Malick", "The Thin Red Line"]
 image_prompt: "A misty tropical hillside at dawn with tall grass and a lone empty film director's chair, quiet wartime-era mood"
 sources:
   - "https://faroutmagazine.co.uk/brendan-fraser-supposed-to-be-in-one-of-best-movies-1998-director-forgot/"
+image: "images/2026-11-20-05-00-brendan-fraser.webp"
+image_alt: "Brendan Fraser: Brendan Fraser and the Thin Red Line role that never happened"
+image_credit: "Image: <a href=\"https://faroutmagazine.co.uk/brendan-fraser-supposed-to-be-in-one-of-best-movies-1998-director-forgot/\" rel=\"nofollow noopener\">faroutmagazine.co.uk</a> (cropped)"
+wp_media_id: 3024
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-05-00-brendan-fraser-768x432.webp"
+wp_id: 3025
+wp_link: "https://moduscarry.com/brendan-fraser-thin-red-line/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

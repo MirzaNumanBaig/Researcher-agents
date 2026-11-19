@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder Lost Film Pulled From YouTube Again"
 seo_description: "Nathan Fielder's lost 2008 film was pulled from YouTube within a day, just as You Can See Everything opens in UK cinemas. Here is what we know."
 focus_keyword: "Nathan Fielder lost film"
 permalink: "nathan-fielder-lost-film-youtube"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Nathan Fielder"
@@ -17,6 +17,15 @@ sources:
   - "https://exclaim.ca/film/article/obscure-nathan-fielder-documentary-found-after-almost-20-years"
   - "https://www.independent.co.uk/bulletin/culture/you-can-see-everything-review-uk-elizabeth-holmes-b3088007.html"
   - "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+image: "images/2026-11-20-05-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3055
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-05-00-nathan-fielder-768x432.webp"
+wp_id: 3056
+wp_link: "https://moduscarry.com/nathan-fielder-lost-film-youtube/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

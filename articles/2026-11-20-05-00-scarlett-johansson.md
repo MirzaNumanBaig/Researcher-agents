@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Too Much to Ask: Ray Gunn Song Out Now"
 seo_description: "Scarlett Johansson Too Much to Ask is out now. The Kimbra-written Ray Gunn song has been submitted for Best Original Song. Release dates inside."
 focus_keyword: "Scarlett Johansson Too Much to Ask"
 permalink: "scarlett-johansson-too-much-to-ask"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 05:00"
 celebrity: "Scarlett Johansson"
@@ -14,6 +14,15 @@ tags: ["Scarlett Johansson", "Ray Gunn", "Netflix", "Sam Rockwell"]
 image_prompt: "A retro-futuristic 1930s-style city skyline at night with glowing neon signs and an empty stage spotlight in the foreground"
 sources:
   - "https://www.musicmundial.com/scarlett-johansson-releases-too-much-to-ask-original-song-by-kimbra-for-netflix-s-ray-gunn"
+image: "images/2026-11-20-05-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3067
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-05-00-scarlett-johansson-768x432.webp"
+wp_id: 3068
+wp_link: "https://moduscarry.com/scarlett-johansson-too-much-to-ask/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
