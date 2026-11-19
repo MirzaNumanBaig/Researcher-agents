@@ -5,7 +5,7 @@ seo_title: "I Play Rocky Box Office: Wide Expansion Explained"
 seo_description: "I Play Rocky box office: the Stallone biopic expands to about 2,000 US cinemas this weekend with a $12 million projection. Here are the numbers."
 focus_keyword: "I Play Rocky box office"
 permalink: "i-play-rocky-box-office"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 12:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "I Play Rocky", "Box Office", "Anthony Ippolito", "
 image_prompt: "A vintage boxing ring under a single spotlight in an empty cinema-style hall, rows of red seats fading into shadow."
 sources:
   - "https://screenrant.com/sylvester-stallone-i-play-rocky-box-office-theater-count-expansion/"
+image: "images/2026-11-19-12-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588423560\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588423560\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3008
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-12-00-sylvester-stallone-768x432.webp"
+wp_id: 3009
+wp_link: "https://moduscarry.com/i-play-rocky-box-office/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

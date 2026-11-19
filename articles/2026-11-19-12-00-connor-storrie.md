@@ -5,7 +5,7 @@ seo_title: "Connor Storrie BAFTA Breakthrough: Toronto Exit and What's Next"
 seo_description: "Connor Storrie was spotted leaving Toronto after joining the BAFTA Breakthrough US cohort. Here is what we know about Heated Rivalry and his film slate."
 focus_keyword: "Connor Storrie BAFTA Breakthrough"
 permalink: "connor-storrie-bafta-breakthrough-toronto"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 12:00"
 celebrity: "Connor Storrie"
@@ -14,6 +14,15 @@ tags: ["Connor Storrie", "Heated Rivalry", "Ryan Gosling", "Ghost Rider"]
 image_prompt: "A quiet airport terminal at dusk with rows of empty seats, a large window and a departing plane on the runway"
 sources:
   - "https://www.justjared.com/2026/11/18/connor-storrie-arrives-at-toronto-airport-after-being-named-bafta-breakthrough-us-cohort/"
+image: "images/2026-11-19-12-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2974
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-12-00-connor-storrie-768x432.webp"
+wp_id: 2975
+wp_link: "https://moduscarry.com/connor-storrie-bafta-breakthrough-toronto/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

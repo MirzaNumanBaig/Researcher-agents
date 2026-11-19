@@ -5,7 +5,7 @@ seo_title: "Cody Rhodes Street Fighter: The Rock's Casting Text"
 seo_description: "Cody Rhodes says The Rock texted him right after his Guile casting meeting for Street Fighter. Here is what he told the Bella Twins and how the film fared."
 focus_keyword: "Cody Rhodes Street Fighter"
 permalink: "cody-rhodes-street-fighter-rock-text"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 12:00"
 celebrity: "Street Fighter"
@@ -16,6 +16,15 @@ sources:
   - "https://www.wrestlezone.com/news/1672936-cody-rhodes-the-rock-text-street-fighter-casting-meeting"
   - "https://www.theonlineclarion.com/arts-culture/2026/11/17/street-fighter-delivers-fast-action-for-video-game-enthusiasts/"
   - "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+image: "images/2026-11-19-12-00-street-fighter.webp"
+image_alt: "Street Fighter: Cody Rhodes Says The Rock Texted Him After Street Fighter Meeting"
+image_credit: "Image: <a href=\"https://www.wrestlezone.com/news/1672936-cody-rhodes-the-rock-text-street-fighter-casting-meeting\" rel=\"nofollow noopener\">Wrestlezone</a> (cropped)"
+wp_media_id: 3006
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-12-00-street-fighter-768x432.webp"
+wp_id: 3007
+wp_link: "https://moduscarry.com/cody-rhodes-street-fighter-rock-text/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

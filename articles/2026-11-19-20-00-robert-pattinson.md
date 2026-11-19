@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Rikers Island Visit and the Bond Link"
 seo_description: "Robert Pattinson Rikers Island: how the actor sneaked into the prison to prepare for Good Time, and what that says about his James Bond casting."
 focus_keyword: "Robert Pattinson Rikers Island"
 permalink: "robert-pattinson-rikers-island"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 20:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,15 @@ sources:
   - "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-rikers-good-time-james-bond-safdie-prison-1236759112/"
   - "https://en.wikipedia.org/wiki/Primetime_(film)"
   - "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+image: "images/2026-11-19-20-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3010
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-20-00-robert-pattinson-768x432.webp"
+wp_id: 3011
+wp_link: "https://moduscarry.com/robert-pattinson-rikers-island/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

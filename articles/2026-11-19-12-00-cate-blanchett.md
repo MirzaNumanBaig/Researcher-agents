@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Sweetsick: Cast, Plot and Backers"
 seo_description: "Cate Blanchett Sweetsick is a new drama from writer-director Alice Birch with Spike Fearn. Here is what is known about the story and the team."
 focus_keyword: "Cate Blanchett Sweetsick"
 permalink: "cate-blanchett-sweetsick"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 12:00"
 celebrity: "Cate Blanchett"
@@ -14,6 +14,15 @@ tags: ["Cate Blanchett"]
 image_prompt: "An empty cinema auditorium with warm light on rows of red seats and a softly glowing blank screen."
 sources:
   - "https://www.sortiraparis.com/en/what-to-do-in-paris/cinema-series/articles/358568-sweetsick-cate-blanchett-faces-a-troubling-gift-in-alice-birch-s-film"
+image: "images/2026-11-19-12-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-6.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-6.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2972
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-12-00-cate-blanchett-768x432.webp"
+wp_id: 2973
+wp_link: "https://moduscarry.com/cate-blanchett-sweetsick/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

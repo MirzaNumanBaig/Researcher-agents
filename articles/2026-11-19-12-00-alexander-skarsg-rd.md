@@ -5,7 +5,7 @@ seo_title: "Wicker Red Carpet Looks: Alexander Skarsgård's Style"
 seo_description: "The Wicker red carpet looks worn by Alexander Skarsgård are the subject of a new Ynetnews column. Here is what it says and who it compares him with."
 focus_keyword: "Wicker red carpet looks"
 permalink: "wicker-red-carpet-looks"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 12:00"
 celebrity: "Alexander Skarsgård"
@@ -14,6 +14,15 @@ tags: ["Alexander Skarsgård", "Wicker", "Fashion", "Red carpet"]
 image_prompt: "An empty red carpet at night under warm spotlights, with velvet ropes and a backdrop of soft flashing camera lights."
 sources:
   - "https://www.ynetnews.com/culture/article/bjbdxhsafe"
+image: "images/2026-11-19-12-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd at the 63rd New York Film Festival in New York City for the film Pillion"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_02_(cropped).jpg\" rel=\"noopener\">Veggiegalaxy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_02_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2970
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-12-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 2971
+wp_link: "https://moduscarry.com/wicker-red-carpet-looks/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

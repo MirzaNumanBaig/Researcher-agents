@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Paper Tiger: Why She Replaced Hathaway"
 seo_description: "Scarlett Johansson Paper Tiger casting explained: James Gray says Anne Hathaway's Odyssey schedule changed the film. Wide release is 20 November."
 focus_keyword: "Scarlett Johansson Paper Tiger"
 permalink: "scarlett-johansson-paper-tiger"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 12:00"
 celebrity: "Scarlett Johansson"
@@ -14,6 +14,15 @@ tags: ["Scarlett Johansson", "Paper Tiger", "James Gray", "Anne Hathaway", "Adam
 image_prompt: "An empty art-house cinema at night with a lit marquee and wet city street reflections, moody crime thriller atmosphere"
 sources:
   - "https://screenrant.com/paper-tiger-scarlett-johansson-replace-anne-hathaway-james-gray-explained/"
+image: "images/2026-11-19-12-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-077.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-077.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3002
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-12-00-scarlett-johansson-768x432.webp"
+wp_id: 3003
+wp_link: "https://moduscarry.com/scarlett-johansson-paper-tiger-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Heated Rivalry Season 2: Nerves and Online Hate"
 seo_description: "Hudson Williams says his 'quad squad' laughs off online hate and admits he was nervous to return for Heated Rivalry season 2. Here is what he told THR."
 focus_keyword: "Hudson Williams Heated Rivalry season 2"
 permalink: "hudson-williams-heated-rivalry-season-2"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 12:00"
 celebrity: "Hudson Williams"
@@ -14,6 +14,15 @@ tags: ["Hudson Williams", "Heated Rivalry", "Netflix"]
 image_prompt: "An empty ice hockey arena at night with soft spotlights on the rink and rows of unoccupied seats"
 sources:
   - "https://www.justjared.com/2026/11/18/hudson-williams-reveals-how-he-his-team-handle-online-hate-why-he-was-nervous-to-return-for-heated-rivalry-season-2/"
+image: "images/2026-11-19-12-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(20).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(20).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2978
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-12-00-hudson-williams-768x432.webp"
+wp_id: 2979
+wp_link: "https://moduscarry.com/hudson-williams-heated-rivalry-season-2-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

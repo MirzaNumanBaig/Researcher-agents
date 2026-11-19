@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond: Nolan's Joke and What Is Next"
 seo_description: "Robert Pattinson Bond casting drew a joke from Christopher Nolan and praise from Elizabeth Debicki. Here is what is confirmed and what comes next."
 focus_keyword: "Robert Pattinson Bond"
 permalink: "robert-pattinson-bond-nolan-joke"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 06:00"
 celebrity: "Robert Pattinson"
@@ -18,6 +18,15 @@ sources:
   - "https://www.latimes.com/entertainment-arts/movies/story/2026-11-17/jeff-bezos-heavily-involved-in-casting-robert-pattinson-as-james-bond"
   - "https://screenrant.com/robert-pattinson-upcoming-movies-release-dates/"
   - "https://www.vietnam.vn/en/5-bond-girl-co-the-sat-canh-cung-robert-pattinson"
+image: "images/2026-11-19-06-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2962
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-06-00-robert-pattinson-768x432.webp"
+wp_id: 2963
+wp_link: "https://moduscarry.com/robert-pattinson-bond-nolan-joke/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

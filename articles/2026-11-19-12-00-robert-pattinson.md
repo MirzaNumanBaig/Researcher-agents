@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond: Brosnan Sends a Warm Welcome"
 seo_description: "Robert Pattinson Bond welcome: Pierce Brosnan says he will be magnificent, George Lazenby adds advice, and the UK government joins the jokes."
 focus_keyword: "Robert Pattinson Bond"
 permalink: "robert-pattinson-bond-brosnan-welcome"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-19 12:00"
 celebrity: "Robert Pattinson"
@@ -17,6 +17,15 @@ sources:
   - "https://variety.com/2026/film/news/robert-pattinson-pierce-brosnan-james-bond-1236952519/"
   - "https://variety.com/2026/film/global/robert-pattinson-trolled-by-uk-government-after-bond-reveal-1236951991/"
   - "https://deadline.com/2026/11/primetime-cinematograhper-editor-video-interview-1237228520/"
+image: "images/2026-11-19-12-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Actor Robert Pattinson at the 75th Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 2996
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-19-12-00-robert-pattinson-768x432.webp"
+wp_id: 2997
+wp_link: "https://moduscarry.com/robert-pattinson-bond-brosnan-welcome/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
