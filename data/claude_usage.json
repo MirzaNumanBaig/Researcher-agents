@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-02",
-   "time": "2026-11-02T19:22:20+00:00",
-   "batch": "2026-11-03 06:00",
-   "celebrity": "Hudson Williams",
-   "article": "2026-11-03-06-00-hudson-williams.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 4845,
-   "cache_read_tokens": 172323,
-   "cache_write_tokens": 33685,
-   "turns": 9,
-   "seconds": 35,
-   "cost_usd": 0.2006
-  },
-  {
-   "date": "2026-11-02",
    "time": "2026-11-02T19:23:34+00:00",
    "batch": "2026-11-03 06:00",
    "celebrity": "Jacob Elordi",
@@ -23999,6 +23983,22 @@
    "turns": 6,
    "seconds": 7,
    "cost_usd": 0.098
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T18:42:23+00:00",
+   "batch": "2026-11-21 05:00",
+   "celebrity": "Georgina Baillie",
+   "article": "2026-11-21-05-00-georgina-baillie.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 1754,
+   "cache_read_tokens": 196551,
+   "cache_write_tokens": 24274,
+   "turns": 9,
+   "seconds": 18,
+   "cost_usd": 0.1345
   }
  ]
 }
