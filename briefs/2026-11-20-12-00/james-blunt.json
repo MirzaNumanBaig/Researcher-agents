@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-20 12:00",
+  "celebrity": "James Blunt",
+  "stories": [
+    {
+      "title": "James Blunt on playing Glastonbury: ‘I’m on tour in the summer, so we’ll see’",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTi1UUUNBMHVoZWo5X21PQ1g4aTZxWElNbVNLaGw5WWR6WEFSb2l5TXBYdHlGaWlYczVwQVp1NF9vM09fUHVvREJPWHVkM1pleV9veUw2UEVBTk9RQ2VNeWtTRVp6STZHN0JDdUprQURWOVNnSVlxNXEybEVTdk9XcUtOME1ydzVvX1gyYmhILWtRYm9SMkIwX1lYY0ViV3N1MDNud09tTWhHR29HeG5KcHM5X20xZw?oc=5",
+      "published": "2026-11-19T23:21:41+00:00",
+      "outlets": [
+        {
+          "source": "Lancashire Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTi1UUUNBMHVoZWo5X21PQ1g4aTZxWElNbVNLaGw5WWR6WEFSb2l5TXBYdHlGaWlYczVwQVp1NF9vM09fUHVvREJPWHVkM1pleV9veUw2UEVBTk9RQ2VNeWtTRVp6STZHN0JDdUprQURWOVNnSVlxNXEybEVTdk9XcUtOME1ydzVvX1gyYmhILWtRYm9SMkIwX1lYY0ViV3N1MDNud09tTWhHR29HeG5KcHM5X20xZw?oc=5",
+          "article_url": "https://www.lancashiretelegraph.co.uk/leisure/national/26746792.james-blunt-playing-glastonbury-im-tour-summer-see/",
+          "image": "https://www.lancashiretelegraph.co.uk/resources/images/21741903.jpg?type=og-image"
+        }
+      ],
+      "image": "https://www.lancashiretelegraph.co.uk/resources/images/21741903.jpg?type=og-image",
+      "image_source": "https://www.lancashiretelegraph.co.uk/leisure/national/26746792.james-blunt-playing-glastonbury-im-tour-summer-see/"
+    },
+    {
+      "title": "ZYN Rolling Stone UK Awards 2026 closes with James Blunt named winner of The Icon Award",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0JqR3U2Tk4yUmVNdjBGS2xnZUlZS29XTVlIbW9xZUhrNHNYM3NfMGhsckVocnU0X3BDLVVEX0c0OUJnNmZxUXAzMHNXMWk5aTlJd3lxZG41Z1hkTXJCM3FmOF94dDR4RHRRRFJ5LVlhX2ptZEYyZTk1TXdpUE5nQ0gxV3pPWWtVSkNSZ1FXMXZUcFlMTTM4eUF3UkFXZGlkYk01YnBNNzlKOGJYaGtV?oc=5",
+      "published": "2026-11-19T22:58:00+00:00",
+      "outlets": [
+        {
+          "source": "Rolling Stone UK",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0JqR3U2Tk4yUmVNdjBGS2xnZUlZS29XTVlIbW9xZUhrNHNYM3NfMGhsckVocnU0X3BDLVVEX0c0OUJnNmZxUXAzMHNXMWk5aTlJd3lxZG41Z1hkTXJCM3FmOF94dDR4RHRRRFJ5LVlhX2ptZEYyZTk1TXdpUE5nQ0gxV3pPWWtVSkNSZ1FXMXZUcFlMTTM4eUF3UkFXZGlkYk01YnBNNzlKOGJYaGtV?oc=5",
+          "article_url": "https://www.rollingstone.co.uk/music/james-blunt-the-icon-award-zyn-rolling-stone-uk-awards-2026-winner-66195/",
+          "image": "https://www.rollingstone.co.uk/wp-content/uploads/sites/2/2026/11/ZYN-Winner-icon-WEB-HEADER-RED-BLACK.jpg"
+        }
+      ],
+      "image": "https://www.rollingstone.co.uk/wp-content/uploads/sites/2/2026/11/ZYN-Winner-icon-WEB-HEADER-RED-BLACK.jpg",
+      "image_source": "https://www.rollingstone.co.uk/music/james-blunt-the-icon-award-zyn-rolling-stone-uk-awards-2026-winner-66195/"
+    }
+  ]
+}

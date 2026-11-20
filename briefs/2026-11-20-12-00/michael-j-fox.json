@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-20 12:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "Michael J. Fox thinks he knows what happened to the ‘Back to the Future’ Gibson ES-345",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFNDTFlzYWVJaG1QUFdUc3dsaWRyWkU4cDVMRllnMm45ckRrWk9heUNqa1lrRlRIeU5uUWdpZjFRdVptWTI3dlpaYldCX2VZeWI0N09sWlBRSk5iV1R2N1FMMEkwcURPeXN6b25vSjBuRUNhRFZGajY3SGc1NVM3X1Jzc2tBRElFVnljSW5MS21ILWpMeTc2RzdocGRoaVBGeUQzNWNjS0VnaEVIX2F4czN5Y3BmR0E?oc=5",
+      "published": "2026-11-19T22:23:48+00:00",
+      "outlets": [
+        {
+          "source": "GuitarPlayer.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFNDTFlzYWVJaG1QUFdUc3dsaWRyWkU4cDVMRllnMm45ckRrWk9heUNqa1lrRlRIeU5uUWdpZjFRdVptWTI3dlpaYldCX2VZeWI0N09sWlBRSk5iV1R2N1FMMEkwcURPeXN6b25vSjBuRUNhRFZGajY3SGc1NVM3X1Jzc2tBRElFVnljSW5MS21ILWpMeTc2RzdocGRoaVBGeUQzNWNjS0VnaEVIX2F4czN5Y3BmR0E?oc=5",
+          "article_url": "https://www.guitarplayer.com/guitarists/michael-j-fox-thinks-he-knows-what-happened-to-the-back-to-the-future-gibson",
+          "image": "https://cdn.mos.cms.futurecdn.net/hGhX6oEn6yNg6PYQ6zxUh8-2000-80.png"
+        }
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/hGhX6oEn6yNg6PYQ6zxUh8-2000-80.png",
+      "image_source": "https://www.guitarplayer.com/guitarists/michael-j-fox-thinks-he-knows-what-happened-to-the-back-to-the-future-gibson"
+    }
+  ]
+}

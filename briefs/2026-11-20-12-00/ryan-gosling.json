@@ -1,0 +1,80 @@
+{
+  "batch": "2026-11-20 12:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ryan Gosling Expands His Film Career With Star Wars and Marvel",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GSVhSbTFCTGZnX0RBR00zMWJBcGN1ZncwQnlZOE42cUI0eXoxLW5VaGgtNEhDNHZaY3JCa1Rndk1NMmRWQkNWbFp3eUtQRHU0UjhLNURVeTdpNTN0MmlRWENn?oc=5",
+      "published": "2026-11-19T23:52:00+00:00",
+      "outlets": [
+        {
+          "source": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GSVhSbTFCTGZnX0RBR00zMWJBcGN1ZncwQnlZOE42cUI0eXoxLW5VaGgtNEhDNHZaY3JCa1Rndk1NMmRWQkNWbFp3eUtQRHU0UjhLNURVeTdpNTN0MmlRWENn?oc=5",
+          "article_url": "https://cwibc.co.id/en/ryan-gosling-star-wars-marvel",
+          "image": "https://cdn.cwibc.co.id/media/images/2026/11/cCDbl7dT25.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+        }
+      ],
+      "image": "https://cdn.cwibc.co.id/media/images/2026/11/cCDbl7dT25.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+      "image_source": "https://cwibc.co.id/en/ryan-gosling-star-wars-marvel"
+    },
+    {
+      "title": "Aaron Pierre on ‘Lanterns,’ the DC Shake-Up, and Landing a Role in Ryan Gosling’s ‘Star Wars’ Movie",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1Bub3VxbGhSajNSLWVCOEo5bDg4a2xuaUxpV1RjeF95WEZuRWpjM3JBM0VzRTFTWDhWbHloQ2NCQnM1TXBncFBfRWpCXzloVWpiaGh0M1ZtT2hPZG1xZDFxbE85QlYwUC0teG1oM3R3Tndrd1lCNzhpRjFFNmY4NWZmUmdUX3psWXA5enp0Qllzc2Iwc09WWXp5X3FlcGp4?oc=5",
+      "published": "2026-11-19T21:59:19+00:00",
+      "outlets": [
+        {
+          "source": "IndieWire",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1Bub3VxbGhSajNSLWVCOEo5bDg4a2xuaUxpV1RjeF95WEZuRWpjM3JBM0VzRTFTWDhWbHloQ2NCQnM1TXBncFBfRWpCXzloVWpiaGh0M1ZtT2hPZG1xZDFxbE85QlYwUC0teG1oM3R3Tndrd1lCNzhpRjFFNmY4NWZmUmdUX3psWXA5enp0Qllzc2Iwc09WWXp5X3FlcGp4?oc=5",
+          "article_url": "https://www.indiewire.com/features/podcast/aaron-pierre-lanterns-dc-shakeup-starfighter-1235229615/",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P107OHSK.jpg?w=650"
+        }
+      ],
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P107OHSK.jpg?w=650",
+      "image_source": "https://www.indiewire.com/features/podcast/aaron-pierre-lanterns-dc-shakeup-starfighter-1235229615/"
+    },
+    {
+      "title": "Ryan Gosling Exits Daniels’ Untitled Event Film at Universal Pictures | THR News Video",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmdvblZhNnJMSVp4MWJMSGFIbXo1bTB3X1JnQWlYeVBTeGwyUlgzLTk3R0dKT040V1NLc2llWFBKbWR6cVpZUW14LVNFX09kaENrbzcyNDhvamJNVWl1UHNYaXYybTJFdlJNWnNVUVZ3STJRVFFEVnAwQlVBUU1PQldZUC04Y1liSHBFeUkwM0c4M0ZZd1VXNWlGVGJjX3F4SVk5eDBMOTltNlczNU1tOVJn?oc=5",
+      "published": "2026-11-18T02:06:28+00:00",
+      "outlets": [
+        {
+          "source": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmdvblZhNnJMSVp4MWJMSGFIbXo1bTB3X1JnQWlYeVBTeGwyUlgzLTk3R0dKT040V1NLc2llWFBKbWR6cVpZUW14LVNFX09kaENrbzcyNDhvamJNVWl1UHNYaXYybTJFdlJNWnNVUVZ3STJRVFFEVnAwQlVBUU1PQldZUC04Y1liSHBFeUkwM0c4M0ZZd1VXNWlGVGJjX3F4SVk5eDBMOTltNlczNU1tOVJn?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

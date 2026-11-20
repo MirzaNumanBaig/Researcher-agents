@@ -1,5 +1,813 @@
 [
   {
+    "title": "1968 Folk Rock Song, Written by Bob Dylan But Failed to Chart, Became Jimi Hendrix’s Only Top 40 Hit in America",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMWpHb3Q1YUt4NldNVU85MmgwXzJvVUxXTHg1UnRBZTFOZnpWNWlLOEE5VGloS1R0eXFlc0pWSkYwUmQxVTVUV1FPb28tSjA2YmN3eVNQNGgwTUFabjBtVTBVN19HZVRWb0RqbDBUNEFGR3hhdV9pMV9SS0FIRHV2UHFiR2ZxTXdKNm9GQmZYSGttY2Rldko2VW5oLVRYR3RNSS1oY0RMSHdDaWFNalZXQ29UbGdmWFJieEpEWTlKbEF0UVZCWWpoYmhHV1luM1BOb2w4SlF5OTM?oc=5",
+    "source": "Parade Magazine",
+    "published": "2026-11-20T00:44:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Bob Dylan"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Fried rice and Katy Perry: Bay athlete prepares for World Triathlon Cup",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb1dBSVhqVEtMNWJfcHN3RDA0c2VUQTFEcEtCQ21VemtLamg1QzMydHdNMDRPNHozX1puelZxaXExcy1NeFljZ1dlZkd4cVZRVGU2U0hod0g3TTVaNWZMb2RYT1poZ1kxZ3E1M0loTFA5WGVhY1pFMU15d0tRVm1CNWVlWGt5NjZxSFJNd21Sa0J3S0NYeU0wSWRxMmZzZ2VXN0c5OGV5NVpMdy13N3k4Y0swbzg5aWt6S2xZTThlamRfRmJqaE5qSWVWRkY0VTNvNnlvek1MNnpJMGVzdWJtTEZXUm1ZVkk?oc=5",
+    "source": "NZ Herald",
+    "published": "2026-11-20T00:30:41+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Katy Perry"
+    ],
+    "article_url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/tauranga-world-triathlon-cup-first-of-three-world-class-events-on-sunday/BR4V3CUVEVCFRMARBOEHZYH5HQ/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/ARH4BDWLFBFNTIR4MAZKCM5QRM.jpg?auth=7cb94d76df4e9ab0d2b08ddecde068a657d960e45c59ed8f1f2f5bff591fe3a1&width=1200&height=675&quality=70&focal=691%2C274&smart=false"
+  },
+  {
+    "title": "Oscar Predictions: Amanda Seyfried and Matt Damon Take the Top Spots for the First Time as Hollywood Heads Into Thanksgiving",
+    "url": "https://variety.com/lists/2027-oscars-predictions/",
+    "source": "variety.com",
+    "published": "2026-11-20T00:30:00+00:00",
+    "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages ref",
+    "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000_b934d2.jpg",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Amanda Seyfried"
+    ]
+  },
+  {
+    "title": "'Sunrise on the Reaping' star Mckenna Grace loves this cozy essential",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZXNlWFpadXNrYUFfRkZtMzBTUjN4NVRMYkhYRVRwT013bTZOWDNMNEtwSFNPWGdpSXE1STNxUENaeV9MTzBrN0pQZVdkWlRGSzd2OGFycmt4b0VjdFpMTWt0ckY4V3RNR1pHTWtKR3B4WVBBUFZqeC1idEZkZWVRVFhGNndWSWtwQTR4dEpNV3JiNmZ6Xy1tYng3ZTVqOEcta1MyMGphd3lGTTE0WmpDZUhidEdkczZyZzdzNV9TVXdKYnhWcWc?oc=5",
+    "source": "South Bend Tribune",
+    "published": "2026-11-20T00:26:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Mckenna Grace"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Teenage boy arrested and charged after break-in at actor Chris Hemsworth’s Byron Bay mansion",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYjR2b2w2Q0RSSWlVanR5ck4wdHBMZ0hWeTdqanZHXy1xblMweUUtWUNZalBZMjJuMGY4QnYxMzZGSHh0RHlKRFJ0MnYxejZ3M1NjTVdPT1B2Sy1fU3ZIbVlzdE5MbWNsYU0tRmRMbFl0SjcyaEtjaUY3UDFRcWdjdnVkMEpfSGE4cHY2Z1prbFB1SzRxM2dTa1I2OWJmRHlpeE44aHJzb1hlRm1uNHpoRmpYYzVKTzczTFBILW5RY1Z2VDl3bW1pa1RPLTVUY3dIX2Jn0gHYAUFVX3lxTE4wc3YxSVV2U050T2hpWEIxeWp2VjNMdTQ0WlF4NUNBNGlGLVFwSjl5aXRPbWJjVDA3WU9qbmJ3dTdiS1JGTDIydHlnNVpNWmU2YWhFczE2SDJoVHlURmUxRmduNHhuc2FkLURYY2xwRTdlWE1jdUtjNDFMQ25KV0ZxOHhWQ1ZDY0NUbnctVHNMenhtc0I3eVpueDZZODVZRXk2VXY4NUhMS05QQTRIdEowcmxvR0VBdTQ5X2UyUlloU1diNG5KQko4aURhVU92aUw1cG16NWtBQQ?oc=5",
+    "source": "7NEWS",
+    "published": "2026-11-20T00:24:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Chris Hemsworth"
+    ],
+    "article_url": "https://7news.com.au/entertainment/teenage-boy-arrested-and-charged-after-break-in-at-actor-chris-hemsworths-byron-bay-mansion-c-23189165",
+    "image": "https://images.7news.com.au/publication/C-23189165/2b4fa06db389ddb482bce21fb37b3c6341c05caa-16x9-x0y0w1280h720.jpg?imwidth=1200"
+  },
+  {
+    "title": "Two Directors, One Oscar: Can Lord and Miller, Los Javis, Fielder and Oppenheim or the Esiri Brothers Break Through?",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG5Bbkg2aTAzSW5LenFvOFFJMG01NGxRU1FNVGlUNERCLXl0Q2hDRUhIMGc1aEJhaldDR0ZtM0xsZ3RISFQyRHZvVTNEVC1mS1pLbjdrcFZGcU51U3N1WENGSm91V01qRlN5b0ZqRHUxbE5XNjd5U1lOdEVOcm4zUVFEd0FTdkdzekhUS0plenVXOFMzWGF3ZWVUQjFJb3habW5WMWFmaWc0UQ?oc=5",
+    "source": "Variety",
+    "published": "2026-11-20T00:20:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Nathan Fielder"
+    ],
+    "article_url": "https://variety.com/2026/film/awards/directing-duos-lord-miller-javis-fielder-oppenheim-oscars-1236952486/",
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Two Directors, One Oscar: Can Lord and Miller, Los Javis, Fielder and Oppenheim or the Esiri Brothers Break Through?",
+    "url": "https://variety.com/2026/film/awards/directing-duos-lord-miller-javis-fielder-oppenheim-oscars-1236952486/",
+    "source": "variety.com",
+    "published": "2026-11-20T00:20:00+00:00",
+    "summary": "Are two directors better than one? Nathan Fielder and Lance Oppenheim, Javier Calvo and Javier Ambrossi, Phil Lord and Chris Miller and Nigeria’s Esiri brothers are chasing a prize the Academy’s Director Branch has handed to a duo only three times in its history. Looking at the two-name directing te",
+    "image": "https://variety.com/wp-content/uploads/2026/03/You-Can-See-Everything-1000.jpg",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Nathan Fielder"
+    ]
+  },
+  {
+    "title": "Amanda Seyfried Sings Meryl Streep’s ‘Mamma Mia’ Song in Incredible New Video That You’ve Gotta Watch",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zeVNRenV1ZjZHRzVIem5SRlhoLVk3b2JUZU9YQlpERDl2Ui1Fb0JCMnVmcm1PODZTY2NWVi1sMnU0VVN5WXlxX0xrdXVwZTJ0Vnc2ekZZT3RWTk1yYTJ6SU1CeURMMWg5c2c?oc=5",
+    "source": "IMDb",
+    "published": "2026-11-20T00:14:33+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Amanda Seyfried"
+    ],
+    "article_url": "https://www.imdb.com/de/news/ni66119895/?ref_=nwc_art_perm",
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Lively and Reynolds Face Marriage Strain Amid Career Changes",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHcnBxUnF5WXpuY2xFT1pRMkF1SkktQlhTZnNDcjNFVWdjbmd2RFR5SVE3U3lvN1VzSWppMW16bG12dklDNl9hTTVwOVpieDh5TElwd2hSZmxvd3RZQzAyUklTdzl2YS0xNWd3?oc=5",
+    "source": "Demokratis.co.id",
+    "published": "2026-11-20T00:10:58+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Ryan Reynolds"
+    ],
+    "article_url": "https://demokratis.co.id/en/lively-reynolds-marriage-strain",
+    "image": "https://cdn.demokratis.co.id/media/images/2026/11/9ksstPbfU8.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+  },
+  {
+    "title": "Lively and Reynolds Face Marriage Strain Amid Career Changes",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40ak5NVUFOZV93S05Zd21KRm5xemZkYUQ3NXBGTUhiSTBYNldOQUxlNllBc29IdFl1UjZqTy1PNHZBZE1scXdrMUZMRWszMmFoRVpEemozLWhncTJKdUdUank3VQ?oc=5",
+    "source": "bsinews.id",
+    "published": "2026-11-20T00:10:16+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Ryan Reynolds"
+    ],
+    "article_url": "https://bsinews.id/en/lively-reynolds-marriage-strain",
+    "image": "https://cdn.bsinews.id/media/images/2026/11/i1dB9LvnvK.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+  },
+  {
+    "title": "Cate Blanchett to play Martha Stewart in new biopic",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXdXbXFMd0h6Y0ZtV3d1dUZDUEtaUWFGUmx2TXBqTXYzLXhLX0Y0M2tXT3VoekRNVmt2RkVJTFgwandVMHBZTHlyd0dnRVUwTXBIWndGWlkwc2tIZzZ2dk5JZ2IxUnhDaHZSc2M0NmZmRnpjc2ZYRndJQWowMEJQMTFtSzBTQTVEbFVpcTRuS050Ul9HTktHSU9jSW1SeGZ6RzdXZ25sN1lPVUpNSzlIMlVn?oc=5",
+    "source": "7NEWS",
+    "published": "2026-11-20T00:03:37+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Cate Blanchett"
+    ],
+    "article_url": "https://7news.com.au/video/the-morning-show/cate-blanchett-to-play-martha-stewart-in-new-biopic-bc-6408624438112",
+    "image": "https://images.7news.com.au/publication/6408624438112/dfc22da323bbbd3a86b7f4e618a554cc294de627.jpg"
+  },
+  {
+    "title": "POPNOTES | OPINION: 'Black Doves' Season 2 review — Ben Whishaw gives the spy comedy its sting",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcXM2T0tkNUhabmo5ZFdQUXBmQUt5Rmhub2ZDallfOENoTVdTaFNTWHV1NzFRS2hRc3VVYTBQMUVkdm5LbE5sQm5TdFVsdF90ODFyZWFHRHJnS2xMQzdrUEtzbkxVdnh4OXFlRkZLMTVaZk5vUnhNMGZlcm1VM3VMSWZLQlZxYzY4NnhqcDYzVTlsSGhMaEM3R2dDNXFRZ1REOHUyd0Y1V2NmWWx2dk5lOTM5elVZOG9DWld0ZHNLNkk0Y0d1ejIyU0Q4azgxSGJWTGc?oc=5",
+    "source": "The Arkansas Democrat-Gazette",
+    "published": "2026-11-20T00:00:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Ben Whishaw"
+    ],
+    "article_url": "https://www.arkansasonline.com/news/2026/nov/19/popnotes-opinion-black-doves-season-2-review-ben-whishaw-gives-the-spy-comedy-its-sting/",
+    "image": "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2026/11/19/BD_205_Unit_00642-Edit_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4"
+  },
+  {
+    "title": "Lively and Reynolds Face Marriage Strain Amid Career Changes",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yRDEyb284SjJZeGVOOVg1WXVkSXNUVDU0UFNfVG56cDVkaUhqZURRZzRUV2lKbEFMMGxfRlJfN1VKeV9ZQXppLUxlU0NsNjZURHdpbjBOSFNmQTM1WF9HT21LajE?oc=5",
+    "source": "cwibc.co.id",
+    "published": "2026-11-19T23:58:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Ryan Reynolds"
+    ],
+    "article_url": "https://cwibc.co.id/en/lively-reynolds-marriage-strain",
+    "image": "https://cdn.cwibc.co.id/media/images/2026/11/deynw2AqcU.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+  },
+  {
+    "title": "Ryan Gosling Expands His Film Career With Star Wars and Marvel",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GSVhSbTFCTGZnX0RBR00zMWJBcGN1ZncwQnlZOE42cUI0eXoxLW5VaGgtNEhDNHZaY3JCa1Rndk1NMmRWQkNWbFp3eUtQRHU0UjhLNURVeTdpNTN0MmlRWENn?oc=5",
+    "source": "cwibc.co.id",
+    "published": "2026-11-19T23:52:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Ryan Gosling"
+    ],
+    "article_url": "https://cwibc.co.id/en/ryan-gosling-star-wars-marvel",
+    "image": "https://cdn.cwibc.co.id/media/images/2026/11/cCDbl7dT25.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+  },
+  {
+    "title": "Eurotrash review — Ben Whishaw cannot save this self-indulgent hackery",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDNOcktmMW9qdGxsWXBqZUQtNDJoUmNUQnlHd0VBM05HTGpmaGozeU9HNUw4Z1VPTDZnc09ndkkxdDQyNTBsWVdPNHBVQ2l1OW5pYjQ4cFNzb3lVdVNGODFmWGxkZDZWVGZncnBBOXVfNGdraGYtWjVsSzZFT29ucHkxaUZNVXNWa0NPSXB6cFhkclIwQ0tNVg?oc=5",
+    "source": "The Times",
+    "published": "2026-11-19T23:35:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Ben Whishaw"
+    ],
+    "article_url": "https://www.thetimes.com/culture/theatre-dance/article/eurotrash-review-ben-whishaw-8qxcm3q95",
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "The Screen Critic: Johnny Depp’s Christmas gift",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHZrRjhYc3ZlUjRURkRVQ1NCTlFvSjlVZWZpTFV0VjZaTC1HaHBVZXdKbGprRU13Zlp6bjV0UENKZkRCNGpNMXRiUnV4eGJVYVYwa2xzX085OVkzYUNKbFpTSC1TdWlCSDlDY2Y4LW0yS3lpcnREQVlpRG5LMTdRdm5nMTl0Zw?oc=5",
+    "source": "Starts at 60",
+    "published": "2026-11-19T23:30:26+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Johnny Depp"
+    ],
+    "article_url": "https://startsat60.com/media/news/the-screen-critic-johnny-depps-christmas-gift",
+    "image": "https://images.startsat60.com/wp-content/uploads/20261120092635/ebenezer-608x405.jpg"
+  },
+  {
+    "title": "In 2000, Seth Rogen auditioned for “a movie about idiots”. Ever since, he’s been too “bitter” to watch it",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlZwZUpnU29YNmJxYmYzTlJiZlFyck5tR2lpR1FWN0RMeW5WZXllT2wzcXlFLWlrbVNzMmZmMHhpZmVtblVJWEJCRlB0VUV3Rm9HcGxuU1VUY3JNRFRZZ044S2FGRzRjREk2WmpNX1pZNXpWNmMzaE42Rzd1VGx2eXVVcFBkUnNRRWM1U05uZjMzM2pMdk5GY3JKS2VMZ0xx?oc=5",
+    "source": "Far Out Magazine",
+    "published": "2026-11-19T23:30:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Seth Rogen"
+    ],
+    "article_url": "https://faroutmagazine.co.uk/seth-rogen-auditioned-for-a-movie-about-idiots-too-bitter-to-watch-it/",
+    "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/09/Seth-Rogen-Actor-2025-Far-Out-Magazine.jpg"
+  },
+  {
+    "title": "How ‘I Play Rocky’ found its Sylvester Stallone in Anthony Ippolito",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11b1V1eV80MEd4VkZXVGVxX0tEMllzb1JSeW9TYVpxVTRrUHc3RUJ0RUd2X1U0TW5GYWRMU0JwdGM4WFY5QmZ1eENOZmJsUVplNkg3U19MZW9aV0JxeEkzcHc2dHRFSl9MUlNDR1dIQ2k3bHJNMlZGZDZkRUJiS1E?oc=5",
+    "source": "Gold Derby",
+    "published": "2026-11-19T23:30:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Sylvester Stallone"
+    ],
+    "article_url": "https://www.goldderby.com/film/2026/i-play-rocky-casting-anthony-ippolito/",
+    "image": "https://www.goldderby.com/wp-content/uploads/2026/09/I-Play-Rocky_Still_02.jpg?w=650"
+  },
+  {
+    "title": "James Blunt on playing Glastonbury: ‘I’m on tour in the summer, so we’ll see’",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTi1UUUNBMHVoZWo5X21PQ1g4aTZxWElNbVNLaGw5WWR6WEFSb2l5TXBYdHlGaWlYczVwQVp1NF9vM09fUHVvREJPWHVkM1pleV9veUw2UEVBTk9RQ2VNeWtTRVp6STZHN0JDdUprQURWOVNnSVlxNXEybEVTdk9XcUtOME1ydzVvX1gyYmhILWtRYm9SMkIwX1lYY0ViV3N1MDNud09tTWhHR29HeG5KcHM5X20xZw?oc=5",
+    "source": "Lancashire Telegraph",
+    "published": "2026-11-19T23:21:41+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "James Blunt",
+      "Kylie Minogue"
+    ],
+    "article_url": "https://www.lancashiretelegraph.co.uk/leisure/national/26746792.james-blunt-playing-glastonbury-im-tour-summer-see/",
+    "image": "https://www.lancashiretelegraph.co.uk/resources/images/21741903.jpg?type=og-image"
+  },
+  {
+    "title": "New Unabomber Movie Announced for Disney+ After Russell Crowe’s Netflix Hit",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDFCVUZiMDhwbGJtaThhRWhqemliVFdQbENRVVNYYUFCRUJONG5mWmxoRncyTTctdWZUaHNkZjVNXzAxakd5Q2F0RjhPSkxqdXk2d3hnaDVBb0RaWFBYQWh5STh1RmNFWHBJZXdKMnBsbmpXSlFtTUxLMFRXX0h5NDQwOUtMVTlfcTYxaC10bzFDb2NIWGVtQVdIVUlVYVRkMXR2ZXFGZTFjcm5Gc3fSAbMBQVVfeXFMT3pUQWt0WkdmVHhnbm5Pb2trcE85SUtJOWVPMXBBUmJuM3RLWnFSdXRaZTRVZk0yX3RiM1B0M1Z2UkI2Smx1UWFYRjBnMUJsREJ3cU54d3BHWWJoVTRmNGRhdVN3TldySzhCUjlHNHViclUwdV9CblRtalp0Z1lpUFZOY29makhVcFlTdWZUOFBTX29ObmFXeTF6OVJ1ZElaTXB6YVlWMVQtb1JpMExrUnE3R1E?oc=5",
+    "source": "ComingSoon.net",
+    "published": "2026-11-19T23:12:11+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Russell Crowe"
+    ],
+    "article_url": "https://www.comingsoon.net/movies/news/2227946-new-unabomber-movie-announced-disney-russell-crowe-netflix-hit",
+    "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Unabomber.jpg?resize=1200,630"
+  },
+  {
+    "title": "Hugh Jackman's 13-year-old dream comes true in 'Avengers: Doomsday': A massive Marvel crossover is set",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zV25nbUp3YnotTHZTTTNMMTJFbUpXMkYzRHRpczN1QU9jWEpGYzhMb1NKTDNuS3RianlRa2F6RV91ZUt1NVlDalM1WkttSENBbWpGaUhJWDZBVFN0aEE5Sm5n?oc=5",
+    "source": "재경일보",
+    "published": "2026-11-19T23:05:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Hugh Jackman"
+    ],
+    "article_url": "https://news.jkn.co.kr/editions/english/post/1108836",
+    "image": "https://images.jkn.co.kr/data/images/full/112/20/1122081.png?width=1200&height=630"
+  },
+  {
+    "title": "Google Says It’s Investigating Russell Brand YouTube Video Where He Said He’s “Not Guilty” in Message From Prison",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLXlpcTVVVGhfQ2ZITzk3RUFLWjZBbGFDd2hMeG1rTHBIZXR5R3lkZXFidklMb3k3cVAxbVFVSS05WFpMdXNQY3I3Qk5jb0x0SElrWFhkdndwcHJzR0ctUWNvY1VRbUFUVHNSNWZRdkJqcEJnNEtxc2NNWHdWdVpOMWVoRVQ5NDkzWFBLSHJNWUhLYnE0NzctV09QQ0NoXzNtNXdVQWMyMkZ6OFdMTXVvaU9LQ2FqVXc5SE5SN1dIUHhFTDdoeVE?oc=5",
+    "source": "The Hollywood Reporter",
+    "published": "2026-11-19T22:58:34+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Russell Brand"
+    ],
+    "article_url": "https://www.hollywoodreporter.com/news/general-news/google-investigating-russell-brand-youtube-video-innocent-claim-1236759639/",
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Google Says It’s Investigating Russell Brand YouTube Video Where He Said He’s “Not Guilty” in Message From Prison",
+    "url": "https://www.hollywoodreporter.com/news/general-news/google-investigating-russell-brand-youtube-video-innocent-claim-1236759639/",
+    "source": "hollywoodreporter.com",
+    "published": "2026-11-19T22:58:11+00:00",
+    "summary": "BBC News also reported that Google declined a request from the Ministry of Justice to remove the video, saying none of its rules had been broken.",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Russell Brand"
+    ],
+    "article_url": "https://www.hollywoodreporter.com/news/general-news/google-investigating-russell-brand-youtube-video-innocent-claim-1236759639/",
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "ZYN Rolling Stone UK Awards 2026 closes with James Blunt named winner of The Icon Award",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0JqR3U2Tk4yUmVNdjBGS2xnZUlZS29XTVlIbW9xZUhrNHNYM3NfMGhsckVocnU0X3BDLVVEX0c0OUJnNmZxUXAzMHNXMWk5aTlJd3lxZG41Z1hkTXJCM3FmOF94dDR4RHRRRFJ5LVlhX2ptZEYyZTk1TXdpUE5nQ0gxV3pPWWtVSkNSZ1FXMXZUcFlMTTM4eUF3UkFXZGlkYk01YnBNNzlKOGJYaGtV?oc=5",
+    "source": "Rolling Stone UK",
+    "published": "2026-11-19T22:58:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "James Blunt"
+    ],
+    "article_url": "https://www.rollingstone.co.uk/music/james-blunt-the-icon-award-zyn-rolling-stone-uk-awards-2026-winner-66195/",
+    "image": "https://www.rollingstone.co.uk/wp-content/uploads/sites/2/2026/11/ZYN-Winner-icon-WEB-HEADER-RED-BLACK.jpg"
+  },
+  {
+    "title": "‘Street Fighter’ Finally Crawls Past $100M, Trails Even 2026’s Biggest Box Office Flops",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xT0lZeXRiam55ajIzcVBqUUhhV25uT0Fhbl9faEFOcE9lSjNWRXVuV1d5Z3pEaF8zcWRPQjFhb2xaTThDWlF5bGVNZURueVVGYkNfYVpTTnZKMmZCVEpj?oc=5",
+    "source": "Cosmic Book News",
+    "published": "2026-11-19T22:33:54+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Street Fighter"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Michael J. Fox thinks he knows what happened to the ‘Back to the Future’ Gibson ES-345",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFNDTFlzYWVJaG1QUFdUc3dsaWRyWkU4cDVMRllnMm45ckRrWk9heUNqa1lrRlRIeU5uUWdpZjFRdVptWTI3dlpaYldCX2VZeWI0N09sWlBRSk5iV1R2N1FMMEkwcURPeXN6b25vSjBuRUNhRFZGajY3SGc1NVM3X1Jzc2tBRElFVnljSW5MS21ILWpMeTc2RzdocGRoaVBGeUQzNWNjS0VnaEVIX2F4czN5Y3BmR0E?oc=5",
+    "source": "GuitarPlayer.com",
+    "published": "2026-11-19T22:23:48+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Michael J. Fox"
+    ],
+    "article_url": "https://www.guitarplayer.com/guitarists/michael-j-fox-thinks-he-knows-what-happened-to-the-back-to-the-future-gibson",
+    "image": "https://cdn.mos.cms.futurecdn.net/hGhX6oEn6yNg6PYQ6zxUh8-2000-80.png"
+  },
+  {
+    "title": "I will watch Nathan Fielder’s You Can See Everything – even if it makes me vomit into my popcorn mid-screening",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXEzbnpqNHZDNEpodnNzV0JaSlZIdFotNVZjeFN0dWJJMFcxMTRLMndzdzJqYjZnZS1iMzdHb09nX2paYk5UTzdYZ0h0cFFPb1ljWl9zT0V0Mkd2ZHh3VDFycE1kdmszcmJsQ1Q0QWFtd3NVTjBZcmxqZk5Eckx2Rm9yZWFNWUZlaUlnN1FUVFBjUDYzSndoRUhPYmFRRU9KMWtVNXpSdXBRMkNaU2RFQWdhN1ZWc29E?oc=5",
+    "source": "The Guardian",
+    "published": "2026-11-19T22:22:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Nathan Fielder"
+    ],
+    "article_url": "https://www.theguardian.com/commentisfree/2026/nov/20/watch-you-can-see-everything-for-the-culture-cringe-comedy-film",
+    "image": "https://i.guim.co.uk/img/media/23d920a4028fc02e2fea4e53c2f3a2f9454215e2/462_0_2106_1686/master/2106.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=d8ff177e2a0532111ec8806590c91ea8"
+  },
+  {
+    "title": "Nicole Kidman, Tina Arena, Mary Fowler Among marie claire's Women of the Year — LBB - LBB",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWFRTbFpNUFNYaVZpSzgzUnFUeWhCQUFJMXVmbXpCRnd3N2tCQU9HUFNEaHFSX3RVRmtlRXlKdW9mTGVyUXZZc1lYLUpxdG8tZ1dGbkYxelJaS0dhZGVDdGZYbjZvUl84cUdxRjA4LXBKd19VQVN0eWMtU0ROMlJjcFdVZUZhZzIzb05NTnVZc044R3NuTUZ4US1n?oc=5",
+    "source": "Little Black Book",
+    "published": "2026-11-19T22:21:59+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Nicole Kidman"
+    ],
+    "article_url": "https://lbbonline.com/news/nicole-kidman-tina-arena-mary-fowler-marie-claire-women-of-the-year",
+    "image": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-11/wotyhero.dVYozYJ8.png"
+  },
+  {
+    "title": "Nicole Kidman, Tina Arena among marie claire’s 2026 Women of the Year",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT29RdnpWLXlyc21wVjd1UDZIdGd1SjEzTm1DZENNMnA2ZEppc3k5NTZZN1MyY01mNWxPQk9LaFhoMzFaUEV4N1NaYWRkdGROejNuWll0WjB1VXBncWZOQnZNS0d4dF82dTI3a1RFWVpZMWFOMDkzS3c4M0U3Q3ZVZ2RiT18ycE5pNEJNa01Ka0JRZEdLNTFoTGtzWkFldw?oc=5",
+    "source": "Mediaweek",
+    "published": "2026-11-19T22:13:13+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Nicole Kidman"
+    ],
+    "article_url": "https://www.mediaweek.com.au/nicole-kidman-tina-arena-among-marie-claire-s-2026-women-of-the-year",
+    "image": "https://images-r2.thebrag.com/mw/uploads/2026/11/MW-201126-I42Z.jpg?v=1795125773116"
+  },
+  {
+    "title": "Connor Storrie & Charli xcx Star In Saint Laurent’s New Campaign",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWlF5UUJaMDhEZ2R0ZEo0MVE4V3VuanlWSS03dmF6cXQ2WGx5b0liMDhJN0YxQW9vTjZTQ0N4U2dyMG00UDRlLVVyYXJ5Y2M3UGRfWnRZMEU2enZ5RFE1RTNQbTRnbUh0RWx3VzFhcnNTN1FieEI4ZDY0UGlSeW1KeEpKNG5TQnFlazNOajlxZmo?oc=5",
+    "source": "The Zoe Report",
+    "published": "2026-11-19T22:06:50+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Connor Storrie"
+    ],
+    "article_url": "https://www.thezoereport.com/fashion/saint-laurent-le-smoking-60th-anniversary-campaign",
+    "image": "https://imgix.bustle.com/uploads/image/2026/11/19/a484d528/saint-laurent_le-smoking_winter-26_hr_3.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+  },
+  {
+    "title": "What Seth Rogen Learned From His Work With Steven Spielberg",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mdDBzQ0FUaWRVR1lmNHN2c29aeU5pSWFhVWpEX3d5bUZ4YUJGdGJXT0xWMENER0ljN1NWbGpvNWRiRHNKQUI0Z0RwNEU5bnU5aUluQlJ3eGxiYmJBenNpQ1JacE8zcER5YmFaclEyQQ?oc=5",
+    "source": "No Film School",
+    "published": "2026-11-19T21:59:59+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Seth Rogen"
+    ],
+    "article_url": "https://nofilmschool.com/seth-rogen-steven-spielberg-directors",
+    "image": "https://nofilmschool.com/media-library/image.jpg?id=68704251&width=1200&height=600&coordinates=0%2C41%2C0%2C41"
+  },
+  {
+    "title": "Aaron Pierre on ‘Lanterns,’ the DC Shake-Up, and Landing a Role in Ryan Gosling’s ‘Star Wars’ Movie",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1Bub3VxbGhSajNSLWVCOEo5bDg4a2xuaUxpV1RjeF95WEZuRWpjM3JBM0VzRTFTWDhWbHloQ2NCQnM1TXBncFBfRWpCXzloVWpiaGh0M1ZtT2hPZG1xZDFxbE85QlYwUC0teG1oM3R3Tndrd1lCNzhpRjFFNmY4NWZmUmdUX3psWXA5enp0Qllzc2Iwc09WWXp5X3FlcGp4?oc=5",
+    "source": "IndieWire",
+    "published": "2026-11-19T21:59:19+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Ryan Gosling"
+    ],
+    "article_url": "https://www.indiewire.com/features/podcast/aaron-pierre-lanterns-dc-shakeup-starfighter-1235229615/",
+    "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P107OHSK.jpg?w=650"
+  },
+  {
+    "title": "From Robert Pattinson to McKenna Grace: 5 Actors Unemployment Fears Most, Ranked",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqSmtBeDRhMzVUUU9LX3RTRkU3NVJpRHZJd3NCVG1obkFhZkJOVUxaTDJrWU1pMWdBRWRPaDBvNS10c003eWNsNTA1WHlZMk9hY01QdDRVZ3JuNkdHbHk0a3hocTcyUlU?oc=5",
+    "source": "IMDb",
+    "published": "2026-11-19T21:56:15+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Mckenna Grace",
+      "Robert Pattinson"
+    ],
+    "article_url": "https://www.imdb.com/news/ni66119718/?ref_=nmnw_art_perm",
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "How Mckenna Grace Hid Braids in Her Hair for Hunger Games Fans to Find",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcV90b09YSlcwNmM5QzdRby14X0RRSF9saHRNVktZakRmMGExVVl0LTMyNTFFc3dlOXhqV2djVXFHbm9JWlBKMVd1d1ZaMFF5MS1NcGZkbFBleU91R2txUnlyUFhOZmcySGg1UmhaX1ZyUkotNEI5aHhoSDlvUVRDcktqbmhZUi1rcmVHZ3N0ZTdOLXNFRTZxZHh3?oc=5",
+    "source": "Teen Vogue",
+    "published": "2026-11-19T21:51:52+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Mckenna Grace"
+    ],
+    "article_url": "https://www.teenvogue.com/story/mckenna-grace-hid-braids-in-hair-for-hunger-games-fans-to-find",
+    "image": "https://assets.teenvogue.com/photos/6aff6e5806e4f08c23b01c4a/16:9/w_1280,c_limit/2305471563"
+  },
+  {
+    "title": "In 2001, Nicole Kidman “begged” to be fired from a movie. 25 years later, it’s the one role she wants to play again",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1dKaDZvODlGb0VqRXd0ZDFiNVYyemhOaUFnNURtSFZEMEtPUjJxNGwxVmh6dm16OS1tdWVjcURUbHhjV29rUUdTTVBpN2V5ZHZuZGlrNktVbGNtaDRYX3VSZ21pVVFyMWt3RDRXOUpqMGhaYjR4bmlsZ1A1LUFHUWg5RVBxYzN4UTVKX1RyQUVWc0g2WFpRczlyRVMzVXdRcHVxREJLeThCRXc?oc=5",
+    "source": "Far Out Magazine",
+    "published": "2026-11-19T21:45:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Nicole Kidman"
+    ],
+    "article_url": "https://faroutmagazine.co.uk/2001-nicole-kidman-begged-to-be-fired-from-movie-role-she-wants-to-play-again/",
+    "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/10/Nicole-Kidman-Actress-2024-Far-Out-Magazine.jpg"
+  },
+  {
+    "title": "Connor Storrie Sci-Fi Thriller ‘April X’ Sets HBO Max Streaming Release Date",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qbHJVNVFNNW5rTFM4VGVlbEstRk9sLTk0YlBudk1xbU5FUHNkLXhfVG85dHNsMWhmT1lXSXpuMHFucmQ5Tm9WU21jTEFIMmtTbTl6LVpHMGRaakhDRmZKVjhaMkR0SDA?oc=5",
+    "source": "IMDb",
+    "published": "2026-11-19T21:11:12+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Connor Storrie"
+    ],
+    "article_url": "https://www.imdb.com/news/ni66119412/?ref_=ttnw_art_perm",
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Justin Trudeau is living the life he was meant for with Katy Perry",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZk1TT0ZnZ1F5NUQ5YWdza1ZaSE9jcDVRSmtxRG8zY3JwVkVJajR2bFhJcWNwc2lKSjdNN1U4ZXpybHM0TUh0cmpBUm54cjViYnZKMFk3dThIZE5Qd2NQZDJOdXlzTEZiWjNuVWdYXzIxM3lxR19MblJuU1NxNmFMLV9qX1ZSUTE1VmFMVzBBeG1KNHNLNnhkRA?oc=5",
+    "source": "LaineyGossip",
+    "published": "2026-11-19T21:07:09+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Katy Perry"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Who police think broke into Chris Hemsworth's home armed with knives and stole three vehicles while the Hollywood star and his wife slept inside: 16-year-old charged",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjlDa0d2SjJOOFIwQ25vN1BtRE13ZUU2UE1Mcmo1bzFGYktOcDFFX0RENnRhR0FaVGphbmNkWG9Ccnl3T1VCdlRKSzlJVEpvTlRzUWJoSDBPX0VJQm16dW1BbFktTWxkeFJlbTVFVzdGbmFfRFFBRmQwN1AtWWVjOHBpQUFDaTTSAYwBQVVfeXFMUFFoRGQ1NDEwWkNqWVJzVkQtc3VhMVFZZ1pacXpud0RhSEM3S01UUk9HaVpsVkJRRUYwY1FJNll3NTZ1WlhtQ1oyZXBsOC00Y095d2poNTNnUEF4V0N6NFpJZ2tQRVFERWNoZkNoZkpSYUpSN013LXBpNGVlWXhEajA5TlRsUWUwQjlDX08?oc=5",
+    "source": "Daily Mail",
+    "published": "2026-11-19T21:05:14+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Chris Hemsworth"
+    ],
+    "article_url": "https://www.dailymail.com/news/article-16307237/chris-hemsworth-elsa-pataky.html",
+    "image": "https://i.dailymail.com/1s/2026/11/19/21/112618879-0-image-m-20_1795122324538.jpg"
+  },
+  {
+    "title": "BAFTA's 2026 Breakthrough Cohort Connects a Polar Bear Documentary, \"1923\" and Ecuador's World Cup to Inde Navarrete and Connor Storrie",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXhiS0J6QU9qVUNxN01HYzF6LVRuSlBGNEJjdk4zOW1EaGNGdGFpWHNZRFdGZ1RmX0pmcW9hOG0wMXBLZWtpRDRMcjdPU2g2MHUzR2htTmNTeW5BSjJMeXFoZ2xQam1fNGFXR2dnaUd1RDkyVGdqUVZoS0RLYk02a1g5NkJRaFFR?oc=5",
+    "source": "Latin Times",
+    "published": "2026-11-19T20:35:40+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Connor Storrie"
+    ],
+    "article_url": "https://www.latintimes.com/bafta-north-america-2026-breakthrough-us-cohort-601513",
+    "image": "https://d.latintimes.com/en/full/594949/bafta-usa-cohort-2026.png"
+  },
+  {
+    "title": "Does Pamela Anderson Have A New Cookbook In The Works?",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORk1KLXBLTkc3MmVVVTZsbkFKMDhmc1pNWUFsenFrNGZGSTh0VXZDSjlQZmtia0l1b2NSM2FTUU5LbXFUX2h5dmV1SFJlendQcF8zY01IWDBfNF9PSHg4TExlQXhFaEQ0TTZRdFVOdnBreTdrczltWUJ1VlF4aFpIbEx5MGQwNkZFeDRZSVY3VQ?oc=5",
+    "source": "Chatelaine",
+    "published": "2026-11-19T20:32:12+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Pamela Anderson"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Watch Pamela Anderson’s Stop-Motion Holiday Film for Sonsie",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91akFwSjZvalpwbHJvNU4yLXNTOFd0RmQwNGNNNFRzYThoRlJETGhKRE5FZmlMT1NDSHE3aHB1UFF4NHVGYnpkYTBZUHlfeE12QmphdFFlQkJYTTFralA3UHkwNWtfUDRsZ0pPNWtBY1FxRnppN3U2OTV3?oc=5",
+    "source": "NewBeauty",
+    "published": "2026-11-19T20:23:46+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Pamela Anderson"
+    ],
+    "article_url": "https://www.newbeauty.com/view/pamela-anderson-sonsie-holiday-campaign",
+    "image": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/1a1212c19e4a787ba79a5d66e48a2134d0216812-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fm=jpg&fit=crop"
+  },
+  {
+    "title": "Pierce Brosnan reacts to Robert Pattinson's casting as James Bond",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWJ2aGNkU1BaTU5uVW5kYUdMbDF6YmYtczBYcjNOZnZsUmtTNkg2MTY0dFRsUlF3QV93ekVrWWV6RzdYckhpN2xOU0JhdTZoTS1JMWFTMjRodV9wREpoVl9nOXR4TXdNTGtVMDg4dmlXeV93SkFIQm1LT1hJcWo5SUR2SlBZazFnQWtKRXAyT1F4MkhJWGw4SlVXZGNfM1pfVXp5SzlvNmVPdktkZURQYXRmMzhwVmd2S2hRaGZ5SkNVbEItR2c?oc=5",
+    "source": "USA Today",
+    "published": "2026-11-19T20:16:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Robert Pattinson"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Seth Rogen Says Brad Pitt and 12 Years a Slave Cast Would Visit His Comedy’s Set to Cheer Themselves Up",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjBZSVVsTDUwTEstZll5Z05UV0JadjFlci1RcFhSV1NGQWFqdE1yemtFVFhvdVlaUVIySUpITEUxNEc1YzMxbThXM3o2dkZxU1RMOWFyVFVDbTNlRDRTb1JMOVFhVXViU2lPY09PZjV0Sk96V0xPQzk0ZGZTUmVFQ2QweVZTYkk2MnR3RE1RY3A3bnFpQTFfMWpBenVVQnVZNUZyTlBDOHFuQQ?oc=5",
+    "source": "People.com",
+    "published": "2026-11-19T20:11:12+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Seth Rogen"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Prison authorities consider whether Russell Brand harassed victims with YouTube message",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGxYWGo3SmdYNXpDQjZQWVhFTGVfR3JJT0pacHlKekNwUG1DSXpUUmtrOVNVZXcxMmZfZG1uQ3NtcTlEOWVzUVlrYzhCaUh2WUE3VG9nM0pnVTR0VDlsUXJqcjJraWp0QkNBNVAxOFJha2hiblUxS2JaMWRvcm01SlJfU256cFdpNEItVEJKNXB5Ulg4TDZ3b0tfTjJCanYwMlV1ZlU1TklVUHFDcnhlQ2IzUUdHby15U2ZYeTZ2dlNNdw?oc=5",
+    "source": "The Guardian",
+    "published": "2026-11-19T20:09:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Russell Brand"
+    ],
+    "article_url": "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
+    "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/508_0_4585_3668/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dbea04e86381b3d39489c0401e371190"
+  },
+  {
+    "title": "Watch 9News Latest Stories - Season 2026 - Google refuses to take down Russell Brand YouTube account",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUVBTzJWOWFGYmtrakFCVFBFZDQ4eGR3eVZiRG40N29fb1UtN1VvMjh5SmY0MlZVT2l5NFplckxBZTBxQ2VQeHVEdkt4dGdwN1N0X2oyalpqcjIxUjJpWWxndncyN29RbGVrZmZrbmdYM25XTG5jaTBsWFNDMnNTZkk3SDFWS05rT0NJRQ?oc=5",
+    "source": "9Now",
+    "published": "2026-11-19T20:07:40+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Russell Brand"
+    ],
+    "article_url": "https://www.9now.com.au/9news-latest-news/season-2026/clip-cmwnzfkem000u0ho81gutolos",
+    "image": "https://imageresizer.static9.net.au/v6P_NfAVlBtWMGad1yK3Y_EIHBE=/1280x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F11%2F808195%2Fthumbnail.jpg"
+  },
+  {
+    "title": "Google refuses to remove Russell Brand video with prison message",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3ZzcVd6d1pHRUpaNEZ0clAtMEppaTQyczRXTjFudWx3blRQdEdNSFN5OTlXck1seXJtdE5udWpqVkx4X3RIN0k4VHh0UEVqYUUxQzBMVUQwWmRmV2hsc3lCUWE1WHlnQ0d1NDlCM0NDNHlhZG1uZjQ2ejluMWlnQXBzalR3QjJFbk9nZXpmQWVsZGs2SllucTJ5R2FNbFQ2SGc?oc=5",
+    "source": "Nine.com.au",
+    "published": "2026-11-19T20:01:54+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Russell Brand"
+    ],
+    "article_url": "https://www.nine.com.au/world-news/google-refuses-to-remove-russell-brand-video-20261120-p61fta.html",
+    "image": "https://static.ffx.io/images/$zoom_0.3721%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_260%2C$y_86/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/6b68f7b19a07bb3fac976bb9fac2feeec6d583e5"
+  },
+  {
+    "title": "Hugh Jackman's \"Ridley Scott Meets Logan\" R-Rated Action Thriller Is Officially Taking Over the World",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91UldxMGhCcjgyaC1XVlZvckszUnJ2NV85M3M2b2UzU0RkekxudUtCQ2MtZUNuSTNUUTVLc3p0d3BHOHA3RTYtTjRCZ3JBTm1BUEVKRTVmSXRGMXpUc1hwQXNObVo3OUdSYkYxRDhGWQ?oc=5",
+    "source": "MovieWeb",
+    "published": "2026-11-19T20:00:16+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Hugh Jackman"
+    ],
+    "article_url": "https://movieweb.com/death-of-robin-hood-stream-november-2026/",
+    "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/hugh-jackman-death-of-robin-hood-stream.jpg?w=1600&h=900&fit=crop"
+  },
+  {
+    "title": "Pamela Anderson Shares Rare Glimpse of Her Sprawling 7-Acre Vancouver Property in New Video",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDZFYmVCOXRfcFFJNGRsczc1VG9HY3hEc2RxNzBkaTNkM3VKak1hWllaZ05jUmlEYTFULVRydE84OVh3WHI4VmFHSGVmamxqdm5NZWRMY21uWEpBWWJ3R29JOTFkZWhENlJ2aHdobFRKbjhicWxxNGcydGVXNGtkWGxRZTBsa1FBeVNjODBUY3FIVDZ4QWtyYXM2QlhraFJvU2kzSjdWN3kzRXJS?oc=5",
+    "source": "InStyle",
+    "published": "2026-11-19T19:47:40+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Pamela Anderson"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Martha Stewart Gushes Over Cate Blanchett’s Biopic Casting: ‘She’d Be Perfect as Me’",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVlXa1QyMHlMRzluOVZYZmstZTFqUl9RN09kdjY4SXRYc0ZYQTZaYWJYdDVsSXhQblY5c3hHSHo1Snh3b0dkT09nT2lmb0lYSF8zd3BkZDg4eDFsSTFKUzUyU3otMWZIREpCMVpwMjlvNE5NVmg1OE5acXNWZjU5RnU5LXJ3UXhubXNxeHdyZURIME5teVI4TXRDQmd2a09NUVFHdk5BUXRaQQ?oc=5",
+    "source": "intouchweekly.com",
+    "published": "2026-11-19T19:46:55+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Cate Blanchett"
+    ],
+    "article_url": "https://intouchweekly.com/martha-stewart-gushes-over-cate-blanchetts-biopic-casting-shed-be-perfect-as-me/",
+    "image": "https://intouchweekly.com/wp-content/uploads/2026/11/Featured-6-Martha-Stewart-Cate-Blanchett-1000x600.jpeg"
+  },
+  {
+    "title": "Almanac Music: ‘Ballad of a Thin Man’ – Bob Dylan: Live 1966",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWhlQ2VWUkRTeWxfRVQ1ZGQzZ0NpY0FnOFVmdTlUb3gtUWgxMGFwNWEzc0FQYk1xd01hbHk1RkpLOVAyYWNEbGZsRVBtcEhucmxiOW5EUkU2WVJldFluS3l3M01KN1l0TEZGc083am9sSmtUcll0dDNQX3JjWHJYRXlZRERfZFRqYmpnLTBGOHk?oc=5",
+    "source": "The Footy Almanac",
+    "published": "2026-11-19T19:45:37+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Bob Dylan"
+    ],
+    "article_url": "https://www.footyalmanac.com.au/almanac-music-ballad-of-a-thin-man-bob-dylan-live-1966/",
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Did Callum Turner call Turkish actress Nesrin Cavadzade 'my wife'? Viral Instagram comment sparks Dua Lipa confusion",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQcE40X0pMN1B5UzdMWW1lZUc5Z2lwOEVZbWZLd3VJZnRIZjlNRjhNYnU4ZGF3azc4dEhUeXlTTmxZVW83VERjYWNHTzRrWlEyMkhZT2pnRm0tc1B6MzctNU9hcl9yTmZOZE5VUWZwNUZ0Wl9kcWsxTnRyQmczV2lTQ1M0cWpPVFJ4bEZ5UEZUV2Nwa1ZCMVU4MUpzd0dEd1hhcW1OYUpPa2FnQjNMMVdqY210NTJ4dmd1NERHdHQ4Y0FiSHF0Wm9VTml3MXZZLW11OVFEUkUxOEtyRzNLa2Z3RFhPWERvUjJHTlQ1WDlPR3NVQ1NNNDRSNW5vcEUtTG1FOWZUQUVpbzVsSUZDbHNqTFRYWFRKRzZ2TjE40gGgAkFVX3lxTE5iV1RFeGhSeFE0R2pOQzkzbXNTdWNBNWVNX0RmNW1DQVVpUXhveEh0a1k3SmxFZkRweHgzSnpNQzk2Sk04Vk1QeGNqeEtLTElaT1V2cEtUS3VWOFhLMk1NSHBUNS1pZ1pQWVVhR3ZtV2JUWFc4MGc4eGRrR0JaWjZOYXFnUUJMZmRJbFhnMnJwLXZGd2NzQWh1OVhMRmZNWHVnS2JiSWdFOUlIVFd5VUI2Q0ludVdJRWQxdDIyc0F2MXgwQUlDY21sZkM0bTlrNmNjUlQtS0FWUDlNeENVSEpXbXhVS1pfQ3A5dWNVVG80MEJNSnlFd2VWTVFpRkhQRGQ4a2tDOUVaN1FiWjkwcGdZRkxBMGtRc1RpRllfV2U0WA?oc=5",
+    "source": "Indiatimes",
+    "published": "2026-11-19T19:29:28+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Callum Turner"
+    ],
+    "article_url": "https://www.indiatimes.com/social-home/pop-culture/did-callum-turner-call-turkish-actress-nesrin-cavadzade-my-wife-viral-instagram-comment-sparks-dua-lipa-confusion/articleshow/136000364.html",
+    "image": "https://staticimg.publishstory.co/thumb/136002362.cms?imgsize=351018&width=1280&height=720&resizemode=8"
+  },
+  {
+    "title": "Sylvester Stallone Sold His Dog From ‘Rocky’ Films for This Surprising Amount Due to Financial Struggles",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCdVFqbkpFUWFZYmZQWTNabHBEVWNCaHRuWnU1NVNXSXZVbUlUa0IydUM0R0tTUEZkVVVYNTFVd0RHUEZLZkZrdGM5anpYdVF1TGJPNFVSRkR6ZVE3cjNzd0x1WEtyQzRsaHhrSFUzTzdfM1pmS196dWpzcXU?oc=5",
+    "source": "InStyle",
+    "published": "2026-11-19T19:01:40+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Sylvester Stallone"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Before He Played Sylvester Stallone in ‘I Play Rocky,’ Star Anthony Ippolito Fought Hard for His Own Big Break",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbDQ5MlBKTkVDQURDZkd0TEFDMG92SDI3MDNJN3Z1UUJqdWF0QjRYWHVaYVMxTkZSTVh3RHlWTW9QWWpZVUVLLWU1WjBnaDZxRlhaaV9GbXptaXk0RlhZX0tIYmhMRzJHRFlYVV9YdS1UN3FabVlvcW83cWdGYkdkUUJyRXNFLTBJQUxwM3FUSWFCUkNXLXdrTW1YekUzQ05fYXVTQk4wQnlUakczOTlIQw?oc=5",
+    "source": "IndieWire",
+    "published": "2026-11-19T19:00:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Sylvester Stallone"
+    ],
+    "article_url": "https://www.indiewire.com/features/interviews/sylvester-stallone-i-play-rocky-star-anthony-ippolito-1235225053/",
+    "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2301399143.jpg?w=650"
+  },
+  {
+    "title": "Hudson Williams is showing off his slutty little waist in new video",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBla0dyczlFNzRUdG92a05RX1RuWTFMS0EtRVItTE1CamVCNE0wb24xR3ZBNzREdm80YWRMWElDcXJjV3YzaHEzVTE3S0ppbGhfejdGZVV4TEVPSGF3VGZBUmlCakxuQQ?oc=5",
+    "source": "Out Magazine",
+    "published": "2026-11-19T18:59:26+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Hudson Williams"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Russell Crowe's New Sci-Fi Action Thriller Officially Recruits an Og Marvel Icon",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByMnBFUkpRRktyckRrTkt0Yy1iWmdGM3NQQUNJMDBMQXB0aS11cDNYZ1BIaHJYNTYtelo4UWpRSHlLUXZqSldZTkpsa2VGRzcwVnlMSEg2ZGtIdUVFaUZJVVpYaXhYc1U?oc=5",
+    "source": "IMDb",
+    "published": "2026-11-19T18:57:47+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Russell Crowe"
+    ],
+    "article_url": "https://www.imdb.com/news/ni66119341/?ref_=ttnw_art_perm",
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Mckenna Grace & Joseph Zada Talk Sunrise on the Reaping, Slapping Glenn Close, & Press Tour Fashion",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LOUZLQUd3R2Q1dUVjYkVKenlzSlZHcGRxbUJjQ0czVy1mcWROLXZ1S2dJelB4aXVGc1RnSjVsQi1WSm9HQkJpZm5ZMnZJcEZlempscXc2eVBvcFFqekVRdFc1YlgyY0owSGROMVIxVjBaX3gtUzN4Ykx0a3k4TGc?oc=5",
+    "source": "Mama's Geeky",
+    "published": "2026-11-19T18:56:36+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Joseph Zada",
+      "Mckenna Grace"
+    ],
+    "article_url": "https://mamasgeeky.com/2026/11/mckenna-grace-joseph-zada-hunger-games.html",
+    "image": "https://mamasgeeky.com/wp-content/uploads/2026/11/the-hunger-games-sunrise-on-the-reaping-4.jpg"
+  },
+  {
+    "title": "You can (just about) see everything: Nathan Fielder's legendary lost documentary is online, sort of",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXVzUU5WMG9BM0FscXRlUTUxd2pTVUVjdGJncEtnSzVtYThWMDhxVGpweExIUnRzSmFwUEtqbW9Vbkg2Umg2U2NGS0pxaVc3LWF6R2NFSjRxbUl6TWFZMHhNY1ZGMk41djkzT2FhZ0c3ZjdVcEZrX0NMZGdiYU9HNGcwZGo4RG9MMThKd3o5R2tDM0cyNENSalJzOEtuQUxmeHphN2t4bHBTbXpEM2p3MlBsNldHSmRVdEgwRDB4QVp4VlBNY3c?oc=5",
+    "source": "Toronto Life",
+    "published": "2026-11-19T18:51:21+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Nathan Fielder"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
     "title": "Connor Storrie’s ‘April X’ Sets HBO Max Streaming Date",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFZKclUwajQ2LUI1ZlhfM1Fxdzh5eWxlTU04WGFTQzJfaHh3SmhYLWxrQ2RsSlRRVUREVVpiemdZbHlGcE1tNzg4MDdQUnppU2Uwb1VEd203cHl5VGREUUtRVHhZUm13U0NsdnBQOUtvd1BpM2NYTEdTMEpPUllGQ0p5dVhVOE5Ibmc?oc=5",
     "source": "Mezha.net",
@@ -12,6 +820,20 @@
     ],
     "article_url": "https://mezha.net/eng/news/mezha-7ba6820bf2cced97f80c808d_connor_storrie-s_-april/",
     "image": "https://mezha.net/eng/wp-content/mezha-og-r205/kd_image_generate/eng/3749537-207a95c442b2.jpg"
+  },
+  {
+    "title": "Google refuses Russell Brand ban",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRE94Y2ZBamRsTVkzX0MyV3BIOUxpSXdRcWYzZFFkX3JsMmJ5XzMyTTlxSGdkdmkya0hneVVZNThSQjFjR0Jhbmk2ZUtiWXRGUFVSdmtGUHVDUkJOV0hDTDhDbGgxRGwzRE1TbDcwTGhqd1Fpa2tXa3dsOFhBMjVzTzlIcEs5N2ZweXVMRVpBdkpuajhFQnF0bkJHeXBIMHFrTGhPUkZ5TQ?oc=5",
+    "source": "Nine.com.au",
+    "published": "2026-11-19T18:47:26+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Russell Brand"
+    ],
+    "image": "",
+    "image_tries": 1
   },
   {
     "title": "Connor Storrie Sci-Fi Thriller ‘April X’ Sets HBO Max Streaming Release Date",
@@ -39,7 +861,7 @@
     ],
     "article_url": "https://deadline.com/2026/11/connor-storrie-april-x-hbo-max-streaming-release-date-1237229307/",
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
   },
   {
     "title": "Martha Stewart reveals Cate Blanchett will play her in biopic set to follow her life before stock trading scandal",
@@ -53,6 +875,20 @@
       "Cate Blanchett"
     ],
     "article_url": "https://www.dailymail.com/tvshowbiz/article-16306395/martha-stewart-cate-blanchett-biopic-trial.html?ico=authors_pagination_mobile",
+    "image": "https://i.dailymail.com/1s/2026/11/19/18/111683009-0-image-m-8_1795112411727.jpg"
+  },
+  {
+    "title": "Martha Stewart reveals Cate Blanchett will play her in biopic set to follow her life before stock trading scandal",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlJrbXJDZ2VqTlZBdHVQTDhZNVp6aHYxUTJHMHhSbDh0Q3BMc25VYldMQnF3cTVmZ1pyNEtnUzlJRWNwdm5jOVVUZWFSMVdCdVQ0aXN3MnJFbjRlSVBoMjVJa0lGdnNRWEJZVTNFNHFaRzF1dnJfakc1TlItSDE0TVI0b2xPUl94ZktFeEVDRlBoVXZLS2lqMHg4WXpuX2EtLXc?oc=5",
+    "source": "Daily Mail",
+    "published": "2026-11-19T18:41:35+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Cate Blanchett"
+    ],
+    "article_url": "https://www.dailymail.com/tvshowbiz/article-16306395/martha-stewart-cate-blanchett-biopic-trial.html",
     "image": "https://i.dailymail.com/1s/2026/11/19/18/111683009-0-image-m-8_1795112411727.jpg"
   },
   {
@@ -83,7 +919,7 @@
     ],
     "article_url": "https://www.imdb.com/news/ni66119281/?ref_=nwc_art_perm",
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
   },
   {
     "title": "Is MobLand based on a true story? Tom Hardy's fixer traces back to real men, just not London gangsters",
@@ -111,7 +947,21 @@
       "Connor Storrie"
     ],
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
+  },
+  {
+    "title": "Heated Rivalry’s Connor Storrie’s New Sci-Fi Movie Sets HBO Max Streaming Release Date",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVnFUM0hoVGYyZW1kcl94NFdQTkRpU2pqOWdDdkRSUm51MWQ4REhsaVZUMlNOZ3o1RW9EaTJFa0N6NEhaVWoyN3JLdGg4UUNzX0FFZVV4R05zbVhGT2JmOElCcF9ULUJ3bTJNdGlIX3ozZ01wQTdhWE5CVTZZZU5vNmJadDB6RW5faVoycGE2V0ZsNzMzZWFv0gGcAUFVX3lxTE1pMHV6RFQ5Vk04dkdtOTFjT0xUdTlvMWJMamtEOWtHbWdEZEdBZlBmU1dPbUZFdjJjUDg0ZDBQUURvM3RGU0RwbmdkcE85OEhuQkhxTUxKa3QtYUNwdFV4UEhjeDRYV0NUdGk4azhKWnlmdTVLOFN1RkZ3REJvUk9KM1N4SlRuRVBjd0kxZUxxaTBOMEw2WlNwNjUwZg?oc=5",
+    "source": "ComingSoon.net",
+    "published": "2026-11-19T18:09:06+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Connor Storrie"
+    ],
+    "article_url": "https://www.comingsoon.net/movies/news/2227601-heated-rivalry-connor-storrie-april-x-hbo-max",
+    "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Connor-Storrie.jpg?resize=1200,630"
   },
   {
     "title": "‘Obsession’ Breakout Inde Navarrette to Receive Spotlight Tribute at Gotham Film Awards (Exclusive)",
@@ -126,7 +976,7 @@
     ],
     "article_url": "https://www.imdb.com/es/news/ni66119179/?ref_=nwc_art_perm",
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
   },
   {
     "title": "Icy blonde bombshell Elizabeth Debicki steals ‘The Further Mis-Adventures of Cliff Booth’ from Brad Pitt: Review",
@@ -256,6 +1106,20 @@
     "image": "https://s.yimg.com/lo/mysterio/api/208e2f8d8ccdab1461057b3c99332e4308e7091377af26a6459fe3c07d0dfeb9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F3e724a46012de1219f381ef8218aca47.png"
   },
   {
+    "title": "Liam McIntyre on Who Would Win: Him or Hugh Jackman as Wolverine?",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWwtelJIcTFLZl9DZEkyY0xJajB3SjNYM2JGaGoyWmFfUlh3V2pIVm9oUUVqS0IxekJBbmpzUndNZW5NLTJ2cm84UmZ6UUdyNVBNYWhtQVVtSHlDRF9hbzZVV2x2RWM2QVJmSDB3VlhCejNKVjctTS1hT1hSNlk3MDJpNU5vUTFzb25Bbw?oc=5",
+    "source": "Yahoo",
+    "published": "2026-11-19T17:30:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Hugh Jackman"
+    ],
+    "article_url": "https://www.yahoo.com/entertainment/videos/liam-mcintyre-win-him-hugh-173000780.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/66f810d3bf797beb2865a15b4c59121e76693bda083efd5cd70c5700a9f313cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffuture_games_show_911%2F6053095872e318e8f6f6869fcc3bc257.jpg"
+  },
+  {
     "title": "APRIL X to Stream Exclusively on HBO Max, Connor Storrie Stars in Near-Future Thriller",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbWlubmExZnpyNTBfNHhERnpTb0RSVGVjMTNrSnZTYnJKQk9rQmNBakJrZGtLQndiR1hkWnNBOW41MzZJVl85SjNxSnJBYWljVjNhVGltVWdwcXlBNXVubmZlSFhVdFduR0RlOFczVWdQRFVvNm9FLXBYZHRBYWlwZFRWZFhjOWVMcVdfbzREeUpEWVltRTBlQUhmN2dJZ3VzWnloRFk1YkFqZ2Z4Y2hOVkhhQjdVYmsxMWtFeWtMZkpSa281N042ODFBSDRRdnNoc0ZmQQ?oc=5",
     "source": "BroadwayWorld",
@@ -266,8 +1130,9 @@
     "celebrities": [
       "Connor Storrie"
     ],
-    "image": "",
-    "image_tries": 1
+    "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/APRIL-X-to-Stream-Exclusively-on-HBO-Max-Connor-Storrie-Star-1795105255.jpg?format=jpeg&quality=80&width=1200",
+    "image_tries": 1,
+    "article_url": "https://www.broadwayworld.com/bwwtv/article/APRIL-X-to-Stream-Exclusively-on-HBO-Max-Connor-Storrie-Stars-in-Near-Future-Thriller-20261119"
   },
   {
     "title": "The Gotham Awards To Present Inde Navarrette With The Spotlight Tribute Award",
@@ -296,7 +1161,7 @@
     ],
     "article_url": "https://www.hollywoodreporter.com/movies/movie-news/obsession-inde-navarrette-spotlight-tribute-gotham-awards-1236759136/",
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
   },
   {
     "title": "Martha Stewart Says She Spoke to Cate Blanchett About Upcoming Biopic",
@@ -324,7 +1189,7 @@
       "Ryan Gosling"
     ],
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
   },
   {
     "title": "‘I Know How Lucky I Am’: Amanda Seyfried Has Two Movies Out This December, And It’s Funny How Wildly Different They Are",
@@ -413,6 +1278,20 @@
     "image": "https://hermes.media.transform.aol.com/e259dbbe23b5f53bf18a1afd03bd38a376ce0aad/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/11/19/08a280d5-742f-3ed3-afd2-f6c8fc9fd8e0/ca49937b-4eaf-4feb-9804-a6e2ac4def05.jpg"
   },
   {
+    "title": "New to Archie Rose's Harvest Series is a special gin made with wild honey sourced from Chris Hemsworth's farm in Australia",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1OXRrRVhDM1dROUtQQ2wzTXpVMWFnU0tTWDdoYVJqUUFWLUVuZXEyRWcxYWd4cWZhNm1mVXZMcWp3OWJPY3pCYS1seVJZYnJMZ1hTUVJCdG1UNG5aWTU4VU0ycno3UllFZHc?oc=5",
+    "source": "Robb Report Singapore",
+    "published": "2026-11-19T16:16:33+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Chris Hemsworth"
+    ],
+    "article_url": "https://robbreport.com.sg/archie-rose-macadamia-honey-gin/",
+    "image": "https://rrsg.s3.amazonaws.com/wp-content/uploads/2026/11/16065425/Archie_Rose_Gin.jpg.jpg"
+  },
+  {
     "title": "'Rev.' Druski and 'Deacon' Mike Epps scheme, cuss out police in trailer",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3puaWRoZUhiRGVieGVqYkhKVFhJNjVoTUpLcnVRVkxiR0dQdkhmZW1mcm5PMHcwX1lWanNRX3RDdHplZ0d1bURJYjZfb0JhLWtHVmg0WUNfV19vTGV0a1NLUzBXZFU3My1RMk9VOVZGZzc0cHNtaUhFdFdKUGNhMjhzQ082Q0NsS2dsWFh5aVFaRnRxS0ZfRmdoODVxVnBxdm9ROGxOV2d0eW9rVFg0a29yZkFaTWh2UVdxeFBMT3NCQmVycV95YmZzbHVEdWs?oc=5",
     "source": "IndyStar",
@@ -424,7 +1303,7 @@
       "Druski"
     ],
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
   },
   {
     "title": "Russell Crowe's 101-Minute R-Rated Action Thriller Makes a Streaming Comeback",
@@ -469,6 +1348,20 @@
     "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/Bhanushali-Studios-makes-international-production-debut-with-Al-Pacino-news.jpeg"
   },
   {
+    "title": "Bhanushali Studios makes international production debut with Al Pacino and Isla Fisher starrer CAPTIVATED",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMklJRG0zY1BaZTh1b0FMbTJhWUw5WkdKX0tIc1Y3WjRrbnhzemIyWXNDdTZEMTZtSzQ2SHRZUFpId1dqQVliU05LWlIwekVsLW8yRjdCZlFkT080emc0TFk5cThYVTJ6REtmbDhRU0xXRVVIMUE1V3BYZnVWNEhKQnJsZG5ydFJpVHd5NEFudDF6NllMTmNBamlaQ2VUVGtmQkY0T2ItbDZtRnBrUmkxR2JWeGdFTURETERlc2xIQ2txbzZEWUlyOFl2Ti1XQV9UQnJRZEV3RUtYSThBTm9BS1VlUlVkcm1O?oc=5",
+    "source": "Bollywood Hungama",
+    "published": "2026-11-19T16:02:05+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Isla Fisher"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
     "title": "Blake Lively hit by ‘devastating’ new blow as Ryan Reynolds marriage under ‘strain’",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTdyczloOHFUNFlUeTJsTGhhTmJEMnF3Y0dlQ2VaSThDQndHZmNIYm1jNS1icElnNDY0VVdYbXR1dGNNZDkxYlBqX1U1YVVHa2tUdkc0NEZwWWZPYVFDaWJQMG5EUjMxa0REYU0wYTl6VTdjT0xfLV9jZG5XYlpYQjRPY3F4X2ZXWEZYLTA3SjluNUNBQ0FBN0owMklzWi1CUnFPTDgtSzFLUzVibE9jdjY5MF9RQmlULXQ1dy14MA?oc=5",
     "source": "Closer",
@@ -494,7 +1387,7 @@
       "Sylvester Stallone"
     ],
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
   },
   {
     "title": "Kendall Jenner Hints Jacob Elordi Is ‘Green Flag’ in Major Dating Confession",
@@ -609,6 +1502,20 @@
     "image": "https://d1rldr9jdodfaa.cloudfront.net/images/01M7T6XM0S859VHCWKPWFR42FR/20261119_153105_2305495662.webp"
   },
   {
+    "title": "Zara Larsson performs “She Did It Again” at Montreux Jazz Festival 2026.",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMUxNVlZDcHpVc3RscUdCY01ROU5OQjFISWxKOU52WmFHNnM5bmJhbFlsOTRMa2FPbVpIWVVPLUpKVk9lRndoeXdEV3VlMUwtX2FDWmRDQjl5TExwNV9oWDlsMldSSmZUT25HWENBUlk?oc=5",
+    "source": "Complex",
+    "published": "2026-11-19T15:35:01+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Zara Larsson"
+    ],
+    "article_url": "https://www.complex.com/music/pop/zara-larsson/posts/W1Ch4BxL0p",
+    "image": "https://i.ytimg.com/vi/Y_KZrRCePKE/mqdefault.jpg"
+  },
+  {
     "title": "New Music Friday Example (11/20/2026) – GTA VI, YFN Lucci & The Kid LAROI",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2RYMXZFTXEtaHpsMUhaVmladkZCZjVkY1Rma2R2aXcxWVkwMVVDa2xjaEUwaUQwSm5QdHlac2wwNmxlUUR3a0pOVncyZjVIaDFmRWI0SS1mNndOV29GbkdQSTJZOHhzUFJrcy1PR014M0tkckhUS0UtUG5WQ3FidEFtdEN5Wnc5Q0R3eUR3T0RtdjJXN1dvdndETmVHa25xU084NFJfc2hhMEU?oc=5",
     "source": "Ratings Game Music",
@@ -704,6 +1611,34 @@
       "Cate Blanchett"
     ],
     "image": "",
+    "image_tries": 2
+  },
+  {
+    "title": "Martha Stewart is incredibly pleased to have Cate Blanchett cast in her biopic",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRDNRTVVvRXpJMDg2QlhYbXAxSW44U1cwMThNMnQ2aHZLaXBlN2xHay1CSTV6bklyUi1xX0h2bHJ5WnlWcXpUV1c4QkQ0THpXYmF3TEEzbFhEU1JIX0g5U0VmMWpTS3RWdkJRbkhaTWJVOFFVYzNOcmVtcFIyOGE2emdGVU55Q1hMeFlHbnBBcm9YeFo4MHJmbk9aNDhmNjhLSzhnSGtOZXFsX0tKLWVGbzlvU0xqdGpuVzlVcGh4QkpXRklkTzQwZ2RDUk5pOUxRclVSNVVxclNQVmFDWTBndGI0N2pfbF96SUR4WTY2cXpTbHM0UE4xcjFRNXVXajV6Y0VhLWJkOUF0MDRG?oc=5",
+    "source": "The Daily Telegraph",
+    "published": "2026-11-19T14:52:11+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Cate Blanchett"
+    ],
+    "image": "",
+    "image_tries": 1
+  },
+  {
+    "title": "Martha Stewart is incredibly pleased to have Cate Blanchett cast in her biopic",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRHlYUWtxaFZrTFI4T1RraEIxNzl4MW9SVnNZQmxpUEZVcHJWbjQ2Z3pqeFZMQWgtN0V0X3dEbHMzQmQyWkk2S0FYT04xZjJfcktnN2pJYkZfc2NtUHpFa2s2THpTaXllRWhHMURWVW1sQzlsRlVkT3VXX2RDY1psTFA5dmgyUm9oRUR5cDV3M2RFOUFEY3l6TTA4TU8wS1U4WkhzX19vMVMxZVltYm9uOFZqYkRsMVVmdkNXRVZ2QWphZlQzX0JkQWFlZkdTaThOM1ZyME9FMmtPWjQyNEVnYUF5eExja3k2ZlZ0ZjFPVy1YZU5OeUlWWlNOWGdQUTFSckE?oc=5",
+    "source": "NT News",
+    "published": "2026-11-19T14:52:11+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Cate Blanchett"
+    ],
+    "image": "",
     "image_tries": 1
   },
   {
@@ -778,6 +1713,20 @@
     "image": "https://s.yimg.com/lo/mysterio/api/a8c42a6919dbfe616edc3d85772b93909406e540fb1fefc9f558d40fd4592933/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F1754494960a61a0c0ce186e0b90f5af4.jpg"
   },
   {
+    "title": "Ron Howard Says He and Jim Carrey Won't Make Another 'Grinch' Movie Without a 'Great Script'",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtU19PclFNUllLZHQ1SVFaNFlFa25NSnpMdTFXS1RwTDRVdUpwTThKYksxVjdteE1sTWdJVUQ2SlBvY1hnRzl2amNTUjZhdzlINWx0WVBnSi1zRjF5YjZ1REUtQnNqamQwV0p1LW15RVNPZG1lcWQwTnhB?oc=5",
+    "source": "AOL.com",
+    "published": "2026-11-19T14:30:48+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Jim Carrey"
+    ],
+    "article_url": "https://www.aol.com/articles/ron-howard-says-jim-carrey-143048000.html",
+    "image": "https://hermes.media.static.aol.com/media/2026/11/19/963d0f1f-1212-3b37-b35c-018a02e83294/1c1780e3-3521-4d99-80f6-22ff1c925012.jpg"
+  },
+  {
     "title": "Robert Pattinson has been tapped to star as James Bond in future installments of the 007 series. Read more below.",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUdzU0ZvdGhPRjMxMUh6ak5BSnBOYm1TaUJ2RzY2WEZyaC1XYmpuWkZVXzgwQjZOLW04Q1JYd3hvZEhwV2dhWUdqRTZhdjRKUkdCOGNBbHY1OWF4YXNkZlV5QXQtMk9MMVJJcUJ4QWVDUy1IdHdFSWREU0JkQmFKWVRsMTFnMmE1UU5VNUpZdExEMzROUmUzTzUxWndUQ1BJdFdRcEdfR055SDVMRTF6ZWRiVmJQdnBKQVVjM0xlOFFTTTBBX3FKV3FRQjlRRWQ4YnpFYQ?oc=5",
     "source": "Facebook",
@@ -790,7 +1739,21 @@
       "Robert Pattinson"
     ],
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
+  },
+  {
+    "title": "Zara Larsson fans celebrate Grammy-nominated “Blue Moon” and debate it against “Midnight Sun.”",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtZHppczJJNXQxZUhIekpZamo2Z290TDBfZ0h1Y2k4R1NKeThJc1JJM1RSWHZwNllSYUFibWZPWGZqNE9hQ3duU0VBdHZiZEc2OEZiVl9vWkFmbnNLZGFKb21nZlhwcVU0bXluemRpenQ?oc=5",
+    "source": "Complex",
+    "published": "2026-11-19T14:25:01+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Zara Larsson"
+    ],
+    "article_url": "https://www.complex.com/music/pop/zara-larsson/posts/uM4W2GHmgb",
+    "image": "https://images.complex.com/complex/image/upload/v1580336825/complex-og.jpg"
   },
   {
     "title": "All About Hudson Williams’s Girlfriend, Tattoo Artist Katelyn Rose Larson",
@@ -804,7 +1767,7 @@
       "Hudson Williams"
     ],
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
   },
   {
     "title": "Al Pacino, Isla Fisher To Star In Bhanushali Studios' First International Film Captivated",
@@ -818,7 +1781,7 @@
       "Isla Fisher"
     ],
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
   },
   {
     "title": "Hunger Games director Francis Lawrence recalls moment he knew Joseph Zada was ‘right choice’",
@@ -832,7 +1795,19 @@
       "Joseph Zada"
     ],
     "image": "",
-    "image_tries": 1
+    "image_tries": 2
+  },
+  {
+    "title": "Hunger Games director Francis Lawrence recalls moment he knew Joseph Zada was ‘right choice’",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNclFmWFd5UjFBaXRrREZVel9XTVZmTGkwYnBvSVRPRUdXM3FxYk9ub091cnEwVnhRYVZjUUJIRjJjLVZ6S0loUFJleWUzdDF4NWtocWpXVGJBbUdOSkRUNVF0NV92MlJhdnh6SXBqUXdoZGRjNVA4c0pYRXlGZHRHUTRHYmdtRkhJR3ROYkdHVU1RM0ZoNTllVWM4MHBKWHg4UDdCZWRzQk0xc2xvTEM1MXE3MHZEQ29FejJ2VVBobXY5SVNMZzRma3hHVkJtc2hHWWFZa0tiYnRxeXhVemc0ZGJNcUQ3RHR4cEloN3YtM1JhZE01ZlJGVWxadzVITklF0gGAAkFVX3lxTE1yUWZYV3lSMUFpdGtERlV6X1dNVmZMaTBicG9JVE9FR1czcXFiT25vT3VycTBWeFFhVmNRQkhGMmMtVnpLSWhQUmV5ZTN0MXg1a2hxaldUYkFtR05KRFQ1UXQ1X3YyUmF2eHpJcGpRd2hkZGM1UDhzSlhFeUZkdEdRNEdiZ21GSElHdE5iR0dVTVEzRmg1OWVVYzgwcEpYeDhQN0JlZHNCTTFzbG9MQzUxcTcwdkRDb0V6MnZVUGhtdjlJU0xnNGZreEdWQm1zaEdZYVlrS2JidHF5eFV6ZzRkYk1xRDdEdHhwSWg3di0zUmFkTTVmUkZVbFp3NUhOSUU?oc=5",
+    "source": "News.com.au",
+    "published": "2026-11-19T14:06:30+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Joseph Zada"
+    ]
   },
   {
     "title": "Martha Stewart delighted to have Cate Blanchett cast in her biopic",
@@ -847,6 +1822,19 @@
     ],
     "article_url": "https://www.femalefirst.co.uk/celebrity/martha-stewart-delighted-cate-blanchett-cast-biopic-1453949.html",
     "image": "https://www.femalefirst.co.uk/image-library/partners/bang/land/500/m/martha-stewart-is-now-a-minority-owner-of-swansea-city-aW1hZ.jpg"
+  },
+  {
+    "title": "I will watch Nathan Fielder’s You Can See Everything – even if it makes me vomit into my popcorn mid-screening | Rebecca Shaw",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/20/watch-you-can-see-everything-for-the-culture-cringe-comedy-film",
+    "source": "theguardian.com",
+    "published": "2026-11-19T14:00:52+00:00",
+    "summary": "I don’t know how the film will make me feel, I assume bad. But I will take the psychic damage. I’ll do it for the culture I realise it’s only the most annoying people on Earth who say this sort of thing, but I’m going to bravely say it anyway: I am an empath. I have always felt in tune with other pe",
+    "image": "https://i.guim.co.uk/img/media/23d920a4028fc02e2fea4e53c2f3a2f9454215e2/462_0_2106_1686/master/2106.jpg?width=140&quality=85&auto=format&fit=max&s=6d2c25fdaacf78ea2056558de36dc0c6",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Nathan Fielder"
+    ]
   },
   {
     "title": "Mckenna Grace Gets Ready for 'The Hunger Games: Sunrise on the Reaping' World Premiere",
@@ -960,6 +1948,18 @@
     ],
     "image": "",
     "image_tries": 1
+  },
+  {
+    "title": "Exclusive: Jack Marriott Drops Verdict on Wrexham to the Premier League, Ryan Reynolds and Rob McElhenney",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXk2YXcyTGVibWdCVVhFWVZoR29aemJwR2JUV2U0UE9jMTJmbl8wZnIxY1YwajVSYVhvLXhkMkVJQ2tMU1QzS252MkFWd0h2dTZ0S1MzU0VpQkhDYnM2bXBLYUJCQkpjMzEwc0ttRjd6cmRyc2MxMGlZQ0JmY2t6eXNNQnlJTGJoVnNQWVVaSm1IckhwdkpOdThuZVh4d09iWVE?oc=5",
+    "source": "GiveMeSport",
+    "published": "2026-11-19T13:15:14+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Ryan Reynolds"
+    ]
   },
   {
     "title": "Stallone origin story 'I Play Rocky' punches above its weight – Review",
@@ -1185,6 +2185,18 @@
     ]
   },
   {
+    "title": "Russell Crowe Action Thriller Also Starring Liam Neeson Released 16 Years Ago Today",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeW9LUng1c1dQMVkwbVpUNmpOa1lLcWpHSkpfVkFVMEZZakJTZGZmWWZkSlZDVmdobWNQUTA5ZEVDTkFJODg5Y3J4YlNWWjd4YXprZ0p5NFFnNlZ1TjlUd04zS1ZnZm13TU1BSWlReURRRFNoTEhxNGJwUGYtNnNiQV8zY0xwNWVCdnc?oc=5",
+    "source": "AOL.com",
+    "published": "2026-11-19T11:35:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Russell Crowe"
+    ]
+  },
+  {
     "title": "Hugh Jackman and more than 150 Australian artists have joined a campaign to protect Scott Reef from a gas",
     "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPTTd4WTZCaU5mX3B5UWM0RHhTOENWNFpWRjBEa2lMY0FzVDJGMU9nTy1rVmxLcXluSkJMUGc5RnZ1RUl1czY2S2toVFJoMEZNNUJCVF9WeTZUX2JlbnpyaDZHVm9ZOEhDbDZCc054NWdabkJBX0Q1UGUzYWhmc1Rkdkw3RkVEZFpWZGVFQ2d6OE9ONGVnUGY0cmFNSGFuRTBXOHNiR0o1b2V3T0xZMXlmS1BYVWFYR2dUcFdzMXRHeTAxM0RRWXRIY0RDcG93TmxtdHZmSFU3SnJnUjFHUU1uNmlaUnpObjNvYmhuNEppa3RFc092ZmtVcFJnWEFMTjJQMVBGZC0xeUhqdXB2SVRMaE9nWjBON2MwNVlmcHQ0VmNtOVhoeDJTOFl3bWZvMEpWWjBhWXhma0FUT3JQOTJsZ0s4TnZuQWhfYTJLTHhLWE1OY05kNzFfbnBTN29Rc0FwbFZEYUI2MkFqeEhuTWJCbUl2VXFOS3ZkSVhWZHpPeWZvVlVnMnJlOWtFMEtIcGt6dEYwZ0ZiWDhNZ2laZWJlbGdpb0MxNVJPc0wwVHl30gGzA0FVX3lxTFBQdGpnSDBlaEdsZUVMc2NlMnhOQ3BlV3dyak02alBnclp1Sk5UdG5sbFRYMFQ5RGdxNGVmT2lQbW5YT18xWmtCdXFDeEVlbG9rbmwtNDRjYVdmcG1fZWo5Mnk0Q3FXOEVDSG8zU2ItUVUySUdXeTRvTklBaWdHRWpCa0E1VjFXWkd3SDFacVJLUFQwMUZTTGo3d05Ec0JDUjRLWFpmU2FsNUdiWTJ0MkNHTTQ2OGotSjh1bF9JMFJMWlhpYXNoNWZYdmZ6Q04tZUdQSTdwNXNxWEo1WHQ2WGdaTTNDallRSEN0Ykt2ZEpaWnYyU0d6LUJVb3VuNVJFbTg3bWdiWnJ2aFh5LWJieWdLYlFENVMzMnZ3Q3BHSlJpSkQzSFNKQnQ5eVBmN1BTNWdpRTVNdGJBUmkzR3JZRG5NbkZnaXVKWW1JcGgwZ0luM2t2SGU2VnFkbWN0dThweGg4c2lvY0tyY3VBbEp3RU1jLXl2V2FfczNjVHdMZGxsVmNpU0NaWjlRZ0lUTzktTVZBLXhzT2xudE91MnpXNmFqZFZUQUhDU0ZtdkZxdTFTQ1Q4RQ?oc=5",
     "source": "The Times of India",
@@ -1204,6 +2216,18 @@
     "summary": "",
     "batch": "2026-11-20 05:00",
     "found": "2026-11-19T18:50:04.581528+00:00",
+    "celebrities": [
+      "Elizabeth Debicki"
+    ]
+  },
+  {
+    "title": "Elizabeth Debicki Joins Brad Pitt in David Finchers Cliff Booth Film",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TbkN0ZVlFTDh1Nkd2OVk1dXUzblU3c1k1MmJ2LXZ0czZTWTNWY1BFZndHT2NVVGNfODVvZlZyVmVKSE1hSHI0Q2dUMnQ0bUp0cWFOVHBEekkycXJWaWY5WTFaWWc0U1hWenc?oc=5",
+    "source": "Peradaban.id",
+    "published": "2026-11-19T11:19:15+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
     "celebrities": [
       "Elizabeth Debicki"
     ]
@@ -1300,6 +2324,18 @@
     "summary": "",
     "batch": "2026-11-20 05:00",
     "found": "2026-11-19T18:50:04.581528+00:00",
+    "celebrities": [
+      "James Blunt"
+    ]
+  },
+  {
+    "title": "#SHOWBIZ: James Blunt legally changes name to Ryan Air after UK No.1",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ19XQzhxVTJPTmNKSnhnbklGME8yYTllcFZoY0RZWUVjNGZKUG82UmxaQTJqM29TZ1pvUFhmbk5fS1dTd1ZCQ0J0QmxZSFM5MDIwa3FIemhhdlRNYTFQUlA2d2VpY1FCMXpVRmI4ZF9fWFQ1MUZ1ZmJUUjJmallxaUVVN0Q4X3JXb29wOTRCMjV6X3QtMnNhRGVhaFMzUXNHU3dTb0NMRk1qdFVtRnVnV2VMU1gtM2xuX1HSAb8BQVVfeXFMT05OVk5qZE1RTHZQSmtBVTJpWGh4LVdKcjVjUGs2U0ZHT1RRWDZjaXdvV2lyMzM3bmxZVklKX25NZURnZDljdHI2NjhkN0M2U2ZRQjBrX2hGNmlIQnYya0h4NnljTmVEUE8yQmg3TFR6Um0tXzMyVFUwOXhZa0lMUWpCa3MzMmNIeUc5a2lUTmJ1R0stTmtRb2hERDVjaDhlbTdVYS1EbHdIT01RX0hTblZkTzZxSFFMZW9DSmVmRUU?oc=5",
+    "source": "NST Online",
+    "published": "2026-11-19T10:30:16+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
     "celebrities": [
       "James Blunt"
     ]
@@ -1473,6 +2509,18 @@
     ]
   },
   {
+    "title": "First Clip released from Martin McDonagh’s ‘Wild Horse Nine’ ahead of Venice premiere",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakRwcTVxYlZ6ekduTG9MeE1KbDg5YV9Gc3puc3RkQWVwTjloMW0xZlNSMHMwRTNDdllFeVo5RlZDM3huQkFBZWJLMVRKRzl2UXdXSFRabzYyYzNOb29lSmNEVkRITjgzQW0tNWlfRXFpazVpM3BaNlRFNUxEQ1VlLW1uX2U1cUVnWlh0V3psMzBSS3Rjb05WRVFuMkl6Sms?oc=5",
+    "source": "IFTN",
+    "published": "2026-11-19T07:47:18+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Martin McDonagh"
+    ]
+  },
+  {
     "title": "‘Obsession’ Star Indie Navarrette Has the Perfect Response To Joining Robert Pattinson’s James Bond",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaNnNZcWpDLXJmRllCZGdrNE1WemVZaTdaemVnZm5ETHoxY1V4WXdndFZuamVwN3k2TE9DVXk5SjB5WG95SHFGOXVFQTlBZ3BVVWtGTTBiU1VYcGV4RnZXM2hRYVUtSVk?oc=5",
     "source": "IMDb",
@@ -1567,6 +2615,18 @@
     "found": "2026-11-19T18:50:04.581528+00:00",
     "celebrities": [
       "Hugh Jackman"
+    ]
+  },
+  {
+    "title": "Michael J. Fox Ditches Wheelchair For Rare Family Night At His Parkinson’s Fundraiser",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mRlVBNWFlbzVORTBxczd3N2YxdWc4RXdtWEJOOVJSYmNRcVRyTkFab2lOcmRCSmFXUUZ6T0d2WVN5S3dIV3hKejFCRHFmVktRRHRhSHpuYkpJVWtzTDI5Y05Udi1vbmktWDZF?oc=5",
+    "source": "IMDb",
+    "published": "2026-11-19T06:51:53+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Michael J. Fox"
     ]
   },
   {
@@ -1739,6 +2799,19 @@
     ]
   },
   {
+    "title": "Marvel Officially Confirms Ryan Reynolds and Hugh Jackman for ‘Avengers: Doomsday’",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DVVBpZ2pCdW50aU9YeVlsbDJKcXNybGhwSEtLeG53ODhYM1ZKTDRrb0xWZE9DSDlyeVhTcC10NDBlLVQ1TTdscDIta1lHYl96eFA5U2VLaDM0aXVtU0RYRFlhTW5qazg?oc=5",
+    "source": "IMDb",
+    "published": "2026-11-19T02:47:25+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Hugh Jackman",
+      "Ryan Reynolds"
+    ]
+  },
+  {
     "title": "Jeff Bezos, Elizabeth Debicki hail Pattinson as the perfect new 007",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHRDazIzcHlyYTUyamF3QURaMG5VdVJ4SUdpWmJwOW9ObDIzRGZDRGdfa18xbmhCNC1sdEJZTTBIcWw1d0htUlkzcURzdHpfTk1RUmphRU41VGtCZlJMSGtXUEtyUXNxRDFleU1qYThqWkVCU1RvREhmTFpoWVRXc1hIRGwtZWNhZl9aSGI4SXNWTUlSNi1ZNTRKdS1PT1V6UjVhSmtsa3d2YWc?oc=5",
     "source": "The Shillong Times",
@@ -1799,6 +2872,18 @@
     "found": "2026-11-19T18:50:04.581528+00:00",
     "celebrities": [
       "Zara Larsson"
+    ]
+  },
+  {
+    "title": "Why Scarlett Johansson Replaced DC Star In New Crime Thriller Explained By Director",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3Z3JVRFlraUFmSm95dTF6QWpfQ3VUR2lMY2hyeEphYzVmQkRSTHp0X2Z0cS15T0c5d1M3RVhvMDRXc2pRYUxwaG1aMnIydWl5NG5NSmZOTnlRSFJDZ3F2ZmxTSmNSckU?oc=5",
+    "source": "IMDb",
+    "published": "2026-11-19T01:39:56+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Scarlett Johansson"
     ]
   },
   {
@@ -1865,6 +2950,18 @@
     ],
     "article_url": "https://www.goldderby.com/film/2026/watch-nathan-fielder-love-and-cameras-in-america-streaming/",
     "image": "https://www.goldderby.com/wp-content/uploads/2026/11/Nathan-Fielder-Love-and-Cameras-in-America.jpg?w=650"
+  },
+  {
+    "title": "Nathan Fielder’s forgotten film ‘Love and Cameras in America’ finds new life on streaming after success of ‘You Can See Everything’",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM0owaWhPVTRldzZ6c3N3UFdLTE9zT2VYS08yeFVSVUdnYkVwOEV0U0tnU3pxTmhUSUpyeHlaTmUxeXRsZGdoanB3NDFHQXZGT0NDemtYZEQzSFIxdF81N0t5N1lTMUpCSHktNTI4WHlyNjdmOFBPelJGV184NGxYY3JMdjNrWlFOSnBEM1lIZFh6WUwxbG5VeUptNi1hdnBFbWd3?oc=5",
+    "source": "Yahoo",
+    "published": "2026-11-19T01:28:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Nathan Fielder"
+    ]
   },
   {
     "title": "Jacob Elordi and Kendall Jenner Take Their Romance to the Next Level as They Adopt a Dog Together",
@@ -2013,6 +3110,18 @@
     ]
   },
   {
+    "title": "Seth Rogen helped ‘perk up’ Brad Pitt and the cast of “12 Years a Slave ”while they were in ‘a bummed out headspace’",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3J0ZU5qbU1hZ1M3bC0tMnAxUk5qaHdDNlBIdEVHalRpMzRndVdKSTZoeFU1a0RSRU13QjgxS05ZZzVoc2d0ejNILWxZVHBSb3ZpMmIwaTg0TEtrb01sal9aMlcxTTJSZVNFTzRZTnVNYk9DbGNFVTljTEhVTWxaeFBuTmxSMlMyRWRsZjlRNzBQUlgxOFg1QW9aUGFGS3Jrb0d6YnVYR2xCU09K?oc=5",
+    "source": "Yahoo",
+    "published": "2026-11-18T23:34:42+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Seth Rogen"
+    ]
+  },
+  {
     "title": "Skirts, thongs and swagger: Alexander Skarsgård redefines sex appeal",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rMVhYZ0RhVmRpdUllalRTWHFucVFMMUhZTXJFZzM1VEI3MFhja21zdFhPcU1IU25JeDVCdFozai1xM1hZZHR5TWJYUGFYdGlBaURUdkd1cHdOWks4ckRiUw?oc=5",
     "source": "Ynetnews",
@@ -2131,6 +3240,19 @@
     ],
     "image": "",
     "image_tries": 2
+  },
+  {
+    "title": "Amanda Seyfried Asks if She's 'Too Old' for Robert Pattinson's Bond",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGR3VjVRSjNSZHZWbVpTRmdSREhmYUpzZF9IcE9kTE4zcmc0c2l3VkdoNlJQdVdrMDBGT1dDeFppNi1BNlQzYXZHd29jaDB1LUhYYmdoaW9EUHh0aTFzUVN2bzlwNUNpNDN5X1dUMzF1T1pKUERtLXk5UG9YOUdWWk9lQUl3bmdrTHJ6d2dyeTA1VTdZRllyWkhKNVpORHVB?oc=5",
+    "source": "Yahoo",
+    "published": "2026-11-18T23:03:37+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Amanda Seyfried",
+      "Robert Pattinson"
+    ]
   },
   {
     "title": "UK government calls for Russell Brand's YouTube account to be deleted for breach",
@@ -2590,6 +3712,18 @@
     ],
     "image": "",
     "image_tries": 2
+  },
+  {
+    "title": "Hudson Williams Reveals How He & His Team Handle Online Hate & Why He Was Nervous to Return for ‘Heated Rivalry’ Season 2",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PUnBIdmdSQW4tNVROaURHZnZlNDE0akQyYVhTN3prb2cyRE10bFMzVlBNSlRrT2g5SmU4WjRFT1RkRUItZjY4NFJFcWk3dHNndVFpRHc0SUJwM05oQlBydkhR?oc=5",
+    "source": "IMDb",
+    "published": "2026-11-18T21:06:26+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Hudson Williams"
+    ]
   },
   {
     "title": "Hudson Williams Reveals How He & His Team Handle Online Hate & Why He Was Nervous to Return for ‘Heated Rivalry’ Season 2",
@@ -3073,6 +4207,18 @@
     "image": "https://s.yimg.com/lo/mysterio/api/b7cdd328ad209bd27bbd5c69e488cd4b79e14767427d59449803363e0057e09f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbang_showbiz_ca_591%2F4fa294f61a88a438b334c92c7679cfbe.jpg"
   },
   {
+    "title": "'Hunger Games': Joseph Zada & Whitney Peak On Chemistry, Filming, & More",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3NDWVpKbnhsNlF4aGtIOFZRejRHRGhJQjJ5Uk9NODBFa0pfX3ROQVJsaEUzbS1neGlxc3lwRTRfM2oxQ1NFWWp4Z1hNbmJ4UUFNeWZaaFFSSnNrMld5bmtvNmdkSE9ObWY2N01oa3ZZM0M3VzBpUW9XcEdDSkhwRDk1d0JaWWRTZ0ttUA?oc=5",
+    "source": "Bustle",
+    "published": "2026-11-18T18:59:20+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Joseph Zada"
+    ]
+  },
+  {
     "title": "Kendall Jenner & Jacob Elordi Mark Sweet Chapter in Relationship With New Family Member — Report",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdG1aU1U2NWRkSEc3QVpWU3I2OW90YVVoeTNEd1ZjYVhSck8zcUNyS0tDNGE4bmJHX0xBVHNJZkRpU2tXTVZISW1HSG1UZHo1T1FfbG15aUpJU1ZTSEMwZWFyTHNIN284UTY3YWdYc214RG05cHpmMmltT1RuSWZjMV9nQmxYM1Fic0tCT3JQRW1vMW8wbzU2dHdn0gGfAUFVX3lxTE8zaDZIYW1HaGJFQ3RCSHNSSnJ0XzF6Mzh4V3hxWFFSaDMtc3Z6QS1LcmRsaUZyeGVRVm5yM3NrRDd0Mk5hWHVuZE80ZUdpUy1vVzRPMy1WNkZFc1AwR3A0WTZ0SXJ3QmdRS1d1Y0Ffa2lLaDM2WTd5bnFiT0FLbzk2a0J2ekZwSEkyM0lPSGlrQ29uVC1tdEh3TzRfTFBHTQ?oc=5",
     "source": "Reality Tea",
@@ -3195,6 +4341,18 @@
     "article_url": "https://www.imdb.com/es/news/ni66117546/?ref_=nwc_art_perm",
     "image": "",
     "image_tries": 3
+  },
+  {
+    "title": "Keanu Reeves Reflects on the Effort Required to Sustain Meaningful Relationships",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYUljYXJFNGtoMmVuYnE2aElKSEVJdzYtQ0trNUpTY0F6MFVPN3FLTGgwdDJ3YkhzMHNOREFEaloxN2c3UGNTRFNId2Q1ZEVxVG55RzRKei1jZ1gtSzB5cTNFbmFwS25KXzBkYzVvWTlvMkFkQkJJMkxlRlBsZXhFdllZeTFXWC16MGFXN3YxakdvTDRhaElPNV9GOUdqaUhTbGxxUzRucmlYeTVmd3lLZ180TWxXdw?oc=5",
+    "source": "www.zoomtventertainment.com",
+    "published": "2026-11-18T18:35:57+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Keanu Reeves"
+    ]
   },
   {
     "title": "Jacob Elordi and Kendall Jenner take major step in their romance",
@@ -3340,6 +4498,18 @@
     "image": "https://cdn.sacnilk.com/image/news300/1000028619.jpg"
   },
   {
+    "title": "New LOL Top List of Movie Stars Puts Divine Above Sean Penn, Liv Ullmann, Lauren Bacall, Henry Fonda, Morgan Freeman, Emma Stone",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbU9Eb1hQbFFBWGQtV1NxVl9sWENBdDluVTFjODRlM1lVWkNoVDF3Q1N3Sk1jZHhCbUx4b2xPWXkyQXVZWmZWV0xLU2ptOXg3Y1V3eHl1blBxdVp4UlhueFdhTFFwRm5RbDYzd3dseUsxdEE5N1dXbkxrdHpkTlRWeGlxQjVnTGFVN1lUbTc0TXExN2tzTk5fUHBFQUdrM2pYeVB1OTJrUFZXQjdDN2hsR2VCZmwwaV9DX0xrR1QwOXo0ZW9HdU83LVlKYW5Xakgxdk5GT3NETmxJd2lDRDhBVk5TVlg1MUxGTW9mZHJrZjBrbW8?oc=5",
+    "source": "Showbiz411",
+    "published": "2026-11-18T18:10:46+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Liv Ullmann"
+    ]
+  },
+  {
     "title": "50 Years Later, Sylvester Stallone's Oscar-Winning Classic Gets New Release",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15SlIycC1ZUGRRMHFKRHVoUm5TVGhERGhGQWMwY0dGQUtfd1ZwVVpDT3RDakxYSG1mT25BLTJ2bmpnMTMxZzZZQlR4VmJEQ0o2VGF1SzFPR3JxRzVwZWJwZkpYLUxlZmt5?oc=5",
     "source": "MovieWeb",
@@ -3366,6 +4536,18 @@
     ],
     "article_url": "https://www.aol.com/articles/ryan-gosling-project-hail-mary-175701000.html",
     "image": "https://hermes.media.transform.aol.com/fbf378f2f79905df3466e216644d986982949884/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/11/18/8f08ebaf-67f0-3309-9c25-417feb53f1d4/8ab75078-a0ff-4634-a785-fef6d11245ba.jpg"
+  },
+  {
+    "title": "Ryan Gosling’s Project Hail Mary Sets Rerelease Date With New Trailer",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2hNUDZmcFBNbHFWLXd6eHJwbEQyTWt2MTVwX2p5RmxYUEVWZTRwbEZqdWtTZ3VmbTc5ZHBkdjc3YUZxNjY3T3hUbFJoNjVzQXRRbExsazBtT0JjRTV1MGZyY0t4Z0NOemRUWVpxLUR5VjhVNGwyWHdxekJhUUdteGtkenJkdHppT2ZneE9WRFkwTHBKZUhrd0ItSDB3N21MUkVKYWM4cUw4QQ?oc=5",
+    "source": "Yahoo",
+    "published": "2026-11-18T17:57:01+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Ryan Gosling"
+    ]
   },
   {
     "title": "Mckenna Grace’s New Dinosaur Action Movie Instantly Becomes #1 On Streaming",
@@ -4312,6 +5494,19 @@
     "image_tries": 1
   },
   {
+    "title": "Jeff Bezos Details “Tight Process” of Casting Robert Pattinson as James Bond",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDRRa0RTbzRhNTRVTUVNMGNxNENBUFhibTF4cVN3UGRiYml2LUpSRmgxOVFISVhqdHVGaEdNYl9BRmZDYUM2Uy1nTXFlQkNyQ3FBTDVrUVItUDYwNHdPdjNDbGxTcWZTV09sdS12SHRJQ0RDMzVFeHg4QjFuN1hZZGNNQzlTdHg3MjhCUEFOUnZLY09IR3RFSGRua1Q2bmxhTksxbVRpXzZjbEpf?oc=5",
+    "source": "E! News",
+    "published": "2026-11-18T12:30:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Cobie Smulders",
+      "Robert Pattinson"
+    ]
+  },
+  {
     "title": "It’s a ‘Party’ as Penfolds set to release Holiday Designed by Troye Sivan",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONU9mcERmUE5kcnNfSlRNZDZQWGhnZVpRSjdweEtsWWNPcTNnLXhtVG12Skg0dlpIYUFNb2FpU1ZJMTZqZ09VeTZGTXdyWlZFbU5DdXVZNTlyWDhEb0pVZ1JpcDNPX3QxbDRuMzFGd3lpVzZGY1J4Z0NCYkZUZ2NYaDc4eHVBelhWLTNDdWJMV1pUbDIxYm9fV2hVSjYxTE9tQWFoR3c0Q3cydnBvZnRoQw?oc=5",
     "source": "Lifestyle Asia Hong Kong",
@@ -4403,6 +5598,19 @@
     "found": "2026-11-19T18:50:04.581528+00:00",
     "celebrities": [
       "Scarlett Johansson"
+    ]
+  },
+  {
+    "title": "Ryan Reynolds and Hugh Jackman are officially part of Avengers: Doomsday, but here's the catch",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUVhHWm9DQWJMeXpuVlVPWEdMWFB0VlRaWENaeXVRQ0ljX3dNNVYxVTh3ZzRWZmhLU0RfYmNNNzctY3ZZSm9Hd2RsQ0h2c285bVBRVFgwdE9qZFlJSElwc2VEQVdVLUF3cVgzXzNYVnEzNjluVjlYUFE0bEVidXdVdFE3NllrbmVSRGNsLTluT2NFMTY3NUJtSnR0WEF0YlNTM0UtdjVOcjlFdk5XNmtkZkVvcENXNEZjVTRxMFNESUZDNGY0QlE?oc=5",
+    "source": "primetimer.com",
+    "published": "2026-11-18T12:04:00+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Hugh Jackman",
+      "Ryan Reynolds"
     ]
   },
   {
@@ -5241,6 +6449,19 @@
     "image_tries": 2
   },
   {
+    "title": "Mckenna Grace Wears Fully See-Through Dress to Support Joseph Zada’s ‘Cultured’ Cover Launch",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfZmU0cEE2MFJ0V19LYVQyYmY3eGx2X0k3QUFLVzVjVkZqUEk4eTVFbnNzTnRxdnk5alR5elhGbzAwMjMydUpRbzJxOG5sZ0QwR0E?oc=5",
+    "source": "IMDb",
+    "published": "2026-11-18T04:32:21+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Joseph Zada",
+      "Mckenna Grace"
+    ]
+  },
+  {
     "title": "Ron Howard Warns Jim Carrey-Led ‘Grinch’ Sequel Won’t ‘Go Forward’ If the Script Isn’t ‘Great’",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OaVItaVBQUy1oUkNhQUd4NWNHMVNrX2dleElDQlhPQ1VMM2JoRmRyM0trVnhhMzR0YlNsdkpxWTFaM1hFS1BPbmZWX3JnOFdpaTA3Sk55TldCcTI4alptQ2EzRVZJdw?oc=5",
     "source": "IMDb",
@@ -5484,6 +6705,18 @@
     ],
     "article_url": "https://www.cbr.com/jim-carrey-the-grinch-2-ron-howard-update/",
     "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/11/Carrey-Grinch-2.jpg?w=1200&h=675&fit=crop"
+  },
+  {
+    "title": "Ryan Gosling Exits Daniels’ Untitled Event Film at Universal Pictures | THR News Video",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmdvblZhNnJMSVp4MWJMSGFIbXo1bTB3X1JnQWlYeVBTeGwyUlgzLTk3R0dKT040V1NLc2llWFBKbWR6cVpZUW14LVNFX09kaENrbzcyNDhvamJNVWl1UHNYaXYybTJFdlJNWnNVUVZ3STJRVFFEVnAwQlVBUU1PQldZUC04Y1liSHBFeUkwM0c4M0ZZd1VXNWlGVGJjX3F4SVk5eDBMOTltNlczNU1tOVJn?oc=5",
+    "source": "The Hollywood Reporter",
+    "published": "2026-11-18T02:06:28+00:00",
+    "summary": "",
+    "batch": "2026-11-20 12:00",
+    "found": "2026-11-20T01:00:30.861859+00:00",
+    "celebrities": [
+      "Ryan Gosling"
+    ]
   },
   {
     "title": "Tom Hardy & Guy Ritchie’s Mob Thriller Officially Peaks 3 Days Before Finale",
@@ -20341,7 +21574,8 @@
     "batch": "2026-11-16 11:00",
     "found": "2026-11-16T00:43:25.540741+00:00",
     "celebrities": [
-      "Martin McDonagh"
+      "Martin McDonagh",
+      "Sam Rockwell"
     ],
     "article_url": "https://elkodaily.com/life-entertainment/nation-world/movies-tv/article_4b449de1-a7f5-546e-9cd4-0fc190b94ccf.html",
     "image": "https://bloximages.chicago2.vip.townnews.com/elkodaily.com/content/tncms/assets/v3/editorial/4/b4/4b449de1-a7f5-546e-9cd4-0fc190b94ccf/6af4807e6caba.preview.jpg?crop=1652%2C867%2C401%2C31&resize=1200%2C630&order=crop%2Cresize"
@@ -23837,7 +25071,8 @@
     "batch": "2026-11-17 04:00",
     "found": "2026-11-16T17:53:36.741896+00:00",
     "celebrities": [
-      "Martin McDonagh"
+      "Martin McDonagh",
+      "Sam Rockwell"
     ]
   },
   {
@@ -87055,443 +88290,5 @@
     ],
     "article_url": "https://www.fb101.com/archie-rose-chris-hemsworth-australian-whisky-us-launch-c411f8dd26",
     "image": "https://adcfyjmpjhcjsszruamo.supabase.co/storage/v1/object/public/media/ai-uploads/2026/10/mvh9bqc445bbe7d2.jpg"
-  },
-  {
-    "title": "Top Hollywood Stars’ 2026 Paychecks Revealed — Tom Holland, Margot Robbie, and More",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY2JmX29odktqTXFYX1Z1aWE0YjVqUHA4eEc3d2JwRWxkQ3FVQm5pZkZwVDBMSGt1S3R2bzFYVVhURUwxTEl4MnVneEx2N3hwdWdweXFJSnROdGMyWUM4aXE5OV9iOW95TnR2QW5ZRHo3QVV5d21wd0dOVklfaGFhSDNKM0hPbk9TWDB6UXdaTkY1b2tfTDNiRHh6LU1Gd2NLNGExRVhJVHNzY29oUVViVw?oc=5",
-    "source": "Parade Magazine",
-    "published": "2026-10-21T00:37:00+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:07.248472+00:00",
-    "celebrities": [
-      "Margot Robbie"
-    ],
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Top Hollywood Stars' 2026 Paychecks Revealed: Tom Holland, Margot Robbie, and More",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQk9rampiRHdXV1NYTHdPZ3IwMlJnSkZleDNpQlVpMjUxUF9odjZoN21FNDZOWEdrU0EyamdIWWhmSWtCaUVUbVdHUmlIX0JrMGhsa0JZTmRrRTAyZGtKUkliQVFsTlhEM19aSjZTSDJpcWhlenNJVVVIT1drbVBKdWhKVVhEWjQ?oc=5",
-    "source": "AOL.co.uk",
-    "published": "2026-10-21T00:37:00+00:00",
-    "summary": "",
-    "batch": "2026-10-22 09:00",
-    "found": "2026-10-21T22:04:09.885019+00:00",
-    "celebrities": [
-      "Margot Robbie"
-    ],
-    "article_url": "https://www.aol.co.uk/articles/top-hollywood-stars-2026-paychecks-003701000.html",
-    "image": "https://hermes.media.static.aol.com/media/2026/10/21/aefff3fb-cfca-3966-acc8-335c83edecc9/6f4f2819-6a97-43a8-bdb7-da18472807b2.jpg"
-  },
-  {
-    "title": "Chris Hemsworth gives Archie Rose's global push some star power",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTNvM2dJTDk3NG4zT1pBSlhsMUNHTXVDT1laRFRqWl9oWU5WUGVGdHZiNVlYVDUxWjVFV1lodktTRkpIalBCZUJMX0x5NHZhVXJXMWZOZXd2NmIyT0s2S25oVVg5WWh5b3E0ei1uNm5IZzB6emgyaEpqdjRpclFJMWFwdWxIREFiRUVxcUR0WHh4RDA1bGJmY1VPWThrX1l2?oc=5",
-    "source": "Marketing-Interactive",
-    "published": "2026-10-21T00:29:03+00:00",
-    "summary": "",
-    "batch": "2026-10-22 09:00",
-    "found": "2026-10-21T22:04:09.885019+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://www.marketing-interactive.com/chris-hemsworth-gives-archie-rose-global-push-some-star-power",
-    "image": "https://marketing-interactive-assets.b-cdn.net/article_images/chris-hemsworth-gives-archie-rose-global-push-some-star-power/1792542482_Matt%27s%20featured%20images%20%2819%29.jpg"
-  },
-  {
-    "title": "Nicole Kidman’s daughter bags first solo Vogue cover",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQMEpYQWN0U3VjOXU4a3FfLWQ0ekNfSGliNE9OZUlFaFBTc1JmVFB4QmRVQW9DQy1wWWZjZFVCeGt0Z0JuYkhRRXFqMzBIT2hwc2t6bDlJbWtQM290T20tUlp3NVRpVENfMlpVN0k3aGFFcFd6aFo3T2hSNWZ4d3hfaXZzN2FHRDM3N0gyR3oyVXRVMDFGOV9kSkktUnJUd1JldGdORHk4NlpOcG1oSXBQdTAxRHQzdHRfWlpOclNZOExVdzNXaVdDZkh3M2tkd2JKT21LZW56ZzVWTndnTFJISjM3NzJwVkJnQ2tUaEg4djhqSndnNFpJTnV5U0hFLTlxREtXVjVfVkJyNVRBcTBNTE1Ubw?oc=5",
-    "source": "The Daily Telegraph",
-    "published": "2026-10-21T00:16:46+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:08.930056+00:00",
-    "celebrities": [
-      "Nicole Kidman"
-    ],
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Archie Rose and Chris Hemsworth unveil new look whisky range ahead of US launch",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmE4Qmx6cWQ3NU93NnFDbjFhSDBxY3l1X1p1aWRNRGZYWC1pM3VjOU44YWZRS3pES1I2T2w5eUhrcHFsRlN5cUNOSXpKUU9rbzk0dnlBdFdMcWtJa3N4bjFLRGljck8tdHpOemV6NmMyOUF0cVZpRVB0TkozZ0xjQ1RtVU41MU1FSDlZYmxyRkl2ZW81UlNEQ1c4QQ?oc=5",
-    "source": "Mediaweek",
-    "published": "2026-10-21T00:04:11+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:07.689316+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://www.mediaweek.com.au/archie-rose-and-chris-hemsworth-unveil-new-look-ahead-of-us-launch",
-    "image": "https://images-r2.thebrag.com/mw/uploads/2026/10/chrishemsworth-2.jpg?v=1792540672358"
-  },
-  {
-    "title": "Hemsworth brothers team up to support Chris’s new venture",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIX09lQ1VIRHRYVVdqeTBpQ19QNHFodmJISDhtaGdxaVlQTWVQU3Q0RkYtX04tb0tVZ0F6WVNVZFVMa1NidVFyR0hhVmU5MWdFTHA2ZXNwVUU2M3ZlVTI3cm9qS1B4ZjV1OTFNamhfZXVlUGtON1lNM3VkT08?oc=5",
-    "source": "The Australian Women's Weekly",
-    "published": "2026-10-20T23:57:57+00:00",
-    "summary": "",
-    "batch": "2026-10-21 18:00",
-    "found": "2026-10-21T07:00:46.180686+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://www.womensweekly.com.au/news/chris-hemsworth-archie-rose-whisky/",
-    "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/3/2026/08/chris-6ad7ffc670477.png?resize=1200%2C630&format=auto"
-  },
-  {
-    "title": "Chris Hemsworth Tells Outrageous Story to Take Archie Rose to the World — LBB - LBB",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGYyZGxWZHNoVFFsMDdNRzluc2MtUVZuejFLRXlBWkUxNVN4OWsyVVg5ZFUyYnl0T3I3RVVjVF9ZWlVpWkZtMUlJdk50R2I1M3RSMHpZVG9Yc3lISU9qU0pWZk12WVd1aTVxNWFqakdVNkUzVlZNQ1JPRGZqT0FQZTFyVQ?oc=5",
-    "source": "Little Black Book",
-    "published": "2026-10-20T23:44:31+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:07.689326+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://lbbonline.com/news/chris-hemsworth-archie-rose-citadel-brand-campaign",
-    "image": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/archie-rosechrishemsworthhero.FLDYB3xi.jpg"
-  },
-  {
-    "title": "Chris Hemsworth puts his Archie Rose whisky on the global stage with new brand push",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVZKcGx2c084eUVReGdwUGhBSjhOdUF2UEVCWUIzNWdxelA3THRjT1dyOTZNZ2ZjNWNLZ0pBTnRnOGZxbDhMY211a290Sk5BZ2pFSnhXal9QN0RmcGx0Wm9qd2FVQk4zMzJ4X0lBRDRaUkNhNnpiN1ZRazZmUF9kNHZWb1N4TG92czJSX25GMWt5U05BT2tfX0U2UFZUTXFkeXpsMHJXQ000QQ?oc=5",
-    "source": "Mi-3.com.au.",
-    "published": "2026-10-20T23:37:39+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:07.689331+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://www.mi-3.com.au/21-10-2026/chris-hemsworth-puts-his-archie-rose-whisky-global-stage-new-brand-push",
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Chris Hemsworth Stars In Archie Rose Camapaign Ahead Of US Launch",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONHM0YXJHNVVaWnZ0emxiSWpuRWJGLXRoNjRLcmtyeXpMUDNNaS1VSVpxRmV0SXV5Z1c2Ymc4dlFxNHhZZU9TLWRmdnBMYVNqRXBfVlR5QXFHWi1USGJNcExHVW9VSUM2dkM0Y1FWbnV6ZzIxeS11UWdaMVdWcVR4d3lXSUN5b0dhLTRHbGV4SzBzQk1xUFE?oc=5",
-    "source": "B&T",
-    "published": "2026-10-20T22:46:50+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:07.689408+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://www.bandt.com.au/chris-hemsworth-stars-in-archie-rose-camapaign-ahead-of-us-launch/",
-    "image": "https://www.bandt.com.au/information/uploads/2026/10/ChrisHemsworth-SMW-Landscape.jpg"
-  },
-  {
-    "title": "Nicole Kidman's Daughter Sunday Rose Finally Addresses Nepo Baby Claims As She Lands Vogue Cover",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlVENUo1QzJDS2RzTGZISEpCd2UzeEh5QUFVamNZTUVxMHA5YTVBVWtLZjhIVGIwN0ZDQVM2dlVlcGVRSUlqaHl2QkxCT3M0Z0FZQmZMbG9KUkItSERvSEZITmVvVk0yMHZzc284ZDh6Z1doOWEtWGdUVmVOanA4U1ctU1lZbEpEOGQ0aQ?oc=5",
-    "source": "Pedestrian TV",
-    "published": "2026-10-20T22:31:10+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:08.929543+00:00",
-    "celebrities": [
-      "Nicole Kidman"
-    ],
-    "article_url": "https://www.pedestrian.tv/entertainment/nicole-kidman-daughter-sunday-rose-nepo-baby",
-    "image": "https://images-r2.thebrag.com/pedestrian/uploads/2026/10/sunday-rose-main.jpg?v=1792535330713"
-  },
-  {
-    "title": "Chris Hemsworth spins a tall tale about whisky to brother Luke in Archie Rose’s new global campaign ~ directed by Justin McMillan",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTzFwcGZRQTBKZ1NVRTZfRmtRRkkwMzdrUHgxT2lUUnByVkdmX1U2Q25YeC12ZzFTcmc3a1JQNk1MeFI1bzRERlpNcHJMZTR3R2RpRUFUSnVnRW5HM1E2M3h2bTN6ZVpLZmVLa2VnbkwxREY5OElmbTZmQWh4RzFhaXJsbWtkd2FOZUVKR19KTFJYMmQ2Wm9nRVhDS0d1SS13Wm1CNC1DdTFPWGRndU1lZGFDeFF6M1ZQMV9DTnNhZnByXzNjQWtubkNnMHZ3dUxnUFg0UElUOXowNkM3MGFkUXprLVN3NEF6?oc=5",
-    "source": "Campaign Brief",
-    "published": "2026-10-20T22:00:57+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:07.689337+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://campaignbrief.com/chris-hemsworth-spins-a-tall-tale-about-whisky-to-brother-luke-in-archie-roses-new-global-campaign-directed-by-justin-mcmillan/",
-    "image": "https://campaignbrief.com/wp-content/uploads/2026/10/AR-Chris-1024x574.jpg"
-  },
-  {
-    "title": "Chris and Luke Hemsworth front Archie Rose whisky ad",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNakZHOExWYmhzUF83UF8zUGo5eDVCWWh1V1o1TGJUb1pBUjdnYWQ2aVBrTHNnYk5kQnoxTWdaTkR5aS13MzNyUjJVSk1qNDlUU2FxZENvSWJmN0JnZGRMNHZWOU1rdW9KaDlFcmRHd0R5ZElTVlR1Qk1JcmduYlJpRjB0dU5CSG11X0traGphMDlvUQ?oc=5",
-    "source": "AdNews",
-    "published": "2026-10-20T21:57:40+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:07.689349+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Sunday Rose Kidman Urban Explains What It’s Really Like to Have Famous Parents",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmNHUDN1NE9GcHV1X2tyMlNBd2xjWUZkenBySmtJODJOR0Y4dkRoNV9pZmhmdFdpc2dZc3g1SGFxMnpWM2FEelhYX0k3Q21uR0lNUEdDdndCQ09uT2ZtTk9xRjdSOENjSFF3ZnhkcDB5bGtQWklKMmd6dnVJbnpLLWdjeFE4ZjZlaHdFR2lsVWVLU3dkeHVjVA?oc=5",
-    "source": "Taste of Country",
-    "published": "2026-10-20T21:39:37+00:00",
-    "summary": "",
-    "batch": "2026-10-21 08:00",
-    "found": "2026-10-20T21:52:26.104680+00:00",
-    "celebrities": [
-      "Nicole Kidman"
-    ],
-    "article_url": "https://tasteofcountry.com/sunday-rose-kidman-urban-famous-parents-keith-urban-nicole-kidman/",
-    "image": "https://townsquare.media/site/204/files/2026/10/attachment-taste-of-country-42.png?w=1200&format=natural"
-  },
-  {
-    "title": "Biggest paydays revealed in 2026: Tom Holland, Margot Robbie, Robert Downey Jr. and more",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWDVhQ2lENUhZRWEtb2pwMHd5SnNwT3I5R3hTVG0xdUI1czN2YkhDQUFvam9admhMWkYtQjdDeFFsZDRkNUNSMXQ0cU5DdzJNQ2c1Rkw3RFVxN0xsamEtaFRHNEd0Z1A5WWkwdzNESGJfdTA5cjBCN1NfNWNKR2U2bVBqOGxWOVdUNUhFTWtobjEtUzY5QlQ4Um54dnp1RGE2WG5NeHpEaGptUDQ1TjJJWWdxLWFXR20ySi1MZnRrbkRtUV9xZjJKcEJQVm51RlFuR3ZkMGxQVmVNazFuSzhobUxfenNhekVzX0wtcmE0eGR1Sk9zZmxaMTFoMkVuWGNtbmtyVXJPdl9nYWotMGxxazlB?oc=5",
-    "source": "Toowoomba Chronicle",
-    "published": "2026-10-20T20:57:56+00:00",
-    "summary": "",
-    "batch": "2026-10-21 08:00",
-    "found": "2026-10-20T21:52:24.917657+00:00",
-    "celebrities": [
-      "Margot Robbie"
-    ],
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Biggest paydays revealed in 2026: Tom Holland, Margot Robbie, Robert Downey Jr. and more",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYTJZc1JKVlhHUjBKOThwbkxCRGJqUC1HZWhmN0N6dkxlaGx4cTlpcHpkeWJfWFN6X19QYTZ6TXdPNy13Z00xRmFJcUFQTVFLOFdINGVFMlVselZ3dl9jdWpZTEpXYm9oeWxYbFVyM1YzcWNfb3hDTG5wYURNcjU4OHlVMWh2UHJDRDE5VWNiVnk5SzNFRGZhQ3c0N1l0Q0tFWUpMenhaUHhvU3hrM0ljT3pjSXVCalN6MjFWLVhTZUl3Xy1lQ1MwVzhIOFI5d0N6TDJDU1VNSTRCb3YzZHBQa2JWZWFjdEhFMXFjX1lTdWVGaGNfeWdPMEJrR0RBNF9sVlg1UldmUdIBjAJBVV95cUxNTU1QWThJaG81Mjh0dlZpazl3VGtEb2FmNEZYVk42bTA5NDduV0d1N2E5YTRQdEROVmw4VVQ1bl9RMTg0YW5mLXJiUUQyOHVGVVRVQmFxWDUwWHpWTjEwcXhQLVplaFNETTJoSWt2ZGxvTHJjY3RhV2RrUFZ0bXRMY3RoMlRZdGlqN3VBSm92NXFRY2l4OTUxUURQelJmUzd2OHZTU2JJZzRWTFdfaGhpclpTU0hMUnlfV1VDSG41TjZOTTJZS0NkTHZCYkxRSV8xaGFUSmFsUWx1dk1FZm5sM3BZVXJWWk8wdVR5LVFvYUxZaVNldzJzekZEdGdZaVcwRTBwWjN0c0JhSENM?oc=5",
-    "source": "News.com.au",
-    "published": "2026-10-20T20:57:56+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:07.248428+00:00",
-    "celebrities": [
-      "Margot Robbie"
-    ],
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Biggest paydays revealed in 2026: Tom Holland, Margot Robbie, Robert Downey Jr. and more",
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdml3TS1fZnFWQjlxMUFHd2ZUWGJ4dmZKY0tYdGNGQ2Z2RUNPVUI3dUx1TEExcmZZV1h3UXJLNng3c0xTUnJCVVdVd0YzQXJfX0pETGNOMm1TYzE4aWc1WFZmR1luNjNMdkE3QmpEbWZhZHpBTHFvM1RuSWM1bmdxN3FnWUxfRXZJdzFvUC1QU2NSSVktWk5HOEFvUTlWUkNBbHAzaVNON1FiQWU2VW83M1hLQ2hTS294YWI2Yjh5b1RjaFhLV0xUZDZ5Vkw4TURpcHNuZ2k4ZUdIYno0UVNXekFiMVdnQ3BuY0ptQzV3c3BUQTZsRHJxZDBxRUkwVHNFMWxhVDVlUlNqYzdFUTBUSQ?oc=5",
-    "source": "Adelaide Now",
-    "published": "2026-10-20T20:57:56+00:00",
-    "summary": "",
-    "batch": "2026-10-21 18:00",
-    "found": "2026-10-21T07:00:45.823164+00:00",
-    "celebrities": [
-      "Margot Robbie"
-    ],
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Hugh Jackman’s Near-Perfect British Mystery Is Officially a Streaming Hit",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FZlBSc2dxV0toSmxyTG1nWGY3RXBZTzB1NW14MXJ1WXd4aGpCMkk0ZTI4RHZmeW4wY2hHUmZQdTM4VVZJYTlFRFJ5b0lvUzVtYUE?oc=5",
-    "source": "IMDb",
-    "published": "2026-10-20T20:50:56+00:00",
-    "summary": "",
-    "batch": "2026-10-22 01:00",
-    "found": "2026-10-21T14:20:22.868838+00:00",
-    "celebrities": [
-      "Hugh Jackman"
-    ],
-    "article_url": "https://www.imdb.com/es/news/ni66031083/",
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Nicole Kidman & Keith Urban’s Daughter Sunday Rose Addresses Opportunities She’s Had Because of Her Famous Parents",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sdS1YWjlya25iZldtSnJXbUhhZ3NLNDdLSTBDdDhTOWk0bW5VR2FzMDFuZ3R2Z3VUQ3daeXN6WGdnT0I3SWdMdEM3ekN5ZkZfWjlIRkZnWC1xNjNqVDdTVnJidXRVM2Y0VFE?oc=5",
-    "source": "IMDb",
-    "published": "2026-10-20T20:30:38+00:00",
-    "summary": "",
-    "batch": "2026-10-21 08:00",
-    "found": "2026-10-20T21:33:34.199318+00:00",
-    "celebrities": [
-      "Nicole Kidman"
-    ],
-    "article_url": "https://www.imdb.com/it/news/ni66072077/?ref_=nwc_art_perm",
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Watch: Chris Hemsworth’s new campaign for Archie Rose",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaXhJSE1KTlE0bHpNQjlUem9fWTJLQktnaFVoQk1MakdESkZUTUtHbWY3aWJhOFZXSUt5Zi1UdGFFSWpfNHBQZjBNaFpXcUl4LUt2dWNyT1Z4cklnOVJTZGVNVE9UWE91N3lxMlFnOTI5ckN2bVY5V2ZaS0VTRXZ6R09MWdIBiAFBVV95cUxQVnZJdjg0aEVmNmdrZTRiQVRrVlNobWdZSUc0bUhkX3lkaThHZm9CTWNPM09SZXY2eTF3NThGcEtWRXNmdlJZWjRNQzI0WV9JS0FUYnlwNF9ENjJUWWo1em9WM2I4cEN1UFBNQnp4amFJVEZwU3NLdTVsX2loTW1mTmJCckdvYjl4?oc=5",
-    "source": "Drinks Digest",
-    "published": "2026-10-20T20:20:22+00:00",
-    "summary": "",
-    "batch": "2026-10-21 18:00",
-    "found": "2026-10-21T07:00:46.180739+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://drinksdigest.com/2026/10/21/chris-hemsworth-new-campaign-archie-rose/",
-    "image": "https://drinksdigest.com/wp-content/uploads/2026/10/chris-archie.jpg"
-  },
-  {
-    "title": "Watch: Chris Hemsworth’s new campaign for Archie Rose",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnZJdjg0aEVmNmdrZTRiQVRrVlNobWdZSUc0bUhkX3lkaThHZm9CTWNPM09SZXY2eTF3NThGcEtWRXNmdlJZWjRNQzI0WV9JS0FUYnlwNF9ENjJUWWo1em9WM2I4cEN1UFBNQnp4amFJVEZwU3NLdTVsX2loTW1mTmJCckdvYjl40gGIAUFVX3lxTFBWdkl2ODRoRWY2Z2tlNGJBVGtWU2htZ1lJRzRtSGRfeWRpOEdmb0JNY08zT1JldjZ5MXc1OEZwS1ZFc2Z2UllaNE1DMjRZX0lLQVRieXA0X0Q2MlRZajV6b1YzYjhwQ3VQUE1CenhqYUlURnBTc0t1NWxfaWhNbWZOYkJyR29iOXg?oc=5",
-    "source": "Drinks Digest",
-    "published": "2026-10-20T20:20:22+00:00",
-    "summary": "",
-    "batch": "2026-10-22 18:00",
-    "found": "2026-10-22T07:02:49.815671+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://drinksdigest.com/2026/10/21/chris-hemsworth-new-campaign-archie-rose/amp/",
-    "image": "https://drinksdigest.com/wp-content/uploads/2026/10/chris-archie.jpg"
-  },
-  {
-    "title": "Adéla made the real Nicole Kidman blush. How the grungy, pink-haired ballerina is shaking up pop music",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSU1SMkhKZzlPdU5qVHpEV3lPMXRlRkhlRU43SjNxQ3JwLURIb0NsVW8wUWxKSDdDdmxqR3FhSXcyOEVHVEQ4ZmpxQjNIR055UDBlaHlnTTRJVUl6b3RsTFZrMnFaNWNDNGtKVkV6SDlyNXYxRW9IcTljbWtCdzZqN1RwVnVxQ3poU0NnZW9DcVN4c3VTdlpENC01WDlLRjJXTi1XSnRfRmRWVElkN0c2MmttbzJ6bUJFTXl1N2c1Y0s1Q1VwMFpGMm1MR3ZnMmxaZ0xyQl9SSThZNGtNSmp4bGFlNFoxYXdULXRlQThSbjhKdGhXbGZxcg?oc=5",
-    "source": "Yahoo",
-    "published": "2026-10-20T20:08:33+00:00",
-    "summary": "",
-    "batch": "2026-10-21 08:00",
-    "found": "2026-10-20T21:33:34.199353+00:00",
-    "celebrities": [
-      "Nicole Kidman"
-    ],
-    "article_url": "https://www.yahoo.com/entertainment/music/article/adela-made-the-real-nicole-kidman-blush-how-the-grungy-pink-haired-ballerina-is-shaking-up-pop-music-200833758.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/874b9726110be3b1c01b1957026b93c50cc8f81057a0ec74e1856a2c66d62d04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-adela-story_3269.jpg"
-  },
-  {
-    "title": "Chris Hemsworth’s Archie Rose Whisky Range Launches in the US",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWFTNjBqQ3Vpa0ZnOEVaMlh1SjFsWTRwZUtnaWFHV2JQUEtoNHdIa3daWWhxU0pHYnNaLW82UzZ1Q0R5ektmcm5NZG5kTEJjcXcwdW5Fa1JFd3hpMUlIYkMwRWR2UVFlOU8tNUxwTnJJM2xaWThOY3Nvc3JTajloRlNyWk0?oc=5",
-    "source": "AOL.com",
-    "published": "2026-10-20T19:57:13+00:00",
-    "summary": "",
-    "batch": "2026-10-21 08:00",
-    "found": "2026-10-20T21:33:33.120997+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://www.aol.com/articles/chris-hemsworth-archie-rose-whisky-195713000.html",
-    "image": "https://hermes.media.static.aol.com/media/2026/10/20/24d5bed5-e0d0-36d5-83f9-41ccf0f9b41d/1ad1cdf1-131d-4179-9007-d3faac27eea3.jpg"
-  },
-  {
-    "title": "Archie Rose Australian Whiskies Hit US with Chris Hemsworth",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUxON1luRkE1RV9SN0ZaQmJKZUUzc3dkZ0xzbVEzdWczeHNwZVJicHQxb2FvSUYxSkhTdmJiMTdMU2xsQnhDLUFrT2tsTGE2RGJVUWhTTVR3eUxOd2NLZFBMVHFlX2hnZ3VXdGlvRDN4cjhoY1dpeTVGWHRPelBOQ1EzNTIweFJPZHV6MjRCQ0N4R3NPMjI5VHl6Vm5rLVBtYlE?oc=5",
-    "source": "The Whiskey Wash",
-    "published": "2026-10-20T19:46:52+00:00",
-    "summary": "",
-    "batch": "2026-10-22 21:00",
-    "found": "2026-10-22T10:57:42.385940+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://thewhiskeywash.com/whiskey-news/archie-rose-australian-whiskies-hit-us-with-chris-hemsworth/",
-    "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792402509.webp"
-  },
-  {
-    "title": "Archie Rose Australian Whiskies Hit US with Chris Hemsworth",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9adExGSkNBb2NHRmQ1ZVp2VmoxcTBYQ2M0UmNKSElUTFNObWU1a1kzcGZKb21XQzRMSkZSLWZXM3RGOE1jUGtiNVBkSzk?oc=5",
-    "source": "The Whiskey Wash",
-    "published": "2026-10-20T19:46:51+00:00",
-    "summary": "",
-    "batch": "2026-10-21 06:00",
-    "found": "2026-10-20T19:48:58.475591+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://thewhiskeywash.com/whiskey-news/archie-rose-australian-whiskies-hit-us-with-chris-hemsworth/",
-    "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792402509.webp"
-  },
-  {
-    "title": "Biggest paydays revealed in 2026: Tom Holland, Margot Robbie and more (Video)",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFBNMFFTVWZsdUhzZHBGWHhOSGhuczFWUUFZNDFsZXEtVWctaDRPSXJyRWkyWnVYVE4wUDUzNmNtWWVOb2VlWENpa1NYbHpqbHhBa0xLa1F2eGxpZW8xTkhPMF9sR2dxZXl4MXhWZndJaWlMTF9yNV9hVnNqYWF6RTRQZms3cnEzNmlINnVCUGluVU44M1FHbHBB?oc=5",
-    "source": "Page Six",
-    "published": "2026-10-20T19:44:37+00:00",
-    "summary": "",
-    "batch": "2026-10-21 08:00",
-    "found": "2026-10-20T21:33:32.664742+00:00",
-    "celebrities": [
-      "Margot Robbie"
-    ],
-    "article_url": "https://pagesix.com/video/biggest-paydays-revealed-in-2026-tom-holland-margot-robbie-and-more/",
-    "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/wp-thumb_e987b5.jpg?quality=90&strip=all&w=1200"
-  },
-  {
-    "title": "Hemsworth leads bold new push into US market",
-    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQR29Za1FDODN1cmlyQ3dsMEVUM1NNZXNxeEk2cVQyRFJaMXBwMmw2dGgzU1BKeWQwZnNLQVhaZXo0aDFDV3p4NDlQWHl1RVZUQ0xmLWhlZmpIS2N2ZTdwNFlwNE1nY1FYZjl5X1dDcmVTYVN2OG9yemlZcEJnVVpzdDJKZXV3dzdMN0JXeTdqZ0Z4dVFTZXJoZ2F0Z2JVM1BtUEZRYXZ2VTRINGUwWkxsNUt5QlFFMXhpQnZhamduaEVwUkdXY2VKRWJHV2pFMGJidFFpb1NiVWNhald3eDFXdGdvU19XZ1lteFZJR1NaZngzZ1Rfb1pqZzBnM01vOVZFYXNTaFpieG9SOXhyLU9ENk16eU1aUTNm?oc=5",
-    "source": "The Australian",
-    "published": "2026-10-20T19:27:54+00:00",
-    "summary": "",
-    "batch": "2026-10-21 06:00",
-    "found": "2026-10-20T19:48:58.475555+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Nicole Kidman's Daughter Sunday Rose Talks Privilege, Modeling Career",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblBOYXhUUTRuVFR4UmYzTFJoTEt5LXg5SHcxdE5IdndseWY1SDV5OEdld0xOZks1MGN1Skt5OWo2NGVsaUxBZzhKZkJKbnlvaGo3aThMNG5CeFFWQ3RlTVhBVF9LX25fd0dFTFVUS0MwbDJPSHlsaUdqQzJQMDBBNUxsNk9ZalRkX3ctejZNWUJoUjN0UFZsdnMyei1sOUEyQk9mc2VkeWFNZDgyZ0taZjhvc0FHOWlBYUF3Q1Y2Zw?oc=5",
-    "source": "Just Jared",
-    "published": "2026-10-20T19:23:32+00:00",
-    "summary": "",
-    "batch": "2026-10-21 06:00",
-    "found": "2026-10-20T19:48:59.539358+00:00",
-    "celebrities": [
-      "Nicole Kidman"
-    ],
-    "article_url": "https://www.justjared.com/2026/10/20/nicole-kidman-keith-urban-daughter-sunday-rose-famous-parents-modeling-opportunities/",
-    "image": "https://www.justjared.com/wp-content/uploads/2026/10/sunday-rose-kidman-nicole-keith-urban.jpg"
-  },
-  {
-    "title": "Cate Blanchett to host New York premiere of Displacement Film Fund shorts at Film Forum November 11, 2026",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGprYzBFNktKbWI4RWhkaU1iUHYwYjd4a3pnRTFyR3B4aEl0cVBxZDhNRGgtc3B1bnVJY2dCdUptbXd6VU5fWHg2SklWRTRRb2I5Z0hNdDh3SW14aXBUTmdIUjFJZkhqVDkzeEFIa0RwMHVUQTVMcUFCNC1yTE5mUF9LUFA5Uk0?oc=5",
-    "source": "AmNews Curtain Raiser",
-    "published": "2026-10-20T19:11:00+00:00",
-    "summary": "",
-    "batch": "2026-10-21 08:00",
-    "found": "2026-10-20T21:35:20.310232+00:00",
-    "celebrities": [
-      "Cate Blanchett"
-    ],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg14PKKQoSzVQGYQ8IuIad6KIG9urTN1p9JaX2Am64QhsANaxesroC6daki1gIjv9pWo46TbXArhQYxio4GDjUhW9DAF4wasnzHtHe5y-4TJXuIEb37iIg-DbLOGVkv27Ob0igRMiy0-FkO9AFrdnjfQ1pkjljoW2qk4omnwKz5t29-wqaTNJPMGXz0CXHz/w640-h360/unnamed-2.png",
-    "image_tries": 1,
-    "article_url": "https://www.amnewscurtainraiser.com/2026/10/cate-blanchett-to-host-new-york.html"
-  },
-  {
-    "title": "Nicole Kidman’s Daughter Sunday Rose, 18, Is Starting College Applications",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVlpUOWxZUl95WVNhajR5UF9XbVJWOTdUUXJkN29UQ3ZsX0VnOE0yT1lLVHEySmcwemRadUF6Z3Rza0IwU2xqdVNzZGxRTUI1azVDR195TDVIU3hWWjJKbEp4QVg5NkdQcnpPUFhXemR0c2RoRUtva1BZVjIyT0ZVQnBIMS0td1FZWXF5WVFR?oc=5",
-    "source": "People.com",
-    "published": "2026-10-20T19:03:09+00:00",
-    "summary": "",
-    "batch": "2026-10-22 00:00",
-    "found": "2026-10-21T13:24:04.621758+00:00",
-    "celebrities": [
-      "Nicole Kidman"
-    ],
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Chris Hemsworth’s Award-Winning Australian Whisky Brand Is Finally Coming to the U.S.",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONF9BWm8zWXc3TGMtTUpSbzcyTkJMVGtDQjRzU0ZMaXpFZU5yR0ZpTi16WXFtQ0lDdDJXMjVVQjR4NzY1Y1JtU2RFV3prTHhONlphNDRibUZUaEdWcl9UM0hiUWRjTXM4Wmo4LUVmZXlUWUlDRF9ZM0c2NVhIZXZ3UHlwbEV4LW5oYnhMTnZyQjgtaFAtaVhHaVVOb3d0WXJJaFlPQjl4enZ5dw?oc=5",
-    "source": "Parade Magazine",
-    "published": "2026-10-20T19:02:33+00:00",
-    "summary": "",
-    "batch": "2026-10-21 06:00",
-    "found": "2026-10-20T19:48:58.475617+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "image": "",
-    "image_tries": 3
-  },
-  {
-    "title": "Chris Hemsworth’s Award-Winning Australian Whisky Brand Is Finally Coming to the U.S.",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOElFYTluUVVKY2RhT2NXbkUzQ2xRcEJUbncxUVc5cHpjMVVOTmU4eF85SzQ5b3VrVUdDWmQ0TlVHMGFsUmluQXlpbDhzdFl1WFBzTkxaVHVEa3ROYnd5SDVYRVFUUDNuVTVhX1BYUE51a192SmhEX2VlTDhzV2ZLS1Y0MjVnTm1DcVZuWDdnNFdLMHd6V042alJqVVNiendqVkpfMl92ejNrSzhlOEYw?oc=5",
-    "source": "Yahoo",
-    "published": "2026-10-20T19:02:33+00:00",
-    "summary": "",
-    "batch": "2026-10-21 12:00",
-    "found": "2026-10-21T01:15:07.689369+00:00",
-    "celebrities": [
-      "Chris Hemsworth"
-    ],
-    "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/chris-hemsworth-award-winning-australian-190233905.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/4bc2cf8c692db8bf854ce07bbcb52798c245443ef7c80fa28aefaafbbb88f91f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Fae5388b79e46e7fb8b1bba7750396148.jpg"
   }
 ]

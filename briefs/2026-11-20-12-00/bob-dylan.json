@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-20 12:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "1968 Folk Rock Song, Written by Bob Dylan But Failed to Chart, Became Jimi Hendrix’s Only Top 40 Hit in America",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMWpHb3Q1YUt4NldNVU85MmgwXzJvVUxXTHg1UnRBZTFOZnpWNWlLOEE5VGloS1R0eXFlc0pWSkYwUmQxVTVUV1FPb28tSjA2YmN3eVNQNGgwTUFabjBtVTBVN19HZVRWb0RqbDBUNEFGR3hhdV9pMV9SS0FIRHV2UHFiR2ZxTXdKNm9GQmZYSGttY2Rldko2VW5oLVRYR3RNSS1oY0RMSHdDaWFNalZXQ29UbGdmWFJieEpEWTlKbEF0UVZCWWpoYmhHV1luM1BOb2w4SlF5OTM?oc=5",
+      "published": "2026-11-20T00:44:00+00:00",
+      "outlets": [
+        {
+          "source": "Parade Magazine",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMWpHb3Q1YUt4NldNVU85MmgwXzJvVUxXTHg1UnRBZTFOZnpWNWlLOEE5VGloS1R0eXFlc0pWSkYwUmQxVTVUV1FPb28tSjA2YmN3eVNQNGgwTUFabjBtVTBVN19HZVRWb0RqbDBUNEFGR3hhdV9pMV9SS0FIRHV2UHFiR2ZxTXdKNm9GQmZYSGttY2Rldko2VW5oLVRYR3RNSS1oY0RMSHdDaWFNalZXQ29UbGdmWFJieEpEWTlKbEF0UVZCWWpoYmhHV1luM1BOb2w4SlF5OTM?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Almanac Music: ‘Ballad of a Thin Man’ – Bob Dylan: Live 1966",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWhlQ2VWUkRTeWxfRVQ1ZGQzZ0NpY0FnOFVmdTlUb3gtUWgxMGFwNWEzc0FQYk1xd01hbHk1RkpLOVAyYWNEbGZsRVBtcEhucmxiOW5EUkU2WVJldFluS3l3M01KN1l0TEZGc083am9sSmtUcll0dDNQX3JjWHJYRXlZRERfZFRqYmpnLTBGOHk?oc=5",
+      "published": "2026-11-19T19:45:37+00:00",
+      "outlets": [
+        {
+          "source": "The Footy Almanac",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWhlQ2VWUkRTeWxfRVQ1ZGQzZ0NpY0FnOFVmdTlUb3gtUWgxMGFwNWEzc0FQYk1xd01hbHk1RkpLOVAyYWNEbGZsRVBtcEhucmxiOW5EUkU2WVJldFluS3l3M01KN1l0TEZGc083am9sSmtUcll0dDNQX3JjWHJYRXlZRERfZFRqYmpnLTBGOHk?oc=5",
+          "article_url": "https://www.footyalmanac.com.au/almanac-music-ballad-of-a-thin-man-bob-dylan-live-1966/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

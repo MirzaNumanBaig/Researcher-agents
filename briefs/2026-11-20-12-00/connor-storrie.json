@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-20 12:00",
+  "celebrity": "Connor Storrie",
+  "stories": [
+    {
+      "title": "Connor Storrie & Charli xcx Star In Saint Laurent’s New Campaign",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWlF5UUJaMDhEZ2R0ZEo0MVE4V3VuanlWSS03dmF6cXQ2WGx5b0liMDhJN0YxQW9vTjZTQ0N4U2dyMG00UDRlLVVyYXJ5Y2M3UGRfWnRZMEU2enZ5RFE1RTNQbTRnbUh0RWx3VzFhcnNTN1FieEI4ZDY0UGlSeW1KeEpKNG5TQnFlazNOajlxZmo?oc=5",
+      "published": "2026-11-19T22:06:50+00:00",
+      "outlets": [
+        {
+          "source": "The Zoe Report",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWlF5UUJaMDhEZ2R0ZEo0MVE4V3VuanlWSS03dmF6cXQ2WGx5b0liMDhJN0YxQW9vTjZTQ0N4U2dyMG00UDRlLVVyYXJ5Y2M3UGRfWnRZMEU2enZ5RFE1RTNQbTRnbUh0RWx3VzFhcnNTN1FieEI4ZDY0UGlSeW1KeEpKNG5TQnFlazNOajlxZmo?oc=5",
+          "article_url": "https://www.thezoereport.com/fashion/saint-laurent-le-smoking-60th-anniversary-campaign",
+          "image": "https://imgix.bustle.com/uploads/image/2026/11/19/a484d528/saint-laurent_le-smoking_winter-26_hr_3.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        }
+      ],
+      "image": "https://imgix.bustle.com/uploads/image/2026/11/19/a484d528/saint-laurent_le-smoking_winter-26_hr_3.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "image_source": "https://www.thezoereport.com/fashion/saint-laurent-le-smoking-60th-anniversary-campaign"
+    },
+    {
+      "title": "BAFTA's 2026 Breakthrough Cohort Connects a Polar Bear Documentary, \"1923\" and Ecuador's World Cup to Inde Navarrete and Connor Storrie",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXhiS0J6QU9qVUNxN01HYzF6LVRuSlBGNEJjdk4zOW1EaGNGdGFpWHNZRFdGZ1RmX0pmcW9hOG0wMXBLZWtpRDRMcjdPU2g2MHUzR2htTmNTeW5BSjJMeXFoZ2xQam1fNGFXR2dnaUd1RDkyVGdqUVZoS0RLYk02a1g5NkJRaFFR?oc=5",
+      "published": "2026-11-19T20:35:40+00:00",
+      "outlets": [
+        {
+          "source": "Latin Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXhiS0J6QU9qVUNxN01HYzF6LVRuSlBGNEJjdk4zOW1EaGNGdGFpWHNZRFdGZ1RmX0pmcW9hOG0wMXBLZWtpRDRMcjdPU2g2MHUzR2htTmNTeW5BSjJMeXFoZ2xQam1fNGFXR2dnaUd1RDkyVGdqUVZoS0RLYk02a1g5NkJRaFFR?oc=5",
+          "article_url": "https://www.latintimes.com/bafta-north-america-2026-breakthrough-us-cohort-601513",
+          "image": "https://d.latintimes.com/en/full/594949/bafta-usa-cohort-2026.png"
+        }
+      ],
+      "image": "https://d.latintimes.com/en/full/594949/bafta-usa-cohort-2026.png",
+      "image_source": "https://www.latintimes.com/bafta-north-america-2026-breakthrough-us-cohort-601513"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-20 12:00",
+  "celebrity": "Amanda Seyfried",
+  "stories": [
+    {
+      "title": "Oscar Predictions: Amanda Seyfried and Matt Damon Take the Top Spots for the First Time as Hollywood Heads Into Thanksgiving",
+      "url": "https://variety.com/lists/2027-oscars-predictions/",
+      "published": "2026-11-20T00:30:00+00:00",
+      "outlets": [
+        {
+          "source": "variety.com",
+          "url": "https://variety.com/lists/2027-oscars-predictions/",
+          "article_url": "",
+          "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000_b934d2.jpg"
+        }
+      ],
+      "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000_b934d2.jpg",
+      "image_source": "https://variety.com/lists/2027-oscars-predictions/"
+    },
+    {
+      "title": "Amanda Seyfried Sings Meryl Streep’s ‘Mamma Mia’ Song in Incredible New Video That You’ve Gotta Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zeVNRenV1ZjZHRzVIem5SRlhoLVk3b2JUZU9YQlpERDl2Ui1Fb0JCMnVmcm1PODZTY2NWVi1sMnU0VVN5WXlxX0xrdXVwZTJ0Vnc2ekZZT3RWTk1yYTJ6SU1CeURMMWg5c2c?oc=5",
+      "published": "2026-11-20T00:14:33+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zeVNRenV1ZjZHRzVIem5SRlhoLVk3b2JUZU9YQlpERDl2Ui1Fb0JCMnVmcm1PODZTY2NWVi1sMnU0VVN5WXlxX0xrdXVwZTJ0Vnc2ekZZT3RWTk1yYTJ6SU1CeURMMWg5c2c?oc=5",
+          "article_url": "https://www.imdb.com/de/news/ni66119895/?ref_=nwc_art_perm",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Amanda Seyfried Asks if She's 'Too Old' for Robert Pattinson's Bond",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGR3VjVRSjNSZHZWbVpTRmdSREhmYUpzZF9IcE9kTE4zcmc0c2l3VkdoNlJQdVdrMDBGT1dDeFppNi1BNlQzYXZHd29jaDB1LUhYYmdoaW9EUHh0aTFzUVN2bzlwNUNpNDN5X1dUMzF1T1pKUERtLXk5UG9YOUdWWk9lQUl3bmdrTHJ6d2dyeTA1VTdZRllyWkhKNVpORHVB?oc=5",
+      "published": "2026-11-18T23:03:37+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGR3VjVRSjNSZHZWbVpTRmdSREhmYUpzZF9IcE9kTE4zcmc0c2l3VkdoNlJQdVdrMDBGT1dDeFppNi1BNlQzYXZHd29jaDB1LUhYYmdoaW9EUHh0aTFzUVN2bzlwNUNpNDN5X1dUMzF1T1pKUERtLXk5UG9YOUdWWk9lQUl3bmdrTHJ6d2dyeTA1VTdZRllyWkhKNVpORHVB?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

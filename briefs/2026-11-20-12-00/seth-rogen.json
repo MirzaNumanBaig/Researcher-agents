@@ -1,0 +1,92 @@
+{
+  "batch": "2026-11-20 12:00",
+  "celebrity": "Seth Rogen",
+  "stories": [
+    {
+      "title": "In 2000, Seth Rogen auditioned for “a movie about idiots”. Ever since, he’s been too “bitter” to watch it",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlZwZUpnU29YNmJxYmYzTlJiZlFyck5tR2lpR1FWN0RMeW5WZXllT2wzcXlFLWlrbVNzMmZmMHhpZmVtblVJWEJCRlB0VUV3Rm9HcGxuU1VUY3JNRFRZZ044S2FGRzRjREk2WmpNX1pZNXpWNmMzaE42Rzd1VGx2eXVVcFBkUnNRRWM1U05uZjMzM2pMdk5GY3JKS2VMZ0xx?oc=5",
+      "published": "2026-11-19T23:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlZwZUpnU29YNmJxYmYzTlJiZlFyck5tR2lpR1FWN0RMeW5WZXllT2wzcXlFLWlrbVNzMmZmMHhpZmVtblVJWEJCRlB0VUV3Rm9HcGxuU1VUY3JNRFRZZ044S2FGRzRjREk2WmpNX1pZNXpWNmMzaE42Rzd1VGx2eXVVcFBkUnNRRWM1U05uZjMzM2pMdk5GY3JKS2VMZ0xx?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/seth-rogen-auditioned-for-a-movie-about-idiots-too-bitter-to-watch-it/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/09/Seth-Rogen-Actor-2025-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/09/Seth-Rogen-Actor-2025-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/seth-rogen-auditioned-for-a-movie-about-idiots-too-bitter-to-watch-it/"
+    },
+    {
+      "title": "What Seth Rogen Learned From His Work With Steven Spielberg",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mdDBzQ0FUaWRVR1lmNHN2c29aeU5pSWFhVWpEX3d5bUZ4YUJGdGJXT0xWMENER0ljN1NWbGpvNWRiRHNKQUI0Z0RwNEU5bnU5aUluQlJ3eGxiYmJBenNpQ1JacE8zcER5YmFaclEyQQ?oc=5",
+      "published": "2026-11-19T21:59:59+00:00",
+      "outlets": [
+        {
+          "source": "No Film School",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mdDBzQ0FUaWRVR1lmNHN2c29aeU5pSWFhVWpEX3d5bUZ4YUJGdGJXT0xWMENER0ljN1NWbGpvNWRiRHNKQUI0Z0RwNEU5bnU5aUluQlJ3eGxiYmJBenNpQ1JacE8zcER5YmFaclEyQQ?oc=5",
+          "article_url": "https://nofilmschool.com/seth-rogen-steven-spielberg-directors",
+          "image": "https://nofilmschool.com/media-library/image.jpg?id=68704251&width=1200&height=600&coordinates=0%2C41%2C0%2C41"
+        }
+      ],
+      "image": "https://nofilmschool.com/media-library/image.jpg?id=68704251&width=1200&height=600&coordinates=0%2C41%2C0%2C41",
+      "image_source": "https://nofilmschool.com/seth-rogen-steven-spielberg-directors"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Babies",
+      "release": "2026-09-12",
+      "director": [
+        "Lauren Miller"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Seth Rogen",
+        "Issa Rae",
+        "Dan Stevens",
+        "Zach Cherry"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137380437",
+        "wikipedia": "https://en.wikipedia.org/wiki/Babies_(2026_film)"
+      }
+    },
+    {
+      "title": "The Wrong Girls",
+      "release": "2026-08-14",
+      "director": [
+        "Dylan Meyer"
+      ],
+      "cast": [
+        "Alia Shawkat",
+        "LaKeith Stanfield",
+        "Zack Fox",
+        "Tony Hale",
+        "Kumail Nanjiani"
+      ],
+      "budget_usd": null,
+      "box_office_usd": 887116,
+      "scope": "",
+      "verdict": "Grossed $887k",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "61%",
+      "metacritic": "59/100 from 20 critics",
+      "critics_consensus": "Proudly stupid and surprisingly sweet, The Wrong Girls coasts on Kristen Stewart and Alia Shawkat's chemistry, even as its barrage of stoner gags produces more genial laughs than truly memorable ones.",
+      "critics_overview": "Archived from the original on August 15, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132560837",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wrong_Girls"
+      }
+    }
+  ]
+}

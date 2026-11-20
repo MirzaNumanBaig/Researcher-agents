@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-20 12:00",
+  "celebrity": "Johnny Depp",
+  "stories": [
+    {
+      "title": "The Screen Critic: Johnny Depp’s Christmas gift",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHZrRjhYc3ZlUjRURkRVQ1NCTlFvSjlVZWZpTFV0VjZaTC1HaHBVZXdKbGprRU13Zlp6bjV0UENKZkRCNGpNMXRiUnV4eGJVYVYwa2xzX085OVkzYUNKbFpTSC1TdWlCSDlDY2Y4LW0yS3lpcnREQVlpRG5LMTdRdm5nMTl0Zw?oc=5",
+      "published": "2026-11-19T23:30:26+00:00",
+      "outlets": [
+        {
+          "source": "Starts at 60",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHZrRjhYc3ZlUjRURkRVQ1NCTlFvSjlVZWZpTFV0VjZaTC1HaHBVZXdKbGprRU13Zlp6bjV0UENKZkRCNGpNMXRiUnV4eGJVYVYwa2xzX085OVkzYUNKbFpTSC1TdWlCSDlDY2Y4LW0yS3lpcnREQVlpRG5LMTdRdm5nMTl0Zw?oc=5",
+          "article_url": "https://startsat60.com/media/news/the-screen-critic-johnny-depps-christmas-gift",
+          "image": "https://images.startsat60.com/wp-content/uploads/20261120092635/ebenezer-608x405.jpg"
+        }
+      ],
+      "image": "https://images.startsat60.com/wp-content/uploads/20261120092635/ebenezer-608x405.jpg",
+      "image_source": "https://startsat60.com/media/news/the-screen-critic-johnny-depps-christmas-gift"
+    }
+  ]
+}
