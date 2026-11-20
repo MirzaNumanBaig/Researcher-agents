@@ -1,0 +1,65 @@
+{
+  "batch": "2026-11-21 05:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Nicole Kidman’s Tousled Ponytail Is The Easiest Way To Make Mature Hair Look Fuller: How To Get The Look",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjk3SGxvLS1XVm1lODJOME9PdC0waFBnQW90OWsxR0hScnRDeF9XekxBdUdJOU44WEtaVm9BM3p2OHdIVXJkMFBTVkt2YVduZWNrM1hHajhJYTdubFprNWN1TnFqR3FPNUlteUxPYl9KOGkxdld6T3JseXhsLUVxU0l3?oc=5",
+      "published": "2026-11-20T15:35:00+00:00",
+      "outlets": [
+        {
+          "source": "ELLE",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjk3SGxvLS1XVm1lODJOME9PdC0waFBnQW90OWsxR0hScnRDeF9XekxBdUdJOU44WEtaVm9BM3p2OHdIVXJkMFBTVkt2YVduZWNrM1hHajhJYTdubFprNWN1TnFqR3FPNUlteUxPYl9KOGkxdld6T3JseXhsLUVxU0l3?oc=5",
+          "article_url": "https://www.elle.com/uk/beauty/hair/a74488821/nicole-kidman-ponytail-volume/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/83d1041d-4f08-4fba-8a40-b811fcc76cc8.jpg?crop=1.00xw:0.401xh;0,0.0487xh&resize=1200:*"
+        }
+      ],
+      "image": "https://hips.hearstapps.com/hmg-prod/images/83d1041d-4f08-4fba-8a40-b811fcc76cc8.jpg?crop=1.00xw:0.401xh;0,0.0487xh&resize=1200:*",
+      "image_source": "https://www.elle.com/uk/beauty/hair/a74488821/nicole-kidman-ponytail-volume/"
+    },
+    {
+      "title": "Nicole Kidman proves black UGG boots are a cold-weather must-have",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05VUpNaXhFMWtPdVZHRnotMGlxd3FoOFZVLXpRNnlrZUJmbU90RnQxbXNTU2hiaTVBeFc5b3k2RS05MDB6b0R6TFo5UERBZDdtS01XaXkwYklkYnNBLW00Zk9pYW1XTENEZ21jeXowSTEtdFRabkFKNXk1UEJ4bk0?oc=5",
+      "published": "2026-11-20T12:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Woman & Home",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05VUpNaXhFMWtPdVZHRnotMGlxd3FoOFZVLXpRNnlrZUJmbU90RnQxbXNTU2hiaTVBeFc5b3k2RS05MDB6b0R6TFo5UERBZDdtS01XaXkwYklkYnNBLW00Zk9pYW1XTENEZ21jeXowSTEtdFRabkFKNXk1UEJ4bk0?oc=5",
+          "article_url": "https://www.womanandhome.com/fashion/fashion-news/nicole-kidman-ugg-boots/",
+          "image": "https://cdn.mos.cms.futurecdn.net/6vb2UgYHwEG9wehyk33DP-1920-80.jpg"
+        }
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/6vb2UgYHwEG9wehyk33DP-1920-80.jpg",
+      "image_source": "https://www.womanandhome.com/fashion/fashion-news/nicole-kidman-ugg-boots/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-21 05:00",
+  "celebrity": "Michael J. Fox",
+  "stories": [
+    {
+      "title": "ILM invented a new camera so Michael J. Fox could hand himself a glass of water",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPal9vTFlIUXBiQm5yRWRsV2tXTnpQb1RDcDRiZzlCVWVpdC02TzFHeDB1X21UQ1R1UDZVS01tSGtBdExWRkJEbVQwODhYNm9lM05IQ1lIcm1JVlZ0N2xqd0VYVFVzTFZZMW9EWG5YdVhrM2pjc1hrc1Z4blplc2ZhS3JrWDVRNUJ0bVVsTnAtdXNGZTM5WEVsTUdpbGV0ZFNl?oc=5",
+      "published": "2026-11-20T16:12:44+00:00",
+      "outlets": [
+        {
+          "source": "3DVF",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPal9vTFlIUXBiQm5yRWRsV2tXTnpQb1RDcDRiZzlCVWVpdC02TzFHeDB1X21UQ1R1UDZVS01tSGtBdExWRkJEbVQwODhYNm9lM05IQ1lIcm1JVlZ0N2xqd0VYVFVzTFZZMW9EWG5YdVhrM2pjc1hrc1Z4blplc2ZhS3JrWDVRNUJ0bVVsTnAtdXNGZTM5WEVsTUdpbGV0ZFNl?oc=5",
+          "article_url": "https://3dvf.com/en/ilm-invented-a-new-camera-so-michael-j-fox-could-hand-himself-a-glass-of-water/",
+          "image": "https://3dvf.com/wp-content/uploads/2026/11/ilm-invented-a-new-camera-so-michael-j-fox-could-hand-himself-a-glass-of-water.jpg"
+        }
+      ],
+      "image": "https://3dvf.com/wp-content/uploads/2026/11/ilm-invented-a-new-camera-so-michael-j-fox-could-hand-himself-a-glass-of-water.jpg",
+      "image_source": "https://3dvf.com/en/ilm-invented-a-new-camera-so-michael-j-fox-could-hand-himself-a-glass-of-water/"
+    },
+    {
+      "title": "Michael J. Fox's wife: \"It's very difficult for the family, for the caregivers, and for the patient\"",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlRoRGlrZ29hTDRLakVudEFHZkN2dTZhT0ZxNi10Sy1LZWEtY3JSZXE4Z1psUmtHVU5iU3JjUkVwY0ZfOHJyLUhkbTFTcTFybThnOHBoZ284SWxHNEVsZTMwMC1aN0VnVjN3ZDR0OXpQYjBsMm1EMFVQM3k3alhLQTdPWDhYZw?oc=5",
+      "published": "2026-11-20T11:57:27+00:00",
+      "outlets": [
+        {
+          "source": "El Mundo America",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlRoRGlrZ29hTDRLakVudEFHZkN2dTZhT0ZxNi10Sy1LZWEtY3JSZXE4Z1psUmtHVU5iU3JjUkVwY0ZfOHJyLUhkbTFTcTFybThnOHBoZ284SWxHNEVsZTMwMC1aN0VnVjN3ZDR0OXpQYjBsMm1EMFVQM3k3alhLQTdPWDhYZw?oc=5",
+          "article_url": "https://www.mundoamerica.com/celebrity/2026/11/20/6b00353921efa035258b45be.html",
+          "image": "https://phantom-elmundo-us.unidadeditorial.es/6bd71e25e8cf846ee658dd358f94b6c0/crop/0x31/886x621/f/webp/assets/multimedia/imagenes/2026/11/20/17951757184812.jpg"
+        }
+      ],
+      "image": "https://phantom-elmundo-us.unidadeditorial.es/6bd71e25e8cf846ee658dd358f94b6c0/crop/0x31/886x621/f/webp/assets/multimedia/imagenes/2026/11/20/17951757184812.jpg",
+      "image_source": "https://www.mundoamerica.com/celebrity/2026/11/20/6b00353921efa035258b45be.html"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-21 05:00",
+  "celebrity": "Callum Turner",
+  "stories": [
+    {
+      "title": "The Odyssey's Adam Croasdell 'shocked' as on-screen son Robert Pattinson is named next James Bond",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUpObVFPWko5SG5IY1NCX0pZNkcySGpmQXRSNEtvTlRvcU8xTzcyTGtwSTdCQVhQQ0FUNjh4N3dsbGhEWTdxUDV3ZWs3b1QzRWlvSERuSGxydURHdnRmdjNzZVhQbEpZRmhyZDlzaV84N2VVcFR2QkVPMk4tTWdHNDR3aWJzbEhod0lsSVRsdDJnaVN6T0QyTmt1emtaTnc5a1d5RXRkSnV1ZHloU2pKbGd0QzluNkI2b2diVlpwNHVzWmt5OVB6X0dpamZ2VlU?oc=5",
+      "published": "2026-11-20T16:16:34+00:00",
+      "outlets": [
+        {
+          "source": "Female First",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUpObVFPWko5SG5IY1NCX0pZNkcySGpmQXRSNEtvTlRvcU8xTzcyTGtwSTdCQVhQQ0FUNjh4N3dsbGhEWTdxUDV3ZWs3b1QzRWlvSERuSGxydURHdnRmdjNzZVhQbEpZRmhyZDlzaV84N2VVcFR2QkVPMk4tTWdHNDR3aWJzbEhod0lsSVRsdDJnaVN6T0QyTmt1emtaTnc5a1d5RXRkSnV1ZHloU2pKbGd0QzluNkI2b2diVlpwNHVzWmt5OVB6X0dpamZ2VlU?oc=5",
+          "article_url": "https://www.femalefirst.co.uk/celebrity/odysseys-adam-croasdell-shocked-screen-son-robert-pattinson-named-next-james-bond-1454018.html",
+          "image": "https://www.femalefirst.co.uk/image-library/partners/bang/land/500/a/adam-croasdell-played-robert-pattinsons-father-in-the-odysse.jpg"
+        }
+      ],
+      "image": "https://www.femalefirst.co.uk/image-library/partners/bang/land/500/a/adam-croasdell-played-robert-pattinsons-father-in-the-odysse.jpg",
+      "image_source": "https://www.femalefirst.co.uk/celebrity/odysseys-adam-croasdell-shocked-screen-son-robert-pattinson-named-next-james-bond-1454018.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "One Night Only",
+      "release": "2026-08-07",
+      "director": [
+        "Will Gluck"
+      ],
+      "cast": [
+        "Monica Barbaro",
+        "Callum Turner",
+        "Molly Ringwald",
+        "LeVar Burton",
+        "Maya Hawke"
+      ],
+      "budget_usd": 25000000,
+      "box_office_usd": 25200000,
+      "scope": "Mid-budget",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.01,
+      "rotten_tomatoes": "44%",
+      "metacritic": "42/100 from 36 critics",
+      "critics_consensus": "Hampered by a high-concept premise that's full of red flags, One Night Only has charming moments thanks to its appealing stars but keeps killing the mood with world-building that prompts more questions than the script is willing to answer.",
+      "critics_overview": "It opened to… Less than Jackass: Best and Last. Some critics wrote that the film's premise of a dystopia ruled by conservative capitalists was interesting and relevant to current events in the United States, but found that the implementation was nonsensical and distracting.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q135906833",
+        "wikipedia": "https://en.wikipedia.org/wiki/One_Night_Only_(2026_film)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-21 05:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Blake Lively fans spot alarming detail in her date night selfie with husband Ryan Reynolds: 'That is not him!'",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHM5UTBHRGY0d3VFZkVxSmtweDFoa04wTVB5eUtnVDJhYnQ2VENCZ1U5ZUlSMFNNdTZZajNoUUYwUzBqYUFfUWVHSE5CRzRzZ0llaWRjZk5ZQTF2MFQ4ZmxxVVlwakxwMmpRM2VOXy1RLXZ1aE0wZGVNcmdjeUQ2YVZOZDd6UlJxa3hpY0RFMVZROTBBdi1pdDliWk1iN3NsYzFSQVNUT1M1dXZkRmlRYQ?oc=5",
+      "published": "2026-11-20T18:05:28+00:00",
+      "outlets": [
+        {
+          "source": "Daily Mail",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHM5UTBHRGY0d3VFZkVxSmtweDFoa04wTVB5eUtnVDJhYnQ2VENCZ1U5ZUlSMFNNdTZZajNoUUYwUzBqYUFfUWVHSE5CRzRzZ0llaWRjZk5ZQTF2MFQ4ZmxxVVlwakxwMmpRM2VOXy1RLXZ1aE0wZGVNcmdjeUQ2YVZOZDd6UlJxa3hpY0RFMVZROTBBdi1pdDliWk1iN3NsYzFSQVNUT1M1dXZkRmlRYQ?oc=5",
+          "article_url": "https://www.dailymail.com/tvshowbiz/article-16309365/Blake-Lively-alarming-date-night-selfie-Ryan-Reynolds.html",
+          "image": "https://i.dailymail.com/1s/2026/11/20/17/112640049-0-image-m-17_1795197525724.jpg"
+        }
+      ],
+      "image": "https://i.dailymail.com/1s/2026/11/20/17/112640049-0-image-m-17_1795197525724.jpg",
+      "image_source": "https://www.dailymail.com/tvshowbiz/article-16309365/Blake-Lively-alarming-date-night-selfie-Ryan-Reynolds.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

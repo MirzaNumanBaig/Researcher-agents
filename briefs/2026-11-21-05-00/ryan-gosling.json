@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-21 05:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Project Hail Mary Box Office: How Much Does Ryan Gosling's Film Need From Its December Re-Release To Cross $700M Worldwide?",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUjFtcExNcXR3OHZOaGRMdDVha3VwcTljWkVLdlhpMzNUMlczeDAtQ2gzX0R4aVZ4bE5JRlgxODZEcFk3cnZFUWVFUEJaV01KcWFaTWFwRFhUd2dRd2xCWkl5cWdQYzEwektzM1RrSjhZU3Z5ZXI3aXBDZWNNWnU0WDF4OTBBRnNVZG81d1ItajBVQldhQnNHNmF2OENZTEJUc2ZvcFdET3d0OHhXX3JnZFJveF80d2FNNTVWalVwcG03bWNXTjJzNUNKVUpwRjVDT25ETF9FRzVCbHBmWXpmQjVIY0d4bnFQbGc?oc=5",
+      "published": "2026-11-20T12:39:42+00:00",
+      "outlets": [
+        {
+          "source": "Koimoi",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUjFtcExNcXR3OHZOaGRMdDVha3VwcTljWkVLdlhpMzNUMlczeDAtQ2gzX0R4aVZ4bE5JRlgxODZEcFk3cnZFUWVFUEJaV01KcWFaTWFwRFhUd2dRd2xCWkl5cWdQYzEwektzM1RrSjhZU3Z5ZXI3aXBDZWNNWnU0WDF4OTBBRnNVZG81d1ItajBVQldhQnNHNmF2OENZTEJUc2ZvcFdET3d0OHhXX3JnZFJveF80d2FNNTVWalVwcG03bWNXTjJzNUNKVUpwRjVDT25ETF9FRzVCbHBmWXpmQjVIY0d4bnFQbGc?oc=5",
+          "article_url": "https://www.koimoi.com/box-office/project-hail-mary-box-office-how-much-does-ryan-goslings-film-need-from-its-december-re-release-to-cross-700m-worldwide/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}
