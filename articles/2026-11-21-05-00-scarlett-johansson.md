@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Paper Tiger: Review Says Role Stands Out"
 seo_description: "Scarlett Johansson plays Hester in James Gray's Paper Tiger. Slate says the Adam Driver crime drama mixes Scorsese-style menace with family heartache."
 focus_keyword: "Scarlett Johansson Paper Tiger"
 permalink: "scarlett-johansson-paper-tiger-review"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "Scarlett Johansson"
@@ -14,6 +14,15 @@ tags: ["Scarlett Johansson", "Adam Driver", "Miles Teller"]
 image_prompt: "An empty 1980s Brooklyn canal at dusk, with a lone brick house glowing in the distance and grainy film mood."
 sources:
   - "https://slate.com/culture/2026/11/paper-tiger-adam-driver-scarlett-johansson-miles-teller-movie.html"
+image: "images/2026-11-21-05-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-080.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-080.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3194
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-scarlett-johansson-768x432.webp"
+wp_id: 3195
+wp_link: "https://moduscarry.com/scarlett-johansson-paper-tiger-review/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

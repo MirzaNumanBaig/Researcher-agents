@@ -5,7 +5,7 @@ seo_title: "Martin McDonagh Stage and Screen: WBUR on Wild Horse Nine"
 seo_description: "Martin McDonagh stage and screen work is praised in a WBUR commentary as Boston shows The Beauty Queen of Leenane and Wild Horse Nine. Read the key points."
 focus_keyword: "Martin McDonagh stage and screen"
 permalink: "martin-mcdonagh-stage-and-screen"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "Martin McDonagh"
@@ -14,6 +14,15 @@ tags: ["Martin McDonagh", "Wild Horse Nine"]
 image_prompt: "An empty theatre stage with a single armchair under a warm spotlight, red velvet seats fading into shadow"
 sources:
   - "https://www.wbur.org/news/2026/11/20/mcdonagh-wild-horse-9-beauty-queen-commentary"
+image: "images/2026-11-21-05-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Martin McDonagh, director, at 82nd Venice International Film Festival in Venice, Italy for the film Wild Horse Nine."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7.jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3174
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-martin-mcdonagh-768x432.webp"
+wp_id: 3175
+wp_link: "https://moduscarry.com/martin-mcdonagh-stage-and-screen/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

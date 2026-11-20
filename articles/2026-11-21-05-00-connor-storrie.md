@@ -5,7 +5,7 @@ seo_title: "Connor Storrie April X Ratings Fall as Fans Argue"
 seo_description: "Connor Storrie's April X has dropped on IMDb and Heated Rivalry fans are split over review-bombing claims. Here is what is confirmed and what is not."
 focus_keyword: "Connor Storrie April X"
 permalink: "connor-storrie-april-x-ratings"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "Connor Storrie"
@@ -14,6 +14,15 @@ tags: ["Connor Storrie", "Hudson Williams", "Heated Rivalry"]
 image_prompt: "An empty cinema auditorium with a glowing blank screen and rows of red seats in soft dim light"
 sources:
   - "https://thetab.com/filmshrine/2026/11/20/heated-rivalry-fans-war-connor-storrie-april-x-hudson-williams-fans-review-bombing-claims/"
+image: "images/2026-11-21-05-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3156
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-connor-storrie-768x432.webp"
+wp_id: 3157
+wp_link: "https://moduscarry.com/connor-storrie-april-x-ratings/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

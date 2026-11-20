@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett David Lean Documentary Sells Abroad"
 seo_description: "Cate Blanchett narrates the David Lean documentary Maverick, sold to France, Germany, Spain and Australia before its UK release on 4 December."
 focus_keyword: "Cate Blanchett David Lean documentary"
 permalink: "cate-blanchett-david-lean-documentary"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "Cate Blanchett"
@@ -15,6 +15,15 @@ image_prompt: "An empty grand cinema auditorium with red velvet seats and a vint
 sources:
   - "https://deadline.com/2026/11/david-lean-film-sky-uk-release-cate-blanchett-deals-1237229966/"
   - "https://thechenabtimes.com/2026/11/20/david-lean-documentary-narrated-by-cate-blanchett-secures-international-distribution-ahead-of-uk-premiere/"
+image: "images/2026-11-21-05-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Bernadette Fox, protagonist of the film version of Where'd You Go, Bernadette , played by Cate Blanchett"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Bernadette_Fox.jpg\" rel=\"noopener\">DV.Pranu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Bernadette_Fox.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3152
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-cate-blanchett-768x432.webp"
+wp_id: 3153
+wp_link: "https://moduscarry.com/cate-blanchett-david-lean-documentary/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

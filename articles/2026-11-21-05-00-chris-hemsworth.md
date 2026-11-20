@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Home Burglary: Teen Charged, Bail Denied"
 seo_description: "A 16-year-old is charged over the Chris Hemsworth home burglary at Broken Head and denied bail, while police still search for three other suspects."
 focus_keyword: "Chris Hemsworth home burglary"
 permalink: "chris-hemsworth-home-burglary-arrest"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "Chris Hemsworth"
@@ -17,6 +17,15 @@ sources:
   - "https://www.menshealth.com/uk/fitness/cardio-exercise/a74485331/chris-hemsworth-mma-fight-training/"
   - "https://thedirect.com/article/brie-larson-captain-marvel-avengers-doomsday-mcu-poster-chris-hemsworth-thor"
   - "https://boxlifemagazine.com/hemsworth-travel-workout-bands-kettlebells/"
+image: "images/2026-11-21-05-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3154
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-chris-hemsworth-768x432.webp"
+wp_id: 3155
+wp_link: "https://moduscarry.com/chris-hemsworth-home-burglary-arrest/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

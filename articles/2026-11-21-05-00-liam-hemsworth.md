@@ -5,7 +5,7 @@ seo_title: "Liam Hemsworth Hunger Games: Why Gale Is Not in Sunrise"
 seo_description: "Liam Hemsworth Hunger Games update: Gale is not in Sunrise on the Reaping, plus Jennifer Lawrence's kiss ranking and Miley Cyrus wedding reports."
 focus_keyword: "Liam Hemsworth Hunger Games"
 permalink: "liam-hemsworth-hunger-games"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "Liam Hemsworth"
@@ -17,6 +17,15 @@ sources:
   - "https://www.usmagazine.com/entertainment/news/jennifer-lawrence-ranks-her-best-to-worst-onscreen-kisses/"
   - "https://www.aol.com/articles/miley-cyrus-reportedly-marrying-maxx-110100000.html"
   - "https://www.bollywoodshaadis.com/articles/miley-cyrus-revealed-the-reason-behind-her-split-from-liam-hemsworth-86834"
+image: "images/2026-11-21-05-00-liam-hemsworth.webp"
+image_alt: "Liam Hemsworth: Liam Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/19656548325\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/19656548325\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3172
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-liam-hemsworth-768x432.webp"
+wp_id: 3173
+wp_link: "https://moduscarry.com/liam-hemsworth-hunger-games-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

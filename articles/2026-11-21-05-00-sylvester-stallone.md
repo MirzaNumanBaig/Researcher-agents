@@ -5,7 +5,7 @@ seo_title: "Anthony Ippolito Stallone Transformation in I Play Rocky"
 seo_description: "How Anthony Ippolito built his Stallone transformation for I Play Rocky: a big weight gain, a year of training and hours studying the voice."
 focus_keyword: "Anthony Ippolito Stallone transformation"
 permalink: "anthony-ippolito-stallone-transformation"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "Sylvester Stallone"
@@ -18,6 +18,15 @@ sources:
   - "https://www.americamagazine.org/film/2026/11/20/i-play-rocky-documentary-sylvester-stallone/"
   - "https://www.highbrowmagazine.com/32178-i-play-rocky-captures-heart-and-tribulations-behind-stallones-breakout-performance"
   - "https://www.npr.org/2026/11/20/nx-s1-5691846/i-play-rocky-chronicles-sylvester-stallones-unconventional-road-to-stardom"
+image: "images/2026-11-21-05-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone & Arnold Schwarzenegger speaking at the 2012 San Diego Comic-Con International in San Diego, California. Please attribute to Gage Skidmore if used elsewhere."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_%26_Arnold_Schwarzenegger_(7588431274).jpg\" rel=\"noopener\">Gage Skidmore from Peoria, AZ, United States of America</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_%26_Arnold_Schwarzenegger_(7588431274).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3196
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-sylvester-stallone-768x432.webp"
+wp_id: 3197
+wp_link: "https://moduscarry.com/anthony-ippolito-stallone-transformation/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

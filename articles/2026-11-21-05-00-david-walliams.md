@@ -5,7 +5,7 @@ seo_title: "David Walliams Jonathan Ross Joke: ITV Future Explained"
 seo_description: "David Walliams is at the centre of a row over a 2004 joke by Jonathan Ross. Here is what was said, what Ross apologised for and what ITV plans next."
 focus_keyword: "David Walliams Jonathan Ross"
 permalink: "david-walliams-jonathan-ross-joke"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "David Walliams"
@@ -15,6 +15,15 @@ image_prompt: "An empty television studio with a lone presenter's sofa under dim
 sources:
   - "https://www.standard.co.uk/showbiz/jonathan-ross-itv-david-walliams-b1305161.html"
   - "https://www.irishtimes.com/culture/film/review/2026/11/20/before-david-walliams-there-was-roald-dahl-who-had-his-own-shocking-scandal-this-film-lays-it-bare/"
+image: "images/2026-11-21-05-00-david-walliams.webp"
+image_alt: "David Walliams: Movie Premiere"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Ashleigh_and_David_Walliams_(the_voice_of_Pudsey_in_the_movie)_(cropped).JPG\" rel=\"noopener\">Peculiar Realm</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Ashleigh_and_David_Walliams_(the_voice_of_Pudsey_in_the_movie)_(cropped).JPG\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3158
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-david-walliams-768x432.webp"
+wp_id: 3159
+wp_link: "https://moduscarry.com/david-walliams-jonathan-ross-joke/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

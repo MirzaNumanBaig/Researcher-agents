@@ -5,7 +5,7 @@ seo_title: "Jason Sudeikis SNL Audition: Following Chris Rock Story"
 seo_description: "Jason Sudeikis recalls following Chris Rock at his SNL audition and how Ted Lasso began as a 2013 NBC Sports ad. Read what he said and what's next."
 focus_keyword: "Jason Sudeikis SNL audition"
 permalink: "jason-sudeikis-snl-audition"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "Jason Sudeikis"
@@ -15,6 +15,15 @@ image_prompt: "An empty comedy club stage with a single microphone stand under a
 sources:
   - "https://www.yardbarker.com/entertainment/articles/i_had_to_follow_chris_rock_jason_sudeikis_recalls_high_stakes_snl_audition/s1_17785_44589842"
   - "https://www.yardbarker.com/entertainment/articles/hired_and_fired_jason_sudeikis_recalls_ted_lassos_unlikely_2013_nbc_sports_origins/s1_17785_44589748"
+image: "images/2026-11-21-05-00-jason-sudeikis.webp"
+image_alt: "Jason Sudeikis: Jason Sudeikis 2011 Shankbone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/27865228@N06/5678011903\" rel=\"noopener\">david_shankbone</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/27865228@N06/5678011903\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3166
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-jason-sudeikis-768x432.webp"
+wp_id: 3167
+wp_link: "https://moduscarry.com/jason-sudeikis-snl-audition/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

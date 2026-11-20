@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Steps Netflix: Cinderella Songs and Role"
 seo_description: "Amanda Seyfried Steps Netflix: she voices Cinderella, sings 'Smile And A Song' and says the role is a relief after playing Elizabeth Holmes."
 focus_keyword: "Amanda Seyfried Steps Netflix"
 permalink: "amanda-seyfried-steps-netflix-songs"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "Amanda Seyfried"
@@ -17,6 +17,10 @@ sources:
   - "https://people.com/amanda-seyfried-says-playing-cinderella-is-a-relief-after-elizabeth-holmes-exclusive-12262562"
   - "https://ca.style.yahoo.com/amanda-seyfried-poses-introspective-seeing-142146166.html"
   - "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/amanda-seyfrieds-cheeky-am-i-too-old-comment-on-the-bond-girl-shortlist-goes-viral-fans-point-out-she-is-only-six-months-older-than-robert-pattinson/articleshow/136026453.cms"
+wp_id: 3147
+wp_link: "https://moduscarry.com/?p=3147"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

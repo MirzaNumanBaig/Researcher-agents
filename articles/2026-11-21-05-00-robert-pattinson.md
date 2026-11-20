@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond: Batman Future and Fame"
 seo_description: "Robert Pattinson James Bond casting brings a Batman contract question, a bigger spotlight for him and Suki Waterhouse, and a royal thumbs-up."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-batman-future"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 05:00"
 celebrity: "Robert Pattinson"
@@ -17,6 +17,15 @@ sources:
   - "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple"
   - "https://www.theguardian.com/film/2026/nov/20/robert-pattinson-batman-james-bond-third-movie-delays-dc"
   - "https://www.hollywoodreporter.com/movies/movie-news/prince-harry-james-bond-robert-pattinson-1236759950/"
+image: "images/2026-11-21-05-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3188
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-robert-pattinson-768x432.webp"
+wp_id: 3189
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-batman-future/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
