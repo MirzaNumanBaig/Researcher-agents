@@ -24,6 +24,7 @@ wp_id: 3040
 wp_link: "https://moduscarry.com/inde-navarrette-gotham-spotlight-tribute/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
