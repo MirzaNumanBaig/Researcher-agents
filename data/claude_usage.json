@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-01",
-   "time": "2026-11-01T04:20:34+00:00",
-   "batch": "2026-11-01 15:00",
-   "celebrity": "Hudson Williams",
-   "article": "2026-11-01-15-00-hudson-williams.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 1614,
-   "cache_read_tokens": 146028,
-   "cache_write_tokens": 23496,
-   "turns": 10,
-   "seconds": 19,
-   "cost_usd": 0.1367
-  },
-  {
-   "date": "2026-11-01",
    "time": "2026-11-01T04:21:43+00:00",
    "batch": "2026-11-01 15:00",
    "celebrity": "Nicole Kidman",
@@ -23999,6 +23983,22 @@
    "turns": 9,
    "seconds": 15,
    "cost_usd": 0.1364
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T02:01:55+00:00",
+   "batch": "2026-11-19 06:00",
+   "celebrity": "Tom Hardy",
+   "article": "2026-11-19-06-00-tom-hardy.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3739,
+   "cache_read_tokens": 118584,
+   "cache_write_tokens": 25561,
+   "turns": 7,
+   "seconds": 27,
+   "cost_usd": 0.1517
   }
  ]
 }
