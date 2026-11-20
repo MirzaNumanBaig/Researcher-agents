@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-10-31",
-   "time": "2026-10-31T23:07:35+00:00",
-   "batch": "2026-11-01 10:00",
-   "celebrity": "Michael Cera",
-   "article": "2026-11-01-10-00-michael-cera.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 6,
-   "output_tokens": 936,
-   "cache_read_tokens": 73710,
-   "cache_write_tokens": 19064,
-   "turns": 6,
-   "seconds": 9,
-   "cost_usd": 0.0931
-  },
-  {
-   "date": "2026-10-31",
    "time": "2026-10-31T23:10:08+00:00",
    "batch": "2026-11-01 10:00",
    "celebrity": "Miranda Kerr",
@@ -23999,6 +23983,22 @@
    "turns": 17,
    "seconds": 45,
    "cost_usd": 0.2298
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T01:49:15+00:00",
+   "batch": "2026-11-20 12:00",
+   "celebrity": "Ryan Gosling",
+   "article": "2026-11-20-12-00-ryan-gosling.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4508,
+   "cache_read_tokens": 126700,
+   "cache_write_tokens": 30191,
+   "turns": 7,
+   "seconds": 30,
+   "cost_usd": 0.1787
   }
  ]
 }
