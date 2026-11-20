@@ -18,9 +18,14 @@ sources:
   - "https://ca.style.yahoo.com/amanda-seyfried-poses-introspective-seeing-142146166.html"
   - "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/amanda-seyfrieds-cheeky-am-i-too-old-comment-on-the-bond-girl-shortlist-goes-viral-fans-point-out-she-is-only-six-months-older-than-robert-pattinson/articleshow/136026453.cms"
 wp_id: 3147
-wp_link: "https://moduscarry.com/?p=3147"
-wp_synced: pending
+wp_link: "https://moduscarry.com/amanda-seyfried-steps-netflix-songs/"
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-21-05-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, model, actrs, at 83rd Venice International Film Festival in Venice, Italy for the film Miu Miu Women's Tales ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_83rd_Venice_International_Film_Festival-1.jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_83rd_Venice_International_Film_Festival-1.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3202
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-05-00-amanda-seyfried-768x432.webp"
 ---
 
 **Quick summary**

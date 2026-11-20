@@ -23,6 +23,7 @@ wp_id: 3142
 wp_link: "https://moduscarry.com/sylvester-stallone-rocky-1977-review/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

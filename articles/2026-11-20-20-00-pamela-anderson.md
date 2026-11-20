@@ -23,6 +23,7 @@ wp_id: 3130
 wp_link: "https://moduscarry.com/pamela-anderson-red-coat/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
