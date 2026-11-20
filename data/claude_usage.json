@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-03",
-   "time": "2026-11-03T02:15:36+00:00",
-   "batch": "2026-11-03 12:00",
-   "celebrity": "Renate Reinsve",
-   "article": "2026-11-03-12-00-renate-reinsve.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1111,
-   "cache_read_tokens": 105281,
-   "cache_write_tokens": 18199,
-   "turns": 7,
-   "seconds": 11,
-   "cost_usd": 0.0946
-  },
-  {
-   "date": "2026-11-03",
    "time": "2026-11-03T02:18:18+00:00",
    "batch": "2026-11-03 12:00",
    "celebrity": "Russell Crowe",
@@ -23999,6 +23983,22 @@
    "turns": 10,
    "seconds": 57,
    "cost_usd": 0.2365
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T19:22:23+00:00",
+   "batch": "2026-11-21 05:00",
+   "celebrity": "Russell Brand",
+   "article": "2026-11-21-05-00-russell-brand.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3886,
+   "cache_read_tokens": 125862,
+   "cache_write_tokens": 29761,
+   "turns": 7,
+   "seconds": 29,
+   "cost_usd": 0.1706
   }
  ]
 }
