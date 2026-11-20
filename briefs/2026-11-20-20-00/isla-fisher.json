@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-20 20:00",
+  "celebrity": "Isla Fisher",
+  "stories": [
+    {
+      "title": "Bhanushali Studios Goes Global With Al Pacino and Isla Fisher's Captivated, a Getty Kidnapping Drama",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczlqVkYtdzVPTjJSN1NtdXhFVGQ5ck0wdHJSM1lDc1p2aDI5eWo3NVF2V3dmaHZoR0M3RFg3a1VkekRQaUJmOGhxdWpIQnViSF9MZHdlQ2M0WldiMUYxS1RTUVNROU5nX3ZVdUFIUzY4TGRvZnhQYmU1dTlWTU9nRmZMaXh4UVR3bEN1TVAzOGEyZXNnWUMyQ1M4alZVTHJNRFYyeA?oc=5",
+      "published": "2026-11-20T07:52:13+00:00",
+      "outlets": [
+        {
+          "source": "AltBollywood.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczlqVkYtdzVPTjJSN1NtdXhFVGQ5ck0wdHJSM1lDc1p2aDI5eWo3NVF2V3dmaHZoR0M3RFg3a1VkekRQaUJmOGhxdWpIQnViSF9MZHdlQ2M0WldiMUYxS1RTUVNROU5nX3ZVdUFIUzY4TGRvZnhQYmU1dTlWTU9nRmZMaXh4UVR3bEN1TVAzOGEyZXNnWUMyQ1M4alZVTHJNRFYyeA?oc=5",
+          "article_url": "https://www.altbollywood.com/post/bhanushali-studios-captivated-al-pacino-isla-fisher-getty-kidnapping",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Spa Weekend",
+      "release": "2026-08-21",
+      "director": [
+        "Jon Lucas",
+        "Scott Moore"
+      ],
+      "cast": [
+        "Isla Fisher",
+        "Leslie Mann",
+        "Anna Faris",
+        "Michelle Buteau",
+        "Adam Demos"
+      ],
+      "budget_usd": 20000000,
+      "box_office_usd": 13800000,
+      "scope": "Mid-budget",
+      "verdict": "Weak",
+      "gross_vs_budget": 0.69,
+      "rotten_tomatoes": "29%",
+      "metacritic": "33/100 from 17 critics",
+      "critics_consensus": "Saddling a terrific cast with meager material, Spa Weekend never relaxes as it stacks hijinks upon hijinks without unlocking how to make all the antics particularly funny.",
+      "critics_overview": "^ D'Alessandro, Anthony (August 23, 2026). Retrieved August 23, 2026.{{cite web}}: CS1 maint: url-status (link)",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q135285630",
+        "wikipedia": "https://en.wikipedia.org/wiki/Spa_Weekend"
+      }
+    }
+  ]
+}

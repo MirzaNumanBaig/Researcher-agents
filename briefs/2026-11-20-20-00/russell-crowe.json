@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-20 20:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "Russell Crowe Admits to Binging Three Ryan Gosling Movies Before Filming 'The Nice Guys' Together",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemItMnVENWlyNTk2cGNaX2plZG41clNDVy12S3F2TVZrakJmVjRrNzk2UUtoWjlmMFlLUFFLd1lncldRUnc0S2VzUldiQVFYVFBMeHIwVWpkdGlwUW5UTE02WGhrbzJNT1pqNTRiMWJJOFotMlgzMmk4NEk5QnVQMUdfYWdYMzRfbmVlMjBIX3pweDdvZk1FcGpUaDVQQ1JFWDJhcWdLSQ?oc=5",
+      "published": "2026-11-20T06:21:37+00:00",
+      "outlets": [
+        {
+          "source": "SiriusXM",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemItMnVENWlyNTk2cGNaX2plZG41clNDVy12S3F2TVZrakJmVjRrNzk2UUtoWjlmMFlLUFFLd1lncldRUnc0S2VzUldiQVFYVFBMeHIwVWpkdGlwUW5UTE02WGhrbzJNT1pqNTRiMWJJOFotMlgzMmk4NEk5QnVQMUdfYWdYMzRfbmVlMjBIX3pweDdvZk1FcGpUaDVQQ1JFWDJhcWdLSQ?oc=5",
+          "article_url": "https://www.siriusxm.com/blog/russell-crowe-wanted-to-work-with-ryan-gosling-after-seeing-young-hercules",
+          "image": "https://blog-admin.siriusxm.com/wp-content/uploads/2016/05/531033746_nice_cropped-e1463158117498.jpg"
+        }
+      ],
+      "image": "https://blog-admin.siriusxm.com/wp-content/uploads/2016/05/531033746_nice_cropped-e1463158117498.jpg",
+      "image_source": "https://www.siriusxm.com/blog/russell-crowe-wanted-to-work-with-ryan-gosling-after-seeing-young-hercules"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Unabomber",
+      "release": "2026-09-25",
+      "director": [
+        "Janus Metz Pedersen"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "25%",
+      "metacritic": "46/100 from 18 critics",
+      "critics_consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+      "critics_overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+      }
+    }
+  ]
+}

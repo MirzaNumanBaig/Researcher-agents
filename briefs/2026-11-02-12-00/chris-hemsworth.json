@@ -1,0 +1,27 @@
+{
+  "batch": "2026-11-02 12:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "Introducing Archie Rose's new whisky range with Chris Hemsworth",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSm0weWN3LVVFMmgxazc0SW5Ud1UyVE9RckR3bXBNZS1HTkpsRm5tUmNacU1qMzdXSndGVC1PWjBSek05ekNaQUdtc2dieTRqYzFJQUp0ZFBjQ3A1dVgxOHNjZnVuVlQxelNpeEJvbm9RYTFWRVhiNndMS0V1VzMyR2diRDVuQUYxVFFHZ0x1Ml9JTGc3VlVlajNNWE9MWHda?oc=5",
+      "published": "2026-11-05T10:01:38+00:00",
+      "outlets": [
+        {
+          "source": "Drinks Trade",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSm0weWN3LVVFMmgxazc0SW5Ud1UyVE9RckR3bXBNZS1HTkpsRm5tUmNacU1qMzdXSndGVC1PWjBSek05ekNaQUdtc2dieTRqYzFJQUp0ZFBjQ3A1dVgxOHNjZnVuVlQxelNpeEJvbm9RYTFWRVhiNndMS0V1VzMyR2diRDVuQUYxVFFHZ0x1Ml9JTGc3VlVlajNNWE9MWHda?oc=5",
+          "article_url": "https://www.drinkstrade.com.au/news/introducing-archie-roses-new-whisky-range-with-chris-hemsworth/",
+          "image": ""
+        },
+        {
+          "source": "The Shout",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0RYSW40d2JnRzJkT0lMcmJUYmRIbUM0blZEWFA5RW5rQkYtT0Ezam9abnBRdnpaWTVBNkRiaW0tS0RtejlKNTFnbmNfdXg4MFpvWXlfSF84T0NvaW9XbTF2TkVRRTRhblZrTEdxYjYwLXZaLXhlREg2NU0zVDlaTlFmNGpZVmJTVU1maGQ5a2g?oc=5",
+          "article_url": "https://theshout.com.au/introducing-archie-roses-new-whisky-range-with-chris-hemsworth/",
+          "image": "https://theshout.com.au/wp-content/uploads/2026/11/New-Project-21.jpg"
+        }
+      ],
+      "image": "https://theshout.com.au/wp-content/uploads/2026/11/New-Project-21.jpg",
+      "image_source": "https://theshout.com.au/introducing-archie-roses-new-whisky-range-with-chris-hemsworth/"
+    }
+  ]
+}

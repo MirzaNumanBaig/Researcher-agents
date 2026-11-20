@@ -27,10 +27,16 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDZFYmVCOXRfcFFJNGRsczc1VG9HY3hEc2RxNzBkaTNkM3VKak1hWllaZ05jUmlEYTFULVRydE84OVh3WHI4VmFHSGVmamxqdm5NZWRMY21uWEpBWWJ3R29JOTFkZWhENlJ2aHdobFRKbjhicWxxNGcydGVXNGtkWGxRZTBsa1FBeVNjODBUY3FIVDZ4QWtyYXM2QlhraFJvU2kzSjdWN3kzRXJS?oc=5",
           "article_url": "",
           "image": ""
+        },
+        {
+          "source": "Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaVp4UW5NREwyZFF3UlpVcXg1ZXhHenpGUU1CVnU5SjV5REx2NkdDM3pLbnRHSUdTdXdIZ3dLRE1RY1NybUY0TmhXcC1HcmlPMXpEOU4xR3p0bTdJTHRWM1JUZ2JuY3Jxalc3aFVoRE52dFVDa2pQcWE3UVpzM21NVGdB?oc=5",
+          "article_url": "https://ca.news.yahoo.com/pamela-anderson-shares-rare-glimpse-194740178.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/0ecb6a8b7e66caf6a1f3fcd3943d8edd710daa687caeeb5ef2fe8193444e1355/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Ffbe6eb2c00ae21a7764942523398234f.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://s.yimg.com/lo/mysterio/api/0ecb6a8b7e66caf6a1f3fcd3943d8edd710daa687caeeb5ef2fe8193444e1355/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Ffbe6eb2c00ae21a7764942523398234f.jpg",
+      "image_source": "https://ca.news.yahoo.com/pamela-anderson-shares-rare-glimpse-194740178.html"
     }
   ]
 }

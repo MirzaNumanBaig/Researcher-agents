@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-20 20:00",
+  "celebrity": "Martin Short",
+  "stories": [
+    {
+      "title": "Selena Gomez Shares Her Reaction to Martin Short Ruining Her Wedding Cake",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ1B5UkRpcjA0eUFUT215M2g5Y29uMDJNdGphOERTemMtdEgxNG5NdkVkY29LTkgxRFFhS0tub1lzb2pNMUdMc2pJSkk3RlZ5bHluSmdYZ095T09GVEVmN2xLQ3dZbnBuel9oVlZTN25xTUN6eXp0alpoM0xIX1QwbXljV2YzeFp1SGdwOXRFRzhQMGZxd3Y5QWtNV085MFZQTkhLdHRMVGc2aFg0QzVqMmJscmVGRHJ1TFBHWURn?oc=5",
+      "published": "2026-11-20T08:22:49+00:00",
+      "outlets": [
+        {
+          "source": "Rolling Stone",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ1B5UkRpcjA0eUFUT215M2g5Y29uMDJNdGphOERTemMtdEgxNG5NdkVkY29LTkgxRFFhS0tub1lzb2pNMUdMc2pJSkk3RlZ5bHluSmdYZ095T09GVEVmN2xLQ3dZbnBuel9oVlZTN25xTUN6eXp0alpoM0xIX1QwbXljV2YzeFp1SGdwOXRFRzhQMGZxd3Y5QWtNV085MFZQTkhLdHRMVGc2aFg0QzVqMmJscmVGRHJ1TFBHWURn?oc=5",
+          "article_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/selena-gomez-martin-short-wedding-cake-jimmy-kimmel-live-1235661552/",
+          "image": "https://www.rollingstone.com/wp-content/uploads/2026/11/kimmel_67b6b4.jpg?w=1600&h=900&crop=1"
+        }
+      ],
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/11/kimmel_67b6b4.jpg?w=1600&h=900&crop=1",
+      "image_source": "https://www.rollingstone.com/tv-movies/tv-movie-news/selena-gomez-martin-short-wedding-cake-jimmy-kimmel-live-1235661552/"
+    },
+    {
+      "title": "Martin Short Debuts Marcello Hernandez Inspired Hair in NYC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mUThQTFhDV3Axa3I3cXNtVlhrd3RhcmhTYUtBQk9FN2JUekVmMUxBYmdNU1JveXEwT2pDWGs5WExhMW5kdTRaaENhb1ZjZGl0c3A3RFBwRnpJaDVIOFY2RUhHdElFVDJyQVFR?oc=5",
+      "published": "2026-11-20T05:19:28+00:00",
+      "outlets": [
+        {
+          "source": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mUThQTFhDV3Axa3I3cXNtVlhrd3RhcmhTYUtBQk9FN2JUekVmMUxBYmdNU1JveXEwT2pDWGs5WExhMW5kdTRaaENhb1ZjZGl0c3A3RFBwRnpJaDVIOFY2RUhHdElFVDJyQVFR?oc=5",
+          "article_url": "https://cwibc.co.id/en/martin-short-marcello-hernandez-hair",
+          "image": "https://cdn.cwibc.co.id/media/images/2026/11/cOGkNaLhgY.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+        }
+      ],
+      "image": "https://cdn.cwibc.co.id/media/images/2026/11/cOGkNaLhgY.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+      "image_source": "https://cwibc.co.id/en/martin-short-marcello-hernandez-hair"
+    }
+  ]
+}

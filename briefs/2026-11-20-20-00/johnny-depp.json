@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-20 20:00",
+  "celebrity": "Johnny Depp",
+  "stories": [
+    {
+      "title": "Johnny Depp is back and apparently we're all just fine with that.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zZS02cGpyUURTSzBEc25IaWFuS3NLZnVZX3l4ckxrLVJmRUZrcG5CbmhTVnhkcGVmc1pkWElFQmhVOXl3Um1GZmFRWnpDbmZWZVg0US1VU0UwVVg0dk9EdDNUZEUycS0wZmc?oc=5",
+      "published": "2026-11-20T02:16:43+00:00",
+      "outlets": [
+        {
+          "source": "Mamamia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zZS02cGpyUURTSzBEc25IaWFuS3NLZnVZX3l4ckxrLVJmRUZrcG5CbmhTVnhkcGVmc1pkWElFQmhVOXl3Um1GZmFRWnpDbmZWZVg0US1VU0UwVVg0dk9EdDNUZEUycS0wZmc?oc=5",
+          "article_url": "https://www.mamamia.com.au/johnny-depp-hollywood-comeback/",
+          "image": "https://new-cdn.mamamia.com.au/mamamia-pwa.appspot.com/mediaLibrary/GettyImages2304321752_1795135455252jpg_1795135523032.jpg"
+        }
+      ],
+      "image": "https://new-cdn.mamamia.com.au/mamamia-pwa.appspot.com/mediaLibrary/GettyImages2304321752_1795135455252jpg_1795135523032.jpg",
+      "image_source": "https://www.mamamia.com.au/johnny-depp-hollywood-comeback/"
+    }
+  ]
+}

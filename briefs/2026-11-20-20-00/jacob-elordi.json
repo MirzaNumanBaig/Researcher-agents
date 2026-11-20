@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-20 20:00",
+  "celebrity": "Jacob Elordi",
+  "stories": [
+    {
+      "title": "Full show - Thursday | GMD - How to keep politics out of Thanksgiving | News or Nope - Fiona the Hippo, Taylor Swift, and the matrix | Kendall Jenner and Jacob Elordi adopted a puppy together | Kid damage | Erin reviews GTA 6 | T. Hack's controversial ove",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjJuSV9uY25YcHZjQVVpVFZxOHJ2RVFSODdCbWhSbGNOVjAxaElqYkZ2WFRmSHQ3RE13YXBZS1RwdEprNTBnWk1USDhUT1FZTXowYVo3dG5xcFBZS205ZmEwUVpqRVBNXzk0QlhCMFRwX3IwQmg5SFpZWG5IZUZHUGREeGhfQnk4dGRxRkxEYzNkbU94UXdsYkx6Mm1pNVFtbjFMRV9HX3VndmcwZk1Bam93?oc=5",
+      "published": "2026-11-20T01:54:54+00:00",
+      "outlets": [
+        {
+          "source": "Audacy",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjJuSV9uY25YcHZjQVVpVFZxOHJ2RVFSODdCbWhSbGNOVjAxaElqYkZ2WFRmSHQ3RE13YXBZS1RwdEprNTBnWk1USDhUT1FZTXowYVo3dG5xcFBZS205ZmEwUVpqRVBNXzk0QlhCMFRwX3IwQmg5SFpZWG5IZUZHUGREeGhfQnk4dGRxRkxEYzNkbU94UXdsYkx6Mm1pNVFtbjFMRV9HX3VndmcwZk1Bam93?oc=5",
+          "article_url": "https://www.audacy.com/podcasts/9b4d9302534f3022af157ff8e9dcc7bd/episodes/full_show_thursday_gmd_how_to_-9048292",
+          "image": "https://www.audacy.com/media-library/image.jpg?id=63837594&width=600&height=600&coordinates=0%2C0%2C0%2C0"
+        }
+      ],
+      "image": "https://www.audacy.com/media-library/image.jpg?id=63837594&width=600&height=600&coordinates=0%2C0%2C0%2C0",
+      "image_source": "https://www.audacy.com/podcasts/9b4d9302534f3022af157ff8e9dcc7bd/episodes/full_show_thursday_gmd_how_to_-9048292"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Dog Stars",
+      "release": "2026-08-26",
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Jacob Elordi",
+        "Margaret Qualley",
+        "Josh Brolin",
+        "Guy Pearce",
+        "Benedict Wong"
+      ],
+      "budget_usd": 70000000,
+      "box_office_usd": 39000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 0.56,
+      "rotten_tomatoes": "41%",
+      "metacritic": "49/100 from 46 critics",
+      "critics_consensus": "A derivative and drowsy tour through the post-apocalypse, The Dog Stars' lush visuals can't compensate for its listless narrative and underpowered pacing.",
+      "critics_overview": "In the United States and Canada, The Dog Stars was released alongside Buddy, Coyote vs. Robert Daniels of RogerEbert.com gave the film one and a half out of four stars, writing, \"It probably takes more effort to make a boring post-apocalyptic survivalist action film than to make a good one.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132256832",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Dog_Stars_(film)"
+      }
+    }
+  ]
+}

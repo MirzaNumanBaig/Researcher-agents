@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-20 20:00",
+  "celebrity": "Callina Liang",
+  "stories": [
+    {
+      "title": "Street Fighter game director visits the set of the new film for a behind-the-scenes featurette with new foo...",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSW1wbTcyN2VnS05QcE1NQWwzRkpLY2d6cWwzamRPNzUxVG0tQ2JWdHRsRG5iamdDUEg4OUF5S3h6WjdoUlRhRVVNTlNLajVYa3ZiRTByb1VMTENkVndWeWVjd0ducE5Q0gFuQVVfeXFMUG5mU2VoMnRYYkZIRElsb0ZVMzlnZXhlS1FqNUt4WmNfQy1QZHlDcGo3Nzg3TXQ2dUdOZFlNNkJYZjVZWl9HQ2xmRlhJa01kRDJMSDZVbE55RC1MLXZ0MnFoQTlEd21Gd1UyMHBlNXc?oc=5",
+      "published": "2026-11-19T01:06:52+00:00",
+      "outlets": [
+        {
+          "source": "JoBlo",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSW1wbTcyN2VnS05QcE1NQWwzRkpLY2d6cWwzamRPNzUxVG0tQ2JWdHRsRG5iamdDUEg4OUF5S3h6WjdoUlRhRVVNTlNLajVYa3ZiRTByb1VMTENkVndWeWVjd0ducE5Q0gFuQVVfeXFMUG5mU2VoMnRYYkZIRElsb0ZVMzlnZXhlS1FqNUt4WmNfQy1QZHlDcGo3Nzg3TXQ2dUdOZFlNNkJYZjVZWl9HQ2xmRlhJa01kRDJMSDZVbE55RC1MLXZ0MnFoQTlEd21Gd1UyMHBlNXc?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Street Fighter",
+      "release": "2026-10-12",
+      "director": [
+        "Kitao Sakurai"
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Cody Rhodes",
+        "Orville Peck"
+      ],
+      "budget_usd": 82000000,
+      "box_office_usd": 100800000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.23,
+      "rotten_tomatoes": "42%",
+      "metacritic": "43/100 from 28 critics",
+      "critics_consensus": "The latest iteration of Street Fighter has plenty of affection for its source material and doesn't lack for dizzying style, but its incoherent storytelling and juvenile humor make for a disappointing regression among video game adaptations.",
+      "critics_overview": "It received a 65% definite recommend for children under 12. The audience was 30% Latino and Hispanic, 29% Caucasian, 21% Black, 14% Asian American and 6% Native American or Other.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q130345436",
+        "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+      }
+    }
+  ]
+}
