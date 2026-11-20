@@ -25,6 +25,7 @@ wp_id: 3090
 wp_link: "https://moduscarry.com/chris-hemsworth-byron-bay-break-in-charge/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

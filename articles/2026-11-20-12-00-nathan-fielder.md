@@ -25,6 +25,7 @@ wp_id: 3104
 wp_link: "https://moduscarry.com/nathan-fielder-oscar-directing-duo/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
