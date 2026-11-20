@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-02",
-   "time": "2026-11-02T01:18:17+00:00",
-   "batch": "2026-11-02 12:00",
-   "celebrity": "Margot Robbie",
-   "article": "2026-11-02-12-00-margot-robbie.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 14,
-   "output_tokens": 4607,
-   "cache_read_tokens": 182499,
-   "cache_write_tokens": 27000,
-   "turns": 12,
-   "seconds": 48,
-   "cost_usd": 0.1886
-  },
-  {
-   "date": "2026-11-02",
    "time": "2026-11-02T01:19:21+00:00",
    "batch": "2026-11-02 12:00",
    "celebrity": "Martin Short",
@@ -23999,6 +23983,22 @@
    "turns": 8,
    "seconds": 31,
    "cost_usd": 0.1809
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T10:26:17+00:00",
+   "batch": "2026-11-20 20:00",
+   "celebrity": "Russell Brand",
+   "article": "2026-11-20-20-00-russell-brand.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3771,
+   "cache_read_tokens": 130141,
+   "cache_write_tokens": 31827,
+   "turns": 7,
+   "seconds": 27,
+   "cost_usd": 0.1782
   }
  ]
 }
