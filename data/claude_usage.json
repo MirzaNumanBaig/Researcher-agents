@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-02",
-   "time": "2026-11-02T19:41:12+00:00",
-   "batch": "2026-11-03 06:00",
-   "celebrity": "Ryan Reynolds",
-   "article": "2026-11-03-06-00-ryan-reynolds.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 14,
-   "output_tokens": 4075,
-   "cache_read_tokens": 246661,
-   "cache_write_tokens": 30243,
-   "turns": 11,
-   "seconds": 42,
-   "cost_usd": 0.1866
-  },
-  {
-   "date": "2026-11-02",
    "time": "2026-11-02T19:44:44+00:00",
    "batch": "2026-11-03 06:00",
    "celebrity": "Seth Rogen",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 26,
    "cost_usd": 0.1519
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T18:58:46+00:00",
+   "batch": "2026-11-21 05:00",
+   "celebrity": "Keira Knightley",
+   "article": "2026-11-21-05-00-keira-knightley.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 965,
+   "cache_read_tokens": 80036,
+   "cache_write_tokens": 21379,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.1033
   }
  ]
 }
