@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-02",
-   "time": "2026-11-02T01:19:21+00:00",
-   "batch": "2026-11-02 12:00",
-   "celebrity": "Martin Short",
-   "article": "2026-11-02-12-00-martin-short.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1040,
-   "cache_read_tokens": 105598,
-   "cache_write_tokens": 18410,
-   "turns": 7,
-   "seconds": 11,
-   "cost_usd": 0.0948
-  },
-  {
-   "date": "2026-11-02",
    "time": "2026-11-02T01:22:51+00:00",
    "batch": "2026-11-02 12:00",
    "celebrity": "Nicole Kidman",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 27,
    "cost_usd": 0.1782
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T10:28:28+00:00",
+   "batch": "2026-11-20 20:00",
+   "celebrity": "Russell Crowe",
+   "article": "2026-11-20-20-00-russell-crowe.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 997,
+   "cache_read_tokens": 80294,
+   "cache_write_tokens": 21628,
+   "turns": 6,
+   "seconds": 10,
+   "cost_usd": 0.1047
   }
  ]
 }
