@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-10-31",
-   "time": "2026-10-31T23:05:04+00:00",
-   "batch": "2026-11-01 10:00",
-   "celebrity": "Delta Goodrem",
-   "article": "2026-11-01-10-00-delta-goodrem.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 14,
-   "output_tokens": 4671,
-   "cache_read_tokens": 236302,
-   "cache_write_tokens": 33280,
-   "turns": 12,
-   "seconds": 33,
-   "cost_usd": 0.2036
-  },
-  {
-   "date": "2026-10-31",
    "time": "2026-10-31T23:06:31+00:00",
    "batch": "2026-11-01 10:00",
    "celebrity": "Hudson Williams",
@@ -23999,6 +23983,22 @@
    "turns": 8,
    "seconds": 36,
    "cost_usd": 0.1977
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T01:44:24+00:00",
+   "batch": "2026-11-20 12:00",
+   "celebrity": "Russell Brand",
+   "article": "2026-11-20-12-00-russell-brand.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4118,
+   "cache_read_tokens": 169231,
+   "cache_write_tokens": 30357,
+   "turns": 8,
+   "seconds": 30,
+   "cost_usd": 0.1797
   }
  ]
 }
