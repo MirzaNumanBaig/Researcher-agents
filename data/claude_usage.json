@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-01",
-   "time": "2026-11-01T11:40:26+00:00",
-   "batch": "2026-11-01 22:00",
-   "celebrity": "Heath Ledger",
-   "article": "2026-11-01-22-00-heath-ledger.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 6,
-   "output_tokens": 783,
-   "cache_read_tokens": 69601,
-   "cache_write_tokens": 18149,
-   "turns": 6,
-   "seconds": 7,
-   "cost_usd": 0.0875
-  },
-  {
-   "date": "2026-11-01",
    "time": "2026-11-01T11:42:10+00:00",
    "batch": "2026-11-01 22:00",
    "celebrity": "Hugh Jackman",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 10,
    "cost_usd": 0.1064
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T09:42:16+00:00",
+   "batch": "2026-11-20 20:00",
+   "celebrity": "Amanda Seyfried",
+   "article": "2026-11-20-20-00-amanda-seyfried.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4323,
+   "cache_read_tokens": 173549,
+   "cache_write_tokens": 34272,
+   "turns": 8,
+   "seconds": 35,
+   "cost_usd": 0.1978
   }
  ]
 }
