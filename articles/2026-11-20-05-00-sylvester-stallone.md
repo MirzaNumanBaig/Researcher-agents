@@ -23,6 +23,7 @@ wp_id: 3070
 wp_link: "https://moduscarry.com/i-play-rocky-review-stallone-biopic/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

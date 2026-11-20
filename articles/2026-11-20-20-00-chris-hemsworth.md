@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Thor Doomsday Poster Shows Doom's Castle"
 seo_description: "The new Chris Hemsworth Thor Doomsday poster puts the God of Thunder in Doctor Doom's castle with green lightning. See the clues and the latest news."
 focus_keyword: "Chris Hemsworth Thor Doomsday poster"
 permalink: "chris-hemsworth-thor-doomsday-poster"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 20:00"
 celebrity: "Chris Hemsworth"
@@ -17,6 +17,15 @@ sources:
   - "https://www.nine.com.au/australia-news/nsw/teen-arrested-over-break-in-at-hemsworth-estate-near-byron-bay-20261120-p61fyo.html"
   - "https://intouchweekly.com/chris-hemsworth-and-elsa-pataky-were-home-during-armed-break-in-sense-of-security-is-shattered/"
   - "https://fitnessvolt.com/chris-hemsworth-full-body-endurance-training-extraction-3/"
+image: "images/2026-11-20-20-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3121
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-20-00-chris-hemsworth-768x432.webp"
+wp_id: 3122
+wp_link: "https://moduscarry.com/chris-hemsworth-thor-doomsday-poster/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

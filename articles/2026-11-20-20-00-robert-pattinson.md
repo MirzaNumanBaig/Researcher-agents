@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond: Amanda Seyfried and the Watch Question"
 seo_description: "Robert Pattinson Bond casting sparks a Bond girl debate after Amanda Seyfried asks 'Am I too old?', plus a watch-brand puzzle. What we know so far."
 focus_keyword: "Robert Pattinson Bond"
 permalink: "robert-pattinson-bond-amanda-seyfried"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 20:00"
 celebrity: "Robert Pattinson"
@@ -15,6 +15,15 @@ image_prompt: "A vintage wristwatch and a pair of cinema tickets on a dark table
 sources:
   - "https://www.aol.com/articles/amanda-seyfried-responds-bond-girl-175927000.html"
   - "https://timeandtidewatches.com/robert-pattinson-is-james-bond-john-mulaney-is-joe-dimaggio-and-jlc-video-games-friday-wind-down/"
+image: "images/2026-11-20-20-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson and director Lance Oppenheim attend the \u2018Primetime\u2019 premiere during the 83rd Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3133
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-20-00-robert-pattinson-768x432.webp"
+wp_id: 3134
+wp_link: "https://moduscarry.com/robert-pattinson-bond-amanda-seyfried/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -26,6 +26,7 @@ wp_id: 3056
 wp_link: "https://moduscarry.com/nathan-fielder-lost-film-youtube/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

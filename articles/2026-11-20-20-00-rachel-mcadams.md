@@ -5,7 +5,7 @@ seo_title: "Rachel McAdams Mean Girls Path: The Audition That Led There"
 seo_description: "Rachel McAdams Mean Girls path: a failed Nancy Drew audition in 2002 led to The Hot Chick, and then to Regina George. Here is how it unfolded."
 focus_keyword: "Rachel McAdams Mean Girls"
 permalink: "rachel-mcadams-mean-girls-audition"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 20:00"
 celebrity: "Rachel McAdams"
@@ -14,6 +14,15 @@ tags: ["Rachel McAdams", "Mean Girls", "Rob Schneider"]
 image_prompt: "An empty audition room with a single chair, a script on a table and warm light through a window"
 sources:
   - "https://faroutmagazine.co.uk/the-failed-2002-audition-that-led-rachel-mcadams-to-mean-girls/"
+image: "images/2026-11-20-20-00-rachel-mcadams.webp"
+image_alt: "Rachel McAdams: Rachel McAdams and the audition that led to Mean Girls"
+image_credit: "Image: <a href=\"https://faroutmagazine.co.uk/the-failed-2002-audition-that-led-rachel-mcadams-to-mean-girls/\" rel=\"nofollow noopener\">faroutmagazine.co.uk</a> (cropped)"
+wp_media_id: 3131
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-20-00-rachel-mcadams-768x432.webp"
+wp_id: 3132
+wp_link: "https://moduscarry.com/rachel-mcadams-mean-girls-audition/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

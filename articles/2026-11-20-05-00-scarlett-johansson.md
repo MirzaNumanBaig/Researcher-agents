@@ -23,6 +23,7 @@ wp_id: 3068
 wp_link: "https://moduscarry.com/scarlett-johansson-too-much-to-ask/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

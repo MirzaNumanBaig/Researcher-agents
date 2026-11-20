@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Steps: Cinderella Song Made Her Cry"
 seo_description: "Amanda Seyfried says singing for Netflix's animated Steps was harder than live action and left her in tears. She also sang ABBA in a new video."
 focus_keyword: "Amanda Seyfried Steps"
 permalink: "amanda-seyfried-steps-netflix"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 20:00"
 celebrity: "Amanda Seyfried"
@@ -16,6 +16,15 @@ sources:
   - "https://www.radiotimes.com/movies/amanda-seyfried-steps-song-cry-exclusive-newsupdate/"
   - "https://cwibc.co.id/en/amanda-seyfried-mamma-mia-performance"
   - "https://www.aol.com/articles/amanda-seyfried-responds-bond-girl-175927000.html"
+image: "images/2026-11-20-20-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, model, actress , at 83rd Venice International Film Festival in Venice, Italy for the film Miu Miu Women's Tales ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_83rd_Venice_International_Film_Festival-2.jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_83rd_Venice_International_Film_Festival-2.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3117
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-20-00-amanda-seyfried-768x432.webp"
+wp_id: 3118
+wp_link: "https://moduscarry.com/amanda-seyfried-steps-netflix/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

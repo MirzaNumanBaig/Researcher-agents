@@ -5,7 +5,7 @@ seo_title: "Street Fighter Featurette: Game Director Visits the Set"
 seo_description: "A new Street Fighter featurette shows game director Takayuki Nakayama on set, praising the film and beating Cody Rhodes at Street Fighter 6. See what he said."
 focus_keyword: "Street Fighter featurette"
 permalink: "street-fighter-featurette-nakayama"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 20:00"
 celebrity: "Street Fighter"
@@ -15,6 +15,15 @@ image_prompt: "An empty arcade at night, glowing fighting game cabinets lined up
 sources:
   - "https://www.joblo.com/street-fighter-featurette-nakayama/"
   - "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+image: "images/2026-11-20-20-00-street-fighter.webp"
+image_alt: "Street Fighter: Street Fighter Featurette Shows Game Director Visiting Set"
+image_credit: "Image: <a href=\"https://www.joblo.com/street-fighter-featurette-nakayama/\" rel=\"nofollow noopener\">joblo.com</a> (cropped)"
+wp_media_id: 3139
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-20-00-street-fighter-768x432.webp"
+wp_id: 3140
+wp_link: "https://moduscarry.com/street-fighter-featurette-nakayama/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

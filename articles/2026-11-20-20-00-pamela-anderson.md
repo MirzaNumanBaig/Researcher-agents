@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Red Coat: The Winter Look to Copy"
 seo_description: "Pamela Anderson wore a red collarless Auter wrap coat in New York this November. Here is what she paired it with and how to get the look."
 focus_keyword: "Pamela Anderson red coat"
 permalink: "pamela-anderson-red-coat"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 20:00"
 celebrity: "Pamela Anderson"
@@ -14,6 +14,15 @@ tags: ["Pamela Anderson", "Fashion"]
 image_prompt: "A single red wool coat hanging on a rail beside a rainy New York shop window at dusk, warm light reflecting on wet pavement."
 sources:
   - "https://shopping.yahoo.com/style/clothing/articles/forget-black-puffers-pamela-anderson-010000441.html"
+image: "images/2026-11-20-20-00-pamela-anderson.webp"
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230509).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230509).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3129
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-20-00-pamela-anderson-768x432.webp"
+wp_id: 3130
+wp_link: "https://moduscarry.com/pamela-anderson-red-coat/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

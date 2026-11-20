@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone Rocky 1977 Review: Guardian Archive"
 seo_description: "Sylvester Stallone's Rocky premiered 50 years ago today. The Guardian's 1977 review called him a discovery. See what else critic Derek Malcolm wrote."
 focus_keyword: "Sylvester Stallone Rocky"
 permalink: "sylvester-stallone-rocky-1977-review"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 20:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "Rocky"]
 image_prompt: "An empty boxing ring under a single spotlight in a dim, old city gym, with worn ropes and a hanging heavy bag."
 sources:
   - "https://www.theguardian.com/film/2026/nov/20/rocky-sylvester-stallone-review-1977"
+image: "images/2026-11-20-20-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone & Arnold Schwarzenegger speaking at the 2012 San Diego Comic-Con International in San Diego, California. Please attribute to Gage Skidmore if used elsewhere."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_%26_Arnold_Schwarzenegger_(7588432508)_(cropped).jpg\" rel=\"noopener\">Gage Skidmore from Peoria, AZ, United States of America</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_%26_Arnold_Schwarzenegger_(7588432508)_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3141
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-20-00-sylvester-stallone-768x432.webp"
+wp_id: 3142
+wp_link: "https://moduscarry.com/sylvester-stallone-rocky-1977-review/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
