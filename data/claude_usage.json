@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-01",
-   "time": "2026-11-01T04:21:43+00:00",
-   "batch": "2026-11-01 15:00",
-   "celebrity": "Nicole Kidman",
-   "article": "2026-11-01-15-00-nicole-kidman.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 1150,
-   "cache_read_tokens": 137064,
-   "cache_write_tokens": 19070,
-   "turns": 8,
-   "seconds": 15,
-   "cost_usd": 0.1134
-  },
-  {
-   "date": "2026-11-01",
    "time": "2026-11-01T04:23:27+00:00",
    "batch": "2026-11-01 15:00",
    "celebrity": "Pamela Anderson",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 27,
    "cost_usd": 0.1517
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T02:04:45+00:00",
+   "batch": "2026-11-19 06:00",
+   "celebrity": "Zara Larsson",
+   "article": "2026-11-19-06-00-zara-larsson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3290,
+   "cache_read_tokens": 116933,
+   "cache_write_tokens": 24134,
+   "turns": 7,
+   "seconds": 25,
+   "cost_usd": 0.1413
   }
  ]
 }
