@@ -5,7 +5,7 @@ seo_title: "Connor Storrie Saint Laurent Le Smoking Campaign Cast"
 seo_description: "Connor Storrie joins Kate Moss and Charli xcx in Saint Laurent's Le Smoking anniversary campaign. Here is who else appears and what changes in 2027."
 focus_keyword: "Connor Storrie Saint Laurent"
 permalink: "connor-storrie-saint-laurent-le-smoking"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 12:00"
 celebrity: "Connor Storrie"
@@ -15,6 +15,15 @@ image_prompt: "A single black tuxedo jacket on a mannequin against a plain white
 sources:
   - "https://www.thezoereport.com/fashion/saint-laurent-le-smoking-60th-anniversary-campaign"
   - "https://www.latintimes.com/bafta-north-america-2026-breakthrough-us-cohort-601513"
+image: "images/2026-11-20-12-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3091
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-12-00-connor-storrie-768x432.webp"
+wp_id: 3092
+wp_link: "https://moduscarry.com/connor-storrie-saint-laurent-le-smoking/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

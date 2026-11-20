@@ -23,6 +23,7 @@ wp_id: 3033
 wp_link: "https://moduscarry.com/denis-villeneuve-james-bond-pattinson/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

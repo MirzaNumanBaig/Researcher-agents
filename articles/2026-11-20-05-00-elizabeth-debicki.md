@@ -18,6 +18,7 @@ wp_id: 3034
 wp_link: "https://moduscarry.com/?p=3034"
 wp_synced: pending
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

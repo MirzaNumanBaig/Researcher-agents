@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Bond Girl Joke: 'Am I Too Old?'"
 seo_description: "Amanda Seyfried Bond girl joke: she asked 'Am I too old?' under a Variety post, days after Robert Pattinson was cast as 007."
 focus_keyword: "Amanda Seyfried Bond girl"
 permalink: "amanda-seyfried-bond-girl"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 12:00"
 celebrity: "Amanda Seyfried"
@@ -14,6 +14,15 @@ tags: ["Amanda Seyfried", "James Bond", "Robert Pattinson"]
 image_prompt: "A vintage tuxedo jacket and a martini glass on a casino table under warm lamplight, with a dark, empty gaming room behind."
 sources:
   - "https://www.yahoo.com/entertainment/celebrity/articles/amanda-seyfried-asks-shes-too-230337709.html"
+image: "images/2026-11-20-12-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried attends Miu Miu Women's Tales during the 83rd Venice International Film Festival at on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_Venice_Film_Festival_2.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_Venice_Film_Festival_2.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3087
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-12-00-amanda-seyfried-768x432.webp"
+wp_id: 3088
+wp_link: "https://moduscarry.com/amanda-seyfried-bond-girl/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

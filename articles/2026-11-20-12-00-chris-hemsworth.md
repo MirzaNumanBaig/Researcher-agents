@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Byron Bay break-in: teen charged"
 seo_description: "A 16-year-old is charged over the Chris Hemsworth Byron Bay break-in. See what police say, which cars were taken and what happens next."
 focus_keyword: "Chris Hemsworth Byron Bay break-in"
 permalink: "chris-hemsworth-byron-bay-break-in-charge"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 12:00"
 celebrity: "Chris Hemsworth"
@@ -16,6 +16,15 @@ sources:
   - "https://7news.com.au/entertainment/teenage-boy-arrested-and-charged-after-break-in-at-actor-chris-hemsworths-byron-bay-mansion-c-23189165"
   - "https://www.dailymail.com/news/article-16307237/chris-hemsworth-elsa-pataky.html"
   - "https://robbreport.com.sg/archie-rose-macadamia-honey-gin/"
+image: "images/2026-11-20-12-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3089
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-12-00-chris-hemsworth-768x432.webp"
+wp_id: 3090
+wp_link: "https://moduscarry.com/chris-hemsworth-byron-bay-break-in-charge/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

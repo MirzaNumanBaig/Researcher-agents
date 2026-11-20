@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder Oscar Chances: Can a Directing Duo Win?"
 seo_description: "Nathan Fielder Oscar chances: Variety says four directing duos face a branch that has rarely honoured pairs. Here is what the history says."
 focus_keyword: "Nathan Fielder Oscar"
 permalink: "nathan-fielder-oscar-directing-duo"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 12:00"
 celebrity: "Nathan Fielder"
@@ -16,6 +16,15 @@ sources:
   - "https://variety.com/2026/film/awards/directing-duos-lord-miller-javis-fielder-oppenheim-oscars-1236952486/"
   - "https://www.theguardian.com/commentisfree/2026/nov/20/watch-you-can-see-everything-for-the-culture-cringe-comedy-film"
   - "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+image: "images/2026-11-20-12-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3103
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-12-00-nathan-fielder-768x432.webp"
+wp_id: 3104
+wp_link: "https://moduscarry.com/nathan-fielder-oscar-directing-duo/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

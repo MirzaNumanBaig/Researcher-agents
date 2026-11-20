@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond: Brosnan, Lazenby React"
 seo_description: "Robert Pattinson James Bond reactions pour in from Pierce Brosnan, George Lazenby and Rami Malek, while fans debate who plays the next Bond girl."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-reactions"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-20 12:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,15 @@ sources:
   - "https://www.usatoday.com/story/entertainment/movies/2026/11/19/robert-pattinson-james-bond-pierce-brosnan-reaction/92857817007/"
   - "https://www.yahoo.com/entertainment/celebrity/articles/amanda-seyfried-asks-shes-too-230337709.html"
   - "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+image: "images/2026-11-20-12-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3107
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-20-12-00-robert-pattinson-768x432.webp"
+wp_id: 3108
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-reactions/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
