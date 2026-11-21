@@ -23,6 +23,7 @@ wp_id: 3259
 wp_link: "https://moduscarry.com/cate-blanchett-pans-labyrinth-tribute/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

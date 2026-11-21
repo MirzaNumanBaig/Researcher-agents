@@ -24,6 +24,7 @@ wp_id: 3255
 wp_link: "https://moduscarry.com/brigitte-nielsen-gta-vi-vice-city-fm/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
