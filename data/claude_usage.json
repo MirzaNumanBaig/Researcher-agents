@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-03",
-   "time": "2026-11-03T23:03:41+00:00",
-   "batch": "2026-11-04 09:00",
-   "celebrity": "Keanu Reeves",
-   "article": "2026-11-04-09-00-keanu-reeves.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 3699,
-   "cache_read_tokens": 148685,
-   "cache_write_tokens": 24526,
-   "turns": 8,
-   "seconds": 34,
-   "cost_usd": 0.1501
-  },
-  {
-   "date": "2026-11-03",
    "time": "2026-11-03T23:04:24+00:00",
    "batch": "2026-11-04 09:00",
    "celebrity": "Margot Robbie",
@@ -23999,6 +23983,22 @@
    "turns": 13,
    "seconds": 48,
    "cost_usd": 0.2046
+  },
+  {
+   "date": "2026-11-21",
+   "time": "2026-11-21T08:02:16+00:00",
+   "batch": "2026-11-21 18:00",
+   "celebrity": "Callum Turner",
+   "article": "2026-11-21-18-00-callum-turner.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4663,
+   "cache_read_tokens": 170504,
+   "cache_write_tokens": 31483,
+   "turns": 8,
+   "seconds": 34,
+   "cost_usd": 0.1898
   }
  ]
 }
