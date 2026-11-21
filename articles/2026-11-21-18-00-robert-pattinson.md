@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond: Why Villeneuve Chose Him"
 seo_description: "Robert Pattinson James Bond casting explained: Denis Villeneuve told GQ he needed a believable killer with charisma and dark humour."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-villeneuve"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 18:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,15 @@ sources:
   - "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dune-director-denis-villeneuve-reveals-why-robert-pattinson-beat-callum-turner-jack-lowden-to-bag-james-bond-role/articleshow/136043801.cms"
   - "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
   - "https://en.wikipedia.org/wiki/Primetime_(film)"
+image: "images/2026-11-21-18-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Actor Robert Pattinson at the 75th Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3272
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-18-00-robert-pattinson-768x432.webp"
+wp_id: 3273
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-villeneuve-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

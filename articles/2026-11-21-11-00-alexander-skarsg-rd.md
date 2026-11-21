@@ -23,6 +23,7 @@ wp_id: 3209
 wp_link: "https://moduscarry.com/alexander-skarsgard-tarzan-hbo-max/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

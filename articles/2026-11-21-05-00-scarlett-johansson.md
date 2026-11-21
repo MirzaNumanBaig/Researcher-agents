@@ -23,6 +23,7 @@ wp_id: 3195
 wp_link: "https://moduscarry.com/scarlett-johansson-paper-tiger-review/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

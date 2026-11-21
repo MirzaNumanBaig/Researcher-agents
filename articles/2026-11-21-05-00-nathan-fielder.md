@@ -24,6 +24,7 @@ wp_id: 3183
 wp_link: "https://moduscarry.com/you-can-see-everything-review/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

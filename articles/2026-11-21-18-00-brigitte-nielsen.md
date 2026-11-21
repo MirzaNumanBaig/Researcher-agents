@@ -5,7 +5,7 @@ seo_title: "Brigitte Nielsen GTA VI Vice City FM Host Role Explained"
 seo_description: "Brigitte Nielsen GTA VI role: the Rocky IV star is reported as a Vice City FM host beside Weird Al Yankovic. Here is what is confirmed so far."
 focus_keyword: "Brigitte Nielsen GTA VI"
 permalink: "brigitte-nielsen-gta-vi-vice-city-fm"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 18:00"
 celebrity: "Brigitte Nielsen"
@@ -15,6 +15,15 @@ image_prompt: "A neon-lit retro radio studio at night with a vintage microphone,
 sources:
   - "https://www.avclub.com/weird-al-yankovic-radio-dj-grand-theft-auto-iv-gta"
   - "https://kotaku.com/yes-thats-weird-al-hosting-a-radio-station-in-gta-6-2000758140"
+image: "images/2026-11-21-18-00-brigitte-nielsen.webp"
+image_alt: "Brigitte Nielsen: Brigitte Nielsen Joins Weird Al on GTA VI's Vice City FM"
+image_credit: "Image: <a href=\"https://www.avclub.com/weird-al-yankovic-radio-dj-grand-theft-auto-iv-gta\" rel=\"nofollow noopener\">avclub.com</a> (cropped)"
+wp_media_id: 3254
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-18-00-brigitte-nielsen-768x432.webp"
+wp_id: 3255
+wp_link: "https://moduscarry.com/brigitte-nielsen-gta-vi-vice-city-fm/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

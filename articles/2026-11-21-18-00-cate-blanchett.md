@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Pan's Labyrinth Tribute to Guillermo del Toro"
 seo_description: "Cate Blanchett and Jacob Elordi praise Guillermo del Toro in a clip for the Pan's Labyrinth 20th anniversary 4K release. Here is what they said."
 focus_keyword: "Cate Blanchett Pan's Labyrinth"
 permalink: "cate-blanchett-pans-labyrinth-tribute"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 18:00"
 celebrity: "Cate Blanchett"
@@ -14,6 +14,15 @@ tags: ["Cate Blanchett", "Jacob Elordi"]
 image_prompt: "A quiet old cinema auditorium at dusk, velvet seats facing a glowing screen, with faint mist drifting across the stage."
 sources:
   - "https://www.netflixjunkie.com/hollywood-news-cate-blanchett-jacob-elordi-honor-guillermo-del-toro-ahead-of-4k-release-of-pans-labyrinth"
+image: "images/2026-11-21-18-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-3.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-3.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3258
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-18-00-cate-blanchett-768x432.webp"
+wp_id: 3259
+wp_link: "https://moduscarry.com/cate-blanchett-pans-labyrinth-tribute/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

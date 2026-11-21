@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Paper Tiger: Cast, Plot and Release"
 seo_description: "Scarlett Johansson plays Hester in James Gray's Paper Tiger, opposite Adam Driver and Miles Teller. Here is the story, the cast and the release."
 focus_keyword: "Scarlett Johansson Paper Tiger"
 permalink: "scarlett-johansson-paper-tiger-adam-driver"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 18:00"
 celebrity: "Scarlett Johansson"
@@ -16,6 +16,15 @@ sources:
   - "https://www.thewrap.com/creative-content/movies/paper-tiger-trailer-adam-driver-miles-teller-scarlett-johansson/"
   - "https://www.irishnews.com/entertainment/scarlett-johansson-says-comfort-with-adam-driver-helped-new-film-paper-tiger-4EIVKTA65RLJJHVSQEPXMQKYDE/"
   - "https://www.irishtimes.com/culture/film/review/2026/05/21/cannes-first-look-review-paper-tiger-gangsters-and-fixers-in-grimy-1980s-new-york/"
+image: "images/2026-11-21-18-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-064.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-064.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3276
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-18-00-scarlett-johansson-768x432.webp"
+wp_id: 3277
+wp_link: "https://moduscarry.com/scarlett-johansson-paper-tiger-adam-driver/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

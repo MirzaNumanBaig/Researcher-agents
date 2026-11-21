@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Extraction 3 Workout: Air Bike, SkiErg, Row"
 seo_description: "Chris Hemsworth shared an Extraction 3 workout on 19 November: air bike, SkiErg and rowing. See what he did and what is known about the film."
 focus_keyword: "Chris Hemsworth Extraction 3 workout"
 permalink: "chris-hemsworth-extraction-3-workout"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 18:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,15 @@ image_prompt: "A quiet home gym at dawn with a rowing machine, an air bike and a
 sources:
   - "https://www.kulturistika.com/en/magazine/fitness-espresso/at-43-chris-hemsworth-is-in-great-shape"
   - "https://www.vietnam.vn/en/co-bap-luc-luong-cua-than-sam-chris-hemsworth"
+image: "images/2026-11-21-18-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3260
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-18-00-chris-hemsworth-768x432.webp"
+wp_id: 3261
+wp_link: "https://moduscarry.com/chris-hemsworth-extraction-3-workout/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
