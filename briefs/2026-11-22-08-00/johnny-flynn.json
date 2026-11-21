@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-22 08:00",
+  "celebrity": "Johnny Flynn",
+  "stories": [
+    {
+      "title": "'MobLand's Johnny Flynn on His Favorite One-on-One Scene With Tom Hardy in Season 2",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVBpXzBjMGMtbXRTTmJXTEVscHJrcTcwdFoxTFEzU2tOM255MHBYRXRTVVNGMlJpUGVteVpiTGVrTWlRVlN0OXZxU0J5OFN1eGNIX3ZYVjFDUG5wWFVlWm03bzdaOTNtOU9HbEYzb2kxXzA4UWJDVkxWWjZ0TVNmdlFKVlNvZW9p?oc=5",
+      "published": "2026-11-21T13:03:12+00:00",
+      "outlets": [
+        {
+          "source": "Collider",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVBpXzBjMGMtbXRTTmJXTEVscHJrcTcwdFoxTFEzU2tOM255MHBYRXRTVVNGMlJpUGVteVpiTGVrTWlRVlN0OXZxU0J5OFN1eGNIX3ZYVjFDUG5wWFVlWm03bzdaOTNtOU9HbEYzb2kxXzA4UWJDVkxWWjZ0TVNmdlFKVlNvZW9p?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Elsinore",
+      "release": "2026-09-04",
+      "director": [
+        "Simon Stone"
+      ],
+      "cast": [
+        "Andrew Scott",
+        "Olivia Colman",
+        "Billie Piper",
+        "Johnny Flynn",
+        "Luke Thompson"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "89%",
+      "metacritic": "75/100 from 23 critics",
+      "critics_consensus": null,
+      "critics_overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137722359",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
+      }
+    }
+  ]
+}

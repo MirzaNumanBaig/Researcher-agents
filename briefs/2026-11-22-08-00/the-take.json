@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-22 08:00",
+  "celebrity": "The Take",
+  "stories": [
+    {
+      "title": "Denzel Washington and Robert Pattinson rob a bank in Netflix's The Take",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHBHZWFxOFkzN0J3OXFTekhadkZKaVdJU1NHRk1rcGVKTFhoajI4WGI0czRKVlBZSTJxdkxYM3ZybHcyZkZRWUlsNnFXcXVoMHExRENZTG1KOEhsZkh6ZjZQWkZmYU1ZZkxPeE9LckZXY0Vjd1BnWDVjdzVsVUZ6WEZxbDAxcUpsTmZCNXVIaUdpaE43SFVOMTJXTEVDN29OZkJNZ0dFU1k?oc=5",
+      "published": "2026-11-21T20:12:46+00:00",
+      "outlets": [
+        {
+          "source": "Metro Mode",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHBHZWFxOFkzN0J3OXFTekhadkZKaVdJU1NHRk1rcGVKTFhoajI4WGI0czRKVlBZSTJxdkxYM3ZybHcyZkZRWUlsNnFXcXVoMHExRENZTG1KOEhsZkh6ZjZQWkZmYU1ZZkxPeE9LckZXY0Vjd1BnWDVjdzVsVUZ6WEZxbDAxcUpsTmZCNXVIaUdpaE43SFVOMTJXTEVDN29OZkJNZ0dFU1k?oc=5",
+          "article_url": "https://metromode.se/en/film-och-tv/denzel-washington-och-robert-pattinson-ranar-bank-i-netflix-the-take/",
+          "image": "https://metromode.se/files/2026/11/the-take-netflix-pattinson-washington-hero.jpg"
+        }
+      ],
+      "image": "https://metromode.se/files/2026/11/the-take-netflix-pattinson-washington-hero.jpg",
+      "image_source": "https://metromode.se/en/film-och-tv/denzel-washington-och-robert-pattinson-ranar-bank-i-netflix-the-take/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-22 08:00",
+  "celebrity": "Johnny Depp",
+  "stories": [
+    {
+      "title": "Johnny Depp's Hollywood comeback is proving to be lucrative.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqNkM1aEl5WVYydmR2akhOMlRrSlVGSG1lVWpGZmFwdDJWaWFfOVRvTV9lV3ZaR2F2ZnRkMTQwZTVPem5VTmU1TmtVWFpYVGRwZnQyMkVkVVRQbmhnZVdlaVZWMUxERWc?oc=5",
+      "published": "2026-11-21T16:01:35+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqNkM1aEl5WVYydmR2akhOMlRrSlVGSG1lVWpGZmFwdDJWaWFfOVRvTV9lV3ZaR2F2ZnRkMTQwZTVPem5VTmU1TmtVWFpYVGRwZnQyMkVkVVRQbmhnZVdlaVZWMUxERWc?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66117908/?ref_=ttnw_art_perm",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "I Just Learned The Incredible Amount Johnny Depp Earned, Then Lost After Pirates",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYm1RWWpjaU1LUzItdldmNGxLajctZ0xjUC15Yk9KRHYxeV8taG9qcnl3MXk4eEw4Z29HVWQ3WEFId1JJMV9UV2M4ZlVFMUJUdTJYcGRpNllmVTFfSnBoUzFWWkV3aTh5RURteHRpam5jZ2JRZ2ZTS1RCTzFldF95T185WFRMWWF3Wi1CQ1lXVU02WExPeU5pMXdySWRhQWR0MC1yaHhRX0hLbHRq?oc=5",
+      "published": "2026-11-20T16:38:27+00:00",
+      "outlets": [
+        {
+          "source": "Cinemablend",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYm1RWWpjaU1LUzItdldmNGxLajctZ0xjUC15Yk9KRHYxeV8taG9qcnl3MXk4eEw4Z29HVWQ3WEFId1JJMV9UV2M4ZlVFMUJUdTJYcGRpNllmVTFfSnBoUzFWWkV3aTh5RURteHRpam5jZ2JRZ2ZTS1RCTzFldF95T185WFRMWWF3Wi1CQ1lXVU02WExPeU5pMXdySWRhQWR0MC1yaHhRX0hLbHRq?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}
