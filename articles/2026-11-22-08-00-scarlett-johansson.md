@@ -5,7 +5,7 @@ seo_title: "Jurassic World Rebirth Netflix Exit Set for 1 December"
 seo_description: "The Jurassic World Rebirth Netflix run ends on 30 November. Here is what we know about Scarlett Johansson's $869 million hit and where it may stream next."
 focus_keyword: "Jurassic World Rebirth Netflix"
 permalink: "jurassic-world-rebirth-netflix"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 08:00"
 celebrity: "Scarlett Johansson"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium lit by a single projector beam, with a
 sources:
   - "https://movieweb.com/jurassic-world-rebirth-leaving-streaming-netflix-november-2026/"
   - "https://www.cumnockchronicle.com/news/26741678.look-back-chronicle-pics-november-2011/"
+image: "images/2026-11-22-08-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-108.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-108.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3320
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-08-00-scarlett-johansson-768x432.webp"
+wp_id: 3321
+wp_link: "https://moduscarry.com/jurassic-world-rebirth-netflix/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

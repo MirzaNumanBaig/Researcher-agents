@@ -5,7 +5,7 @@ seo_title: "Anders Danielsen Lie: The Actor Who Is Also an Oslo Doctor"
 seo_description: "Anders Danielsen Lie still works as an Oslo doctor between films. Here is how his two careers shaped Joachim Trier's trilogy and his latest lead role."
 focus_keyword: "Anders Danielsen Lie"
 permalink: "anders-danielsen-lie-oslo-doctor-actor"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 08:00"
 celebrity: "Anders Danielsen Lie"
@@ -14,6 +14,15 @@ tags: ["Joachim Trier", "Netflix"]
 image_prompt: "A quiet Oslo street at dawn with a lit doctor's surgery window beside an empty cinema marquee"
 sources:
   - "https://www.martincid.com/people/anders-danielsen-lie/"
+image: "images/2026-11-22-08-00-anders-danielsen-lie.webp"
+image_alt: "Anders Danielsen Lie: Actor Anders Danielsen Lie at the 2025 Cannes Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Anders_Danielsen_Lie-0006.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Anders_Danielsen_Lie-0006.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3284
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-08-00-anders-danielsen-lie-768x432.webp"
+wp_id: 3285
+wp_link: "https://moduscarry.com/anders-danielsen-lie-oslo-doctor-actor/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

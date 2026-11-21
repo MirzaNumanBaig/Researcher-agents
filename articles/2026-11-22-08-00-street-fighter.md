@@ -5,7 +5,7 @@ seo_title: "Street Fighter Box Office: Screens Cut Again in Week Six"
 seo_description: "Street Fighter box office slips as 489 more US cinemas drop the film in week six, with Godzilla Minus Zero about $8 million from its domestic total."
 focus_keyword: "Street Fighter box office"
 permalink: "street-fighter-box-office-screens-godzilla"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 08:00"
 celebrity: "Street Fighter"
@@ -19,6 +19,15 @@ sources:
   - "https://www.zoomtventertainment.com/bollywood/godzilla-minus-zero-north-american-box-office-performance-article-156546125"
   - "https://kotaku.com/street-fighter-ex-endless-ocean-and-tetris-99s-akira-kurabayashi-has-died-at-56-2000759170"
   - "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+image: "images/2026-11-22-08-00-street-fighter.webp"
+image_alt: "Street Fighter: Street Fighter Loses 60% of Screens as Godzilla Closes In"
+image_credit: "Image: <a href=\"https://screenrant.com/street-fighter-2026-box-office-theater-removal-week-6/\" rel=\"nofollow noopener\">screenrant.com</a> (cropped)"
+wp_media_id: 3324
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-08-00-street-fighter-768x432.webp"
+wp_id: 3325
+wp_link: "https://moduscarry.com/street-fighter-box-office-screens-godzilla/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Red Carpet Looks: From Murderbot to Pillion"
 seo_description: "Alexander Skarsgård red carpet looks have grown bolder since Murderbot. See the outfits from Cannes to the BFI London Film Festival and why he says he does it."
 focus_keyword: "Alexander Skarsgård red carpet looks"
 permalink: "alexander-skarsgard-red-carpet-looks"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 08:00"
 celebrity: "Alexander Skarsgård"
@@ -14,6 +14,15 @@ tags: ["Alexander Skarsgård", "Fashion", "Red carpet"]
 image_prompt: "An empty red carpet at night under warm spotlights, with a row of tailored jackets on a rail beside it."
 sources:
   - "https://www.yahoo.com/entertainment/celebrity/fashion/articles/22-times-alexander-skarsg-rd-161601603.html"
+image: "images/2026-11-22-08-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd at the 63rd New York Film Festival in New York City for the film Pillion"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_03.jpg\" rel=\"noopener\">Veggiegalaxy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_03.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3282
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-08-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 3283
+wp_link: "https://moduscarry.com/alexander-skarsgard-red-carpet-looks/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Wild Horse Nine Loses 175 Theatres: McDonagh Box Office"
 seo_description: "Martin McDonagh's Wild Horse Nine has been pulled from 175 theatres with US$30 million grossed worldwide. Here is what it means for its Oscar run."
 focus_keyword: "Wild Horse Nine theatres"
 permalink: "wild-horse-nine-theatres-mcdonagh"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 08:00"
 celebrity: "Martin McDonagh"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium with red seats and a glowing blank scr
 sources:
   - "https://collider.com/wild-horse-nine-john-malkovich-removed-175-theaters/"
   - "https://www.thehypemagazine.com/2026/11/21/wild-horse-nine-john-malkovich-sam-rockwell-removed-theaters/"
+image: "images/2026-11-22-08-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Martin McDonagh attends the \"Wild Horse Nine\" Screening during the 83rd Venice International Film Festival, at Sala Grande on September 03, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_Venice_Film_Festival.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_Venice_Film_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3302
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-08-00-martin-mcdonagh-768x432.webp"
+wp_id: 3303
+wp_link: "https://moduscarry.com/wild-horse-nine-theatres-mcdonagh/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

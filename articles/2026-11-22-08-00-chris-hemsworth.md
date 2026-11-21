@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Break-In: Teen Charged, Three Suspects Sought"
 seo_description: "A 16-year-old faces seven charges over the Chris Hemsworth break-in near Byron Bay. Police are still seeking three others. Here is what is confirmed."
 focus_keyword: "Chris Hemsworth break-in"
 permalink: "chris-hemsworth-break-in-teen-charged"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 08:00"
 celebrity: "Chris Hemsworth"
@@ -16,6 +16,15 @@ sources:
   - "https://thoughtcatalog.com/jeremy-london/2026/11/police-charge-a-16-year-old-after-three-vehicles-were-stolen-from-chris-hemsworth-and-elsa-patakys-byron-bay-home/"
   - "https://www.newidea.com.au/celebrity/chris-hemsworth-home-invasion/"
   - "https://screenrant.com/furiosa-chris-hemsworth-dementus-brutal-fate-ending-explained/"
+image: "images/2026-11-22-08-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3288
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-08-00-chris-hemsworth-768x432.webp"
+wp_id: 3289
+wp_link: "https://moduscarry.com/chris-hemsworth-break-in-teen-charged/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

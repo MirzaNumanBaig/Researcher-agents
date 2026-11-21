@@ -5,7 +5,7 @@ seo_title: "David Walliams Books Libraries: Suffolk Keeps Titles"
 seo_description: "Suffolk and Norfolk will keep David Walliams books on library shelves while two Welsh councils pull them. Here is what was decided and why."
 focus_keyword: "David Walliams books libraries"
 permalink: "david-walliams-books-libraries"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 08:00"
 celebrity: "David Walliams"
@@ -15,6 +15,15 @@ image_prompt: "Rows of colourful children's books on a quiet public library shel
 sources:
   - "https://www.ipswichstar.co.uk/news/26747463.david-walliams-books-will-remain-suffolk-libraries/"
   - "https://www.csmonitor.com/World/Europe/2026/1121/russell-brand-david-walliams-uk-sexual-abuse-rape-lad-culture"
+image: "images/2026-11-22-08-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams, actor, comedian, and writer, at the 2025 Jaipur Literature Festival in Jaipur, India."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival_(cropped).jpg\" rel=\"noopener\">Sriya Sarkar</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3292
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-08-00-david-walliams-768x432.webp"
+wp_id: 3293
+wp_link: "https://moduscarry.com/david-walliams-books-libraries/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

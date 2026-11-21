@@ -5,7 +5,7 @@ seo_title: "Connor Storrie April X: Cast, Runtime and Streaming Date"
 seo_description: "Connor Storrie April X explained: plot, cast, 92-minute runtime, soundtrack and when the film reaches HBO Max on 18 December. Read the full guide."
 focus_keyword: "Connor Storrie April X"
 permalink: "connor-storrie-april-x-guide"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 08:00"
 celebrity: "Connor Storrie"
@@ -14,6 +14,15 @@ tags: ["Connor Storrie", "April X", "Heated Rivalry", "HBO Max"]
 image_prompt: "A neon-lit futuristic city street at night in the rain, with an empty motorcycle parked under glowing signs"
 sources:
   - "https://fangirlish.com/2026/11/21/everything-we-know-about-connor-storries-april-x/"
+image: "images/2026-11-22-08-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3290
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-08-00-connor-storrie-768x432.webp"
+wp_id: 3291
+wp_link: "https://moduscarry.com/connor-storrie-april-x-guide/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

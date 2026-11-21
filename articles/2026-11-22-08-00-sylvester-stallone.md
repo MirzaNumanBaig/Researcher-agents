@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone Alarum: Streaming Hit With 0% Score"
 seo_description: "Sylvester Stallone Alarum has jumped up streaming charts despite a 0% Rotten Tomatoes score. Here is where it ranks and what Stallone does next."
 focus_keyword: "Sylvester Stallone Alarum"
 permalink: "sylvester-stallone-alarum"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 08:00"
 celebrity: "Sylvester Stallone"
@@ -15,6 +15,15 @@ image_prompt: "A dimly lit living room at night with a television glowing on a s
 sources:
   - "https://www.cbr.com/sylvester-stallones-alarum-action-starz-success-november-2026/"
   - "https://www.instyle.com/where-is-the-cast-of-rocky-now-12268353"
+image: "images/2026-11-22-08-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588424132\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588424132\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3326
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-08-00-sylvester-stallone-768x432.webp"
+wp_id: 3327
+wp_link: "https://moduscarry.com/sylvester-stallone-alarum/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
