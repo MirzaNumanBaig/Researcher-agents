@@ -23,6 +23,7 @@ wp_id: 3175
 wp_link: "https://moduscarry.com/martin-mcdonagh-stage-and-screen/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
