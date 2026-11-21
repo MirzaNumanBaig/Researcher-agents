@@ -24,6 +24,7 @@ wp_id: 3153
 wp_link: "https://moduscarry.com/cate-blanchett-david-lean-documentary/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

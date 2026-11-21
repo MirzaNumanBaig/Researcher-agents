@@ -24,6 +24,7 @@ wp_id: 3159
 wp_link: "https://moduscarry.com/david-walliams-jonathan-ross-joke/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

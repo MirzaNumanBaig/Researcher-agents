@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Tarzan Film Hits HBO Max Top 10"
 seo_description: "Alexander Skarsgård Tarzan fans are lifting The Legend of Tarzan to third on HBO Max's global top 10 a decade after its release. See the numbers."
 focus_keyword: "Alexander Skarsgård Tarzan"
 permalink: "alexander-skarsgard-tarzan-hbo-max"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "Alexander Skarsgård"
@@ -14,6 +14,15 @@ tags: ["Alexander Skarsgård", "Margot Robbie", "Wicker"]
 image_prompt: "A dense green jungle canopy at golden hour with mist rising between tall trees and a distant waterfall"
 sources:
   - "https://collider.com/alexander-skarsgard-the-legend-of-tarzan-streaming-success-hbo-max-november-2026/"
+image: "images/2026-11-21-11-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd, actor, and Harry Lighton, director, at the 63rd New York Film Festival for the film Pillion"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_and_Harry_Lighton_at_NYFF_2025.jpg\" rel=\"noopener\">Claire Fridkin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_and_Harry_Lighton_at_NYFF_2025.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3208
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 3209
+wp_link: "https://moduscarry.com/alexander-skarsgard-tarzan-hbo-max/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

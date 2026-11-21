@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki Cliff Booth: Fincher, Tarantino and 100 takes"
 seo_description: "Elizabeth Debicki and Carla Gugino reflect on Fincher's 100-take shoots and Tarantino's script ahead of Cliff Booth's IMAX run on 25 November."
 focus_keyword: "Elizabeth Debicki Cliff Booth"
 permalink: "elizabeth-debicki-cliff-booth"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "Elizabeth Debicki"
@@ -15,6 +15,15 @@ image_prompt: "An empty IMAX cinema auditorium with a glowing screen and rows of
 sources:
   - "https://www.broadwayworld.com/bwwtv/article/Elizabeth-Debicki-Carla-Gugino-on-Working-With-Tarantino-Fincher-20261120"
   - "https://www.netflixjunkie.com/hollywood-news-a-glorious-time-elizabeth-debicki-looks-back-on-making-brad-pitts-the-further-mis-adventures-of-cliff-booth/"
+image: "images/2026-11-21-11-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki on Cliff Booth, Fincher and Tarantino"
+image_credit: "Image: <a href=\"https://www.broadwayworld.com/bwwtv/article/Elizabeth-Debicki-Carla-Gugino-on-Working-With-Tarantino-Fincher-20261120\" rel=\"nofollow noopener\">broadwayworld.com</a> (cropped)"
+wp_media_id: 3218
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-elizabeth-debicki-768x432.webp"
+wp_id: 3219
+wp_link: "https://moduscarry.com/elizabeth-debicki-cliff-booth-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

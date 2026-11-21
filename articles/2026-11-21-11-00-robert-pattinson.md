@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Screen Test: Cost and Calendar"
 seo_description: "The Robert Pattinson Bond screen test cost Amazon up to US$500,000, Variety reports. See how it won him 007 and what he films next."
 focus_keyword: "Robert Pattinson Bond screen test"
 permalink: "robert-pattinson-bond-screen-test"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "Robert Pattinson"
@@ -17,6 +17,15 @@ sources:
   - "https://www.goldderby.com/film/2026/robert-pattinson-james-bond-amanda-seyfried-nathan-fielder-quentin-tarantino-david-fincher-oscar-analysis/"
   - "https://startefacts.com/news/robert-pattinson-upcoming-movies-dune-the-take-batman-bond"
   - "https://sg.news.yahoo.com/whats-memes-robert-pattinson-being-193823752.html"
+image: "images/2026-11-21-11-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3238
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-robert-pattinson-768x432.webp"
+wp_id: 3239
+wp_link: "https://moduscarry.com/robert-pattinson-bond-screen-test-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

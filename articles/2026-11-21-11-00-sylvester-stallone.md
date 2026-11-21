@@ -5,7 +5,7 @@ seo_title: "I Play Rocky Review: Sylvester Stallone's Rise on Screen"
 seo_description: "I Play Rocky opened wide on November 20. Here is what the Sylvester Stallone biopic covers, who stars in it, and how an early review rated it."
 focus_keyword: "I Play Rocky"
 permalink: "i-play-rocky-sylvester-stallone-story"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "Sylvester Stallone"
@@ -16,6 +16,15 @@ sources:
   - "https://www.life.com/arts-entertainment/he-played-rocky-sylvester-stallone-and-friends/"
   - "https://austin.culturemap.com/news/entertainment/i-play-rocky-2026-review/"
   - "https://www.sherdog.com/news/news/From-Sylvester-Stallones-Tulsa-King-to-BareKnuckle-Boxing-Branden-Smiths-next-act-203705"
+image: "images/2026-11-21-11-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/4840654690\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/4840654690\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3246
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-sylvester-stallone-768x432.webp"
+wp_id: 3247
+wp_link: "https://moduscarry.com/i-play-rocky-sylvester-stallone-story/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

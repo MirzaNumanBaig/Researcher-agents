@@ -5,7 +5,7 @@ seo_title: "Liam Hemsworth Witcher: New Geralt Book From Sapkowski"
 seo_description: "Liam Hemsworth Witcher update: author Andrzej Sapkowski is reportedly writing a new Geralt book for 2027, separate from the Netflix series. Here is what we know."
 focus_keyword: "Liam Hemsworth Witcher"
 permalink: "liam-hemsworth-witcher-geralt-book"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "Liam Hemsworth"
@@ -14,6 +14,15 @@ tags: ["Netflix"]
 image_prompt: "A candlelit medieval study with an old leather book, a steel sword and a misty forest seen through the window at dusk"
 sources:
   - "https://fandomwire.com/the-witcher-geralt-2027-return-wont-feature-liam-hemsworth/"
+image: "images/2026-11-21-11-00-liam-hemsworth.webp"
+image_alt: "Liam Hemsworth: Liam Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/9358123180\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/9358123180\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3226
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-liam-hemsworth-768x432.webp"
+wp_id: 3227
+wp_link: "https://moduscarry.com/liam-hemsworth-witcher-geralt-book/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

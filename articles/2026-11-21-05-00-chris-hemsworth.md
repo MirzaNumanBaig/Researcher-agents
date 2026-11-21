@@ -26,6 +26,7 @@ wp_id: 3155
 wp_link: "https://moduscarry.com/chris-hemsworth-home-burglary-arrest/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

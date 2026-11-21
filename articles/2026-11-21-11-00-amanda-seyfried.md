@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried SNL Host: Oscar Push and Steps Reviews"
 seo_description: "Amanda Seyfried SNL hosting debut is confirmed as her Oscar push for You Can See Everything grows and Netflix's Steps draws mixed reviews."
 focus_keyword: "Amanda Seyfried SNL"
 permalink: "amanda-seyfried-snl-host-oscar"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "Amanda Seyfried"
@@ -17,6 +17,15 @@ sources:
   - "https://www.goldderby.com/film/2026/amanda-seyfried-netflix-steps-cinderella-reviews/"
   - "https://www.goldderby.com/film/2026/robert-pattinson-james-bond-amanda-seyfried-nathan-fielder-quentin-tarantino-david-fincher-oscar-analysis/"
   - "https://www.thecut.com/article/what-anok-yai-and-amanda-seyfried-wore-this-month.html"
+image: "images/2026-11-21-11-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried , 83rd Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried-1.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried-1.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3210
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-amanda-seyfried-768x432.webp"
+wp_id: 3211
+wp_link: "https://moduscarry.com/amanda-seyfried-snl-host-oscar/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

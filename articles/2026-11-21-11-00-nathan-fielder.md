@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder You Can See Everything: UK Critics React"
 seo_description: "UK critics have reviewed Nathan Fielder's You Can See Everything, the three-hour Elizabeth Holmes film. See what they said, plus scores and box office."
 focus_keyword: "Nathan Fielder You Can See Everything"
 permalink: "nathan-fielder-you-can-see-everything-uk-critics"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "Nathan Fielder"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium with red seats and a glowing blank scr
 sources:
   - "https://www.huffingtonpost.co.uk/entry/nathan-fielder-elizabeth-holmes-documentary-reviews_uk_6b0074a1e4b0edd18eddb88c"
   - "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+image: "images/2026-11-21-11-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3234
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-nathan-fielder-768x432.webp"
+wp_id: 3235
+wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-uk-critics/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

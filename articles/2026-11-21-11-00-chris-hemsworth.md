@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Livi Eddington Visit in Byron Bay"
 seo_description: "Chris Hemsworth visited Byron Bay teen Livi Eddington, 17, who is battling brain cancer. Read what he said and how the community is helping."
 focus_keyword: "Chris Hemsworth Livi Eddington"
 permalink: "chris-hemsworth-livi-eddington-visit"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "Chris Hemsworth"
@@ -16,6 +16,15 @@ sources:
   - "https://timesnewsgroup.com.au/ballinatimes/news/chris-hemsworth-visits-byron-teen-battling-brain-cancer/"
   - "https://www.comingsoon.net/movies/news/2228615-chris-hemsworth-home-burglary-update-arrest-made-details-here"
   - "https://www.tag24.com/en/entertainment/celebrities/break-in-at-chris-hemsworth-s-luxury-house-leads-to-teens-arrest-3551180"
+image: "images/2026-11-21-11-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3216
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-chris-hemsworth-768x432.webp"
+wp_id: 3217
+wp_link: "https://moduscarry.com/chris-hemsworth-livi-eddington-visit/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

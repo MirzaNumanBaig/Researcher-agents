@@ -5,7 +5,7 @@ seo_title: "Brendan Fraser Mummy Props Auction Ahead of The Mummy 4"
 seo_description: "Brendan Fraser Mummy props, including the Hamunaptra Key and Book of the Dead, go to auction from 4 December as the sequel nears. Here is what we know."
 focus_keyword: "Brendan Fraser Mummy props"
 permalink: "brendan-fraser-mummy-props-auction"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "Brendan Fraser"
@@ -15,6 +15,15 @@ image_prompt: "A dimly lit auction room with an ornate ancient Egyptian puzzle b
 sources:
   - "https://www.comingsoon.net/movies/news/2228852-the-mummy-artefacts-props-auction"
   - "https://au.variety.com/2026/film/global/the-mummy-4-release-date-may-2028-brendan-fraser-rachel-weisz-32961/"
+image: "images/2026-11-21-11-00-brendan-fraser.webp"
+image_alt: "Brendan Fraser: Brendan Fraser's Mummy Props Head to Auction Before Sequel"
+image_credit: "Image: <a href=\"https://www.comingsoon.net/movies/news/2228852-the-mummy-artefacts-props-auction\" rel=\"nofollow noopener\">ComingSoon.net</a> (cropped)"
+wp_media_id: 3214
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-brendan-fraser-768x432.webp"
+wp_id: 3215
+wp_link: "https://moduscarry.com/brendan-fraser-mummy-props-auction/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

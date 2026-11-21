@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Hairstyles 2026: Best Looks Ranked"
 seo_description: "Scarlett Johansson hairstyles 2026: Glam ranks her four best looks, from the blunt bob to beachy waves at the New York Film Festival. See the top pick."
 focus_keyword: "Scarlett Johansson hairstyles 2026"
 permalink: "scarlett-johansson-hairstyles-2026"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "Scarlett Johansson"
@@ -14,6 +14,15 @@ tags: ["Scarlett Johansson", "Fashion", "Red carpet"]
 image_prompt: "A vintage styling mirror ringed with warm bulbs, a hairbrush and curling tongs on a dressing table beside a red carpet backstage."
 sources:
   - "https://www.glam.com/2321848/scarlett-johansson-best-2026-looks-ranked-one-hairstyle-takes-the-crown/"
+image: "images/2026-11-21-11-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-069.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-069.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3242
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-scarlett-johansson-768x432.webp"
+wp_id: 3243
+wp_link: "https://moduscarry.com/scarlett-johansson-hairstyles-2026/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
