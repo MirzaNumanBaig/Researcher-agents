@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-05",
-   "time": "2026-11-05T00:25:27+00:00",
-   "batch": "2026-11-05 11:00",
-   "celebrity": "Michael J. Fox",
-   "article": "2026-11-05-11-00-michael-j-fox.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 1321,
-   "cache_read_tokens": 144271,
-   "cache_write_tokens": 20666,
-   "turns": 8,
-   "seconds": 12,
-   "cost_usd": 0.1105
-  },
-  {
-   "date": "2026-11-05",
    "time": "2026-11-05T00:27:14+00:00",
    "batch": "2026-11-05 11:00",
    "celebrity": "Miranda Kerr",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 29,
    "cost_usd": 0.1715
+  },
+  {
+   "date": "2026-11-21",
+   "time": "2026-11-21T22:51:01+00:00",
+   "batch": "2026-11-22 08:00",
+   "celebrity": "Street Fighter",
+   "article": "2026-11-22-08-00-street-fighter.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4789,
+   "cache_read_tokens": 185564,
+   "cache_write_tokens": 38174,
+   "turns": 8,
+   "seconds": 33,
+   "cost_usd": 0.2193
   }
  ]
 }
