@@ -24,6 +24,7 @@ wp_id: 3293
 wp_link: "https://moduscarry.com/david-walliams-books-libraries/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

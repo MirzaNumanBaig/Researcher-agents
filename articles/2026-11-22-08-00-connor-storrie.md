@@ -23,6 +23,7 @@ wp_id: 3291
 wp_link: "https://moduscarry.com/connor-storrie-april-x-guide/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -23,6 +23,7 @@ wp_id: 3285
 wp_link: "https://moduscarry.com/anders-danielsen-lie-oslo-doctor-actor/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -25,6 +25,7 @@ wp_id: 3297
 wp_link: "https://moduscarry.com/inde-navarrette-oscar-buzz/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

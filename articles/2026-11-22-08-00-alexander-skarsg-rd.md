@@ -23,6 +23,7 @@ wp_id: 3283
 wp_link: "https://moduscarry.com/alexander-skarsgard-red-carpet-looks/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
