@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-21 11:00",
+  "celebrity": "The Take",
+  "stories": [
+    {
+      "title": "Robert Pattinson's upcoming movies: the next one is a month away",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTc0YXF0bFNfdmZCX0lXT3VmRTZHUF9jcWxZTURCeTM3RzYxV3FHS19yZzZEMGNQb2hrUFdIc0hKUnFLMU5lYWx5dlY3R3JhdksxdElqOFMzZ3VJZGxjMEduWngwMnRHTld5MXJKalc0RHc2WHktcE9oX01YSjZjRWRQRUM4NkNNVDFlTVBWdDc?oc=5",
+      "published": "2026-11-20T23:57:00+00:00",
+      "outlets": [
+        {
+          "source": "Startefacts",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTc0YXF0bFNfdmZCX0lXT3VmRTZHUF9jcWxZTURCeTM3RzYxV3FHS19yZzZEMGNQb2hrUFdIc0hKUnFLMU5lYWx5dlY3R3JhdksxdElqOFMzZ3VJZGxjMEduWngwMnRHTld5MXJKalc0RHc2WHktcE9oX01YSjZjRWRQRUM4NkNNVDFlTVBWdDc?oc=5",
+          "article_url": "https://startefacts.com/news/robert-pattinson-upcoming-movies-dune-the-take-batman-bond",
+          "image": "https://startefacts.com/k2/news/canvas/1200x630/upload/upload/news/413855136096.jpg"
+        }
+      ],
+      "image": "https://startefacts.com/k2/news/canvas/1200x630/upload/upload/news/413855136096.jpg",
+      "image_source": "https://startefacts.com/news/robert-pattinson-upcoming-movies-dune-the-take-batman-bond"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    }
+  ]
+}

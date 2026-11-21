@@ -1,0 +1,49 @@
+{
+  "batch": "2026-11-21 11:00",
+  "celebrity": "Nathan Fielder",
+  "stories": [
+    {
+      "title": "UK Critics Say Nathan Fielder's 'Unmissable' Elizabeth Holmes Doc Is Well Worth The Wait",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWm5JR1BoSUJ3a0owc05IYk9hV3RxVnRFWU9ZMG1RQXJiZlh0ay1pSjBoRXNKaTgzNTA1M09UcEtJUHlUSHBhRC1qUzZDaUJoQ1hHZmVsZ3RpZUFoTW4xVW1ReWhrQS1RZUxHdXptNVNUQWc3V0o5TjlpWUtlRko4MDVPTndaMEwwT29wNkhKU0ZMczRsemx0WklRNG9ySG9BMzVmeEpJLTYyc3RKTUpZQjBqVlFzSjlTNkE?oc=5",
+      "published": "2026-11-20T16:41:20+00:00",
+      "outlets": [
+        {
+          "source": "HuffPost UK",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWm5JR1BoSUJ3a0owc05IYk9hV3RxVnRFWU9ZMG1RQXJiZlh0ay1pSjBoRXNKaTgzNTA1M09UcEtJUHlUSHBhRC1qUzZDaUJoQ1hHZmVsZ3RpZUFoTW4xVW1ReWhrQS1RZUxHdXptNVNUQWc3V0o5TjlpWUtlRko4MDVPTndaMEwwT29wNkhKU0ZMczRsemx0WklRNG9ySG9BMzVmeEpJLTYyc3RKTUpZQjBqVlFzSjlTNkE?oc=5",
+          "article_url": "https://www.huffingtonpost.co.uk/entry/nathan-fielder-elizabeth-holmes-documentary-reviews_uk_6b0074a1e4b0edd18eddb88c",
+          "image": "https://img.huffingtonpost.com/asset/6b00769c150000d20513c3fb.jpg?cache=r4ORlJ7HF8&ops=1200_630"
+        }
+      ],
+      "image": "https://img.huffingtonpost.com/asset/6b00769c150000d20513c3fb.jpg?cache=r4ORlJ7HF8&ops=1200_630",
+      "image_source": "https://www.huffingtonpost.co.uk/entry/nathan-fielder-elizabeth-holmes-documentary-reviews_uk_6b0074a1e4b0edd18eddb88c"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "You Can See Everything",
+      "release": "2026-09-06",
+      "director": [
+        "Lance Oppenheim",
+        "Nathan Fielder"
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Christopher Abbott"
+      ],
+      "budget_usd": 7000000,
+      "box_office_usd": 93000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 13.29,
+      "rotten_tomatoes": "97% from 229 reviews",
+      "metacritic": "97/100 from 43 critics",
+      "critics_consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+      "critics_overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+        "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+      }
+    }
+  ]
+}

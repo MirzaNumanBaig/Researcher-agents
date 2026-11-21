@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-21 11:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Ryan Reynolds 'broke every bone' on left side of his body when drunk driver ran him over",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2hsbkJIYTBjbFZCUUVzcXg5and6TW1oNk0wSno4WDVpSGI5T1RIQkU2SzhrdnkwZGljdU1fZUZZQmRXRG5ZRWd2S3BZVXNXNlFYcnZJQ1hZazVrOXFta1ptUkE4cU9CQnhqSkpVMGJpeDFMbnI2MUZxemdkNW5jSTVBbkljZFlsZ0ZaYnVtUTJ6M0U0WHR2Z0hTOHByWWczRU1ha251VTRFeU55bnR5UjZ0QWJkZ0NHUDRaMUVuZC02YjQ1MVQ3NjZJSE5UTmJHV2RLVGlDbG5yS1VVUU5DUw?oc=5",
+      "published": "2026-11-20T19:31:10+00:00",
+      "outlets": [
+        {
+          "source": "WZTV",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2hsbkJIYTBjbFZCUUVzcXg5and6TW1oNk0wSno4WDVpSGI5T1RIQkU2SzhrdnkwZGljdU1fZUZZQmRXRG5ZRWd2S3BZVXNXNlFYcnZJQ1hZazVrOXFta1ptUkE4cU9CQnhqSkpVMGJpeDFMbnI2MUZxemdkNW5jSTVBbkljZFlsZ0ZaYnVtUTJ6M0U0WHR2Z0hTOHByWWczRU1ha251VTRFeU55bnR5UjZ0QWJkZ0NHUDRaMUVuZC02YjQ1MVQ3NjZJSE5UTmJHV2RLVGlDbG5yS1VVUU5DUw?oc=5",
+          "article_url": "https://fox17.com/news/entertainment/gallery/ryan-reynolds-broke-every-bone-on-left-side-of-his-body-when-drunk-driver-ran-him-over-rob-mac?photo=4",
+          "image": "https://fox17.com/resources/media2/16x9/3728/1320/0x55/90/f111ee60-7272-4bff-9453-c2544313c6b7-GettyImages2163119512.jpg"
+        }
+      ],
+      "image": "https://fox17.com/resources/media2/16x9/3728/1320/0x55/90/f111ee60-7272-4bff-9453-c2544313c6b7-GettyImages2163119512.jpg",
+      "image_source": "https://fox17.com/news/entertainment/gallery/ryan-reynolds-broke-every-bone-on-left-side-of-his-body-when-drunk-driver-ran-him-over-rob-mac?photo=4"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

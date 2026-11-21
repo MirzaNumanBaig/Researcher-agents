@@ -1,0 +1,27 @@
+{
+  "batch": "2026-11-21 11:00",
+  "celebrity": "Liam Hemsworth",
+  "stories": [
+    {
+      "title": "The Witcher: Geralt’s Confirmed 2027 Return Won’t Feature Liam Hemsworth",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBva3hnTzFJUjlYTm1vMmR6WmRTdDFTNC15em1YLWNHZlhsN2xWWW9PRng1VDYyY1AzUEF2Q0NfUlp4dTdJVlFlSlFJbjhWREo4YVh1UkYyMlNiYnFUM29pVGZBM1ZjdmM?oc=5",
+      "published": "2026-11-20T20:15:53+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBva3hnTzFJUjlYTm1vMmR6WmRTdDFTNC15em1YLWNHZlhsN2xWWW9PRng1VDYyY1AzUEF2Q0NfUlp4dTdJVlFlSlFJbjhWREo4YVh1UkYyMlNiYnFUM29pVGZBM1ZjdmM?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66121235/?ref_=nmnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "FandomWire",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGpKOUtIZGU4YTdxQzY2Y2tRVlVMaGhRQjlTLWhNQXIwRjNtM3cybFNzaENSbUxDSXVXSFdqT1AxLUswN1Npam8xUEtiZEIwVFZXekFRaXp5TG5VOFM5cU5UYW1CYzhHc04wdWlxRHFtSm81N2xUWmV4MThxS3Jhbm40WTNwMEYteVE?oc=5",
+          "article_url": "https://fandomwire.com/the-witcher-geralt-2027-return-wont-feature-liam-hemsworth/",
+          "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/11/20143207/the-witcher-wont-feature-liam-hemsworth.jpg"
+        }
+      ],
+      "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/11/20143207/the-witcher-wont-feature-liam-hemsworth.jpg",
+      "image_source": "https://fandomwire.com/the-witcher-geralt-2027-return-wont-feature-liam-hemsworth/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "batch": "2026-11-21 11:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Nicole Kidman’s Chanel Trousers Just Made the Case for a Different Kind of Eveningwear",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMU9oUWZmaGM0R280TlY0ZXBuX0tFWUpQejhMc1VtNFIwTHlwSy05LWxJM0ZFSzBJZFJrYVo0NjFWYkoyX2UtdlUtcXIxenF6Vmh6OTBiZ2Itdl9lWkxNNmpFWlVRQXlia1dqMlVBWFBzMXRiN0YwSlFITENkZ016aEl4c1NjM0I5QTc2NGpUMDNwajVPS052QTBSZXpKZUgyVDhEQlhmblVnV1JuRDkxVGxLeU5KUTdPeEkxNjF1SQ?oc=5",
+      "published": "2026-11-20T22:22:51+00:00",
+      "outlets": [
+        {
+          "source": "graziamagazine.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMU9oUWZmaGM0R280TlY0ZXBuX0tFWUpQejhMc1VtNFIwTHlwSy05LWxJM0ZFSzBJZFJrYVo0NjFWYkoyX2UtdlUtcXIxenF6Vmh6OTBiZ2Itdl9lWkxNNmpFWlVRQXlia1dqMlVBWFBzMXRiN0YwSlFITENkZ016aEl4c1NjM0I5QTc2NGpUMDNwajVPS052QTBSZXpKZUgyVDhEQlhmblVnV1JuRDkxVGxLeU5KUTdPeEkxNjF1SQ?oc=5",
+          "article_url": "https://graziamagazine.com/articles/nicole-kidmans-chanel-trousers-just-made-the-case-for-a-different-kind-of-eveningwear/",
+          "image": "https://graziamagazine.com/wp-content/uploads/2026/11/nicole-kidman.jpg"
+        }
+      ],
+      "image": "https://graziamagazine.com/wp-content/uploads/2026/11/nicole-kidman.jpg",
+      "image_source": "https://graziamagazine.com/articles/nicole-kidmans-chanel-trousers-just-made-the-case-for-a-different-kind-of-eveningwear/"
+    },
+    {
+      "title": "Music Video Cinematics: \"Psycho\" and \"Nicole Kidman\"",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbHFuYlVENUE4U2FRdVVzUWxQbHlGZW85bW9TazVnOWV1Z1A0M1FrbjhVVUVIeTEzSU9TRzJwckdHY0pOSjVoaWhwYl9PYnFLZkNiSHFyakUxdzllT3ZCeGRGM0NJVk5LMnRYV3Rnd2gwSjEwWUZOcXVGWkxnSWswbmFHaW5OZE1SQTFPLWlUWWZNbnU4Sno3RXRsdG82QQ?oc=5",
+      "published": "2026-11-20T21:00:00+00:00",
+      "outlets": [
+        {
+          "source": "The Film Experience",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbHFuYlVENUE4U2FRdVVzUWxQbHlGZW85bW9TazVnOWV1Z1A0M1FrbjhVVUVIeTEzSU9TRzJwckdHY0pOSjVoaWhwYl9PYnFLZkNiSHFyakUxdzllT3ZCeGRGM0NJVk5LMnRYV3Rnd2gwSjEwWUZOcXVGWkxnSWswbmFHaW5OZE1SQTFPLWlUWWZNbnU4Sno3RXRsdG82QQ?oc=5",
+          "article_url": "http://thefilmexperience.net/blog/2026/11/20/music-video-cinematics-psycho-and-nicole-kidman.html",
+          "image": "http://thefilmexperience.net/storage/2026/korean-american-psycho.png?__SQUARESPACE_CACHEVERSION=1795140252118"
+        }
+      ],
+      "image": "http://thefilmexperience.net/storage/2026/korean-american-psycho.png?__SQUARESPACE_CACHEVERSION=1795140252118",
+      "image_source": "http://thefilmexperience.net/blog/2026/11/20/music-video-cinematics-psycho-and-nicole-kidman.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
+    }
+  ]
+}
