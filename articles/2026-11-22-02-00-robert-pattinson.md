@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond: Why His Quirks Won the Role"
 seo_description: "Robert Pattinson James Bond casting explained: his offbeat charm, Jeff Bezos' role and the younger actors who were considered first. Read the details."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-quirky"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 02:00"
 celebrity: "Robert Pattinson"
@@ -14,6 +14,15 @@ tags: ["Robert Pattinson", "James Bond", "Denis Villeneuve", "Callum Turner", "T
 image_prompt: "A dark empty cinema auditorium with rows of red seats, a single spotlight and a tuxedo jacket draped over a chair, moody cinematic light"
 sources:
   - "https://pagesix.com/2026/11/21/entertainment/robert-pattinson-is-hollywoods-quirkiest-james-bond-yet/"
+image: "images/2026-11-22-02-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3280
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-02-00-robert-pattinson-768x432.webp"
+wp_id: 3281
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-quirky/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

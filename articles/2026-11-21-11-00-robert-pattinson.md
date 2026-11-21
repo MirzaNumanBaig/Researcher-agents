@@ -26,6 +26,7 @@ wp_id: 3239
 wp_link: "https://moduscarry.com/robert-pattinson-bond-screen-test-2/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
