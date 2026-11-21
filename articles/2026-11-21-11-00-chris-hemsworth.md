@@ -25,6 +25,7 @@ wp_id: 3217
 wp_link: "https://moduscarry.com/chris-hemsworth-livi-eddington-visit/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

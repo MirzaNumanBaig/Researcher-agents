@@ -23,6 +23,7 @@ wp_id: 3227
 wp_link: "https://moduscarry.com/liam-hemsworth-witcher-geralt-book/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

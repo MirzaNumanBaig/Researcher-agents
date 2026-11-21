@@ -24,6 +24,7 @@ wp_id: 3215
 wp_link: "https://moduscarry.com/brendan-fraser-mummy-props-auction/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

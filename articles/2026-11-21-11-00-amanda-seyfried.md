@@ -26,6 +26,7 @@ wp_id: 3211
 wp_link: "https://moduscarry.com/amanda-seyfried-snl-host-oscar/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
