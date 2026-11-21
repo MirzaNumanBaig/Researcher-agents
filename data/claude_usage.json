@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-03",
-   "time": "2026-11-03T17:37:29+00:00",
-   "batch": "2026-11-04 04:00",
-   "celebrity": "Hugh Jackman",
-   "article": "2026-11-04-04-00-hugh-jackman.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 6,
-   "output_tokens": 1137,
-   "cache_read_tokens": 74670,
-   "cache_write_tokens": 19708,
-   "turns": 6,
-   "seconds": 9,
-   "cost_usd": 0.0978
-  },
-  {
-   "date": "2026-11-03",
    "time": "2026-11-03T17:40:45+00:00",
    "batch": "2026-11-04 04:00",
    "celebrity": "Jacob Elordi",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 9,
    "cost_usd": 0.1053
+  },
+  {
+   "date": "2026-11-21",
+   "time": "2026-11-21T00:56:55+00:00",
+   "batch": "2026-11-21 11:00",
+   "celebrity": "Joseph Zada",
+   "article": "2026-11-21-11-00-joseph-zada.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3450,
+   "cache_read_tokens": 123385,
+   "cache_write_tokens": 27946,
+   "turns": 7,
+   "seconds": 25,
+   "cost_usd": 0.1588
   }
  ]
 }
