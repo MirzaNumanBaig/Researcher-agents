@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-05",
-   "time": "2026-11-05T23:03:22+00:00",
-   "batch": "2026-11-06 09:00",
-   "celebrity": "Ryan Gosling",
-   "article": "2026-11-06-09-00-ryan-gosling.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 4817,
-   "cache_read_tokens": 195046,
-   "cache_write_tokens": 28718,
-   "turns": 9,
-   "seconds": 43,
-   "cost_usd": 0.1827
-  },
-  {
-   "date": "2026-11-05",
    "time": "2026-11-05T23:05:24+00:00",
    "batch": "2026-11-06 09:00",
    "celebrity": "Ryan Reynolds",
@@ -23999,6 +23983,22 @@
    "turns": 15,
    "seconds": 53,
    "cost_usd": 0.2268
+  },
+  {
+   "date": "2026-11-22",
+   "time": "2026-11-22T17:52:53+00:00",
+   "batch": "2026-11-23 04:00",
+   "celebrity": "Jason Sudeikis",
+   "article": "2026-11-23-04-00-jason-sudeikis.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 4621,
+   "cache_read_tokens": 206647,
+   "cache_write_tokens": 29495,
+   "turns": 9,
+   "seconds": 35,
+   "cost_usd": 0.185
   }
  ]
 }
