@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Sylvester Stallone",
+  "stories": [
+    {
+      "title": "Sylvester Stallone’s ‘Rocky’ Biopic Officially Adds Nearly 2,500 Theaters",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpd0RZR3VmY2VjUjl4QmZtelVVbFVrZkY5WUJRUUlQY0xXMkFrX1JDMENubXhkYUNIR1kxX0lyTXpZczUxUzg1eUxQbTVzdkdRT0N3SmN5b3htVkFnOFZSQ0YyWWhxSEVjNTAwUXU5dUNKOUJBVWYydQ?oc=5",
+      "published": "2026-11-22T14:30:12+00:00",
+      "outlets": [
+        {
+          "source": "Collider",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpd0RZR3VmY2VjUjl4QmZtelVVbFVrZkY5WUJRUUlQY0xXMkFrX1JDMENubXhkYUNIR1kxX0lyTXpZczUxUzg1eUxQbTVzdkdRT0N3SmN5b3htVkFnOFZSQ0YyWWhxSEVjNTAwUXU5dUNKOUJBVWYydQ?oc=5",
+          "article_url": "https://collider.com/i-play-rocky-box-office-expansion-2448-theaters/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/i-play-rocky-anthony-ippolito.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/i-play-rocky-anthony-ippolito.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://collider.com/i-play-rocky-box-office-expansion-2448-theaters/"
+    }
+  ]
+}

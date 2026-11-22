@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Tom Hardy",
+  "stories": [
+    {
+      "title": "9 Years Later, Ridley Scott & Tom Hardy’s Thriller Series Deserves Credit For Blending Genres",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4MF9RUGNKeUlSTXh2b0ZpODAzUEJkSHl6ODc0X1JqQjQ2VkZHNEJXRUhOMFJhbFl2WHFRYkIzNjFvY3FrbXUyWk1qVHZlT1RIMEF2S3FBcnM4djFX?oc=5",
+      "published": "2026-11-22T15:00:17+00:00",
+      "outlets": [
+        {
+          "source": "MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4MF9RUGNKeUlSTXh2b0ZpODAzUEJkSHl6ODc0X1JqQjQ2VkZHNEJXRUhOMFJhbFl2WHFRYkIzNjFvY3FrbXUyWk1qVHZlT1RIMEF2S3FBcnM4djFX?oc=5",
+          "article_url": "https://movieweb.com/taboo-recommendation-genre/",
+          "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/movie-web-sandbox-2026-11-21t212702-523.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/movie-web-sandbox-2026-11-21t212702-523.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://movieweb.com/taboo-recommendation-genre/"
+    },
+    {
+      "title": "Tom Hardy’s cult classic crime drama is on TV tonight",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEFMZ3RWUlpGNTZTbnlXSS02RXZBc2dWalMtUnVoeUdqb1RrWGF3R08zaGpfVGlTVkNJOGtod3lqT0NfMC1KZjY2cjFTZ242WkxLNlppMUxvOWhCaUdEei1TN3dwMTladXlZNDJOMXpXVTVPR2N1enBYYk1kVVpjLXJnM09BQklBb2VfUzNyVWI1SExFU1BRSU8zQ3FfV2NhdlE?oc=5",
+      "published": "2026-11-22T11:17:23+00:00",
+      "outlets": [
+        {
+          "source": "JOE.ie",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEFMZ3RWUlpGNTZTbnlXSS02RXZBc2dWalMtUnVoeUdqb1RrWGF3R08zaGpfVGlTVkNJOGtod3lqT0NfMC1KZjY2cjFTZ242WkxLNlppMUxvOWhCaUdEei1TN3dwMTladXlZNDJOMXpXVTVPR2N1enBYYk1kVVpjLXJnM09BQklBb2VfUzNyVWI1SExFU1BRSU8zQ3FfV2NhdlE?oc=5",
+          "article_url": "https://www.joe.ie/movies-tv/lawless-movies-on-tv-sunday-22-november-2026-best-crime-thriller-889994",
+          "image": "https://assets.joe.ie/uploads/2026/11/Website-Image-_-Full-Bleed-10-2-1024x573.png"
+        }
+      ],
+      "image": "https://assets.joe.ie/uploads/2026/11/Website-Image-_-Full-Bleed-10-2-1024x573.png",
+      "image_source": "https://www.joe.ie/movies-tv/lawless-movies-on-tv-sunday-22-november-2026-best-crime-thriller-889994"
+    }
+  ]
+}

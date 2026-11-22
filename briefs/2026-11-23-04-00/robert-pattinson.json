@@ -1,0 +1,77 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Robert Pattinson",
+  "stories": [
+    {
+      "title": "Robert Pattinson receives warm welcome as James Bond at The Odyssey screening",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd25pVE10bHNGRlRaY01NRFhUQTlTVWRuczJZaklBdEdVaXZGTUltQ2pfdVNPMjUxQmVJdUNXdjJyNUVXTGFsWFVyR181c054VmlGMWRkR2lRMzQ4NHBDMjcwRE1VV1V5b3NTQmZCeHVoa3V6SWF6YmtxSC1OQWNBazRrSW9tSlRTWjRVS2hSQ2RCaUZlZW1pZ3FCZTVyMldzN0d0WTkydlVnT0o5bi1BWUJmMnlkeTlwZ1JwM29iNWVnbzRoYm9fVnVCM0bSAdoBQVVfeXFMTTUzVFVrQzZnNDdzMGVhUndlaUhoYUpRS0ZhazJwRDRuSjRYZGxodU1WR1F3SEJ6RHJGcDlFTFpiTmEwNlE0NFRtek9TMXVWNVZranI4SXZ2YmdneUVOaFNseDA0dDhNdDFpSHRScDRGM2tNZktLREZoUXc2TXN4U2NXU0JzdnVRMDVnSlBIMnlPeHBsNTdoTU9hZTNTZnRrbnJIYmZIRUw2Y19PeGlCeDB1MWJpeGt1RWFBRWNzQ1ZrTENfTTlwRkM3QkV2M2VnSnJubGJ6NU1VdVE?oc=5",
+      "published": "2026-11-21T07:26:27+00:00",
+      "outlets": [
+        {
+          "source": "Cinema Express",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd25pVE10bHNGRlRaY01NRFhUQTlTVWRuczJZaklBdEdVaXZGTUltQ2pfdVNPMjUxQmVJdUNXdjJyNUVXTGFsWFVyR181c054VmlGMWRkR2lRMzQ4NHBDMjcwRE1VV1V5b3NTQmZCeHVoa3V6SWF6YmtxSC1OQWNBazRrSW9tSlRTWjRVS2hSQ2RCaUZlZW1pZ3FCZTVyMldzN0d0WTkydlVnT0o5bi1BWUJmMnlkeTlwZ1JwM29iNWVnbzRoYm9fVnVCM0bSAdoBQVVfeXFMTTUzVFVrQzZnNDdzMGVhUndlaUhoYUpRS0ZhazJwRDRuSjRYZGxodU1WR1F3SEJ6RHJGcDlFTFpiTmEwNlE0NFRtek9TMXVWNVZranI4SXZ2YmdneUVOaFNseDA0dDhNdDFpSHRScDRGM2tNZktLREZoUXc2TXN4U2NXU0JzdnVRMDVnSlBIMnlPeHBsNTdoTU9hZTNTZnRrbnJIYmZIRUw2Y19PeGlCeDB1MWJpeGt1RWFBRWNzQ1ZrTENfTTlwRkM3QkV2M2VnSnJubGJ6NU1VdVE?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    },
+    {
+      "title": "Primetime",
+      "release": "2026-09-05",
+      "director": [
+        "Lance Oppenheim"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Phoebe Bridgers",
+        "Merritt Wever",
+        "Sean Bridgers",
+        "Skyler Gisondo"
+      ],
+      "budget_usd": 14500000,
+      "box_office_usd": 62000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 4.28,
+      "rotten_tomatoes": "86%",
+      "metacritic": "68/100 from 54 critics",
+      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Manohla Dargis for The New York Times praised Skyler Gisondo and Alex Winter, writing that they added \"emotion\" and \"push the movie into depths it doesn’t remain in\" but otherwise felt that Primetime \"looks good and moves well, and the dark, saturated colors and visual grittiness add some fine Expressionistic texture.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
+      }
+    }
+  ]
+}

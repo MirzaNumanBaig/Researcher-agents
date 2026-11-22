@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "The Forgotten Failures Of Ryan Gosling",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0VVMVg1aWFKRm9NWGEzWFpTS3ZnWVE4OTczOVlDa2ptaEZtTEIwb0s2U0tqcUhYMkhnQkZ0ZVlTWFBDVW5ITnY1YzlPVzJpMWphaFZPY3g1LTNJQWpLWkdCRWxRSTNtNnc5RTJiaVhtaFdTbVNNVG82Y1V1UWdTRU15TVI1U1l0a00tc0Z3SU9zSmc?oc=5",
+      "published": "2026-11-22T13:15:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0VVMVg1aWFKRm9NWGEzWFpTS3ZnWVE4OTczOVlDa2ptaEZtTEIwb0s2U0tqcUhYMkhnQkZ0ZVlTWFBDVW5ITnY1YzlPVzJpMWphaFZPY3g1LTNJQWpLWkdCRWxRSTNtNnc5RTJiaVhtaFdTbVNNVG82Y1V1UWdTRU15TVI1U1l0a00tc0Z3SU9zSmc?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/videos/forgotten-failures-ryan-gosling-123000712.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/cd5a4b8e4f8bf552651607cd26bc0e9641466d5fb5c49a986e979a8fb86579e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flooper_video_180%2Fd4ee87c14f26b23f6e77c105dcb5a328.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/cd5a4b8e4f8bf552651607cd26bc0e9641466d5fb5c49a986e979a8fb86579e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flooper_video_180%2Fd4ee87c14f26b23f6e77c105dcb5a328.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/videos/forgotten-failures-ryan-gosling-123000712.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

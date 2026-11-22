@@ -1,0 +1,27 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Hugh Jackman",
+  "stories": [
+    {
+      "title": "20 Years Ago Today: Hugh Jackman Starred In A Sci-Fi Movie That Divided Critics",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ONkFudlZ3NXpUVkJHdU9JQ3VfVWhNYlI2ZkRVSzd1ejZRaHUyT3VhVmxUSGZRVThiVVktSl9MS1dtTUw0V2dVekNweTdnUGx0cGQzbm5GZ2xnN0pDb2NCMkZaTG9ZZw?oc=5",
+      "published": "2026-11-22T13:04:16+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ONkFudlZ3NXpUVkJHdU9JQ3VfVWhNYlI2ZkRVSzd1ejZRaHUyT3VhVmxUSGZRVThiVVktSl9MS1dtTUw0V2dVekNweTdnUGx0cGQzbm5GZ2xnN0pDb2NCMkZaTG9ZZw?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66123121/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ21EYnRMblVESGR0bFBBVmVTVHNrTWMtSlp2WW9jMWR5aWxhdk9wQ0xPODJUR0xUR2dOYVdwWGF5TXN4ai1EaHNCREhOd0F4RHJBT0RnY0t0VURMMlJHNXRpRXlacGdRNEoyRXpEMHdpSlAtd1RQMTJ5LWRrVlBjSE9aTExXZWFVQUgxTlhXZm1kUzg1N283Yw?oc=5",
+          "article_url": "https://www.slashfilm.com/2321924/the-fountain-hugh-jackman-sci-fi-movie-20-year-anniversary/",
+          "image": "https://www.slashfilm.com/img/gallery/20-years-ago-today-hugh-jackman-starred-in-a-sci-fi-movie-that-divided-critics/l-intro-1795103540.jpg"
+        }
+      ],
+      "image": "https://www.slashfilm.com/img/gallery/20-years-ago-today-hugh-jackman-starred-in-a-sci-fi-movie-that-divided-critics/l-intro-1795103540.jpg",
+      "image_source": "https://www.slashfilm.com/2321924/the-fountain-hugh-jackman-sci-fi-movie-20-year-anniversary/"
+    }
+  ]
+}

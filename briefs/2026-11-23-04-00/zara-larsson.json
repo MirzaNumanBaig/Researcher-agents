@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Zara Larsson",
+  "stories": [
+    {
+      "title": "Zara Larsson – Fast Emotion",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tN3l6ZzJESjNjOXBOc3hNMm1URWh4Tm1zTkJQZGl6M1JYbUlyX2NDU0NZZDNWVUd2WVlnR19UQWE2Z3RHSk1wYXRxZlhMelRMNXRhUW55Q1NpMER4djlIcFh4Rl9VZ3FiT3hCVVB1OU5TSGtPMzB5Vg?oc=5",
+      "published": "2026-11-22T13:30:08+00:00",
+      "outlets": [
+        {
+          "source": "The Hype Magazine",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tN3l6ZzJESjNjOXBOc3hNMm1URWh4Tm1zTkJQZGl6M1JYbUlyX2NDU0NZZDNWVUd2WVlnR19UQWE2Z3RHSk1wYXRxZlhMelRMNXRhUW55Q1NpMER4djlIcFh4Rl9VZ3FiT3hCVVB1OU5TSGtPMzB5Vg?oc=5",
+          "article_url": "https://www.thehypemagazine.com/2026/11/22/zara-larsson-fast-emotion/",
+          "image": "https://www.thehypemagazine.com/wp-content/uploads/2026/11/cover-33-zara-larsson-fast-emotion.jpg"
+        }
+      ],
+      "image": "https://www.thehypemagazine.com/wp-content/uploads/2026/11/cover-33-zara-larsson-fast-emotion.jpg",
+      "image_source": "https://www.thehypemagazine.com/2026/11/22/zara-larsson-fast-emotion/"
+    },
+    {
+      "title": "Zara Larsson contributed to 34-track GTA 6 album on November 20",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXNobFZMaUhZS3hoVlBEU2tiZ0VIaHgyd3NmZTcwRDVOLS10RjdMNlNqNXUycFZIX3FWY3hEQnFINDdOanUzR0hmMDI1Vm1SMWREZW1kYmJHcnNqY1hCSndsc2IxT2Yxd29pSUdYdHA5TUE4N3NWNlEyMVNMNk1nQVBXN1pUS0pSQjdVQlN5aTVvMG1tUmtKc2taeVljMXVIblU0QVdLVTNQdlE1aFZ1VFJnTkhSbVN5d1E?oc=5",
+      "published": "2026-11-22T12:55:42+00:00",
+      "outlets": [
+        {
+          "source": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXNobFZMaUhZS3hoVlBEU2tiZ0VIaHgyd3NmZTcwRDVOLS10RjdMNlNqNXUycFZIX3FWY3hEQnFINDdOanUzR0hmMDI1Vm1SMWREZW1kYmJHcnNqY1hCSndsc2IxT2Yxd29pSUdYdHA5TUE4N3NWNlEyMVNMNk1nQVBXN1pUS0pSQjdVQlN5aTVvMG1tUmtKc2taeVljMXVIblU0QVdLVTNQdlE1aFZ1VFJnTkhSbVN5d1E?oc=5",
+          "article_url": "https://www.ad-hoc-news.de/unterhaltung/musik/zara-larsson-contributed-to-34-track-gta-6-album-on-november-20/70544418",
+          "image": "https://mdb.ad-hoc-news.de/bild/bild-2403844_1200_675.webp"
+        }
+      ],
+      "image": "https://mdb.ad-hoc-news.de/bild/bild-2403844_1200_675.webp",
+      "image_source": "https://www.ad-hoc-news.de/unterhaltung/musik/zara-larsson-contributed-to-34-track-gta-6-album-on-november-20/70544418"
+    }
+  ]
+}

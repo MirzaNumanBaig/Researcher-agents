@@ -1,0 +1,65 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Nicole Kidman & Keith Urban's Secret Dates Revealed as Sources Claim She's 'Resisting the Urge' to Go Back—He 'Misses' Her",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzRsVjJLbGJCX1piaUtSTXQtdmI4LWgyMTNlVXROTFJ2Ui1lZHg3Uld0VjFyc3BXVUdlSTNwWEpwZHlLSzZxN0I2VVZLMVZRVzk5b1p5UmR1OFZBdHhwMlRsbldXRGRCTXZGWUhNbmh3aXVrM0xibklOb3BDbmk3eVVwX2tYV2wzb1RPMTVLVGh0aGxxRHBrVXMtQk8ySmhzcmUySXpR?oc=5",
+      "published": "2026-11-22T15:02:02+00:00",
+      "outlets": [
+        {
+          "source": "StyleCaster",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzRsVjJLbGJCX1piaUtSTXQtdmI4LWgyMTNlVXROTFJ2Ui1lZHg3Uld0VjFyc3BXVUdlSTNwWEpwZHlLSzZxN0I2VVZLMVZRVzk5b1p5UmR1OFZBdHhwMlRsbldXRGRCTXZGWUhNbmh3aXVrM0xibklOb3BDbmk3eVVwX2tYV2wzb1RPMTVLVGh0aGxxRHBrVXMtQk8ySmhzcmUySXpR?oc=5",
+          "article_url": "https://stylecaster.com/entertainment/celebrity-news/1234973714/nicole-kidman-keith-urban-dating-again/",
+          "image": "https://stylecaster.com/wp-content/uploads/2026/08/nicole-kidman-boyfriend-keith-urban-response.jpg?w=650"
+        }
+      ],
+      "image": "https://stylecaster.com/wp-content/uploads/2026/08/nicole-kidman-boyfriend-keith-urban-response.jpg?w=650",
+      "image_source": "https://stylecaster.com/entertainment/celebrity-news/1234973714/nicole-kidman-keith-urban-dating-again/"
+    },
+    {
+      "title": "Nicole Kidman Through the Years",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTdDdUEzLVZHVEthWFdvZ1pQMEV0ZzhwVTNxSXBnc0VMdG5MWmI4NXJoNl85OGFucnVZUFdFREhvRnVwNjR0YnIxYTlDV0VPRXdSOUJXRktVVzdYLU0wZ2pvWXBKeWJINzhrSWlCVGxJeXBWUEhmdFhlU3ZmNS1kSGN4aXl0eFhjeVJFTVpxWTdOQ2tfSkF5Vjd4S2s0SVloaXc5UDE3Yw?oc=5",
+      "published": "2026-11-22T05:30:31+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTdDdUEzLVZHVEthWFdvZ1pQMEV0ZzhwVTNxSXBnc0VMdG5MWmI4NXJoNl85OGFucnVZUFdFREhvRnVwNjR0YnIxYTlDV0VPRXdSOUJXRktVVzdYLU0wZ2pvWXBKeWJINzhrSWlCVGxJeXBWUEhmdFhlU3ZmNS1kSGN4aXl0eFhjeVJFTVpxWTdOQ2tfSkF5Vjd4S2s0SVloaXc5UDE3Yw?oc=5",
+          "article_url": "https://www.imdb.com/it/imdbpicks/nicole-kidman-through-the-years/rg1571461888/mediaviewer/rm1802506240/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
+    }
+  ]
+}

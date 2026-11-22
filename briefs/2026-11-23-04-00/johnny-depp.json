@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Johnny Depp",
+  "stories": [
+    {
+      "title": "Johnny Depp’s ‘Ebenezer’ Gets Swept Aside in Its Second Weekend as ‘The Hunger Games’ Takes Over",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LUDdBR20xQjZod29WOFNnWDFab251cjMtXzFyaUpQTS00SUNXTUt6VE1EV0k5dndJdHV1aFU0R3FLQndUX1drRlRkemxkVl9tLUtYMHlxSGhRdEZKR0ZTSkpoVjRvN2dCak9n?oc=5",
+      "published": "2026-11-22T17:04:56+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LUDdBR20xQjZod29WOFNnWDFab251cjMtXzFyaUpQTS00SUNXTUt6VE1EV0k5dndJdHV1aFU0R3FLQndUX1drRlRkemxkVl9tLUtYMHlxSGhRdEZKR0ZTSkpoVjRvN2dCak9n?oc=5",
+          "article_url": "https://www.imdb.com/de/news/ni66123350/?ref_=ttnw_art_perm",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Johnny Depp’s Embarrassing Early Lead: Looking Back at 'Private Resort' (1985)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVng1YVMtVXBYaEg0b1hyTHNNQmFObHcxN0JSLWN3MHoySDFlVFBzY3Z5cGVsdmNheVcwT1R6ZmEzbWV1TElxbmRrUkoyN1BhczBmWmhnWUxWZWF4bE5leUJHQ2Q5eTlQTHpuaEpidlJuT1lydUdSTFdyWFVTbGd6el9HSHR5MjBJWlJXT2VVZGEtNl83Rm92T1hselRaZHM?oc=5",
+      "published": "2026-11-22T02:33:58+00:00",
+      "outlets": [
+        {
+          "source": "Vocal",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVng1YVMtVXBYaEg0b1hyTHNNQmFObHcxN0JSLWN3MHoySDFlVFBzY3Z5cGVsdmNheVcwT1R6ZmEzbWV1TElxbmRrUkoyN1BhczBmWmhnWUxWZWF4bE5leUJHQ2Q5eTlQTHpuaEpidlJuT1lydUdSTFdyWFVTbGd6el9HSHR5MjBJWlJXT2VVZGEtNl83Rm92T1hselRaZHM?oc=5",
+          "article_url": "https://vocal.media/geeks/johnny-depps-embarrassing-early-lead-looking-back-at-private-resort-1985",
+          "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/CmhY0rd6BKvVroUfoILk9DQ-6Sw.png"
+        }
+      ],
+      "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/CmhY0rd6BKvVroUfoILk9DQ-6Sw.png",
+      "image_source": "https://vocal.media/geeks/johnny-depps-embarrassing-early-lead-looking-back-at-private-resort-1985"
+    }
+  ]
+}

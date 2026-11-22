@@ -1,0 +1,49 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Nathan Fielder",
+  "stories": [
+    {
+      "title": "Georgia Maq Shares New Single, Wins Nathan Fielder Lookalike Contest",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXgydzh4RF9DQUdXLTZNZ1BCbmxQay03M3c4ci1hNVJpbzhFbUdpWTNvWXNTcFluV2Z0MVh2cm4xWDRwSFEzbTF2Y1dQTTdBYmxLdjItdVExS21mcVBGNDRlODFmbFNIUmNKZkhrcGxieXN4RnRUelJSYmF0NjU0Q1RxcEgtMWg5RHh6RTcyVFRMOWpGQkoyOC1UMzRLVTFXek92UA?oc=5",
+      "published": "2026-11-22T16:36:00+00:00",
+      "outlets": [
+        {
+          "source": "Stereogum",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXgydzh4RF9DQUdXLTZNZ1BCbmxQay03M3c4ci1hNVJpbzhFbUdpWTNvWXNTcFluV2Z0MVh2cm4xWDRwSFEzbTF2Y1dQTTdBYmxLdjItdVExS21mcVBGNDRlODFmbFNIUmNKZkhrcGxieXN4RnRUelJSYmF0NjU0Q1RxcEgtMWg5RHh6RTcyVFRMOWpGQkoyOC1UMzRLVTFXek92UA?oc=5",
+          "article_url": "https://stereogum.com/2519654/georgia-maq-shares-new-single-wins-nathan-fielder-lookalike-contest/news",
+          "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/nathan-field-her.png"
+        }
+      ],
+      "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/nathan-field-her.png",
+      "image_source": "https://stereogum.com/2519654/georgia-maq-shares-new-single-wins-nathan-fielder-lookalike-contest/news"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "You Can See Everything",
+      "release": "2026-09-06",
+      "director": [
+        "Lance Oppenheim",
+        "Nathan Fielder"
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Christopher Abbott"
+      ],
+      "budget_usd": 7000000,
+      "box_office_usd": 93000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 13.29,
+      "rotten_tomatoes": "97% from 229 reviews",
+      "metacritic": "97/100 from 43 critics",
+      "critics_consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+      "critics_overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+        "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+      }
+    }
+  ]
+}

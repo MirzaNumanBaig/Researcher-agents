@@ -1,0 +1,66 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Wrexham co-owner Ryan Reynolds watches Tottenham win as Williams-Barnett stars",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTE1UXBhaW1oQkhjczFnRnNLQzBOTXU1Tkh4aDlTN09NY3NGOXJvX201MmFlczhWM0lEcG9WdWZyaXNPU2Jhai1BS0FPcWpCSEwxeEV4d3JQRFFRLTU5aEhocm1iZVdOWUE5QjJscmtNQWVwMzA5cl9la09sZUREd3gyemptWnBuVTRueURscWJBOEhfMG44RVVmaUc?oc=5",
+      "published": "2026-11-22T16:38:03+00:00",
+      "outlets": [
+        {
+          "source": "Leader Live",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTE1UXBhaW1oQkhjczFnRnNLQzBOTXU1Tkh4aDlTN09NY3NGOXJvX201MmFlczhWM0lEcG9WdWZyaXNPU2Jhai1BS0FPcWpCSEwxeEV4d3JQRFFRLTU5aEhocm1iZVdOWUE5QjJscmtNQWVwMzA5cl9la09sZUREd3gyemptWnBuVTRueURscWJBOEhfMG44RVVmaUc?oc=5",
+          "article_url": "https://www.leaderlive.co.uk/sport/26752004.wrexham-co-owner-ryan-reynolds-takes-tottenham-game/",
+          "image": "https://www.leaderlive.co.uk/resources/images/21749479.jpg?type=og-image"
+        }
+      ],
+      "image": "https://www.leaderlive.co.uk/resources/images/21749479.jpg?type=og-image",
+      "image_source": "https://www.leaderlive.co.uk/sport/26752004.wrexham-co-owner-ryan-reynolds-takes-tottenham-game/"
+    },
+    {
+      "title": "Ryan Reynolds Accused Of 'Bullying' His Team As Clip Of 'Cruel' Prank Resurfaces: 'It's Not Funny'",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDZjODFpMnBLRWw0Qm9tS3lLWGw5UDZTX0NqUG1TRU0yQWVwVFp6MklCOG9JODUxWTBQYm9tX19LR1NJNmdUN213MnpPODhYRE9JLWJHU1l5SGhqRWFDckU0dUVNcEdZU0pGZEZVNTZYYzlpVWd4RF9YZ1gwQXZISzh6WEFCVXQzbWdqbWt0aTRPbFR3by1lcmRLMjlqbGE0T3k2cHg2aEo?oc=5",
+      "published": "2026-11-22T04:45:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDZjODFpMnBLRWw0Qm9tS3lLWGw5UDZTX0NqUG1TRU0yQWVwVFp6MklCOG9JODUxWTBQYm9tX19LR1NJNmdUN213MnpPODhYRE9JLWJHU1l5SGhqRWFDckU0dUVNcEdZU0pGZEZVNTZYYzlpVWd4RF9YZ1gwQXZISzh6WEFCVXQzbWdqbWt0aTRPbFR3by1lcmRLMjlqbGE0T3k2cHg2aEo?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/ryan-reynolds-accused-bullying-team-044523942.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/246611cc8d9322df33486d437cba7d3ec2f6be1ba1d70074227cfe5f6194d947/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshefinds_255%2Fe3dc0f9f2549d71bcdf82ac31ec922a9.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/246611cc8d9322df33486d437cba7d3ec2f6be1ba1d70074227cfe5f6194d947/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshefinds_255%2Fe3dc0f9f2549d71bcdf82ac31ec922a9.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/articles/ryan-reynolds-accused-bullying-team-044523942.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

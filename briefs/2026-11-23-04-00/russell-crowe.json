@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-23 04:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "How a $1m gamble shaped Russell Crowe’s performance in ‘A Beautiful Mind’",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaEpkbmFOdEhPSUVfVFBkTVRtbnEwQ0QxRFhhNmNCV29DX1RQM21OWnF3SU1jQXNEa3hNRDRxS0NHSDE4bm5fTEtQQzNqS1BBTmlCMXZKWFc5YWduOV9mZ09uNmRCazlvOWhFVHlKcklPaDlmbUt1ZkV2M2dVQVJFd3p6VS1Fb01pQVYzNWVrVUE3SGUyMUg5Vjhwc0F3amdRcXg0dDV0UVJKVlBEaUdIR1h3Q2p3czhFSUhUd2dxUDI2YXdR?oc=5",
+      "published": "2026-11-22T11:36:16+00:00",
+      "outlets": [
+        {
+          "source": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaEpkbmFOdEhPSUVfVFBkTVRtbnEwQ0QxRFhhNmNCV29DX1RQM21OWnF3SU1jQXNEa3hNRDRxS0NHSDE4bm5fTEtQQzNqS1BBTmlCMXZKWFc5YWduOV9mZ09uNmRCazlvOWhFVHlKcklPaDlmbUt1ZkV2M2dVQVJFd3p6VS1Fb01pQVYzNWVrVUE3SGUyMUg5Vjhwc0F3amdRcXg0dDV0UVJKVlBEaUdIR1h3Q2p3czhFSUhUd2dxUDI2YXdR?oc=5",
+          "article_url": "https://www.thedailystar.net/culture/entertainment/news/how-1m-gamble-shaped-russell-crowes-performance-beautiful-mind-4330336",
+          "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg"
+        }
+      ],
+      "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+      "image_source": "https://www.thedailystar.net/culture/entertainment/news/how-1m-gamble-shaped-russell-crowes-performance-beautiful-mind-4330336"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Unabomber",
+      "release": "2026-09-25",
+      "director": [
+        "Janus Metz Pedersen"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "25%",
+      "metacritic": "46/100 from 18 critics",
+      "critics_consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+      "critics_overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+      }
+    }
+  ]
+}
