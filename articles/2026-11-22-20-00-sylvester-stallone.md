@@ -5,7 +5,7 @@ seo_title: "I Play Rocky Oscars Odds: Best Casting Is Closest"
 seo_description: "I Play Rocky Oscars odds: Gold Derby sees Best Casting as the film's best shot, with Best Actor and Best Picture a tougher climb. Here is the picture."
 focus_keyword: "I Play Rocky Oscars odds"
 permalink: "i-play-rocky-oscars-odds"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 20:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "Rocky", "Anthony Ippolito", "Tom Cruise"]
 image_prompt: "An empty vintage cinema auditorium with red seats and a glowing screen, a gold statuette on a velvet ledge in the foreground"
 sources:
   - "https://www.goldderby.com/film/2026/i-play-rocky-oscars-odds-analysis/"
+image: "images/2026-11-22-20-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588422376\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588422376\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3364
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-20-00-sylvester-stallone-768x432.webp"
+wp_id: 3365
+wp_link: "https://moduscarry.com/i-play-rocky-oscars-odds/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

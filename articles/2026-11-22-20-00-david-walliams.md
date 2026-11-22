@@ -5,7 +5,7 @@ seo_title: "David Walliams HarperCollins Inquiry: What The Observer Reports"
 seo_description: "David Walliams HarperCollins inquiry: The Observer says the publisher investigated in 2023, two years before it dropped him. Walliams denies wrongdoing."
 focus_keyword: "David Walliams HarperCollins inquiry"
 permalink: "david-walliams-harpercollins-inquiry"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 20:00"
 celebrity: "David Walliams"
@@ -14,6 +14,15 @@ tags: ["David Walliams", "HarperCollins"]
 image_prompt: "A quiet bookshop shelf of children's books under soft evening light, with an empty reading chair beside it."
 sources:
   - "https://observer.co.uk/news/national/article/david-walliamss-publisher-initiated-internal-inquiry-two-years-before-he-was-dropped"
+image: "images/2026-11-22-20-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_(6745348487).jpg\" rel=\"noopener\">Sean Reynolds from Liverpool, United Kingdom</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_(6745348487).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3354
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-20-00-david-walliams-768x432.webp"
+wp_id: 3355
+wp_link: "https://moduscarry.com/david-walliams-harpercollins-inquiry/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

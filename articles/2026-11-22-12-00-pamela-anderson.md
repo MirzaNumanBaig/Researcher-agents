@@ -24,6 +24,7 @@ wp_id: 3343
 wp_link: "https://moduscarry.com/pamela-anderson-berry-lipstick/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
