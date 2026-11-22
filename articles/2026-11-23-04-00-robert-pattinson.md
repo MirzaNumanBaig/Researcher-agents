@@ -25,6 +25,7 @@ wp_id: 3385
 wp_link: "https://moduscarry.com/robert-pattinson-bond-odyssey-screening/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

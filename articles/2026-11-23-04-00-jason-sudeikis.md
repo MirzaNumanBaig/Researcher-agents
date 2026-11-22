@@ -24,6 +24,7 @@ wp_id: 3375
 wp_link: "https://moduscarry.com/jason-sudeikis-basketball-jason-williams/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
