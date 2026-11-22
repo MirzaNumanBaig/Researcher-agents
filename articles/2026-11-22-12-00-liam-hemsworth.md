@@ -23,6 +23,7 @@ wp_id: 3335
 wp_link: "https://moduscarry.com/liam-hemsworth-non-compos-mentis/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

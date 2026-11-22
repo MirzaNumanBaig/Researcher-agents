@@ -28,6 +28,7 @@ wp_id: 3325
 wp_link: "https://moduscarry.com/street-fighter-box-office-screens-godzilla/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

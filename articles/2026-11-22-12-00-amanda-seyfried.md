@@ -25,6 +25,7 @@ wp_id: 3333
 wp_link: "https://moduscarry.com/amanda-seyfried-steps-netflix-soundtrack/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

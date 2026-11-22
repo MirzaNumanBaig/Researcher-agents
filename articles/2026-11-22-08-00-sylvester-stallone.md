@@ -24,6 +24,7 @@ wp_id: 3327
 wp_link: "https://moduscarry.com/sylvester-stallone-alarum/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
