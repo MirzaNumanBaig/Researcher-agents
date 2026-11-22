@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-06",
-   "time": "2026-11-06T03:30:30+00:00",
-   "batch": "2026-11-06 14:00",
-   "celebrity": "Ryan Gosling",
-   "article": "2026-11-06-14-00-ryan-gosling.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 18,
-   "output_tokens": 4248,
-   "cache_read_tokens": 252196,
-   "cache_write_tokens": 24561,
-   "turns": 11,
-   "seconds": 53,
-   "cost_usd": 0.1793
-  },
-  {
-   "date": "2026-11-06",
    "time": "2026-11-06T03:31:50+00:00",
    "batch": "2026-11-06 14:00",
    "celebrity": "Seth Rogen",
@@ -23999,6 +23983,22 @@
    "turns": 6,
    "seconds": 7,
    "cost_usd": 0.0984
+  },
+  {
+   "date": "2026-11-22",
+   "time": "2026-11-22T18:15:59+00:00",
+   "batch": "2026-11-23 04:00",
+   "celebrity": "Ryan Reynolds",
+   "article": "2026-11-23-04-00-ryan-reynolds.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 1730,
+   "cache_read_tokens": 205327,
+   "cache_write_tokens": 27097,
+   "turns": 9,
+   "seconds": 14,
+   "cost_usd": 0.1464
   }
  ]
 }
