@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-06",
-   "time": "2026-11-06T03:28:08+00:00",
-   "batch": "2026-11-06 14:00",
-   "celebrity": "Pamela Anderson",
-   "article": "2026-11-06-14-00-pamela-anderson.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 3047,
-   "cache_read_tokens": 144355,
-   "cache_write_tokens": 22787,
-   "turns": 8,
-   "seconds": 21,
-   "cost_usd": 0.1362
-  },
-  {
-   "date": "2026-11-06",
    "time": "2026-11-06T03:30:30+00:00",
    "batch": "2026-11-06 14:00",
    "celebrity": "Ryan Gosling",
@@ -23999,6 +23983,22 @@
    "turns": 8,
    "seconds": 11,
    "cost_usd": 0.1183
+  },
+  {
+   "date": "2026-11-22",
+   "time": "2026-11-22T18:14:01+00:00",
+   "batch": "2026-11-23 04:00",
+   "celebrity": "Ryan Gosling",
+   "article": "2026-11-23-04-00-ryan-gosling.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 879,
+   "cache_read_tokens": 79163,
+   "cache_write_tokens": 20372,
+   "turns": 6,
+   "seconds": 7,
+   "cost_usd": 0.0984
   }
  ]
 }
