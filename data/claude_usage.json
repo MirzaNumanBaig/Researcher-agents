@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-06",
-   "time": "2026-11-06T03:16:02+00:00",
-   "batch": "2026-11-06 14:00",
-   "celebrity": "Hugh Jackman",
-   "article": "2026-11-06-14-00-hugh-jackman.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 14,
-   "output_tokens": 1790,
-   "cache_read_tokens": 251145,
-   "cache_write_tokens": 29399,
-   "turns": 11,
-   "seconds": 21,
-   "cost_usd": 0.1608
-  },
-  {
-   "date": "2026-11-06",
    "time": "2026-11-06T03:18:22+00:00",
    "batch": "2026-11-06 14:00",
    "celebrity": "Keanu Reeves",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 11,
    "cost_usd": 0.1256
+  },
+  {
+   "date": "2026-11-22",
+   "time": "2026-11-22T18:03:16+00:00",
+   "batch": "2026-11-23 04:00",
+   "celebrity": "Martin McDonagh",
+   "article": "2026-11-23-04-00-martin-mcdonagh.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 1055,
+   "cache_read_tokens": 81029,
+   "cache_write_tokens": 22356,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.1082
   }
  ]
 }
