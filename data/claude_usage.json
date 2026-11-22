@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-06",
-   "time": "2026-11-06T03:31:50+00:00",
-   "batch": "2026-11-06 14:00",
-   "celebrity": "Seth Rogen",
-   "article": "2026-11-06-14-00-seth-rogen.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 4041,
-   "cache_read_tokens": 181859,
-   "cache_write_tokens": 23745,
-   "turns": 9,
-   "seconds": 31,
-   "cost_usd": 0.1537
-  },
-  {
-   "date": "2026-11-06",
    "time": "2026-11-06T11:50:29+00:00",
    "batch": "2026-11-06 22:00",
    "celebrity": "Cate Blanchett",
@@ -23999,6 +23983,22 @@
    "turns": 9,
    "seconds": 14,
    "cost_usd": 0.1464
+  },
+  {
+   "date": "2026-11-22",
+   "time": "2026-11-22T18:18:17+00:00",
+   "batch": "2026-11-23 04:00",
+   "celebrity": "Scarlett Johansson",
+   "article": "2026-11-23-04-00-scarlett-johansson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3595,
+   "cache_read_tokens": 125326,
+   "cache_write_tokens": 28776,
+   "turns": 7,
+   "seconds": 26,
+   "cost_usd": 0.1637
   }
  ]
 }
