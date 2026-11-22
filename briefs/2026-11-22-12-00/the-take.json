@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-22 12:00",
+  "celebrity": "The Take",
+  "stories": [
+    {
+      "title": "The Take books Denzel Washington, Robert Pattinson and Daisy Edgar-Jones for a January 15 bank job",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rVUl5ZkszcnM0OG55YTBhVU02OHJieVFVTTlTU0lvTkFCMGFIcXhhVE9fX0JDZ29hbDVKU2NIQWZEcDdfdzlhZkxTVWxrcjBH?oc=5",
+      "published": "2026-11-21T21:41:49+00:00",
+      "outlets": [
+        {
+          "source": "Digg",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rVUl5ZkszcnM0OG55YTBhVU02OHJieVFVTTlTU0lvTkFCMGFIcXhhVE9fX0JDZ29hbDVKU2NIQWZEcDdfdzlhZkxTVWxrcjBH?oc=5",
+          "article_url": "https://digg.com/entertainment/hwdo213w",
+          "image": "https://digg.com/entertainment/hwdo213w/opengraph-image?6a9dc854e855d953"
+        }
+      ],
+      "image": "https://digg.com/entertainment/hwdo213w/opengraph-image?6a9dc854e855d953",
+      "image_source": "https://digg.com/entertainment/hwdo213w"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    }
+  ]
+}

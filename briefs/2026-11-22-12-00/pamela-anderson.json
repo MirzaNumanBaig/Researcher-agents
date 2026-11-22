@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-22 12:00",
+  "celebrity": "Pamela Anderson",
+  "stories": [
+    {
+      "title": "Brooks Nader Revives Baywatch Look as Pamela Anderson Embraces Softer Glamour",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zZTlibHpYckdpb1RwTU54N1JBaExyUEJodlhJZEZwOWplb3A1emg4ZU1haThRSXg1eHFoRy1TNWhfRGtqTHNydElOcTIwMWIteG9YbEVldzh4WGdUUnh2cl96cw?oc=5",
+      "published": "2026-11-21T23:24:00+00:00",
+      "outlets": [
+        {
+          "source": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zZTlibHpYckdpb1RwTU54N1JBaExyUEJodlhJZEZwOWplb3A1emg4ZU1haThRSXg1eHFoRy1TNWhfRGtqTHNydElOcTIwMWIteG9YbEVldzh4WGdUUnh2cl96cw?oc=5",
+          "article_url": "https://cwibc.co.id/en/nader-anderson-baywatch-beauty",
+          "image": "https://cdn.cwibc.co.id/media/images/2026/11/Ab8BuiiLNb.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+        }
+      ],
+      "image": "https://cdn.cwibc.co.id/media/images/2026/11/Ab8BuiiLNb.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+      "image_source": "https://cwibc.co.id/en/nader-anderson-baywatch-beauty"
+    },
+    {
+      "title": "Brooks Nader In Plunging ‘Baywatch’ Swimsuit Looks ‘Like A Temu Pamela Anderson’",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KM1NWUHExMjBWLVppaUR6OUc3QzQ5QUlTU2hrYU56MElKVVlCak1MWDdsMXpCLUM0N1pFY18wZ2JUTkJyUmU2VXAtSjN4bmxNUUpSMlY1ZkVST09sdEkybS1PUjlPVk9nTFpfZ0pNTm43eGJ5bF9Z?oc=5",
+      "published": "2026-11-21T22:01:31+00:00",
+      "outlets": [
+        {
+          "source": "The Blast",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KM1NWUHExMjBWLVppaUR6OUc3QzQ5QUlTU2hrYU56MElKVVlCak1MWDdsMXpCLUM0N1pFY18wZ2JUTkJyUmU2VXAtSjN4bmxNUUpSMlY1ZkVST09sdEkybS1PUjlPVk9nTFpfZ0pNTm43eGJ5bF9Z?oc=5",
+          "article_url": "https://theblast.com/888835/brooks-nader-baywatch-looks-temu-pamela/",
+          "image": "https://media.theblast.com/wp-content/uploads/2026/11/Brooks-nader-vt2-13000.jpg"
+        }
+      ],
+      "image": "https://media.theblast.com/wp-content/uploads/2026/11/Brooks-nader-vt2-13000.jpg",
+      "image_source": "https://theblast.com/888835/brooks-nader-baywatch-looks-temu-pamela/"
+    }
+  ]
+}

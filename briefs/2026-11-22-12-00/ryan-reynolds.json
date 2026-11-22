@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-22 12:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Blake Lively's Career Setbacks Affect Ryan Reynolds Marriage",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wTTdmRGk3bUxxdlQ1dGQ3OV9ZbDVvamVIVXdVamdadzVxUzdRVG02aFZKT29ibkZ3ajRUT3BxWXdIcVRMS1pJLThXNF8xTmNXVHVpdl9UUFE2eEZFN0NqU1NEcGlSZElTSzVPLVZYcWVreUxocVFHZw?oc=5",
+      "published": "2026-11-21T22:54:29+00:00",
+      "outlets": [
+        {
+          "source": "The Blast",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wTTdmRGk3bUxxdlQ1dGQ3OV9ZbDVvamVIVXdVamdadzVxUzdRVG02aFZKT29ibkZ3ajRUT3BxWXdIcVRMS1pJLThXNF8xTmNXVHVpdl9UUFE2eEZFN0NqU1NEcGlSZElTSzVPLVZYcWVreUxocVFHZw?oc=5",
+          "article_url": "https://theblast.com/888987/blake-lively-ryan-reynolds-marriage-toll/",
+          "image": "https://media.theblast.com/wp-content/uploads/2025/02/blake-lively-ryan-reynolds-snl-scaled-1600x900.jpg"
+        }
+      ],
+      "image": "https://media.theblast.com/wp-content/uploads/2025/02/blake-lively-ryan-reynolds-snl-scaled-1600x900.jpg",
+      "image_source": "https://theblast.com/888987/blake-lively-ryan-reynolds-marriage-toll/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

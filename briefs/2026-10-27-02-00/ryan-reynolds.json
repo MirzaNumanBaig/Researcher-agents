@@ -139,6 +139,51 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "Nicolas Cage & Ryan Reynolds' $587M Fantasy Adventure Hit Comes To Netflix In 2 Weeks",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sTUFmcGo1YWxhdEhLYVRtcXZMTTdDUlh1Sm1TeVVLZ2xzeDRsS3VacVJMc2Z4WkxVWnlqX3hQUmpwR0FFRzJkdkc5MVBYMl9IVnc?oc=5",
+      "published": "2026-11-21T20:11:49+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sTUFmcGo1YWxhdEhLYVRtcXZMTTdDUlh1Sm1TeVVLZ2xzeDRsS3VacVJMc2Z4WkxVWnlqX3hQUmpwR0FFRzJkdkc5MVBYMl9IVnc?oc=5",
+          "article_url": "https://www.imdb.com/fr/news/ni66078274/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
     }
   ]
 }

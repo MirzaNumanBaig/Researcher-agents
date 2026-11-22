@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-22 12:00",
+  "celebrity": "Callina Liang",
+  "stories": [
+    {
+      "title": "Street Fighter Removed From 900+ Theaters After Dropping Off Top 10 Chart",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45TUFDeER1dTB6bXVuVExFNWFMOGFLYXZRNmp2OXZPaDlhUlRTOXp5U21GaFNPU0RPdkhQUVZoTWIxLUI4NFMwSDhJZ3VXUQ?oc=5",
+      "published": "2026-11-21T22:28:01+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45TUFDeER1dTB6bXVuVExFNWFMOGFLYXZRNmp2OXZPaDlhUlRTOXp5U21GaFNPU0RPdkhQUVZoTWIxLUI4NFMwSDhJZ3VXUQ?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66111471/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Street Fighter",
+      "release": "2026-10-12",
+      "director": [
+        "Kitao Sakurai"
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Cody Rhodes",
+        "Orville Peck"
+      ],
+      "budget_usd": 82000000,
+      "box_office_usd": 100800000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.23,
+      "rotten_tomatoes": "42%",
+      "metacritic": "43/100 from 28 critics",
+      "critics_consensus": "The latest iteration of Street Fighter has plenty of affection for its source material and doesn't lack for dizzying style, but its incoherent storytelling and juvenile humor make for a disappointing regression among video game adaptations.",
+      "critics_overview": "It received a 65% definite recommend for children under 12. The audience was 30% Latino and Hispanic, 29% Caucasian, 21% Black, 14% Asian American and 6% Native American or Other.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q130345436",
+        "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+      }
+    }
+  ]
+}

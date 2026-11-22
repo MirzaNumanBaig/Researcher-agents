@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-22 12:00",
+  "celebrity": "Tom Hardy",
+  "stories": [
+    {
+      "title": "Tom Hardy’s Sci-Fi Masterpiece With His ‘Peaky Blinders’ Co-Star Is Officially a Streaming Sensation",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOekpyYWExSkM4YUQ4QTJyZmxaYk14VkRNOXBxNFlnNTZDUGJCOWZPaGcyLUl1SU1oSi12TFk1cDV6bkNBUGhGb0ZVOFRQTW1uc0NxRGhlMXB0SjM5a0FvZ3VwVlNTOENycnNvQmdxY1lnelE1amV3LWNBVUpVVTBjWE13dU9KMHU0R3J6aE1xQmU?oc=5",
+      "published": "2026-11-22T00:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Collider",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOekpyYWExSkM4YUQ4QTJyZmxaYk14VkRNOXBxNFlnNTZDUGJCOWZPaGcyLUl1SU1oSi12TFk1cDV6bkNBUGhGb0ZVOFRQTW1uc0NxRGhlMXB0SjM5a0FvZ3VwVlNTOENycnNvQmdxY1lnelE1amV3LWNBVUpVVTBjWE13dU9KMHU0R3J6aE1xQmU?oc=5",
+          "article_url": "https://collider.com/tom-hardy-inception-streaming-success-pvod-100-days-november-2026/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/img_9232-1.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/img_9232-1.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://collider.com/tom-hardy-inception-streaming-success-pvod-100-days-november-2026/"
+    },
+    {
+      "title": "Tom Hardy's 10/10 Crime Show Is 1 Step Away From Becoming Peaky Blinders for the 2020s",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uSGZkTEpiTW5KTnNuRjBNaEZDUzBqdU9WaUUwc0Zra2ZVd0JKMnpvZFQ5akFmTWdQVHNCTVNfb1FsM3R2aG9yTnlRZ01FWWFnNUNzWVZzZ0psZUVOZ1dtWGZKZkV3QXVOMVBHczEwTQ?oc=5",
+      "published": "2026-11-21T23:05:50+00:00",
+      "outlets": [
+        {
+          "source": "Comic Book Resources",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uSGZkTEpiTW5KTnNuRjBNaEZDUzBqdU9WaUUwc0Zra2ZVd0JKMnpvZFQ5akFmTWdQVHNCTVNfb1FsM3R2aG9yTnlRZ01FWWFnNUNzWVZzZ0psZUVOZ1dtWGZKZkV3QXVOMVBHczEwTQ?oc=5",
+          "article_url": "https://www.cbr.com/tom-hardy-mobland-becoming-peaky-blinders/",
+          "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/tom-hardy-standing-in-a-doorway-in-mobland.jpg?w=1200&h=675&fit=crop"
+        }
+      ],
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/tom-hardy-standing-in-a-doorway-in-mobland.jpg?w=1200&h=675&fit=crop",
+      "image_source": "https://www.cbr.com/tom-hardy-mobland-becoming-peaky-blinders/"
+    }
+  ]
+}

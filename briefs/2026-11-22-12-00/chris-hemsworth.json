@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-22 12:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "Police Recover Three Vehicles Stolen From Hemsworth Property",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtMkhPTjhCWGxRNEczTUdzZ3JQcDlDdUo1R2l5Z0pNVk9LWnJqekh3bXlPYkJRaEl1SDFpbTY5ZjJHelVfbzhOajJUaWdqZzI0a3JFZ0FSMWlid254d2psRUpxUXpvTVdaYUwxclpscw?oc=5",
+      "published": "2026-11-22T01:18:29+00:00",
+      "outlets": [
+        {
+          "source": "Limapagi",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtMkhPTjhCWGxRNEczTUdzZ3JQcDlDdUo1R2l5Z0pNVk9LWnJqekh3bXlPYkJRaEl1SDFpbTY5ZjJHelVfbzhOajJUaWdqZzI0a3JFZ0FSMWlid254d2psRUpxUXpvTVdaYUwxclpscw?oc=5",
+          "article_url": "https://www.limapagi.id/en/hemsworth-stolen-vehicles-recovered",
+          "image": "https://cdn.limapagi.id/media/images/2026/11/sxOG2K8lD4.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+        }
+      ],
+      "image": "https://cdn.limapagi.id/media/images/2026/11/sxOG2K8lD4.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+      "image_source": "https://www.limapagi.id/en/hemsworth-stolen-vehicles-recovered"
+    },
+    {
+      "title": "Police Arrest Teenager in Chris Hemsworth Home Burglary",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zRVNvbUhobENJckx4UGdHNkJPVUNQbUtZTS1icldpU2x3dmNqdkMxdUVFQy1JeFg0dXg4b3Y5TEVraUdYWXJBSll1QWdJSFF6SThxbnlrX2IzcDZILVV3WW9n?oc=5",
+      "published": "2026-11-22T00:59:55+00:00",
+      "outlets": [
+        {
+          "source": "bsinews.id",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zRVNvbUhobENJckx4UGdHNkJPVUNQbUtZTS1icldpU2x3dmNqdkMxdUVFQy1JeFg0dXg4b3Y5TEVraUdYWXJBSll1QWdJSFF6SThxbnlrX2IzcDZILVV3WW9n?oc=5",
+          "article_url": "https://bsinews.id/en/hemsworth-home-burglary-arrest",
+          "image": "https://cdn.bsinews.id/media/images/2026/11/jSaZsBybSP.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+        }
+      ],
+      "image": "https://cdn.bsinews.id/media/images/2026/11/jSaZsBybSP.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+      "image_source": "https://bsinews.id/en/hemsworth-home-burglary-arrest"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "batch": "2026-11-22 12:00",
+  "celebrity": "Guy Pearce",
+  "stories": [
+    {
+      "title": "Guy Pearce's Remake Of A '60s Sci-Fi Classic Deserved Better At The Box Office",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0LVo4UFduNG5RNmtKWEhFeE9uZXZvM290bEh3d3Q1VFV2Tlk3cVV4cFRVSFd1LVVXVFU2Nm9SVFZWNFpLb1BiTWtXcU5VMzdyc2U4VEdLTnJQS1hvV1F2dEIyeEVYWURzVnc?oc=5",
+      "published": "2026-11-22T01:38:52+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0LVo4UFduNG5RNmtKWEhFeE9uZXZvM290bEh3d3Q1VFV2Tlk3cVV4cFRVSFd1LVVXVFU2Nm9SVFZWNFpLb1BiTWtXcU5VMzdyc2U4VEdLTnJQS1hvV1F2dEIyeEVYWURzVnc?oc=5",
+          "article_url": "https://www.imdb.com/fr/news/ni66122752/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDZzdUhNY2VwQWQ1Skd0MmhPbm5aRDFpdUV1MWxyV014TDBfRnptTWJzd1Y0SUdaZEc5TGNUSDE0TzNzSV82NVZNVU8zTkNPNGhzRUlCdjk0dHVQV3lBU0JSYXpHMHo5cXZZcnEzdnRFUVRxbmpyVlZSbmdTOXUxV3diYS1rMVpybFFOZk91WQ?oc=5",
+          "article_url": "https://www.slashfilm.com/2310492/guy-pearce-remake-60s-sci-fi-movie-the-time-machine/",
+          "image": "https://www.slashfilm.com/img/gallery/guy-pearces-remake-of-a-60s-sci-fi-classic-deserved-better-at-the-box-office/l-intro-1793987934.jpg"
+        }
+      ],
+      "image": "https://www.slashfilm.com/img/gallery/guy-pearces-remake-of-a-60s-sci-fi-classic-deserved-better-at-the-box-office/l-intro-1793987934.jpg",
+      "image_source": "https://www.slashfilm.com/2310492/guy-pearce-remake-60s-sci-fi-movie-the-time-machine/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Ink",
+      "release": "2026-09-02",
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Guy Pearce",
+        "Jack O'Connell",
+        "Claire Foy",
+        "Blake Harrison",
+        "Patrick Kennedy"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "73%",
+      "metacritic": "78/100 from 21 critics",
+      "critics_consensus": "Capturing the amoral thrill of",
+      "critics_overview": "In a positive review David Rooney of The Hollywood Reporter described the film as \"a rise-and-fall story, played with aggressive self-determination but not monomaniacal monstrousness by O’Connell\", prising the film nature in reporting \"a chronicle of the degradation of what passes for news reporting\". Award Date of ceremony Category Recipient(s) Result Ref.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136391219",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ink_(2026_film)"
+      }
+    },
+    {
+      "title": "The Dog Stars",
+      "release": "2026-08-26",
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Jacob Elordi",
+        "Margaret Qualley",
+        "Josh Brolin",
+        "Guy Pearce",
+        "Benedict Wong"
+      ],
+      "budget_usd": 70000000,
+      "box_office_usd": 39000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 0.56,
+      "rotten_tomatoes": "41%",
+      "metacritic": "49/100 from 46 critics",
+      "critics_consensus": "A derivative and drowsy tour through the post-apocalypse, The Dog Stars' lush visuals can't compensate for its listless narrative and underpowered pacing.",
+      "critics_overview": "In the United States and Canada, The Dog Stars was released alongside Buddy, Coyote vs. Robert Daniels of RogerEbert.com gave the film one and a half out of four stars, writing, \"It probably takes more effort to make a boring post-apocalyptic survivalist action film than to make a good one.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132256832",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Dog_Stars_(film)"
+      }
+    }
+  ]
+}

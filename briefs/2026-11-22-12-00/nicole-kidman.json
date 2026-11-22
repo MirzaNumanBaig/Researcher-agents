@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-22 12:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Nicole Kidman Brings Sculptural Trousers to New York Fashion",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYMDNoRmdQOGh0YW12T2ZlV3NJc0tCSzUzbUZ1czdjTU9Nd1Z2QkQzWlhKY2NtdV96ZUVLbjMwSnI0MzBCblp0ODc5VDFyVFZUaUJ3dE5obVhGNFljZlNPY0R5Y1hORTg?oc=5",
+      "published": "2026-11-21T21:58:00+00:00",
+      "outlets": [
+        {
+          "source": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYMDNoRmdQOGh0YW12T2ZlV3NJc0tCSzUzbUZ1czdjTU9Nd1Z2QkQzWlhKY2NtdV96ZUVLbjMwSnI0MzBCblp0ODc5VDFyVFZUaUJ3dE5obVhGNFljZlNPY0R5Y1hORTg?oc=5",
+          "article_url": "https://cwibc.co.id/en/nicole-kidman-sculptural-trousers",
+          "image": "https://cdn.cwibc.co.id/media/images/2026/11/KziaHNy5IL.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+        }
+      ],
+      "image": "https://cdn.cwibc.co.id/media/images/2026/11/KziaHNy5IL.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+      "image_source": "https://cwibc.co.id/en/nicole-kidman-sculptural-trousers"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
+    }
+  ]
+}

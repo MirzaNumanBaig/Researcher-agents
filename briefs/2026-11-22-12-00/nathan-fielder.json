@@ -1,0 +1,64 @@
+{
+  "batch": "2026-11-22 12:00",
+  "celebrity": "Nathan Fielder",
+  "stories": [
+    {
+      "title": "5 Nathan Fielder Cameos You Probably Didn't Know",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tSUhhb196VzRsNDV2Nmo3c19OMk52X0pVdUlnc1dockFNNFlfQ0RtNzVhVDhnWHhSZUtSTE5tNnNhbmFSNWFqakRvTl9tVXkwMXFXTUtJQ24xdXlQZGhJdlNXWQ?oc=5",
+      "published": "2026-11-21T14:26:38+00:00",
+      "outlets": [
+        {
+          "source": "JustWatch",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tSUhhb196VzRsNDV2Nmo3c19OMk52X0pVdUlnc1dockFNNFlfQ0RtNzVhVDhnWHhSZUtSTE5tNnNhbmFSNWFqakRvTl9tVXkwMXFXTUtJQ24xdXlQZGhJdlNXWQ?oc=5",
+          "article_url": "https://guides.justwatch.com/uk/nathan-fielder-cameos",
+          "image": "https://guides.justwatch.com/sgassets/images/editorial/76916_nathan-fielder-cameos_1400.webp"
+        }
+      ],
+      "image": "https://guides.justwatch.com/sgassets/images/editorial/76916_nathan-fielder-cameos_1400.webp",
+      "image_source": "https://guides.justwatch.com/uk/nathan-fielder-cameos"
+    },
+    {
+      "title": "Every Nathan Fielder Show In Order",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sLVJKZmJ2RXJBRGhSNC1ZNlBIdWFYUUVxVjdzTnF2akxpcVFFTk9YX0FlUG9BWE90UkppeDRjckxnQ2dsZWI1VE9hMDJXVTdJdFYtUVpkVHVuMlltX3pISi1CQkpTRTZkVHAtcnRB?oc=5",
+      "published": "2026-11-20T12:04:32+00:00",
+      "outlets": [
+        {
+          "source": "JustWatch",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sLVJKZmJ2RXJBRGhSNC1ZNlBIdWFYUUVxVjdzTnF2akxpcVFFTk9YX0FlUG9BWE90UkppeDRjckxnQ2dsZWI1VE9hMDJXVTdJdFYtUVpkVHVuMlltX3pISi1CQkpTRTZkVHAtcnRB?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "You Can See Everything",
+      "release": "2026-09-06",
+      "director": [
+        "Lance Oppenheim",
+        "Nathan Fielder"
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Christopher Abbott"
+      ],
+      "budget_usd": 7000000,
+      "box_office_usd": 93000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 13.29,
+      "rotten_tomatoes": "97% from 229 reviews",
+      "metacritic": "97/100 from 43 critics",
+      "critics_consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+      "critics_overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+        "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+      }
+    }
+  ]
+}
