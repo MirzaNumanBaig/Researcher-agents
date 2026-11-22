@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-06",
-   "time": "2026-11-06T11:52:04+00:00",
-   "batch": "2026-11-06 22:00",
-   "celebrity": "Catherine O'Hara",
-   "article": "2026-11-06-22-00-catherine-o-hara.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 3926,
-   "cache_read_tokens": 142769,
-   "cache_write_tokens": 22741,
-   "turns": 9,
-   "seconds": 29,
-   "cost_usd": 0.1448
-  },
-  {
-   "date": "2026-11-06",
    "time": "2026-11-06T11:53:35+00:00",
    "batch": "2026-11-06 22:00",
    "celebrity": "Chris Hemsworth",
@@ -23999,6 +23983,22 @@
    "turns": 15,
    "seconds": 47,
    "cost_usd": 0.2354
+  },
+  {
+   "date": "2026-11-22",
+   "time": "2026-11-22T18:22:12+00:00",
+   "batch": "2026-11-23 04:00",
+   "celebrity": "Sylvester Stallone",
+   "article": "2026-11-23-04-00-sylvester-stallone.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3591,
+   "cache_read_tokens": 120227,
+   "cache_write_tokens": 25977,
+   "turns": 7,
+   "seconds": 27,
+   "cost_usd": 0.152
   }
  ]
 }
