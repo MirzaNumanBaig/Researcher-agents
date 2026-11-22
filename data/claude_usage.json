@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-05",
-   "time": "2026-11-05T08:01:29+00:00",
-   "batch": "2026-11-05 18:00",
-   "celebrity": "Michael J. Fox",
-   "article": "2026-11-05-18-00-michael-j-fox.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1023,
-   "cache_read_tokens": 108054,
-   "cache_write_tokens": 19414,
-   "turns": 7,
-   "seconds": 20,
-   "cost_usd": 0.0989
-  },
-  {
-   "date": "2026-11-05",
    "time": "2026-11-05T08:04:57+00:00",
    "batch": "2026-11-05 18:00",
    "celebrity": "Nicole Kidman",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 28,
    "cost_usd": 0.1522
+  },
+  {
+   "date": "2026-11-22",
+   "time": "2026-11-22T02:17:02+00:00",
+   "batch": "2026-11-22 12:00",
+   "celebrity": "Pamela Anderson",
+   "article": "2026-11-22-12-00-pamela-anderson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 16,
+   "output_tokens": 4622,
+   "cache_read_tokens": 305100,
+   "cache_write_tokens": 32550,
+   "turns": 11,
+   "seconds": 35,
+   "cost_usd": 0.2071
   }
  ]
 }
