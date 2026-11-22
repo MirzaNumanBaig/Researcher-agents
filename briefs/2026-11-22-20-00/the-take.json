@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-22 20:00",
+  "celebrity": "The Take",
+  "stories": [
+    {
+      "title": "The Take Movie: Showtimes, Review, Songs, Trailer, Posters, News & Videos | eTimes",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVBjaTZzRkJzZFdVRldfMFhRYmpZaXNSa2pILXlqTUJWZjFyR1k5VTR6ZkxrdlNfVVBjbWI2T19hVGxOMjVZdjhVZ1k5N2hHZVZiSmQwNjdyU0twZFhmVWc0T3JwNWZzbGlyQWs0TGhQN2h0WTE5U1RmWFZuck9xbzdTWjFHMWFMNnA5MEpYUFhNbnozRTAzR0xsT3k4VmJEOHlQLVJHQQ?oc=5",
+      "published": "2026-11-21T15:03:49+00:00",
+      "outlets": [
+        {
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVBjaTZzRkJzZFdVRldfMFhRYmpZaXNSa2pILXlqTUJWZjFyR1k5VTR6ZkxrdlNfVVBjbWI2T19hVGxOMjVZdjhVZ1k5N2hHZVZiSmQwNjdyU0twZFhmVWc0T3JwNWZzbGlyQWs0TGhQN2h0WTE5U1RmWFZuck9xbzdTWjFHMWFMNnA5MEpYUFhNbnozRTAzR0xsT3k4VmJEOHlQLVJHQQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    }
+  ]
+}

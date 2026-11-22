@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-22 20:00",
+  "celebrity": "Scarlett Johansson",
+  "stories": [
+    {
+      "title": "Scarlett Johansson Draws Attention Across Three Major Stories",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uUkdacHpXV3lpd0lVUkdOcVlJS2xtZVlyVG1YODJDMXBnUVJlbGhBemYyemtOQUdWdEFLR0l1ek1hOEpwaVFKU0RPN05lNm5zUDlESjQwYUNCYmdTMHJVTA?oc=5",
+      "published": "2026-11-22T04:32:53+00:00",
+      "outlets": [
+        {
+          "source": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uUkdacHpXV3lpd0lVUkdOcVlJS2xtZVlyVG1YODJDMXBnUVJlbGhBemYyemtOQUdWdEFLR0l1ek1hOEpwaVFKU0RPN05lNm5zUDlESjQwYUNCYmdTMHJVTA?oc=5",
+          "article_url": "https://cwibc.co.id/en/scarlett-johansson-film-news",
+          "image": "https://cdn.cwibc.co.id/media/images/2026/11/PGb8CLRsg1.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+        }
+      ],
+      "image": "https://cdn.cwibc.co.id/media/images/2026/11/PGb8CLRsg1.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+      "image_source": "https://cwibc.co.id/en/scarlett-johansson-film-news"
+    },
+    {
+      "title": "Jurassic World Rebirth Leaves Netflix as Johansson Draws Attention",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBUmJhTHRCbUlXQUFIR09RSFRwdUQwSmJ6WERWU3Q4aUlEbEFPNHNOQzRZVzB5WVgwTjJKQk1Sc19laTV6eWZzejVCc0prN0llZXIxOFFUaXFDQWVteTBUZ0dXWEFhNTlmSDNtaURkTkVkVVhz?oc=5",
+      "published": "2026-11-22T04:32:51+00:00",
+      "outlets": [
+        {
+          "source": "Demokratis.co.id",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBUmJhTHRCbUlXQUFIR09RSFRwdUQwSmJ6WERWU3Q4aUlEbEFPNHNOQzRZVzB5WVgwTjJKQk1Sc19laTV6eWZzejVCc0prN0llZXIxOFFUaXFDQWVteTBUZ0dXWEFhNTlmSDNtaURkTkVkVVhz?oc=5",
+          "article_url": "https://demokratis.co.id/en/jurassic-world-rebirth-netflix-removal",
+          "image": "https://cdn.demokratis.co.id/media/images/2026/11/4kuFUPyeoJ.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+        }
+      ],
+      "image": "https://cdn.demokratis.co.id/media/images/2026/11/4kuFUPyeoJ.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+      "image_source": "https://demokratis.co.id/en/jurassic-world-rebirth-netflix-removal"
+    }
+  ]
+}

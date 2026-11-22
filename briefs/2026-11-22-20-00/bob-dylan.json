@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-22 20:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "Bob Dylan manuscripts and 'McKenzie Tape' to be auctioned",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzlGczNtUjlmdzdRSkc4U2UzS0NibEtpem5uNm9aSWV2ZTR4eE9OeE52VklEa1BQb05QLVBqRFFfRjItX0xnZjZJUGZlVU1jelNwc3l2ZGl4STJ1Q182VUNhaEFrNDlfYWdmX285NjR1MjF1RERhSlA4ZGphTGY1VUFqSnVwY3pjYzljTHJfdG5fcG9jTTJCYXJ1Z0hZdl9oeGhmOTROSDQ0bXdCeHdOSnZR?oc=5",
+      "published": "2026-11-22T08:18:28+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzlGczNtUjlmdzdRSkc4U2UzS0NibEtpem5uNm9aSWV2ZTR4eE9OeE52VklEa1BQb05QLVBqRFFfRjItX0xnZjZJUGZlVU1jelNwc3l2ZGl4STJ1Q182VUNhaEFrNDlfYWdmX285NjR1MjF1RERhSlA4ZGphTGY1VUFqSnVwY3pjYzljTHJfdG5fcG9jTTJCYXJ1Z0hZdl9oeGhmOTROSDQ0bXdCeHdOSnZR?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/music/new-albums/articles/bob-dylan-manuscripts-mckenzie-tape-081828186.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/262083840b163a52df0f7c9850acc2620369177d18b0ec304cf18a233f0b57a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fdacddc2a57904b4c57eb6c84894f1e99.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/262083840b163a52df0f7c9850acc2620369177d18b0ec304cf18a233f0b57a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fdacddc2a57904b4c57eb6c84894f1e99.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/music/new-albums/articles/bob-dylan-manuscripts-mckenzie-tape-081828186.html"
+    },
+    {
+      "title": "Bob Dylan 22-Apr-1994 ~ Allen County War Memorial Coliseum, Fort Wayne, USA (Audio, Complete Set)",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GOXd3blNMZGgtSFgxV3k2czZpMnpGbHFhQV9LNEJPYWN2Y2ExWklGN0lnZ1NfUzJTQk5feDU0dzNQdw?oc=5",
+      "published": "2026-11-21T17:20:09+00:00",
+      "outlets": [
+        {
+          "source": "YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GOXd3blNMZGgtSFgxV3k2czZpMnpGbHFhQV9LNEJPYWN2Y2ExWklGN0lnZ1NfUzJTQk5feDU0dzNQdw?oc=5",
+          "article_url": "https://www.youtube.com/watch?v=xGG1WiSVfSs&feature=youtu.be",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "The Reason Bob Dylan Now Wishes He Had Left One of His Early Songs Alone",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xTVc4RVlDU25uMmh0ZVE3QlJJLXJTWi1vdnZ6dVFlN2g0ZndpeXMzQm1JelRlVnU3SVN4dTFoa1JDN05PZ3UzWUlELTZ0TXBfdUJtdVAzdEdSQUFJcHdsWUFVUTBSTHFScVZhNGViTHlfTGJuQmtKeU9jY0tGQQ?oc=5",
+      "published": "2026-11-21T16:17:56+00:00",
+      "outlets": [
+        {
+          "source": "AOL.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xTVc4RVlDU25uMmh0ZVE3QlJJLXJTWi1vdnZ6dVFlN2g0ZndpeXMzQm1JelRlVnU3SVN4dTFoa1JDN05PZ3UzWUlELTZ0TXBfdUJtdVAzdEdSQUFJcHdsWUFVUTBSTHFScVZhNGViTHlfTGJuQmtKeU9jY0tGQQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

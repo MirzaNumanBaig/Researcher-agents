@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-22 20:00",
+  "celebrity": "Tom Hardy",
+  "stories": [
+    {
+      "title": "Tom Hardy's 142-Minute Near-Perfect Miniseries Still Has Not Been Beaten",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96bm14MERfWHQ0cHpkbTJTSGRvc2hTWndzTHg4WmxBNHhoV0kyaWRVbkxiamR1LUEyelFkX1hmb3QxNmphclBDQkIwT1UwU041Sk1xcjU4WkFHcFpGa3JQbUt5S2FmNlplamZnUQ?oc=5",
+      "published": "2026-11-22T02:02:00+00:00",
+      "outlets": [
+        {
+          "source": "Collider",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96bm14MERfWHQ0cHpkbTJTSGRvc2hTWndzTHg4WmxBNHhoV0kyaWRVbkxiamR1LUEyelFkX1hmb3QxNmphclBDQkIwT1UwU041Sk1xcjU4WkFHcFpGa3JQbUt5S2FmNlplamZnUQ?oc=5",
+          "article_url": "https://collider.com/tom-hardy-wuthering-heights-miniseries/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/img_1839.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/img_1839.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://collider.com/tom-hardy-wuthering-heights-miniseries/"
+    }
+  ]
+}
