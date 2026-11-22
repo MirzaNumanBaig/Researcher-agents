@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson James Bond: Baggage, Amazon and The Take"
 seo_description: "Robert Pattinson James Bond debut is likely 2028. What Amazon's $1bn deal means for the role, and why Netflix's The Take lands first on 15 January."
 focus_keyword: "Robert Pattinson James Bond"
 permalink: "robert-pattinson-james-bond-baggage"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 12:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,15 @@ sources:
   - "https://www.theguardian.com/lifeandstyle/2026/nov/20/robert-pattinson-and-james-bonds-baggage-problem"
   - "https://digg.com/entertainment/hwdo213w"
   - "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+image: "images/2026-11-22-12-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3344
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-12-00-robert-pattinson-768x432.webp"
+wp_id: 3345
+wp_link: "https://moduscarry.com/robert-pattinson-james-bond-baggage/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

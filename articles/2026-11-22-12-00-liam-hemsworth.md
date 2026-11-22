@@ -5,7 +5,7 @@ seo_title: "Liam Hemsworth Non Compos Mentis Delayed by Offer"
 seo_description: "Liam Hemsworth's Non Compos Mentis was pushed back, says director Paul Schrader, after the actor got a US$6 million offer. Here is what we know."
 focus_keyword: "Liam Hemsworth Non Compos Mentis"
 permalink: "liam-hemsworth-non-compos-mentis"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 12:00"
 celebrity: "Liam Hemsworth"
@@ -14,6 +14,15 @@ tags: ["Liam Hemsworth", "Paul Schrader", "Non Compos Mentis"]
 image_prompt: "An empty film set in New York at dusk, a director's chair beside a lit street backdrop and a clapperboard on a table."
 sources:
   - "https://theplaylist.net/paul-schrader-domhnall-brendan-gleeson-liam-hemsworth-film-delay-20261121/"
+image: "images/2026-11-22-12-00-liam-hemsworth.webp"
+image_alt: "Liam Hemsworth: Liam Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/9355346647\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/9355346647\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3334
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-12-00-liam-hemsworth-768x432.webp"
+wp_id: 3335
+wp_link: "https://moduscarry.com/liam-hemsworth-non-compos-mentis/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

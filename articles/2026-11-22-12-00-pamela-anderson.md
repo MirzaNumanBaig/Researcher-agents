@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Berry Lipstick: The CFDA Awards Look"
 seo_description: "Pamela Anderson wore a glossy berry lipstick at the 2026 CFDA Fashion Awards. Here is the look, why softer reds suit mature lips and three alternatives."
 focus_keyword: "Pamela Anderson berry lipstick"
 permalink: "pamela-anderson-berry-lipstick"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 12:00"
 celebrity: "Pamela Anderson"
@@ -15,6 +15,15 @@ image_prompt: "A velvet-lined vanity table at night with a glossy berry-red lips
 sources:
   - "https://cwibc.co.id/en/nader-anderson-baywatch-beauty"
   - "https://theblast.com/888835/brooks-nader-baywatch-looks-temu-pamela/"
+image: "images/2026-11-22-12-00-pamela-anderson.webp"
+image_alt: "Pamela Anderson: Actress Pamela Anderson at the 2026 Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson-69699.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson-69699.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3342
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-12-00-pamela-anderson-768x432.webp"
+wp_id: 3343
+wp_link: "https://moduscarry.com/pamela-anderson-berry-lipstick/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

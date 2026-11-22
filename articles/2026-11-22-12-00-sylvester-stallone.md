@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone Rocky 50th Anniversary Tribute to Fans"
 seo_description: "Sylvester Stallone marked the Rocky 50th anniversary with an Instagram thank-you to fans. Here is what he said and how Philadelphia is celebrating."
 focus_keyword: "Sylvester Stallone Rocky 50th anniversary"
 permalink: "sylvester-stallone-rocky-50th-anniversary"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 12:00"
 celebrity: "Sylvester Stallone"
@@ -15,6 +15,15 @@ image_prompt: "A lone boxing ring lit by a single overhead lamp in an empty old 
 sources:
   - "https://www.complex.com/pop-culture/a/markelibert/sylvester-stallone-rocky-50th-anniversary-instagram"
   - "https://www.dw.com/en/revisiting-40-years-of-sylvester-stallones-rocky/g-46506370"
+image: "images/2026-11-22-12-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588426252\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588426252\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3348
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-12-00-sylvester-stallone-768x432.webp"
+wp_id: 3349
+wp_link: "https://moduscarry.com/sylvester-stallone-rocky-50th-anniversary/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

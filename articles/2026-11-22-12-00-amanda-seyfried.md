@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Steps Netflix: Smile and a Song Debuts"
 seo_description: "Amanda Seyfried Steps Netflix: she voices Cinderella and sings Smile and a Song, while JENNIE adds Someone to Hold. Here is what to know."
 focus_keyword: "Amanda Seyfried Steps Netflix"
 permalink: "amanda-seyfried-steps-netflix-soundtrack"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 12:00"
 celebrity: "Amanda Seyfried"
@@ -16,6 +16,15 @@ sources:
   - "https://www.whats-on-netflix.com/news/steps-trailer-drop-blackpink-jennie-soundtrack-news/"
   - "https://filmmusicreporter.com/?p=144332"
   - "https://www.netflix.com/tudum/articles/amanda-seyfried-cinderella-steps?inapp=true"
+image: "images/2026-11-22-12-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried , 83rd Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried-2.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried-2.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3332
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-12-00-amanda-seyfried-768x432.webp"
+wp_id: 3333
+wp_link: "https://moduscarry.com/amanda-seyfried-steps-netflix-soundtrack/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
