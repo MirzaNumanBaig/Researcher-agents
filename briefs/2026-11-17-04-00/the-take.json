@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-17 04:00",
+  "celebrity": "The Take",
+  "stories": [
+    {
+      "title": "Robert Pattinson is the new James Bond",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazZEWWpXTnBPUTZ6cHZrUjlQQjRJQm41R0Z2M05UaWxPMlBJZi01cDlBVy1ySVJESmZMNjRINWhyQkVwbUxvZExDcE9LNm43THlsZm9jUENHb3EtZFhYQ2ZlS2dFaGJkY3BEUVNBczN1LUdFOEg4dUdsMy0wSFZ3S3RQSlVaYnBNTWxWQ2c2emJrVXN6dW5JNlp2OA?oc=5",
+      "published": "2026-11-16T15:00:15+00:00",
+      "outlets": [
+        {
+          "source": "About Amazon",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazZEWWpXTnBPUTZ6cHZrUjlQQjRJQm41R0Z2M05UaWxPMlBJZi01cDlBVy1ySVJESmZMNjRINWhyQkVwbUxvZExDcE9LNm43THlsZm9jUENHb3EtZFhYQ2ZlS2dFaGJkY3BEUVNBczN1LUdFOEg4dUdsMy0wSFZ3S3RQSlVaYnBNTWxWQ2c2emJrVXN6dW5JNlp2OA?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "batch": "2026-11-23 10:00",
+  "celebrity": "Robert Pattinson",
+  "stories": [
+    {
+      "title": "Before 007, Robert Pattinson Played These Seriously Unexpected Roles",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOSGV2d2RTaDIzdm1xVVV5aWJ3NElsS1ZFT0h6ell6M01IQmZOVGZxcEU1NktRZnI5TFppejFLM2REWDY3T2M4LUttYWhYS0oxdXJKLTI2QWQ4YlZvend5Y1MweHVZeVhoZm13SE9n?oc=5",
+      "published": "2026-11-22T06:04:22+00:00",
+      "outlets": [
+        {
+          "source": "Instinct Magazine",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOSGV2d2RTaDIzdm1xVVV5aWJ3NElsS1ZFT0h6ell6M01IQmZOVGZxcEU1NktRZnI5TFppejFLM2REWDY3T2M4LUttYWhYS0oxdXJKLTI2QWQ4YlZvend5Y1MweHVZeVhoZm13SE9n?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Robert Pattinson’s 007 Movie in Talks to Shoot at Pinewood as Studio Says ‘We’re the Home of Bond’",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXZCcEJhSlVabkxSQWNkaktUaDBmanVtZUsyZkNSbXo1ZVh6eHJCelhSZnN1bEJaMmR6RDNXcnI3OWxKYkpfQV9Jbm5GRGFFQkxSWEY4dlFVQTY1aXZ3ckRJUXoxRzBVVnBTaUpKb1F6eXRlUGlZYWtSZGs3d0kyeWRWVFRTSUFhSlR6a0dreFJlbzJsVnZjOE9PeGNuLXd2?oc=5",
+      "published": "2026-11-21T09:07:00+00:00",
+      "outlets": [
+        {
+          "source": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXZCcEJhSlVabkxSQWNkaktUaDBmanVtZUsyZkNSbXo1ZVh6eHJCelhSZnN1bEJaMmR6RDNXcnI3OWxKYkpfQV9Jbm5GRGFFQkxSWEY4dlFVQTY1aXZ3ckRJUXoxRzBVVnBTaUpKb1F6eXRlUGlZYWtSZGs3d0kyeWRWVFRTSUFhSlR6a0dreFJlbzJsVnZjOE9PeGNuLXd2?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    },
+    {
+      "title": "Primetime",
+      "release": "2026-09-05",
+      "director": [
+        "Lance Oppenheim"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Phoebe Bridgers",
+        "Merritt Wever",
+        "Sean Bridgers",
+        "Skyler Gisondo"
+      ],
+      "budget_usd": 14500000,
+      "box_office_usd": 62000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 4.28,
+      "rotten_tomatoes": "86%",
+      "metacritic": "68/100 from 54 critics",
+      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Manohla Dargis for The New York Times praised Skyler Gisondo and Alex Winter, writing that they added \"emotion\" and \"push the movie into depths it doesn’t remain in\" but otherwise felt that Primetime \"looks good and moves well, and the dark, saturated colors and visual grittiness add some fine Expressionistic texture.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
+      }
+    }
+  ]
+}
