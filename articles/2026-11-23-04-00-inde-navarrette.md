@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Rogue Accent: How She Will Nail It"
 seo_description: "Inde Navarrette explains her Rogue accent plan for Marvel's X-Men reboot: Texas roots, a Mississippi trip and a promise to do the character justice."
 focus_keyword: "Inde Navarrette Rogue accent"
 permalink: "inde-navarrette-rogue-accent"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 04:00"
 celebrity: "Inde Navarrette"
@@ -15,6 +15,15 @@ image_prompt: "A quiet Southern porch at golden hour with a rocking chair, magno
 sources:
   - "https://comicbookmovie.com/x_men/x-men-star-inde-navarrette-reveals-how-shell-deliver-perfect-rogue-accent-in-mcu-reboot-a229848"
   - "https://www.cinemablend.com/movies/inde-navarrette-dicusses-nailing-rogue-accent-x-men-reboot"
+image: "images/2026-11-23-04-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_02.jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_02.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3372
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-04-00-inde-navarrette-768x432.webp"
+wp_id: 3373
+wp_link: "https://moduscarry.com/inde-navarrette-rogue-accent/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

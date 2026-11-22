@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder Lookalike Contest Won by Georgia Maq"
 seo_description: "Australian musician Georgia Maq won a Nathan Fielder lookalike contest in Los Angeles and released a new single. Here is what happened and what is next."
 focus_keyword: "Nathan Fielder lookalike contest"
 permalink: "nathan-fielder-lookalike-contest"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 04:00"
 celebrity: "Nathan Fielder"
@@ -15,6 +15,15 @@ image_prompt: "A vintage furniture shop with mismatched chairs and warm lamps, a
 sources:
   - "https://stereogum.com/2519654/georgia-maq-shares-new-single-wins-nathan-fielder-lookalike-contest/news"
   - "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+image: "images/2026-11-23-04-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3382
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-04-00-nathan-fielder-768x432.webp"
+wp_id: 3383
+wp_link: "https://moduscarry.com/nathan-fielder-lookalike-contest/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

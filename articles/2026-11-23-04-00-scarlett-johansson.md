@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Turns 42: Career, Awards and What's Next"
 seo_description: "Scarlett Johansson turns 42 on 22 November. See how her career grew from child actor to Black Widow, Tony winner and director, and what is next."
 focus_keyword: "Scarlett Johansson turns 42"
 permalink: "scarlett-johansson-turns-42"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 04:00"
 celebrity: "Scarlett Johansson"
@@ -14,6 +14,15 @@ tags: ["Scarlett Johansson", "Black Widow", "Paper Tiger", "Jurassic World Rebir
 image_prompt: "An empty vintage cinema with red velvet seats and a glowing screen, warm light and a few birthday balloons drifting near the aisle."
 sources:
   - "https://openthemagazine.com/entertainment/scarlett-johansson-turns-42-from-a-child-star-to-hollywoods-leading-lady"
+image: "images/2026-11-23-04-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071_(cropped).jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3388
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-04-00-scarlett-johansson-768x432.webp"
+wp_id: 3389
+wp_link: "https://moduscarry.com/scarlett-johansson-turns-42/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

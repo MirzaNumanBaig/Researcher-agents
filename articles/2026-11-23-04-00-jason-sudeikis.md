@@ -5,7 +5,7 @@ seo_title: "Jason Sudeikis High School Basketball and Olivia Wilde Talk"
 seo_description: "Jason Sudeikis says he played like NBA star Jason Williams in high school, and Olivia Wilde spoke about their split on Call Her Daddy. Here is what was said."
 focus_keyword: "Jason Sudeikis basketball"
 permalink: "jason-sudeikis-basketball-jason-williams"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 04:00"
 celebrity: "Jason Sudeikis"
@@ -15,6 +15,15 @@ image_prompt: "An empty high school gymnasium with a worn wooden court, a single
 sources:
   - "https://sports.yahoo.com/articles/teammates-loved-jason-sudeikis-claims-022800121.html"
   - "https://www.siriusxm.com/blog/olivia-wilde-call-her-daddy"
+image: "images/2026-11-23-04-00-jason-sudeikis.webp"
+image_alt: "Jason Sudeikis: Jason Sudeikis 2011 Shankbone 2"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/27865228@N06/5678575422\" rel=\"noopener\">david_shankbone</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/27865228@N06/5678575422\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3374
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-04-00-jason-sudeikis-768x432.webp"
+wp_id: 3375
+wp_link: "https://moduscarry.com/jason-sudeikis-basketball-jason-williams/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

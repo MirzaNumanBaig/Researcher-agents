@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Tiffany Ambassador and SNL Debut"
 seo_description: "Amanda Seyfried is Tiffany & Co.'s new House ambassador and hosts SNL for the first time on 5 December. Here is what we know about both."
 focus_keyword: "Amanda Seyfried Tiffany"
 permalink: "amanda-seyfried-tiffany-ambassador"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 04:00"
 celebrity: "Amanda Seyfried"
@@ -16,6 +16,15 @@ sources:
   - "https://www.bandt.com.au/tiffany-co-rewinds-to-90s-new-york-with-amanda-seyfried-for-global-christmas-campaign/"
   - "https://tvline.com/2317069/saturday-night-live-amanda-seyfried-host-snl-december-5-2026"
   - "https://www.thewrap.com/creative-content/tv-shows/snl-taps-amanda-seyfried-to-host-next-season-52-episode/"
+image: "images/2026-11-23-04-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried , 83rd Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried-4.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried-4.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3366
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-04-00-amanda-seyfried-768x432.webp"
+wp_id: 3367
+wp_link: "https://moduscarry.com/amanda-seyfried-tiffany-ambassador/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

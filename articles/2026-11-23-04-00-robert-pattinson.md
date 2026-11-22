@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Welcome at The Odyssey Screening"
 seo_description: "Robert Pattinson Bond news: the actor was applauded at a London screening of The Odyssey, his first appearance since being named 007."
 focus_keyword: "Robert Pattinson Bond"
 permalink: "robert-pattinson-bond-odyssey-screening"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 04:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,15 @@ sources:
   - "https://www.cinemaexpress.com/english/news/2026/Nov/21/robert-pattinson-receives-warm-welcome-as-james-bond-at-the-odyssey-screening"
   - "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
   - "https://en.wikipedia.org/wiki/Primetime_(film)"
+image: "images/2026-11-23-04-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson and director Lance Oppenheim attend the \u2018Primetime\u2019 premiere during the 83rd Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3384
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-04-00-robert-pattinson-768x432.webp"
+wp_id: 3385
+wp_link: "https://moduscarry.com/robert-pattinson-bond-odyssey-screening/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

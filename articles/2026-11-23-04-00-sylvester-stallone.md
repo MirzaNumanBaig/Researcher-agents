@@ -5,7 +5,7 @@ seo_title: "I Play Rocky Box Office: Stallone Biopic Goes Wide"
 seo_description: "I Play Rocky, the Sylvester Stallone biopic, expanded to about 2,448 US theatres with an A+ CinemaScore. Here is how the box office is shaping up."
 focus_keyword: "I Play Rocky box office"
 permalink: "i-play-rocky-box-office"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 04:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "I Play Rocky", "Rocky"]
 image_prompt: "A quiet vintage boxing gym at dawn with a worn heavy bag, taped gloves on a bench and a long flight of stone steps outside the window."
 sources:
   - "https://collider.com/i-play-rocky-box-office-expansion-2448-theaters/"
+image: "images/2026-11-23-04-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/4840620570\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/4840620570\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3392
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-04-00-sylvester-stallone-768x432.webp"
+wp_id: 3393
+wp_link: "https://moduscarry.com/i-play-rocky-box-office-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
