@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-23 16:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "The Record-Setting Hit Keith Urban Wrote for Nicole Kidman",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0tRU0F1VUlaYmNIVndMYXk1bm94bmVWMWFHS1djQ3lWc3EtSEV3cFVrcG5WRjJoR255N2NGWTdzcjlWZEY3Njd4azlnVXotaWxQS1hTaDVHOVc1UGNMY2FDYWJKNWNNVVU1Nngyc0RyTFhJcy1lRzVKa0hQSEVGYktWaDFBYl9Qd1lWbFNZTGE?oc=5",
+      "published": "2026-11-23T00:35:44+00:00",
+      "outlets": [
+        {
+          "source": "thechronicle.com.ph",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0tRU0F1VUlaYmNIVndMYXk1bm94bmVWMWFHS1djQ3lWc3EtSEV3cFVrcG5WRjJoR255N2NGWTdzcjlWZEY3Njd4azlnVXotaWxQS1hTaDVHOVc1UGNMY2FDYWJKNWNNVVU1Nngyc0RyTFhJcy1lRzVKa0hQSEVGYktWaDFBYl9Qd1lWbFNZTGE?oc=5",
+          "article_url": "https://thechronicle.com.ph/the-record-setting-hit-keith-urban-wrote-for-nicole-kidman/",
+          "image": "https://thechronicle.com.ph/wp-content/uploads/2026/11/images-3-3.jpg"
+        }
+      ],
+      "image": "https://thechronicle.com.ph/wp-content/uploads/2026/11/images-3-3.jpg",
+      "image_source": "https://thechronicle.com.ph/the-record-setting-hit-keith-urban-wrote-for-nicole-kidman/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
+    }
+  ]
+}

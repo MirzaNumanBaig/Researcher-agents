@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-23 16:00",
+  "celebrity": "Johnny Depp",
+  "stories": [
+    {
+      "title": "Interview: ‘Ebenezer’ Editor David Kashevaroff on Johnny Depp, Ti West & Jump Scares",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNazAxQVppQmt1WG1McTdGNklKUXBSdzM3MzlWWFRCUnpmb0FMZ1dLTmc4YmZPajlhdXJoYmoyel9lNzFZbzhSMlRSV2l5MHFKN2diT3QwYktwQmI1WFQzZlhNakRGSXdmSHpxeFZMSTdDemwtQzZhRmRycTY4cHJXdlRVSi1aQQ?oc=5",
+      "published": "2026-11-23T05:09:00+00:00",
+      "outlets": [
+        {
+          "source": "Awards Radar",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNazAxQVppQmt1WG1McTdGNklKUXBSdzM3MzlWWFRCUnpmb0FMZ1dLTmc4YmZPajlhdXJoYmoyel9lNzFZbzhSMlRSV2l5MHFKN2diT3QwYktwQmI1WFQzZlhNakRGSXdmSHpxeFZMSTdDemwtQzZhRmRycTY4cHJXdlRVSi1aQQ?oc=5",
+          "article_url": "https://awardsradar.com/2026/11/23/interview-ebenezer-editor-david-kashevaroff/",
+          "image": "https://i0.wp.com/awardsradar.com/wp-content/uploads/2026/11/AR-Interview-Ebenezer.jpg?fit=1200%2C675&ssl=1"
+        }
+      ],
+      "image": "https://i0.wp.com/awardsradar.com/wp-content/uploads/2026/11/AR-Interview-Ebenezer.jpg?fit=1200%2C675&ssl=1",
+      "image_source": "https://awardsradar.com/2026/11/23/interview-ebenezer-editor-david-kashevaroff/"
+    },
+    {
+      "title": "Johnny Depp's private island in the Bahamas holds the secret to why he wanted to get away from Hollywood",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNM0JhQnByS29QeExsRGhOUnF6a1k4SVNGMEotOFpXMm9ZZnpHanl2RHNtdm1RS1FlcEhGRlZXa1N3OXpwUi1hOFRWVUtZX043VTFxTUxKaENhRnJQTDd3UWNOT2tSVWEyWENTWGl2RmdwbGtnMDBQM3Z4WTJSems?oc=5",
+      "published": "2026-11-23T00:03:24+00:00",
+      "outlets": [
+        {
+          "source": "https://latination.com/",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNM0JhQnByS29QeExsRGhOUnF6a1k4SVNGMEotOFpXMm9ZZnpHanl2RHNtdm1RS1FlcEhGRlZXa1N3OXpwUi1hOFRWVUtZX043VTFxTUxKaENhRnJQTDd3UWNOT2tSVWEyWENTWGl2RmdwbGtnMDBQM3Z4WTJSems?oc=5",
+          "article_url": "https://latination.com/johnny-depp-private-island-bahamas-hollywood-escape/",
+          "image": "https://storage.googleapis.com/latination-website-bucket-new/uploads/cdf4e5f7-johnny-depp-600x400.jpg"
+        }
+      ],
+      "image": "https://storage.googleapis.com/latination-website-bucket-new/uploads/cdf4e5f7-johnny-depp-600x400.jpg",
+      "image_source": "https://latination.com/johnny-depp-private-island-bahamas-hollywood-escape/"
+    }
+  ]
+}

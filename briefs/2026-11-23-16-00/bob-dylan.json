@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-23 16:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "‘Self Portrait’ might be one of Bob Dylan’s most puzzling albums, but it introduced America to Gordon Lightfoot",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRllUVVJ1NVJ4OUswQm1OWmNCS2JEVzN0UGljTjQyUFg1c0RKLUNFR01TR2xNZHNjQWVZRXRUUWR2NHh0OXB3OVF0SFZheFk2MXZpQ2RKZ0JZdGRDVmhtbDBxTzRvQ0c5ZnJ0SERrZXR5MlpaX3JTSXlFU3VRSmhXX3V6SDJyczd0?oc=5",
+      "published": "2026-11-23T02:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRllUVVJ1NVJ4OUswQm1OWmNCS2JEVzN0UGljTjQyUFg1c0RKLUNFR01TR2xNZHNjQWVZRXRUUWR2NHh0OXB3OVF0SFZheFk2MXZpQ2RKZ0JZdGRDVmhtbDBxTzRvQ0c5ZnJ0SERrZXR5MlpaX3JTSXlFU3VRSmhXX3V6SDJyczd0?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/self-portrait-one-of-bob-dylan-most-puzzling-albums/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/11/Bob-Dylan-Gordon-Lightfoot-Split-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/11/Bob-Dylan-Gordon-Lightfoot-Split-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/self-portrait-one-of-bob-dylan-most-puzzling-albums/"
+    },
+    {
+      "title": "The brutal song Paul Simon wrote to mock Bob Dylan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORGM5M1V0a2h3TlYyTUVwaE92elYtbEZTWThvR2d4QnNrSjR1X0tWRmlzZTYxVmowUWtBTE9UZXM2TTk5ZDRUcjZSNU1JejhOUXl3RlBnR2NNckdoR3dNZjhJZklwVTZkTHJ3aTB0UTJNWXJDQ1UyOTV5YUFFWXpnS1ZXZ29BOXFNYy1wVmEtNXNHZ2JMbGlSZmZmRUR1SVNNZXNhYUxhWQ?oc=5",
+      "published": "2026-11-22T17:05:23+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORGM5M1V0a2h3TlYyTUVwaE92elYtbEZTWThvR2d4QnNrSjR1X0tWRmlzZTYxVmowUWtBTE9UZXM2TTk5ZDRUcjZSNU1JejhOUXl3RlBnR2NNckdoR3dNZjhJZklwVTZkTHJ3aTB0UTJNWXJDQ1UyOTV5YUFFWXpnS1ZXZ29BOXFNYy1wVmEtNXNHZ2JMbGlSZmZmRUR1SVNNZXNhYUxhWQ?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/in-1966-paul-simon-released-a-bob-dylan-parody-did-it-deepen-their-rivalry/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/08/Bob-Dylan-Paul-Simon-Split-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/08/Bob-Dylan-Paul-Simon-Split-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/in-1966-paul-simon-released-a-bob-dylan-parody-did-it-deepen-their-rivalry/"
+    }
+  ]
+}

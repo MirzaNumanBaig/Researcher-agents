@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-23 16:00",
+  "celebrity": "Callina Liang",
+  "stories": [
+    {
+      "title": "‘Street Fighter’ Officially Removed From Over 3,000 Theaters as Digital Release Nears",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS25TcnUyUGhTZTc4UmVjTHkzRW5JUHVSYVJtSjVVenJxNGREcGZPS1cwREFvLUdmaWlwbzZLVmVGQkt3ZVMtamx3bnV1ZEk3OTlKVnFpcG9sU1ExREc0b0VuaTE2dVZYRExpeGdhazE3T3ZGcWU0WjF1bTlFUnVoemNOdTJUZ2d5aDg1czFFVWtKdw?oc=5",
+      "published": "2026-11-23T00:45:00+00:00",
+      "outlets": [
+        {
+          "source": "Collider",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS25TcnUyUGhTZTc4UmVjTHkzRW5JUHVSYVJtSjVVenJxNGREcGZPS1cwREFvLUdmaWlwbzZLVmVGQkt3ZVMtamx3bnV1ZEk3OTlKVnFpcG9sU1ExREc0b0VuaTE2dVZYRExpeGdhazE3T3ZGcWU0WjF1bTlFUnVoemNOdTJUZ2d5aDg1czFFVWtKdw?oc=5",
+          "article_url": "https://collider.com/street-fighter-removed-from-3000-theaters-box-office-digital-debut/",
+          "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/street-fighter-callianna-lang-as-chun-li.png?w=1200&h=675&fit=crop"
+        }
+      ],
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/street-fighter-callianna-lang-as-chun-li.png?w=1200&h=675&fit=crop",
+      "image_source": "https://collider.com/street-fighter-removed-from-3000-theaters-box-office-digital-debut/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Street Fighter",
+      "release": "2026-10-12",
+      "director": [
+        "Kitao Sakurai"
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Cody Rhodes",
+        "Orville Peck"
+      ],
+      "budget_usd": 82000000,
+      "box_office_usd": 100800000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.23,
+      "rotten_tomatoes": "42%",
+      "metacritic": "43/100 from 28 critics",
+      "critics_consensus": "The latest iteration of Street Fighter has plenty of affection for its source material and doesn't lack for dizzying style, but its incoherent storytelling and juvenile humor make for a disappointing regression among video game adaptations.",
+      "critics_overview": "It received a 65% definite recommend for children under 12. The audience was 30% Latino and Hispanic, 29% Caucasian, 21% Black, 14% Asian American and 6% Native American or Other.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q130345436",
+        "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+      }
+    }
+  ]
+}
