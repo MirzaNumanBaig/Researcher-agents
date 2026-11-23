@@ -24,6 +24,7 @@ wp_id: 3420
 wp_link: "https://moduscarry.com/sylvester-stallone-i-play-rocky-mix-up/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "David Walliams Allegations: Memoir Revisited, Charity Book Questions
 seo_description: "David Walliams denies the allegations as his 2012 memoir Camp David is re-read and questions grow over a Malta charity book. Here is what is confirmed."
 focus_keyword: "David Walliams allegations"
 permalink: "david-walliams-allegations-memoir-charity-book"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 16:00"
 celebrity: "David Walliams"
@@ -15,6 +15,15 @@ image_prompt: "A closed hardback book on a wooden desk beside a lamp in a quiet 
 sources:
   - "https://www.nzherald.co.nz/entertainment/david-walliams-on-sex-addiction-shame-and-friendship-with-russell-brand/NDSSPKKIBZFQHJTCZRST4N6PFA/"
   - "https://timesofmalta.com/article/film-commission-send-walliams-book-proceeds-charity-when-them.1137467"
+image: "images/2026-11-23-16-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams, actor, comedian, and writer, at the 2025 Jaipur Literature Festival in Jaipur, India."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival.jpg\" rel=\"noopener\">Sriya Sarkar</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3425
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-16-00-david-walliams-768x432.webp"
+wp_id: 3426
+wp_link: "https://moduscarry.com/david-walliams-allegations-memoir-charity-book/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

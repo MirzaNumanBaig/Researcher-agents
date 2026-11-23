@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Memes: ChatGPT Joke Goes Viral"
 seo_description: "Robert Pattinson Bond memes are everywhere, from a ChatGPT rant to a UK Government joke. Here is what was said and why it caught on."
 focus_keyword: "Robert Pattinson Bond memes"
 permalink: "robert-pattinson-bond-memes"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 16:00"
 celebrity: "Robert Pattinson"
@@ -14,6 +14,15 @@ tags: ["Robert Pattinson", "James Bond", "Callum Turner"]
 image_prompt: "A single spotlit tuxedo jacket on a mannequin in an empty cinema lobby, a glowing laptop screen on a table nearby, warm evening light."
 sources:
   - "https://www.unilad.com/film-and-tv/man-asks-chatgpt-why-robert-pattinson-got-bond-role-over-him-450756-20261122"
+image: "images/2026-11-23-16-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3439
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-16-00-robert-pattinson-768x432.webp"
+wp_id: 3440
+wp_link: "https://moduscarry.com/robert-pattinson-bond-memes/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

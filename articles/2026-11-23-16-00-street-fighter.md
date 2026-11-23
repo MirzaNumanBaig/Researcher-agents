@@ -5,7 +5,7 @@ seo_title: "Street Fighter Box Office: Pulled From 3,000 Theaters"
 seo_description: "Street Fighter box office stalls near $100 million as Paramount's film leaves over 3,000 theaters ahead of its digital release. Here is how it compares."
 focus_keyword: "Street Fighter box office"
 permalink: "street-fighter-box-office-digital-release"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 16:00"
 celebrity: "Street Fighter"
@@ -16,6 +16,15 @@ sources:
   - "https://collider.com/street-fighter-removed-from-3000-theaters-box-office-digital-debut/"
   - "https://www.cbr.com/street-fighter-movie-2026-strongest-missing-characters-list/"
   - "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+image: "images/2026-11-23-16-00-street-fighter.webp"
+image_alt: "Street Fighter: Street Fighter Leaves 3,000 Theaters Before Digital Debut"
+image_credit: "Image: <a href=\"https://www.cbr.com/street-fighter-movie-2026-strongest-missing-characters-list/\" rel=\"nofollow noopener\">Comic Book Resources</a> (cropped)"
+wp_media_id: 3441
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-16-00-street-fighter-768x432.webp"
+wp_id: 3442
+wp_link: "https://moduscarry.com/street-fighter-box-office-digital-release/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

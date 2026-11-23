@@ -5,7 +5,7 @@ seo_title: "I Play Rocky Weekend Box Office: Second Place Debut"
 seo_description: "I Play Rocky weekend box office: the Sylvester Stallone biopic earned about US$9.3 million in 2,477 theatres, with an A+ CinemaScore. See the numbers."
 focus_keyword: "I Play Rocky weekend box office"
 permalink: "i-play-rocky-weekend-box-office"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 16:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "Rocky", "Hunger Games"]
 image_prompt: "A quiet cinema foyer at night with a glowing box office window and a boxing glove poster silhouette on the wall"
 sources:
   - "https://movieweb.com/i-play-rocky-box-office-update/"
+image: "images/2026-11-23-16-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone inside?"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/75062596@N00/462568919\" rel=\"noopener\">Lars Plougmann</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/75062596@N00/462568919\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3443
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-16-00-sylvester-stallone-768x432.webp"
+wp_id: 3444
+wp_link: "https://moduscarry.com/i-play-rocky-weekend-box-office/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
