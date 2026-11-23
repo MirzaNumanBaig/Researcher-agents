@@ -1,0 +1,248 @@
+{
+ "name": "Michael Cera",
+ "qid": "Q309555",
+ "description": "Canadian actor",
+ "wikipedia_editions": 51,
+ "born": "1988-06-07",
+ "birthplace": "Brampton",
+ "occupations": [
+  "actor",
+  "film director",
+  "screenwriter",
+  "film producer",
+  "musician",
+  "character actor",
+  "film actor",
+  "voice actor",
+  "television actor"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "The Running Man",
+   "qid": "Q125449414",
+   "date": "2025-11-19",
+   "type": "film",
+   "directors": [
+    "Edgar Wright"
+   ]
+  },
+  {
+   "title": "The Phoenician Scheme",
+   "qid": "Q124758337",
+   "date": "2025-05-30",
+   "type": "film",
+   "directors": [
+    "Wes Anderson"
+   ]
+  },
+  {
+   "title": "Sacramento",
+   "qid": "Q119149787",
+   "date": "2025-04-11",
+   "type": "film",
+   "directors": [
+    "Michael Angarano"
+   ]
+  },
+  {
+   "title": "Christmas Eve in Miller's Point",
+   "qid": "Q125504091",
+   "date": "2024-05-17",
+   "type": "film",
+   "directors": [
+    "Tyler Taormina"
+   ]
+  },
+  {
+   "title": "Dream Scenario",
+   "qid": "Q115804772",
+   "date": "2024-03-21",
+   "type": "film",
+   "directors": [
+    "Kristoffer Borgli"
+   ]
+  },
+  {
+   "title": "Barbie",
+   "qid": "Q55436290",
+   "date": "2023-07-21",
+   "type": "film",
+   "directors": [
+    "Greta Gerwig"
+   ]
+  },
+  {
+   "title": "Joan Is Awful",
+   "qid": "Q118978626",
+   "date": "2023-06-15",
+   "type": "television series episode",
+   "directors": [
+    "Ally Pankiw"
+   ]
+  },
+  {
+   "title": "Semifinal #3: Patton Oswalt, Brendan Hunt and Michael Cera",
+   "qid": "Q122977752",
+   "date": "2023-01-26",
+   "type": "television series episode",
+   "directors": []
+  },
+  {
+   "title": "Quarterfinal #7: Michael Cera, Brianne Howey and Zoë Chao",
+   "qid": "Q122977749",
+   "date": "2023-01-05",
+   "type": "television series episode",
+   "directors": []
+  },
+  {
+   "title": "The Adults",
+   "qid": "Q116765532",
+   "date": "2023-01-01",
+   "type": "film",
+   "directors": [
+    "Dustin Guy Defa"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Edgar Wright",
+   "projects": 1
+  },
+  {
+   "name": "Wes Anderson",
+   "projects": 1
+  },
+  {
+   "name": "Michael Angarano",
+   "projects": 1
+  },
+  {
+   "name": "Tyler Taormina",
+   "projects": 1
+  },
+  {
+   "name": "Kristoffer Borgli",
+   "projects": 1
+  },
+  {
+   "name": "Greta Gerwig",
+   "projects": 1
+  },
+  {
+   "name": "Ally Pankiw",
+   "projects": 1
+  },
+  {
+   "name": "Dustin Guy Defa",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Mark Webber",
+   "qid": "Q1378842",
+   "projects": 3,
+   "fame": 26
+  },
+  {
+   "name": "Rhea Perlman",
+   "qid": "Q234058",
+   "projects": 2,
+   "fame": 39
+  },
+  {
+   "name": "Aubrey Plaza",
+   "qid": "Q210547",
+   "projects": 2,
+   "fame": 54
+  },
+  {
+   "name": "Jason Schwartzman",
+   "qid": "Q313705",
+   "projects": 2,
+   "fame": 45
+  },
+  {
+   "name": "Bill Murray",
+   "qid": "Q29250",
+   "projects": 2,
+   "fame": 87
+  },
+  {
+   "name": "Rihanna",
+   "qid": "Q36844",
+   "projects": 1,
+   "fame": 159
+  },
+  {
+   "name": "Emma Watson",
+   "qid": "Q39476",
+   "projects": 1,
+   "fame": 146
+  },
+  {
+   "name": "Jason Segel",
+   "qid": "Q202304",
+   "projects": 1,
+   "fame": 55
+  },
+  {
+   "name": "Channing Tatum",
+   "qid": "Q212064",
+   "projects": 1,
+   "fame": 68
+  },
+  {
+   "name": "Seth Rogen",
+   "qid": "Q220308",
+   "projects": 1,
+   "fame": 59
+  },
+  {
+   "name": "Kevin Richardson",
+   "qid": "Q249107",
+   "projects": 1,
+   "fame": 32
+  },
+  {
+   "name": "Paul Rudd",
+   "qid": "Q276525",
+   "projects": 1,
+   "fame": 78
+  },
+  {
+   "name": "James Franco",
+   "qid": "Q306403",
+   "projects": 1,
+   "fame": 83
+  },
+  {
+   "name": "Jonah Hill",
+   "qid": "Q313388",
+   "projects": 1,
+   "fame": 57
+  },
+  {
+   "name": "Jay Baruchel",
+   "qid": "Q316756",
+   "projects": 1,
+   "fame": 39
+  }
+ ],
+ "anime_voice_roles": [
+  {
+   "title": "Scott Pilgrim Takes Off",
+   "type": "anime television series",
+   "date": ""
+  }
+ ],
+ "researched": "2026-11-23"
+}

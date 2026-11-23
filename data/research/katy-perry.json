@@ -1,0 +1,179 @@
+{
+ "name": "Katy Perry",
+ "qid": "Q42493",
+ "description": "American singer (born 1984)",
+ "wikipedia_editions": 139,
+ "born": "1984-10-25",
+ "birthplace": "Santa Barbara",
+ "occupations": [
+  "singer",
+  "actor",
+  "voice actor",
+  "dancer",
+  "businessperson",
+  "songwriter",
+  "entrepreneur",
+  "shoe designer",
+  "composer",
+  "pop singer",
+  "musician"
+ ],
+ "relationships": [
+  {
+   "name": "Travie McCoy",
+   "qid": "Q314107",
+   "kind": "partner",
+   "start": "2006-00-00",
+   "end": "2008-00-00",
+   "ended_by": "",
+   "fame": 27
+  },
+  {
+   "name": "Russell Brand",
+   "qid": "Q296609",
+   "kind": "spouse",
+   "start": "2010-10-23",
+   "end": "2012-00-00",
+   "ended_by": "Q93190",
+   "fame": 50
+  },
+  {
+   "name": "John Mayer",
+   "qid": "Q215215",
+   "kind": "partner",
+   "start": "2012-00-00",
+   "end": "2014-00-00",
+   "ended_by": "",
+   "fame": 61
+  },
+  {
+   "name": "Diplo",
+   "qid": "Q533781",
+   "kind": "partner",
+   "start": "2014-00-00",
+   "end": "2015-00-00",
+   "ended_by": "",
+   "fame": 39
+  },
+  {
+   "name": "Orlando Bloom",
+   "qid": "Q44467",
+   "kind": "partner",
+   "start": "2016-00-00",
+   "end": "2025-00-00",
+   "ended_by": "",
+   "fame": 97
+  },
+  {
+   "name": "Justin Trudeau",
+   "qid": "Q3099714",
+   "kind": "partner",
+   "start": "2025-00-00",
+   "end": "",
+   "ended_by": "",
+   "fame": 142
+  }
+ ],
+ "family": {
+  "children_recorded": 1,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [],
+ "directors": [],
+ "costars": [
+  {
+   "name": "Q19848",
+   "qid": "Q19848",
+   "projects": 3,
+   "fame": 199
+  },
+  {
+   "name": "Rita Ora",
+   "qid": "Q229760",
+   "projects": 3,
+   "fame": 83
+  },
+  {
+   "name": "Jonathan Winters",
+   "qid": "Q4538",
+   "projects": 2,
+   "fame": 74
+  },
+  {
+   "name": "Fred Armisen",
+   "qid": "Q14535",
+   "projects": 2,
+   "fame": 34
+  },
+  {
+   "name": "George Lopez",
+   "qid": "Q73035",
+   "projects": 2,
+   "fame": 39
+  },
+  {
+   "name": "Hank Azaria",
+   "qid": "Q202056",
+   "projects": 2,
+   "fame": 54
+  },
+  {
+   "name": "Jayma Mays",
+   "qid": "Q231006",
+   "projects": 2,
+   "fame": 41
+  },
+  {
+   "name": "Anton Yelchin",
+   "qid": "Q314133",
+   "projects": 2,
+   "fame": 57
+  },
+  {
+   "name": "Neil Patrick Harris",
+   "qid": "Q485310",
+   "projects": 2,
+   "fame": 73
+  },
+  {
+   "name": "John Oliver",
+   "qid": "Q1701254",
+   "projects": 2,
+   "fame": 51
+  },
+  {
+   "name": "Q34086",
+   "qid": "Q34086",
+   "projects": 2,
+   "fame": 181
+  },
+  {
+   "name": "Carrie Underwood",
+   "qid": "Q215546",
+   "projects": 2,
+   "fame": 62
+  },
+  {
+   "name": "Adam Levine",
+   "qid": "Q219631",
+   "projects": 2,
+   "fame": 73
+  },
+  {
+   "name": "Maya Rudolph",
+   "qid": "Q236527",
+   "projects": 2,
+   "fame": 45
+  },
+  {
+   "name": "Kevin Nealon",
+   "qid": "Q449531",
+   "projects": 2,
+   "fame": 30
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}

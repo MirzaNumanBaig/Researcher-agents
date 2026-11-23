@@ -1,0 +1,196 @@
+{
+ "name": "Russell Brand",
+ "qid": "Q296609",
+ "description": "English comedian, actor, podcaster and sex offender (born 1975)",
+ "wikipedia_editions": 50,
+ "born": "1975-06-04",
+ "birthplace": "Grays",
+ "occupations": [
+  "actor",
+  "columnist",
+  "comedian",
+  "television presenter",
+  "film producer",
+  "radio personality",
+  "singer",
+  "novelist",
+  "poet",
+  "playwright",
+  "blogger",
+  "autobiographer",
+  "YouTuber",
+  "journalist",
+  "screenwriter",
+  "stand-up comedian",
+  "film actor",
+  "guitarist",
+  "television actor",
+  "television producer",
+  "writer",
+  "political activist"
+ ],
+ "relationships": [
+  {
+   "name": "Katy Perry",
+   "qid": "Q42493",
+   "kind": "spouse",
+   "start": "2010-00-00",
+   "end": "2012-00-00",
+   "ended_by": "Q93190",
+   "fame": 139
+  },
+  {
+   "name": "Jemima Goldsmith",
+   "qid": "Q468577",
+   "kind": "partner",
+   "start": "2013-00-00",
+   "end": "2014-00-00",
+   "ended_by": "",
+   "fame": 18
+  },
+  {
+   "name": "Laura Gallacher",
+   "qid": "Q63484578",
+   "kind": "spouse",
+   "start": "2017-08-26",
+   "end": "",
+   "ended_by": "",
+   "fame": 0
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "The Wisdom of Trauma",
+   "qid": "Q107310881",
+   "date": "2022-05-27",
+   "type": "film",
+   "directors": [
+    "Zaya Benazzo",
+    "Maurizio Benazzo"
+   ]
+  },
+  {
+   "title": "Death on the Nile",
+   "qid": "Q56816969",
+   "date": "2022-02-17",
+   "type": "film",
+   "directors": [
+    "Kenneth Branagh"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Zaya Benazzo",
+   "projects": 1
+  },
+  {
+   "name": "Maurizio Benazzo",
+   "projects": 1
+  },
+  {
+   "name": "Kenneth Branagh",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Julianne Hough",
+   "qid": "Q232646",
+   "projects": 2,
+   "fame": 36
+  },
+  {
+   "name": "Helen Mirren",
+   "qid": "Q349391",
+   "projects": 2,
+   "fame": 103
+  },
+  {
+   "name": "Bryan Cranston",
+   "qid": "Q23547",
+   "projects": 1,
+   "fame": 87
+  },
+  {
+   "name": "Tom Cruise",
+   "qid": "Q37079",
+   "projects": 1,
+   "fame": 129
+  },
+  {
+   "name": "Catherine Zeta-Jones",
+   "qid": "Q47664",
+   "projects": 1,
+   "fame": 103
+  },
+  {
+   "name": "Alec Baldwin",
+   "qid": "Q170572",
+   "projects": 1,
+   "fame": 89
+  },
+  {
+   "name": "Jennifer Garner",
+   "qid": "Q172044",
+   "projects": 1,
+   "fame": 86
+  },
+  {
+   "name": "Nick Nolte",
+   "qid": "Q188018",
+   "projects": 1,
+   "fame": 72
+  },
+  {
+   "name": "Paul Giamatti",
+   "qid": "Q208649",
+   "projects": 1,
+   "fame": 59
+  },
+  {
+   "name": "Q228909",
+   "qid": "Q228909",
+   "projects": 1,
+   "fame": 57
+  },
+  {
+   "name": "Malin Akerman",
+   "qid": "Q229669",
+   "projects": 1,
+   "fame": 57
+  },
+  {
+   "name": "Felicity Jones",
+   "qid": "Q234447",
+   "projects": 1,
+   "fame": 67
+  },
+  {
+   "name": "Tom Conti",
+   "qid": "Q241962",
+   "projects": 1,
+   "fame": 33
+  },
+  {
+   "name": "Anne Fletcher",
+   "qid": "Q242557",
+   "projects": 1,
+   "fame": 22
+  },
+  {
+   "name": "Greta Gerwig",
+   "qid": "Q271967",
+   "projects": 1,
+   "fame": 68
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}

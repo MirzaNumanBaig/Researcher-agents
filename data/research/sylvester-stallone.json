@@ -1,0 +1,255 @@
+{
+ "name": "Sylvester Stallone",
+ "qid": "Q40026",
+ "description": "American actor and filmmaker (born 1946)",
+ "wikipedia_editions": 126,
+ "born": "1946-07-06",
+ "birthplace": "Hell's Kitchen",
+ "occupations": [
+  "film actor",
+  "film director",
+  "screenwriter",
+  "film producer",
+  "writer",
+  "character actor",
+  "television actor",
+  "director",
+  "actor",
+  "voice actor",
+  "activist",
+  "musician"
+ ],
+ "relationships": [
+  {
+   "name": "Sasha Czack",
+   "qid": "Q22977790",
+   "kind": "spouse",
+   "start": "1974-01-01",
+   "end": "1985-01-01",
+   "ended_by": "",
+   "fame": 0
+  },
+  {
+   "name": "Brigitte Nielsen",
+   "qid": "Q154519",
+   "kind": "spouse",
+   "start": "1985-12-15",
+   "end": "1987-07-13",
+   "ended_by": "",
+   "fame": 47
+  },
+  {
+   "name": "Angie Everhart",
+   "qid": "Q437351",
+   "kind": "partner",
+   "start": "1995-00-00",
+   "end": "1995-00-00",
+   "ended_by": "",
+   "fame": 21
+  },
+  {
+   "name": "Jennifer Flavin",
+   "qid": "Q1109260",
+   "kind": "spouse",
+   "start": "1997-05-17",
+   "end": "",
+   "ended_by": "",
+   "fame": 12
+  }
+ ],
+ "family": {
+  "children_recorded": 5,
+  "adult_children_public": [
+   {
+    "name": "Sage Stallone",
+    "qid": "Q440932"
+   },
+   {
+    "name": "Sistine Stallone",
+    "qid": "Q22977821"
+   },
+   {
+    "name": "Scarlet Rose Stallone",
+    "qid": "Q22977806"
+   }
+  ],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Cobra",
+   "qid": "Q637290",
+   "date": "2026-08-13",
+   "type": "film",
+   "directors": [
+    "George P. Cosmatos"
+   ]
+  },
+  {
+   "title": "Alarum",
+   "qid": "Q124979080",
+   "date": "2025-01-17",
+   "type": "film",
+   "directors": [
+    "Michael Polish"
+   ]
+  },
+  {
+   "title": "Armor",
+   "qid": "Q124098393",
+   "date": "2024-10-30",
+   "type": "film",
+   "directors": [
+    "Q131935030"
+   ]
+  },
+  {
+   "title": "Expend4bles",
+   "qid": "Q108813842",
+   "date": "2023-10-11",
+   "type": "film",
+   "directors": [
+    "Scott Waugh"
+   ]
+  },
+  {
+   "title": "Guardians of the Galaxy Vol. 3",
+   "qid": "Q29226331",
+   "date": "2023-04-22",
+   "type": "film",
+   "directors": [
+    "James Gunn"
+   ]
+  },
+  {
+   "title": "Samaritan",
+   "qid": "Q85314873",
+   "date": "2022-08-26",
+   "type": "film",
+   "directors": [
+    "Julius Avery"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "George P. Cosmatos",
+   "projects": 1
+  },
+  {
+   "name": "Michael Polish",
+   "projects": 1
+  },
+  {
+   "name": "Q131935030",
+   "projects": 1
+  },
+  {
+   "name": "Scott Waugh",
+   "projects": 1
+  },
+  {
+   "name": "James Gunn",
+   "projects": 1
+  },
+  {
+   "name": "Julius Avery",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Dolph Lundgren",
+   "qid": "Q181678",
+   "projects": 7,
+   "fame": 71
+  },
+  {
+   "name": "Arnold Schwarzenegger",
+   "qid": "Q2685",
+   "projects": 6,
+   "fame": 155
+  },
+  {
+   "name": "Jason Statham",
+   "qid": "Q169963",
+   "projects": 5,
+   "fame": 97
+  },
+  {
+   "name": "Q271464",
+   "qid": "Q271464",
+   "projects": 5,
+   "fame": 63
+  },
+  {
+   "name": "Randy Couture",
+   "qid": "Q352733",
+   "projects": 5,
+   "fame": 35
+  },
+  {
+   "name": "Dave Bautista",
+   "qid": "Q44158",
+   "projects": 5,
+   "fame": 68
+  },
+  {
+   "name": "Jet Li",
+   "qid": "Q159577",
+   "projects": 4,
+   "fame": 120
+  },
+  {
+   "name": "Q6060",
+   "qid": "Q6060",
+   "projects": 4,
+   "fame": 112
+  },
+  {
+   "name": "Zoe Saldaña",
+   "qid": "Q190162",
+   "projects": 4,
+   "fame": 81
+  },
+  {
+   "name": "Q2680",
+   "qid": "Q2680",
+   "projects": 3,
+   "fame": 117
+  },
+  {
+   "name": "Charisma Carpenter",
+   "qid": "Q231622",
+   "projects": 3,
+   "fame": 40
+  },
+  {
+   "name": "Robert De Niro",
+   "qid": "Q36949",
+   "projects": 3,
+   "fame": 141
+  },
+  {
+   "name": "Bradley Cooper",
+   "qid": "Q205707",
+   "projects": 3,
+   "fame": 135
+  },
+  {
+   "name": "Karen Gillan",
+   "qid": "Q231237",
+   "projects": 3,
+   "fame": 67
+  },
+  {
+   "name": "Sean Gunn",
+   "qid": "Q431753",
+   "projects": 3,
+   "fame": 37
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}

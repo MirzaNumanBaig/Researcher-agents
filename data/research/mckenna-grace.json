@@ -1,0 +1,238 @@
+{
+ "name": "Mckenna Grace",
+ "qid": "Q20752077",
+ "description": "American actress and singer (born 2006)",
+ "wikipedia_editions": 47,
+ "born": "2006-06-25",
+ "birthplace": "Grapevine",
+ "occupations": [
+  "actor",
+  "film actor",
+  "television actor",
+  "voice actor",
+  "singer"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "qid": "Q126390739",
+   "date": "2026-11-20",
+   "type": "film",
+   "directors": [
+    "Francis Lawrence"
+   ]
+  },
+  {
+   "title": "The Last Kiss",
+   "qid": "Q141430687",
+   "date": "2026-09-15",
+   "type": "film",
+   "directors": [
+    "Yoko Okumura"
+   ]
+  },
+  {
+   "title": "Nimrods",
+   "qid": "Q136396306",
+   "date": "2026-08-14",
+   "type": "film",
+   "directors": [
+    "Lee Kirk"
+   ]
+  },
+  {
+   "title": "Slanted",
+   "qid": "Q131937685",
+   "date": "2026-03-13",
+   "type": "film",
+   "directors": []
+  },
+  {
+   "title": "Five Nights at Freddy's 2",
+   "qid": "Q124216482",
+   "date": "2025-12-05",
+   "type": "film",
+   "directors": [
+    "Emma Tammi"
+   ]
+  },
+  {
+   "title": "Regretting You",
+   "qid": "Q132816896",
+   "date": "2025-12-04",
+   "type": "film",
+   "directors": [
+    "Josh Boone"
+   ]
+  },
+  {
+   "title": "Anniversary",
+   "qid": "Q120758667",
+   "date": "2025-11-06",
+   "type": "film",
+   "directors": [
+    "Jan Komasa"
+   ]
+  },
+  {
+   "title": "What We Hide",
+   "qid": "Q133273812",
+   "date": "2025-08-08",
+   "type": "film",
+   "directors": []
+  },
+  {
+   "title": "Crater",
+   "qid": "Q107324772",
+   "date": "2023-01-01",
+   "type": "film",
+   "directors": [
+    "Kyle Patrick Alvarez"
+   ]
+  },
+  {
+   "title": "The Bad Seed Returns",
+   "qid": "Q110245424",
+   "date": "2022-09-05",
+   "type": "television film",
+   "directors": [
+    "Louise Archambault"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Francis Lawrence",
+   "projects": 1
+  },
+  {
+   "name": "Yoko Okumura",
+   "projects": 1
+  },
+  {
+   "name": "Lee Kirk",
+   "projects": 1
+  },
+  {
+   "name": "Emma Tammi",
+   "projects": 1
+  },
+  {
+   "name": "Josh Boone",
+   "projects": 1
+  },
+  {
+   "name": "Jan Komasa",
+   "projects": 1
+  },
+  {
+   "name": "Kyle Patrick Alvarez",
+   "projects": 1
+  },
+  {
+   "name": "Louise Archambault",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Chris Evans",
+   "qid": "Q178348",
+   "projects": 2,
+   "fame": 99
+  },
+  {
+   "name": "Ben Mendelsohn",
+   "qid": "Q816565",
+   "projects": 2,
+   "fame": 39
+  },
+  {
+   "name": "Xavier Samuel",
+   "qid": "Q350732",
+   "projects": 2,
+   "fame": 36
+  },
+  {
+   "name": "Bill Murray",
+   "qid": "Q29250",
+   "projects": 2,
+   "fame": 87
+  },
+  {
+   "name": "Dan Aykroyd",
+   "qid": "Q105221",
+   "projects": 2,
+   "fame": 60
+  },
+  {
+   "name": "Annie Potts",
+   "qid": "Q253536",
+   "projects": 2,
+   "fame": 36
+  },
+  {
+   "name": "Paul Rudd",
+   "qid": "Q276525",
+   "projects": 2,
+   "fame": 78
+  },
+  {
+   "name": "Ernie Hudson",
+   "qid": "Q471018",
+   "projects": 2,
+   "fame": 39
+  },
+  {
+   "name": "Carrie Coon",
+   "qid": "Q17317909",
+   "projects": 2,
+   "fame": 39
+  },
+  {
+   "name": "Q26308335",
+   "qid": "Q26308335",
+   "projects": 2,
+   "fame": 59
+  },
+  {
+   "name": "Celeste O'Connor",
+   "qid": "Q97065529",
+   "projects": 2,
+   "fame": 15
+  },
+  {
+   "name": "Mason Thames",
+   "qid": "Q112334777",
+   "projects": 2,
+   "fame": 26
+  },
+  {
+   "name": "Brie Larson",
+   "qid": "Q29328",
+   "projects": 1,
+   "fame": 91
+  },
+  {
+   "name": "Scarlett Johansson",
+   "qid": "Q34436",
+   "projects": 1,
+   "fame": 158
+  },
+  {
+   "name": "Mark Ruffalo",
+   "qid": "Q41422",
+   "projects": 1,
+   "fame": 88
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}

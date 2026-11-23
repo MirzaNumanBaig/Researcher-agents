@@ -1,0 +1,140 @@
+{
+ "name": "Nathan Fielder",
+ "qid": "Q16207915",
+ "description": "Canadian filmmaker, writer and comedian",
+ "wikipedia_editions": 24,
+ "born": "1983-05-12",
+ "birthplace": "Vancouver",
+ "occupations": [
+  "screenwriter",
+  "comedian",
+  "television actor",
+  "director",
+  "television producer",
+  "showrunner",
+  "film editor"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [
+  {
+   "title": "You Can See Everything",
+   "qid": "Q141336617",
+   "date": "2027-01-07",
+   "type": "film",
+   "directors": [
+    "Nathan Fielder",
+    "Lance Oppenheim"
+   ]
+  }
+ ],
+ "recent": [],
+ "directors": [
+  {
+   "name": "Nathan Fielder",
+   "projects": 1
+  },
+  {
+   "name": "Lance Oppenheim",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Miley",
+   "qid": "Q4235",
+   "projects": 1,
+   "fame": 143
+  },
+  {
+   "name": "Tracy Morgan",
+   "qid": "Q14542",
+   "projects": 1,
+   "fame": 38
+  },
+  {
+   "name": "Michael Shannon",
+   "qid": "Q41449",
+   "projects": 1,
+   "fame": 48
+  },
+  {
+   "name": "Joseph Gordon-Levitt",
+   "qid": "Q177311",
+   "projects": 1,
+   "fame": 70
+  },
+  {
+   "name": "Seth Rogen",
+   "qid": "Q220308",
+   "projects": 1,
+   "fame": 59
+  },
+  {
+   "name": "Lizzy Caplan",
+   "qid": "Q236578",
+   "projects": 1,
+   "fame": 47
+  },
+  {
+   "name": "James Franco",
+   "qid": "Q306403",
+   "projects": 1,
+   "fame": 83
+  },
+  {
+   "name": "Baron Davis",
+   "qid": "Q313486",
+   "projects": 1,
+   "fame": 33
+  },
+  {
+   "name": "Lorraine Toussaint",
+   "qid": "Q460786",
+   "projects": 1,
+   "fame": 28
+  },
+  {
+   "name": "Anthony Mackie",
+   "qid": "Q511554",
+   "projects": 1,
+   "fame": 56
+  },
+  {
+   "name": "Mindy Kaling",
+   "qid": "Q539917",
+   "projects": 1,
+   "fame": 49
+  },
+  {
+   "name": "Evan Goldberg",
+   "qid": "Q3061320",
+   "projects": 1,
+   "fame": 28
+  },
+  {
+   "name": "Christopher Abbott",
+   "qid": "Q5111829",
+   "projects": 1,
+   "fame": 30
+  },
+  {
+   "name": "Q6163031",
+   "qid": "Q6163031",
+   "projects": 1,
+   "fame": 23
+  },
+  {
+   "name": "Randall Park",
+   "qid": "Q7291588",
+   "projects": 1,
+   "fame": 33
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}

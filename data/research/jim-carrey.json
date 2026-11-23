@@ -1,0 +1,225 @@
+{
+ "name": "Jim Carrey",
+ "qid": "Q40504",
+ "description": "Canadian-American actor and comedian (born 1962)",
+ "wikipedia_editions": 126,
+ "born": "1962-01-17",
+ "birthplace": "Newmarket",
+ "occupations": [
+  "comedian",
+  "film producer",
+  "voice actor",
+  "screenwriter",
+  "television actor",
+  "actor",
+  "painter",
+  "stand-up comedian",
+  "film actor"
+ ],
+ "relationships": [
+  {
+   "name": "Melissa Womer",
+   "qid": "Q47003901",
+   "kind": "spouse",
+   "start": "1987-00-00",
+   "end": "1995-00-00",
+   "ended_by": "Q93190",
+   "fame": 0
+  },
+  {
+   "name": "Lauren Holly",
+   "qid": "Q229560",
+   "kind": "spouse",
+   "start": "1996-01-01",
+   "end": "1997-01-01",
+   "ended_by": "Q93190",
+   "fame": 47
+  },
+  {
+   "name": "Renée Zellweger",
+   "qid": "Q122614",
+   "kind": "partner",
+   "start": "1999-00-00",
+   "end": "2000-00-00",
+   "ended_by": "",
+   "fame": 94
+  },
+  {
+   "name": "Laurie Holden",
+   "qid": "Q18947",
+   "kind": "partner",
+   "start": "2001-00-00",
+   "end": "2004-00-00",
+   "ended_by": "",
+   "fame": 56
+  },
+  {
+   "name": "Jenny McCarthy",
+   "qid": "Q230993",
+   "kind": "partner",
+   "start": "2005-00-00",
+   "end": "2010-00-00",
+   "ended_by": "",
+   "fame": 43
+  },
+  {
+   "name": "Ginger Gonzaga",
+   "qid": "Q66313855",
+   "kind": "partner",
+   "start": "2018-00-00",
+   "end": "2019-00-00",
+   "ended_by": "",
+   "fame": 15
+  },
+  {
+   "name": "Min Ah",
+   "qid": "Q141695923",
+   "kind": "spouse",
+   "start": "2026-00-00",
+   "end": "",
+   "ended_by": "",
+   "fame": 0
+  }
+ ],
+ "family": {
+  "children_recorded": 1,
+  "adult_children_public": [
+   {
+    "name": "Jane Carrey",
+    "qid": "Q27445213"
+   }
+  ],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [
+  {
+   "title": "Sonic the Hedgehog 4",
+   "qid": "Q131495871",
+   "date": "2027-03-19",
+   "type": "film project",
+   "directors": [
+    "Jeff Fowler"
+   ]
+  }
+ ],
+ "recent": [
+  {
+   "title": "Sonic the Hedgehog 3",
+   "qid": "Q115859490",
+   "date": "2024-12-26",
+   "type": "film",
+   "directors": [
+    "Jeff Fowler"
+   ]
+  },
+  {
+   "title": "Sonic the Hedgehog 2",
+   "qid": "Q105970894",
+   "date": "2022-09-23",
+   "type": "film",
+   "directors": [
+    "Jeff Fowler"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Jeff Fowler",
+   "projects": 3
+  }
+ ],
+ "costars": [
+  {
+   "name": "James Marsden",
+   "qid": "Q485901",
+   "projects": 6,
+   "fame": 60
+  },
+  {
+   "name": "Tika Sumpter",
+   "qid": "Q748404",
+   "projects": 5,
+   "fame": 32
+  },
+  {
+   "name": "Adam Pally",
+   "qid": "Q350589",
+   "projects": 3,
+   "fame": 22
+  },
+  {
+   "name": "Natasha Rothwell",
+   "qid": "Q62007121",
+   "projects": 3,
+   "fame": 18
+  },
+  {
+   "name": "Keanu Reeves",
+   "qid": "Q43416",
+   "projects": 3,
+   "fame": 124
+  },
+  {
+   "name": "Shemar Moore",
+   "qid": "Q320941",
+   "projects": 2,
+   "fame": 39
+  },
+  {
+   "name": "Will Ferrell",
+   "qid": "Q218503",
+   "projects": 2,
+   "fame": 78
+  },
+  {
+   "name": "Idris Elba",
+   "qid": "Q342604",
+   "projects": 2,
+   "fame": 86
+  },
+  {
+   "name": "Ben Schwartz",
+   "qid": "Q4886423",
+   "projects": 2,
+   "fame": 31
+  },
+  {
+   "name": "Mark Millar",
+   "qid": "Q2543",
+   "projects": 1,
+   "fame": 27
+  },
+  {
+   "name": "Q2570",
+   "qid": "Q2570",
+   "projects": 1,
+   "fame": 18
+  },
+  {
+   "name": "Chloë Grace Moretz",
+   "qid": "Q4509",
+   "projects": 1,
+   "fame": 72
+  },
+  {
+   "name": "Reese Witherspoon",
+   "qid": "Q44063",
+   "projects": 1,
+   "fame": 104
+  },
+  {
+   "name": "Aaron Taylor-Johnson",
+   "qid": "Q45923",
+   "projects": 1,
+   "fame": 54
+  },
+  {
+   "name": "Steve Buscemi",
+   "qid": "Q104061",
+   "projects": 1,
+   "fame": 74
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}

@@ -1,0 +1,156 @@
+{
+ "name": "David Walliams",
+ "qid": "Q359665",
+ "description": "English actor, comedian and writer",
+ "wikipedia_editions": 45,
+ "born": "1971-08-20",
+ "birthplace": "Wimbledon",
+ "occupations": [
+  "actor",
+  "comedian",
+  "writer",
+  "novelist",
+  "autobiographer",
+  "children's writer",
+  "screenwriter",
+  "stage actor",
+  "film actor",
+  "television presenter",
+  "television producer",
+  "television actor",
+  "television maker"
+ ],
+ "relationships": [
+  {
+   "name": "Lara Stone",
+   "qid": "Q239828",
+   "kind": "spouse",
+   "start": "2010-01-01",
+   "end": "2015-01-01",
+   "ended_by": "",
+   "fame": 30
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "My Happy Ending",
+   "qid": "Q116814534",
+   "date": "2023-01-01",
+   "type": "film",
+   "directors": [
+    "Sharon Maymon",
+    "Tal Granit"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Sharon Maymon",
+   "projects": 1
+  },
+  {
+   "name": "Tal Granit",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Steve Coogan",
+   "qid": "Q316709",
+   "projects": 2,
+   "fame": 40
+  },
+  {
+   "name": "Zach Galifianakis",
+   "qid": "Q139325",
+   "projects": 2,
+   "fame": 50
+  },
+  {
+   "name": "Stephen Fry",
+   "qid": "Q192912",
+   "projects": 2,
+   "fame": 66
+  },
+  {
+   "name": "Matt Lucas",
+   "qid": "Q317251",
+   "projects": 2,
+   "fame": 36
+  },
+  {
+   "name": "Caroline Sunshine",
+   "qid": "Q27326",
+   "projects": 1,
+   "fame": 31
+  },
+  {
+   "name": "George Lopez",
+   "qid": "Q73035",
+   "projects": 1,
+   "fame": 39
+  },
+  {
+   "name": "Kiefer Sutherland",
+   "qid": "Q103946",
+   "projects": 1,
+   "fame": 76
+  },
+  {
+   "name": "Q147077",
+   "qid": "Q147077",
+   "projects": 1,
+   "fame": 114
+  },
+  {
+   "name": "Owen Wilson",
+   "qid": "Q161916",
+   "projects": 1,
+   "fame": 77
+  },
+  {
+   "name": "Fergie",
+   "qid": "Q180004",
+   "projects": 1,
+   "fame": 77
+  },
+  {
+   "name": "William H. Macy",
+   "qid": "Q224159",
+   "projects": 1,
+   "fame": 62
+  },
+  {
+   "name": "Judy Greer",
+   "qid": "Q236189",
+   "projects": 1,
+   "fame": 42
+  },
+  {
+   "name": "Marlon Wayans",
+   "qid": "Q310785",
+   "projects": 1,
+   "fame": 47
+  },
+  {
+   "name": "Sam Elliott",
+   "qid": "Q311314",
+   "projects": 1,
+   "fame": 48
+  },
+  {
+   "name": "Lee Pace",
+   "qid": "Q355168",
+   "projects": 1,
+   "fame": 45
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}

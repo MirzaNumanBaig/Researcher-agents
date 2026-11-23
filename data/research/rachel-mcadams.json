@@ -1,0 +1,174 @@
+{
+ "name": "Rachel McAdams",
+ "qid": "Q190386",
+ "description": "Canadian actress (born 1978)",
+ "wikipedia_editions": 95,
+ "born": "1978-11-17",
+ "birthplace": "London",
+ "occupations": [
+  "film actor",
+  "actor",
+  "stage actor",
+  "television actor",
+  "environmentalist"
+ ],
+ "relationships": [
+  {
+   "name": "Jamie Linden",
+   "qid": "Q6147125",
+   "kind": "partner",
+   "start": "2016-00-00",
+   "end": "",
+   "ended_by": "",
+   "fame": 6
+  },
+  {
+   "name": "Ryan Gosling",
+   "qid": "Q193815",
+   "kind": "partner",
+   "start": "",
+   "end": "2007-00-00",
+   "ended_by": "",
+   "fame": 90
+  },
+  {
+   "name": "Michael Sheen",
+   "qid": "Q298276",
+   "kind": "partner",
+   "start": "",
+   "end": "2013-00-00",
+   "ended_by": "",
+   "fame": 54
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Send Help",
+   "qid": "Q132200341",
+   "date": "2026-01-30",
+   "type": "film",
+   "directors": [
+    "Sam Raimi"
+   ]
+  },
+  {
+   "title": "Are You There God? It's Me, Margaret",
+   "qid": "Q106448550",
+   "date": "2023-05-19",
+   "type": "film",
+   "directors": [
+    "Kelly Fremon Craig"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Sam Raimi",
+   "projects": 1
+  },
+  {
+   "name": "Kelly Fremon Craig",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Benedict Cumberbatch",
+   "qid": "Q244674",
+   "projects": 4,
+   "fame": 90
+  },
+  {
+   "name": "Chiwetel Ejiofor",
+   "qid": "Q317343",
+   "projects": 3,
+   "fame": 63
+  },
+  {
+   "name": "Michael Stuhlbarg",
+   "qid": "Q438445",
+   "projects": 3,
+   "fame": 39
+  },
+  {
+   "name": "Benedict Wong",
+   "qid": "Q3329808",
+   "projects": 3,
+   "fame": 43
+  },
+  {
+   "name": "Eddie Marsan",
+   "qid": "Q45647",
+   "projects": 2,
+   "fame": 31
+  },
+  {
+   "name": "Jude Law",
+   "qid": "Q160432",
+   "projects": 2,
+   "fame": 90
+  },
+  {
+   "name": "Robert Downey Jr.",
+   "qid": "Q165219",
+   "projects": 2,
+   "fame": 114
+  },
+  {
+   "name": "Kelly Reilly",
+   "qid": "Q236167",
+   "projects": 2,
+   "fame": 36
+  },
+  {
+   "name": "Geraldine James",
+   "qid": "Q440926",
+   "projects": 2,
+   "fame": 32
+  },
+  {
+   "name": "Kathy Bates",
+   "qid": "Q544465",
+   "projects": 2,
+   "fame": 87
+  },
+  {
+   "name": "Clive Russell",
+   "qid": "Q1102002",
+   "projects": 2,
+   "fame": 21
+  },
+  {
+   "name": "Q6060",
+   "qid": "Q6060",
+   "projects": 2,
+   "fame": 112
+  },
+  {
+   "name": "Rainer Bock",
+   "qid": "Q97010",
+   "projects": 2,
+   "fame": 15
+  },
+  {
+   "name": "John Krasinski",
+   "qid": "Q313039",
+   "projects": 2,
+   "fame": 59
+  },
+  {
+   "name": "Noomi Rapace",
+   "qid": "Q228676",
+   "projects": 2,
+   "fame": 56
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}

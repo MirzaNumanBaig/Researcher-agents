@@ -1,0 +1,254 @@
+{
+ "name": "Ryan Reynolds",
+ "qid": "Q192682",
+ "description": "Canadian-American actor (born 1976)",
+ "wikipedia_editions": 92,
+ "born": "1976-10-23",
+ "birthplace": "Vancouver",
+ "occupations": [
+  "actor",
+  "film actor",
+  "film producer",
+  "voice actor",
+  "television actor",
+  "video game actor"
+ ],
+ "relationships": [
+  {
+   "name": "Alanis Morissette",
+   "qid": "Q130742",
+   "kind": "partner",
+   "start": "2002-00-00",
+   "end": "2007-00-00",
+   "ended_by": "",
+   "fame": 83
+  },
+  {
+   "name": "Scarlett Johansson",
+   "qid": "Q34436",
+   "kind": "spouse",
+   "start": "2008-09-27",
+   "end": "2011-07-01",
+   "ended_by": "Q93190",
+   "fame": 158
+  },
+  {
+   "name": "Blake Lively",
+   "qid": "Q162959",
+   "kind": "spouse",
+   "start": "2012-09-09",
+   "end": "",
+   "ended_by": "",
+   "fame": 81
+  }
+ ],
+ "family": {
+  "children_recorded": 4,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [],
+ "recent": [
+  {
+   "title": "Mayday",
+   "qid": "Q124743667",
+   "date": "2026-09-04",
+   "type": "film",
+   "directors": [
+    "John Francis Daley",
+    "Jonathan Goldstein"
+   ]
+  },
+  {
+   "title": "Saturday Night Live 50th Anniversary Special",
+   "qid": "Q131806449",
+   "date": "2025-02-16",
+   "type": "television special",
+   "directors": []
+  },
+  {
+   "title": "Deadpool & Wolverine",
+   "qid": "Q102180106",
+   "date": "2024-11-08",
+   "type": "film",
+   "directors": [
+    "Shawn Levy"
+   ]
+  },
+  {
+   "title": "IF",
+   "qid": "Q111918059",
+   "date": "2024-05-17",
+   "type": "film",
+   "directors": [
+    "John Krasinski"
+   ]
+  },
+  {
+   "title": "Ghosted",
+   "qid": "Q111170185",
+   "date": "2023-04-21",
+   "type": "film",
+   "directors": [
+    "Dexter Fletcher"
+   ]
+  },
+  {
+   "title": "Spirited",
+   "qid": "Q107463341",
+   "date": "2022-11-11",
+   "type": "film",
+   "directors": [
+    "Sean Anders",
+    "John Morris"
+   ]
+  },
+  {
+   "title": "Welcome to Wrexham",
+   "qid": "Q113144658",
+   "date": "2022-08-24",
+   "type": "television series",
+   "directors": []
+  },
+  {
+   "title": "The Adam Project",
+   "qid": "Q104033835",
+   "date": "2022-03-11",
+   "type": "film",
+   "directors": [
+    "Shawn Levy"
+   ]
+  },
+  {
+   "title": "Betty White: A Celebration",
+   "qid": "Q110363177",
+   "date": "2022-01-17",
+   "type": "film",
+   "directors": []
+  }
+ ],
+ "directors": [
+  {
+   "name": "Shawn Levy",
+   "projects": 2
+  },
+  {
+   "name": "John Francis Daley",
+   "projects": 1
+  },
+  {
+   "name": "Jonathan Goldstein",
+   "projects": 1
+  },
+  {
+   "name": "John Krasinski",
+   "projects": 1
+  },
+  {
+   "name": "Dexter Fletcher",
+   "projects": 1
+  },
+  {
+   "name": "Sean Anders",
+   "projects": 1
+  },
+  {
+   "name": "John Morris",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Morena Baccarin",
+   "qid": "Q231091",
+   "projects": 4,
+   "fame": 56
+  },
+  {
+   "name": "Taika Waititi",
+   "qid": "Q2388576",
+   "projects": 3,
+   "fame": 54
+  },
+  {
+   "name": "Leslie Uggams",
+   "qid": "Q534925",
+   "projects": 3,
+   "fame": 31
+  },
+  {
+   "name": "Stefan Kapičić",
+   "qid": "Q1262154",
+   "projects": 3,
+   "fame": 22
+  },
+  {
+   "name": "Brianna Hildebrand",
+   "qid": "Q19956159",
+   "projects": 3,
+   "fame": 35
+  },
+  {
+   "name": "Karan Soni",
+   "qid": "Q22815258",
+   "projects": 3,
+   "fame": 23
+  },
+  {
+   "name": "Channing Tatum",
+   "qid": "Q212064",
+   "projects": 3,
+   "fame": 68
+  },
+  {
+   "name": "Rob Delaney",
+   "qid": "Q762782",
+   "projects": 3,
+   "fame": 24
+  },
+  {
+   "name": "David Leitch",
+   "qid": "Q5236475",
+   "projects": 3,
+   "fame": 31
+  },
+  {
+   "name": "Blake Lively",
+   "qid": "Q162959",
+   "projects": 2,
+   "fame": 81
+  },
+  {
+   "name": "Patrick Stewart",
+   "qid": "Q16296",
+   "projects": 2,
+   "fame": 93
+  },
+  {
+   "name": "Alex Borstein",
+   "qid": "Q116219",
+   "projects": 2,
+   "fame": 44
+  },
+  {
+   "name": "Seth MacFarlane",
+   "qid": "Q188492",
+   "projects": 2,
+   "fame": 80
+  },
+  {
+   "name": "Ray Romano",
+   "qid": "Q220836",
+   "projects": 2,
+   "fame": 46
+  },
+  {
+   "name": "Giovanni Ribisi",
+   "qid": "Q224081",
+   "projects": 2,
+   "fame": 64
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}

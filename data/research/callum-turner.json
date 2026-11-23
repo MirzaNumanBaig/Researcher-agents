@@ -1,0 +1,243 @@
+{
+ "name": "Callum Turner",
+ "qid": "Q18162913",
+ "description": "English actor (born 1990)",
+ "wikipedia_editions": 34,
+ "born": "1990-02-15",
+ "birthplace": "London",
+ "occupations": [
+  "actor",
+  "film director",
+  "television actor",
+  "model"
+ ],
+ "relationships": [
+  {
+   "name": "",
+   "qid": "Q21914464",
+   "kind": "spouse",
+   "start": "2026-05-31",
+   "end": "",
+   "ended_by": "",
+   "fame": 115
+  }
+ ],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [
+  {
+   "title": "The Comebacker",
+   "qid": "Q141756561",
+   "date": "2027-07-30",
+   "type": "film project",
+   "directors": [
+    "Marielle Heller"
+   ]
+  }
+ ],
+ "recent": [
+  {
+   "title": "One Night Only",
+   "qid": "Q135906833",
+   "date": "2026-08-28",
+   "type": "film",
+   "directors": [
+    "Will Gluck"
+   ]
+  },
+  {
+   "title": "Rose of Nevada",
+   "qid": "Q132645632",
+   "date": "2026-06-19",
+   "type": "film",
+   "directors": [
+    "Mark Jenkin"
+   ]
+  },
+  {
+   "title": "Rosebush Pruning",
+   "qid": "Q130369934",
+   "date": "2026-02-14",
+   "type": "film",
+   "directors": [
+    "Karim Aïnouz"
+   ]
+  },
+  {
+   "title": "Eternity",
+   "qid": "Q126203157",
+   "date": "2025-12-04",
+   "type": "film",
+   "directors": [
+    "David Freyne"
+   ]
+  },
+  {
+   "title": "Hedda",
+   "qid": "Q124215661",
+   "date": "2025-10-22",
+   "type": "film",
+   "directors": [
+    "Nia DaCosta"
+   ]
+  },
+  {
+   "title": "Atropia",
+   "qid": "Q124450737",
+   "date": "2025-01-25",
+   "type": "film",
+   "directors": [
+    "Hailey Gates"
+   ]
+  },
+  {
+   "title": "The Boys in the Boat",
+   "qid": "Q111528279",
+   "date": "2023-12-25",
+   "type": "film",
+   "directors": [
+    "George Clooney"
+   ]
+  },
+  {
+   "title": "Fantastic Beasts: The Secrets of Dumbledore",
+   "qid": "Q18199332",
+   "date": "2022-04-30",
+   "type": "film",
+   "directors": [
+    "David Yates"
+   ]
+  }
+ ],
+ "directors": [
+  {
+   "name": "Marielle Heller",
+   "projects": 1
+  },
+  {
+   "name": "Will Gluck",
+   "projects": 1
+  },
+  {
+   "name": "Mark Jenkin",
+   "projects": 1
+  },
+  {
+   "name": "Karim Aïnouz",
+   "projects": 1
+  },
+  {
+   "name": "David Freyne",
+   "projects": 1
+  },
+  {
+   "name": "Nia DaCosta",
+   "projects": 1
+  },
+  {
+   "name": "Hailey Gates",
+   "projects": 1
+  },
+  {
+   "name": "George Clooney",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Imogen Poots",
+   "qid": "Q237012",
+   "projects": 3,
+   "fame": 44
+  },
+  {
+   "name": "Eddie Redmayne",
+   "qid": "Q28288",
+   "projects": 2,
+   "fame": 79
+  },
+  {
+   "name": "Jude Law",
+   "qid": "Q160432",
+   "projects": 2,
+   "fame": 90
+  },
+  {
+   "name": "Alison Sudol",
+   "qid": "Q240830",
+   "projects": 2,
+   "fame": 35
+  },
+  {
+   "name": "Dan Fogler",
+   "qid": "Q374263",
+   "projects": 2,
+   "fame": 37
+  },
+  {
+   "name": "Ezra Miller",
+   "qid": "Q508049",
+   "projects": 2,
+   "fame": 53
+  },
+  {
+   "name": "Claudia Kim",
+   "qid": "Q3788246",
+   "projects": 2,
+   "fame": 37
+  },
+  {
+   "name": "Katherine Waterston",
+   "qid": "Q15222780",
+   "projects": 2,
+   "fame": 42
+  },
+  {
+   "name": "Alia Shawkat",
+   "qid": "Q466051",
+   "projects": 2,
+   "fame": 35
+  },
+  {
+   "name": "Johnny Depp",
+   "qid": "Q37175",
+   "projects": 1,
+   "fame": 149
+  },
+  {
+   "name": "Zoë Kravitz",
+   "qid": "Q227129",
+   "projects": 1,
+   "fame": 56
+  },
+  {
+   "name": "Q294647",
+   "qid": "Q294647",
+   "projects": 1,
+   "fame": 72
+  },
+  {
+   "name": "Richard Coyle",
+   "qid": "Q634365",
+   "projects": 1,
+   "fame": 18
+  },
+  {
+   "name": "Oliver Masucci",
+   "qid": "Q2020417",
+   "projects": 1,
+   "fame": 22
+  },
+  {
+   "name": "Maria Fernanda Cândido",
+   "qid": "Q2069825",
+   "projects": 1,
+   "fame": 18
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}

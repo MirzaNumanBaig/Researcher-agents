@@ -1,0 +1,70 @@
+{
+ "name": "Druski",
+ "qid": "Q111671188",
+ "description": "American comedian and actor (born 1994)",
+ "wikipedia_editions": 9,
+ "born": "1994-09-12",
+ "birthplace": "Baltimore",
+ "occupations": [
+  "comedian",
+  "influencer"
+ ],
+ "relationships": [],
+ "family": {
+  "children_recorded": 0,
+  "adult_children_public": [],
+  "note": "Minors are never named. Only relationships and children recorded on Wikidata are listed; no rumours."
+ },
+ "upcoming": [
+  {
+   "title": "The Catch",
+   "qid": "Q140796990",
+   "date": "2027-05-21",
+   "type": "film project",
+   "directors": [
+    "Dave McCary"
+   ]
+  }
+ ],
+ "recent": [],
+ "directors": [
+  {
+   "name": "Dave McCary",
+   "projects": 1
+  }
+ ],
+ "costars": [
+  {
+   "name": "Chris Pine",
+   "qid": "Q23466",
+   "projects": 1,
+   "fame": 117
+  },
+  {
+   "name": "Tim Robbins",
+   "qid": "Q95048",
+   "projects": 1,
+   "fame": 70
+  },
+  {
+   "name": "Q147077",
+   "qid": "Q147077",
+   "projects": 1,
+   "fame": 114
+  },
+  {
+   "name": "Sissy Spacek",
+   "qid": "Q190994",
+   "projects": 1,
+   "fame": 69
+  },
+  {
+   "name": "Irina Shayk",
+   "qid": "Q234458",
+   "projects": 1,
+   "fame": 60
+  }
+ ],
+ "anime_voice_roles": [],
+ "researched": "2026-11-23"
+}
