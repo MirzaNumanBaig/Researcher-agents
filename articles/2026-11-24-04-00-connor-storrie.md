@@ -5,7 +5,7 @@ seo_title: "Connor Storrie Hudson Williams: Living Together on Set"
 seo_description: "Connor Storrie says he lives with Hudson Williams while Heated Rivalry season 2 films. Here is what he told Vogue about the house, his buzzcut and style."
 focus_keyword: "Connor Storrie Hudson Williams"
 permalink: "connor-storrie-hudson-williams"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 04:00"
 celebrity: "Connor Storrie"
@@ -21,6 +21,15 @@ sources:
   - "https://tribune.com.pk/story/2641896/connor-storrie-reveals-surprising-details-about-his-life-with-hudson-williams"
   - "https://www.thepinknews.com/2026/11/23/connor-storrie-hudson-williams-heated-rivalry-season-2/"
   - "https://www.yardbarker.com/entertainment/articles/i_literally_live_with_him_connor_storrie_drops_a_major_heated_rivalry_season_2_filming_update/s1_17785_44606403"
+image: "images/2026-11-24-04-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3451
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-04-00-connor-storrie-768x432.webp"
+wp_id: 3452
+wp_link: "https://moduscarry.com/connor-storrie-hudson-williams/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

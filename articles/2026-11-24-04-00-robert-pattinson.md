@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond: Villeneuve Bond Casting Insight"
 seo_description: "Robert Pattinson Bond casting: insiders say his rapport with Denis Villeneuve beat rivals to 007, while Amanda Seyfried joked about a role opposite him."
 focus_keyword: "Robert Pattinson Bond"
 permalink: "robert-pattinson-bond-villeneuve"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 04:00"
 celebrity: "Robert Pattinson"
@@ -17,6 +17,15 @@ sources:
   - "https://meaww.com/who-is-the-next-bond-girl-james-bond-robert-pattinson-amanda-seyfried-instagram-comment-zendaya-hunter-schafer-sophie-turner-amazon-mgm"
   - "https://www.bbc.com/news/articles/cjn502pxyv22o"
   - "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+image: "images/2026-11-24-04-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Actor Robert Pattinson at the 75th Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3481
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-04-00-robert-pattinson-768x432.webp"
+wp_id: 3482
+wp_link: "https://moduscarry.com/robert-pattinson-bond-villeneuve/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

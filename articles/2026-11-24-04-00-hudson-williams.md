@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Connor Storrie Living Together, Yaga Renewed"
 seo_description: "Hudson Williams is living with Connor Storrie during Heated Rivalry season 2 filming, and his thriller Yaga has been renewed. Here is what we know."
 focus_keyword: "Hudson Williams Connor Storrie"
 permalink: "hudson-williams-connor-storrie-living-together"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 04:00"
 celebrity: "Hudson Williams"
@@ -19,6 +19,15 @@ sources:
   - "https://www.thepinknews.com/2026/11/23/connor-storrie-hudson-williams-heated-rivalry-season-2/"
   - "https://www.hollywoodreporter.com/tv/tv-news/crave-second-season-yaga-1236761048/"
   - "https://www.cbr.com/hudson-williams-yaga-season-2-renewal/"
+image: "images/2026-11-24-04-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams attends the premiere of \"YAGA\" during the 2026 Toronto International Film Festival at TIFF Lightbox on September 17, 2026 in Toronto, Ontario"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:2026_Toronto_International_Film_Festival_-_%22YAGA%22_Premiere_16.jpg\" rel=\"noopener\">Gabriel Hutchinson</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:2026_Toronto_International_Film_Festival_-_%22YAGA%22_Premiere_16.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3457
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-04-00-hudson-williams-768x432.webp"
+wp_id: 3458
+wp_link: "https://moduscarry.com/hudson-williams-connor-storrie-living-together/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

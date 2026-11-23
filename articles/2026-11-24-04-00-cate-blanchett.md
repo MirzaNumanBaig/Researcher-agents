@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Oxford Professorship and Displacement Film Fund"
 seo_description: "Cate Blanchett began her Oxford visiting professorship at the Sheldonian and backs the Displacement Film Fund's first five short films. Here is the detail."
 focus_keyword: "Cate Blanchett Oxford professorship"
 permalink: "cate-blanchett-oxford-professorship"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 04:00"
 celebrity: "Cate Blanchett"
@@ -15,6 +15,15 @@ image_prompt: "A grand historic university theatre at night, lit in purple and b
 sources:
   - "https://uk.news.yahoo.com/hollywood-star-cate-blanchett-spotted-130000098.html"
   - "https://thecontending.com/cate-blanchett-filmmakers-interview/"
+image: "images/2026-11-24-04-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett presenting the movie T\u00e1r at the Berlinale 2023"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:MKr26816_Cate_Blanchett_(T%C3%A1r,_Berlinale_2023).jpg\" rel=\"noopener\">Martin Kraft</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:MKr26816_Cate_Blanchett_(T%C3%A1r,_Berlinale_2023).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3447
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-04-00-cate-blanchett-768x432.webp"
+wp_id: 3448
+wp_link: "https://moduscarry.com/cate-blanchett-oxford-professorship/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

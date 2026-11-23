@@ -5,7 +5,7 @@ seo_title: "David Walliams Open Letter: 500 Creatives Demand Change"
 seo_description: "More than 500 creatives signed an open letter after the David Walliams allegations. He denies them, and police are investigating. Here is what we know."
 focus_keyword: "David Walliams open letter"
 permalink: "david-walliams-open-letter"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 04:00"
 celebrity: "David Walliams"
@@ -17,6 +17,15 @@ sources:
   - "https://closeronline.co.uk/celebrity/news/warnings-about-david-walliams-were-there-who-didnt-listen-and-why/"
   - "https://metro.co.uk/2026/11/23/david-walliams-unearthed-diary-reveals-shame-behaviour-29811913/"
   - "https://interaksyon.philstar.com/trends-spotlights/2026/11/23/321995/uk-police-investigate-allegations-against-best-selling-childrens-author-walliams/"
+image: "images/2026-11-24-04-00-david-walliams.webp"
+image_alt: "David Walliams: Movie Premiere"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Ashleigh_and_David_Walliams_(the_voice_of_Pudsey_in_the_movie)_(cropped).JPG\" rel=\"noopener\">Peculiar Realm</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Ashleigh_and_David_Walliams_(the_voice_of_Pudsey_in_the_movie)_(cropped).JPG\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3453
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-04-00-david-walliams-768x432.webp"
+wp_id: 3454
+wp_link: "https://moduscarry.com/david-walliams-open-letter/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

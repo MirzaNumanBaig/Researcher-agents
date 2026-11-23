@@ -5,7 +5,7 @@ seo_title: "Catherine O'Hara Home Alone Sequel: Columbus Has Doubts"
 seo_description: "Chris Columbus says a Catherine O'Hara Home Alone sequel is impossible to replace, as Disney reportedly develops a new film with Macaulay Culkin."
 focus_keyword: "Catherine O'Hara Home Alone sequel"
 permalink: "catherine-ohara-home-alone-sequel"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 04:00"
 celebrity: "Catherine O'Hara"
@@ -14,6 +14,15 @@ tags: ["Catherine O'Hara", "Seth Rogen"]
 image_prompt: "A cosy suburban house covered in Christmas lights on a snowy night, warm light glowing in the windows"
 sources:
   - "https://gursesintour.com/en/aktualnye-novosti/rejisser-odin-doma-ysomnilsia-v-yspehe-sikvela-bez-ketrin-ohary/1272877/"
+image: "images/2026-11-24-04-00-catherine-o-hara.webp"
+image_alt: "Catherine O'Hara: Catherine O'Hara, actor in 'The Wild Robot', at the 2024 Toronto International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg\" rel=\"noopener\">John Sears</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Catherine_O%27Hara_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3449
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-04-00-catherine-o-hara-768x432.webp"
+wp_id: 3450
+wp_link: "https://moduscarry.com/catherine-ohara-home-alone-sequel/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

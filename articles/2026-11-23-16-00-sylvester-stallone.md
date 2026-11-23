@@ -23,6 +23,7 @@ wp_id: 3444
 wp_link: "https://moduscarry.com/i-play-rocky-weekend-box-office/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Knicks Game: Jumbotron Moment Goes Viral"
 seo_description: "Inde Navarrette Knicks courtside appearance: the Obsession star got a jumbotron shoutout at Madison Square Garden. Here is what happened."
 focus_keyword: "Inde Navarrette Knicks"
 permalink: "inde-navarrette-knicks-courtside"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 04:00"
 celebrity: "Inde Navarrette"
@@ -14,6 +14,15 @@ tags: ["Inde Navarrette", "X-Men", "Marvel Studios"]
 image_prompt: "A packed basketball arena at night with a glowing jumbotron above the court and courtside seats in warm light."
 sources:
   - "https://sports.yahoo.com/articles/inde-navarrette-serves-flawless-face-133129986.html"
+image: "images/2026-11-24-04-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_01.jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_01.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3461
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-04-00-inde-navarrette-768x432.webp"
+wp_id: 3462
+wp_link: "https://moduscarry.com/inde-navarrette-knicks-courtside/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

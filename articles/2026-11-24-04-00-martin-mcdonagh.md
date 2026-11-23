@@ -5,7 +5,7 @@ seo_title: "Martin McDonagh Wild Horse Nine: Why Malkovich Was Cast"
 seo_description: "Martin McDonagh's Wild Horse Nine: casting director Sarah Finn explains why John Malkovich was the only choice to play the dying CIA agent Chris."
 focus_keyword: "Martin McDonagh Wild Horse Nine"
 permalink: "martin-mcdonagh-wild-horse-nine-malkovich"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 04:00"
 celebrity: "Martin McDonagh"
@@ -14,6 +14,15 @@ tags: ["Martin McDonagh", "Wild Horse Nine", "John Malkovich", "Sam Rockwell", "
 image_prompt: "An empty theatre stage with a single spotlight and a worn wooden chair, moths drifting through the warm light"
 sources:
   - "https://www.motionpictures.org/2026/11/national-treasure-casting-director-sarah-finn-on-why-john-malkovich-was-the-only-choice-for-martin-mcdonaghs-wild-horse-nine/"
+image: "images/2026-11-24-04-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Martin McDonagh, director, at 82nd Venice International Film Festival in Venice, Italy for the film Wild Horse Nine."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_(cropped_3x4).jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_(cropped_3x4).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3471
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-04-00-martin-mcdonagh-768x432.webp"
+wp_id: 3472
+wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine-malkovich/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
