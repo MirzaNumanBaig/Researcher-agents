@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-07",
-   "time": "2026-11-07T17:42:21+00:00",
-   "batch": "2026-11-08 04:00",
-   "celebrity": "Ryan Reynolds",
-   "article": "2026-11-08-04-00-ryan-reynolds.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 5557,
-   "cache_read_tokens": 238020,
-   "cache_write_tokens": 39072,
-   "turns": 11,
-   "seconds": 46,
-   "cost_usd": 0.2358
-  },
-  {
-   "date": "2026-11-07",
    "time": "2026-11-07T21:27:14+00:00",
    "batch": "2026-11-08 08:00",
    "celebrity": "Cate Blanchett",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 31,
    "cost_usd": 0.2394
+  },
+  {
+   "date": "2026-11-23",
+   "time": "2026-11-23T17:43:26+00:00",
+   "batch": "2026-11-24 04:00",
+   "celebrity": "David Walliams",
+   "article": "2026-11-24-04-00-david-walliams.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4270,
+   "cache_read_tokens": 147924,
+   "cache_write_tokens": 40917,
+   "turns": 7,
+   "seconds": 28,
+   "cost_usd": 0.2213
   }
  ]
 }
