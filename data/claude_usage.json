@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-08",
-   "time": "2026-11-08T15:51:01+00:00",
-   "batch": "2026-11-09 02:00",
-   "celebrity": "Delta Goodrem",
-   "article": "2026-11-09-02-00-delta-goodrem.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 4708,
-   "cache_read_tokens": 197133,
-   "cache_write_tokens": 28335,
-   "turns": 11,
-   "seconds": 37,
-   "cost_usd": 0.1803
-  },
-  {
-   "date": "2026-11-08",
    "time": "2026-11-08T15:51:51+00:00",
    "batch": "2026-11-09 02:00",
    "celebrity": "Hugh Jackman",
@@ -23999,6 +23983,22 @@
    "turns": 8,
    "seconds": 32,
    "cost_usd": 0.1425
+  },
+  {
+   "date": "2026-11-23",
+   "time": "2026-11-23T18:21:56+00:00",
+   "batch": "2026-11-24 04:00",
+   "celebrity": "Nathan Fielder",
+   "article": "2026-11-24-04-00-nathan-fielder.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4804,
+   "cache_read_tokens": 167631,
+   "cache_write_tokens": 30701,
+   "turns": 8,
+   "seconds": 34,
+   "cost_usd": 0.1878
   }
  ]
 }
