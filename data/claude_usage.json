@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-08",
-   "time": "2026-11-08T16:10:30+00:00",
-   "batch": "2026-11-09 02:00",
-   "celebrity": "Russell Crowe",
-   "article": "2026-11-09-02-00-russell-crowe.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 1380,
-   "cache_read_tokens": 143457,
-   "cache_write_tokens": 20511,
-   "turns": 9,
-   "seconds": 22,
-   "cost_usd": 0.1104
-  },
-  {
-   "date": "2026-11-08",
    "time": "2026-11-08T16:13:45+00:00",
    "batch": "2026-11-09 02:00",
    "celebrity": "Ryan Reynolds",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 12,
    "cost_usd": 0.1206
+  },
+  {
+   "date": "2026-11-23",
+   "time": "2026-11-23T18:36:48+00:00",
+   "batch": "2026-11-24 04:00",
+   "celebrity": "Sam Rockwell",
+   "article": "2026-11-24-04-00-sam-rockwell.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 3164,
+   "cache_read_tokens": 186666,
+   "cache_write_tokens": 23758,
+   "turns": 9,
+   "seconds": 31,
+   "cost_usd": 0.1472
   }
  ]
 }
