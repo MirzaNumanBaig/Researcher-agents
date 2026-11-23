@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-24 04:00",
+  "celebrity": "Street Fighter",
+  "stories": [
+    {
+      "title": "FIGHT! Check out the official Street Fighter movie trailer right now",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2Y3M1NBU1liTDNGUmpMRlBRQlFDcEdaTURIZERqM05mbVRJR1lpM3ZIVjhHUHpQZDFhM0hsWmw1eTVSdDB5bEk1eGFYeC1aM29DZEFicDcwejNhMGE5bWhYbGNUc3NqU3JvelZJQ1h5WmJNX2E5U1JDbk05dDN2V3pLU3llZk5hMXNPWUI4MnN2SkVZYzlJOVB6Z3NaRFhv0gGmAUFVX3lxTE5wOEY1amFWRy1kcF9RYkp3N1JDT2tYQVVwSjdFc3JkZFQ0aXB5dTJnOFA2SHBNWm0yYWdRdmtsejlILWFoSE5hZklqTmhsN09OblNvZWI1VG9FdWpjOVZGTVN6ZkNjOVFKQlpLaTR6ZjltMVBkNjVIYjZSZkQyOUdYMEFPZGhWaE9uTGozMEpwZFM5eFhERFo3NkxhTXJFYXY3cUlDaVE?oc=5",
+      "published": "2026-11-23T16:00:57+00:00",
+      "outlets": [
+        {
+          "source": "Gaming Age",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2Y3M1NBU1liTDNGUmpMRlBRQlFDcEdaTURIZERqM05mbVRJR1lpM3ZIVjhHUHpQZDFhM0hsWmw1eTVSdDB5bEk1eGFYeC1aM29DZEFicDcwejNhMGE5bWhYbGNUc3NqU3JvelZJQ1h5WmJNX2E5U1JDbk05dDN2V3pLU3llZk5hMXNPWUI4MnN2SkVZYzlJOVB6Z3NaRFhv0gGmAUFVX3lxTE5wOEY1amFWRy1kcF9RYkp3N1JDT2tYQVVwSjdFc3JkZFQ0aXB5dTJnOFA2SHBNWm0yYWdRdmtsejlILWFoSE5hZklqTmhsN09OblNvZWI1VG9FdWpjOVZGTVN6ZkNjOVFKQlpLaTR6ZjltMVBkNjVIYjZSZkQyOUdYMEFPZGhWaE9uTGozMEpwZFM5eFhERFo3NkxhTXJFYXY3cUlDaVE?oc=5",
+          "article_url": "https://gaming-age.com/2026/04/fight-check-out-the-official-street-fighter-movie-trailer-right-now/",
+          "image": "https://gaming-age.com/wp-content/uploads/2026/04/Street_Fighter___Official_Trailer__2026_Movie.jpg"
+        }
+      ],
+      "image": "https://gaming-age.com/wp-content/uploads/2026/04/Street_Fighter___Official_Trailer__2026_Movie.jpg",
+      "image_source": "https://gaming-age.com/2026/04/fight-check-out-the-official-street-fighter-movie-trailer-right-now/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Street Fighter",
+      "release": "2026-10-12",
+      "director": [
+        "Kitao Sakurai"
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Cody Rhodes",
+        "Orville Peck"
+      ],
+      "budget_usd": 82000000,
+      "box_office_usd": 100800000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.23,
+      "rotten_tomatoes": "42%",
+      "metacritic": "43/100 from 28 critics",
+      "critics_consensus": "The latest iteration of Street Fighter has plenty of affection for its source material and doesn't lack for dizzying style, but its incoherent storytelling and juvenile humor make for a disappointing regression among video game adaptations.",
+      "critics_overview": "It received a 65% definite recommend for children under 12. The audience was 30% Latino and Hispanic, 29% Caucasian, 21% Black, 14% Asian American and 6% Native American or Other.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q130345436",
+        "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+      }
+    }
+  ]
+}

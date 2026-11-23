@@ -1,0 +1,70 @@
+{
+  "batch": "2026-11-24 04:00",
+  "celebrity": "Nathan Fielder",
+  "stories": [
+    {
+      "title": "Mr. Fielder, I’m Ready for My Close-Up",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVhXUl8zNXBJOHNySFd6UTVGZXlvVk9NYXkzRXh1QjMzQTlhWFJ4d2E0bV9VX3pJNjB6elVfTmpkWm9rLUxVRHpPWldrZ3NnODgybkNQMmd4emVCSHBDQ0dNV0g2NE5yWGtUMzlwTE9tNF9hbjZXNFE2R0llOUNoZE9mQUhCR1E3QXBzOUJWOGdoSGRESlU4Xw?oc=5",
+      "published": "2026-11-23T16:02:09+00:00",
+      "outlets": [
+        {
+          "source": "Los Angeles Review of Books",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVhXUl8zNXBJOHNySFd6UTVGZXlvVk9NYXkzRXh1QjMzQTlhWFJ4d2E0bV9VX3pJNjB6elVfTmpkWm9rLUxVRHpPWldrZ3NnODgybkNQMmd4emVCSHBDQ0dNV0g2NE5yWGtUMzlwTE9tNF9hbjZXNFE2R0llOUNoZE9mQUhCR1E3QXBzOUJWOGdoSGRESlU4Xw?oc=5",
+          "article_url": "https://lareviewofbooks.org/article/elizabeth-holmes-you-can-see-everything-fielder-seyfriend/",
+          "image": "https://cdn.lareviewofbooks.org/unsafe/fit-in/1200x0/filters:format(png):quality(75)/https%3A%2F%2Fassets.lareviewofbooks.org%2Fuploads%2FThe%20Dropout%20Elizabeth%20Holmes%20Seyfried.png"
+        }
+      ],
+      "image": "https://cdn.lareviewofbooks.org/unsafe/fit-in/1200x0/filters:format(png):quality(75)/https%3A%2F%2Fassets.lareviewofbooks.org%2Fuploads%2FThe%20Dropout%20Elizabeth%20Holmes%20Seyfried.png",
+      "image_source": "https://lareviewofbooks.org/article/elizabeth-holmes-you-can-see-everything-fielder-seyfriend/"
+    },
+    {
+      "title": "Finally, the U.K. Can See Everything: Nathan Fielder’s Elizabeth Holmes Doc Makes British Box Office History",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zT3lwZ0N5RTRSSUJuaURMdEEwa2I2a1o4MTl0LS01ZGw0TWVRME9xcjRMaFEyWlBQMzZZRDhhZWVHeTJ6TjAzSzU4aXhiTjBTSzBMNVpDckxvQkNVU3lhQ2JOQnZHdEE?oc=5",
+      "published": "2026-11-23T13:17:18+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zT3lwZ0N5RTRSSUJuaURMdEEwa2I2a1o4MTl0LS01ZGw0TWVRME9xcjRMaFEyWlBQMzZZRDhhZWVHeTJ6TjAzSzU4aXhiTjBTSzBMNVpDckxvQkNVU3lhQ2JOQnZHdEE?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66124367/?ref_=nmnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVnhSTXNPS3hoUllTd2lpMlhrOEE3a2pGNFo5NFhGZEdiQmRXZExwRFNFQ05TTkpONnRnY2JNdEMyOEFHTkFnNmJzc3lxbkZwa0FkWUoyanBTR0NZaGdJYVc2cm9XTmRZNy1vYU5sS0x5Rm1IeWpVYjdqSUVVTDNxS1Y0a2JoSGJyX0dGelp1UDFHa3ZqS2R3NFZNNkdpand0RWttUTNOZ2ZiNWVEMFZnMFlUZnFXVzlVaFNGYg?oc=5",
+          "article_url": "https://www.hollywoodreporter.com/movies/movie-news/uk-you-can-see-everything-holmes-nathan-fielder-film-a24-1236761013/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "You Can See Everything",
+      "release": "2026-09-06",
+      "director": [
+        "Lance Oppenheim",
+        "Nathan Fielder"
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Christopher Abbott"
+      ],
+      "budget_usd": 7000000,
+      "box_office_usd": 93000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 13.29,
+      "rotten_tomatoes": "97% from 229 reviews",
+      "metacritic": "97/100 from 43 critics",
+      "critics_consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+      "critics_overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+        "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+      }
+    }
+  ]
+}

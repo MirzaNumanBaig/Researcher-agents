@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-24 04:00",
+  "celebrity": "Cate Blanchett",
+  "stories": [
+    {
+      "title": "Cate Blanchett & the Filmmakers of the Displacement Film Fund On the Organization's Mission and Their Selected Work",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oQWNNWFE2RzdpNGxDLVFELTRLOUo3QmFXcks4Y3EyZW5IQ3VkOF9nTThBNE9IMy0wN1VSSWtHbWNjMVNpWkl3WTZzQlVEdFdrV3F0T1cyOEw4elRxUzFDdHpDTE1ZRTJMUVpNLUhDSQ?oc=5",
+      "published": "2026-11-23T14:00:40+00:00",
+      "outlets": [
+        {
+          "source": "The Contending",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oQWNNWFE2RzdpNGxDLVFELTRLOUo3QmFXcks4Y3EyZW5IQ3VkOF9nTThBNE9IMy0wN1VSSWtHbWNjMVNpWkl3WTZzQlVEdFdrV3F0T1cyOEw4elRxUzFDdHpDTE1ZRTJMUVpNLUhDSQ?oc=5",
+          "article_url": "https://thecontending.com/cate-blanchett-filmmakers-interview/",
+          "image": "https://thecontending.com/wp-content/uploads/2026/11/displace.png"
+        }
+      ],
+      "image": "https://thecontending.com/wp-content/uploads/2026/11/displace.png",
+      "image_source": "https://thecontending.com/cate-blanchett-filmmakers-interview/"
+    },
+    {
+      "title": "Hollywood star Cate Blanchett spotted in centre of Oxford",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGZuR20tQk5SS202Z3RCMENIV0pNMGw4UE8yemFMSWZEMTVMZHFfbzZHb1RITmpDVGZfTm1sYl9qTkxRaFJ6QmxDWlhYdi05bHRNWjR4eFE5SHU3amg4VlQyTjQtSE9zWVFUTUNxdllDQ21uZkRUV3NDR1JyZTF2ME4xTjU?oc=5",
+      "published": "2026-11-23T13:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo News UK",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGZuR20tQk5SS202Z3RCMENIV0pNMGw4UE8yemFMSWZEMTVMZHFfbzZHb1RITmpDVGZfTm1sYl9qTkxRaFJ6QmxDWlhYdi05bHRNWjR4eFE5SHU3amg4VlQyTjQtSE9zWVFUTUNxdllDQ21uZkRUV3NDR1JyZTF2ME4xTjU?oc=5",
+          "article_url": "https://uk.news.yahoo.com/hollywood-star-cate-blanchett-spotted-130000098.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/30d966afc7a562be6ce72c47dac43486e8e5558af2a0ec637b895aba92717dbb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foxford_mail_251%2F037a2a912d623ea969c273d1664c2e8b.jpg_up.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/30d966afc7a562be6ce72c47dac43486e8e5558af2a0ec637b895aba92717dbb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foxford_mail_251%2F037a2a912d623ea969c273d1664c2e8b.jpg_up.jpg",
+      "image_source": "https://uk.news.yahoo.com/hollywood-star-cate-blanchett-spotted-130000098.html"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-24 04:00",
+  "celebrity": "Johnny Depp",
+  "stories": [
+    {
+      "title": "Johnny Depp’s ‘Ebenezer’ Slides Down the Box Office Chart in Its Sophomore Weekend",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEV203TUZOclI4WDJGaHIzNUczcE8xRGNBT0Y3QWZwTVlneHRYT2Y2bEk4bUxaR1htakpTTW5IZjh1cjBnRWhNYnZmM21hVnp1Q2tlc2tSeXFtc1diVnprT2RBUDAxUQ?oc=5",
+      "published": "2026-11-23T08:46:05+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEV203TUZOclI4WDJGaHIzNUczcE8xRGNBT0Y3QWZwTVlneHRYT2Y2bEk4bUxaR1htakpTTW5IZjh1cjBnRWhNYnZmM21hVnp1Q2tlc2tSeXFtc1diVnprT2RBUDAxUQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "‘Ebenezer’: Johnny Depp in a Dickens That Gets Goth & God",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlI4Nmcydnc5R2FUSV9VeGN5N3BxUlFfeDNNQlJLZnF2aTAtekh1SmRhNndaSjIyNjlNdFFwRTVZcmVoM0txUXNyS3ZiM0JSUTlObWJRaElDblNNVVZRZWtXeHpVLTBNUjRsVHF3NE9faGNYSlhWbUtlSG9mYUpqdlNTeUktdDRQX0phSW5UXzJLTVE0YTVEbA?oc=5",
+      "published": "2026-11-22T05:44:56+00:00",
+      "outlets": [
+        {
+          "source": "Patheos",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlI4Nmcydnc5R2FUSV9VeGN5N3BxUlFfeDNNQlJLZnF2aTAtekh1SmRhNndaSjIyNjlNdFFwRTVZcmVoM0txUXNyS3ZiM0JSUTlObWJRaElDblNNVVZRZWtXeHpVLTBNUjRsVHF3NE9faGNYSlhWbUtlSG9mYUpqdlNTeUktdDRQX0phSW5UXzJLTVE0YTVEbA?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

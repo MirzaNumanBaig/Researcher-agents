@@ -1,0 +1,47 @@
+{
+  "batch": "2026-11-24 04:00",
+  "celebrity": "Mckenna Grace",
+  "stories": [
+    {
+      "title": "Mckenna Grace was originally told she was \"too old\" to play Daphne in Netflix's Scooby-Doo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSmxCWUtmWXVLUmt2TTZzUjNhYTVJbFVJaWxYemZfeVRCR0xPYWx1T0lUOXZxTlpJS3ZJMnJFVWVaQXZQbHRldU90ODVrSXpqSTBPVWVpZGNzbGlXRk1jTDVwOHJZZ28zelJ2cGpRZDNtNjNoZFlfZDN4cTdzbXhKZ29QT0ZCOVFNRmo4?oc=5",
+      "published": "2026-11-23T10:39:00+00:00",
+      "outlets": [
+        {
+          "source": "Capital UK",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSmxCWUtmWXVLUmt2TTZzUjNhYTVJbFVJaWxYemZfeVRCR0xPYWx1T0lUOXZxTlpJS3ZJMnJFVWVaQXZQbHRldU90ODVrSXpqSTBPVWVpZGNzbGlXRk1jTDVwOHJZZ28zelJ2cGpRZDNtNjNoZFlfZDN4cTdzbXhKZ29QT0ZCOVFNRmo4?oc=5",
+          "article_url": "https://www.capitalfm.com/news/tv-film/mckenna-grace-age-how-old-daphne-scooby-doo/",
+          "image": "https://imgs.capitalfm.com/images/853827?width=1200&crop=16_9&signature=cuMrH_9kFTcdBsXaUgq--htLn2M="
+        }
+      ],
+      "image": "https://imgs.capitalfm.com/images/853827?width=1200&crop=16_9&signature=cuMrH_9kFTcdBsXaUgq--htLn2M=",
+      "image_source": "https://www.capitalfm.com/news/tv-film/mckenna-grace-age-how-old-daphne-scooby-doo/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Last Kiss",
+      "release": "2026-09-15",
+      "director": [
+        "Yoko Okumura"
+      ],
+      "cast": [
+        "Mckenna Grace",
+        "Jaden Michael"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141430687",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Kiss_(2026_film)"
+      }
+    }
+  ]
+}
