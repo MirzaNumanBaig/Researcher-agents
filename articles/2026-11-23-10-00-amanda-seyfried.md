@@ -25,6 +25,7 @@ wp_id: 3397
 wp_link: "https://moduscarry.com/amanda-seyfried-streaming-in-time-red-riding-hood/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

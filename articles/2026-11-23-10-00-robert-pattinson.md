@@ -24,6 +24,7 @@ wp_id: 3414
 wp_link: "https://moduscarry.com/robert-pattinson-bond-pinewood/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
