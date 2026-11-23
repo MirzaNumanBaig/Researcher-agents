@@ -24,6 +24,7 @@ wp_id: 3426
 wp_link: "https://moduscarry.com/david-walliams-allegations-memoir-charity-book/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

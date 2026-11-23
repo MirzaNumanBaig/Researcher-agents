@@ -25,6 +25,7 @@ wp_id: 3442
 wp_link: "https://moduscarry.com/street-fighter-box-office-digital-release/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
