@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Pinewood: Studio Hopes to Host 007"
 seo_description: "Robert Pattinson Bond Pinewood talks: the studio behind 23 of 25 007 films says it has its fingers crossed for the new film. Here is what is known."
 focus_keyword: "Robert Pattinson Bond Pinewood"
 permalink: "robert-pattinson-bond-pinewood"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 10:00"
 celebrity: "Robert Pattinson"
@@ -15,6 +15,15 @@ image_prompt: "A grand film studio soundstage at dusk with a vintage silver spor
 sources:
   - "https://variety.com/2026/film/global/robert-pattinson-bond-movie-shoot-pinewood-studios-1236954829/"
   - "https://instinctmagazine.com/robert-pattinson-james-bond-007/"
+image: "images/2026-11-23-10-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3413
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-10-00-robert-pattinson-768x432.webp"
+wp_id: 3414
+wp_link: "https://moduscarry.com/robert-pattinson-bond-pinewood/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

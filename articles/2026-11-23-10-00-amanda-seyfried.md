@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Streaming: In Time and Red Riding Hood"
 seo_description: "Amanda Seyfried's In Time lands on Paramount Plus and Red Riding Hood on Tubi on 1 December. Here is what to know before you press play."
 focus_keyword: "Amanda Seyfried streaming"
 permalink: "amanda-seyfried-streaming-in-time-red-riding-hood"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 10:00"
 celebrity: "Amanda Seyfried"
@@ -16,6 +16,15 @@ sources:
   - "https://movieweb.com/in-time-cillian-murphy-streaming-november-2026/"
   - "https://www.cbr.com/red-riding-hood-horror-fantasy-tubi-december-2026/"
   - "https://www.geo.tv/latest/692042-amanda-seyfried-reeasl-why-she-needed-break-from-elizabeth-holmes"
+image: "images/2026-11-23-10-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried , 83rd Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried-6.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried-6.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3396
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-10-00-amanda-seyfried-768x432.webp"
+wp_id: 3397
+wp_link: "https://moduscarry.com/amanda-seyfried-streaming-in-time-red-riding-hood/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

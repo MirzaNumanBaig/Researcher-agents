@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone I Play Rocky: Farrelly Explains Mix-Up"
 seo_description: "Sylvester Stallone I Play Rocky: director Peter Farrelly explains how a producer credit decision led to a public mix-up. Read what happened next."
 focus_keyword: "Sylvester Stallone I Play Rocky"
 permalink: "sylvester-stallone-i-play-rocky-mix-up"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 10:00"
 celebrity: "Sylvester Stallone"
@@ -15,6 +15,15 @@ image_prompt: "An empty boxing ring under a single spotlight in a quiet old gym,
 sources:
   - "https://www.cinemablend.com/movies/sylvester-stallone-caused-drama-after-i-play-rocky-announced"
   - "https://www.cbr.com/tulsa-king-sets-up-sylvester-stallone-ending/"
+image: "images/2026-11-23-10-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588423560\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588423560\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3419
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-10-00-sylvester-stallone-768x432.webp"
+wp_id: 3420
+wp_link: "https://moduscarry.com/sylvester-stallone-i-play-rocky-mix-up/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

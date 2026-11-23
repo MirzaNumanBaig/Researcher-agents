@@ -23,6 +23,7 @@ wp_id: 3393
 wp_link: "https://moduscarry.com/i-play-rocky-box-office-2/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

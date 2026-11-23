@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Perfect Gift 2: 'Worried' About Her Ad Self"
 seo_description: "Keira Knightley Perfect Gift 2: the actress jokes she is 'quite worried' about the version of herself in Waitrose's six-minute Christmas romcom."
 focus_keyword: "Keira Knightley Perfect Gift 2"
 permalink: "keira-knightley-perfect-gift-2"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 10:00"
 celebrity: "Keira Knightley"
@@ -14,6 +14,15 @@ tags: ["Keira Knightley", "Waitrose", "Joe Wilkinson", "Alex Hassell"]
 image_prompt: "A warm kitchen at night with a beef Wellington and a cheese board on a table beside twinkling Christmas lights"
 sources:
   - "https://www.expressandstar.com/whats-on/showbiz/keira-knightley-worried-about-version-of-herself-she-plays-in-christmas-ad-9366798"
+image: "images/2026-11-23-10-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley smoking 3"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/9355127@N07/35392595510\" rel=\"noopener\">Nicholas R. Andrew</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/9355127@N07/35392595510\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3407
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-10-00-keira-knightley-768x432.webp"
+wp_id: 3408
+wp_link: "https://moduscarry.com/keira-knightley-perfect-gift-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

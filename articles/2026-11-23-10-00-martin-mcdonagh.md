@@ -5,7 +5,7 @@ seo_title: "Martin McDonagh Wild Horse Nine: How It Was Edited"
 seo_description: "Martin McDonagh's Wild Horse Nine mixes comedy, thriller and grief. Editor Mikkel E.G. Nielsen explains how the film's rhythm was found in the edit."
 focus_keyword: "Martin McDonagh Wild Horse Nine"
 permalink: "martin-mcdonagh-wild-horse-nine-editing"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 10:00"
 celebrity: "Martin McDonagh"
@@ -14,6 +14,15 @@ tags: ["Martin McDonagh", "Wild Horse Nine", "Sam Rockwell"]
 image_prompt: "An empty editing suite at night with glowing monitors, film reels on a shelf and a window looking out over a quiet island coast."
 sources:
   - "https://theholofiles.com/2026/11/22/wild-horse-nine-editor-mikkel-nielsen-exclusive-interview/"
+image: "images/2026-11-23-10-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Director Martin McDonagh at the premiere of Seven Psychopaths, Toronto Film Festival 2012"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Seven_Psychopaths_29.jpg\" rel=\"noopener\">GabboT</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Seven_Psychopaths_29.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3409
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-10-00-martin-mcdonagh-768x432.webp"
+wp_id: 3410
+wp_link: "https://moduscarry.com/martin-mcdonagh-wild-horse-nine-editing/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
