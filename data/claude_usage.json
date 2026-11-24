@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-10",
-   "time": "2026-11-10T17:50:13+00:00",
-   "batch": "2026-11-11 04:00",
-   "celebrity": "Nicole Kidman",
-   "article": "2026-11-11-04-00-nicole-kidman.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 4290,
-   "cache_read_tokens": 193730,
-   "cache_write_tokens": 27597,
-   "turns": 9,
-   "seconds": 34,
-   "cost_usd": 0.1728
-  },
-  {
-   "date": "2026-11-10",
    "time": "2026-11-10T17:51:04+00:00",
    "batch": "2026-11-11 04:00",
    "celebrity": "Rebel Wilson",
@@ -23999,6 +23983,22 @@
    "turns": 9,
    "seconds": 18,
    "cost_usd": 0.1185
+  },
+  {
+   "date": "2026-11-24",
+   "time": "2026-11-24T15:05:22+00:00",
+   "batch": "2026-11-25 01:00",
+   "celebrity": "Katy Perry",
+   "article": "2026-11-25-01-00-katy-perry.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 1091,
+   "cache_read_tokens": 118338,
+   "cache_write_tokens": 22413,
+   "turns": 7,
+   "seconds": 10,
+   "cost_usd": 0.1126
   }
  ]
 }
