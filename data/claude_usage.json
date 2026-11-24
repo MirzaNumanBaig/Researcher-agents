@@ -1,22 +1,6 @@
 {
  "records": [
   {
-   "date": "2026-11-08",
-   "time": "2026-11-08T20:25:37+00:00",
-   "batch": "2026-11-09 07:00",
-   "celebrity": "Troye Sivan",
-   "article": "2026-11-09-07-00-troye-sivan.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 3377,
-   "cache_read_tokens": 178646,
-   "cache_write_tokens": 23129,
-   "turns": 10,
-   "seconds": 26,
-   "cost_usd": 0.1443
-  },
-  {
    "date": "2026-11-09",
    "time": "2026-11-09T00:32:08+00:00",
    "batch": "2026-11-09 11:00",
@@ -23999,6 +23983,22 @@
    "turns": 6,
    "seconds": 8,
    "cost_usd": 0.1133
+  },
+  {
+   "date": "2026-11-24",
+   "time": "2026-11-24T04:02:08+00:00",
+   "batch": "2026-11-24 14:00",
+   "celebrity": "Chris Hemsworth",
+   "article": "2026-11-24-14-00-chris-hemsworth.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 6432,
+   "cache_read_tokens": 273023,
+   "cache_write_tokens": 34387,
+   "turns": 11,
+   "seconds": 46,
+   "cost_usd": 0.2293
   }
  ]
 }
