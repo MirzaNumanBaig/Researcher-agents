@@ -1,22 +1,6 @@
 {
  "records": [
   {
-   "date": "2026-11-09",
-   "time": "2026-11-09T18:27:11+00:00",
-   "batch": "2026-11-09 18:00",
-   "celebrity": "Michael J. Fox",
-   "article": "2026-11-09-18-00-michael-j-fox.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 1479,
-   "cache_read_tokens": 184665,
-   "cache_write_tokens": 23716,
-   "turns": 10,
-   "seconds": 15,
-   "cost_usd": 0.1283
-  },
-  {
    "date": "2026-11-10",
    "time": "2026-11-10T01:54:11+00:00",
    "batch": "2026-11-10 12:00",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 31,
    "cost_usd": 0.1973
+  },
+  {
+   "date": "2026-11-24",
+   "time": "2026-11-24T04:43:02+00:00",
+   "batch": "2026-11-24 14:00",
+   "celebrity": "Keanu Reeves",
+   "article": "2026-11-24-14-00-keanu-reeves.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 16,
+   "output_tokens": 4997,
+   "cache_read_tokens": 301158,
+   "cache_write_tokens": 31668,
+   "turns": 12,
+   "seconds": 36,
+   "cost_usd": 0.2069
   }
  ]
 }
