@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-25 01:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "Bernie Taupin believes Bob Dylan’s ‘Murder Most Foul’ is “overly hyped”: “It was just rambling”",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGlSa095LTFTZWZpZ1dQeTk3RlRBZ01uc2FTQ0FpU01vU1J5bFF0bVM1eW5jWkIyX1l5YXpHYWRaemZYVEdNb0xPT05KNk5kZ1BDY2FJZUlBN1VIcDYxRzhITkw3cDRrZF9rUU8tMFl6WjJwelExZkNudk9VcFAxSnprYkJESmJiUUN4RTVLZUNCdUFIYjhrNEc5OGdmRlJVTWZJXy0yOWRQUQ?oc=5",
+      "published": "2026-11-24T13:28:16+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGlSa095LTFTZWZpZ1dQeTk3RlRBZ01uc2FTQ0FpU01vU1J5bFF0bVM1eW5jWkIyX1l5YXpHYWRaemZYVEdNb0xPT05KNk5kZ1BDY2FJZUlBN1VIcDYxRzhITkw3cDRrZF9rUU8tMFl6WjJwelExZkNudk9VcFAxSnprYkJESmJiUUN4RTVLZUNCdUFIYjhrNEc5OGdmRlJVTWZJXy0yOWRQUQ?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/bernie-taupin-believes-bob-dylan-murder-most-foul-overly-hyped-just-rambling/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/11/Bernie-Taupin-Bob-Dylan-Split-2026-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/11/Bernie-Taupin-Bob-Dylan-Split-2026-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/bernie-taupin-believes-bob-dylan-murder-most-foul-overly-hyped-just-rambling/"
+    },
+    {
+      "title": "The Bob Dylan song that stuck it to the folkies: “Many took it personally”",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzVSbURHT1ZBZTJxeXRYdG4yV3NFN3RoVURTZXA0dURZbW9lcTRDVWZvUERHdVRSZ3ZUcEVzdGd4ZnJnd1Fya0JyeHM5bzFkMXB6ZFhsWVNtN2VndlNMYjZ3dEwyMVhqYlVnWEFDMFkwSHVtT29GUlAxRU9QR2lGN2RqdXN1V2NUbVY1TFI0a2RmVjlFcktDUGtzMXRmelVmR1BQYWNPRVdaQmF0NGowQmJQUXFCaUt5clUxemZMWQ?oc=5",
+      "published": "2026-11-24T09:21:53+00:00",
+      "outlets": [
+        {
+          "source": "MusicRadar",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzVSbURHT1ZBZTJxeXRYdG4yV3NFN3RoVURTZXA0dURZbW9lcTRDVWZvUERHdVRSZ3ZUcEVzdGd4ZnJnd1Fya0JyeHM5bzFkMXB6ZFhsWVNtN2VndlNMYjZ3dEwyMVhqYlVnWEFDMFkwSHVtT29GUlAxRU9QR2lGN2RqdXN1V2NUbVY1TFI0a2RmVjlFcktDUGtzMXRmelVmR1BQYWNPRVdaQmF0NGowQmJQUXFCaUt5clUxemZMWQ?oc=5",
+          "article_url": "https://www.musicradar.com/artists/how-bob-dylan-stuck-it-to-the-new-york-folk-scene-with-one-song-many-took-it-personally",
+          "image": "https://cdn.mos.cms.futurecdn.net/UN7D36bgYtCHJUKXuBfpw4-1920-80.png"
+        }
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/UN7D36bgYtCHJUKXuBfpw4-1920-80.png",
+      "image_source": "https://www.musicradar.com/artists/how-bob-dylan-stuck-it-to-the-new-york-folk-scene-with-one-song-many-took-it-personally"
+    }
+  ]
+}

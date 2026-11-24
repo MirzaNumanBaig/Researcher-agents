@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-25 01:00",
+  "celebrity": "Tom Hardy",
+  "stories": [
+    {
+      "title": "Time is running out to watch Tom Hardy's most brutally ruthless villainous role on Netflix",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTZFRUJmR1NqTVFKNElYVG5wbUdpT2lNcHRFZ1o4WERKZHZaRFdMSUxMWXV4X0lzMS1BUDY3cGVTRzBXbXJwNVN6TXo0VTZTWjNUX3FsaXNlZVNJa055dVN5WUhOWkU0bmhZM3RnSk9RX2hiN0R1NV9XNDlodGRjMDB1YWtkZ01sODZxTlJMZ0hvMkpEV2J3Z0VSdUhSREdwczBSR2NNaDRMNWJndFVlX09hZEhqdw?oc=5",
+      "published": "2026-11-24T14:04:40+00:00",
+      "outlets": [
+        {
+          "source": "HELLO!",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTZFRUJmR1NqTVFKNElYVG5wbUdpT2lNcHRFZ1o4WERKZHZaRFdMSUxMWXV4X0lzMS1BUDY3cGVTRzBXbXJwNVN6TXo0VTZTWjNUX3FsaXNlZVNJa055dVN5WUhOWkU0bmhZM3RnSk9RX2hiN0R1NV9XNDlodGRjMDB1YWtkZ01sODZxTlJMZ0hvMkpEV2J3Z0VSdUhSREdwczBSR2NNaDRMNWJndFVlX09hZEhqdw?oc=5",
+          "article_url": "https://www.hellomagazine.com/film/936859/time-running-out-to-watch-tom-hardy-villainous-role-the-revenant-netflix/",
+          "image": "https://images.hellomagazine.com/horizon/landscape/1200/414a65becc8c-tom-hardy-revenant.jpg"
+        }
+      ],
+      "image": "https://images.hellomagazine.com/horizon/landscape/1200/414a65becc8c-tom-hardy-revenant.jpg",
+      "image_source": "https://www.hellomagazine.com/film/936859/time-running-out-to-watch-tom-hardy-villainous-role-the-revenant-netflix/"
+    },
+    {
+      "title": "Tom Hardy’s R-Rated Historical Thriller Fills The Void After MobLand Season 2",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5INWFBajVrdGRCc1FwMXVJME9aZ3hsTUFlRktvNU50THJEV1JFXzRjWkwtNm51RmdxQVpublpfS0FTLWZ6ZVZRSW11NE1tRml5QUhKMUVIMDBZUDlYWUYxbmNyYm9nblFuU2JvMVNn?oc=5",
+      "published": "2026-11-24T04:45:00+00:00",
+      "outlets": [
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5INWFBajVrdGRCc1FwMXVJME9aZ3hsTUFlRktvNU50THJEV1JFXzRjWkwtNm51RmdxQVpublpfS0FTLWZ6ZVZRSW11NE1tRml5QUhKMUVIMDBZUDlYWUYxbmNyYm9nblFuU2JvMVNn?oc=5",
+          "article_url": "https://screenrant.com/tom-hardy-taboo-mobland-season-2-void/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/9bb731a6-7db4-409a-8e7b-d99a1e17972d.jpeg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/9bb731a6-7db4-409a-8e7b-d99a1e17972d.jpeg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/tom-hardy-taboo-mobland-season-2-void/"
+    }
+  ]
+}

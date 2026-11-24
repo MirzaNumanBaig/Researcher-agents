@@ -1,0 +1,48 @@
+{
+  "batch": "2026-11-25 01:00",
+  "celebrity": "Claes Bang",
+  "stories": [
+    {
+      "title": "Claes Bang Teases Exciting New Music at Marrakech Film Festival!",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUlQci1WOXRCNGpwTWxsdWxzYVI4OUJkLWpNWXpRUzRIdEcwc3RjaUlxTndscE5nUnliWVFlYUMyMzdrWkpGcEdVV2diZ1dPYmdESlU0dU1Mb1pETkk5UGY3Rzhuak9CaTdQd212MkhHaFlZMFVzQkI4SUNBbXRMcDBUemJuS01PcnotY2VrREtTekdH?oc=5",
+      "published": "2026-11-24T08:29:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUlQci1WOXRCNGpwTWxsdWxzYVI4OUJkLWpNWXpRUzRIdEcwc3RjaUlxTndscE5nUnliWVFlYUMyMzdrWkpGcEdVV2diZ1dPYmdESlU0dU1Mb1pETkk5UGY3Rzhuak9CaTdQd212MkhHaFlZMFVzQkI4SUNBbXRMcDBUemJuS01PcnotY2VrREtTekdH?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/videos/claes-bang-teases-exciting-music-082900478.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/359f11960b0b3b3f4965cf0d0f83b4e3e966a91cbdc92693ae1e923b8ec9e13d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2Fc0dbf30ba4f85c35c5cf74d146515deb.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/359f11960b0b3b3f4965cf0d0f83b4e3e966a91cbdc92693ae1e923b8ec9e13d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2Fc0dbf30ba4f85c35c5cf74d146515deb.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/videos/claes-bang-teases-exciting-music-082900478.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "I Is Another",
+      "release": "2026-08-07",
+      "director": [
+        "Felix Randau"
+      ],
+      "cast": [
+        "Claes Bang",
+        "Valerie Pachner",
+        "Markus Meyer",
+        "Susanne Wuest"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q140472786"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "batch": "2026-11-25 01:00",
+  "celebrity": "Russell Brand",
+  "stories": [
+    {
+      "title": "Channel 4 News Boss Emails Staff About NDAs After Issue Rears Head Again In Wake Of Russell Brand & David Walliams",
+      "url": "https://deadline.com/2026/11/channel-4-news-boss-emails-staff-ndas-brand-walliams-1237232450/",
+      "published": "2026-11-24T12:05:19+00:00",
+      "outlets": [
+        {
+          "source": "deadline.com",
+          "url": "https://deadline.com/2026/11/channel-4-news-boss-emails-staff-ndas-brand-walliams-1237232450/",
+          "article_url": "",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2214557322-e1791185908737.jpg"
+        },
+        {
+          "source": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjJhVUIzeHNXYjRBb2hVMHZrbkNxVWs2WmE4WGh6Y3lhYlJJRnRqaGRPUmhwaEpRcE03eGU1SDBoSVBTaGp2LThGQzNCVUJtQVBmUVdkTHY4MVFiRU1HZ0p2NURGbFJjWnRRYzZKY3A5WVEwU3NUNFlMM19lTUxvZlpSTml6ajBfWWhNNDdWRDByX3lKRjgtaw?oc=5",
+          "article_url": "https://deadline.com/2026/11/channel-4-news-boss-emails-staff-ndas-brand-walliams-1237232450/",
+          "image": ""
+        }
+      ],
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2214557322-e1791185908737.jpg",
+      "image_source": "https://deadline.com/2026/11/channel-4-news-boss-emails-staff-ndas-brand-walliams-1237232450/"
+    },
+    {
+      "title": "Conversations with friends after Russell Brand",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWl6NU5ZNmhUR1BzcmVfdWp4ZlpzSmJtRDVUbkFHM25MeV82Nm9pcVRjTEU2d1dvcUxIU2pZR1V1dGJDeG5xRWxuTEVYQVdveElXa0N1eXRIRWxJSXloRVlTTzJWUm53WUNzam80cDVBdUhiZDhRLS1tTlNaeEhCNHNoblNLYVpGd19nWVJpdXEwU3g5bWVuUw?oc=5",
+      "published": "2026-11-24T08:56:57+00:00",
+      "outlets": [
+        {
+          "source": "The Observer",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWl6NU5ZNmhUR1BzcmVfdWp4ZlpzSmJtRDVUbkFHM25MeV82Nm9pcVRjTEU2d1dvcUxIU2pZR1V1dGJDeG5xRWxuTEVYQVdveElXa0N1eXRIRWxJSXloRVlTTzJWUm53WUNzam80cDVBdUhiZDhRLS1tTlNaeEhCNHNoblNLYVpGd19nWVJpdXEwU3g5bWVuUw?oc=5",
+          "article_url": "https://observer.co.uk/news/columnists/article/conversations-with-friends-after-russell-brand",
+          "image": "https://cdn.slowdownwiseup.co.uk/media/original_images/GettyImages-1940458332.jpg"
+        }
+      ],
+      "image": "https://cdn.slowdownwiseup.co.uk/media/original_images/GettyImages-1940458332.jpg",
+      "image_source": "https://observer.co.uk/news/columnists/article/conversations-with-friends-after-russell-brand"
+    }
+  ]
+}
