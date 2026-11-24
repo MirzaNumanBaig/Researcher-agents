@@ -1,0 +1,98 @@
+{
+  "batch": "2026-11-24 14:00",
+  "celebrity": "Robert Pattinson",
+  "stories": [
+    {
+      "title": "‘Daredevil’s Charlie Cox Wanted To Audition For James Bond But Was Told He Was “Too Old”: “But Robert Pattinson Is The Same Age As Me!”",
+      "url": "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024/",
+      "published": "2026-11-23T23:26:34+00:00",
+      "outlets": [
+        {
+          "source": "deadline.com",
+          "url": "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024/",
+          "article_url": "",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/james-bond-charlie-cox-robert-pattinson.jpg"
+        },
+        {
+          "source": "Complex",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcFRyUzBlS000eElDUlZRZElReFQ4RURQYkJVd3pNeDRteHQ0TE85WnV1V1lWR2JIa1kyRUVjT2dpbTd2ekloSEItWEpvQkVqWWlpVzZBWHJVYzVQUk9UQ3M4SVh5N0xTRktheFBRRklzME5PNnI4RC1wQWtJM0JZOXZXWjlaZUpQ?oc=5",
+          "article_url": "https://www.complex.com/pop-culture/a/helen-storms/charlie-cox-bond-age-rejection",
+          "image": "https://images.complex.com/complex/image/upload/c_crop,h_1079,w_1921,x_0,y_0/g_auto:aoi_769_432_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ygmyrh7jgyuqszhw1hm5"
+        }
+      ],
+      "image": "https://deadline.com/wp-content/uploads/2026/11/james-bond-charlie-cox-robert-pattinson.jpg",
+      "image_source": "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024/"
+    },
+    {
+      "title": "Robert Pattinson Wasn't Villeneuve's First Choice For James Bond - & This Actor Would Have Been More Divisive",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYTE4MDNyNldYUm9Gc2RhcThaTTBTU2dDWURFRTRFMjNZV3RtXzlVanc1N25Ja2hUellTMGs2TEI3OWFNcnJyQW9MRVdRU2NFTGMwckFPdDdtbE8tSnRTTTUwNk5qV2M?oc=5",
+      "published": "2026-11-23T18:30:27+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYTE4MDNyNldYUm9Gc2RhcThaTTBTU2dDWURFRTRFMjNZV3RtXzlVanc1N25Ja2hUellTMGs2TEI3OWFNcnJyQW9MRVdRU2NFTGMwckFPdDdtbE8tSnRTTTUwNk5qV2M?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    },
+    {
+      "title": "Primetime",
+      "release": "2026-09-05",
+      "director": [
+        "Lance Oppenheim"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Phoebe Bridgers",
+        "Merritt Wever",
+        "Sean Bridgers",
+        "Skyler Gisondo"
+      ],
+      "budget_usd": 14500000,
+      "box_office_usd": 62000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 4.28,
+      "rotten_tomatoes": "86%",
+      "metacritic": "68/100 from 54 critics",
+      "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",
+      "critics_overview": "Robert Pattinson received widespread acclaim from critics for his performance. Manohla Dargis for The New York Times praised Skyler Gisondo and Alex Winter, writing that they added \"emotion\" and \"push the movie into depths it doesn’t remain in\" but otherwise felt that Primetime \"looks good and moves well, and the dark, saturated colors and visual grittiness add some fine Expressionistic texture.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q133273688",
+        "wikipedia": "https://en.wikipedia.org/wiki/Primetime_(film)"
+      }
+    }
+  ]
+}

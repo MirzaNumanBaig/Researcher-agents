@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-24 14:00",
+  "celebrity": "Johnny Flynn",
+  "stories": [
+    {
+      "title": "RADIE PEAT – NO HUMAN TONGUE CAN TELL; JOHNNY FLYNN AND LILLIE FLYNN – BEAM COTTAGE: REVIEW",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTBXZmlXQk9GTUZ3ejNRemhMQXFBNzdGdDVOMmxoY2JJRlpyM0FDbUN5eWxTSkxMUnRMazJXdzFIb29tNklQSGZtMTNFM2tvNl90ZHRaWksyV3VGNEtOWHFZQlBSOUFFMFFnTWRaT0tpNE00enVHRkRnS1RyNFFpUzY3Y0Z6VnBfUnNlYldmUlk0emx2bXExdklzUDEybUY5MHo4dTNuaWlCbzhjWUV1MTBnd2haT29nS2c?oc=5",
+      "published": "2026-11-23T18:03:40+00:00",
+      "outlets": [
+        {
+          "source": "https://www.bernardzuel.net/",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTBXZmlXQk9GTUZ3ejNRemhMQXFBNzdGdDVOMmxoY2JJRlpyM0FDbUN5eWxTSkxMUnRMazJXdzFIb29tNklQSGZtMTNFM2tvNl90ZHRaWksyV3VGNEtOWHFZQlBSOUFFMFFnTWRaT0tpNE00enVHRkRnS1RyNFFpUzY3Y0Z6VnBfUnNlYldmUlk0emx2bXExdklzUDEybUY5MHo4dTNuaWlCbzhjWUV1MTBnd2haT29nS2c?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Elsinore",
+      "release": "2026-09-04",
+      "director": [
+        "Simon Stone"
+      ],
+      "cast": [
+        "Andrew Scott",
+        "Olivia Colman",
+        "Billie Piper",
+        "Johnny Flynn",
+        "Luke Thompson"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "89%",
+      "metacritic": "75/100 from 23 critics",
+      "critics_consensus": null,
+      "critics_overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137722359",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "batch": "2026-11-24 14:00",
+  "celebrity": "Mckenna Grace",
+  "stories": [
+    {
+      "title": "Mckenna Grace’s New R-Rated Road Movie Officially Releases On Streaming In Just A Few Weeks",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vSEdCdERkQ0NUdDNnY0dQUHo1OGVMWVBGRFR4bWlEVm03b20yS1BzSldsZlJ4UnZqajZTWWp2R2RHZUlSVmlzRm55VE9HQjRLSnZua2l4b25naGVSQ0JpU3FaSXdJUlU?oc=5",
+      "published": "2026-11-23T22:15:04+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vSEdCdERkQ0NUdDNnY0dQUHo1OGVMWVBGRFR4bWlEVm03b20yS1BzSldsZlJ4UnZqajZTWWp2R2RHZUlSVmlzRm55VE9HQjRLSnZua2l4b25naGVSQ0JpU3FaSXdJUlU?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66125374/?ref_=nmnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWF4Nm5Ua3VkVUVidHp1WGliZ2p0alRjWWxKZjF1Ukc4cnlNRjdVdExJbnRteVNLOE90ZmxOOU1rODlOWFlGN3VjOGd1MTJRM2RhVmlMVV95Vlc3cVRYU21zNjlqMTgwaFNXY3VUTm5XZ1pSUWVVQUlraEhkd0MzVDlB?oc=5",
+          "article_url": "https://screenrant.com/mckenna-grace-nimrods-peacock-streaming-release-date/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/mckenna-grace.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/mckenna-grace.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/mckenna-grace-nimrods-peacock-streaming-release-date/"
+    },
+    {
+      "title": "Inside The “Top-Secret Mission” To Hide Mckenna Grace’s Mockingjay Look",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNXBUd1JrZVZLVHJuTGJQNEprZjVxWm1DR0kzaGd6T0xlRm5SbUJWUmVKd2hNRGJIS3k0bzRzZEhQWGI0TElpTzlzZGcxRHZtZDlTMTVqUHRYYWdnTWZJZ01neF9GVEdOQUptWWRaVkdHVDVfYU9oV2tERDBDcnlSdk1XYjQ4anc?oc=5",
+      "published": "2026-11-23T18:54:42+00:00",
+      "outlets": [
+        {
+          "source": "Bustle",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNXBUd1JrZVZLVHJuTGJQNEprZjVxWm1DR0kzaGd6T0xlRm5SbUJWUmVKd2hNRGJIS3k0bzRzZEhQWGI0TElpTzlzZGcxRHZtZDlTMTVqUHRYYWdnTWZJZ01neF9GVEdOQUptWWRaVkdHVDVfYU9oV2tERDBDcnlSdk1XYjQ4anc?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Last Kiss",
+      "release": "2026-09-15",
+      "director": [
+        "Yoko Okumura"
+      ],
+      "cast": [
+        "Mckenna Grace",
+        "Jaden Michael"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141430687",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Kiss_(2026_film)"
+      }
+    }
+  ]
+}

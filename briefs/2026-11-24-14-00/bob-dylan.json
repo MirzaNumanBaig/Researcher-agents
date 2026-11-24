@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-24 14:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "For years, Joan Baez deeply resented Bob Dylan. Now, she calls him a gift from heaven",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1RLbkNCV3VCNlJ5QVc2UTE1WU5vZ3VHNl91UmVodFFKVWFHLVFPY0piMmlDcGVIZS01S2E4YkE0S3MzcTl4WXJVYm5IaHhIT2E4ZXJJc0NHajJMaTZua2xVSHFoN0xSMm45dFUxOFNhWFNtU0pjS0Zmd3VDTFlieQ?oc=5",
+      "published": "2026-11-23T21:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Far Out Magazine",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1RLbkNCV3VCNlJ5QVc2UTE1WU5vZ3VHNl91UmVodFFKVWFHLVFPY0piMmlDcGVIZS01S2E4YkE0S3MzcTl4WXJVYm5IaHhIT2E4ZXJJc0NHajJMaTZua2xVSHFoN0xSMm45dFUxOFNhWFNtU0pjS0Zmd3VDTFlieQ?oc=5",
+          "article_url": "https://faroutmagazine.co.uk/joan-baez-resented-bob-dylan-gift-from-heaven/",
+          "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/04/Bob-Dylan-Joan-Baez-1965-Far-Out-Magazine.jpg"
+        }
+      ],
+      "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/04/Bob-Dylan-Joan-Baez-1965-Far-Out-Magazine.jpg",
+      "image_source": "https://faroutmagazine.co.uk/joan-baez-resented-bob-dylan-gift-from-heaven/"
+    },
+    {
+      "title": "Bob Dylan or Jilly Cooper, plagiarism is always about power",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFB0b24xOFM0bmdXZ09BVHZQWVhwb05nelBRdTBIc3pKZWNLZWxOMXBhOC1CV0FKMVYyNUFVdllVb0R0T3VKRkVrRnJkMGZveFNvNUFTMHdleDM4bHAyamdaTFMxTTQ5WVlnMjAwd2ZzYmdBeUFSOVlVcFE2VVN2OE1HMVM2YVBteTNuS1J0djR5djhPYllFRW1Wbk5fUm9ib2lxTXdqRHhlRHJuQUNOT1p3?oc=5",
+      "published": "2026-11-23T16:48:43+00:00",
+      "outlets": [
+        {
+          "source": "The Observer",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFB0b24xOFM0bmdXZ09BVHZQWVhwb05nelBRdTBIc3pKZWNLZWxOMXBhOC1CV0FKMVYyNUFVdllVb0R0T3VKRkVrRnJkMGZveFNvNUFTMHdleDM4bHAyamdaTFMxTTQ5WVlnMjAwd2ZzYmdBeUFSOVlVcFE2VVN2OE1HMVM2YVBteTNuS1J0djR5djhPYllFRW1Wbk5fUm9ib2lxTXdqRHhlRHJuQUNOT1p3?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

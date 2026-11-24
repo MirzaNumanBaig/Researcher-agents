@@ -37,6 +37,56 @@
       ],
       "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-how-julia-roberts-solved-a-major-acting-problem-for-ryan-gosling/l-intro-1792695383.jpg",
       "image_source": "https://www.slashfilm.com/2294709/project-hail-mary-julia-roberts-ryan-gosling-acting-problem/"
+    },
+    {
+      "title": "Project Hail Mary: How Julia Roberts Solved A Major Acting Problem For Ryan Gosling",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FYzV2OWlNLVBxMW5OVHBNRmpFUmpXU3A4ZEh2ZFY0N2ZCdUs2THNvTWNJSDhpQUdsSkpDQ0EzdnpIVndZNkEtMmZTY1J3NnhHMFE?oc=5",
+      "published": "2026-11-22T14:45:35+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FYzV2OWlNLVBxMW5OVHBNRmpFUmpXU3A4ZEh2ZFY0N2ZCdUs2THNvTWNJSDhpQUdsSkpDQ0EzdnpIVndZNkEtMmZTY1J3NnhHMFE?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3lVT1ZJMjREZDhERTY5VFBJamdNaV82LWVXWk9LbEhleVhmYk5LV05DOHlJV1Z0a3YxLURvWmJiYlVKM3J1QllHbk14c19lVWJ0eXJWcm1pSjZ4VWNubWhBckxDVVFIekNEZjhiRGd5VlBGeUlDbnY5T1huVDRFbTkyQ1BLZF9SM3dQMVdDbkZSTms5amFDa093?oc=5",
+          "article_url": "https://www.slashfilm.com/2294709/project-hail-mary-julia-roberts-ryan-gosling-acting-problem/",
+          "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-how-julia-roberts-solved-a-major-acting-problem-for-ryan-gosling/l-intro-1792695383.jpg"
+        }
+      ],
+      "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-how-julia-roberts-solved-a-major-acting-problem-for-ryan-gosling/l-intro-1792695383.jpg",
+      "image_source": "https://www.slashfilm.com/2294709/project-hail-mary-julia-roberts-ryan-gosling-acting-problem/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
     }
   ]
 }

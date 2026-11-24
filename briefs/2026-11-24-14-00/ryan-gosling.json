@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-24 14:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Aaron Pierre Scored 'Starfighter' Role Thanks to Ryan Gosling",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTW9TQl9TRlVYMzY3MmVkdW9CTFdoNFlRM2dGakNlV0dDZVYyWUtETzhOeXFidkUxWWg3UW9TQnF3NTR3RnZBVzFMYUhCQXh2bGRRTEZ4cGk2cFNxSUxYZ2hlM2RyNXE2Sm5OVUdUTTFTU2dHVEkxWFJGeGppSmRBYjNfa3k2bWZRLU1EcEp2M0h1anRaXy1fR3lDSXU1ZWlwVGlSTGg1a0xZSDhOa1ktTlFmYThKcjluTUxQVA?oc=5",
+      "published": "2026-11-23T21:30:07+00:00",
+      "outlets": [
+        {
+          "source": "Star Wars News Net",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTW9TQl9TRlVYMzY3MmVkdW9CTFdoNFlRM2dGakNlV0dDZVYyWUtETzhOeXFidkUxWWg3UW9TQnF3NTR3RnZBVzFMYUhCQXh2bGRRTEZ4cGk2cFNxSUxYZ2hlM2RyNXE2Sm5OVUdUTTFTU2dHVEkxWFJGeGppSmRBYjNfa3k2bWZRLU1EcEp2M0h1anRaXy1fR3lDSXU1ZWlwVGlSTGg1a0xZSDhOa1ktTlFmYThKcjluTUxQVA?oc=5",
+          "article_url": "https://www.starwarsnewsnet.com/2026/11/aaron-pierre-says-ryan-gosling-helped-secure-his-star-wars-starfighter-role.html",
+          "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/10/AaronPierre-1024x576.png"
+        }
+      ],
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/10/AaronPierre-1024x576.png",
+      "image_source": "https://www.starwarsnewsnet.com/2026/11/aaron-pierre-says-ryan-gosling-helped-secure-his-star-wars-starfighter-role.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}
