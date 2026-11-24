@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-25 10:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Who Is Nicepool Actor Gordon Reynolds?",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHVIMHpqNERMdGQ2elZoR2tpWUxzd3M4NC1nZVp4RWNld00yTlMtQnFVVHc1RkVjMDR5VmFTV0h4SjNrdHQ5SXh5YnphTGd0RGFVWG81N1p6eXJjenE3WnBPY0RMZFRHWDZESkZwZnJibzREanJqMmN1dWg3MlZ5ZHRKbzhqYUlGNGRHRmZMbDBwUQ?oc=5",
+      "published": "2026-11-24T13:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHVIMHpqNERMdGQ2elZoR2tpWUxzd3M4NC1nZVp4RWNld00yTlMtQnFVVHc1RkVjMDR5VmFTV0h4SjNrdHQ5SXh5YnphTGd0RGFVWG81N1p6eXJjenE3WnBPY0RMZFRHWDZESkZwZnJibzREanJqMmN1dWg3MlZ5ZHRKbzhqYUlGNGRHRmZMbDBwUQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

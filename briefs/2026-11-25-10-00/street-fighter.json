@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-25 10:00",
+  "celebrity": "Street Fighter",
+  "stories": [
+    {
+      "title": "Prime Video Officially Confirms Street Fighter vs. Mortal Kombat in December 2026",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3LXd4YTJVZ3kwZFgzYm1teTJJRDczQV9BdzhlbFB4X004VHFxT1dPcW1FekFkZ3RNZ09fNTN4MVNSb09PNTY2TE5abmJvWUt4dWJQN1B5b3RIWFVSZ3pYRzVWS1lzUHpnVzE5VHdkX1BzaDkyQVQyOW9hallJZw?oc=5",
+      "published": "2026-11-24T18:22:22+00:00",
+      "outlets": [
+        {
+          "source": "FandomWire",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3LXd4YTJVZ3kwZFgzYm1teTJJRDczQV9BdzhlbFB4X004VHFxT1dPcW1FekFkZ3RNZ09fNTN4MVNSb09PNTY2TE5abmJvWUt4dWJQN1B5b3RIWFVSZ3pYRzVWS1lzUHpnVzE5VHdkX1BzaDkyQVQyOW9hallJZw?oc=5",
+          "article_url": "https://fandomwire.com/prime-video-street-fighter-mortal-kombat-december/",
+          "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/11/24130418/street-fighter-vs-mortal-kombat-movies.jpg"
+        }
+      ],
+      "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/11/24130418/street-fighter-vs-mortal-kombat-movies.jpg",
+      "image_source": "https://fandomwire.com/prime-video-street-fighter-mortal-kombat-december/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Street Fighter",
+      "release": "2026-10-12",
+      "director": [
+        "Kitao Sakurai"
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Cody Rhodes",
+        "Orville Peck"
+      ],
+      "budget_usd": 82000000,
+      "box_office_usd": 100800000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.23,
+      "rotten_tomatoes": "42%",
+      "metacritic": "43/100 from 28 critics",
+      "critics_consensus": "The latest iteration of Street Fighter has plenty of affection for its source material and doesn't lack for dizzying style, but its incoherent storytelling and juvenile humor make for a disappointing regression among video game adaptations.",
+      "critics_overview": "It received a 65% definite recommend for children under 12. The audience was 30% Latino and Hispanic, 29% Caucasian, 21% Black, 14% Asian American and 6% Native American or Other.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q130345436",
+        "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "batch": "2026-11-25 10:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "This Certified Fresh Ryan Gosling movie is now free to stream on Apple TV",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc1AyTG9VM2VXS3JhY1RCcGZhNXVoT3YzbFlWX2QtaE1wczhWc3lMRGhrZmg4MHF6ckMzRG0zTkJ5c3NjdXhQdkR1emlDUDBwQXZSQmg4b3ZYcWFNSjVsZXduWFBJdElmQ0Jwam4xSGR3ZjY4LU96NHdzb1JEVEpRSC0zZw?oc=5",
+      "published": "2026-11-24T16:01:18+00:00",
+      "outlets": [
+        {
+          "source": "Pocket-lint",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc1AyTG9VM2VXS3JhY1RCcGZhNXVoT3YzbFlWX2QtaE1wczhWc3lMRGhrZmg4MHF6ckMzRG0zTkJ5c3NjdXhQdkR1emlDUDBwQXZSQmg4b3ZYcWFNSjVsZXduWFBJdElmQ0Jwam4xSGR3ZjY4LU96NHdzb1JEVEpRSC0zZw?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Ryan Gosling's Star Wars Movie Could Finally Fix A 7-Year-Old Franchise Problem",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQVNCV2JuU3kybWVfZ0t3bi1RdUYzNUJhMGFYdzljTEFSZDctd1hKUm1pUzdnTU5uclgxUE5sTzhieWNabUlrTGdDMjZfQUdnbGs4bWh1eENfNDhxZzJKcGI3RjdPdzBFaThuS1RmVkRNMk54c001WG41M3ltR1p6SnVSeFBuU3FpLWFQUnNB?oc=5",
+      "published": "2026-11-24T15:01:20+00:00",
+      "outlets": [
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQVNCV2JuU3kybWVfZ0t3bi1RdUYzNUJhMGFYdzljTEFSZDctd1hKUm1pUzdnTU5uclgxUE5sTzhieWNabUlrTGdDMjZfQUdnbGs4bWh1eENfNDhxZzJKcGI3RjdPdzBFaThuS1RmVkRNMk54c001WG41M3ltR1p6SnVSeFBuU3FpLWFQUnNB?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}
