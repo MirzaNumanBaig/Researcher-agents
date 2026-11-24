@@ -25,6 +25,7 @@ wp_id: 3531
 wp_link: "https://moduscarry.com/nathan-fielder-rave-milwaukee/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
