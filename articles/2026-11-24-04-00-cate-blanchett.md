@@ -24,6 +24,7 @@ wp_id: 3448
 wp_link: "https://moduscarry.com/cate-blanchett-oxford-professorship/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

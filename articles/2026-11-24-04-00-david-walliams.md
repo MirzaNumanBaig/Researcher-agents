@@ -26,6 +26,7 @@ wp_id: 3454
 wp_link: "https://moduscarry.com/david-walliams-open-letter/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

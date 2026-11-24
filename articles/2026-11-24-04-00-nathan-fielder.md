@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder You Can See Everything UK Box Office Record"
 seo_description: "Nathan Fielder's You Can See Everything made £2.45 million in the UK, the biggest non-music documentary opening ever, and has passed US$100 million worldwide."
 focus_keyword: "Nathan Fielder You Can See Everything"
 permalink: "nathan-fielder-you-can-see-everything-box-office"
-status: approved
+status: sent
 wp_status: publish
 batch: "2026-11-24 04:00"
 celebrity: "Nathan Fielder"
@@ -19,6 +19,12 @@ sources:
 image: "images/2026-11-24-04-00-nathan-fielder.webp"
 image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
 image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3493
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-04-00-nathan-fielder-768x432.webp"
+wp_id: 3494
+wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-box-office/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
