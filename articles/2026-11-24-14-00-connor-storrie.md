@@ -5,7 +5,7 @@ seo_title: "Connor Storrie Vogue Best Dressed 2026: Cover and Interview"
 seo_description: "Connor Storrie is Vogue's Best Dressed of 2026. See what the Heated Rivalry star said about fashion, fan encounters and living with Hudson Williams."
 focus_keyword: "Connor Storrie Vogue"
 permalink: "connor-storrie-vogue-best-dressed-2026"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Connor Storrie"
@@ -17,6 +17,15 @@ sources:
   - "https://www.yahoo.com/entertainment/celebrity/interviews/articles/connor-storrie-shares-surprising-fan-232747637.html"
   - "https://www.aol.com/articles/connor-storrie-crowned-vogue-2026-205915000.html"
   - "https://www.queerty.com/wait-connor-storrie-hudson-williams-are-living-together-20261123/"
+image: "images/2026-11-24-14-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3500
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-connor-storrie-768x432.webp"
+wp_id: 3501
+wp_link: "https://moduscarry.com/connor-storrie-vogue-best-dressed-2026/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

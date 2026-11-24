@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki Cliff Booth Premiere After Pitt Pulls Out"
 seo_description: "Elizabeth Debicki Cliff Booth premiere: she led the London red carpet after Brad Pitt pulled out with flu. Here is what happened and what she said."
 focus_keyword: "Elizabeth Debicki Cliff Booth"
 permalink: "elizabeth-debicki-cliff-booth-premiere"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Elizabeth Debicki"
@@ -16,6 +16,15 @@ sources:
   - "https://www.dailymail.com/tvshowbiz/article-16316157/Elizabeth-Debicki-Mis-Adventures-Cliff-Booth-premiere-Brad-Pitt-flu.html"
   - "https://www.yahoo.com/entertainment/celebrity/fashion/articles/elizabeth-debicki-takes-centre-stage-211605469.html"
   - "https://www.indiewire.com/features/interviews/cliff-booth-elizabeth-debicki-slapping-brad-pitt-rom-coms-1235229895/"
+image: "images/2026-11-24-14-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki fronts Cliff Booth premiere as Brad Pitt falls ill"
+image_credit: "Image: <a href=\"https://www.yahoo.com/entertainment/celebrity/fashion/articles/elizabeth-debicki-takes-centre-stage-211605469.html\" rel=\"nofollow noopener\">Yahoo</a> (cropped)"
+wp_media_id: 3504
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-elizabeth-debicki-768x432.webp"
+wp_id: 3505
+wp_link: "https://moduscarry.com/elizabeth-debicki-cliff-booth-premiere/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

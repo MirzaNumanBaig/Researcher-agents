@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Style: What Connor Storrie Said in Vogue"
 seo_description: "Hudson Williams style is in focus after Connor Storrie's Vogue interview and a Teen Vogue skincare pick. Here is what was said and what comes next."
 focus_keyword: "Hudson Williams style"
 permalink: "hudson-williams-style-heated-rivalry"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Hudson Williams"
@@ -16,6 +16,15 @@ sources:
   - "https://uk.news.yahoo.com/connor-storrie-named-best-dressed-000452797.html"
   - "https://www.queerty.com/wait-connor-storrie-hudson-williams-are-living-together-20261123/"
   - "https://www.teenvogue.com/story/olive-young-black-friday-deals-2026-k-beauty-approved-by-hudson-williams-ateezs-yeosang-and-more"
+image: "images/2026-11-24-14-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(7).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3506
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-hudson-williams-768x432.webp"
+wp_id: 3507
+wp_link: "https://moduscarry.com/hudson-williams-style-heated-rivalry/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

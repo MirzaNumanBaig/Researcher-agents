@@ -5,7 +5,7 @@ seo_title: "Street Fighter Sequel: What We Know After the Box Office"
 seo_description: "Street Fighter sequel talk is building after the film passed US$100 million, but no follow-up is confirmed. Here is where the 2026 film stands."
 focus_keyword: "Street Fighter sequel"
 permalink: "street-fighter-sequel-box-office"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Street Fighter"
@@ -16,6 +16,15 @@ sources:
   - "https://screenrant.com/street-fighter-movie-sequel-game-characters-ranked/"
   - "https://www.cbr.com/martial-arts-movies-for-street-fighter-2026-fans-list/"
   - "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+image: "images/2026-11-24-14-00-street-fighter.webp"
+image_alt: "Street Fighter: Street Fighter Film: Sequel Talk Grows, No Deal Yet"
+image_credit: "Image: <a href=\"https://www.cbr.com/martial-arts-movies-for-street-fighter-2026-fans-list/\" rel=\"nofollow noopener\">Comic Book Resources</a> (cropped)"
+wp_media_id: 3542
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-street-fighter-768x432.webp"
+wp_id: 3543
+wp_link: "https://moduscarry.com/street-fighter-sequel-box-office/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

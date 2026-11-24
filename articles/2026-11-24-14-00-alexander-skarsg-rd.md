@@ -5,7 +5,7 @@ seo_title: "Arn Knight Templar: Alexander Skarsgård Missed Role"
 seo_description: "Alexander Skarsgård lost the lead in Arn Knight Templar while his father and two brothers were cast. Here is what he recalled."
 focus_keyword: "Arn Knight Templar"
 permalink: "arn-knight-templar-alexander-skarsgard"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Alexander Skarsgård"
@@ -14,6 +14,10 @@ tags: ["Alexander Skarsgård"]
 image_prompt: "An empty medieval banquet hall at dusk, a long wooden table set for a family dinner, candlelight and shields on the walls."
 sources:
   - "https://faroutmagazine.co.uk/2007-alexander-skarsgard-not-cast-in-movie-father-two-brothers-were/"
+wp_id: 3495
+wp_link: "https://moduscarry.com/?p=3495"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried SNL Host: Debut Set for 5 December"
 seo_description: "Amanda Seyfried SNL host news: she debuts on 5 December with Don Toliver, then Robert De Niro and Timothée Chalamet close out 2026."
 focus_keyword: "Amanda Seyfried SNL host"
 permalink: "amanda-seyfried-snl-host"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Amanda Seyfried"
@@ -15,6 +15,10 @@ image_prompt: "An empty television studio stage with a lit brick-wall backdrop, 
 sources:
   - "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-december-hosts-timothee-chalamet-amanda-seyfried-1235663031/"
   - "https://www.hollywoodreporter.com/tv/tv-news/snl-season-52-hosts-musical-guests-list-1236695508/"
+wp_id: 3496
+wp_link: "https://moduscarry.com/?p=3496"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

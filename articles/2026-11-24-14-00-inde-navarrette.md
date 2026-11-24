@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette GTA 6: Obsession Star Plays by the Rules"
 seo_description: "Inde Navarrette GTA 6 plans: the Obsession star told BBC Radio 1 she will stop at red lights, and her old Twitch channel helped pay rent."
 focus_keyword: "Inde Navarrette GTA 6"
 permalink: "inde-navarrette-gta-6"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Inde Navarrette"
@@ -14,6 +14,15 @@ tags: ["Inde Navarrette", "X-Men", "Marvel Studios"]
 image_prompt: "A quiet suburban street at dusk with a traffic light glowing red and an empty car waiting at the line."
 sources:
   - "https://cwibc.co.id/en/inde-navarrette-gta-six-awards"
+image: "images/2026-11-24-14-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03_(cropped2).jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03_(cropped2).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3508
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-inde-navarrette-768x432.webp"
+wp_id: 3509
+wp_link: "https://moduscarry.com/inde-navarrette-gta-6/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

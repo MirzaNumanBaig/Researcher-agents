@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond: Charlie Cox Says He Was Too Old"
 seo_description: "Robert Pattinson Bond casting: Charlie Cox says he asked to audition for 007 and was told he was too old. Here is what he said and who else was reported."
 focus_keyword: "Robert Pattinson Bond"
 permalink: "robert-pattinson-bond-charlie-cox"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Robert Pattinson"
@@ -15,6 +15,15 @@ image_prompt: "A black tuxedo jacket and bow tie laid out on a velvet chair in a
 sources:
   - "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024/"
   - "https://www.complex.com/pop-culture/a/helen-storms/charlie-cox-bond-age-rejection"
+image: "images/2026-11-24-14-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3534
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-robert-pattinson-768x432.webp"
+wp_id: 3535
+wp_link: "https://moduscarry.com/robert-pattinson-bond-charlie-cox/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

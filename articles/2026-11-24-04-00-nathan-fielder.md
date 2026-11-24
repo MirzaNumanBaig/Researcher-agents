@@ -25,6 +25,7 @@ wp_id: 3494
 wp_link: "https://moduscarry.com/nathan-fielder-you-can-see-everything-box-office/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

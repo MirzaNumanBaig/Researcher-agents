@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Avengers Doomsday Trailer: What's Inside"
 seo_description: "Chris Hemsworth Avengers Doomsday trailer: the actor shared new footage on 23 November. See who returns before the 18 December release."
 focus_keyword: "Chris Hemsworth Avengers Doomsday"
 permalink: "chris-hemsworth-avengers-doomsday-trailer"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium with a glowing blue screen and rows of
 sources:
   - "https://www.tekedia.com/forum/topic/chris-hemsworth-unites-marvel-heroes-in-new-avengers-doomsday-trailer-ahead-of-december-premiere-2/?part=1"
   - "https://www.nowtolove.com.au/celebrity/celebrity-news/chris-hemsworth-break-in/"
+image: "images/2026-11-24-14-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3498
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-chris-hemsworth-768x432.webp"
+wp_id: 3499
+wp_link: "https://moduscarry.com/chris-hemsworth-avengers-doomsday-trailer/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

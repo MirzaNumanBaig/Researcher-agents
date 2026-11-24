@@ -5,7 +5,7 @@ seo_title: "Nathan Fielder Rave Milwaukee: Date, Venue and What to Expect"
 seo_description: "A Nathan Fielder rave is coming to Milwaukee on 5 February 2027, with clip remixes, a staring contest and a costume contest. Fielder will not attend."
 focus_keyword: "Nathan Fielder rave"
 permalink: "nathan-fielder-rave-milwaukee"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Nathan Fielder"
@@ -16,6 +16,15 @@ sources:
   - "https://milwaukeerecord.com/film/theres-going-to-be-a-dumb-nathan-fielder-rave-in-milwaukee/"
   - "https://guides.justwatch.com/uk/you-can-see-everything-key-scene-nathan-fielder"
   - "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+image: "images/2026-11-24-14-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3530
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-nathan-fielder-768x432.webp"
+wp_id: 3531
+wp_link: "https://moduscarry.com/nathan-fielder-rave-milwaukee/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

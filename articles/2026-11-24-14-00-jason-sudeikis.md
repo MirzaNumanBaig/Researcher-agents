@@ -5,7 +5,7 @@ seo_title: "Ted Lasso Season 5 Renewed: Jason Sudeikis Returns"
 seo_description: "Ted Lasso season 5 is official: Apple TV has renewed the comedy and Jason Sudeikis will return. Here is what the season four finale set up."
 focus_keyword: "Ted Lasso Season 5"
 permalink: "ted-lasso-season-5-jason-sudeikis"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-24 14:00"
 celebrity: "Jason Sudeikis"
@@ -18,6 +18,15 @@ sources:
   - "https://www.avclub.com/ted-lasso-season-5-renewal"
   - "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ted-lasso-renewed-for-season-5-jason-sudeikis-to-return-to-emmy-winning-series/articleshow/136114131.cms"
   - "https://www.cinemablend.com/streaming-news/jason-sudeikis-olivia-wilde-complicated-split-credit-ted-lasso"
+image: "images/2026-11-24-14-00-jason-sudeikis.webp"
+image_alt: "Jason Sudeikis: Jason Sudeikis 2011 Shankbone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/27865228@N06/5678011903\" rel=\"noopener\">david_shankbone</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/27865228@N06/5678011903\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3512
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-jason-sudeikis-768x432.webp"
+wp_id: 3513
+wp_link: "https://moduscarry.com/ted-lasso-season-5-jason-sudeikis/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
