@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-10",
-   "time": "2026-11-10T09:18:56+00:00",
-   "batch": "2026-11-10 20:00",
-   "celebrity": "Margot Robbie",
-   "article": "2026-11-10-20-00-margot-robbie.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 16,
-   "output_tokens": 3610,
-   "cache_read_tokens": 207172,
-   "cache_write_tokens": 21917,
-   "turns": 10,
-   "seconds": 47,
-   "cost_usd": 0.1457
-  },
-  {
-   "date": "2026-11-10",
    "time": "2026-11-10T09:20:45+00:00",
    "batch": "2026-11-10 20:00",
    "celebrity": "Renate Reinsve",
@@ -23999,6 +23983,22 @@
    "turns": 11,
    "seconds": 45,
    "cost_usd": 0.2057
+  },
+  {
+   "date": "2026-11-24",
+   "time": "2026-11-24T14:41:25+00:00",
+   "batch": "2026-11-25 01:00",
+   "celebrity": "Brendan Fraser",
+   "article": "2026-11-25-01-00-brendan-fraser.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 908,
+   "cache_read_tokens": 80132,
+   "cache_write_tokens": 21177,
+   "turns": 6,
+   "seconds": 10,
+   "cost_usd": 0.102
   }
  ]
 }
