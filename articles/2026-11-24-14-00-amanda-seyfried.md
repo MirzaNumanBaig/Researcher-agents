@@ -16,9 +16,15 @@ sources:
   - "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-december-hosts-timothee-chalamet-amanda-seyfried-1235663031/"
   - "https://www.hollywoodreporter.com/tv/tv-news/snl-season-52-hosts-musical-guests-list-1236695508/"
 wp_id: 3496
-wp_link: "https://moduscarry.com/?p=3496"
-wp_synced: pending
+wp_link: "https://moduscarry.com/amanda-seyfried-snl-host/"
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-24-14-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, actor, at the 2025 Toronto International Film Festival (TIFF) for the movie The Testament of Ann Lee ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._01.jpg\" rel=\"noopener\">Sara Komatsu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._01.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+embed_checked: 1
+wp_media_id: 3550
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-amanda-seyfried-768x432.webp"
 ---
 
 **Quick summary**

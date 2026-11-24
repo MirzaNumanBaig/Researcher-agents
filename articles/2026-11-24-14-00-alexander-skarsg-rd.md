@@ -15,9 +15,15 @@ image_prompt: "An empty medieval banquet hall at dusk, a long wooden table set f
 sources:
   - "https://faroutmagazine.co.uk/2007-alexander-skarsgard-not-cast-in-movie-father-two-brothers-were/"
 wp_id: 3495
-wp_link: "https://moduscarry.com/?p=3495"
-wp_synced: pending
+wp_link: "https://moduscarry.com/arn-knight-templar-alexander-skarsgard/"
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-24-14-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd at the 63rd New York Film Festival in New York City for the film Pillion"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_05.jpg\" rel=\"noopener\">Veggiegalaxy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_05.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+embed_checked: 1
+wp_media_id: 3548
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-24-14-00-alexander-skarsg-rd-768x432.webp"
 ---
 
 **Quick summary**

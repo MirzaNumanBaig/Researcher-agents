@@ -26,6 +26,7 @@ wp_id: 3501
 wp_link: "https://moduscarry.com/connor-storrie-vogue-best-dressed-2026/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
