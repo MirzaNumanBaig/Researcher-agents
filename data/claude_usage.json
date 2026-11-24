@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-10",
-   "time": "2026-11-10T02:24:39+00:00",
-   "batch": "2026-11-10 12:00",
-   "celebrity": "Pamela Anderson",
-   "article": "2026-11-10-12-00-pamela-anderson.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1344,
-   "cache_read_tokens": 115605,
-   "cache_write_tokens": 23104,
-   "turns": 7,
-   "seconds": 22,
-   "cost_usd": 0.1176
-  },
-  {
-   "date": "2026-11-10",
    "time": "2026-11-10T02:25:29+00:00",
    "batch": "2026-11-10 12:00",
    "celebrity": "Rebel Wilson",
@@ -23999,6 +23983,22 @@
    "turns": 9,
    "seconds": 32,
    "cost_usd": 0.157
+  },
+  {
+   "date": "2026-11-24",
+   "time": "2026-11-24T05:19:20+00:00",
+   "batch": "2026-11-24 14:00",
+   "celebrity": "Street Fighter",
+   "article": "2026-11-24-14-00-street-fighter.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 3755,
+   "cache_read_tokens": 206086,
+   "cache_write_tokens": 28867,
+   "turns": 10,
+   "seconds": 39,
+   "cost_usd": 0.1774
   }
  ]
 }
