@@ -5,7 +5,7 @@ seo_title: "Alexander Skarsgård Wicker Digital Release Date"
 seo_description: "Alexander Skarsgård's Wicker is now on digital and VOD. See the release dates, the US$40.3 million box office and how critics rated the film."
 focus_keyword: "Alexander Skarsgård Wicker"
 permalink: "alexander-skarsgard-wicker-digital"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 01:00"
 celebrity: "Alexander Skarsgård"
@@ -14,6 +14,15 @@ tags: ["Alexander Skarsgård"]
 image_prompt: "A cosy living room at dusk with a television glowing beside a handmade wicker basket, a quiet seaside village visible through the window."
 sources:
   - "https://www.comingsoon.net/movies/news/2229180-wicker-alexander-skarsgard-digital-release-date-today"
+image: "images/2026-11-25-01-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd at the 63rd New York Film Festival in New York City for the film Pillion"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_01.jpg\" rel=\"noopener\">Veggiegalaxy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_01.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3554
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-01-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 3555
+wp_link: "https://moduscarry.com/alexander-skarsgard-wicker-digital/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

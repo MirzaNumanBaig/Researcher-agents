@@ -27,6 +27,7 @@ wp_id: 3513
 wp_link: "https://moduscarry.com/ted-lasso-season-5-jason-sudeikis/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

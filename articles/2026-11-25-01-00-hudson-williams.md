@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Yaga Season 2: Renewal and Cast Questions"
 seo_description: "Hudson Williams' Yaga is renewed for season 2 after a strong launch. Carrie-Anne Moss returns, but Williams' return is unconfirmed. Here is what we know."
 focus_keyword: "Hudson Williams Yaga season 2"
 permalink: "hudson-williams-yaga-season-2"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 01:00"
 celebrity: "Hudson Williams"
@@ -16,6 +16,15 @@ sources:
   - "https://www.attitude.co.uk/culture/film-tv/yaga-renewed-for-season-2-hudson-williams-540464/"
   - "https://www.comingsoon.net/tv/news/2229531-hudson-williams-tv-show-renewed-heated-rivalry-season-2"
   - "https://www.realitytea.com/2026/11/23/connor-storrie-living-with-hudson-williams-friendship/"
+image: "images/2026-11-25-01-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(21).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(21).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3566
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-01-00-hudson-williams-768x432.webp"
+wp_id: 3567
+wp_link: "https://moduscarry.com/hudson-williams-yaga-season-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

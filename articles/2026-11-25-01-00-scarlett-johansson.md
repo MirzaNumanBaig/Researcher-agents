@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Ray Gunn: Record Oscars Animation Race"
 seo_description: "Scarlett Johansson's Ray Gunn is one of 38 films eligible for Best Animated Feature at the 99th Oscars, a new record. See what happens next."
 focus_keyword: "Scarlett Johansson Ray Gunn"
 permalink: "scarlett-johansson-ray-gunn-oscars"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 01:00"
 celebrity: "Scarlett Johansson"
@@ -14,6 +14,15 @@ tags: ["Scarlett Johansson"]
 image_prompt: "An empty cinema auditorium with a glowing animated film frame on the screen and a golden statuette silhouette on a stage."
 sources:
   - "https://www.comingsoon.net/movies/news/2229808-coyote-vs-acme-scarlett-johansson-movie-36-others-oscars-record"
+image: "images/2026-11-25-01-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071_(cropped_II).jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071_(cropped_II).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3584
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-01-00-scarlett-johansson-768x432.webp"
+wp_id: 3585
+wp_link: "https://moduscarry.com/scarlett-johansson-ray-gunn-oscars/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

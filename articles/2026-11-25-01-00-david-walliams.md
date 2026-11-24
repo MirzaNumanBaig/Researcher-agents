@@ -5,7 +5,7 @@ seo_title: "David Walliams HarperCollins Cover-Up Claims Explained"
 seo_description: "David Walliams HarperCollins claims: former staff allege a cover-up, the Met Police is investigating, and Walliams denies any criminality. Here is what we know."
 focus_keyword: "David Walliams HarperCollins"
 permalink: "david-walliams-harpercollins-cover-up"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 01:00"
 celebrity: "David Walliams"
@@ -16,6 +16,15 @@ sources:
   - "https://metro.co.uk/2026/11/24/harpercollins-accused-trying-cover-up-david-walliams-behaviour-29816372/"
   - "https://www.dailymail.com/news/article-16318129/David-Walliams-publisher-HarperCollins-accused-former-staff-cover-claims-inappropriate-behaviour-women-girls.html"
   - "https://graziadaily.co.uk/life/in-the-news/culture-debrief-david-walliams/"
+image: "images/2026-11-25-01-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams, actor, comedian, and writer, at the 2025 Jaipur Literature Festival in Jaipur, India."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival_(cropped).jpg\" rel=\"noopener\">Sriya Sarkar</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3558
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-01-00-david-walliams-768x432.webp"
+wp_id: 3559
+wp_link: "https://moduscarry.com/david-walliams-harpercollins-cover-up/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

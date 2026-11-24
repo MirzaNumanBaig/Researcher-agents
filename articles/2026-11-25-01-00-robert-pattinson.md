@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond watch: Omega vs Jaeger-LeCoultre"
 seo_description: "The Robert Pattinson Bond watch is up for grabs as Omega, Jaeger-LeCoultre, Tom Ford and Dior eye 007's wardrobe. Here is what is known so far."
 focus_keyword: "Robert Pattinson Bond watch"
 permalink: "robert-pattinson-bond-watch"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 01:00"
 celebrity: "Robert Pattinson"
@@ -18,6 +18,15 @@ sources:
   - "https://www.forbesindia.com/life/entertainment/in-seventh-heaven-robert-pattinsons-role-of-a-lifetime-article/3000970"
   - "https://www.theguardian.com/film/2026/nov/24/who-next-bond-girl-robert-pattinson"
   - "https://www.plataformamedia.com/en/2026/11/23/batman-to-be-recast-after-robert-pattinson-reportedly-exits-franchise-over-james-bond-role/"
+image: "images/2026-11-25-01-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Actor Robert Pattinson at the 75th Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65806.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65806.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3578
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-01-00-robert-pattinson-768x432.webp"
+wp_id: 3579
+wp_link: "https://moduscarry.com/robert-pattinson-bond-watch/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

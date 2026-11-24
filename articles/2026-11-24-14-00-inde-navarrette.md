@@ -23,6 +23,7 @@ wp_id: 3509
 wp_link: "https://moduscarry.com/inde-navarrette-gta-6/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Denis Villeneuve Bond film: Villain Pitches, Casting Buzz"
 seo_description: "The Denis Villeneuve Bond film has its 007 in Robert Pattinson, and Brad Pitt and Florence Pugh are already pitching to play the villain."
 focus_keyword: "Denis Villeneuve Bond film"
 permalink: "denis-villeneuve-bond-film"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 01:00"
 celebrity: "Denis Villeneuve"
@@ -17,6 +17,15 @@ sources:
   - "https://www.forbesindia.com/life/entertainment/in-seventh-heaven-robert-pattinsons-role-of-a-lifetime-article/3000970"
   - "https://manofmany.com/entertainment/movies-tv/every-denis-villeneuve-film-ranked"
   - "https://www.marca.com/en/lifestyle/movies/2026/11/23/brad-pitt-defends-his-candidacy-to-be-robert-pattinson-s-first-villain-as-james-bond-my-friend-javier-bardem-did-very-well.html"
+image: "images/2026-11-25-01-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve's Bond Film: Villain and Co-Star Talk Starts"
+image_credit: "Image: <a href=\"https://www.forbesindia.com/life/entertainment/in-seventh-heaven-robert-pattinsons-role-of-a-lifetime-article/3000970\" rel=\"nofollow noopener\">Forbes India</a> (cropped)"
+wp_media_id: 3562
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-01-00-denis-villeneuve-768x432.webp"
+wp_id: 3563
+wp_link: "https://moduscarry.com/denis-villeneuve-bond-film/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -25,6 +25,7 @@ wp_id: 3505
 wp_link: "https://moduscarry.com/elizabeth-debicki-cliff-booth-premiere/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
