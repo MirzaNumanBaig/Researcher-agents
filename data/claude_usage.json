@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-11",
-   "time": "2026-11-11T06:15:48+00:00",
-   "batch": "2026-11-11 16:00",
-   "celebrity": "Hugh Jackman",
-   "article": "2026-11-11-16-00-hugh-jackman.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 14,
-   "output_tokens": 1815,
-   "cache_read_tokens": 227678,
-   "cache_write_tokens": 25024,
-   "turns": 11,
-   "seconds": 19,
-   "cost_usd": 0.1412
-  },
-  {
-   "date": "2026-11-11",
    "time": "2026-11-11T06:18:44+00:00",
    "batch": "2026-11-11 16:00",
    "celebrity": "Inde Navarrette",
@@ -23999,6 +23983,22 @@
    "turns": 9,
    "seconds": 28,
    "cost_usd": 0.1475
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T00:44:21+00:00",
+   "batch": "2026-11-25 10:00",
+   "celebrity": "Mckenna Grace",
+   "article": "2026-11-25-10-00-mckenna-grace.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 14,
+   "output_tokens": 6332,
+   "cache_read_tokens": 298867,
+   "cache_write_tokens": 40259,
+   "turns": 10,
+   "seconds": 43,
+   "cost_usd": 0.2544
   }
  ]
 }
