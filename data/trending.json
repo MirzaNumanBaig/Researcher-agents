@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-25",
  "pageview_days": 7,
  "hot_now": [
   {
@@ -11,15 +11,15 @@
    ],
    "australian": false,
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Pattinson",
-   "views_7d": 1490456,
-   "views_month": 0,
-   "trend": null,
+   "views_7d": 1752524,
+   "views_month": 339679,
+   "trend": 22.11,
    "tracked": true,
    "films": [
     {
      "title": "Primetime",
      "qid": "Q133273688",
-     "date": "2026-09-25"
+     "date": "2026-12-03"
     },
     {
      "title": "The Take",
@@ -29,167 +29,197 @@
    ]
   },
   {
+   "qid": "Q16235151",
+   "name": "Suki Waterhouse",
+   "description": "British model and actress (born 1992)",
+   "roles": [
+    "actor",
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Suki_Waterhouse",
+   "views_7d": 685393,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q131623323",
+   "name": "Stephen Wilson Jr.",
+   "description": "American rock and country musician",
+   "roles": [
+    "musician"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Wilson_Jr.",
+   "views_7d": 461026,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q134079852",
+   "name": "Joseph Zada",
+   "description": "Australian actor (born 2005)",
+   "roles": [
+    "actor"
+   ],
+   "australian": true,
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Zada",
+   "views_7d": 419208,
+   "views_month": 333897,
+   "trend": 5.38,
+   "tracked": true,
+   "films": [
+    {
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "qid": "Q126390739",
+     "date": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "qid": "Q20752077",
+   "name": "Mckenna Grace",
+   "description": "American actress and singer (born 2006)",
+   "roles": [
+    "actor",
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mckenna_Grace",
+   "views_7d": 387417,
+   "views_month": 390573,
+   "trend": 4.25,
+   "tracked": true,
+   "films": [
+    {
+     "title": "The Last Kiss",
+     "qid": "Q141430687",
+     "date": "2026-09-15"
+    },
+    {
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "qid": "Q126390739",
+     "date": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "qid": "Q141819050",
+   "name": "Sara Boustany",
+   "description": "Lebanese-American actress",
+   "roles": [
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sara_Boustany",
+   "views_7d": 378474,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
    "qid": "Q296609",
    "name": "Russell Brand",
    "description": "English comedian, actor, podcaster and sex offender (born 1975)",
    "roles": [
     "actor",
     "producer",
+    "writer",
     "comedian",
-    "singer",
-    "writer"
+    "singer"
    ],
    "australian": false,
    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Brand",
-   "views_7d": 1324409,
-   "views_month": 0,
-   "trend": null,
+   "views_7d": 369451,
+   "views_month": 535325,
+   "trend": 2.96,
    "tracked": true,
    "films": []
   },
   {
-   "qid": "Q359665",
-   "name": "David Walliams",
-   "description": "English actor, comedian and writer",
+   "qid": "Q125373422",
+   "name": "Manni L. Perez",
+   "description": "American actress (born 1992)",
+   "roles": [
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Manni_L._Perez",
+   "views_7d": 355789,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q59248250",
+   "name": "Hunter Schafer",
+   "description": "American actress, model, and LGBTQ activist (born 1998)",
    "roles": [
     "actor",
-    "producer",
-    "comedian",
     "writer"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/David_Walliams",
-   "views_7d": 1199572,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
-   "films": []
-  },
-  {
-   "qid": "Q16235151",
-   "name": "Suki Waterhouse",
-   "description": "British model and actress (born 1992)",
-   "roles": [
-    "actor"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Suki_Waterhouse",
-   "views_7d": 410133,
-   "views_month": 0,
-   "trend": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hunter_Schafer",
+   "views_7d": 355513,
+   "views_month": 506370,
+   "trend": 3.01,
    "tracked": false,
    "films": []
   },
   {
-   "qid": "Q239828",
-   "name": "Lara Stone",
-   "description": "Dutch model",
-   "roles": [
-    "actor"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Lara_Stone",
-   "views_7d": 310934,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q30449",
-   "name": "Avril Lavigne",
-   "description": "Canadian singer-songwriter (born 1984)",
+   "qid": "Q4235",
+   "name": "Miley",
+   "description": "American singer, actress, and television personality (born 1992)",
    "roles": [
     "actor",
     "musician",
+    "producer",
     "singer"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Avril_Lavigne",
-   "views_7d": 295100,
-   "views_month": 0,
-   "trend": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+   "views_7d": 313006,
+   "views_month": 289502,
+   "trend": 4.63,
    "tracked": false,
    "films": []
   },
   {
-   "qid": "Q144622",
-   "name": "Phil Collins",
-   "description": "English drummer, singer, and songwriter (born 1951)",
+   "qid": "Q4547",
+   "name": "Daniel Craig",
+   "description": "English actor (born 1968)",
+   "roles": [
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Craig",
+   "views_7d": 279006,
+   "views_month": 234294,
+   "trend": 5.1,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q189490",
+   "name": "Jennifer Lawrence",
+   "description": "American actress and producer (born 1990)",
    "roles": [
     "actor",
     "producer",
-    "musician",
-    "singer"
+    "director"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Phil_Collins",
-   "views_7d": 262037,
-   "views_month": 0,
-   "trend": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+   "views_7d": 276421,
+   "views_month": 368580,
+   "trend": 3.21,
    "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q141819050",
-   "name": "Sara Boustany",
-   "description": "lebanese-American actress (born 2003)",
-   "roles": [
-    "actor"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Sara_Boustany",
-   "views_7d": 260381,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q66744380",
-   "name": "Yella Beezy",
-   "description": "American rapper and songwriter",
-   "roles": [
-    "singer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Yella_Beezy",
-   "views_7d": 256373,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q7489358",
-   "name": "Sharad Kapoor",
-   "description": "Indian actor",
-   "roles": [
-    "actor"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Sharad_Kapoor",
-   "views_7d": 248589,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q359969",
-   "name": "Dane Cook",
-   "description": "American actor and comedian",
-   "roles": [
-    "actor",
-    "director",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Dane_Cook",
-   "views_7d": 240204,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
    "films": []
   },
   {
@@ -204,9 +234,9 @@
    ],
    "australian": false,
    "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_Stallone",
-   "views_7d": 235806,
-   "views_month": 0,
-   "trend": null,
+   "views_7d": 268979,
+   "views_month": 704385,
+   "trend": 1.64,
    "tracked": true,
    "films": []
   },
@@ -220,152 +250,49 @@
    ],
    "australian": false,
    "wikipedia": "https://en.wikipedia.org/wiki/Kristina_Bogic",
-   "views_7d": 210350,
+   "views_7d": 260444,
    "views_month": 0,
    "trend": null,
    "tracked": false,
    "films": []
   },
   {
-   "qid": "Q1388430",
-   "name": "Noel Fielding",
-   "description": "British comedian and actor",
+   "qid": "Q199931",
+   "name": "Leighton Meester",
+   "description": "American actress and singer",
    "roles": [
     "actor",
-    "musician",
-    "comedian",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Noel_Fielding",
-   "views_7d": 210019,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q172261",
-   "name": "John Malkovich",
-   "description": "American actor",
-   "roles": [
-    "actor",
-    "director",
-    "producer",
-    "musician"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/John_Malkovich",
-   "views_7d": 202432,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q42493",
-   "name": "Katy Perry",
-   "description": "American singer (born 1984)",
-   "roles": [
-    "actor",
-    "musician",
     "singer"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Katy_Perry",
-   "views_7d": 199124,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
-   "films": []
-  },
-  {
-   "qid": "Q21063453",
-   "name": "Lucy Beaumont",
-   "description": "British comedian (born 1983)",
-   "roles": [
-    "comedian",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Lucy_Beaumont_(comedian)",
-   "views_7d": 196165,
-   "views_month": 0,
-   "trend": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Leighton_Meester",
+   "views_7d": 248888,
+   "views_month": 236252,
+   "trend": 4.51,
    "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q16207915",
-   "name": "Nathan Fielder",
-   "description": "Canadian writer and comedian",
-   "roles": [
-    "actor",
-    "director",
-    "producer",
-    "comedian",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Fielder",
-   "views_7d": 190049,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
    "films": [
     {
-     "title": "You Can See Everything",
-     "qid": "Q141336617",
-     "date": "2026-12-03"
+     "title": "Guarding Stars",
+     "qid": "Q141189422",
+     "date": "2026-11-18"
     }
    ]
   },
   {
-   "qid": "Q37175",
-   "name": "Johnny Depp",
-   "description": "American actor (born 1963)",
+   "qid": "Q81520",
+   "name": "Pierce Brosnan",
+   "description": "Irish actor (born 1953)",
    "roles": [
     "actor",
-    "director",
     "producer",
-    "musician"
+    "musician",
+    "singer"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Depp",
-   "views_7d": 187566,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
-   "films": []
-  },
-  {
-   "qid": "Q42581",
-   "name": "Keira Knightley",
-   "description": "British actress (born 1985)",
-   "roles": [
-    "actor"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Keira_Knightley",
-   "views_7d": 187306,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
-   "films": []
-  },
-  {
-   "qid": "Q96944777",
-   "name": "Harper Steele",
-   "description": "screenwriter and television producer",
-   "roles": [
-    "producer",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Harper_Steele",
-   "views_7d": 186162,
-   "views_month": 0,
-   "trend": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pierce_Brosnan",
+   "views_7d": 233418,
+   "views_month": 346022,
+   "trend": 2.89,
    "tracked": false,
    "films": []
   },
@@ -380,9 +307,9 @@
    ],
    "australian": false,
    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Flynn",
-   "views_7d": 177484,
-   "views_month": 0,
-   "trend": null,
+   "views_7d": 224536,
+   "views_month": 275815,
+   "trend": 3.49,
    "tracked": true,
    "films": [
     {
@@ -393,314 +320,122 @@
    ]
   },
   {
-   "qid": "Q342617",
-   "name": "Ben Whishaw",
-   "description": "British actor and producer (born 1980)",
+   "qid": "Q215757",
+   "name": "Jared Padalecki",
+   "description": "American actor",
    "roles": [
     "actor"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Ben_Whishaw",
-   "views_7d": 176576,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jared_Padalecki",
+   "views_7d": 196593,
    "views_month": 0,
    "trend": null,
-   "tracked": true,
+   "tracked": false,
+   "films": [
+    {
+     "title": "Guarding Stars",
+     "qid": "Q141189422",
+     "date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "qid": "Q126599",
+   "name": "Kristen Stewart",
+   "description": "American actress (born 1990)",
+   "roles": [
+    "actor",
+    "director"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kristen_Stewart",
+   "views_7d": 188073,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": [
+    {
+     "title": "The Wrong Girls",
+     "qid": "Q132560837",
+     "date": "2026-08-14"
+    }
+   ]
+  },
+  {
+   "qid": "Q36301",
+   "name": "Anne Hathaway",
+   "description": "American actress (born 1982)",
+   "roles": [
+    "actor",
+    "musician"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Anne_Hathaway",
+   "views_7d": 184605,
+   "views_month": 678424,
+   "trend": 1.17,
+   "tracked": false,
+   "films": [
+    {
+     "title": "The End of Oak Street",
+     "qid": "Q124804916",
+     "date": "2026-08-14"
+    },
+    {
+     "title": "Verity",
+     "qid": "Q131523413",
+     "date": "2026-10-02"
+    }
+   ]
+  },
+  {
+   "qid": "Q142116282",
+   "name": "Geena Meszaros",
+   "description": "Canadian actress",
+   "roles": [
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Geena_Meszaros",
+   "views_7d": 184316,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
    "films": []
   },
   {
-   "qid": "Q20752077",
-   "name": "Mckenna Grace",
-   "description": "American actress and singer (born 2006)",
+   "qid": "Q22277803",
+   "name": "Florence Pugh",
+   "description": "British actress (born 1996)",
    "roles": [
     "actor",
     "singer"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Mckenna_Grace",
-   "views_7d": 173880,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
+   "wikipedia": "https://en.wikipedia.org/wiki/Florence_Pugh",
+   "views_7d": 181373,
+   "views_month": 1197756,
+   "trend": 0.65,
+   "tracked": false,
    "films": [
     {
-     "title": "The Last Kiss",
-     "qid": "Q141430687",
-     "date": "2026-09-15"
+     "title": "Spider-Man: Brand New Day",
+     "qid": "Q113244935",
+     "date": "2026-08-06"
     }
    ]
   },
   {
-   "qid": "Q15721444",
-   "name": "Yash",
+   "qid": "Q7489358",
+   "name": "Sharad Kapoor",
    "description": "Indian actor",
    "roles": [
     "actor"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Yash_(actor)",
-   "views_7d": 172025,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": [
-    {
-     "title": "Ramayana: Rise of a Legend",
-     "qid": "Q135196186",
-     "date": "2026-11-08"
-    }
-   ]
-  },
-  {
-   "qid": "Q16908467",
-   "name": "Nitesh Tiwari",
-   "description": "Indian film director, screenwriter, and lyricist",
-   "roles": [
-    "director",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Nitesh_Tiwari",
-   "views_7d": 171549,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": [
-    {
-     "title": "Ramayana: Rise of a Legend",
-     "qid": "Q135196186",
-     "date": "2026-11-08"
-    }
-   ]
-  },
-  {
-   "qid": "Q20081051",
-   "name": "Sai Pallavi",
-   "description": "Indian actress and influencer",
-   "roles": [
-    "actor"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Sai_Pallavi",
-   "views_7d": 164640,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": [
-    {
-     "title": "Ramayana: Rise of a Legend",
-     "qid": "Q135196186",
-     "date": "2026-11-08"
-    }
-   ]
-  },
-  {
-   "qid": "Q6249723",
-   "name": "John Mulaney",
-   "description": "American comedian and actor (born 1982)",
-   "roles": [
-    "actor",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/John_Mulaney",
-   "views_7d": 154510,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q717015",
-   "name": "James Gunn",
-   "description": "American screenwriter and filmmaker (born 1966)",
-   "roles": [
-    "director",
-    "actor",
-    "producer",
-    "musician",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/James_Gunn",
-   "views_7d": 150558,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": [
-    {
-     "title": "Coyote vs. Acme",
-     "qid": "Q106392679",
-     "date": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "qid": "Q229313",
-   "name": "Jessica Chastain",
-   "description": "American actress and producer (born 1977)",
-   "roles": [
-    "producer",
-    "actor"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Jessica_Chastain",
-   "views_7d": 148521,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": [
-    {
-     "title": "Other Mommy",
-     "qid": "Q134588273",
-     "date": "2026-10-29"
-    },
-    {
-     "title": "Heartland",
-     "qid": "Q136757568",
-     "date": "2026-11-13"
-    }
-   ]
-  }
- ],
- "always_popular": [],
- "filmmakers": [
-  {
-   "qid": "Q296609",
-   "name": "Russell Brand",
-   "description": "English comedian, actor, podcaster and sex offender (born 1975)",
-   "roles": [
-    "actor",
-    "producer",
-    "comedian",
-    "singer",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Russell_Brand",
-   "views_7d": 1324409,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
-   "films": []
-  },
-  {
-   "qid": "Q359665",
-   "name": "David Walliams",
-   "description": "English actor, comedian and writer",
-   "roles": [
-    "actor",
-    "producer",
-    "comedian",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/David_Walliams",
-   "views_7d": 1199572,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
-   "films": []
-  },
-  {
-   "qid": "Q144622",
-   "name": "Phil Collins",
-   "description": "English drummer, singer, and songwriter (born 1951)",
-   "roles": [
-    "actor",
-    "producer",
-    "musician",
-    "singer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Phil_Collins",
-   "views_7d": 262037,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q359969",
-   "name": "Dane Cook",
-   "description": "American actor and comedian",
-   "roles": [
-    "actor",
-    "director",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Dane_Cook",
-   "views_7d": 240204,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
-   "films": []
-  },
-  {
-   "qid": "Q40026",
-   "name": "Sylvester Stallone",
-   "description": "American actor and filmmaker (born 1946)",
-   "roles": [
-    "actor",
-    "producer",
-    "director",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_Stallone",
-   "views_7d": 235806,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
-   "films": []
-  },
-  {
-   "qid": "Q1388430",
-   "name": "Noel Fielding",
-   "description": "British comedian and actor",
-   "roles": [
-    "actor",
-    "musician",
-    "comedian",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Noel_Fielding",
-   "views_7d": 210019,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q172261",
-   "name": "John Malkovich",
-   "description": "American actor",
-   "roles": [
-    "actor",
-    "director",
-    "producer",
-    "musician"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/John_Malkovich",
-   "views_7d": 202432,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q21063453",
-   "name": "Lucy Beaumont",
-   "description": "British comedian (born 1983)",
-   "roles": [
-    "comedian",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Lucy_Beaumont_(comedian)",
-   "views_7d": 196165,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sharad_Kapoor",
+   "views_7d": 175740,
    "views_month": 0,
    "trend": null,
    "tracked": false,
@@ -709,7 +444,7 @@
   {
    "qid": "Q16207915",
    "name": "Nathan Fielder",
-   "description": "Canadian writer and comedian",
+   "description": "Canadian filmmaker, writer and comedian",
    "roles": [
     "actor",
     "director",
@@ -719,263 +454,15 @@
    ],
    "australian": false,
    "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Fielder",
-   "views_7d": 190049,
-   "views_month": 0,
-   "trend": null,
+   "views_7d": 172506,
+   "views_month": 1324907,
+   "trend": 0.56,
    "tracked": true,
    "films": [
     {
      "title": "You Can See Everything",
      "qid": "Q141336617",
-     "date": "2026-12-03"
-    }
-   ]
-  },
-  {
-   "qid": "Q37175",
-   "name": "Johnny Depp",
-   "description": "American actor (born 1963)",
-   "roles": [
-    "actor",
-    "director",
-    "producer",
-    "musician"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Depp",
-   "views_7d": 187566,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
-   "films": []
-  },
-  {
-   "qid": "Q96944777",
-   "name": "Harper Steele",
-   "description": "screenwriter and television producer",
-   "roles": [
-    "producer",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Harper_Steele",
-   "views_7d": 186162,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q16908467",
-   "name": "Nitesh Tiwari",
-   "description": "Indian film director, screenwriter, and lyricist",
-   "roles": [
-    "director",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Nitesh_Tiwari",
-   "views_7d": 171549,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": [
-    {
-     "title": "Ramayana: Rise of a Legend",
-     "qid": "Q135196186",
-     "date": "2026-11-08"
-    }
-   ]
-  },
-  {
-   "qid": "Q6249723",
-   "name": "John Mulaney",
-   "description": "American comedian and actor (born 1982)",
-   "roles": [
-    "actor",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/John_Mulaney",
-   "views_7d": 154510,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q717015",
-   "name": "James Gunn",
-   "description": "American screenwriter and filmmaker (born 1966)",
-   "roles": [
-    "director",
-    "actor",
-    "producer",
-    "musician",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/James_Gunn",
-   "views_7d": 150558,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": [
-    {
-     "title": "Coyote vs. Acme",
-     "qid": "Q106392679",
-     "date": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "qid": "Q229313",
-   "name": "Jessica Chastain",
-   "description": "American actress and producer (born 1977)",
-   "roles": [
-    "producer",
-    "actor"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Jessica_Chastain",
-   "views_7d": 148521,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": [
-    {
-     "title": "Other Mommy",
-     "qid": "Q134588273",
-     "date": "2026-10-29"
-    },
-    {
-     "title": "Heartland",
-     "qid": "Q136757568",
-     "date": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "qid": "Q36949",
-   "name": "Robert De Niro",
-   "description": "American actor (born 1943)",
-   "roles": [
-    "actor",
-    "director",
-    "producer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Robert_De_Niro",
-   "views_7d": 145290,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": [
-    {
-     "title": "The Whisper Man",
-     "qid": "Q133852597",
-     "date": "2026-08-28"
-    }
-   ]
-  },
-  {
-   "qid": "Q468577",
-   "name": "Jemima Goldsmith",
-   "description": "British screenwriter, television, film and documentary producer",
-   "roles": [
-    "producer",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Jemima_Goldsmith",
-   "views_7d": 140804,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q1680660",
-   "name": "James Keach",
-   "description": "American actor (born 1947)",
-   "roles": [
-    "actor",
-    "director",
-    "producer",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/James_Keach",
-   "views_7d": 138033,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q81520",
-   "name": "Pierce Brosnan",
-   "description": "Irish actor (born 1953)",
-   "roles": [
-    "actor",
-    "producer",
-    "musician",
-    "singer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Pierce_Brosnan",
-   "views_7d": 132356,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q18162913",
-   "name": "Callum Turner",
-   "description": "English actor (born 1990)",
-   "roles": [
-    "actor",
-    "director"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Callum_Turner",
-   "views_7d": 129966,
-   "views_month": 0,
-   "trend": null,
-   "tracked": true,
-   "films": [
-    {
-     "title": "One Night Only",
-     "qid": "Q135906833",
-     "date": "2026-08-28"
-    }
-   ]
-  },
-  {
-   "qid": "Q200355",
-   "name": "Olivia Wilde",
-   "description": "American actress and film director (born 1984)",
-   "roles": [
-    "actor",
-    "director"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Olivia_Wilde",
-   "views_7d": 129769,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": [
-    {
-     "title": "Behemoth!",
-     "qid": "Q136706560",
-     "date": "2026-12-04"
-    },
-    {
-     "title": "Naughty",
-     "qid": "Q141958190",
-     "date": "2027-01-01"
+     "date": "2026-11-20"
     }
    ]
   },
@@ -990,128 +477,721 @@
    ],
    "australian": false,
    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Hardy",
-   "views_7d": 122993,
-   "views_month": 0,
-   "trend": null,
+   "views_7d": 171925,
+   "views_month": 397860,
+   "trend": 1.85,
    "tracked": true,
    "films": []
   },
   {
-   "qid": "Q317251",
-   "name": "Matt Lucas",
-   "description": "British actor, comedian and screenwriter",
+   "qid": "Q984061",
+   "name": "Sam Houser",
+   "description": "British video game producer and developer (born 1971)",
+   "roles": [
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sam_Houser",
+   "views_7d": 165896,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q103578",
+   "name": "Macaulay Culkin",
+   "description": "American actor and singer (born 1980)",
    "roles": [
     "actor",
+    "musician"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Macaulay_Culkin",
+   "views_7d": 165812,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q935340",
+   "name": "Dan Houser",
+   "description": "British video game producer (born 1973)",
+   "roles": [
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dan_Houser",
+   "views_7d": 165335,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q1116190",
+   "name": "Leigh Francis",
+   "description": "British actor and host",
+   "roles": [
+    "actor",
+    "comedian",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Leigh_Francis",
+   "views_7d": 160735,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q141807036",
+   "name": "Dylan Rourke",
+   "description": "American actor",
+   "roles": [
+    "actor",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dylan_Rourke",
+   "views_7d": 153914,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  }
+ ],
+ "always_popular": [
+  {
+   "qid": "Q16207915",
+   "name": "Nathan Fielder",
+   "description": "Canadian filmmaker, writer and comedian",
+   "roles": [
+    "actor",
+    "director",
     "producer",
     "comedian",
-    "singer",
     "writer"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Matt_Lucas",
-   "views_7d": 117110,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q40054",
-   "name": "Jonathan Ross",
-   "description": "English television and radio presenter",
-   "roles": [
-    "actor",
-    "producer",
-    "writer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Ross",
-   "views_7d": 111074,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q298347",
-   "name": "Nicholas Hoult",
-   "description": "English actor (born 1989)",
-   "roles": [
-    "actor",
-    "producer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Hoult",
-   "views_7d": 110763,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Fielder",
+   "views_7d": 172506,
+   "views_month": 1324907,
+   "trend": 0.56,
+   "tracked": true,
    "films": [
     {
-     "title": "How to Rob a Bank",
-     "qid": "Q134520822",
-     "date": "2026-11-13"
+     "title": "You Can See Everything",
+     "qid": "Q141336617",
+     "date": "2026-11-20"
     }
    ]
   },
   {
-   "qid": "Q43203",
-   "name": "Clint Eastwood",
-   "description": "American actor and film director (born 1930)",
+   "qid": "Q24891605",
+   "name": "Bella Ramsey",
+   "description": "British actor",
    "roles": [
-    "actor",
-    "director",
-    "producer",
-    "musician",
-    "singer",
-    "writer"
+    "actor"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Clint_Eastwood",
-   "views_7d": 107808,
-   "views_month": 0,
-   "trend": null,
-   "tracked": false,
-   "films": []
-  },
-  {
-   "qid": "Q35332",
-   "name": "Brad Pitt",
-   "description": "American actor (born 1963)",
-   "roles": [
-    "actor",
-    "producer"
-   ],
-   "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Brad_Pitt",
-   "views_7d": 103270,
-   "views_month": 0,
-   "trend": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bella_Ramsey",
+   "views_7d": 0,
+   "views_month": 1275998,
+   "trend": 0.0,
    "tracked": false,
    "films": [
     {
-     "title": "Heart of the Beast",
-     "qid": "Q131900904",
-     "date": "2026-09-25"
+     "title": "The Liberation",
+     "qid": "Q135454893",
+     "date": "2026-11-01"
     }
    ]
   },
   {
-   "qid": "Q34436",
-   "name": "Scarlett Johansson",
-   "description": "American actress (born 1984)",
+   "qid": "Q2315802",
+   "name": "Dakota Johnson",
+   "description": "American actress and model (born 1989)",
+   "roles": [
+    "producer",
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dakota_Johnson",
+   "views_7d": 79650,
+   "views_month": 1231758,
+   "trend": 0.28,
+   "tracked": false,
+   "films": [
+    {
+     "title": "Verity",
+     "qid": "Q131523413",
+     "date": "2026-10-02"
+    }
+   ]
+  },
+  {
+   "qid": "Q22277803",
+   "name": "Florence Pugh",
+   "description": "British actress (born 1996)",
    "roles": [
     "actor",
-    "producer",
-    "director",
     "singer"
    ],
    "australian": false,
-   "wikipedia": "https://en.wikipedia.org/wiki/Scarlett_Johansson",
-   "views_7d": 103083,
-   "views_month": 0,
-   "trend": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Florence_Pugh",
+   "views_7d": 181373,
+   "views_month": 1197756,
+   "trend": 0.65,
+   "tracked": false,
+   "films": [
+    {
+     "title": "Spider-Man: Brand New Day",
+     "qid": "Q113244935",
+     "date": "2026-08-06"
+    }
+   ]
+  },
+  {
+   "qid": "Q24004789",
+   "name": "Sebastian Croft",
+   "description": "British actor",
+   "roles": [
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sebastian_Croft",
+   "views_7d": 0,
+   "views_month": 1195248,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q239476",
+   "name": "Jerry Hall",
+   "description": "American model",
+   "roles": [
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Hall",
+   "views_7d": 0,
+   "views_month": 1114171,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q303957",
+   "name": "Josh Hartnett",
+   "description": "American actor and producer",
+   "roles": [
+    "actor",
+    "producer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Josh_Hartnett",
+   "views_7d": 0,
+   "views_month": 1075369,
+   "trend": 0.0,
+   "tracked": false,
+   "films": [
+    {
+     "title": "Verity",
+     "qid": "Q131523413",
+     "date": "2026-10-02"
+    }
+   ]
+  },
+  {
+   "qid": "Q130799",
+   "name": "James Blunt",
+   "description": "English singer-songwriter (born 1974)",
+   "roles": [
+    "musician",
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Blunt",
+   "views_7d": 109701,
+   "views_month": 1031758,
+   "trend": 0.46,
    "tracked": true,
+   "films": []
+  },
+  {
+   "qid": "Q264748",
+   "name": "Selma Blair",
+   "description": "American actress (born 1972)",
+   "roles": [
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Selma_Blair",
+   "views_7d": 0,
+   "views_month": 998139,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q21663441",
+   "name": "Sunny Ozell",
+   "description": "American singer-songwriter",
+   "roles": [
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sunny_Ozell",
+   "views_7d": 9493,
+   "views_month": 986998,
+   "trend": 0.04,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q380856",
+   "name": "Richard E. Grant",
+   "description": "British actor",
+   "roles": [
+    "actor",
+    "director",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_E._Grant",
+   "views_7d": 0,
+   "views_month": 935519,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q119798",
+   "name": "Michael Douglas",
+   "description": "American actor, producer and activist (born 1944)",
+   "roles": [
+    "actor",
+    "producer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Douglas",
+   "views_7d": 35531,
+   "views_month": 842601,
+   "trend": 0.18,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q229426",
+   "name": "Keri Russell",
+   "description": "American actress",
+   "roles": [
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Keri_Russell",
+   "views_7d": 75114,
+   "views_month": 813026,
+   "trend": 0.4,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q19958195",
+   "name": "Josie Totah",
+   "description": "American actress",
+   "roles": [
+    "actor",
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Josie_Totah",
+   "views_7d": 8865,
+   "views_month": 732876,
+   "trend": 0.05,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q5111829",
+   "name": "Christopher Abbott",
+   "description": "American actor",
+   "roles": [
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Abbott",
+   "views_7d": 25281,
+   "views_month": 729731,
+   "trend": 0.15,
+   "tracked": false,
+   "films": [
+    {
+     "title": "You Can See Everything",
+     "qid": "Q141336617",
+     "date": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "qid": "Q47664",
+   "name": "Catherine Zeta-Jones",
+   "description": "British actress (born 1969)",
+   "roles": [
+    "actor",
+    "musician",
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Zeta-Jones",
+   "views_7d": 28557,
+   "views_month": 722145,
+   "trend": 0.17,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q298276",
+   "name": "Michael Sheen",
+   "description": "Welsh actor",
+   "roles": [
+    "actor",
+    "producer",
+    "director"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Sheen",
+   "views_7d": 10256,
+   "views_month": 715983,
+   "trend": 0.06,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q40026",
+   "name": "Sylvester Stallone",
+   "description": "American actor and filmmaker (born 1946)",
+   "roles": [
+    "actor",
+    "producer",
+    "director",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_Stallone",
+   "views_7d": 268979,
+   "views_month": 704385,
+   "trend": 1.64,
+   "tracked": true,
+   "films": []
+  },
+  {
+   "qid": "Q189226",
+   "name": "Amanda Seyfried",
+   "description": "American actress (born 1985)",
+   "roles": [
+    "actor",
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Amanda_Seyfried",
+   "views_7d": 136112,
+   "views_month": 687682,
+   "trend": 0.85,
+   "tracked": true,
+   "films": []
+  },
+  {
+   "qid": "Q36301",
+   "name": "Anne Hathaway",
+   "description": "American actress (born 1982)",
+   "roles": [
+    "actor",
+    "musician"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Anne_Hathaway",
+   "views_7d": 184605,
+   "views_month": 678424,
+   "trend": 1.17,
+   "tracked": false,
+   "films": [
+    {
+     "title": "The End of Oak Street",
+     "qid": "Q124804916",
+     "date": "2026-08-14"
+    },
+    {
+     "title": "Verity",
+     "qid": "Q131523413",
+     "date": "2026-10-02"
+    }
+   ]
+  },
+  {
+   "qid": "Q2217295",
+   "name": "Miranda Hart",
+   "description": "English comedian",
+   "roles": [
+    "actor",
+    "director",
+    "producer",
+    "comedian",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Miranda_Hart",
+   "views_7d": 0,
+   "views_month": 664183,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q49561909",
+   "name": "Sydney Sweeney",
+   "description": "American actress (born 1997)",
+   "roles": [
+    "actor",
+    "producer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Sweeney",
+   "views_7d": 84245,
+   "views_month": 653843,
+   "trend": 0.55,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q483118",
+   "name": "Ben Affleck",
+   "description": "American film actor, director and screenwriter (born 1972)",
+   "roles": [
+    "actor",
+    "producer",
+    "director",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ben_Affleck",
+   "views_7d": 66642,
+   "views_month": 649646,
+   "trend": 0.44,
+   "tracked": false,
+   "films": [
+    {
+     "title": "Animals",
+     "qid": "Q124359083",
+     "date": "2026-10-09"
+    }
+   ]
+  },
+  {
+   "qid": "Q67464067",
+   "name": "Shane Gillis",
+   "description": "American comedian and actor (born 1987)",
+   "roles": [
+    "comedian",
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shane_Gillis",
+   "views_7d": 0,
+   "views_month": 643811,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q48835545",
+   "name": "Summer H. Howell",
+   "description": "Canadian actress (born 2004)",
+   "roles": [
+    "actor"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Summer_H._Howell",
+   "views_7d": 0,
+   "views_month": 643030,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q19668417",
+   "name": "Mike Flanagan",
+   "description": "American filmmaker (born 1978)",
+   "roles": [
+    "director",
+    "producer",
+    "actor",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mike_Flanagan_(filmmaker)",
+   "views_7d": 0,
+   "views_month": 632056,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q210120",
+   "name": "Julia Stiles",
+   "description": "American actress",
+   "roles": [
+    "actor",
+    "director"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Julia_Stiles",
+   "views_7d": 0,
+   "views_month": 621442,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q162202",
+   "name": "Nicki Minaj",
+   "description": "Trinidadian rapper and singer (born 1982)",
+   "roles": [
+    "actor",
+    "musician",
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicki_Minaj",
+   "views_7d": 0,
+   "views_month": 614440,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q15072714",
+   "name": "James Acaster",
+   "description": "English comedian (born 1985)",
+   "roles": [
+    "actor",
+    "musician",
+    "comedian",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Acaster",
+   "views_7d": 0,
+   "views_month": 606385,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q170510",
+   "name": "Ian McKellen",
+   "description": "British actor (born 1939)",
+   "roles": [
+    "actor",
+    "musician",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ian_McKellen",
+   "views_7d": 80963,
+   "views_month": 601087,
+   "trend": 0.58,
+   "tracked": false,
+   "films": [
+    {
+     "title": "Ebenezer",
+     "qid": "Q136650058",
+     "date": "2026-11-13"
+    }
+   ]
+  }
+ ],
+ "filmmakers": [
+  {
+   "qid": "Q296609",
+   "name": "Russell Brand",
+   "description": "English comedian, actor, podcaster and sex offender (born 1975)",
+   "roles": [
+    "actor",
+    "producer",
+    "writer",
+    "comedian",
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Russell_Brand",
+   "views_7d": 369451,
+   "views_month": 535325,
+   "trend": 2.96,
+   "tracked": true,
+   "films": []
+  },
+  {
+   "qid": "Q59248250",
+   "name": "Hunter Schafer",
+   "description": "American actress, model, and LGBTQ activist (born 1998)",
+   "roles": [
+    "actor",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hunter_Schafer",
+   "views_7d": 355513,
+   "views_month": 506370,
+   "trend": 3.01,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q16207915",
+   "name": "Nathan Fielder",
+   "description": "Canadian filmmaker, writer and comedian",
+   "roles": [
+    "actor",
+    "director",
+    "producer",
+    "comedian",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Fielder",
+   "views_7d": 172506,
+   "views_month": 1324907,
+   "trend": 0.56,
+   "tracked": true,
+   "films": [
+    {
+     "title": "You Can See Everything",
+     "qid": "Q141336617",
+     "date": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "qid": "Q4235",
+   "name": "Miley",
+   "description": "American singer, actress, and television personality (born 1992)",
+   "roles": [
+    "actor",
+    "musician",
+    "producer",
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+   "views_7d": 313006,
+   "views_month": 289502,
+   "trend": 4.63,
+   "tracked": false,
    "films": []
   },
   {
@@ -1124,9 +1204,9 @@
    ],
    "australian": false,
    "wikipedia": "https://en.wikipedia.org/wiki/Dakota_Johnson",
-   "views_7d": 102141,
-   "views_month": 0,
-   "trend": null,
+   "views_7d": 79650,
+   "views_month": 1231758,
+   "trend": 0.28,
    "tracked": false,
    "films": [
     {
@@ -1147,43 +1227,493 @@
    ],
    "australian": false,
    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
-   "views_7d": 101390,
+   "views_7d": 276421,
+   "views_month": 368580,
+   "trend": 3.21,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q40026",
+   "name": "Sylvester Stallone",
+   "description": "American actor and filmmaker (born 1946)",
+   "roles": [
+    "actor",
+    "producer",
+    "director",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_Stallone",
+   "views_7d": 268979,
+   "views_month": 704385,
+   "trend": 1.64,
+   "tracked": true,
+   "films": []
+  },
+  {
+   "qid": "Q303957",
+   "name": "Josh Hartnett",
+   "description": "American actor and producer",
+   "roles": [
+    "actor",
+    "producer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Josh_Hartnett",
+   "views_7d": 0,
+   "views_month": 1075369,
+   "trend": 0.0,
+   "tracked": false,
+   "films": [
+    {
+     "title": "Verity",
+     "qid": "Q131523413",
+     "date": "2026-10-02"
+    }
+   ]
+  },
+  {
+   "qid": "Q380856",
+   "name": "Richard E. Grant",
+   "description": "British actor",
+   "roles": [
+    "actor",
+    "director",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_E._Grant",
+   "views_7d": 0,
+   "views_month": 935519,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q81520",
+   "name": "Pierce Brosnan",
+   "description": "Irish actor (born 1953)",
+   "roles": [
+    "actor",
+    "producer",
+    "musician",
+    "singer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pierce_Brosnan",
+   "views_7d": 233418,
+   "views_month": 346022,
+   "trend": 2.89,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q119798",
+   "name": "Michael Douglas",
+   "description": "American actor, producer and activist (born 1944)",
+   "roles": [
+    "actor",
+    "producer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Douglas",
+   "views_7d": 35531,
+   "views_month": 842601,
+   "trend": 0.18,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q126599",
+   "name": "Kristen Stewart",
+   "description": "American actress (born 1990)",
+   "roles": [
+    "actor",
+    "director"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kristen_Stewart",
+   "views_7d": 188073,
    "views_month": 0,
    "trend": null,
+   "tracked": false,
+   "films": [
+    {
+     "title": "The Wrong Girls",
+     "qid": "Q132560837",
+     "date": "2026-08-14"
+    }
+   ]
+  },
+  {
+   "qid": "Q298276",
+   "name": "Michael Sheen",
+   "description": "Welsh actor",
+   "roles": [
+    "actor",
+    "producer",
+    "director"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Sheen",
+   "views_7d": 10256,
+   "views_month": 715983,
+   "trend": 0.06,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q208026",
+   "name": "Tom Hardy",
+   "description": "British actor (born 1977)",
+   "roles": [
+    "actor",
+    "producer",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tom_Hardy",
+   "views_7d": 171925,
+   "views_month": 397860,
+   "trend": 1.85,
+   "tracked": true,
+   "films": []
+  },
+  {
+   "qid": "Q2217295",
+   "name": "Miranda Hart",
+   "description": "English comedian",
+   "roles": [
+    "actor",
+    "director",
+    "producer",
+    "comedian",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Miranda_Hart",
+   "views_7d": 0,
+   "views_month": 664183,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q984061",
+   "name": "Sam Houser",
+   "description": "British video game producer and developer (born 1971)",
+   "roles": [
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sam_Houser",
+   "views_7d": 165896,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q935340",
+   "name": "Dan Houser",
+   "description": "British video game producer (born 1973)",
+   "roles": [
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dan_Houser",
+   "views_7d": 165335,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q49561909",
+   "name": "Sydney Sweeney",
+   "description": "American actress (born 1997)",
+   "roles": [
+    "actor",
+    "producer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Sweeney",
+   "views_7d": 84245,
+   "views_month": 653843,
+   "trend": 0.55,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q483118",
+   "name": "Ben Affleck",
+   "description": "American film actor, director and screenwriter (born 1972)",
+   "roles": [
+    "actor",
+    "producer",
+    "director",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ben_Affleck",
+   "views_7d": 66642,
+   "views_month": 649646,
+   "trend": 0.44,
+   "tracked": false,
+   "films": [
+    {
+     "title": "Animals",
+     "qid": "Q124359083",
+     "date": "2026-10-09"
+    }
+   ]
+  },
+  {
+   "qid": "Q1116190",
+   "name": "Leigh Francis",
+   "description": "British actor and host",
+   "roles": [
+    "actor",
+    "comedian",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Leigh_Francis",
+   "views_7d": 160735,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q19668417",
+   "name": "Mike Flanagan",
+   "description": "American filmmaker (born 1978)",
+   "roles": [
+    "director",
+    "producer",
+    "actor",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mike_Flanagan_(filmmaker)",
+   "views_7d": 0,
+   "views_month": 632056,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q210120",
+   "name": "Julia Stiles",
+   "description": "American actress",
+   "roles": [
+    "actor",
+    "director"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Julia_Stiles",
+   "views_7d": 0,
+   "views_month": 621442,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q141807036",
+   "name": "Dylan Rourke",
+   "description": "American actor",
+   "roles": [
+    "actor",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dylan_Rourke",
+   "views_7d": 153914,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q15072714",
+   "name": "James Acaster",
+   "description": "English comedian (born 1985)",
+   "roles": [
+    "actor",
+    "musician",
+    "comedian",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Acaster",
+   "views_7d": 0,
+   "views_month": 606385,
+   "trend": 0.0,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q170510",
+   "name": "Ian McKellen",
+   "description": "British actor (born 1939)",
+   "roles": [
+    "actor",
+    "musician",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ian_McKellen",
+   "views_7d": 80963,
+   "views_month": 601087,
+   "trend": 0.58,
+   "tracked": false,
+   "films": [
+    {
+     "title": "Ebenezer",
+     "qid": "Q136650058",
+     "date": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "qid": "Q372311",
+   "name": "Glenn Close",
+   "description": "American actress (born 1947)",
+   "roles": [
+    "actor",
+    "producer",
+    "director",
+    "musician",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Close",
+   "views_7d": 146628,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q164782",
+   "name": "Ashton Kutcher",
+   "description": "American actor",
+   "roles": [
+    "actor",
+    "producer",
+    "comedian"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ashton_Kutcher",
+   "views_7d": 145765,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q6249723",
+   "name": "John Mulaney",
+   "description": "American comedian and actor (born 1982)",
+   "roles": [
+    "actor",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Mulaney",
+   "views_7d": 145609,
+   "views_month": 0,
+   "trend": null,
+   "tracked": false,
+   "films": []
+  },
+  {
+   "qid": "Q548823",
+   "name": "Denis Villeneuve",
+   "description": "Canadian film director and screenwriter (born 1967)",
+   "roles": [
+    "director",
+    "writer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Denis_Villeneuve",
+   "views_7d": 145192,
+   "views_month": 0,
+   "trend": null,
+   "tracked": true,
+   "films": [
+    {
+     "title": "Rendezvous with Rama",
+     "qid": "Q104895986",
+     "date": "2027-01-01"
+    }
+   ]
+  },
+  {
+   "qid": "Q202475",
+   "name": "Téa Leoni",
+   "description": "American actress and film producer",
+   "roles": [
+    "actor",
+    "producer"
+   ],
+   "australian": false,
+   "wikipedia": "https://en.wikipedia.org/wiki/Téa_Leoni",
+   "views_7d": 31561,
+   "views_month": 573443,
+   "trend": 0.24,
    "tracked": false,
    "films": []
   }
  ],
  "not_tracked": [
   "Suki Waterhouse",
-  "Lara Stone",
-  "Avril Lavigne",
-  "Phil Collins",
+  "Stephen Wilson Jr.",
   "Sara Boustany",
-  "Yella Beezy",
-  "Sharad Kapoor",
+  "Manni L. Perez",
+  "Hunter Schafer",
+  "Miley",
+  "Daniel Craig",
+  "Jennifer Lawrence",
   "Kristina Bogic",
-  "Noel Fielding",
-  "John Malkovich",
-  "Lucy Beaumont",
-  "Harper Steele",
-  "Yash",
-  "Nitesh Tiwari",
-  "Sai Pallavi",
-  "John Mulaney",
-  "James Gunn",
-  "Jessica Chastain",
-  "Robert De Niro",
-  "Jemima Goldsmith",
-  "James Keach",
+  "Leighton Meester",
   "Pierce Brosnan",
-  "Olivia Wilde",
-  "Matt Lucas",
-  "Jonathan Ross",
-  "Nicholas Hoult",
-  "Clint Eastwood",
-  "Brad Pitt",
+  "Jared Padalecki",
+  "Kristen Stewart",
+  "Anne Hathaway",
+  "Geena Meszaros",
+  "Florence Pugh",
+  "Sharad Kapoor",
+  "Sam Houser",
+  "Macaulay Culkin",
+  "Dan Houser",
+  "Leigh Francis",
+  "Dylan Rourke",
+  "Bella Ramsey",
   "Dakota Johnson",
-  "Jennifer Lawrence"
+  "Sebastian Croft",
+  "Jerry Hall",
+  "Josh Hartnett",
+  "Selma Blair",
+  "Sunny Ozell",
+  "Richard E. Grant",
+  "Michael Douglas",
+  "Keri Russell",
+  "Josie Totah",
+  "Christopher Abbott",
+  "Catherine Zeta-Jones",
+  "Michael Sheen",
+  "Miranda Hart",
+  "Sydney Sweeney",
+  "Ben Affleck",
+  "Shane Gillis",
+  "Summer H. Howell",
+  "Mike Flanagan",
+  "Julia Stiles",
+  "Nicki Minaj",
+  "James Acaster",
+  "Ian McKellen"
  ]
 }
