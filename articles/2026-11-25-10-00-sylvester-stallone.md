@@ -5,7 +5,7 @@ seo_title: "Stallone Tulsa King Spinoff: Schwarzenegger Wish Explained"
 seo_description: "Stallone Tulsa King spinoff: Sylvester Stallone says he hopes Arnold Schwarzenegger agrees to star, though nothing is announced. Read the details."
 focus_keyword: "Stallone Tulsa King spinoff"
 permalink: "stallone-tulsa-king-spinoff"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Sylvester Stallone"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium with warm light on red seats, a boxing
 sources:
   - "https://www.hollywoodreporter.com/tv/tv-news/sylvester-stallone-tulsa-king-spinoff-arnold-schwarzenegger-1236762273/"
   - "https://movieweb.com/ebenezer-i-play-rocky-november-2026/"
+image: "images/2026-11-25-10-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone & Arnold Schwarzenegger speaking at the 2012 San Diego Comic-Con International in San Diego, California. Please attribute to Gage Skidmore if used elsewhere."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_%26_Arnold_Schwarzenegger_(7588432508)_(cropped).jpg\" rel=\"noopener\">Gage Skidmore from Peoria, AZ, United States of America</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_%26_Arnold_Schwarzenegger_(7588432508)_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3640
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-sylvester-stallone-768x432.webp"
+wp_id: 3641
+wp_link: "https://moduscarry.com/stallone-tulsa-king-spinoff/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

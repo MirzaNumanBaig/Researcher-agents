@@ -5,7 +5,7 @@ seo_title: "David Walliams HarperCollins Inquiry: What Is Alleged"
 seo_description: "The David Walliams HarperCollins inquiry is under scrutiny after a Guardian and ITV News investigation. Here is what was reported and what comes next."
 focus_keyword: "David Walliams HarperCollins inquiry"
 permalink: "david-walliams-harpercollins-inquiry"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "David Walliams"
@@ -14,6 +14,15 @@ tags: ["David Walliams", "HarperCollins", "Russell Brand"]
 image_prompt: "An empty publishing office at dusk, stacked children's books on a desk beside a closed laptop and a single lit lamp."
 sources:
   - "https://www.pajiba.com/celebrities_are_better_than_you/publisher-harpercollins-accused-of-covering-up-david-walliams-inappropriate-behaviour.php"
+image: "images/2026-11-25-10-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_(6745348487).jpg\" rel=\"noopener\">Sean Reynolds from Liverpool, United Kingdom</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_(6745348487).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3598
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-david-walliams-768x432.webp"
+wp_id: 3599
+wp_link: "https://moduscarry.com/david-walliams-harpercollins-inquiry-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

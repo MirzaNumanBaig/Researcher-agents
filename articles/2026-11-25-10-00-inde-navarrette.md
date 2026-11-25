@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Robert Pattinson Joke: Roles and Bond"
 seo_description: "Inde Navarrette Robert Pattinson joke: the Obsession star says she is 'deeply afraid' he will take her roles after his Bond casting. Here is what she said."
 focus_keyword: "Inde Navarrette Robert Pattinson"
 permalink: "inde-navarrette-robert-pattinson-joke"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Inde Navarrette"
@@ -18,6 +18,15 @@ sources:
   - "https://dailytimes.com.pk/1586342/inde-navarrette-jokes-robert-pattinson-could-steal-her-acting-roles/"
   - "https://www.sweetyhigh.com/read/where-to-watch-inde-navarrette-next"
   - "https://nypost.com/2026/11/24/sports/ben-shelton-courtside-exchange-inde-navarrette-trinity-rodman-breakup/"
+image: "images/2026-11-25-10-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_02_(cropped).jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_02_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3608
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-inde-navarrette-768x432.webp"
+wp_id: 3609
+wp_link: "https://moduscarry.com/inde-navarrette-robert-pattinson-joke/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

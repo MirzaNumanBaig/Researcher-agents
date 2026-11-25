@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Displacement Film Fund Shorts Eye Oscars"
 seo_description: "Cate Blanchett backs the Displacement Film Fund shorts now streaming on The New Yorker, hoping to enter the Oscar short film race before 15 December."
 focus_keyword: "Cate Blanchett Displacement Film Fund"
 permalink: "cate-blanchett-displacement-film-fund"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Cate Blanchett"
@@ -15,6 +15,15 @@ image_prompt: "An empty art house cinema with a glowing screen and rows of red s
 sources:
   - "https://www.goldderby.com/film/2026/cate-blanchett-displacement-film-fund-short-films-oscars/"
   - "https://theknockturnal.com/nicole-kidman-cate-blanchett-and-a-very-unhinged-christmas/"
+image: "images/2026-11-25-10-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-6.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-6.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3592
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-cate-blanchett-768x432.webp"
+wp_id: 3593
+wp_link: "https://moduscarry.com/cate-blanchett-displacement-film-fund-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki Valentino Dress at Cliff Booth Premiere"
 seo_description: "Elizabeth Debicki Valentino couture drew attention at the London Cliff Booth premiere. Here is the gown, the designer, the styling and the film's release."
 focus_keyword: "Elizabeth Debicki Valentino"
 permalink: "elizabeth-debicki-valentino-cliff-booth-premiere"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Elizabeth Debicki"
@@ -15,6 +15,15 @@ image_prompt: "A long red carpet at night outside a modern London cinema, glowin
 sources:
   - "https://wwd.com/pop-culture/celebrity-news/elizabeth-debicki-valentino-couture-cliff-booth-london-1239463709/"
   - "https://ua.news/en/culture/elizabet-debiki-vrazila-biriuzovoiu-sukneiu-valentino-na-premieri-v-londoni"
+image: "images/2026-11-25-10-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki Wears Valentino Couture to Cliff Booth Premiere"
+image_credit: "Image: <a href=\"https://ua.news/en/culture/elizabet-debiki-vrazila-biriuzovoiu-sukneiu-valentino-na-premieri-v-londoni\" rel=\"nofollow noopener\">ua.news</a> (cropped)"
+wp_media_id: 3604
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-elizabeth-debicki-768x432.webp"
+wp_id: 3605
+wp_link: "https://moduscarry.com/elizabeth-debicki-valentino-cliff-booth-premiere/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

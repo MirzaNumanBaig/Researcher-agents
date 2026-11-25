@@ -5,7 +5,7 @@ seo_title: "Connor Storrie CORTIS Fans: Paris Fashion Week Story"
 seo_description: "Connor Storrie says CORTIS fans' screams outside Saint Laurent in Paris put him in fight or flight mode. Here is what he told Vogue's The Run-Through."
 focus_keyword: "Connor Storrie CORTIS fans"
 permalink: "connor-storrie-cortis-fans"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Connor Storrie"
@@ -15,6 +15,15 @@ image_prompt: "A crowded Paris street at dusk outside a grand domed building, wi
 sources:
   - "https://www.complex.com/music/a/jaelaniturnerwilliams/connor-storrie-cortis-saint-laurent-screams"
   - "https://www.aol.com/articles/shirtless-unbothered-vogue-best-dressed-120000000.html"
+image: "images/2026-11-25-10-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3594
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-connor-storrie-768x432.webp"
+wp_id: 3595
+wp_link: "https://moduscarry.com/connor-storrie-cortis-fans/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

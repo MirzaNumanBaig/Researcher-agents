@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Steps Hits No. 2 on Netflix Worldwide"
 seo_description: "Amanda Seyfried's Steps is the No. 2 film on Netflix worldwide three days after launch. See the cast, the reviews and her SNL debut on 5 December."
 focus_keyword: "Amanda Seyfried Steps"
 permalink: "amanda-seyfried-steps-netflix"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Amanda Seyfried"
@@ -17,6 +17,10 @@ sources:
   - "https://www.yahoo.com/entertainment/music/articles/amanda-seyfried-goes-viral-abba-160115295.html"
   - "https://uk.news.yahoo.com/snl-announces-final-3-hosts-014808257.html"
   - "https://collider.com/amanda-seyfried-twilight-replacement-red-riding-hood-streaming-tubi-december-2026/"
+wp_id: 3590
+wp_link: "https://moduscarry.com/?p=3590"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

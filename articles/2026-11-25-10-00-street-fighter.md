@@ -5,7 +5,7 @@ seo_title: "Street Fighter Digital Release: 1 December, Prime Video Plans"
 seo_description: "Street Fighter digital release lands 1 December, with Mortal Kombat II on Prime Video on 21 December. Here is what the numbers say about both films."
 focus_keyword: "Street Fighter digital release"
 permalink: "street-fighter-digital-release-prime-video"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Street Fighter"
@@ -15,6 +15,15 @@ image_prompt: "A dimly lit retro arcade with two glowing fighting-game cabinets 
 sources:
   - "https://fandomwire.com/prime-video-street-fighter-mortal-kombat-december/"
   - "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+image: "images/2026-11-25-10-00-street-fighter.webp"
+image_alt: "Street Fighter: Street Fighter Hits Digital on 1 December, Mortal Kombat II Follows"
+image_credit: "Image: <a href=\"https://fandomwire.com/prime-video-street-fighter-mortal-kombat-december/\" rel=\"nofollow noopener\">FandomWire</a> (cropped)"
+wp_media_id: 3638
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-street-fighter-768x432.webp"
+wp_id: 3639
+wp_link: "https://moduscarry.com/street-fighter-digital-release-prime-video/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Dune Part Three Trailer: Villeneuve's Finale Teased"
 seo_description: "A new Dune Part Three trailer shows Denis Villeneuve's finale, with Paul Atreides as Emperor and a December 2026 release date. Here is what we know."
 focus_keyword: "Dune Part Three trailer"
 permalink: "dune-part-three-trailer"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Denis Villeneuve"
@@ -14,6 +14,15 @@ tags: ["Denis Villeneuve", "Dune: Part Three", "Timothée Chalamet", "Zendaya"]
 image_prompt: "An empty IMAX cinema auditorium lit by a glowing desert-orange screen, rows of seats fading into shadow."
 sources:
   - "https://www.flickeringmyth.com/its-a-family-affair-in-the-latest-trailer-for-denis-villeneuves-dune-part-three/"
+image: "images/2026-11-25-10-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve speaking at the 2017 San Diego Comic-Con International in San Diego, California."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_by_Gage_Skidmore.jpg\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_by_Gage_Skidmore.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3600
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-denis-villeneuve-768x432.webp"
+wp_id: 3601
+wp_link: "https://moduscarry.com/dune-part-three-trailer/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

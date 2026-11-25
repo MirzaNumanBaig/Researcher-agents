@@ -5,7 +5,7 @@ seo_title: "Jason Sudeikis GTA 6 Radio Role: Richard Bastion on WKTT"
 seo_description: "Jason Sudeikis GTA 6 role revealed: he voices Richard Bastion on WKTT in the game's credits, alongside Keith Richards and Lindsey Buckingham."
 focus_keyword: "Jason Sudeikis GTA 6"
 permalink: "jason-sudeikis-gta-6-radio-role"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Jason Sudeikis"
@@ -15,6 +15,15 @@ image_prompt: "A vintage car radio glowing in the dark on a neon-lit coastal hig
 sources:
   - "https://axs.tv/news-story/gta-6-radio-host-lineup-features-keith-richards-lindsey-buckingham-jason-sudeikis-and-more/"
   - "https://en.as.com/meristation/news/its-official-ted-lasso-will-have-a-fifth-season-and-jason-sudeikis-will-once-again-lead-afc-richmond-f202611-n/"
+image: "images/2026-11-25-10-00-jason-sudeikis.webp"
+image_alt: "Jason Sudeikis: Jason Sudeikis 2011 Shankbone 2"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/27865228@N06/5678575422\" rel=\"noopener\">david_shankbone</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\" rel=\"noopener\">Public domain</a>, via <a href=\"https://www.flickr.com/photos/27865228@N06/5678575422\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3612
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-jason-sudeikis-768x432.webp"
+wp_id: 3613
+wp_link: "https://moduscarry.com/jason-sudeikis-gta-6-radio-role/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

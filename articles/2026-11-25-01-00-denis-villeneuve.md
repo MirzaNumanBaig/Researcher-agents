@@ -26,6 +26,7 @@ wp_id: 3563
 wp_link: "https://moduscarry.com/denis-villeneuve-bond-film/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

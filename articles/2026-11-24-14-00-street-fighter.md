@@ -25,6 +25,7 @@ wp_id: 3543
 wp_link: "https://moduscarry.com/street-fighter-sequel-box-office/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Oscar Race After Bond Casting Explained"
 seo_description: "Robert Pattinson's Oscar race heats up after his Bond casting, with Primetime the key film. Here is where he stands and what comes next."
 focus_keyword: "Robert Pattinson Oscar race"
 permalink: "robert-pattinson-oscar-race"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Robert Pattinson"
@@ -19,6 +19,15 @@ sources:
   - "https://www.geo.tv/latest/692461-inde-navarrette-deeply-afraid-of-robert-pattinson-heres-why"
   - "https://dailytimes.com.pk/1586342/inde-navarrette-jokes-robert-pattinson-could-steal-her-acting-roles/"
   - "https://en.wikipedia.org/wiki/Primetime_(film)"
+image: "images/2026-11-25-10-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3630
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-robert-pattinson-768x432.webp"
+wp_id: 3631
+wp_link: "https://moduscarry.com/robert-pattinson-oscar-race/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

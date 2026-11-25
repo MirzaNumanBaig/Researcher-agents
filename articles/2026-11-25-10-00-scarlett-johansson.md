@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Paper Tiger Audience Score of 72%"
 seo_description: "Scarlett Johansson's Paper Tiger opens with a 72% Rotten Tomatoes audience score and an 87% critics rating. See the box office and what is next."
 focus_keyword: "Scarlett Johansson Paper Tiger"
 permalink: "scarlett-johansson-paper-tiger"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 10:00"
 celebrity: "Scarlett Johansson"
@@ -14,6 +14,15 @@ tags: ["Scarlett Johansson", "Marvel"]
 image_prompt: "An empty vintage cinema at night with warm light on red seats and a glowing screen showing a rainy 1980s city street."
 sources:
   - "https://screenrant.com/scarlett-johansson-paper-tiger-movie-rotten-tomatoes-audience-score/"
+image: "images/2026-11-25-10-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-077.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-077.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3636
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-scarlett-johansson-768x432.webp"
+wp_id: 3637
+wp_link: "https://moduscarry.com/scarlett-johansson-paper-tiger-3/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
