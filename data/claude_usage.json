@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-11",
-   "time": "2026-11-11T06:38:08+00:00",
-   "batch": "2026-11-11 16:00",
-   "celebrity": "Kylie Minogue",
-   "article": "2026-11-11-16-00-kylie-minogue.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1251,
-   "cache_read_tokens": 126604,
-   "cache_write_tokens": 27893,
-   "turns": 7,
-   "seconds": 12,
-   "cost_usd": 0.1369
-  },
-  {
-   "date": "2026-11-11",
    "time": "2026-11-11T06:40:40+00:00",
    "batch": "2026-11-11 16:00",
    "celebrity": "Martin McDonagh",
@@ -23999,6 +23983,22 @@
    "turns": 6,
    "seconds": 8,
    "cost_usd": 0.0993
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T01:02:57+00:00",
+   "batch": "2026-11-25 10:00",
+   "celebrity": "Scarlett Johansson",
+   "article": "2026-11-25-10-00-scarlett-johansson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3742,
+   "cache_read_tokens": 118236,
+   "cache_write_tokens": 25322,
+   "turns": 7,
+   "seconds": 26,
+   "cost_usd": 0.1507
   }
  ]
 }
