@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Skinny Jeans: Makeup-Free Garden Photo"
 seo_description: "Pamela Anderson skinny jeans appear in a makeup-free garden photo for her Sonsie Christmas campaign, shot at her home in British Columbia."
 focus_keyword: "Pamela Anderson skinny jeans"
 permalink: "pamela-anderson-skinny-jeans"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "Pamela Anderson"
@@ -14,6 +14,15 @@ tags: ["Pamela Anderson", "Fashion"]
 image_prompt: "A wooden wheelbarrow beside a flower bed in a misty garden on a cool autumn morning, with rubber boots resting nearby."
 sources:
   - "https://www.hellomagazine.com/fashion/celebrity-style/937134/pamela-anderson-59-wears-skinny-jeans-make-up-free/"
+image: "images/2026-11-26-04-00-pamela-anderson.webp"
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230517).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3705
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-pamela-anderson-768x432.webp"
+wp_id: 3706
+wp_link: "https://moduscarry.com/pamela-anderson-skinny-jeans/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

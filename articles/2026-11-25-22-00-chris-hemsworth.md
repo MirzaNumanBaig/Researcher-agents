@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Avengers: Doomsday Thor Return Interview"
 seo_description: "Chris Hemsworth tells Entertainment Weekly his Avengers: Doomsday return felt oddly uncomfortable, and facing Robert Downey Jr as Doom was unsettling."
 focus_keyword: "Chris Hemsworth Avengers Doomsday"
 permalink: "chris-hemsworth-avengers-doomsday-elder"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 22:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,10 @@ image_prompt: "An empty cinema auditorium glowing in blue light, a huge blank sc
 sources:
   - "https://www.mensxp.com/entertainment/hollywood/186957-chris-hemsworth-calls-working-with-rdj-again-oddly-unsettling-says-he-felt-like-odd-one-out-on-avengers-doomsday-set.html"
   - "https://www.cinemaexpress.com/english/news/2026/Nov/25/chris-hemsworth-on-returning-as-thor-was-oddly-uncomfortable-at-first"
+wp_id: 3667
+wp_link: "https://moduscarry.com/?p=3667"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

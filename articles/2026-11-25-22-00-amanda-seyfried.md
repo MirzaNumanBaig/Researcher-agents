@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried You Can See Everything Dinner Scene Explained"
 seo_description: "Amanda Seyfried explains the tense dinner scene in You Can See Everything on Jimmy Fallon's show, as the Nathan Fielder film opens in UK cinemas."
 focus_keyword: "Amanda Seyfried You Can See Everything"
 permalink: "amanda-seyfried-you-can-see-everything-dinner"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 22:00"
 celebrity: "Amanda Seyfried"
@@ -15,6 +15,10 @@ image_prompt: "An empty dinner table set for two in a dimly lit dining room, war
 sources:
   - "https://www.huffingtonpost.co.uk/entry/amanda-seyfried-filming-you-can-see-everything_uk_6b06a195e4b03d22836102d8"
   - "https://www.yahoo.com/entertainment/celebrity/fashion/articles/amanda-seyfried-carolina-herrera-dress-063707287.html"
+wp_id: 3666
+wp_link: "https://moduscarry.com/?p=3666"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

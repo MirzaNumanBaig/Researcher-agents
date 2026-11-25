@@ -5,7 +5,7 @@ seo_title: "Dune Part Three Scytale: Pattinson Villain Teaser Reaction"
 seo_description: "Dune Part Three Scytale is the talk of a new teaser: Robert Pattinson's five-hour makeup and Villeneuve's verdict ahead of the 18 December release."
 focus_keyword: "Dune Part Three Scytale"
 permalink: "dune-part-three-scytale"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "Denis Villeneuve"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium lit by a vast desert landscape on the 
 sources:
   - "https://www.india.com/entertainment/dune-part-3-teaser-trailer-twitter-review-robert-pattinson-timothee-chalamet-zendaya-impress-fans-netizens-call-it-absolute-work-of-art-check-reactions-8547816/"
   - "https://www.dipe.co.kr/2351249"
+image: "images/2026-11-26-04-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: _MG_6742.jpg"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_(9714512308).jpg\" rel=\"noopener\">Tabercil from Canadian</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_(9714512308).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3687
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-denis-villeneuve-768x432.webp"
+wp_id: 3688
+wp_link: "https://moduscarry.com/dune-part-three-scytale/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

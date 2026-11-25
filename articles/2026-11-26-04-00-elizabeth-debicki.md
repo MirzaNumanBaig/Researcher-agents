@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki Bond Villain: Open to Pattinson Reunion"
 seo_description: "Elizabeth Debicki says she would play a Bond villain opposite Robert Pattinson, while promoting The Further Mis-Adventures of Cliff Booth in London."
 focus_keyword: "Elizabeth Debicki Bond villain"
 permalink: "elizabeth-debicki-bond-villain"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "Elizabeth Debicki"
@@ -17,6 +17,15 @@ sources:
   - "https://wwd.com/pop-culture/celebrity-news/elizabeth-debicki-tiger-print-ensemble-1239466080/"
   - "https://www.gofugyourself.com/elizabeth-debicki-veers-back-to-animal-print/"
   - "https://www.standard.co.uk/news/londoners-diary/londoners-diary-olivia-dean-elizabeth-debicki-b1306394.html"
+image: "images/2026-11-26-04-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki Open to a Bond Villain Role With Pattinson"
+image_credit: "Image: <a href=\"https://www.gofugyourself.com/elizabeth-debicki-veers-back-to-animal-print/\" rel=\"nofollow noopener\">Go Fug Yourself</a> (cropped)"
+wp_media_id: 3689
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-elizabeth-debicki-768x432.webp"
+wp_id: 3690
+wp_link: "https://moduscarry.com/elizabeth-debicki-bond-villain/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

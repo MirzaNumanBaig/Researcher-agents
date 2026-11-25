@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Paper Tiger: Cast, Plot and Reviews"
 seo_description: "Scarlett Johansson Paper Tiger guide: her role as Hester, the Adam Driver cast, James Gray's mob story and how critics rated the film."
 focus_keyword: "Scarlett Johansson Paper Tiger"
 permalink: "scarlett-johansson-paper-tiger-cast-reviews"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "Scarlett Johansson"
@@ -17,6 +17,15 @@ sources:
   - "https://www.bfi.org.uk/sight-and-sound/reviews/paper-tiger-adam-driver-brings-dangerous-charm-james-grays-tense-crime-thriller"
   - "https://theplaylist.net/james-gray-paper-tiger-release-date-adam-driver-scarlett-johansson-miles-teller-neon-20260625/"
   - "https://www.thewrap.com/creative-content/movies/james-grays-paper-tiger-set-for-november-release-by-neon/"
+image: "images/2026-11-26-04-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-071.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3715
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-scarlett-johansson-768x432.webp"
+wp_id: 3716
+wp_link: "https://moduscarry.com/scarlett-johansson-paper-tiger-cast-reviews/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

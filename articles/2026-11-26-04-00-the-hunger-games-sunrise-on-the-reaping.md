@@ -5,7 +5,7 @@ seo_title: "Sunrise on the Reaping Box Office Record in Australia"
 seo_description: "Sunrise on the Reaping took $12.9 million in Australia, the biggest Hunger Games opening ever. See what critics and audiences are saying."
 focus_keyword: "Sunrise on the Reaping"
 permalink: "sunrise-on-the-reaping-australian-record"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "The Hunger Games: Sunrise on the Reaping"
@@ -19,6 +19,15 @@ sources:
   - "https://thecosmiccircus.com/the-hunger-games-sunrise-on-the-reaping-changes-haymitch-snow/"
   - "https://people.com/sunrise-on-the-reaping-cast-real-life-loves-12274423"
   - "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+image: "images/2026-11-26-04-00-the-hunger-games-sunrise-on-the-reaping.webp"
+image_alt: "The Hunger Games: Sunrise on the Reaping: Sunrise on the Reaping Sets Hunger Games Australian Record"
+image_credit: "Image: <a href=\"https://au.variety.com/2026/film/news/sunrise-on-the-reaping-third-biggest-australian-box-office-opening-2026-42868/\" rel=\"nofollow noopener\">au.variety.com</a> (cropped)"
+wp_media_id: 3719
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-the-hunger-games-sunrise-on-the-reaping-768x432.webp"
+wp_id: 3720
+wp_link: "https://moduscarry.com/sunrise-on-the-reaping-australian-record/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

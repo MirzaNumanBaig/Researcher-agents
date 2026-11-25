@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried Carolina Herrera Dress on Jimmy Fallon"
 seo_description: "Amanda Seyfried Carolina Herrera: she wore the brand's Spring 2027 floral dress and Louboutin pumps on The Tonight Show. See the look and what she said."
 focus_keyword: "Amanda Seyfried Carolina Herrera"
 permalink: "amanda-seyfried-carolina-herrera"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "Amanda Seyfried"
@@ -19,6 +19,15 @@ sources:
   - "https://www.huffingtonpost.co.uk/entry/amanda-seyfried-elizabeth-holmes-phone-call-documentary_uk_6b070141e4b03d2283618201?ncid=NEWSSTAND0001"
   - "https://faroutmagazine.co.uk/amanda-seyfried-explains-strict-you-can-see-everything-security-process/"
   - "https://people.com/star-tracks-wednesday-november-25-2026-new-celebrity-photos-updated-daily-12278366"
+image: "images/2026-11-26-04-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, actor, at the 2025 Toronto International Film Festival (TIFF) for the movie The Testament of Ann Lee ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._03.jpg\" rel=\"noopener\">Sara Komatsu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._03.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3677
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-amanda-seyfried-768x432.webp"
+wp_id: 3678
+wp_link: "https://moduscarry.com/amanda-seyfried-carolina-herrera/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "David Walliams HarperCollins Inquiry: Law Firm Named"
 seo_description: "David Walliams HarperCollins inquiry: a law firm is named, NDA reforms move to January and a campaigner speaks out. Walliams denies any wrongdoing."
 focus_keyword: "David Walliams HarperCollins inquiry"
 permalink: "david-walliams-harpercollins-inquiry-law-firm"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "David Walliams"
@@ -15,6 +15,15 @@ image_prompt: "A quiet law library at dusk with tall shelves, a closed folder on
 sources:
   - "https://metro.co.uk/2026/11/25/david-walliams-russell-brand-tip-iceberg-pandoras-box-perpetrators-29818094/"
   - "https://www.legalbusiness.co.uk/law-firms/legacy-allen-overy-named-in-new-report-alleging-david-walliams-cover-up/"
+image: "images/2026-11-26-04-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams, actor, comedian, and writer, at the 2025 Jaipur Literature Festival in Jaipur, India."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival.jpg\" rel=\"noopener\">Sriya Sarkar</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3685
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-david-walliams-768x432.webp"
+wp_id: 3686
+wp_link: "https://moduscarry.com/david-walliams-harpercollins-inquiry-law-firm/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

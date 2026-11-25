@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Glow Wild: Star Voices Light Up Wakehurst"
 seo_description: "Cate Blanchett leads the narrators of Glow Wild at Kew Wakehurst, opening 27 November, with Olivia Colman, Daniel Craig and Jude Law also lending their voices."
 focus_keyword: "Cate Blanchett Glow Wild"
 permalink: "cate-blanchett-glow-wild"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "Cate Blanchett"
@@ -14,6 +14,15 @@ tags: ["Cate Blanchett", "Daniel Craig"]
 image_prompt: "A winding woodland path at night lined with glowing handmade lanterns and a lit iceberg sculpture reflected in a still lake."
 sources:
   - "https://secretldn.com/famous-cast-narrating-glow-wild-christmas-light-trail/"
+image: "images/2026-11-26-04-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-4.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-4.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3681
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-cate-blanchett-768x432.webp"
+wp_id: 3682
+wp_link: "https://moduscarry.com/cate-blanchett-glow-wild-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

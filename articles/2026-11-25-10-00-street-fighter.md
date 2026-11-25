@@ -24,6 +24,7 @@ wp_id: 3639
 wp_link: "https://moduscarry.com/street-fighter-digital-release-prime-video/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

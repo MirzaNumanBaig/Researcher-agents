@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Reaction: Dench, Debicki, Trump"
 seo_description: "Robert Pattinson's Bond casting draws reaction from Judi Dench, Elizabeth Debicki and Donald Trump, while the Dune: Part Three trailer lifts hype."
 focus_keyword: "Robert Pattinson Bond reaction"
 permalink: "robert-pattinson-bond-reaction"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "Robert Pattinson"
@@ -19,6 +19,15 @@ sources:
   - "https://www.india.com/entertainment/dune-part-3-teaser-trailer-twitter-review-robert-pattinson-timothee-chalamet-zendaya-impress-fans-netizens-call-it-absolute-work-of-art-check-reactions-8547816/"
   - "https://nypost.com/2026/11/24/us-news/trump-wishes-robert-pattinson-luck-as-new-james-bond-after-reading-old-tweet-to-post-trashing-stars-ex-kristen-stewart-out-loud/"
   - "https://www.dipe.co.kr/2351249"
+image: "images/2026-11-26-04-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson and director Lance Oppenheim attend the \u2018Primetime\u2019 premiere during the 83rd Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3707
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-robert-pattinson-768x432.webp"
+wp_id: 3708
+wp_link: "https://moduscarry.com/robert-pattinson-bond-reaction-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

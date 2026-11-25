@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone Rocky Prequel: Mickey at 30"
 seo_description: "The Sylvester Stallone Rocky prequel idea is likelier than a protégé story, he says, as Creed turns 11. Here is what he said and what is next."
 focus_keyword: "Sylvester Stallone Rocky prequel"
 permalink: "sylvester-stallone-rocky-prequel"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "Sylvester Stallone"
@@ -15,6 +15,15 @@ image_prompt: "An empty boxing gym at dawn, a worn heavy bag and a pair of old l
 sources:
   - "https://movieweb.com/rocky-sylvester-stallone-pitches-prequel/"
   - "https://screenrant.com/rocky-creed-switch-protagonist-save-franchise/"
+image: "images/2026-11-26-04-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone & Arnold Schwarzenegger speaking at the 2012 San Diego Comic-Con International in San Diego, California. Please attribute to Gage Skidmore if used elsewhere."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_%26_Arnold_Schwarzenegger_(7588431274).jpg\" rel=\"noopener\">Gage Skidmore from Peoria, AZ, United States of America</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_%26_Arnold_Schwarzenegger_(7588431274).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3717
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-sylvester-stallone-768x432.webp"
+wp_id: 3718
+wp_link: "https://moduscarry.com/sylvester-stallone-rocky-prequel/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

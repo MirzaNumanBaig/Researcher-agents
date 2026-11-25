@@ -5,7 +5,7 @@ seo_title: "Connor Storrie Buzzcut: 'I Love Disappointing People'"
 seo_description: "Connor Storrie has a message for fans who want his curls back: he loves disappointing people. Here is what the Heated Rivalry star told Vogue's podcast."
 focus_keyword: "Connor Storrie buzzcut"
 permalink: "connor-storrie-buzzcut"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "Connor Storrie"
@@ -14,6 +14,15 @@ tags: ["Connor Storrie", "Heated Rivalry", "Fashion"]
 image_prompt: "A quiet barbershop at dusk with an empty chair, scattered golden curls on the tiled floor and warm lamplight"
 sources:
   - "https://www.yahoo.com/entertainment/celebrity/interviews/articles/connor-storries-not-sorry-hate-150252189.html"
+image: "images/2026-11-26-04-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3683
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-connor-storrie-768x432.webp"
+wp_id: 3684
+wp_link: "https://moduscarry.com/connor-storrie-buzzcut/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

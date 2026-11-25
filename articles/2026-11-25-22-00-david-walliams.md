@@ -5,7 +5,7 @@ seo_title: "David Walliams NDA Row: Burnham Plans Law Change"
 seo_description: "The David Walliams NDA row widens as Andy Burnham promises tougher gagging-order laws and ex-HarperCollins staff question the publisher's inquiry."
 focus_keyword: "David Walliams NDA row"
 permalink: "david-walliams-nda-row"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 22:00"
 celebrity: "David Walliams"
@@ -17,6 +17,10 @@ sources:
   - "https://www.dailystar.co.uk/news/uk-news/andy-burnham-change-age-consent-37911775"
   - "https://uk.news.yahoo.com/david-walliams-scandal-deepens-former-110000417.html"
   - "https://www.express.co.uk/celebrity-news/2268660/david-walliams-behaviour-shame-diaries"
+wp_id: 3668
+wp_link: "https://moduscarry.com/?p=3668"
+wp_synced: pending
+seo_synced: 1
 ---
 
 **Quick summary**

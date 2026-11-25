@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Waitrose Christmas Ad: The Perfect Gift 2"
 seo_description: "Keira Knightley returns for the Waitrose Christmas ad The Perfect Gift 2 with Joe Wilkinson and Alex Hassell. Here is what the trio said about the festive season."
 focus_keyword: "Keira Knightley Waitrose Christmas ad"
 permalink: "keira-knightley-waitrose-christmas-ad"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 04:00"
 celebrity: "Keira Knightley"
@@ -14,6 +14,15 @@ tags: ["Keira Knightley", "Black Doves"]
 image_prompt: "A candlelit Christmas dinner table with a golden beef wellington, roast vegetables and a small pile of wrapped presents beside a glowing tree."
 sources:
   - "https://www.stylist.co.uk/entertainment/keira-knightley-waitrose-christmas-interview/1129417"
+image: "images/2026-11-26-04-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley pastel"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/89587384@N00/22933591432\" rel=\"noopener\">David in Lisburn</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://www.flickr.com/photos/89587384@N00/22933591432\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3699
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-04-00-keira-knightley-768x432.webp"
+wp_id: 3700
+wp_link: "https://moduscarry.com/keira-knightley-waitrose-christmas-ad/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
