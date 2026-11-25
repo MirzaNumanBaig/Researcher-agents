@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-26 04:00",
+  "celebrity": "Jim Carrey",
+  "stories": [
+    {
+      "title": "Before Jim Carrey, a famous South Londoner voiced the original Grinch in 1966; 60 years later, the character’s iconic festive tune features at a Southwark Cathedral Christmas concert",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSmxDakxJeHFIMWpuSERQcHdPQWRBbzl3cEVtNzd1bkVJZkFHY0tYUGxZemp2Zmo4QVJIcDhVZ3B0Y252MzB4QVlQMHpLODZTcHc5bVVIRXhwcE1yN0RVRjZTelJQeFFEY3NYSnplbHVEcFktMEs0YldIQ3JUbndYSHBkaVRuc1pRelE?oc=5",
+      "published": "2026-11-25T15:52:00+00:00",
+      "outlets": [
+        {
+          "source": "Secret London",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSmxDakxJeHFIMWpuSERQcHdPQWRBbzl3cEVtNzd1bkVJZkFHY0tYUGxZemp2Zmo4QVJIcDhVZ3B0Y252MzB4QVlQMHpLODZTcHc5bVVIRXhwcE1yN0RVRjZTelJQeFFEY3NYSnplbHVEcFktMEs0YldIQ3JUbndYSHBkaVRuc1pRelE?oc=5",
+          "article_url": "https://secretldn.com/grinch-south-london-dulwich-boris-karloff-christmas-concert/",
+          "image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2026/11/24124112/Circle-Photo-Collage-76.png"
+        }
+      ],
+      "image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2026/11/24124112/Circle-Photo-Collage-76.png",
+      "image_source": "https://secretldn.com/grinch-south-london-dulwich-boris-karloff-christmas-concert/"
+    }
+  ]
+}

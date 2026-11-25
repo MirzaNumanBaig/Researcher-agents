@@ -103,6 +103,64 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "Joseph Zada Goes From ‘Hunger Games’ Fan to Star",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51cGE2X1hEZ1EzRktoX3pPS2lOb3czcDd2bW9WTDBpem5kaloxaDJjSzZiRjZoUWgzbnRGOVhBc0Nfb01ZNXFpNng1bWhnUQ?oc=5",
+      "published": "2026-11-25T13:32:28+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51cGE2X1hEZ1EzRktoX3pPS2lOb3czcDd2bW9WTDBpem5kaloxaDJjSzZiRjZoUWgzbnRGOVhBc0Nfb01ZNXFpNng1bWhnUQ?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66121014/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Joseph Zada & Woody Harrelson Reunite After The Hunger Games",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUJkZzRVNUZ1Z2RaSjQ1dGxUZGZnckxydlpSUC02bDhnUXJiVldOU040NE1RaVg3OWU4NlJhUnMzTzA4dmwzMGF1QzJ0SlQxUFowRzctYlkzV3NEeE90UUhKMlFtbVpJUDR6MDY1OVZiQ0FZUjlkTDU1RUR5dEhfbmZodjR6R0wtWW1xa2NvYnE2clNSZWNSUHhKcDhCRHhMMENjN0JQX0M0UQ?oc=5",
+      "published": "2026-11-20T20:23:13+00:00",
+      "outlets": [
+        {
+          "source": "Vanity Fair",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUJkZzRVNUZ1Z2RaSjQ1dGxUZGZnckxydlpSUC02bDhnUXJiVldOU040NE1RaVg3OWU4NlJhUnMzTzA4dmwzMGF1QzJ0SlQxUFowRzctYlkzV3NEeE90UUhKMlFtbVpJUDR6MDY1OVZiQ0FZUjlkTDU1RUR5dEhfbmZodjR6R0wtWW1xa2NvYnE2clNSZWNSUHhKcDhCRHhMMENjN0JQX0M0UQ?oc=5",
+          "article_url": "https://www.vanityfair.com/video/watch/reunited-joseph-zada-woody-harrelson-reunite-after-the-hunger-games",
+          "image": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_vanityfair.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1795121378/vanityfair_reunited-joseph-zada-woody-harrelson-reunite-after-the-hunger-games.jpg?_a=BACCg Ev"
+        }
+      ],
+      "image": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_vanityfair.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1795121378/vanityfair_reunited-joseph-zada-woody-harrelson-reunite-after-the-hunger-games.jpg?_a=BACCg Ev",
+      "image_source": "https://www.vanityfair.com/video/watch/reunited-joseph-zada-woody-harrelson-reunite-after-the-hunger-games"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "release": "2026-10-28",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Joseph Zada",
+        "Whitney Peak",
+        "Mckenna Grace",
+        "Ben Wang"
+      ],
+      "budget_usd": 150000000,
+      "box_office_usd": 237200000,
+      "scope": "Blockbuster",
+      "verdict": "Modest",
+      "gross_vs_budget": 1.58,
+      "rotten_tomatoes": "68%",
+      "metacritic": "55/100 from 43 critics",
+      "critics_consensus": "A prequel that benefits greatly from spotlighting some of The Hunger Games' most beloved characters, Sunrise on the Reaping retreads familiar territory but sturdily enough for the odds to remain in this franchise's favor.",
+      "critics_overview": "They’ll appreciate this movie for not lying to them.\" In a negative review, Brandon Yu of The New York Times wrote, \"[It] manages to be both bloated and limited. There is a cloistered feeling to its vision of both the games and the wider dystopian world.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q126390739",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+      }
     }
   ]
 }

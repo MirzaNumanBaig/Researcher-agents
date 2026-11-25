@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-26 04:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Exclusive | Ryan Reynolds signs with power publicist — two months after Blake Lively made same move",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWExkUUd4Y0xUZDVxX1E2NWhkZUFWM3RTcUs1TnptWFBOd3QweHJJUE8yV05Hb1lNc3RrSWUtaFRod2MzU1ZEdEt3QXc4Ny1reGZiZkNVaUc2aVQzSFZQRXVYMXNZZjE3a2JkVGxIS2xEOF9sRDR2Z2t2ZFkyYWN3VWxWR2pqSEdmaDBwZVg5U0FrazBRZjFuTlNva0NSSlBQTzdMWnpZeUVERncyZHFMNk4ySlV3c1NUX1c3N1VacFpHNTMyNFZEdE9HdXZsdW5VQjUwcy1RemhMaW9M?oc=5",
+      "published": "2026-11-25T14:45:00+00:00",
+      "outlets": [
+        {
+          "source": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWExkUUd4Y0xUZDVxX1E2NWhkZUFWM3RTcUs1TnptWFBOd3QweHJJUE8yV05Hb1lNc3RrSWUtaFRod2MzU1ZEdEt3QXc4Ny1reGZiZkNVaUc2aVQzSFZQRXVYMXNZZjE3a2JkVGxIS2xEOF9sRDR2Z2t2ZFkyYWN3VWxWR2pqSEdmaDBwZVg5U0FrazBRZjFuTlNva0NSSlBQTzdMWnpZeUVERncyZHFMNk4ySlV3c1NUX1c3N1VacFpHNTMyNFZEdE9HdXZsdW5VQjUwcy1RemhMaW9M?oc=5",
+          "article_url": "https://pagesix.com/2026/11/25/hollywood/ryan-reynolds-signs-with-power-publicist-two-months-after-blake-lively-did-the-same-after-baldoni-saga/",
+          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149966810.jpg?quality=75&strip=all&w=1200"
+        }
+      ],
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149966810.jpg?quality=75&strip=all&w=1200",
+      "image_source": "https://pagesix.com/2026/11/25/hollywood/ryan-reynolds-signs-with-power-publicist-two-months-after-blake-lively-did-the-same-after-baldoni-saga/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

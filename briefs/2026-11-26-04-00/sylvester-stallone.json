@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-26 04:00",
+  "celebrity": "Sylvester Stallone",
+  "stories": [
+    {
+      "title": "11 Years Ago Today, Sylvester Stallone's Franchise Switching Protagonists Gave It New Life",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PaUZRYTdkbWEteUN2ZXNQdWVlRjNjSlRlSXBiZkQ5ODNsVElOUU5wRzRxak5DMjdSV1FhNGprYms3Q1ZXYUJpZkJRM0Z6YzBrbTJuSzVLdU9OdW1MRU92YXFUcU9QV1k4aG43djNVNThSVmpnSVBzNQ?oc=5",
+      "published": "2026-11-25T15:00:19+00:00",
+      "outlets": [
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PaUZRYTdkbWEteUN2ZXNQdWVlRjNjSlRlSXBiZkQ5ODNsVElOUU5wRzRxak5DMjdSV1FhNGprYms3Q1ZXYUJpZkJRM0Z6YzBrbTJuSzVLdU9OdW1MRU92YXFUcU9QV1k4aG43djNVNThSVmpnSVBzNQ?oc=5",
+          "article_url": "https://screenrant.com/rocky-creed-switch-protagonist-save-franchise/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/sylvester-stallone.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/sylvester-stallone.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/rocky-creed-switch-protagonist-save-franchise/"
+    },
+    {
+      "title": "Sylvester Stallone Addresses 'Rocky' Return, Pitches \"Interesting\" Prequel",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UempiQUcwaGJmd2g3S3hiVVE4YUJyTWoxTmI3bFJXNWpIc3VnZThhLVNTSnM1Q0JvMjZ2bG5xN0loUFQtNldheS1aTEE5N3BKd2lsVzNqZ1NHVHNXSEJZSkdVNFZaUFhSbjcwenp1QQ?oc=5",
+      "published": "2026-11-25T14:24:11+00:00",
+      "outlets": [
+        {
+          "source": "MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UempiQUcwaGJmd2g3S3hiVVE4YUJyTWoxTmI3bFJXNWpIc3VnZThhLVNTSnM1Q0JvMjZ2bG5xN0loUFQtNldheS1aTEE5N3BKd2lsVzNqZ1NHVHNXSEJZSkdVNFZaUFhSbjcwenp1QQ?oc=5",
+          "article_url": "https://movieweb.com/rocky-sylvester-stallone-pitches-prequel/",
+          "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2025/11/sylvester-stallone-looks-worried-in-rocky-iv.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2025/11/sylvester-stallone-looks-worried-in-rocky-iv.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://movieweb.com/rocky-sylvester-stallone-pitches-prequel/"
+    }
+  ]
+}
