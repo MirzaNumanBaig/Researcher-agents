@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-11",
-   "time": "2026-11-11T06:27:09+00:00",
-   "batch": "2026-11-11 16:00",
-   "celebrity": "Johnny Depp",
-   "article": "2026-11-11-16-00-johnny-depp.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 4768,
-   "cache_read_tokens": 304183,
-   "cache_write_tokens": 54656,
-   "turns": 10,
-   "seconds": 37,
-   "cost_usd": 0.2969
-  },
-  {
-   "date": "2026-11-11",
    "time": "2026-11-11T06:29:32+00:00",
    "batch": "2026-11-11 16:00",
    "celebrity": "Johnny Flynn",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 9,
    "cost_usd": 0.1209
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T00:52:52+00:00",
+   "batch": "2026-11-25 10:00",
+   "celebrity": "Rebel Wilson",
+   "article": "2026-11-25-10-00-rebel-wilson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3428,
+   "cache_read_tokens": 119513,
+   "cache_write_tokens": 25634,
+   "turns": 7,
+   "seconds": 25,
+   "cost_usd": 0.1489
   }
  ]
 }
