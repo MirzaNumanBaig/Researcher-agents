@@ -24,6 +24,7 @@ wp_id: 3595
 wp_link: "https://moduscarry.com/connor-storrie-cortis-fans/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

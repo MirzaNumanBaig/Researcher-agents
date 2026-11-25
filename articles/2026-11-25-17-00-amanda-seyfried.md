@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried You Can See Everything Script Secrecy"
 seo_description: "Amanda Seyfried You Can See Everything: she says the script was locked down so tightly she only saw it on set. Here is what she told Jimmy Fallon."
 focus_keyword: "Amanda Seyfried You Can See Everything"
 permalink: "amanda-seyfried-you-can-see-everything"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 17:00"
 celebrity: "Amanda Seyfried"
@@ -14,6 +14,15 @@ tags: ["Amanda Seyfried", "Nathan Fielder", "You Can See Everything"]
 image_prompt: "An empty film set at night with a single director's chair, a closed script binder on a table and a glowing monitor in the dark."
 sources:
   - "https://variety.com/2026/tv/news/amanda-seyfried-you-can-see-everything-script-elizabeth-holmes-nathan-fielder-1236957716/"
+image: "images/2026-11-25-17-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, actor, at the 2025 Toronto International Film Festival (TIFF) for the movie The Testament of Ann Lee ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._02.jpg\" rel=\"noopener\">Sara Komatsu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._02.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3646
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-17-00-amanda-seyfried-768x432.webp"
+wp_id: 3647
+wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything-3/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

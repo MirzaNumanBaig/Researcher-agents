@@ -5,7 +5,7 @@ seo_title: "Renate Reinsve Fjord and Sentimental Value in Malaysia"
 seo_description: "Renate Reinsve stars in Fjord and Sentimental Value at the European Film Festival Malaysia, opening 26 November. Here is what is on and what is next."
 focus_keyword: "Renate Reinsve Fjord"
 permalink: "renate-reinsve-fjord-sentimental-value"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 17:00"
 celebrity: "Renate Reinsve"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium with red velvet seats and a lit screen
 sources:
   - "https://scandasia.com/renate-reinsve-stars-in-two-films-at-malaysias-european-film-festival/"
   - "https://foro3d.com/en/2026/noviembre/renate-reinsve-entra-en-la-lista-de-vogue-para-ser-la-nueva-chica-bond.html"
+image: "images/2026-11-25-17-00-renate-reinsve.webp"
+image_alt: "Renate Reinsve: Actress Renate Reinsve at the 74nd Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-64370.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve-64370.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3658
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-17-00-renate-reinsve-768x432.webp"
+wp_id: 3659
+wp_link: "https://moduscarry.com/renate-reinsve-fjord-sentimental-value/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

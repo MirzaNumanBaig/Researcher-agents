@@ -5,7 +5,7 @@ seo_title: "Ida Brooke Dune Part Three: How She Won Ghanima"
 seo_description: "Ida Brooke tells Vogue how Denis Villeneuve cast her as Ghanima in Dune: Part Three, with a phone call that reached her at the Brit School."
 focus_keyword: "Ida Brooke Dune Part Three"
 permalink: "ida-brooke-dune-part-three"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 17:00"
 celebrity: "Denis Villeneuve"
@@ -14,6 +14,15 @@ tags: ["Denis Villeneuve", "Ida Brooke", "Dune"]
 image_prompt: "A silver necklace resting on windswept desert sand at golden hour, a vast empty dune landscape behind it"
 sources:
   - "https://www.vogue.com/article/ida-brooke-dune-3-interview"
+image: "images/2026-11-25-17-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve speaking at the 2017 San Diego Comic-Con International in San Diego, California."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_2017_crop.jpg\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_2017_crop.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3648
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-17-00-denis-villeneuve-768x432.webp"
+wp_id: 3649
+wp_link: "https://moduscarry.com/ida-brooke-dune-part-three/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

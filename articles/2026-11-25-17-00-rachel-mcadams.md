@@ -5,7 +5,7 @@ seo_title: "Rachel McAdams Pepper Potts: Why She Said No to Iron Man"
 seo_description: "Rachel McAdams Pepper Potts: Marvel sent her the Iron Man script first, but she said no. Here is why she walked away and where her career went next."
 focus_keyword: "Rachel McAdams Pepper Potts"
 permalink: "rachel-mcadams-pepper-potts"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 17:00"
 celebrity: "Rachel McAdams"
@@ -14,6 +14,15 @@ tags: ["Rachel McAdams", "Marvel", "Marvel Studios", "Send Help"]
 image_prompt: "A quiet film set at dusk with an empty director's chair, a clapperboard and a glowing red and gold armour helmet on a prop table"
 sources:
   - "https://www.slashfilm.com/2325241/why-rachel-mcadams-turned-down-peppers-potts-marvel-iron-man/"
+image: "images/2026-11-25-17-00-rachel-mcadams.webp"
+image_alt: "Rachel McAdams: Rachel McAdams Turned Down Pepper Potts in Iron Man"
+image_credit: "Image: <a href=\"https://www.slashfilm.com/2325241/why-rachel-mcadams-turned-down-peppers-potts-marvel-iron-man/\" rel=\"nofollow noopener\">slashfilm.com</a> (cropped)"
+wp_media_id: 3656
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-17-00-rachel-mcadams-768x432.webp"
+wp_id: 3657
+wp_link: "https://moduscarry.com/rachel-mcadams-pepper-potts/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

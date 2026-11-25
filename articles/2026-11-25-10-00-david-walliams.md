@@ -23,6 +23,7 @@ wp_id: 3599
 wp_link: "https://moduscarry.com/david-walliams-harpercollins-inquiry-2/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
