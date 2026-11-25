@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-11",
-   "time": "2026-11-11T10:56:24+00:00",
-   "batch": "2026-11-11 21:00",
-   "celebrity": "Russell Brand",
-   "article": "2026-11-11-21-00-russell-brand.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 4798,
-   "cache_read_tokens": 179754,
-   "cache_write_tokens": 35768,
-   "turns": 9,
-   "seconds": 38,
-   "cost_usd": 0.2092
-  },
-  {
-   "date": "2026-11-11",
    "time": "2026-11-11T10:57:29+00:00",
    "batch": "2026-11-11 21:00",
    "celebrity": "Ryan Reynolds",
@@ -23999,6 +23983,22 @@
    "turns": 10,
    "seconds": 29,
    "cost_usd": 0.1832
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T17:56:23+00:00",
+   "batch": "2026-11-26 04:00",
+   "celebrity": "Connor Storrie",
+   "article": "2026-11-26-04-00-connor-storrie.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 3338,
+   "cache_read_tokens": 195674,
+   "cache_write_tokens": 26630,
+   "turns": 9,
+   "seconds": 26,
+   "cost_usd": 0.1596
   }
  ]
 }
