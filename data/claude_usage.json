@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-11",
-   "time": "2026-11-11T19:12:07+00:00",
-   "batch": "2026-11-12 05:00",
-   "celebrity": "Pamela Anderson",
-   "article": "2026-11-12-05-00-pamela-anderson.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 6,
-   "output_tokens": 881,
-   "cache_read_tokens": 76628,
-   "cache_write_tokens": 19836,
-   "turns": 6,
-   "seconds": 9,
-   "cost_usd": 0.096
-  },
-  {
-   "date": "2026-11-11",
    "time": "2026-11-11T19:12:52+00:00",
    "batch": "2026-11-12 05:00",
    "celebrity": "Ravi Dubey",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 31,
    "cost_usd": 0.1766
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T18:57:39+00:00",
+   "batch": "2026-11-25 22:00",
+   "celebrity": "Connor Storrie",
+   "article": "2026-11-25-22-00-connor-storrie.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 833,
+   "cache_read_tokens": 79075,
+   "cache_write_tokens": 20066,
+   "turns": 6,
+   "seconds": 7,
+   "cost_usd": 0.0967
   }
  ]
 }
