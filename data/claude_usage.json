@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-11",
-   "time": "2026-11-11T18:37:06+00:00",
-   "batch": "2026-11-12 05:00",
-   "celebrity": "Dane Cook",
-   "article": "2026-11-12-05-00-dane-cook.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 18,
-   "output_tokens": 4451,
-   "cache_read_tokens": 258001,
-   "cache_write_tokens": 26078,
-   "turns": 12,
-   "seconds": 58,
-   "cost_usd": 0.1918
-  },
-  {
-   "date": "2026-11-11",
    "time": "2026-11-11T18:39:14+00:00",
    "batch": "2026-11-12 05:00",
    "celebrity": "David Walliams",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 24,
    "cost_usd": 0.1432
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T18:23:38+00:00",
+   "batch": "2026-11-26 04:00",
+   "celebrity": "Mckenna Grace",
+   "article": "2026-11-26-04-00-mckenna-grace.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 4244,
+   "cache_read_tokens": 165405,
+   "cache_write_tokens": 28191,
+   "turns": 8,
+   "seconds": 30,
+   "cost_usd": 0.1719
   }
  ]
 }
