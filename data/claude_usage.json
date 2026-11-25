@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-11",
-   "time": "2026-11-11T07:23:31+00:00",
-   "batch": "2026-11-10 12:00",
-   "celebrity": "Sam Rockwell",
-   "article": "2026-11-10-12-00-sam-rockwell.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 14,
-   "output_tokens": 5457,
-   "cache_read_tokens": 228870,
-   "cache_write_tokens": 27142,
-   "turns": 12,
-   "seconds": 42,
-   "cost_usd": 0.1862
-  },
-  {
-   "date": "2026-11-11",
    "time": "2026-11-11T07:25:01+00:00",
    "batch": "2026-11-09 02:00",
    "celebrity": "Sam Rockwell",
@@ -23999,6 +23983,22 @@
    "turns": 6,
    "seconds": 11,
    "cost_usd": 0.1032
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T07:18:44+00:00",
+   "batch": "2026-11-25 17:00",
+   "celebrity": "Jacob Elordi",
+   "article": "2026-11-25-17-00-jacob-elordi.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 1202,
+   "cache_read_tokens": 120174,
+   "cache_write_tokens": 23358,
+   "turns": 7,
+   "seconds": 10,
+   "cost_usd": 0.1176
   }
  ]
 }
