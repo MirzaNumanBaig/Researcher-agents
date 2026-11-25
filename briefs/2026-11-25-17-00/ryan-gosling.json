@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-25 17:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Star Wars: Starfighter: Release Date, Ryan Gosling's Kade Auberon, Cast And Everything Known So Far",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmtvUXR6Q1NjTUFaTVFMUXdNLURwSkEyNVZuQmVrSWpDR0lBaGU5elVRbUZTYXlmeTExaHJaNmRRUTRnYUZJbm1tdmVyWkZmV1F1djB6MkY2cDEyZ2h5NjFoTjQ2T0hBY1BqM2VRVjlwN2NoaTN4QURtMEN5MDR0UTdJXzk3TjdlMFc1aC1TQjd0eFBOZ1oxVVl1eWRtNDZPdXZib3EtSWd0VFlyVE1JMnotb1hLQktaR0JCa0tEb1dmc0M0a1RNLUU0aVdKM3dobk1rdFdKQWo?oc=5",
+      "published": "2026-11-24T12:11:00+00:00",
+      "outlets": [
+        {
+          "source": "SFFGazette.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmtvUXR6Q1NjTUFaTVFMUXdNLURwSkEyNVZuQmVrSWpDR0lBaGU5elVRbUZTYXlmeTExaHJaNmRRUTRnYUZJbm1tdmVyWkZmV1F1djB6MkY2cDEyZ2h5NjFoTjQ2T0hBY1BqM2VRVjlwN2NoaTN4QURtMEN5MDR0UTdJXzk3TjdlMFc1aC1TQjd0eFBOZ1oxVVl1eWRtNDZPdXZib3EtSWd0VFlyVE1JMnotb1hLQktaR0JCa0tEb1dmc0M0a1RNLUU0aVdKM3dobk1rdFdKQWo?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "81% from 57 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

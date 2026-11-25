@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-25 17:00",
+  "celebrity": "David Walliams",
+  "stories": [
+    {
+      "title": "HarperCollins accused of 'cover-up' of concerns about David Walliams",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHRuTk91NjRHbDFfVk5mM1RYck1UV1pmbVFkdkwtRFkzNVRqbTFURmd0YXR1ZzAzN2N6YUt2eTgwbmVxQjJBVmM4djRUVGJlLVhSdHdhV3g0Uk1jN25EWnNsdXZ1clZCMDljZU9LNGVxeHctYVFaN05rTFZZUkVKbTZEYTdCVEZvd3hZd3cwWkRaOFpQNzFnSWRsWQ?oc=5",
+      "published": "2026-11-25T02:22:56+00:00",
+      "outlets": [
+        {
+          "source": "Mediaweek",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHRuTk91NjRHbDFfVk5mM1RYck1UV1pmbVFkdkwtRFkzNVRqbTFURmd0YXR1ZzAzN2N6YUt2eTgwbmVxQjJBVmM4djRUVGJlLVhSdHdhV3g0Uk1jN25EWnNsdXZ1clZCMDljZU9LNGVxeHctYVFaN05rTFZZUkVKbTZEYTdCVEZvd3hZd3cwWkRaOFpQNzFnSWRsWQ?oc=5",
+          "article_url": "https://www.mediaweek.com.au/harpercollins-accused-of-cover-up-of-concerns-about-david-walliams",
+          "image": "https://images-r2.thebrag.com/mw/uploads/2026/11/17934600-d771-11f1-a956-ff083523ef77.jpg?v=1793916976810"
+        }
+      ],
+      "image": "https://images-r2.thebrag.com/mw/uploads/2026/11/17934600-d771-11f1-a956-ff083523ef77.jpg?v=1793916976810",
+      "image_source": "https://www.mediaweek.com.au/harpercollins-accused-of-cover-up-of-concerns-about-david-walliams"
+    },
+    {
+      "title": "David Walliams denies sexual misconduct allegations after losing court battle",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnNNY2ZpcC1RZ2E0aUM5b2N0cXM2SVZzMWJLaXVsOUZvSEZkNVlSZ05ONVFXSzN5RGFtSmtJbGJ6NGpWRVhEVWxsOUIycTlPal9ONUNmMG1hdHlkNVdETlEyWl9DUmhxQ3pRMlJyQnJMREF5SFFWandRcmhScEE1Z3NBSGctcUJvV0Npcm4zTWxmQ1JscXhYdXdBRTNzaFpKT3dmZGhTUzJ0TzVDSXZYN1ltTQ?oc=5",
+      "published": "2026-11-24T22:47:24+00:00",
+      "outlets": [
+        {
+          "source": "Herald.Wales",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnNNY2ZpcC1RZ2E0aUM5b2N0cXM2SVZzMWJLaXVsOUZvSEZkNVlSZ05ONVFXSzN5RGFtSmtJbGJ6NGpWRVhEVWxsOUIycTlPal9ONUNmMG1hdHlkNVdETlEyWl9DUmhxQ3pRMlJyQnJMREF5SFFWandRcmhScEE1Z3NBSGctcUJvV0Npcm4zTWxmQ1JscXhYdXdBRTNzaFpKT3dmZGhTUzJ0TzVDSXZYN1ltTQ?oc=5",
+          "article_url": "https://herald.wales/national-news/david-walliams-denies-sexual-misconduct-allegations-after-losing-court-battle/",
+          "image": "https://herald.wales/wp-content/uploads/2026/11/david-walliams-cdabf1f6.jpg"
+        }
+      ],
+      "image": "https://herald.wales/wp-content/uploads/2026/11/david-walliams-cdabf1f6.jpg",
+      "image_source": "https://herald.wales/national-news/david-walliams-denies-sexual-misconduct-allegations-after-losing-court-battle/"
+    }
+  ]
+}

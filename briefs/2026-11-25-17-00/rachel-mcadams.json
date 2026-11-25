@@ -1,0 +1,27 @@
+{
+  "batch": "2026-11-25 17:00",
+  "celebrity": "Rachel McAdams",
+  "stories": [
+    {
+      "title": "Why Rachel McAdams Turned Down The Role Of Pepper Potts In Marvel's Iron Man",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Kc1hXWHk0Y2hTODl1NENvcVQzbWlscXlOTHA2ZTZzdzlPNEIwTjlaYUFiTFV0RF9VTEZfUVVSdzlrdzdxRzJnWjg1QjVMSE5SQjJVeXg1VFdGamNESFJ3YUZ5aXk?oc=5",
+      "published": "2026-11-25T04:47:51+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Kc1hXWHk0Y2hTODl1NENvcVQzbWlscXlOTHA2ZTZzdzlPNEIwTjlaYUFiTFV0RF9VTEZfUVVSdzlrdzdxRzJnWjg1QjVMSE5SQjJVeXg1VFdGamNESFJ3YUZ5aXk?oc=5",
+          "article_url": "https://www.imdb.com/it/news/ni66127305/?ref_=nm_nwr_1",
+          "image": ""
+        },
+        {
+          "source": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTZRTy1UX2NJLXdUVG5xc3psa1dSNWpmQjRHVWVFOFR6aHJXaXBVYzhQeUVGc1czd3lyblRMV0ltRFpfYm43ckw0TjlibDhndVVVSDFYdDNHZGVwWFlXbkVvU2w1OWxrUUtselNQTTMyNlZ3UE1oVTY1REhLU1VEU29WWktMWWJGeEtqMElWUndkVVlKaEVGVDdRMA?oc=5",
+          "article_url": "https://www.slashfilm.com/2325241/why-rachel-mcadams-turned-down-peppers-potts-marvel-iron-man/",
+          "image": "https://www.slashfilm.com/img/gallery/why-rachel-mcadams-turned-down-the-role-of-pepper-potts-in-marvels-iron-man/l-intro-1795452998.jpg"
+        }
+      ],
+      "image": "https://www.slashfilm.com/img/gallery/why-rachel-mcadams-turned-down-the-role-of-pepper-potts-in-marvels-iron-man/l-intro-1795452998.jpg",
+      "image_source": "https://www.slashfilm.com/2325241/why-rachel-mcadams-turned-down-peppers-potts-marvel-iron-man/"
+    }
+  ]
+}

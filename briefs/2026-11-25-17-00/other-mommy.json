@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-25 17:00",
+  "celebrity": "Other Mommy",
+  "stories": [
+    {
+      "title": "Other Mommy",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KejVmX1NlLXczQ1Rnd092M1BURC1pUFppMk1xZHdFSnA3NmlwTVRUY05qdmVlOEt3bFhaWVdrVThLZXVIU1FfbUFrOXkzX2xVLTIzVzgydjVjTHJVQlFiTHhxQWpnNVVFaTJwZWRhZTVFMDZ6d3c?oc=5",
+      "published": "2026-11-25T05:32:10+00:00",
+      "outlets": [
+        {
+          "source": "Metropolis Japan",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KejVmX1NlLXczQ1Rnd092M1BURC1pUFppMk1xZHdFSnA3NmlwTVRUY05qdmVlOEt3bFhaWVdrVThLZXVIU1FfbUFrOXkzX2xVLTIzVzgydjVjTHJVQlFiTHhxQWpnNVVFaTJwZWRhZTVFMDZ6d3c?oc=5",
+          "article_url": "https://metropolisjapan.com/movies/other-mommy-horror-movie-review/",
+          "image": "https://metropolisjapan.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-155136.png"
+        }
+      ],
+      "image": "https://metropolisjapan.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-155136.png",
+      "image_source": "https://metropolisjapan.com/movies/other-mommy-horror-movie-review/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Other Mommy",
+      "release": "2026-10-08",
+      "director": [
+        "Rob Savage"
+      ],
+      "cast": [
+        "Jessica Chastain",
+        "Jay Duplass",
+        "Dichen Lachman",
+        "Karen Allen",
+        "Sean Kaufman"
+      ],
+      "budget_usd": 18000000,
+      "box_office_usd": 119400000,
+      "scope": "Mid-budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 6.63,
+      "rotten_tomatoes": "19%",
+      "metacritic": "39/100 from 16 critics",
+      "critics_consensus": "Despite a valiant turn from Jessica Chastain as the spectral embodiment of a smothering parent, Other Mommy proves too silly for its intermittently effective jump scares to add up to a spooky whole.",
+      "critics_overview": "The New York Times called the film a \"sometimes-creepy, sometimes-hilarious schlockfest\", and questions \"What is the other mommy supposed to be?\" Benjamin Lee of the Guardian graded the film 2/5. He stated the film started as a \"tense, creepy thriller,\" but turns into an \"increasingly absurd battle with a special effects oogum-boogum that gets less scary as the movie progresses.\" ^ Cite error: The named reference BOM was invoked but never defined (see the help page).",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q134588273",
+        "wikipedia": "https://en.wikipedia.org/wiki/Other_Mommy"
+      }
+    }
+  ]
+}

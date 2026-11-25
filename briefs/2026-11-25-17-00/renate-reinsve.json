@@ -1,0 +1,61 @@
+{
+  "batch": "2026-11-25 17:00",
+  "celebrity": "Renate Reinsve",
+  "stories": [
+    {
+      "title": "Renate Reinsve stars in two films at Malaysia’s European Film Festival",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlNNVzFkR3djaFhNaGRWTUc0TThUQWs3eW5wN0ZCeEZmbWdJaGtKbVpKVWNGMlhDY3VjaXhMb0x3UVJsVG1HVUVyUS1fOWxXM1Zpbnd2UUpBQkYydXlvZV9PcDVkSjhZdVpXZnZJZmVDc1U1NmZzN09HT3JzNU1CNHVRdW1faTRJRDVmQ3RiNnlfR05HSFRZ?oc=5",
+      "published": "2026-11-25T05:00:36+00:00",
+      "outlets": [
+        {
+          "source": "Scandasia",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlNNVzFkR3djaFhNaGRWTUc0TThUQWs3eW5wN0ZCeEZmbWdJaGtKbVpKVWNGMlhDY3VjaXhMb0x3UVJsVG1HVUVyUS1fOWxXM1Zpbnd2UUpBQkYydXlvZV9PcDVkSjhZdVpXZnZJZmVDc1U1NmZzN09HT3JzNU1CNHVRdW1faTRJRDVmQ3RiNnlfR05HSFRZ?oc=5",
+          "article_url": "https://scandasia.com/renate-reinsve-stars-in-two-films-at-malaysias-european-film-festival/",
+          "image": "https://scandasia.com/wp-content/uploads/2026/11/Female_casts_@_Sentimental_Value_screening_tiff_2025.jpg"
+        }
+      ],
+      "image": "https://scandasia.com/wp-content/uploads/2026/11/Female_casts_@_Sentimental_Value_screening_tiff_2025.jpg",
+      "image_source": "https://scandasia.com/renate-reinsve-stars-in-two-films-at-malaysias-european-film-festival/"
+    },
+    {
+      "title": "Renate Reinsve enters Vogue's list to be the new Bond girl",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQzA4N3laWG1EMU8weEJRTTlaVTdIMGRsbXl2Ni1jNVliOVFRYmsyaG4xeDFHdFdxT0E4RzFIWUNYUlpTZWVLWFhmVENKUG55U0F2dTRfejJNVnlXbjV4TXRjVUFsMVplV3BaQVhIdGxDSHU2eFc1eHhZcUNYY1Q3eG9Qd1VtdEFaYzI5R0ZtRVhqT1Y4WkVoS3BqR0IxTTJ6TjJXRDROME1aNENzQ0hsOTln?oc=5",
+      "published": "2026-11-25T01:57:48+00:00",
+      "outlets": [
+        {
+          "source": "Foro3D",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQzA4N3laWG1EMU8weEJRTTlaVTdIMGRsbXl2Ni1jNVliOVFRYmsyaG4xeDFHdFdxT0E4RzFIWUNYUlpTZWVLWFhmVENKUG55U0F2dTRfejJNVnlXbjV4TXRjVUFsMVplV3BaQVhIdGxDSHU2eFc1eHhZcUNYY1Q3eG9Qd1VtdEFaYzI5R0ZtRVhqT1Y4WkVoS3BqR0IxTTJ6TjJXRDROME1aNENzQ0hsOTln?oc=5",
+          "article_url": "https://foro3d.com/en/2026/noviembre/renate-reinsve-entra-en-la-lista-de-vogue-para-ser-la-nueva-chica-bond.html",
+          "image": "https://foro3d.com/2026/noviembre/imagenes/renate-reinsve-entra-en-la-lista-de-vogue-para-ser-la-nueva-chica-bond.webp"
+        }
+      ],
+      "image": "https://foro3d.com/2026/noviembre/imagenes/renate-reinsve-entra-en-la-lista-de-vogue-para-ser-la-nueva-chica-bond.webp",
+      "image_source": "https://foro3d.com/en/2026/noviembre/renate-reinsve-entra-en-la-lista-de-vogue-para-ser-la-nueva-chica-bond.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Butterfly",
+      "release": "2026-09-25",
+      "director": [
+        "Itonje Søimer Guttormsen"
+      ],
+      "cast": [
+        "Renate Reinsve",
+        "Numan Acar"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141559767"
+      }
+    }
+  ]
+}

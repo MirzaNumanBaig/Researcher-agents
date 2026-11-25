@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-25 17:00",
+  "celebrity": "Bob Dylan",
+  "stories": [
+    {
+      "title": "Bob Dylan tickets on sale in Bridgeport at Hartford Amphitheater",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekNNek4wZjkwVzZqZlVmN282OGxRSWhPMG9IRk5DZE5tdF8zbUJSeTY2bE5DVWZSWHdUWERBc2FWQ2k4aDlYbDBWc2dCOFd5d2N2X2RFWlFhWHhoRDZGQ1JtOUdTSERqdzdKOG41VFFKUXpDT2ZUdlZ0MEx4WEFPVjZWZ2VyRlVTSEZqaGpRbWhIRDQxRkZxVVBQSC02azB4Qmc?oc=5",
+      "published": "2026-11-25T00:48:48+00:00",
+      "outlets": [
+        {
+          "source": "TicketNews",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekNNek4wZjkwVzZqZlVmN282OGxRSWhPMG9IRk5DZE5tdF8zbUJSeTY2bE5DVWZSWHdUWERBc2FWQ2k4aDlYbDBWc2dCOFd5d2N2X2RFWlFhWHhoRDZGQ1JtOUdTSERqdzdKOG41VFFKUXpDT2ZUdlZ0MEx4WEFPVjZWZ2VyRlVTSEZqaGpRbWhIRDQxRkZxVVBQSC02azB4Qmc?oc=5",
+          "article_url": "https://www.ticketnews.com/2026/04/bob-dylan-tickets-on-sale-in-bridgeport-at-hartford-amphitheater/",
+          "image": "https://www.ticketnews.com/wp-content/uploads/2023/04/ticketnews.webp"
+        }
+      ],
+      "image": "https://www.ticketnews.com/wp-content/uploads/2023/04/ticketnews.webp",
+      "image_source": "https://www.ticketnews.com/2026/04/bob-dylan-tickets-on-sale-in-bridgeport-at-hartford-amphitheater/"
+    }
+  ]
+}

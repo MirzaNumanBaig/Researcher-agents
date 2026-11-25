@@ -1,0 +1,47 @@
+{
+  "batch": "2026-11-25 17:00",
+  "celebrity": "Mckenna Grace",
+  "stories": [
+    {
+      "title": "McKenna Grace Dazzles in Gucci as Her ‘Hunger Games’ Press Tour Fashion Streak Continues",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mWVAxX1h4MlRKSk1mMkpHaHJ2MFlSVDRNaGhXcFI3ZkdlcHFCeHZveXpRWWEwZ1hpSm9DVXNjV1RrR2RqYnZfQXYteUE5WWk2aUE?oc=5",
+      "published": "2026-11-24T03:51:53+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mWVAxX1h4MlRKSk1mMkpHaHJ2MFlSVDRNaGhXcFI3ZkdlcHFCeHZveXpRWWEwZ1hpSm9DVXNjV1RrR2RqYnZfQXYteUE5WWk2aUE?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Last Kiss",
+      "release": "2026-09-15",
+      "director": [
+        "Yoko Okumura"
+      ],
+      "cast": [
+        "Mckenna Grace",
+        "Jaden Michael"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141430687",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Kiss_(2026_film)"
+      }
+    }
+  ]
+}
