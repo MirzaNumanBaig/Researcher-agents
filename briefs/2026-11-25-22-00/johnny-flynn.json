@@ -1,0 +1,86 @@
+{
+  "batch": "2026-11-25 22:00",
+  "celebrity": "Johnny Flynn",
+  "stories": [
+    {
+      "title": "Jerome Flynn and Johnny Flynn Share Family Ties",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43N205T0gwNnE1UVRHWEt1bThLLTh1ak5lallmNHZId3cyYTN6VEZWNlRNZEdaMkhVWU53eUdRR2xkMC1YM3dReGhWTVdsTzIxYjFEMl93VXR1MWlvSDdWc2pxRQ?oc=5",
+      "published": "2026-11-25T08:05:45+00:00",
+      "outlets": [
+        {
+          "source": "SuaraGarut.ID",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43N205T0gwNnE1UVRHWEt1bThLLTh1ak5lallmNHZId3cyYTN6VEZWNlRNZEdaMkhVWU53eUdRR2xkMC1YM3dReGhWTVdsTzIxYjFEMl93VXR1MWlvSDdWc2pxRQ?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Demokratis.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83UWJHNktHVXM3NXNTRUtoVFJOclU0YldNcldnVU1lNUE1X3NDUzZSdmNERWlOTDVZZ211WUdMbWlveUk2TmZzS043ZlItaldkaTZfeTc3QVdsaHpOUkFteFJrNkptTlk?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Johnny Flynn Shares Acting Family With Game of Thrones Star",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94M1pLRTFyOEQyNlU0RHhLOW5GVVdSd1RmT0d6ZlNZa1BUY2IyS0F6eWoyRlp2dnVCaFdhZndMUGx2OE5nQmpwY3p3dGI4QVhQVTh4cU10T19kdXl4d0lWTXdFWGJWZDY2?oc=5",
+      "published": "2026-11-25T08:05:03+00:00",
+      "outlets": [
+        {
+          "source": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94M1pLRTFyOEQyNlU0RHhLOW5GVVdSd1RmT0d6ZlNZa1BUY2IyS0F6eWoyRlp2dnVCaFdhZndMUGx2OE5nQmpwY3p3dGI4QVhQVTh4cU10T19kdXl4d0lWTXdFWGJWZDY2?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Jerome Flynn links family reveal to 20-year Johnny Flynn gap",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yMVpuYkFWWHZGVFI1MXJJejVMdy1kTTJ1aVM3Z2UtclhhME50VWluQm05WVNseW9NSno0VlhuREtHS3pfVzZxNUIxMDhxMDROeGN3?oc=5",
+      "published": "2026-11-25T07:55:45+00:00",
+      "outlets": [
+        {
+          "source": "شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yMVpuYkFWWHZGVFI1MXJJejVMdy1kTTJ1aVM3Z2UtclhhME50VWluQm05WVNseW9NSno0VlhuREtHS3pfVzZxNUIxMDhxMDROeGN3?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Elsinore",
+      "release": "2026-09-04",
+      "director": [
+        "Simon Stone"
+      ],
+      "cast": [
+        "Andrew Scott",
+        "Olivia Colman",
+        "Billie Piper",
+        "Johnny Flynn",
+        "Luke Thompson"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "89%",
+      "metacritic": "75/100 from 23 critics",
+      "critics_consensus": null,
+      "critics_overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137722359",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
+      }
+    }
+  ]
+}

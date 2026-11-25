@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-25 22:00",
+  "celebrity": "James Blunt",
+  "stories": [
+    {
+      "title": "James Blunt heading for Westonbirt next Summer",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TbXdDVjV2SEJiUy1rUUlwZl9fQlhtcjY5M3l5NVFycG9la3Y5QW4xUUdlbWt0UjNmek9NSDFXVnJxQV9SQ3FMZ0o2RlN4aDNMLVNrTndobks0X282OVlYRDB1OENGMXZy?oc=5",
+      "published": "2026-11-25T10:02:15+00:00",
+      "outlets": [
+        {
+          "source": "Swindon Link",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TbXdDVjV2SEJiUy1rUUlwZl9fQlhtcjY5M3l5NVFycG9la3Y5QW4xUUdlbWt0UjNmek9NSDFXVnJxQV9SQ3FMZ0o2RlN4aDNMLVNrTndobks0X282OVlYRDB1OENGMXZy?oc=5",
+          "article_url": "https://swindonlink.com/lifestyle/westonbirt-james-blunt/",
+          "image": "https://swindonlink.com/images/content/1-main-picture-library/attractions/westonbirt-arboretum/forest-live-2027/james-blunt/screenshot-2026-11-25-at-09.48.11.png"
+        }
+      ],
+      "image": "https://swindonlink.com/images/content/1-main-picture-library/attractions/westonbirt-arboretum/forest-live-2027/james-blunt/screenshot-2026-11-25-at-09.48.11.png",
+      "image_source": "https://swindonlink.com/lifestyle/westonbirt-james-blunt/"
+    },
+    {
+      "title": "James Blunt discusses music, pubs and fame on Dish podcast",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVdDTEhWaFl1d1U1U3ZIWEJtNnhVY1hxOWx3X2JDNThpS0NTZkJTTVVwdFNpdjhwdEExNTRjUFlmaXVabkZpYjhIMEJqR01Gc24xTkZYQU4tUjRqTXFZS0FBdnVoa3RoSEMySkVlaHI0cUJOa1JZZkRxTWdLNWlXWEtVRG9yeHVLMGdXQ2NpdWFhdw?oc=5",
+      "published": "2026-11-25T00:01:00+00:00",
+      "outlets": [
+        {
+          "source": "PodcastingToday",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVdDTEhWaFl1d1U1U3ZIWEJtNnhVY1hxOWx3X2JDNThpS0NTZkJTTVVwdFNpdjhwdEExNTRjUFlmaXVabkZpYjhIMEJqR01Gc24xTkZYQU4tUjRqTXFZS0FBdnVoa3RoSEMySkVlaHI0cUJOa1JZZkRxTWdLNWlXWEtVRG9yeHVLMGdXQ2NpdWFhdw?oc=5",
+          "article_url": "https://podcastingtoday.co.uk/james-blunt-discusses-music-pubs-and-fame-on-dish-podcast/",
+          "image": "https://podcastingtoday.co.uk/wp-content/uploads/2026/11/James_Blunt.jpg"
+        }
+      ],
+      "image": "https://podcastingtoday.co.uk/wp-content/uploads/2026/11/James_Blunt.jpg",
+      "image_source": "https://podcastingtoday.co.uk/james-blunt-discusses-music-pubs-and-fame-on-dish-podcast/"
+    }
+  ]
+}
