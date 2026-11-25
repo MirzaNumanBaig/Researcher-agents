@@ -18,9 +18,14 @@ sources:
   - "https://uk.news.yahoo.com/snl-announces-final-3-hosts-014808257.html"
   - "https://collider.com/amanda-seyfried-twilight-replacement-red-riding-hood-streaming-tubi-december-2026/"
 wp_id: 3590
-wp_link: "https://moduscarry.com/?p=3590"
-wp_synced: pending
+wp_link: "https://moduscarry.com/amanda-seyfried-steps-netflix-2/"
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-25-10-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, model, actrs, at 83rd Venice International Film Festival in Venice, Italy for the film Miu Miu Women's Tales ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_83rd_Venice_International_Film_Festival-3.jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_83rd_Venice_International_Film_Festival-3.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3642
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-10-00-amanda-seyfried-768x432.webp"
 ---
 
 **Quick summary**
