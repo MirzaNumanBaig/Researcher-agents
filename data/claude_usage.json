@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-11",
-   "time": "2026-11-11T18:35:34+00:00",
-   "batch": "2026-11-12 05:00",
-   "celebrity": "Connor Storrie",
-   "article": "2026-11-12-05-00-connor-storrie.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1024,
-   "cache_read_tokens": 111979,
-   "cache_write_tokens": 20495,
-   "turns": 7,
-   "seconds": 10,
-   "cost_usd": 0.1036
-  },
-  {
-   "date": "2026-11-11",
    "time": "2026-11-11T18:37:06+00:00",
    "batch": "2026-11-12 05:00",
    "celebrity": "Dane Cook",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 24,
    "cost_usd": 0.1438
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T18:21:46+00:00",
+   "batch": "2026-11-26 04:00",
+   "celebrity": "Keira Knightley",
+   "article": "2026-11-26-04-00-keira-knightley.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3243,
+   "cache_read_tokens": 118168,
+   "cache_write_tokens": 24693,
+   "turns": 7,
+   "seconds": 24,
+   "cost_usd": 0.1432
   }
  ]
 }
