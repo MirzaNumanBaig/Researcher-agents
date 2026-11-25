@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T01:23:41+00:00",
-   "batch": "2026-11-12 12:00",
-   "celebrity": "Amanda Seyfried",
-   "article": "2026-11-12-12-00-amanda-seyfried.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 4733,
-   "cache_read_tokens": 179090,
-   "cache_write_tokens": 35337,
-   "turns": 9,
-   "seconds": 35,
-   "cost_usd": 0.2068
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T01:26:23+00:00",
    "batch": "2026-11-12 12:00",
    "celebrity": "Bob Dylan",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 28,
    "cost_usd": 0.169
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T19:24:39+00:00",
+   "batch": "2026-11-25 22:00",
+   "celebrity": "Russell Brand",
+   "article": "2026-11-25-22-00-russell-brand.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3730,
+   "cache_read_tokens": 129685,
+   "cache_write_tokens": 31066,
+   "turns": 7,
+   "seconds": 27,
+   "cost_usd": 0.1747
   }
  ]
 }
