@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-11",
-   "time": "2026-11-11T02:41:32+00:00",
-   "batch": "2026-11-11 13:00",
-   "celebrity": "Nicole Kidman",
-   "article": "2026-11-11-13-00-nicole-kidman.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1079,
-   "cache_read_tokens": 108364,
-   "cache_write_tokens": 19481,
-   "turns": 7,
-   "seconds": 11,
-   "cost_usd": 0.0997
-  },
-  {
-   "date": "2026-11-11",
    "time": "2026-11-11T02:42:34+00:00",
    "batch": "2026-11-11 13:00",
    "celebrity": "Ryan Reynolds",
@@ -23999,6 +23983,22 @@
    "turns": 10,
    "seconds": 35,
    "cost_usd": 0.2125
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T00:01:20+00:00",
+   "batch": "2026-11-25 10:00",
+   "celebrity": "Dane Cook",
+   "article": "2026-11-25-10-00-dane-cook.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4105,
+   "cache_read_tokens": 146454,
+   "cache_write_tokens": 39633,
+   "turns": 7,
+   "seconds": 27,
+   "cost_usd": 0.2144
   }
  ]
 }
