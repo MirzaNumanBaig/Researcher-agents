@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-11",
-   "time": "2026-11-11T06:43:56+00:00",
-   "batch": "2026-11-11 16:00",
-   "celebrity": "Mckenna Grace",
-   "article": "2026-11-11-16-00-mckenna-grace.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 6008,
-   "cache_read_tokens": 277135,
-   "cache_write_tokens": 49969,
-   "turns": 15,
-   "seconds": 42,
-   "cost_usd": 0.2879
-  },
-  {
-   "date": "2026-11-11",
    "time": "2026-11-11T06:47:01+00:00",
    "batch": "2026-11-11 16:00",
    "celebrity": "Nathan Fielder",
@@ -23999,6 +23983,22 @@
    "turns": 9,
    "seconds": 14,
    "cost_usd": 0.1784
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T01:06:44+00:00",
+   "batch": "2026-11-25 10:00",
+   "celebrity": "Street Fighter",
+   "article": "2026-11-25-10-00-street-fighter.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4139,
+   "cache_read_tokens": 120064,
+   "cache_write_tokens": 26852,
+   "turns": 7,
+   "seconds": 30,
+   "cost_usd": 0.161
   }
  ]
 }
