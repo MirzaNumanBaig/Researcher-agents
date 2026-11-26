@@ -23,6 +23,7 @@ wp_id: 3746
 wp_link: "https://moduscarry.com/the-northman-leaving-netflix/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

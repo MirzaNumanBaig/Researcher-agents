@@ -25,6 +25,7 @@ wp_id: 3748
 wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything-secret/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -23,6 +23,7 @@ wp_id: 3754
 wp_link: "https://moduscarry.com/blade-runner-2099-denis-villeneuve/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
