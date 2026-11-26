@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T18:16:32+00:00",
-   "batch": "2026-11-13 04:00",
-   "celebrity": "David Walliams",
-   "article": "2026-11-13-04-00-david-walliams.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 5354,
-   "cache_read_tokens": 214773,
-   "cache_write_tokens": 33797,
-   "turns": 11,
-   "seconds": 49,
-   "cost_usd": 0.2104
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T18:19:31+00:00",
    "batch": "2026-11-13 04:00",
    "celebrity": "Georgina Baillie",
@@ -23999,6 +23983,22 @@
    "turns": 8,
    "seconds": 12,
    "cost_usd": 0.1274
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T20:05:28+00:00",
+   "batch": "2026-11-27 06:00",
+   "celebrity": "Bob Dylan",
+   "article": "2026-11-27-06-00-bob-dylan.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 5474,
+   "cache_read_tokens": 188961,
+   "cache_write_tokens": 37290,
+   "turns": 9,
+   "seconds": 37,
+   "cost_usd": 0.223
   }
  ]
 }
