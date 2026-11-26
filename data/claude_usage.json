@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T18:31:02+00:00",
-   "batch": "2026-11-13 04:00",
-   "celebrity": "Jason Sudeikis",
-   "article": "2026-11-13-04-00-jason-sudeikis.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 1498,
-   "cache_read_tokens": 208678,
-   "cache_write_tokens": 29653,
-   "turns": 10,
-   "seconds": 17,
-   "cost_usd": 0.1546
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T18:33:23+00:00",
    "batch": "2026-11-13 04:00",
    "celebrity": "Jim Carrey",
@@ -23999,6 +23983,22 @@
    "turns": 9,
    "seconds": 28,
    "cost_usd": 0.1648
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T20:20:05+00:00",
+   "batch": "2026-11-27 06:00",
+   "celebrity": "David Walliams",
+   "article": "2026-11-27-06-00-david-walliams.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3113,
+   "cache_read_tokens": 117588,
+   "cache_write_tokens": 24603,
+   "turns": 7,
+   "seconds": 22,
+   "cost_usd": 0.1415
   }
  ]
 }
