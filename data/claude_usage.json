@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T19:15:30+00:00",
-   "batch": "2026-11-13 04:00",
-   "celebrity": "Scarlett Johansson",
-   "article": "2026-11-13-04-00-scarlett-johansson.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 4488,
-   "cache_read_tokens": 142049,
-   "cache_write_tokens": 39462,
-   "turns": 7,
-   "seconds": 31,
-   "cost_usd": 0.2171
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T19:17:04+00:00",
    "batch": "2026-11-13 04:00",
    "celebrity": "Sylvester Stallone",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 22,
    "cost_usd": 0.1589
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T20:51:23+00:00",
+   "batch": "2026-11-27 06:00",
+   "celebrity": "Pamela Anderson",
+   "article": "2026-11-27-06-00-pamela-anderson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 1115,
+   "cache_read_tokens": 79790,
+   "cache_write_tokens": 20992,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.1033
   }
  ]
 }
