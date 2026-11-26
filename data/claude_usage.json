@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T18:06:19+00:00",
-   "batch": "2026-11-13 04:00",
-   "celebrity": "Callum Turner",
-   "article": "2026-11-13-04-00-callum-turner.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 4430,
-   "cache_read_tokens": 168883,
-   "cache_write_tokens": 31527,
-   "turns": 8,
-   "seconds": 37,
-   "cost_usd": 0.1875
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T18:07:00+00:00",
    "batch": "2026-11-13 04:00",
    "celebrity": "Cate Blanchett",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 12,
    "cost_usd": 0.1168
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T11:05:30+00:00",
+   "batch": "2026-11-26 21:00",
+   "celebrity": "Sam Rockwell",
+   "article": "2026-11-26-21-00-sam-rockwell.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3869,
+   "cache_read_tokens": 120808,
+   "cache_write_tokens": 27056,
+   "turns": 7,
+   "seconds": 27,
+   "cost_usd": 0.1592
   }
  ]
 }
