@@ -5,7 +5,7 @@ seo_title: "Kristofer Hivju Anker: Where the Sun Always Shines S2"
 seo_description: "Kristofer Hivju Anker is the new face in season two of SkyShowtime's Where the Sun Always Shines. Here is who he plays and what critics say."
 focus_keyword: "Kristofer Hivju Anker"
 permalink: "kristofer-hivju-anker"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 06:00"
 celebrity: "Kristofer Hivju"
@@ -16,6 +16,15 @@ sources:
   - "https://foro3d.com/en/2026/noviembre/der-solen-alltid-skinner-vuelve-a-skyshowtime-con-salto-temporal-y-hiv.html"
   - "https://corporate.skyshowtime.com/265475-kristofer-hivju-johan-glans-and-celie-sparre-join-the-cast-of-skyshowtime-original-where-the-sun-always-shines-dar-solen-alltid-skiner/"
   - "https://www.moviezine.se/nyheter/dar-solen-alltid-skiner-ar-tillbaka-och-annu-battre-an-sist"
+image: "images/2026-11-27-06-00-kristofer-hivju.webp"
+image_alt: "Kristofer Hivju: Kristofer Hivju with Olav Lystrup at Tons of Rock, Oslo, 2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HIVJU_and_The_Garbage_King_%E2%80%93_Tons_of_Rock_2026-3.jpg\" rel=\"noopener\">Birgit Fostervold</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HIVJU_and_The_Garbage_King_%E2%80%93_Tons_of_Rock_2026-3.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3829
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-06-00-kristofer-hivju-768x432.webp"
+wp_id: 3830
+wp_link: "https://moduscarry.com/kristofer-hivju-anker/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Dune Part Three Teaser: Scytale Voice"
 seo_description: "Robert Pattinson's Scytale gets a first proper listen in the new Dune: Part Three teaser, weeks before its December 16 Australian release."
 focus_keyword: "Robert Pattinson Dune Part Three"
 permalink: "robert-pattinson-dune-part-three"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 06:00"
 celebrity: "Robert Pattinson"
@@ -17,6 +17,15 @@ sources:
   - "https://www.cbc.ca/kidsnews/post/robert-pattinson-is-the-new-james-bond-is-he-being-cast-in-too-many-films"
   - "https://www.euronews.com/2026/11/26/is-james-bond-conservative-trump-gives-verdict-on-robert-pattinson-but-asked-about-007s-po"
   - "https://www.cinemablend.com/movies/robert-pattinson-already-most-interesting-batman-thats-good-thing-james-bond"
+image: "images/2026-11-27-06-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3839
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-06-00-robert-pattinson-768x432.webp"
+wp_id: 3840
+wp_link: "https://moduscarry.com/robert-pattinson-dune-part-three/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Dune Part Three Budget: Villeneuve's Priciest Film Yet"
 seo_description: "The Dune Part Three budget is reportedly US$200 million, up from US$165 million for the first film. See the new teaser and Australian release date."
 focus_keyword: "Dune Part Three budget"
 permalink: "dune-part-three-budget"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 06:00"
 celebrity: "Denis Villeneuve"
@@ -16,6 +16,15 @@ sources:
   - "https://www.aol.com/articles/dune-part-three-reported-budget-160328000.html"
   - "https://screenrealm.com/dune-part-three-teaser-robert-pattinson-voice/"
   - "https://foro3d.com/en/2026/noviembre/villeneuve-y-bond-drama-de-craig-con-ingenio-de-connery.html"
+image: "images/2026-11-27-06-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: _MG_6742.jpg"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_(9714512308).jpg\" rel=\"noopener\">Tabercil from Canadian</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_(9714512308).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3813
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-06-00-denis-villeneuve-768x432.webp"
+wp_id: 3814
+wp_link: "https://moduscarry.com/dune-part-three-budget/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

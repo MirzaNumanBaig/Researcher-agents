@@ -23,6 +23,7 @@ wp_id: 3768
 wp_link: "https://moduscarry.com/rachel-mcadams-families-stone/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

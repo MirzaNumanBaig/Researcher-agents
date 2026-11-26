@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Women's Prize for Playwriting Judge 2027"
 seo_description: "Cate Blanchett joins the Women's Prize for Playwriting judging panel as 2027 submissions open, with a £20,000 prize and expanded support for writers."
 focus_keyword: "Cate Blanchett Women's Prize for Playwriting"
 permalink: "cate-blanchett-womens-prize-playwriting"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 06:00"
 celebrity: "Cate Blanchett"
@@ -15,6 +15,15 @@ image_prompt: "An empty theatre stage with a single spotlight, a wooden desk and
 sources:
   - "https://www.whatsonstage.com/news/womens-prize-for-playwriting-opens-submissions-for-2027-with-cate-blanchett-joining-judging-panel_1738324/"
   - "https://www.thestage.co.uk/news/cate-blanchett-joins-judging-panel-for-expanded-womens-prize-for-playwriting"
+image: "images/2026-11-27-06-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-3.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-3.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3807
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-06-00-cate-blanchett-768x432.webp"
+wp_id: 3808
+wp_link: "https://moduscarry.com/cate-blanchett-womens-prize-playwriting/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

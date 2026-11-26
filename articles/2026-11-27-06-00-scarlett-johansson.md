@@ -5,7 +5,7 @@ seo_title: "Scarlett Johansson Netflix: Rebirth Exit and Ray Gunn Song"
 seo_description: "Scarlett Johansson's Jurassic World Rebirth leaves Netflix on 26 December, while her Ray Gunn song 'Too Much to Ask' eyes an Oscar nod."
 focus_keyword: "Scarlett Johansson Netflix"
 permalink: "scarlett-johansson-netflix-rebirth-ray-gunn"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 06:00"
 celebrity: "Scarlett Johansson"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium with a glowing screen showing a dinosa
 sources:
   - "https://screenrant.com/scarlett-johansson-jurassic-world-rebirth-leave-netflix-december-2026/"
   - "https://collider.com/scarlett-johansson-ray-gunn-oscar-too-much-to-ask-song-brad-bird-interview/"
+image: "images/2026-11-27-06-00-scarlett-johansson.webp"
+image_alt: "Scarlett Johansson: Scarlett Johansson at the 64th annual New York Film Festival at Film at Lincoln Center"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-069.jpg\" rel=\"noopener\">Bryan Berlin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_at_the_2026_New_York_Film_Festival-069.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3845
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-06-00-scarlett-johansson-768x432.webp"
+wp_id: 3846
+wp_link: "https://moduscarry.com/scarlett-johansson-netflix-rebirth-ray-gunn/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -28,6 +28,7 @@ wp_id: 3770
 wp_link: "https://moduscarry.com/robert-pattinson-bond-twilight-line/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

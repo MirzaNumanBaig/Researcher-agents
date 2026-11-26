@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone Rocky 50th Anniversary Stories"
 seo_description: "Sylvester Stallone Rocky stories from the 50th anniversary screening: the missing extras on the ice rink and the scene producers tried to cut short."
 focus_keyword: "Sylvester Stallone Rocky"
 permalink: "sylvester-stallone-rocky-50th-anniversary"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 06:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "Rocky"]
 image_prompt: "An empty ice rink at night under soft overhead lights, a lone ice-resurfacing machine parked at the edge, quiet winter mood."
 sources:
   - "https://www.goldderby.com/film/2026/rocky-at-50-sylvester-stallone-bill-conti-behind-the-scenes-stories/"
+image: "images/2026-11-27-06-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/4840654690\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/4840654690\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3847
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-06-00-sylvester-stallone-768x432.webp"
+wp_id: 3848
+wp_link: "https://moduscarry.com/sylvester-stallone-rocky-50th-anniversary-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Sunrise on the Reaping Review: Nostalgia Over Story"
 seo_description: "Our Sunrise on the Reaping review round-up: critics praise Joseph Zada's Haymitch but say the Hunger Games prequel leans on nostalgia. Read more."
 focus_keyword: "Sunrise on the Reaping review"
 permalink: "sunrise-on-the-reaping-review-nostalgia"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 06:00"
 celebrity: "The Hunger Games: Sunrise on the Reaping"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema at dusk with a single glowing screen, rows of red
 sources:
   - "https://dbknews.com/2026/11/25/sunrise-reaping-movie-review/"
   - "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+image: "images/2026-11-27-06-00-the-hunger-games-sunrise-on-the-reaping.webp"
+image_alt: "The Hunger Games: Sunrise on the Reaping: Sunrise on the Reaping Review: Nostalgia Over Story"
+image_credit: "Image: <a href=\"https://dbknews.com/2026/11/25/sunrise-reaping-movie-review/\" rel=\"nofollow noopener\">dbknews.com</a> (cropped)"
+wp_media_id: 3849
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-06-00-the-hunger-games-sunrise-on-the-reaping-768x432.webp"
+wp_id: 3850
+wp_link: "https://moduscarry.com/sunrise-on-the-reaping-review-nostalgia/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Connor Storrie Fashion: Best Looks of His Big Year"
 seo_description: "Connor Storrie fashion has gone from Golden Globes suits to a Met Gala train and a buzzcut. Here are the Saint Laurent and Tiffany looks that defined his year."
 focus_keyword: "Connor Storrie fashion"
 permalink: "connor-storrie-fashion"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 06:00"
 celebrity: "Connor Storrie"
@@ -14,6 +14,15 @@ tags: ["Connor Storrie", "Heated Rivalry", "Hudson Williams", "Red carpet", "Fas
 image_prompt: "An empty red carpet at night beneath bright flash photography, with a row of tailored black jackets on a rail in the background"
 sources:
   - "https://socialitelife.com/connor-storrie-best-fashion-moments-saint-laurent/"
+image: "images/2026-11-27-06-00-connor-storrie.webp"
+image_alt: "Connor Storrie: Connor Storrie at the Toronto premier of Heated Rivalry on November 24, 2025. Photo by Tara_taralynn"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Connor_Storrie_photo_by_Tara_Taralynn_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3809
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-06-00-connor-storrie-768x432.webp"
+wp_id: 3810
+wp_link: "https://moduscarry.com/connor-storrie-fashion/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

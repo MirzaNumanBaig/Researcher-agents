@@ -5,7 +5,7 @@ seo_title: "David Walliams Books Library Shelves: Councils Hold Firm"
 seo_description: "David Walliams books will stay on Wrexham and Flintshire library shelves for now, councils say, as demand falls and schools make their own calls."
 focus_keyword: "David Walliams books library"
 permalink: "david-walliams-books-library-shelves"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 06:00"
 celebrity: "David Walliams"
@@ -14,6 +14,15 @@ tags: ["David Walliams"]
 image_prompt: "A quiet public library at dusk, rows of children's books on wooden shelves, warm lamplight and an empty reading table."
 sources:
   - "https://herald.wales/north-wales/wrexham-north-wales/david-walliams-books-to-remain-on-council-library-shelves-for-now/"
+image: "images/2026-11-27-06-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_(6745348487).jpg\" rel=\"noopener\">Sean Reynolds from Liverpool, United Kingdom</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_(6745348487).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3811
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-06-00-david-walliams-768x432.webp"
+wp_id: 3812
+wp_link: "https://moduscarry.com/david-walliams-books-library-shelves/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

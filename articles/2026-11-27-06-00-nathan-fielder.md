@@ -5,7 +5,7 @@ seo_title: "You Can See Everything Digital Debut Tops iTunes Chart"
 seo_description: "You Can See Everything, Nathan Fielder's A24 documentary, debuts on digital and takes the top iTunes spot after a six-week cinema run."
 focus_keyword: "You Can See Everything"
 permalink: "you-can-see-everything-digital-debut"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 06:00"
 celebrity: "Nathan Fielder"
@@ -16,6 +16,15 @@ sources:
   - "https://collider.com/you-can-see-everything-digital-debut-box-office-removed-from-1400-theaters/"
   - "https://www.thehindu.com/entertainment/movies/you-can-see-everything-documentary-review-nathan-fielder-elizabeth-holmes-lance-oppenheim-amanda-seyfried/article71747469.ece"
   - "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+image: "images/2026-11-27-06-00-nathan-fielder.webp"
+image_alt: "Nathan Fielder: Nathan Fielder at a Summit Ice pop-up store in Vancouver, British Columbia on March 26, 2017"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Northwest</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Nathan_Fielder.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3833
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-06-00-nathan-fielder-768x432.webp"
+wp_id: 3834
+wp_link: "https://moduscarry.com/you-can-see-everything-digital-debut/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
