@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Twilight Line: Director Explains"
 seo_description: "Twilight director Catherine Hardwicke says Robert Pattinson's look inspired the 'Bond, James Bond' line in 2008. Here is what she said about his 007 casting."
 focus_keyword: "Robert Pattinson Bond Twilight"
 permalink: "robert-pattinson-bond-twilight-line"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 12:00"
 celebrity: "Robert Pattinson"
@@ -19,6 +19,15 @@ sources:
   - "https://www.complex.com/pop-culture/a/jaelaniturnerwilliams/robert-pattinson-james-bond-resemblance"
   - "https://www.theartjournal.com/articles/what-young-artists-can-learn-from-robert-pattinsons-route-to-bond"
   - "https://www.olbg.com/news/robert-pattinson-james-bond-specials-uk-betting-sites-make-his-first-007-film-8-13-gross-1bn"
+image: "images/2026-11-26-12-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3769
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-12-00-robert-pattinson-768x432.webp"
+wp_id: 3770
+wp_link: "https://moduscarry.com/robert-pattinson-bond-twilight-line/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

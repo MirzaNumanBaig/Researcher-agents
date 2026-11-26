@@ -5,7 +5,7 @@ seo_title: "Wild Horse Nine VFX: Union Breakdown of McDonagh Film"
 seo_description: "Wild Horse Nine VFX revealed: Union shows how it built period aircraft, face replacements and on-screen violence for Martin McDonagh's thriller."
 focus_keyword: "Wild Horse Nine VFX"
 permalink: "wild-horse-nine-vfx-union"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 12:00"
 celebrity: "Martin McDonagh"
@@ -14,6 +14,15 @@ tags: ["Martin McDonagh", "Wild Horse Nine", "Sam Rockwell"]
 image_prompt: "A vintage propeller aircraft on a windswept grass airstrip at golden hour, with distant volcanic hills and an empty film set rig nearby."
 sources:
   - "https://www.awn.com/news/union-vfx-breaks-down-martin-mcdonaghs-wild-horse-nine"
+image: "images/2026-11-26-12-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Martin McDonagh, director, at 82nd Venice International Film Festival in Venice, Italy for the film Wild Horse Nine."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_(cropped).jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3765
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-12-00-martin-mcdonagh-768x432.webp"
+wp_id: 3766
+wp_link: "https://moduscarry.com/wild-horse-nine-vfx-union/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

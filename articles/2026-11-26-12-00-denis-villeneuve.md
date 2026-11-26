@@ -5,7 +5,7 @@ seo_title: "Blade Runner 2099 and Denis Villeneuve's 2049 Legacy"
 seo_description: "Blade Runner 2099 showrunner Silka Luisa says Denis Villeneuve's Blade Runner 2049 gave the Prime Video series its blueprint. Here is what she said."
 focus_keyword: "Blade Runner 2099"
 permalink: "blade-runner-2099-denis-villeneuve"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 12:00"
 celebrity: "Denis Villeneuve"
@@ -14,6 +14,15 @@ tags: ["Denis Villeneuve"]
 image_prompt: "A rain-soaked neon city street at night with glowing signs reflected in puddles and a lone empty cinema marquee in the distance"
 sources:
   - "https://www.slashfilm.com/2322392/blade-runner-2099-denis-villeneuve-sequel-inspiration-explained/"
+image: "images/2026-11-26-12-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve speaking at the 2017 San Diego Comic-Con International in San Diego, California."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_by_Gage_Skidmore.jpg\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_by_Gage_Skidmore.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3753
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-12-00-denis-villeneuve-768x432.webp"
+wp_id: 3754
+wp_link: "https://moduscarry.com/blade-runner-2099-denis-villeneuve/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

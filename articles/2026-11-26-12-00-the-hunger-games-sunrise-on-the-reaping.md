@@ -5,7 +5,7 @@ seo_title: "Sunrise on the Reaping Review: Praise and Pushback"
 seo_description: "One critic calls the Hunger Games prequel gaudy and predictable. See how Sunrise on the Reaping review scores compare with its box office."
 focus_keyword: "Sunrise on the Reaping review"
 permalink: "sunrise-on-the-reaping-review"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 12:00"
 celebrity: "The Hunger Games: Sunrise on the Reaping"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium lit by a bright, oversaturated screen,
 sources:
   - "https://www.mediaversityreviews.com/film-reviews/2026/11/25/the-hunger-games-sunrise-on-the-reaping"
   - "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+image: "images/2026-11-26-12-00-the-hunger-games-sunrise-on-the-reaping.webp"
+image_alt: "The Hunger Games: Sunrise on the Reaping: Sunrise on the Reaping Review Divides Hunger Games Fans"
+image_credit: "Image: <a href=\"https://www.mediaversityreviews.com/film-reviews/2026/11/25/the-hunger-games-sunrise-on-the-reaping\" rel=\"nofollow noopener\">mediaversityreviews.com</a> (cropped)"
+wp_media_id: 3781
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-12-00-the-hunger-games-sunrise-on-the-reaping-768x432.webp"
+wp_id: 3782
+wp_link: "https://moduscarry.com/sunrise-on-the-reaping-review/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

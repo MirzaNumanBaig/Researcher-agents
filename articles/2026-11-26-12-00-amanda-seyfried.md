@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried You Can See Everything Role Secret"
 seo_description: "Amanda Seyfried explains on The Tonight Show how she joined You Can See Everything in secret, and how many people she told before it came out."
 focus_keyword: "Amanda Seyfried You Can See Everything"
 permalink: "amanda-seyfried-you-can-see-everything-secret"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 12:00"
 celebrity: "Amanda Seyfried"
@@ -16,6 +16,15 @@ sources:
   - "https://www.avclub.com/amanda-seyfried-you-can-see-everything-role-told-people"
   - "https://www.harpersbazaar.com/celebrity/latest/a74533467/amanda-seyfried-carolina-herrera-floral-cutout-dress-photos/"
   - "https://headlineplanet.com/home/2026/11/24/first-look-amanda-seyfried-amelia-dimoldenberg-erykah-badu-tim-allen-appear-on-tonight-show-starring-jimmy-fallon/"
+image: "images/2026-11-26-12-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried attends Miu Miu Women's Tales during the 83rd Venice International Film Festival at on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_Venice_Film_Festival.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_Venice_Film_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3747
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-12-00-amanda-seyfried-768x432.webp"
+wp_id: 3748
+wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything-secret/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

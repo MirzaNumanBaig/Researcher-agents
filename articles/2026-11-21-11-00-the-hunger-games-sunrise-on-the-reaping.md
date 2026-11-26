@@ -5,7 +5,7 @@ seo_title: "Sunrise on the Reaping Audience Reviews: 95% Score"
 seo_description: "Sunrise on the Reaping audience reviews put the Hunger Games prequel at 95% on the Popcornmeter, even as critics stayed lukewarm. See what fans say."
 focus_keyword: "Sunrise on the Reaping audience reviews"
 permalink: "sunrise-on-the-reaping-audience-reviews"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-21 11:00"
 celebrity: "The Hunger Games: Sunrise on the Reaping"
@@ -15,6 +15,15 @@ image_prompt: "A dim, empty cinema auditorium with rows of red seats facing a gl
 sources:
   - "https://editorial.rottentomatoes.com/article/the-hunger-games-sunrise-on-the-reaping-audience-reviews/"
   - "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+image: "images/2026-11-21-11-00-the-hunger-games-sunrise-on-the-reaping.webp"
+image_alt: "The Hunger Games: Sunrise on the Reaping: Sunrise on the Reaping: Fans Rate Hunger Games Prequel 95%"
+image_credit: "Image: <a href=\"https://editorial.rottentomatoes.com/article/the-hunger-games-sunrise-on-the-reaping-audience-reviews/\" rel=\"nofollow noopener\">editorial.rottentomatoes.com</a> (cropped)"
+wp_media_id: 3739
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-21-11-00-the-hunger-games-sunrise-on-the-reaping-768x432.webp"
+wp_id: 3740
+wp_link: "https://moduscarry.com/sunrise-on-the-reaping-audience-reviews/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

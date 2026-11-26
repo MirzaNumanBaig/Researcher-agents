@@ -5,7 +5,7 @@ seo_title: "David Walliams Whistleblower Lucy Beaumont on The Last Leg"
 seo_description: "David Walliams whistleblower Lucy Beaumont thanked supporters on The Last Leg, as the UK plans an NDA ban and libraries decide on his books."
 focus_keyword: "David Walliams whistleblower"
 permalink: "david-walliams-whistleblower-lucy-beaumont"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 12:00"
 celebrity: "David Walliams"
@@ -17,6 +17,15 @@ sources:
   - "https://www.nzherald.co.nz/entertainment/cover-up-publisher-harpercollins-accused-of-silencing-complaints-about-david-walliams/AS7TWNBXH5ATZKG6BOJMV27MJI/"
   - "https://www.morningstaronline.co.uk/article/unions-welcome-government-ban-use-ndas-silence-victims-sexual-harassment-following-brand"
   - "https://www.herefordtimes.com/news/26759644.herefordshire-libraries-decide-brand-walliams-books/"
+image: "images/2026-11-26-12-00-david-walliams.webp"
+image_alt: "David Walliams: David Walliams, actor, comedian, and writer, at the 2025 Jaipur Literature Festival in Jaipur, India."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival_(cropped).jpg\" rel=\"noopener\">Sriya Sarkar</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:David_Walliams_at_the_2025_Jaipur_Literature_Festival_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3751
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-12-00-david-walliams-768x432.webp"
+wp_id: 3752
+wp_link: "https://moduscarry.com/david-walliams-whistleblower-lucy-beaumont/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

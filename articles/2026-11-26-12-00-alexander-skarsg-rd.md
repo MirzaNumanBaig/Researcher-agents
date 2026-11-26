@@ -5,7 +5,7 @@ seo_title: "The Northman Leaving Netflix: Alexander Skarsgård Epic"
 seo_description: "The Northman is leaving Netflix in December. Here is what the Alexander Skarsgård Viking epic is about and why it divided cinema audiences."
 focus_keyword: "The Northman leaving Netflix"
 permalink: "the-northman-leaving-netflix"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 12:00"
 celebrity: "Alexander Skarsgård"
@@ -14,6 +14,15 @@ tags: ["Alexander Skarsgård", "Netflix", "Nicole Kidman"]
 image_prompt: "A stormy Nordic coastline at dusk with a longship beached on black sand and a lone fire burning on the shore"
 sources:
   - "https://screenrant.com/alexander-skarsgard-the-northman-leave-netflix-december-2026/"
+image: "images/2026-11-26-12-00-alexander-skarsg-rd.webp"
+image_alt: "Alexander Skarsg\u00e5rd: Alexander Skarsg\u00e5rd at the 63rd New York Film Festival in New York City for the film Pillion"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_04.jpg\" rel=\"noopener\">Veggiegalaxy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Alexander_Skarsg%C3%A5rd_at_NYFF_2025_04.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3745
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-12-00-alexander-skarsg-rd-768x432.webp"
+wp_id: 3746
+wp_link: "https://moduscarry.com/the-northman-leaving-netflix/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

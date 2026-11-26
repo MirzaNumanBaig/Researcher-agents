@@ -5,7 +5,7 @@ seo_title: "Sunrise on the Reaping: Mckenna Grace on Maysilee Donner"
 seo_description: "Sunrise on the Reaping star Mckenna Grace explains why Maysilee Donner's defiance is about staying human, not just surviving. Read the interview highlights."
 focus_keyword: "Sunrise on the Reaping"
 permalink: "sunrise-on-the-reaping-mckenna-grace-maysilee"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-22 12:00"
 celebrity: "The Hunger Games: Sunrise on the Reaping"
@@ -15,6 +15,15 @@ image_prompt: "An empty arena entrance at dawn with a lone wildflower pushing th
 sources:
   - "https://www.theaureview.com/watch/interview-mckenna-grace-hunger-games/"
   - "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+image: "images/2026-11-22-12-00-the-hunger-games-sunrise-on-the-reaping.webp"
+image_alt: "The Hunger Games: Sunrise on the Reaping: Mckenna Grace on Maysilee's Quiet Rebellion in Sunrise on the Reaping"
+image_credit: "Image: <a href=\"https://www.theaureview.com/watch/interview-mckenna-grace-hunger-games/\" rel=\"nofollow noopener\">theaureview.com</a> (cropped)"
+wp_media_id: 3741
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-22-12-00-the-hunger-games-sunrise-on-the-reaping-768x432.webp"
+wp_id: 3742
+wp_link: "https://moduscarry.com/sunrise-on-the-reaping-mckenna-grace-maysilee/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

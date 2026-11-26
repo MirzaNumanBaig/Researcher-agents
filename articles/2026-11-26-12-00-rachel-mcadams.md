@@ -5,7 +5,7 @@ seo_title: "Rachel McAdams Families Stone: Sequel Cast and Plot"
 seo_description: "Rachel McAdams Families Stone: Searchlight confirms a sequel to The Family Stone with most of the cast back. Here is the plot, the cast and what is still unknown."
 focus_keyword: "Rachel McAdams Families Stone"
 permalink: "rachel-mcadams-families-stone"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 12:00"
 celebrity: "Rachel McAdams"
@@ -14,6 +14,15 @@ tags: ["Rachel McAdams", "The Family Stone", "The Families Stone", "Sarah Jessic
 image_prompt: "A cosy living room at Christmas with a lit tree, stockings on a fireplace and warm lamplight, snow falling outside the window"
 sources:
   - "https://abcnews.com/GMA/Culture/family-stone-sequel-announced-sarah-jessica-parker-rachel/story?id=136390805"
+image: "images/2026-11-26-12-00-rachel-mcadams.webp"
+image_alt: "Rachel McAdams: Rachel McAdams Returns in The Families Stone Sequel"
+image_credit: "Image: <a href=\"https://abcnews.com/GMA/Culture/family-stone-sequel-announced-sarah-jessica-parker-rachel/story?id=136390805\" rel=\"nofollow noopener\">abcnews.com</a> (cropped)"
+wp_media_id: 3767
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-12-00-rachel-mcadams-768x432.webp"
+wp_id: 3768
+wp_link: "https://moduscarry.com/rachel-mcadams-families-stone/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

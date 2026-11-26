@@ -5,7 +5,7 @@ seo_title: "Hunger Games Sunrise on the Reaping: Joseph Zada Leads"
 seo_description: "Hunger Games Sunrise on the Reaping puts Australian actor Joseph Zada at the centre. See what he told Variety about stunts and how reviews rate him."
 focus_keyword: "Hunger Games Sunrise on the Reaping"
 permalink: "hunger-games-sunrise-on-the-reaping-joseph-zada"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 10:00"
 celebrity: "The Hunger Games: Sunrise on the Reaping"
@@ -16,6 +16,15 @@ sources:
   - "https://variety.com/2026/film/features/hunger-games-sunrise-on-the-reaping-joseph-zada-action-scenes-1236954627/"
   - "https://bcheights.com/234999/arts/the-hunger-games-sunrise-on-the-reaping-rests-on-the-steady-shoulders-of-joseph-zada/"
   - "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+image: "images/2026-11-23-10-00-the-hunger-games-sunrise-on-the-reaping.webp"
+image_alt: "The Hunger Games: Sunrise on the Reaping: Joseph Zada Carries Hunger Games: Sunrise on the Reaping"
+image_credit: "Image: <a href=\"https://bcheights.com/234999/arts/the-hunger-games-sunrise-on-the-reaping-rests-on-the-steady-shoulders-of-joseph-zada/\" rel=\"nofollow noopener\">bcheights.com</a> (cropped)"
+wp_media_id: 3743
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-10-00-the-hunger-games-sunrise-on-the-reaping-768x432.webp"
+wp_id: 3744
+wp_link: "https://moduscarry.com/hunger-games-sunrise-on-the-reaping-joseph-zada/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
