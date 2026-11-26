@@ -24,6 +24,7 @@ wp_id: 3686
 wp_link: "https://moduscarry.com/david-walliams-harpercollins-inquiry-law-firm/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

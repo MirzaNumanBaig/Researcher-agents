@@ -24,6 +24,7 @@ wp_id: 3740
 wp_link: "https://moduscarry.com/sunrise-on-the-reaping-audience-reviews/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -25,6 +25,7 @@ wp_id: 3744
 wp_link: "https://moduscarry.com/hunger-games-sunrise-on-the-reaping-joseph-zada/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
