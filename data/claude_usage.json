@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T02:29:07+00:00",
-   "batch": "2026-11-12 12:00",
-   "celebrity": "Tom Hardy",
-   "article": "2026-11-12-12-00-tom-hardy.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 14,
-   "output_tokens": 1384,
-   "cache_read_tokens": 181173,
-   "cache_write_tokens": 21843,
-   "turns": 10,
-   "seconds": 20,
-   "cost_usd": 0.1314
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T02:29:47+00:00",
    "batch": "2026-11-12 12:00",
    "celebrity": "Zara Larsson",
@@ -23999,6 +23983,22 @@
    "turns": 13,
    "seconds": 38,
    "cost_usd": 0.2123
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T02:33:35+00:00",
+   "batch": "2026-11-26 12:00",
+   "celebrity": "Sam Rockwell",
+   "article": "2026-11-26-12-00-sam-rockwell.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3261,
+   "cache_read_tokens": 118000,
+   "cache_write_tokens": 24856,
+   "turns": 7,
+   "seconds": 22,
+   "cost_usd": 0.144
   }
  ]
 }
