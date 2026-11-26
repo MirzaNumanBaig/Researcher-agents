@@ -16,9 +16,15 @@ sources:
   - "https://www.huffingtonpost.co.uk/entry/amanda-seyfried-filming-you-can-see-everything_uk_6b06a195e4b03d22836102d8"
   - "https://www.yahoo.com/entertainment/celebrity/fashion/articles/amanda-seyfried-carolina-herrera-dress-063707287.html"
 wp_id: 3666
-wp_link: "https://moduscarry.com/?p=3666"
-wp_synced: pending
+wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything-dinner/"
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-25-22-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, actor, at the 2025 Toronto International Film Festival (TIFF) for the movie The Testament of Ann Lee ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._03_(cropped).jpg\" rel=\"noopener\">Sara Komatsu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_the_2025_Toronto_International_Film_Festival._03_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+embed_checked: 1
+wp_media_id: 3725
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-22-00-amanda-seyfried-768x432.webp"
 ---
 
 **Quick summary**

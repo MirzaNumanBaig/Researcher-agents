@@ -16,9 +16,15 @@ sources:
   - "https://www.mensxp.com/entertainment/hollywood/186957-chris-hemsworth-calls-working-with-rdj-again-oddly-unsettling-says-he-felt-like-odd-one-out-on-avengers-doomsday-set.html"
   - "https://www.cinemaexpress.com/english/news/2026/Nov/25/chris-hemsworth-on-returning-as-thor-was-oddly-uncomfortable-at-first"
 wp_id: 3667
-wp_link: "https://moduscarry.com/?p=3667"
-wp_synced: pending
+wp_link: "https://moduscarry.com/chris-hemsworth-avengers-doomsday-elder/"
+wp_synced: publish
 seo_synced: 1
+image: "images/2026-11-25-22-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Flickr</a> (cropped)"
+embed_checked: 1
+wp_media_id: 3727
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-22-00-chris-hemsworth-768x432.webp"
 ---
 
 **Quick summary**

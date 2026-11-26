@@ -24,6 +24,7 @@ wp_id: 3659
 wp_link: "https://moduscarry.com/renate-reinsve-fjord-sentimental-value/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
