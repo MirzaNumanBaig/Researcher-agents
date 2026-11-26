@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-26 12:00",
+  "celebrity": "Rebel Wilson",
+  "stories": [
+    {
+      "title": "Rebel Wilson on XERF and BBL: ‘I’ll Be Looking Beautiful’",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52Zm4wY1JKRHZ1VjVjVFB6YjhJaUxNTm5zRU1sZjFpbF9HMDlWM1FqWFlib3EwVjFWcDk0bk9NVEdLXzJhYlNqdUc3WlQ4MWpsUnREWGQ5X0V5MlBiU2g1UlpVOXkyY2IzekxhM2tCaEVudTFmUGxudXdIWThnc2M?oc=5",
+      "published": "2026-11-25T18:28:25+00:00",
+      "outlets": [
+        {
+          "source": "NewBeauty",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52Zm4wY1JKRHZ1VjVjVFB6YjhJaUxNTm5zRU1sZjFpbF9HMDlWM1FqWFlib3EwVjFWcDk0bk9NVEdLXzJhYlNqdUc3WlQ4MWpsUnREWGQ5X0V5MlBiU2g1UlpVOXkyY2IzekxhM2tCaEVudTFmUGxudXdIWThnc2M?oc=5",
+          "article_url": "https://www.newbeauty.com/view/rebel-wilson-xerf-skin-tightening-treatment",
+          "image": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/9199e4c08328c4f358d0e67cc9e1bb1575c1e8f3-2200x1400.png?rect=0,123,2200,1155&w=1200&h=630&fm=jpg&fit=crop"
+        }
+      ],
+      "image": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/9199e4c08328c4f358d0e67cc9e1bb1575c1e8f3-2200x1400.png?rect=0,123,2200,1155&w=1200&h=630&fm=jpg&fit=crop",
+      "image_source": "https://www.newbeauty.com/view/rebel-wilson-xerf-skin-tightening-treatment"
+    }
+  ]
+}

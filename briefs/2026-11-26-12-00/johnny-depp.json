@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-26 12:00",
+  "celebrity": "Johnny Depp",
+  "stories": [
+    {
+      "title": "Russell Brand’s Conviction, Johnny Depp’s Comeback and the Unfinished Work of #MeToo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzVQUEw1LUhQcEVqRzRHVzk3dFYwby1Bd2g1MVpzNTlWMjdkMmtwR0FIZ0lKTTA1VWpvQmtrOW9CRTRTbUdoUXFnSXdIdGMtZDRKc0oycWVoajNWMXRpNElMNi1KLXVlaGZZVld3NXZHeDFfWkRaUjNHWlhqSjZuY3RlNW9tX0xwZ1hsOWtoejF4R2JHdndXaGlvakxleHp0d1hWMjJzOU80R0dyaVZ2Yw?oc=5",
+      "published": "2026-11-25T18:04:37+00:00",
+      "outlets": [
+        {
+          "source": "Ms. Magazine",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzVQUEw1LUhQcEVqRzRHVzk3dFYwby1Bd2g1MVpzNTlWMjdkMmtwR0FIZ0lKTTA1VWpvQmtrOW9CRTRTbUdoUXFnSXdIdGMtZDRKc0oycWVoajNWMXRpNElMNi1KLXVlaGZZVld3NXZHeDFfWkRaUjNHWlhqSjZuY3RlNW9tX0xwZ1hsOWtoejF4R2JHdndXaGlvakxleHp0d1hWMjJzOU80R0dyaVZ2Yw?oc=5",
+          "article_url": "https://msmagazine.com/2026/11/25/russell-brand-johnny-depp-metoo-sexual-assault-accountability-dustin-hoffman/",
+          "image": "https://msmagazine.com/wp-content/uploads/2026/11/GettyImages-1241042747.jpg"
+        }
+      ],
+      "image": "https://msmagazine.com/wp-content/uploads/2026/11/GettyImages-1241042747.jpg",
+      "image_source": "https://msmagazine.com/2026/11/25/russell-brand-johnny-depp-metoo-sexual-assault-accountability-dustin-hoffman/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Ebenezer",
+      "release": "2026-11-12",
+      "director": [
+        "Ti West"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Andrea Riseborough",
+        "Tramell Tillman",
+        "Ian McKellen",
+        "Rupert Grint"
+      ],
+      "budget_usd": 38000000,
+      "box_office_usd": 79600000,
+      "scope": "Mid-budget",
+      "verdict": "Too early",
+      "gross_vs_budget": 2.09,
+      "rotten_tomatoes": "55%",
+      "metacritic": "46/100 from 38 critics",
+      "critics_consensus": "Decking its halls with evocative production design while Johnny Depp is filled with the 'bah humbug!' spirit, Ebenezer doesn't scrooge Dickens' classic tale up but plays things too safe to stand out amongst its long line of remakes.",
+      "critics_overview": "Peter Bradshaw, in a review for The Guardian, gave the film 3 out of 5 stars, calling it a \"perfectly serviceable, faithful adaptation... as Scrooge himself, Depp is pretty good.\" Brandon Wu of The New York Times called the film bland and said of Depp's performance, \"at his worst, Depp appears as if he is in a Scrooge costume in a Christmas-season ad campaign for Verizon.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136650058",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ebenezer_(2026_film)"
+      }
+    }
+  ]
+}

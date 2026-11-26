@@ -1,0 +1,64 @@
+{
+  "batch": "2026-11-26 12:00",
+  "celebrity": "The Hunger Games: Sunrise on the Reaping",
+  "stories": [
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEswSFUySExITnQ4bGs3cVppbkliSkQ0ekdERmMyN3dmOWdFSWUwMW9LczdxejU1UEl2Mmc1ZXd2TkJ3djdjbU1OYm00TjBvTzN5czkzTWdzUkVGb1RHLWFDczdmRFNsRlo3MFFjcFBRTVRZWmZ4bVA5S2RjX2VwOUZEZmlhRjliWDhPRlJOdlpLTzE1QnhuMFJpNzZvZDVf?oc=5",
+      "published": "2026-11-25T21:37:38+00:00",
+      "outlets": [
+        {
+          "source": "Mediaversity Reviews",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEswSFUySExITnQ4bGs3cVppbkliSkQ0ekdERmMyN3dmOWdFSWUwMW9LczdxejU1UEl2Mmc1ZXd2TkJ3djdjbU1OYm00TjBvTzN5czkzTWdzUkVGb1RHLWFDczdmRFNsRlo3MFFjcFBRTVRZWmZ4bVA5S2RjX2VwOUZEZmlhRjliWDhPRlJOdlpLTzE1QnhuMFJpNzZvZDVf?oc=5",
+          "article_url": "https://www.mediaversityreviews.com/film-reviews/2026/11/25/the-hunger-games-sunrise-on-the-reaping",
+          "image": "http://static1.squarespace.com/static/58e1117febbd1a7ec641bbf3/58e97c5137c5819161622e45/6b074f93f5172560ea3b4214/1795642660353/2026_TheHungerGamesSunriseOnTheReaping.png?format=1500w"
+        }
+      ],
+      "image": "http://static1.squarespace.com/static/58e1117febbd1a7ec641bbf3/58e97c5137c5819161622e45/6b074f93f5172560ea3b4214/1795642660353/2026_TheHungerGamesSunriseOnTheReaping.png?format=1500w",
+      "image_source": "https://www.mediaversityreviews.com/film-reviews/2026/11/25/the-hunger-games-sunrise-on-the-reaping"
+    },
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping Review: Hope in Dark Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3RVOTNCb0VnQXF0X21oUmhQRzRTY0xQdVpNeXNuaWp4dUgwM0I5eWlYeU80bUxueXFmWnZhSE52b3BoUGlvMmlDZ2c3aHhCMmhiWGdCalZ2T0RaYVVPLThHdndjU3MzNWM3ZV85RGtieFRTcklnTkxsNjFyYjJhWFdqZnpnVlRCNVFWeGtQRU11dw?oc=5",
+      "published": "2026-11-24T10:31:06+00:00",
+      "outlets": [
+        {
+          "source": "MacGuffin or Meaning",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3RVOTNCb0VnQXF0X21oUmhQRzRTY0xQdVpNeXNuaWp4dUgwM0I5eWlYeU80bUxueXFmWnZhSE52b3BoUGlvMmlDZ2c3aHhCMmhiWGdCalZ2T0RaYVVPLThHdndjU3MzNWM3ZV85RGtieFRTcklnTkxsNjFyYjJhWFdqZnpnVlRCNVFWeGtQRU11dw?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "release": "2026-10-28",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Joseph Zada",
+        "Whitney Peak",
+        "Mckenna Grace",
+        "Ben Wang"
+      ],
+      "budget_usd": 150000000,
+      "box_office_usd": 237200000,
+      "scope": "Blockbuster",
+      "verdict": "Modest",
+      "gross_vs_budget": 1.58,
+      "rotten_tomatoes": "68%",
+      "metacritic": "55/100 from 43 critics",
+      "critics_consensus": "A prequel that benefits greatly from spotlighting some of The Hunger Games' most beloved characters, Sunrise on the Reaping retreads familiar territory but sturdily enough for the odds to remain in this franchise's favor.",
+      "critics_overview": "They’ll appreciate this movie for not lying to them.\" In a negative review, Brandon Yu of The New York Times wrote, \"[It] manages to be both bloated and limited. There is a cloistered feeling to its vision of both the games and the wider dystopian world.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q126390739",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+      }
+    }
+  ]
+}

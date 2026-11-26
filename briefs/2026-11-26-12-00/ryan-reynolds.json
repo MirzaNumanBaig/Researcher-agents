@@ -1,0 +1,72 @@
+{
+  "batch": "2026-11-26 12:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lb0hFc0tLNEIweTN1ZlV3dy0ySG9tSzJtYnBzWldTQUhoaHc2UlVxdFpXWTcwM01kVFFaSnJSUnllczNvVW0tRmg3aE5JQUNTeUVJWE9iODFYTVh5TW1LbmtlbGRBel94TWc?oc=5",
+      "published": "2026-11-25T20:19:51+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lb0hFc0tLNEIweTN1ZlV3dy0ySG9tSzJtYnBzWldTQUhoaHc2UlVxdFpXWTcwM01kVFFaSnJSUnllczNvVW0tRmg3aE5JQUNTeUVJWE9iODFYTVh5TW1LbmtlbGRBel94TWc?oc=5",
+          "article_url": "https://www.imdb.com/fr/news/ni66128376/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkxOcEJ6WWFRUWdkLWE4NnFsRVBNOTlySGFnMUstQzA2WlkzeGt3MXluTmJ4cnlRVUppdVo1dDVfdmxSSkhaSGlhU1hjU185NVc1c1lVRkcweTZVd2dzLTJELXpRZm9DS0tuN1lFSHEyUGFKZmltbGVSM1UyMVIxMlVUWHhxVGtta01ZUThEVkhDcTUzZGluYy1WUGpadUdrTk5wLXpDRDJNZHBVb3RwcE5NRldwNUJoYWR2UWpNcVE?oc=5",
+          "article_url": "https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "BowFlex Bets That Ryan Reynolds — and the Rise of Strength Training — Will Fuel Its Comeback",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWM1YnRLZzBVdFhiWV9hODljWC1teGx4VWR0RjdkanFGdEZwd3JFTFlpcHp4NjlaMnFIU2hQbmNtMUNwS1U1QjI1SkxZYU4xWEJ0ci1fdEhSOGROeklZNmZvT29tQmZETHBlMlRoWkxSZDF0N3B4dkZ4TlhOZko3ZHJfSW03NEZxcUtKNno2NjF3SDBYdEtCTWNpb3BBZw?oc=5",
+      "published": "2026-11-25T18:58:07+00:00",
+      "outlets": [
+        {
+          "source": "Athletech News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWM1YnRLZzBVdFhiWV9hODljWC1teGx4VWR0RjdkanFGdEZwd3JFTFlpcHp4NjlaMnFIU2hQbmNtMUNwS1U1QjI1SkxZYU4xWEJ0ci1fdEhSOGROeklZNmZvT29tQmZETHBlMlRoWkxSZDF0N3B4dkZ4TlhOZko3ZHJfSW03NEZxcUtKNno2NjF3SDBYdEtCTWNpb3BBZw?oc=5",
+          "article_url": "https://athletechnews.com/bowflex-ryan-reynolds-don-saladino-strength-training-campaign-comeback/",
+          "image": "https://athletechnews.com/wp-content/uploads/2026/11/BOWFLEX_IMG_0253-RT.webp"
+        }
+      ],
+      "image": "https://athletechnews.com/wp-content/uploads/2026/11/BOWFLEX_IMG_0253-RT.webp",
+      "image_source": "https://athletechnews.com/bowflex-ryan-reynolds-don-saladino-strength-training-campaign-comeback/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

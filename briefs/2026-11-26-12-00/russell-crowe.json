@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-26 12:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "Star of new Russell Crowe film broke his pelvis for the role",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2Y0ZEs2bWhGdzdJLW5JdVNwRlJSdWFoM2tUam15ZDJnbTV6ZHVaYWw3T2ZsQXZZcXJSbjk5UDJmX2dqelRMNzBiekdobGQwbkJVTnVWaGZRalM1eG1xWjFBMlBId09FTExIbEpyUlN2YzFIaWdGYVA3a3BuWmd6elFXZllzSnVYTURGOUhvVGJsZzNmVEZmSWo5cGp5QmlVTnVVSm11UE8zLXQ3eXBWTw?oc=5",
+      "published": "2026-11-25T19:05:40+00:00",
+      "outlets": [
+        {
+          "source": "The Canberra Times",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2Y0ZEs2bWhGdzdJLW5JdVNwRlJSdWFoM2tUam15ZDJnbTV6ZHVaYWw3T2ZsQXZZcXJSbjk5UDJmX2dqelRMNzBiekdobGQwbkJVTnVWaGZRalM1eG1xWjFBMlBId09FTExIbEpyUlN2YzFIaWdGYVA3a3BuWmd6elFXZllzSnVYTURGOUhvVGJsZzNmVEZmSWo5cGp5QmlVTnVVSm11UE8zLXQ3eXBWTw?oc=5",
+          "article_url": "https://www.canberratimes.com.au/story/9229337/russell-crowes-beast-film-was-brutal-on-actor-daniel-macpherson/",
+          "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/231012065/f9de2e90-a665-4d7c-a308-7f2ce6c9afad.jpg/r0_36_1920_1044_w1200_h630_fmax.jpg"
+        }
+      ],
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/231012065/f9de2e90-a665-4d7c-a308-7f2ce6c9afad.jpg/r0_36_1920_1044_w1200_h630_fmax.jpg",
+      "image_source": "https://www.canberratimes.com.au/story/9229337/russell-crowes-beast-film-was-brutal-on-actor-daniel-macpherson/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Unabomber",
+      "release": "2026-09-25",
+      "director": [
+        "Janus Metz Pedersen"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "25%",
+      "metacritic": "46/100 from 18 critics",
+      "critics_consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+      "critics_overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+      }
+    }
+  ]
+}

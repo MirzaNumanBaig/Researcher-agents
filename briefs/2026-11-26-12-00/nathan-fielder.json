@@ -1,0 +1,49 @@
+{
+  "batch": "2026-11-26 12:00",
+  "celebrity": "Nathan Fielder",
+  "stories": [
+    {
+      "title": "His new TV show is Nathan Fielder meets 'Shark Tank' – and it’s all a scam",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWlhMjVGbFJpM1U4Z3VaNXJkcjRiTHhBRkRQRFc4SHFEMkpWRF93QU8yb1pPRTNCU0s2UUNMM0lHdlN2NG10ZWlIQW03Z210eEw5djVZei1VTDFyb2k3Z2NpSDVjV00zeHVDaGdEb2c5dnpldm9EUXFDXzRqNkE0dA?oc=5",
+      "published": "2026-11-25T21:13:51+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWlhMjVGbFJpM1U4Z3VaNXJkcjRiTHhBRkRQRFc4SHFEMkpWRF93QU8yb1pPRTNCU0s2UUNMM0lHdlN2NG10ZWlIQW03Z210eEw5djVZei1VTDFyb2k3Z2NpSDVjV00zeHVDaGdEb2c5dnpldm9EUXFDXzRqNkE0dA?oc=5",
+          "article_url": "https://malaysia.news.yahoo.com/tv-show-nathan-fielder-meets-211351447.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/e0f09eb6ec7bfc30adbc1f08837c8f09001834baa4622c75b21cfdcbaa08dc7b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F6e6f97d90c08cab298b233f05046fa87.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/e0f09eb6ec7bfc30adbc1f08837c8f09001834baa4622c75b21cfdcbaa08dc7b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F6e6f97d90c08cab298b233f05046fa87.jpg",
+      "image_source": "https://malaysia.news.yahoo.com/tv-show-nathan-fielder-meets-211351447.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "You Can See Everything",
+      "release": "2026-09-06",
+      "director": [
+        "Lance Oppenheim",
+        "Nathan Fielder"
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Christopher Abbott"
+      ],
+      "budget_usd": 7000000,
+      "box_office_usd": 105000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 15.0,
+      "rotten_tomatoes": "97%",
+      "metacritic": "97/100 from 52 critics",
+      "critics_consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+      "critics_overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+        "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+      }
+    }
+  ]
+}

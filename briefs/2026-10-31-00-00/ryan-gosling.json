@@ -16,6 +16,50 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "Ryan Gosling's Space Adventure Officially Crowned a Modern Classic by Apple TV",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yYmd3Q1YwNUQtb3NyN1ZRYk1ZclloQ1pWY2wyN1B1OGF6ckNiYW9tQzRWYkROMlRJXzh4dkRsN3l3UlVoa1NUYU9lUWFzZ1ctM0E?oc=5",
+      "published": "2026-11-25T19:23:36+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yYmd3Q1YwNUQtb3NyN1ZRYk1ZclloQ1pWY2wyN1B1OGF6ckNiYW9tQzRWYkROMlRJXzh4dkRsN3l3UlVoa1NUYU9lUWFzZ1ctM0E?oc=5",
+          "article_url": "https://www.imdb.com/de/news/ni66087113/",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "79% from 58 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
     }
   ]
 }

@@ -4,21 +4,6 @@
   "stories": [
     {
       "title": "Ryan Reynolds’ Fan-Favorite Rom-Com Officially Hits Apple TV’s Top 10",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrdkFtcWFHSmIzQUkxZEcwc2NVamV5dmFDZWY0MDFhaTVwQkE2ZE1VcUVJX2FFZjlrcW45cEVpeE9uWTlQNzFkNkFiRDgxYUs2cXhJZXRLX1VDM0lKTVowdFRSMkF2YU0?oc=5",
-      "published": "2026-10-27T02:42:28+00:00",
-      "outlets": [
-        {
-          "source": "IMDb",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrdkFtcWFHSmIzQUkxZEcwc2NVamV5dmFDZWY0MDFhaTVwQkE2ZE1VcUVJX2FFZjlrcW45cEVpeE9uWTlQNzFkNkFiRDgxYUs2cXhJZXRLX1VDM0lKTVowdFRSMkF2YU0?oc=5",
-          "article_url": "https://www.imdb.com/news/ni66081491/?ref_=ttnw_art_perm",
-          "image": ""
-        }
-      ],
-      "image": "",
-      "image_source": ""
-    },
-    {
-      "title": "Ryan Reynolds’ Fan-Favorite Rom-Com Officially Hits Apple TV’s Top 10",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43d0dxWDFiZHI0VUxGRXlZMldWTW82cWhyQTFtV2JLOXRkLXNYOEFHWU1nSTVyc3JZcm9Sa1MyYXRaZm1qb0hHcXJjc21neXdqdkE?oc=5",
       "published": "2026-11-10T17:22:14+00:00",
       "outlets": [
@@ -31,6 +16,36 @@
       ],
       "image": "",
       "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
     }
   ]
 }

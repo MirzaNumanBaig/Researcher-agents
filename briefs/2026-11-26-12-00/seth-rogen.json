@@ -1,0 +1,77 @@
+{
+  "batch": "2026-11-26 12:00",
+  "celebrity": "Seth Rogen",
+  "stories": [
+    {
+      "title": "Seth Rogen Says He ‘Hated' His ‘Dawson's Creek' Experience Due to Tension Between Cast and Showrunners",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mQWRYTHVXRFdwSkJEZnhsckpCa2gweHVMRDlwNzZUc2lDMW5ORFBrb0VJMDRmU3owcDFRUThrbjNjekl1YXN3VnFYdkozT1FaMF80S2RUNmZJeVFCQUpkQVNJOWg5cXBNM21La0JrMnl3SmxIR0RBbkNxdw?oc=5",
+      "published": "2026-11-25T20:02:25+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo Lifestyle Canada",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mQWRYTHVXRFdwSkJEZnhsckpCa2gweHVMRDlwNzZUc2lDMW5ORFBrb0VJMDRmU3owcDFRUThrbjNjekl1YXN3VnFYdkozT1FaMF80S2RUNmZJeVFCQUpkQVNJOWg5cXBNM21La0JrMnl3SmxIR0RBbkNxdw?oc=5",
+          "article_url": "https://ca.style.yahoo.com/seth-rogen-says-hated-dawsons-200225326.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/afb68466e4bedcdfd85533644e594c0f9100a2329a186e5acb961f185d21e576/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fok_magazine_ca_677%2F1ba6e896e9e9b887e79bdc05c8406a8b.png"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/afb68466e4bedcdfd85533644e594c0f9100a2329a186e5acb961f185d21e576/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fok_magazine_ca_677%2F1ba6e896e9e9b887e79bdc05c8406a8b.png",
+      "image_source": "https://ca.style.yahoo.com/seth-rogen-says-hated-dawsons-200225326.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Wrong Girls",
+      "release": "2026-08-14",
+      "director": [
+        "Dylan Meyer"
+      ],
+      "cast": [
+        "Alia Shawkat",
+        "LaKeith Stanfield",
+        "Zack Fox",
+        "Tony Hale",
+        "Kumail Nanjiani"
+      ],
+      "budget_usd": null,
+      "box_office_usd": 887116,
+      "scope": "",
+      "verdict": "Grossed $887k",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "61%",
+      "metacritic": "59/100 from 20 critics",
+      "critics_consensus": "Proudly stupid and surprisingly sweet, The Wrong Girls coasts on Kristen Stewart and Alia Shawkat's chemistry, even as its barrage of stoner gags produces more genial laughs than truly memorable ones.",
+      "critics_overview": "Archived from the original on August 15, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132560837",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wrong_Girls"
+      }
+    },
+    {
+      "title": "Babies",
+      "release": "2026-09-12",
+      "director": [
+        "Lauren Miller"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Seth Rogen",
+        "Issa Rae",
+        "Dan Stevens",
+        "Zach Cherry"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "88%",
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137380437",
+        "wikipedia": "https://en.wikipedia.org/wiki/Babies_(2026_film)"
+      }
+    }
+  ]
+}
