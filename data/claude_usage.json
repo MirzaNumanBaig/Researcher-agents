@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T09:26:18+00:00",
-   "batch": "2026-11-12 20:00",
-   "celebrity": "Chris Hemsworth",
-   "article": "2026-11-12-20-00-chris-hemsworth.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 4357,
-   "cache_read_tokens": 227126,
-   "cache_write_tokens": 36328,
-   "turns": 10,
-   "seconds": 34,
-   "cost_usd": 0.2118
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T09:28:58+00:00",
    "batch": "2026-11-12 20:00",
    "celebrity": "Connor Storrie",
@@ -23999,6 +23983,22 @@
    "turns": 8,
    "seconds": 28,
    "cost_usd": 0.1996
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T02:45:27+00:00",
+   "batch": "2026-11-25 22:00",
+   "celebrity": "Scarlett Johansson",
+   "article": "2026-11-25-22-00-scarlett-johansson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 1080,
+   "cache_read_tokens": 83162,
+   "cache_write_tokens": 24324,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.1166
   }
  ]
 }
