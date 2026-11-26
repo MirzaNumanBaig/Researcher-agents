@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T01:56:55+00:00",
-   "batch": "2026-11-12 12:00",
-   "celebrity": "Margot Robbie",
-   "article": "2026-11-12-12-00-margot-robbie.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 4385,
-   "cache_read_tokens": 159822,
-   "cache_write_tokens": 28549,
-   "turns": 9,
-   "seconds": 31,
-   "cost_usd": 0.1742
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T01:58:53+00:00",
    "batch": "2026-11-12 12:00",
    "celebrity": "Mckenna Grace",
@@ -23999,6 +23983,22 @@
    "turns": 9,
    "seconds": 34,
    "cost_usd": 0.1868
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T02:06:09+00:00",
+   "batch": "2026-11-26 12:00",
+   "celebrity": "Jim Carrey",
+   "article": "2026-11-26-12-00-jim-carrey.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4280,
+   "cache_read_tokens": 128424,
+   "cache_write_tokens": 31389,
+   "turns": 7,
+   "seconds": 30,
+   "cost_usd": 0.1814
   }
  ]
 }
