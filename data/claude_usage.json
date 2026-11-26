@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T18:53:54+00:00",
-   "batch": "2026-11-13 04:00",
-   "celebrity": "Nitesh Tiwari",
-   "article": "2026-11-13-04-00-nitesh-tiwari.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 4959,
-   "cache_read_tokens": 161940,
-   "cache_write_tokens": 29824,
-   "turns": 8,
-   "seconds": 35,
-   "cost_usd": 0.1852
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T18:56:33+00:00",
    "batch": "2026-11-13 04:00",
    "celebrity": "Ravi Dubey",
@@ -23999,6 +23983,22 @@
    "turns": 8,
    "seconds": 31,
    "cost_usd": 0.2162
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T20:35:50+00:00",
+   "batch": "2026-11-27 06:00",
+   "celebrity": "Justine Lupe",
+   "article": "2026-11-27-06-00-justine-lupe.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 2914,
+   "cache_read_tokens": 118156,
+   "cache_write_tokens": 24441,
+   "turns": 7,
+   "seconds": 21,
+   "cost_usd": 0.1389
   }
  ]
 }
