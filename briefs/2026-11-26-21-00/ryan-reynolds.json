@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-26 21:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Ryan Reynolds Reveals Why He ‘Soft Parents’ His 4 Kids: ‘No Yelling or Punishments’",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYy1fQTl6QkM3OE1EUXMzRkxCQUZ3cjJmMGRGS2ZyNzR3TnIzUEVyNkFpa0hqNmVwZDBQMkI2SEdZM2xtZjBZZFl4dW1uSjN2QTRSOG9FU2t3MGdibkR6WmhmMHY3QlhOVVRyWVZoMGJpNG5DaHMycXg2TU9RTG1NQ2dFcV9yQUVocDdMZHQyTWJvQi1kbU9od3o2U3pROWhyZ0IyLXZMMVMyTjNHRlpUTg?oc=5",
+      "published": "2026-11-26T04:19:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYy1fQTl6QkM3OE1EUXMzRkxCQUZ3cjJmMGRGS2ZyNzR3TnIzUEVyNkFpa0hqNmVwZDBQMkI2SEdZM2xtZjBZZFl4dW1uSjN2QTRSOG9FU2t3MGdibkR6WmhmMHY3QlhOVVRyWVZoMGJpNG5DaHMycXg2TU9RTG1NQ2dFcV9yQUVocDdMZHQyTWJvQi1kbU9od3o2U3pROWhyZ0IyLXZMMVMyTjNHRlpUTg?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ryan-reynolds-reveals-why-soft-041905168.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/74fc809e7b261f42d836981d5a6ac3b3f5af7bb84f7a25cbcc9f866893c41e08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2F335831bb14dd6461b369db034266af59.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/74fc809e7b261f42d836981d5a6ac3b3f5af7bb84f7a25cbcc9f866893c41e08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2F335831bb14dd6461b369db034266af59.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ryan-reynolds-reveals-why-soft-041905168.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

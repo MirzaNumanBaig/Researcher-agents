@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-26 21:00",
+  "celebrity": "Street Fighter",
+  "stories": [
+    {
+      "title": "Street Fighter | Audience Reviews",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWlybUo2Q0J1cXJGUkxHRlRCWkFTWGJIcHRSVjFCa1gzalItVTZUYVFKWWVYNFk0RE9yN1B4RXExSlRQQkJSQnVkN3haclZrdnEyZUJMLWRGOHJoNUQwaG1lTjM3NWxHcTBKeElRWUtNZUJKSG1fZ3IwQmo0ZlNnUEdEU0U?oc=5",
+      "published": "2026-11-25T04:10:37+00:00",
+      "outlets": [
+        {
+          "source": "Rotten Tomatoes",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWlybUo2Q0J1cXJGUkxHRlRCWkFTWGJIcHRSVjFCa1gzalItVTZUYVFKWWVYNFk0RE9yN1B4RXExSlRQQkJSQnVkN3haclZrdnEyZUJMLWRGOHJoNUQwaG1lTjM3NWxHcTBKeElRWUtNZUJKSG1fZ3IwQmo0ZlNnUEdEU0U?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Street Fighter",
+      "release": "2026-10-12",
+      "director": [
+        "Kitao Sakurai"
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Cody Rhodes",
+        "Orville Peck"
+      ],
+      "budget_usd": 82000000,
+      "box_office_usd": 102500000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.25,
+      "rotten_tomatoes": "42%",
+      "metacritic": "43/100 from 28 critics",
+      "critics_consensus": "The latest iteration of Street Fighter has plenty of affection for its source material and doesn't lack for dizzying style, but its incoherent storytelling and juvenile humor make for a disappointing regression among video game adaptations.",
+      "critics_overview": "It received a 65% definite recommend for children under 12. The audience was 30% Latino and Hispanic, 29% Caucasian, 21% Black, 14% Asian American and 6% Native American or Other.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q130345436",
+        "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+      }
+    }
+  ]
+}
