@@ -76,6 +76,27 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "What watch will Robert Pattinson wear as James Bond?",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeEdJdGZ5UFhEZlhtSkVTLUQ1a0VOREhzcElQeEpyeU9SZ3BFVTBKdlFlYktlaDdBenlQTndrbGoyRDFFeEdoaFBoaGYtUkE3S1BvZXFsY2kwQm1rUUR3c0E1UVg2MWYtVnFwbUJJNWxUZnRRM1BaV3FtcnpRbVhqUQ?oc=5",
+      "published": "2026-11-26T15:47:53+00:00",
+      "outlets": [
+        {
+          "source": "Vogue Scandinavia",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeEdJdGZ5UFhEZlhtSkVTLUQ1a0VOREhzcElQeEpyeU9SZ3BFVTBKdlFlYktlaDdBenlQTndrbGoyRDFFeEdoaFBoaGYtUkE3S1BvZXFsY2kwQm1rUUR3c0E1UVg2MWYtVnFwbUJJNWxUZnRRM1BaV3FtcnpRbVhqUQ?oc=5",
+          "article_url": "https://www.voguescandinavia.com/articles/robert-pattinson-james-bond-watch",
+          "image": "https://images.vs-static.com/BV0zF8RLGpDSvGaG93CX8jZIYKg=/0x41:960x581/750x0/James_Bond_Watches_1_5a37ac2a84/James_Bond_Watches_1_5a37ac2a84.jpeg"
+        },
+        {
+          "source": "Nacionale",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFRLb1BUQm92bXFwUW1LZkF0M01iZWRkRDR0TWtUOFdkdl9FOUVvT0M1czlKbVU0NTlfc0MybnZFQVo4akdsZElORU5pblNfY3ozVDlZdVpRcnBrSWtrMDloQ3VSQ2lZelZ3ZU4wVjRyUmgwODM2dGNFWXl0NXA1VWhGd0ZQUUdSLVNOcUZ0RVlTakIyZkY2Um5jSkRGdHdBcmM3a04xMnp6V3JmYnBzS2ln?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "https://images.vs-static.com/BV0zF8RLGpDSvGaG93CX8jZIYKg=/0x41:960x581/750x0/James_Bond_Watches_1_5a37ac2a84/James_Bond_Watches_1_5a37ac2a84.jpeg",
+      "image_source": "https://www.voguescandinavia.com/articles/robert-pattinson-james-bond-watch"
     }
   ],
   "film_facts": [
@@ -120,10 +141,10 @@
         "Skyler Gisondo"
       ],
       "budget_usd": 14500000,
-      "box_office_usd": 62000000,
+      "box_office_usd": 64200000,
       "scope": "Indie / low budget",
       "verdict": "Hit",
-      "gross_vs_budget": 4.28,
+      "gross_vs_budget": 4.43,
       "rotten_tomatoes": "86%",
       "metacritic": "68/100 from 54 critics",
       "critics_consensus": "Turning the camera's scrutinizing eye back onto To Catch a Predator's journalistic legacy, Primetime interrogates the slippery boundary between justice and lurid spectacle with crackling style and an outstanding Robert Pattinson.",

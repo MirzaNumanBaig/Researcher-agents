@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-27 06:00",
+  "celebrity": "Druski",
+  "stories": [
+    {
+      "title": "Druski Tackles Spicy Wings on Hot Ones",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTlhqTXR3NE9leDdEX0JlRlJQMnNHN1Nad2hFbFlhVnZzaUlLMG5tVGZtaWl6RlMxN0NoZzVYQWhWdnRSWVZ4cklRQ0czU0YyQnJ3NkRxc3V1VEdGcUFrNjF5czMtcnRONVpnRzJJbXlEdGRTRTkxOUlkMkQ2eUdManphcF9oQQ?oc=5",
+      "published": "2026-11-26T18:15:05+00:00",
+      "outlets": [
+        {
+          "source": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTlhqTXR3NE9leDdEX0JlRlJQMnNHN1Nad2hFbFlhVnZzaUlLMG5tVGZtaWl6RlMxN0NoZzVYQWhWdnRSWVZ4cklRQ0czU0YyQnJ3NkRxc3V1VEdGcUFrNjF5czMtcnRONVpnRzJJbXlEdGRTRTkxOUlkMkQ2eUdManphcF9oQQ?oc=5",
+          "article_url": "https://wisevoter.com/world/us/2026/11/26/druski-hot-ones-spicy-wing-appearance",
+          "image": "https://images.highwise.com/stories/440194-1795715930810.jpg"
+        }
+      ],
+      "image": "https://images.highwise.com/stories/440194-1795715930810.jpg",
+      "image_source": "https://wisevoter.com/world/us/2026/11/26/druski-hot-ones-spicy-wing-appearance"
+    },
+    {
+      "title": "Druski's 'Hot Ones' is a glasses-fogging Thanksgiving treat",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UNFNVZ3I1blRNNHdiNmtuZkpDQTctNWZKX0JLZGxVMTlBcDBRTzRSeWx3V2NjRzhnR1d5a1FmcFcwUzhNQlI5QnZhaWNrQ3MzQUpF?oc=5",
+      "published": "2026-11-26T16:55:55+00:00",
+      "outlets": [
+        {
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UNFNVZ3I1blRNNHdiNmtuZkpDQTctNWZKX0JLZGxVMTlBcDBRTzRSeWx3V2NjRzhnR1d5a1FmcFcwUzhNQlI5QnZhaWNrQ3MzQUpF?oc=5",
+          "article_url": "https://mashable.com/life/druski-hot-ones",
+          "image": "https://helios-i.mashable.com/imagery/videos/02Pqz1OgO3FwQkCywcTZN0n/hero-image.fill.size_1200x675.v1795712101.png"
+        }
+      ],
+      "image": "https://helios-i.mashable.com/imagery/videos/02Pqz1OgO3FwQkCywcTZN0n/hero-image.fill.size_1200x675.v1795712101.png",
+      "image_source": "https://mashable.com/life/druski-hot-ones"
+    },
+    {
+      "title": "Druski Hits a Wall While Eating Spicy Wings",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFNseWMxZ2NfcENfYjRNUXMxc1Q1ME82YTVDaUtraF9kdi1naHN2b2tMb0FtLUVITkVoRW5ZVVc0Z2xIZ1lybUVFSGtDWUZGakw4RC1EaVMxeHJGdUJqWmh5QjZmQ3FlV2FmX2VUS2oyaDRNQzduczQydVN2aHpMcndOXy1tSldaa29zSHEyYlQ?oc=5",
+      "published": "2026-11-26T16:55:16+00:00",
+      "outlets": [
+        {
+          "source": "FirstWeFeast",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFNseWMxZ2NfcENfYjRNUXMxc1Q1ME82YTVDaUtraF9kdi1naHN2b2tMb0FtLUVITkVoRW5ZVVc0Z2xIZ1lybUVFSGtDWUZGakw4RC1EaVMxeHJGdUJqWmh5QjZmQ3FlV2FmX2VUS2oyaDRNQzduczQydVN2aHpMcndOXy1tSldaa29zSHEyYlQ?oc=5",
+          "article_url": "https://firstwefeast.com/blogs/lead-gallery/druski-hits-a-wall-while-eating-spicy-wings",
+          "image": "https://firstwefeast.com/cdn/shop/articles/HO_DRUSKI_TH_NOLOGO.jpg?v=1795712019"
+        }
+      ],
+      "image": "https://firstwefeast.com/cdn/shop/articles/HO_DRUSKI_TH_NOLOGO.jpg?v=1795712019",
+      "image_source": "https://firstwefeast.com/blogs/lead-gallery/druski-hits-a-wall-while-eating-spicy-wings"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-08 04:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ryan Gosling And Zach Shields Revive Dead Man’s Bones After 17 Year Hiatus",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSW1nR0dJUm9vVUZEaDMyNm8zd0o5dEpvMm5rN2lOX2ZLYmhvSDZ2V3d1Y2RueWNlNUg2bWs3dFBHWnpna29hbDRJOXgyUGxjZHBZaUpLbmVha2tHUUh3R083WFpERUlLYUNLN1ZtSGNVeWtXb0tYODJoSGpSQldwbmFhRDhOenVnanc?oc=5",
+      "published": "2026-11-07T12:02:54+00:00",
+      "outlets": [
+        {
+          "source": "music is to blame.",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSW1nR0dJUm9vVUZEaDMyNm8zd0o5dEpvMm5rN2lOX2ZLYmhvSDZ2V3d1Y2RueWNlNUg2bWs3dFBHWnpna29hbDRJOXgyUGxjZHBZaUpLbmVha2tHUUh3R083WFpERUlLYUNLN1ZtSGNVeWtXb0tYODJoSGpSQldwbmFhRDhOenVnanc?oc=5",
+          "article_url": "https://www.musicistoblame.co.uk/2026/11/ryan-gosling-and-zach-shields-revive.html",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuS-pPc3oxIr_hlHQsRcb1CG0x5LNDpHUtGAwZQcPlw38c3GNRM4ME5P0fqCwBmv-Wxvro-PhCu66wYC0c0_rlk7NjBDuF3tWKQ4QYsRlACamqchE3GSy0M6NC-fRtmKv2wRtw2AVlirKG7Befm3iES5KAbC1rNmd9O8-EWJUGPIWUPgLPBMv8DBZt9K_/w1200-h630-p-k-no-nu/Dead%20Man's%20Bones%20-%20Lost%20In%20The%20Night%20Cover%20Art.jpg"
+        }
+      ],
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuS-pPc3oxIr_hlHQsRcb1CG0x5LNDpHUtGAwZQcPlw38c3GNRM4ME5P0fqCwBmv-Wxvro-PhCu66wYC0c0_rlk7NjBDuF3tWKQ4QYsRlACamqchE3GSy0M6NC-fRtmKv2wRtw2AVlirKG7Befm3iES5KAbC1rNmd9O8-EWJUGPIWUPgLPBMv8DBZt9K_/w1200-h630-p-k-no-nu/Dead%20Man's%20Bones%20-%20Lost%20In%20The%20Night%20Cover%20Art.jpg",
+      "image_source": "https://www.musicistoblame.co.uk/2026/11/ryan-gosling-and-zach-shields-revive.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "79% from 58 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

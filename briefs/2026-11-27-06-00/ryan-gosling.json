@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-27 06:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Report Card: Brad Pitt vs. Ryan Gosling",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10enJydnVlUm42ZUdGUTNDWGFhaTBQQ0U3UjZ0ZVp5eDRrSVNvUkdnTDRPRWRKeUdxVWhfNjlYdUNOT09wTVZxWXAxUGRxdVRwcFdVX3d5QkdMNTR6aVAyZ0pITXV4UXRXVm1sWWVn?oc=5",
+      "published": "2026-11-25T12:56:47+00:00",
+      "outlets": [
+        {
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10enJydnVlUm42ZUdGUTNDWGFhaTBQQ0U3UjZ0ZVp5eDRrSVNvUkdnTDRPRWRKeUdxVWhfNjlYdUNOT09wTVZxWXAxUGRxdVRwcFdVX3d5QkdMNTR6aVAyZ0pITXV4UXRXVm1sWWVn?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "79% from 58 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

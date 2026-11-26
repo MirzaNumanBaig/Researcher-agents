@@ -1,0 +1,46 @@
+{
+  "batch": "2026-11-27 06:00",
+  "celebrity": "Renate Reinsve",
+  "stories": [
+    {
+      "title": "Renate Reinsve and Louis Vuitton, A Red-Carpet Match Made in Heaven!",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlZhbHRGMXVhOUdMRnFjZ05tQWgtS2hIWXQ4WHRUdFQ4UzBYTVhzLXlLVmFPUndIWWN4eWptaC1iMVlaRzdJZFBqd2U4Y2pQWlZGeU9SdTJtN01VV2RUZTdLeFFKZkJnVDZaRkdwbEp6dkc3c3lrS2NTb0tkeHA2RUVVa0p3N2U0MTdTWnBNM244dUQw?oc=5",
+      "published": "2026-11-26T11:27:00+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlZhbHRGMXVhOUdMRnFjZ05tQWgtS2hIWXQ4WHRUdFQ4UzBYTVhzLXlLVmFPUndIWWN4eWptaC1iMVlaRzdJZFBqd2U4Y2pQWlZGeU9SdTJtN01VV2RUZTdLeFFKZkJnVDZaRkdwbEp6dkc3c3lrS2NTb0tkeHA2RUVVa0p3N2U0MTdTWnBNM244dUQw?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Butterfly",
+      "release": "2026-09-25",
+      "director": [
+        "Itonje Søimer Guttormsen"
+      ],
+      "cast": [
+        "Renate Reinsve",
+        "Numan Acar"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141559767"
+      }
+    }
+  ]
+}

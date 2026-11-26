@@ -16,6 +16,50 @@
       ],
       "image": "https://www.joblo.com/wp-content/uploads/2026/03/the-weight-release.jpg",
       "image_source": "https://www.joblo.com/the-weight-release/"
+    },
+    {
+      "title": "Russell Crowe’s ‘Mindhunter’ Replacement Officially Loses Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVHVkbkVtbWN4Z1djU0NCeWZROG5CaDRNSWZlakxSZEd5anFjZG95YTUyRWhUdzBHUUU3bkR3OFJyV3M4V2ZQLXNWbDc3MDR4aXVzdEZfVjM0S09QSnIyRTJRVkk?oc=5",
+      "published": "2026-10-27T20:46:18+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVHVkbkVtbWN4Z1djU0NCeWZROG5CaDRNSWZlakxSZEd5anFjZG95YTUyRWhUdzBHUUU3bkR3OFJyV3M4V2ZQLXNWbDc3MDR4aXVzdEZfVjM0S09QSnIyRTJRVkk?oc=5",
+          "article_url": "https://www.imdb.com/it/news/ni66082330/?ref_=nm_nwr_1",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Unabomber",
+      "release": "2026-09-25",
+      "director": [
+        "Janus Metz Pedersen"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "25%",
+      "metacritic": "46/100 from 18 critics",
+      "critics_consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+      "critics_overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+      }
     }
   ]
 }

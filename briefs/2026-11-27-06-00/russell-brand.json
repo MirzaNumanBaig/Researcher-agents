@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-27 06:00",
+  "celebrity": "Russell Brand",
+  "stories": [
+    {
+      "title": "Russell Brand and the ‘blokeification’ of Christianity",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3l6N2c2ZU45MWRYSUNzU2U2MkdOR2xENUVBRXdURDFDQ1FCb2hFdGNJS05PM0xoYzRXUUhvY1RyeEVLZ0EzVWtiUFoySF8ySjJLVWFubXl3amswZkFhV2FmODh5SHJLY3hUTXlUX1lmTnByY2FuMTMzbTZUMlhxVVdxX3VESFVkblY2S21fcFg?oc=5",
+      "published": "2026-11-26T15:13:19+00:00",
+      "outlets": [
+        {
+          "source": "The Conversation",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3l6N2c2ZU45MWRYSUNzU2U2MkdOR2xENUVBRXdURDFDQ1FCb2hFdGNJS05PM0xoYzRXUUhvY1RyeEVLZ0EzVWtiUFoySF8ySjJLVWFubXl3amswZkFhV2FmODh5SHJLY3hUTXlUX1lmTnByY2FuMTMzbTZUMlhxVVdxX3VESFVkblY2S21fcFg?oc=5",
+          "article_url": "https://theconversation.com/russell-brand-and-the-blokeification-of-christianity-297580",
+          "image": "https://images.theconversation.com/files/774578/original/file-20261126-62-h7mqm4.jpg?ixlib=rb-4.1.1&rect=490%2C160%2C5845%2C2922&q=45&auto=format&w=1356&h=668&fit=crop"
+        }
+      ],
+      "image": "https://images.theconversation.com/files/774578/original/file-20261126-62-h7mqm4.jpg?ixlib=rb-4.1.1&rect=490%2C160%2C5845%2C2922&q=45&auto=format&w=1356&h=668&fit=crop",
+      "image_source": "https://theconversation.com/russell-brand-and-the-blokeification-of-christianity-297580"
+    },
+    {
+      "title": "‘I think I’d rather hear more from Russell Brand.’",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORF9URTRaUGlNTUc2UkNQMFdNRGJid0lGTExjak5vSW5ybjZoZGJIQ2wtY1VJTEtNaXRTVEp2Rl9KNDdTck9LRjBqQVFzTE9FeXhmMzB6Wld0TzNEWE83UHU1NWdGd0xsSXFTdjNDeDFjWV9zRnNRV19KM056OE9VZUxzNUY5QlJmTE1GZw?oc=5",
+      "published": "2026-11-26T12:03:58+00:00",
+      "outlets": [
+        {
+          "source": "The Spectator Australia",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORF9URTRaUGlNTUc2UkNQMFdNRGJid0lGTExjak5vSW5ybjZoZGJIQ2wtY1VJTEtNaXRTVEp2Rl9KNDdTck9LRjBqQVFzTE9FeXhmMzB6Wld0TzNEWE83UHU1NWdGd0xsSXFTdjNDeDFjWV9zRnNRV19KM056OE9VZUxzNUY5QlJmTE1GZw?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Protect Young Women From the Next Russell Brand",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHNLdk1QbGotM1BiUnFHWUt4aFZFNlp4V01KQW9oVHc2OGpzSG9SNUNWMVlRbTF1QTVhRENZY2JtQ2RGN2xQMEs1YnpwcHNSQUxnb0FTQXp3aVZJNGxabUZIR05OVGJhV3FCMnpLaV9Qd0swWUhLcTZjNnNpNzVRdTAxNHJ6M0VTZHN0enpqanJURkVROHBWcUhNR1g2dmhaVnNGNTJyOWZJeV9iZUhNSEI4NA?oc=5",
+      "published": "2026-11-26T05:00:00+00:00",
+      "outlets": [
+        {
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHNLdk1QbGotM1BiUnFHWUt4aFZFNlp4V01KQW9oVHc2OGpzSG9SNUNWMVlRbTF1QTVhRENZY2JtQ2RGN2xQMEs1YnpwcHNSQUxnb0FTQXp3aVZJNGxabUZIR05OVGJhV3FCMnpLaV9Qd0swWUhLcTZjNnNpNzVRdTAxNHJ6M0VTZHN0enpqanJURkVROHBWcUhNR1g2dmhaVnNGNTJyOWZJeV9iZUhNSEI4NA?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}

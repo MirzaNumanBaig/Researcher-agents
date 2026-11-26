@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-27 06:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "The Weight: Ethan Hawke and Russell Crowe cross the Bavarian Forest in a survival thriller",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjF2MDNWR2RCSzM2MUljMXV4bTRwN2xFMUktRGhDSUV5NkZZQWhMMlNWQkdLSFBmRWV0dDRqLXRiNmVRbkFwbDM1MUxVVDBKYkt3Z3dVWEJ0RHZGUXQ0bWM2MlRBS05YNkNuN3lRYkQtSk56eU5oR1htQndXTGl0aXhfZFFIeE1YRnYteTVVT0ZydXZFT3FYUFFCSVNBQ2JXeDNzN01BZk1fVUZpRDBZaTdB?oc=5",
+      "published": "2026-11-26T16:36:09+00:00",
+      "outlets": [
+        {
+          "source": "Foro3D",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjF2MDNWR2RCSzM2MUljMXV4bTRwN2xFMUktRGhDSUV5NkZZQWhMMlNWQkdLSFBmRWV0dDRqLXRiNmVRbkFwbDM1MUxVVDBKYkt3Z3dVWEJ0RHZGUXQ0bWM2MlRBS05YNkNuN3lRYkQtSk56eU5oR1htQndXTGl0aXhfZFFIeE1YRnYteTVVT0ZydXZFT3FYUFFCSVNBQ2JXeDNzN01BZk1fVUZpRDBZaTdB?oc=5",
+          "article_url": "https://foro3d.com/en/2026/noviembre/the-weight-ethan-hawke-y-russell-crowe-cruzan-el-bosque-bavaro-en-un-t.html",
+          "image": "https://foro3d.com/2026/noviembre/imagenes/the-weight-ethan-hawke-y-russell-crowe-cruzan-el-bosque-bavaro-en-un-t.webp"
+        }
+      ],
+      "image": "https://foro3d.com/2026/noviembre/imagenes/the-weight-ethan-hawke-y-russell-crowe-cruzan-el-bosque-bavaro-en-un-t.webp",
+      "image_source": "https://foro3d.com/en/2026/noviembre/the-weight-ethan-hawke-y-russell-crowe-cruzan-el-bosque-bavaro-en-un-t.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Unabomber",
+      "release": "2026-09-25",
+      "director": [
+        "Janus Metz Pedersen"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "25%",
+      "metacritic": "46/100 from 18 critics",
+      "critics_consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+      "critics_overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+      }
+    }
+  ]
+}
