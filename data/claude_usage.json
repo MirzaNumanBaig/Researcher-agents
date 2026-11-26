@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T18:25:40+00:00",
-   "batch": "2026-11-13 04:00",
-   "celebrity": "Jacob Elordi",
-   "article": "2026-11-13-04-00-jacob-elordi.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 6,
-   "output_tokens": 986,
-   "cache_read_tokens": 76197,
-   "cache_write_tokens": 19534,
-   "turns": 6,
-   "seconds": 15,
-   "cost_usd": 0.0958
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T18:28:40+00:00",
    "batch": "2026-11-13 04:00",
    "celebrity": "James Blunt",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 24,
    "cost_usd": 0.1667
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T20:14:53+00:00",
+   "batch": "2026-11-27 06:00",
+   "celebrity": "Chris Hemsworth",
+   "article": "2026-11-27-06-00-chris-hemsworth.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 1712,
+   "cache_read_tokens": 244072,
+   "cache_write_tokens": 39055,
+   "turns": 9,
+   "seconds": 15,
+   "cost_usd": 0.1979
   }
  ]
 }
