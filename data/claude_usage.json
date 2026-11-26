@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T10:15:09+00:00",
-   "batch": "2026-11-12 20:00",
-   "celebrity": "Zara Larsson",
-   "article": "2026-11-12-20-00-zara-larsson.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1078,
-   "cache_read_tokens": 112512,
-   "cache_write_tokens": 20790,
-   "turns": 7,
-   "seconds": 13,
-   "cost_usd": 0.1054
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T10:17:01+00:00",
    "batch": "2026-11-11 04:00",
    "celebrity": "Scarlett Johansson",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 24,
    "cost_usd": 0.1477
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T10:54:32+00:00",
+   "batch": "2026-11-26 21:00",
+   "celebrity": "Michael Cera",
+   "article": "2026-11-26-21-00-michael-cera.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 1076,
+   "cache_read_tokens": 116898,
+   "cache_write_tokens": 21719,
+   "turns": 7,
+   "seconds": 9,
+   "cost_usd": 0.1095
   }
  ]
 }
