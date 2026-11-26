@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T01:53:25+00:00",
-   "batch": "2026-11-12 12:00",
-   "celebrity": "Keanu Reeves",
-   "article": "2026-11-12-12-00-keanu-reeves.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 4872,
-   "cache_read_tokens": 220327,
-   "cache_write_tokens": 33584,
-   "turns": 10,
-   "seconds": 36,
-   "cost_usd": 0.2053
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T01:54:35+00:00",
    "batch": "2026-11-12 12:00",
    "celebrity": "Kylie Minogue",
@@ -23999,6 +23983,22 @@
    "turns": 9,
    "seconds": 15,
    "cost_usd": 0.14
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T02:02:04+00:00",
+   "batch": "2026-11-26 12:00",
+   "celebrity": "Jacob Elordi",
+   "article": "2026-11-26-12-00-jacob-elordi.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 1177,
+   "cache_read_tokens": 118894,
+   "cache_write_tokens": 22679,
+   "turns": 7,
+   "seconds": 12,
+   "cost_usd": 0.1145
   }
  ]
 }
