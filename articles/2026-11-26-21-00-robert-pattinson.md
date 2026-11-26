@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond: Charlie Cox Told 'Too Old'"
 seo_description: "Robert Pattinson Bond casting still draws reaction: Charlie Cox says he was told he was too old, while Bond girl rumours and jokes keep circulating."
 focus_keyword: "Robert Pattinson Bond"
 permalink: "robert-pattinson-bond-charlie-cox-too-old"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 21:00"
 celebrity: "Robert Pattinson"
@@ -17,6 +17,15 @@ sources:
   - "https://www.radiotimes.com/movies/james-bond-girl-cast-denis-villeneuve-comment/"
   - "https://www.yahoo.com/entertainment/celebrity/articles/m-deeply-afraid-inde-navarrette-072237469.html"
   - "https://au.lifestyle.yahoo.com/dame-judi-dench-reacts-robert-140000085.html"
+image: "images/2026-11-26-21-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Actor Robert Pattinson at the 75th Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65808.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3799
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-21-00-robert-pattinson-768x432.webp"
+wp_id: 3800
+wp_link: "https://moduscarry.com/robert-pattinson-bond-charlie-cox-too-old/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

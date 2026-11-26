@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki Cliff Booth: Fincher, Fashion, Balcony Scene"
 seo_description: "Elizabeth Debicki on Cliff Booth: her take on David Fincher and the balcony scene, plus her Valentino and Altuzarra looks at the London events."
 focus_keyword: "Elizabeth Debicki Cliff Booth"
 permalink: "elizabeth-debicki-cliff-booth"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 21:00"
 celebrity: "Elizabeth Debicki"
@@ -17,6 +17,15 @@ sources:
   - "https://demokratis.co.id/en/debicki-valentino-london-premiere"
   - "https://demokratis.co.id/en/elizabeth-debicki-altuzarra-animal-print"
   - "https://www.redcarpet-fashionawards.com/2026/11/25/elizabeth-debicki-takes-another-walk-on-the-wild-side/"
+image: "images/2026-11-26-21-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki on Fincher, Cliff Booth and That Balcony Scene"
+image_credit: "Image: <a href=\"https://demokratis.co.id/en/elizabeth-debicki-altuzarra-animal-print\" rel=\"nofollow noopener\">Demokratis.co.id</a> (cropped)"
+wp_media_id: 3789
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-21-00-elizabeth-debicki-768x432.webp"
+wp_id: 3790
+wp_link: "https://moduscarry.com/elizabeth-debicki-cliff-booth-3/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

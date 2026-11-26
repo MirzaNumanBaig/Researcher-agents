@@ -28,6 +28,7 @@ wp_id: 3708
 wp_link: "https://moduscarry.com/robert-pattinson-bond-reaction-2/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

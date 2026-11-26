@@ -5,7 +5,7 @@ seo_title: "Wild Horse Nine Box Office: McDonagh Film Loses 1,000 Screens"
 seo_description: "Wild Horse Nine box office slips as Martin McDonagh's spy film loses 1,000 US theatres in its fourth weekend. See the numbers and what comes next."
 focus_keyword: "Wild Horse Nine box office"
 permalink: "wild-horse-nine-box-office"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 21:00"
 celebrity: "Martin McDonagh"
@@ -14,6 +14,15 @@ tags: ["Martin McDonagh", "Wild Horse Nine", "Sam Rockwell"]
 image_prompt: "A quiet cinema foyer at dusk with a lit poster frame, rows of empty seats visible through the doors, warm amber light."
 sources:
   - "https://collider.com/sam-rockwell-wild-horse-nine-removed-from-1000-theaters/"
+image: "images/2026-11-26-21-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Martin McDonagh, director, at 82nd Venice International Film Festival in Venice, Italy for the film Wild Horse Nine."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7.jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3793
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-21-00-martin-mcdonagh-768x432.webp"
+wp_id: 3794
+wp_link: "https://moduscarry.com/wild-horse-nine-box-office-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett A Kidman Carol: Off-Broadway Comedy"
 seo_description: "Cate Blanchett is the Scrooge of A Kidman Carol, a new off-Broadway play in which Nicole Kidman haunts her. Here is how the comedy came together."
 focus_keyword: "Cate Blanchett A Kidman Carol"
 permalink: "cate-blanchett-a-kidman-carol"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-26 21:00"
 celebrity: "Cate Blanchett"
@@ -14,6 +14,15 @@ tags: ["Cate Blanchett", "Nicole Kidman"]
 image_prompt: "An empty small off-Broadway theatre stage with a lone armchair, a golden statuette on a side table and warm winter lights"
 sources:
   - "https://www.vogue.com/article/marla-mindelle-josh-sharp-and-kevin-zak-a-kidman-carol"
+image: "images/2026-11-26-21-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Bernadette Fox, protagonist of the film version of Where'd You Go, Bernadette , played by Cate Blanchett"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Bernadette_Fox.jpg\" rel=\"noopener\">DV.Pranu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Bernadette_Fox.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3785
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-26-21-00-cate-blanchett-768x432.webp"
+wp_id: 3786
+wp_link: "https://moduscarry.com/cate-blanchett-a-kidman-carol/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

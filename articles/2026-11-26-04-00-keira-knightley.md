@@ -23,6 +23,7 @@ wp_id: 3700
 wp_link: "https://moduscarry.com/keira-knightley-waitrose-christmas-ad/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
