@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T02:21:59+00:00",
-   "batch": "2026-11-12 12:00",
-   "celebrity": "Sam Rockwell",
-   "article": "2026-11-12-12-00-sam-rockwell.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 4352,
-   "cache_read_tokens": 152531,
-   "cache_write_tokens": 25793,
-   "turns": 8,
-   "seconds": 31,
-   "cost_usd": 0.1621
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T02:25:07+00:00",
    "batch": "2026-11-12 12:00",
    "celebrity": "Scarlett Johansson",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 11,
    "cost_usd": 0.1218
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T02:25:57+00:00",
+   "batch": "2026-11-26 12:00",
+   "celebrity": "Robert Pattinson",
+   "article": "2026-11-26-12-00-robert-pattinson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4690,
+   "cache_read_tokens": 149790,
+   "cache_write_tokens": 41539,
+   "turns": 7,
+   "seconds": 31,
+   "cost_usd": 0.2282
   }
  ]
 }
