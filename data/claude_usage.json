@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-13",
-   "time": "2026-11-13T05:38:34+00:00",
-   "batch": "2026-11-13 15:00",
-   "celebrity": "Scarlett Johansson",
-   "article": "2026-11-13-15-00-scarlett-johansson.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 22,
-   "output_tokens": 4442,
-   "cache_read_tokens": 292692,
-   "cache_write_tokens": 28058,
-   "turns": 13,
-   "seconds": 57,
-   "cost_usd": 0.2022
-  },
-  {
-   "date": "2026-11-13",
    "time": "2026-11-13T05:39:45+00:00",
    "batch": "2026-11-13 15:00",
    "celebrity": "Sylvester Stallone",
@@ -23999,6 +23983,22 @@
    "turns": 15,
    "seconds": 42,
    "cost_usd": 0.2818
+  },
+  {
+   "date": "2026-11-27",
+   "time": "2026-11-27T12:36:25+00:00",
+   "batch": "2026-11-27 22:00",
+   "celebrity": "The Hunger Games: Sunrise on the Reaping",
+   "article": "2026-11-27-22-00-the-hunger-games-sunrise-on-the-reaping.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4434,
+   "cache_read_tokens": 124203,
+   "cache_write_tokens": 29039,
+   "turns": 7,
+   "seconds": 29,
+   "cost_usd": 0.1731
   }
  ]
 }
