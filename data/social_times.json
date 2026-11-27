@@ -1,0 +1,20 @@
+{
+ "updated": "2026-11-27 23:27",
+ "min_posts": 20,
+ "platforms": {
+  "pinterest": {
+   "status": "learning",
+   "posts": 0,
+   "hours": [],
+   "best_first": [],
+   "best_hour_by_weekday": {}
+  },
+  "threads": {
+   "status": "learning",
+   "posts": 0,
+   "hours": [],
+   "best_first": [],
+   "best_hour_by_weekday": {}
+  }
+ }
+}
