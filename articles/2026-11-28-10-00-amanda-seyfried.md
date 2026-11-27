@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried BAFTA 2027: Why She Is Not Eligible"
 seo_description: "Amanda Seyfried BAFTA 2027: her Elizabeth Holmes role is missing from the draft entries list, as rules rule the film's performances out."
 focus_keyword: "Amanda Seyfried BAFTA 2027"
 permalink: "amanda-seyfried-bafta-2027"
-status: pending
+status: approved
 wp_status: publish
 batch: "2026-11-28 10:00"
 celebrity: "Amanda Seyfried"
