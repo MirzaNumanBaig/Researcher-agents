@@ -25,6 +25,7 @@ wp_id: 3878
 wp_link: "https://moduscarry.com/cate-blanchett-adelaide-park-lands/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

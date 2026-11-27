@@ -23,6 +23,7 @@ wp_id: 3874
 wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything-how-she-joined/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

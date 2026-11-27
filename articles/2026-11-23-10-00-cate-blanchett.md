@@ -24,6 +24,7 @@ wp_id: 3870
 wp_link: "https://moduscarry.com/cate-blanchett-champs-elysees-christmas-lights/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

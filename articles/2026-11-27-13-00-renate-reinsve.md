@@ -24,6 +24,7 @@ wp_id: 3864
 wp_link: "https://moduscarry.com/renate-reinsve-carpentry-quit-acting/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
