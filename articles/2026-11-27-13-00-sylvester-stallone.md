@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone Henry Winkler Friendship and Early Struggles"
 seo_description: "Sylvester Stallone looks back on cleaning lion cages, a $300 Encino rental and the encouragement from Henry Winkler before Rocky. Read the story."
 focus_keyword: "Sylvester Stallone Henry Winkler"
 permalink: "sylvester-stallone-henry-winkler"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 13:00"
 celebrity: "Sylvester Stallone"
@@ -14,6 +14,15 @@ tags: ["Sylvester Stallone", "Henry Winkler", "Rocky", "The Lords of Flatbush"]
 image_prompt: "A dim, empty New York walk-up apartment at night with a desk, a typewriter and stacks of paper under a single lamp."
 sources:
   - "https://www.foxnews.com/entertainment/sylvester-stallone-endured-broke-lonely-days-cleaning-lion-cages-henry-winkler-changed-life"
+image: "images/2026-11-27-13-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588440614\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588440614\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3867
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-13-00-sylvester-stallone-768x432.webp"
+wp_id: 3868
+wp_link: "https://moduscarry.com/sylvester-stallone-henry-winkler/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

@@ -24,6 +24,7 @@ wp_id: 3804
 wp_link: "https://moduscarry.com/alexander-skarsgard-wicker-2/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

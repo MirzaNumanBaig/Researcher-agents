@@ -5,7 +5,7 @@ seo_title: "Renate Reinsve Carpentry: The Call That Saved Her Career"
 seo_description: "Renate Reinsve nearly left acting to study carpentry in Italy, until Joachim Trier called the next day. Here is how it led to Cannes and an Oscar nod."
 focus_keyword: "Renate Reinsve carpentry"
 permalink: "renate-reinsve-carpentry-quit-acting"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 13:00"
 celebrity: "Renate Reinsve"
@@ -15,6 +15,15 @@ image_prompt: "A quiet wooden workshop bench with hand tools and fresh shavings,
 sources:
   - "https://faroutmagazine.co.uk/renate-reinsve-almost-quit-acting-for-carpentry-think-im-done/"
   - "https://contentory.co.uk/renate-reinsve/"
+image: "images/2026-11-27-13-00-renate-reinsve.webp"
+image_alt: "Renate Reinsve: Renate Reinsve poses during the \"Fjord\" photocall at the 79th annual Cannes Film Festival at Palais des Festivals on May 19, 2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve_at_the_2026_Cannes_Film_Festival_04.jpg\" rel=\"noopener\">Gabriel Hutchinson</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Renate_Reinsve_at_the_2026_Cannes_Film_Festival_04.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3863
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-13-00-renate-reinsve-768x432.webp"
+wp_id: 3864
+wp_link: "https://moduscarry.com/renate-reinsve-carpentry-quit-acting/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

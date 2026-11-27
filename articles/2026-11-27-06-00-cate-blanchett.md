@@ -24,6 +24,7 @@ wp_id: 3808
 wp_link: "https://moduscarry.com/cate-blanchett-womens-prize-playwriting/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

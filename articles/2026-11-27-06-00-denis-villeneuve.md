@@ -25,6 +25,7 @@ wp_id: 3814
 wp_link: "https://moduscarry.com/dune-part-three-budget/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

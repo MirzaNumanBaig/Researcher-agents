@@ -5,7 +5,7 @@ seo_title: "Extraction 3: Chris Hemsworth's Netflix Universe Grows"
 seo_description: "Extraction 3 has wrapped production, and Netflix is adding a Korean spin-off and a TV series to Chris Hemsworth's action franchise. Here is what we know."
 focus_keyword: "Extraction 3"
 permalink: "extraction-3-netflix-universe"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 13:00"
 celebrity: "Chris Hemsworth"
@@ -14,6 +14,15 @@ tags: ["Chris Hemsworth", "Extraction 3", "Netflix", "John Wick", "Keanu Reeves"
 image_prompt: "A snow-covered mountain road at dusk with an abandoned armoured vehicle and a dramatic orange sky, cinematic action thriller mood"
 sources:
   - "https://screenrant.com/netflix-extraction-franchise-renewed-more-movies-tv-show/"
+image: "images/2026-11-27-13-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3853
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-13-00-chris-hemsworth-768x432.webp"
+wp_id: 3854
+wp_link: "https://moduscarry.com/extraction-3-netflix-universe/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
