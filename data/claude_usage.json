@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-13",
-   "time": "2026-11-13T05:05:21+00:00",
-   "batch": "2026-11-13 15:00",
-   "celebrity": "Bob Dylan",
-   "article": "2026-11-13-15-00-bob-dylan.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1226,
-   "cache_read_tokens": 113948,
-   "cache_write_tokens": 21649,
-   "turns": 7,
-   "seconds": 12,
-   "cost_usd": 0.1104
-  },
-  {
-   "date": "2026-11-13",
    "time": "2026-11-13T05:07:06+00:00",
    "batch": "2026-11-13 15:00",
    "celebrity": "Cate Blanchett",
@@ -23999,6 +23983,22 @@
    "turns": 8,
    "seconds": 29,
    "cost_usd": 0.1821
+  },
+  {
+   "date": "2026-11-27",
+   "time": "2026-11-27T12:02:15+00:00",
+   "batch": "2026-11-27 22:00",
+   "celebrity": "Denis Villeneuve",
+   "article": "2026-11-27-22-00-denis-villeneuve.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4148,
+   "cache_read_tokens": 127141,
+   "cache_write_tokens": 30539,
+   "turns": 7,
+   "seconds": 30,
+   "cost_usd": 0.1765
   }
  ]
 }
