@@ -25,6 +25,7 @@ wp_id: 3886
 wp_link: "https://moduscarry.com/denis-villeneuve-dune-part-three-3/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

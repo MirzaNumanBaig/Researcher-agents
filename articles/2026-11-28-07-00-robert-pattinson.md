@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond: Villeneuve Promises Traditional 007"
 seo_description: "Robert Pattinson's Bond will keep 007's panache, says director Denis Villeneuve. Here is what he told Time, who is writing it and what is still unknown."
 focus_keyword: "Robert Pattinson Bond"
 permalink: "robert-pattinson-bond-villeneuve-traditional"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 07:00"
 celebrity: "Robert Pattinson"
@@ -18,6 +18,15 @@ sources:
   - "https://www.aol.com/articles/robert-pattinson-james-bond-era-191133000.html"
   - "https://www.thepinknews.com/2026/11/27/donald-trump-kristen-stewart-tweets-robert-pattinson/"
   - "https://www.indiatoday.in/amp/opinion/story/robert-pattinson-james-bond-ian-fleming-alain-delon-bond-26-denis-villeneuve-daniel-craig-3048172-2026-11-27"
+image: "images/2026-11-28-07-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson attends the \"Primetime\" Screening during the 83rd Venice International Film Festival at Sala Grande on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3945
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-07-00-robert-pattinson-768x432.webp"
+wp_id: 3946
+wp_link: "https://moduscarry.com/robert-pattinson-bond-villeneuve-traditional/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

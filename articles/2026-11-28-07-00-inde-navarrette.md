@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Obsession Interview on Sudden Fame"
 seo_description: "Inde Navarrette talks about Obsession, sudden fame and her fear of being misunderstood in a new Prestige Junkie podcast interview. Read the highlights."
 focus_keyword: "Inde Navarrette Obsession interview"
 permalink: "inde-navarrette-obsession-interview"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 07:00"
 celebrity: "Inde Navarrette"
@@ -14,6 +14,15 @@ tags: ["Inde Navarrette", "Marvel", "X-Men"]
 image_prompt: "An empty cinema auditorium with red seats and a glowing blank screen, soft light, quiet atmosphere after a premiere."
 sources:
   - "https://theankler.com/inde-navarrette-obsession-video-interview/"
+image: "images/2026-11-28-07-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03_(cropped).jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3929
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-07-00-inde-navarrette-768x432.webp"
+wp_id: 3930
+wp_link: "https://moduscarry.com/inde-navarrette-obsession-interview/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

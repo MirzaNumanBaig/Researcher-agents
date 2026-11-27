@@ -5,7 +5,7 @@ seo_title: "Hudson Williams Heated Rivalry Season 2 Roommates"
 seo_description: "Hudson Williams is living with Connor Storrie while Heated Rivalry season 2 films in Ontario and Quebec, and his Yaga run has just ended."
 focus_keyword: "Hudson Williams Heated Rivalry"
 permalink: "hudson-williams-heated-rivalry-roommates"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 07:00"
 celebrity: "Hudson Williams"
@@ -16,6 +16,15 @@ sources:
   - "https://ca.rollingstone.com/tv-movies/connor-storrie-hudson-williams-roommates-heated-rivalry-season-2/"
   - "https://www.goldderby.com/tv/2026/yaga-season-1-finale-cliffhanger-explained-hudson-williams-showrunner-interview/"
   - "https://www.sheknows.com/living/articles/1235096548/skin1004-black-friday-cyber-monday/"
+image: "images/2026-11-28-07-00-hudson-williams.webp"
+image_alt: "Hudson Williams: Hudson Williams during Making Waves at TIFF2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(17).jpg\" rel=\"noopener\">TKA201</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:HudsonWilliamsduringMakingWavesatTIFF2026(17).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3927
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-07-00-hudson-williams-768x432.webp"
+wp_id: 3928
+wp_link: "https://moduscarry.com/hudson-williams-heated-rivalry-roommates/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

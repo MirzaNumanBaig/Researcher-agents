@@ -5,7 +5,7 @@ seo_title: "Crime 101 Prime Video: Hemsworth Thriller Hits No. 1"
 seo_description: "Crime 101 on Prime Video has taken the top spot on the 2026 worldwide movie chart, despite a weak box office. Here is what Chris Hemsworth does next."
 focus_keyword: "Crime 101 Prime Video"
 permalink: "crime-101-prime-video"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 07:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,15 @@ image_prompt: "A dark highway at dusk with glowing car tail lights stretching to
 sources:
   - "https://screenrant.com/chris-hemsworth-crime-101-prime-video-top-movie-2026-streaming-chart/"
   - "https://www.yahoo.com/entertainment/celebrity/fashion/articles/chris-hemsworth-latest-workout-video-191605666.html"
+image: "images/2026-11-28-07-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400860530\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3917
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-07-00-chris-hemsworth-768x432.webp"
+wp_id: 3918
+wp_link: "https://moduscarry.com/crime-101-prime-video/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

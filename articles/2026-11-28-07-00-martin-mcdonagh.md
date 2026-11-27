@@ -5,7 +5,7 @@ seo_title: "Wild Horse Nine Box Office: McDonagh's Film So Far"
 seo_description: "Wild Horse Nine box office has reached US$39.94 million worldwide. See how Martin McDonagh's film compares with Banshees and Three Billboards."
 focus_keyword: "Wild Horse Nine box office"
 permalink: "wild-horse-nine-box-office"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 07:00"
 celebrity: "Martin McDonagh"
@@ -17,6 +17,15 @@ sources:
   - "https://startefacts.com/news/wild-horse-nine-end-credits-song-rolling-stones"
   - "https://wisevoter.com/world/2026/11/27/union-vfx-martin-mcdonagh-wild-horse-nine"
   - "https://www.broadcastnow.co.uk/post-and-vfx/post-uncovered-union-vfx-crafts-invisible-effects-for-mcdonaghs-wild-horse-nine/5222858.article"
+image: "images/2026-11-28-07-00-martin-mcdonagh.webp"
+image_alt: "Martin McDonagh: Martin McDonagh attends the \"Wild Horse Nine\" Screening during the 83rd Venice International Film Festival, at Sala Grande on September 03, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_Venice_Film_Festival.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Martin_McDonagh_Venice_Film_Festival.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3939
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-07-00-martin-mcdonagh-768x432.webp"
+wp_id: 3940
+wp_link: "https://moduscarry.com/wild-horse-nine-box-office-3/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

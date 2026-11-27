@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki Karen Crosby: Cliff Booth Standout"
 seo_description: "Elizabeth Debicki's Karen Crosby is the standout of The Further Mis-Adventures of Cliff Booth. See what GQ says and why the all-white costumes matter."
 focus_keyword: "Elizabeth Debicki Karen Crosby"
 permalink: "elizabeth-debicki-karen-crosby"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 07:00"
 celebrity: "Elizabeth Debicki"
@@ -15,6 +15,15 @@ image_prompt: "A quiet 1970s Hollywood premiere cinema entrance at dusk, warm ma
 sources:
   - "https://www.gq.com/story/elizabeth-debicki-cliff-booth"
   - "https://thatshelf.com/how-elizabeth-debicki-gets-her-freak-on-with-cliff-booth/"
+image: "images/2026-11-28-07-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki's Karen Crosby Steals Cliff Booth"
+image_credit: "Image: <a href=\"https://www.gq.com/story/elizabeth-debicki-cliff-booth\" rel=\"nofollow noopener\">gq.com</a> (cropped)"
+wp_media_id: 3925
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-07-00-elizabeth-debicki-768x432.webp"
+wp_id: 3926
+wp_link: "https://moduscarry.com/elizabeth-debicki-karen-crosby/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

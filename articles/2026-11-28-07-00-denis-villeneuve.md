@@ -5,7 +5,7 @@ seo_title: "Denis Villeneuve Dunesday: 'Deeply Disappointed' by Clash"
 seo_description: "Denis Villeneuve Dunesday comments: the director says he was deeply disappointed by Avengers: Doomsday sharing Dune: Part Three's 18 December date."
 focus_keyword: "Denis Villeneuve Dunesday"
 permalink: "denis-villeneuve-dunesday"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 07:00"
 celebrity: "Denis Villeneuve"
@@ -18,6 +18,15 @@ sources:
   - "https://www.aol.com/articles/dune-3-denis-villeneuve-good-185304000.html"
   - "https://www.aol.com/articles/robert-pattinson-james-bond-era-191133000.html"
   - "https://www.film-news.co.uk/news/UK/130530/Denis-Villeneuve-explains-what-he-loves-about-James-Bond-traditions"
+image: "images/2026-11-28-07-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve speaking at the 2017 San Diego Comic-Con International in San Diego, California."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_2017_crop.jpg\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_2017_crop.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3921
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-07-00-denis-villeneuve-768x432.webp"
+wp_id: 3922
+wp_link: "https://moduscarry.com/denis-villeneuve-dunesday/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

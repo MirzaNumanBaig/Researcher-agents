@@ -5,7 +5,7 @@ seo_title: "Pamela Anderson Open Journal: Her Substack and Son Dylan"
 seo_description: "Pamela Anderson's Open Journal Substack has more than 159,000 subscribers, and her son Dylan edits it. Here is how it works and what she may write next."
 focus_keyword: "Pamela Anderson Open Journal"
 permalink: "pamela-anderson-open-journal"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 07:00"
 celebrity: "Pamela Anderson"
@@ -16,6 +16,15 @@ sources:
   - "https://people.com/pamela-anderson-channels-her-wild-free-spirit-into-her-substack-exclusive-12261190"
   - "https://graziamagazine.com/us/articles/pamela-anderson-59-says-she-dyes-her-own-hair-in-20-minutes-with-whatever-blonde-is-on-sale-25497/"
   - "https://www.hellomagazine.com/fashion/celebrity-style/937668/pamela-anderson-low-cut-neckline-no-makeup/"
+image: "images/2026-11-28-07-00-pamela-anderson.webp"
+image_alt: "Pamela Anderson: Pamela Anderson at Berlin Film Festival 2026"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230509).jpg\" rel=\"noopener\">User:Celestinesucess</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Pamela_Anderson_at_Berlin_Film_Festival_2026,_(P1230509).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3943
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-07-00-pamela-anderson-768x432.webp"
+wp_id: 3944
+wp_link: "https://moduscarry.com/pamela-anderson-open-journal/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
