@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-27 13:00",
+  "celebrity": "Street Fighter",
+  "stories": [
+    {
+      "title": "Fortnite Demogorgon, Street Fighter and KPop Skins",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa05yZWdXMUlxYlJwYWFoWXhoaXdqem1ucDJrSG1aZGs3eEo2MldQYnU0UFNROEozQ3JaakxCWGl0b3dnRnU2WjZoeXRHa0ZpSGxqVGNTSWY3dS0wSHZyM1Y4NTFTZzJITW9OTkdqWlJ3Q29pdGoxMFA1UEJrdWotS0d1dDJXdw?oc=5",
+      "published": "2026-11-26T19:53:24+00:00",
+      "outlets": [
+        {
+          "source": "games.gg",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa05yZWdXMUlxYlJwYWFoWXhoaXdqem1ucDJrSG1aZGs3eEo2MldQYnU0UFNROEozQ3JaakxCWGl0b3dnRnU2WjZoeXRHa0ZpSGxqVGNTSWY3dS0wSHZyM1Y4NTFTZzJITW9OTkdqWlJ3Q29pdGoxMFA1UEJrdWotS0d1dDJXdw?oc=5",
+          "article_url": "https://games.gg/fortnite/guides/fortnite-demogorgon-street-fighter-kpop-skins/",
+          "image": "https://games.gg/api/og/content/?kind=guide&key=fortnite-demogorgon-street-fighter-kpop-skins&u=tp4kl0&v=3"
+        }
+      ],
+      "image": "https://games.gg/api/og/content/?kind=guide&key=fortnite-demogorgon-street-fighter-kpop-skins&u=tp4kl0&v=3",
+      "image_source": "https://games.gg/fortnite/guides/fortnite-demogorgon-street-fighter-kpop-skins/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Street Fighter",
+      "release": "2026-10-12",
+      "director": [
+        "Kitao Sakurai"
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Cody Rhodes",
+        "Orville Peck"
+      ],
+      "budget_usd": 82000000,
+      "box_office_usd": 102500000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.25,
+      "rotten_tomatoes": "42%",
+      "metacritic": "43/100 from 28 critics",
+      "critics_consensus": "The latest iteration of Street Fighter has plenty of affection for its source material and doesn't lack for dizzying style, but its incoherent storytelling and juvenile humor make for a disappointing regression among video game adaptations.",
+      "critics_overview": "It received a 65% definite recommend for children under 12. The audience was 30% Latino and Hispanic, 29% Caucasian, 21% Black, 14% Asian American and 6% Native American or Other.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q130345436",
+        "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+      }
+    }
+  ]
+}

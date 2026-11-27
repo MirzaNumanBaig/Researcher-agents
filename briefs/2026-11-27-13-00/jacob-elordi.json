@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-27 13:00",
+  "celebrity": "Jacob Elordi",
+  "stories": [
+    {
+      "title": "Fact Check: Did Tom Holland express heartbreak after Zendaya allegedly kissed Jacob Elordi?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFZudGZ0TFVsa2xpYUl6YWM0QWRnendhX3B5OXg3TzFBZGQ5alJjQnZhdTV1ZzhOTW9wM250SEM1MFJESmpYMWEzeE5ZV3lGX2dfNWpkWmtZZHp1bXdpSkZIVEFCb3ZiWHdsM2NhcWRONlNhNlBBSDdQc2RvMkFDYXZlN29ENTZrZlI2ZUZ4Ql83VGZleUl5TEt4NkQ3OG12MUVrZkQ5a0MweHBMLTd0RDBLaFA?oc=5",
+      "published": "2026-11-27T01:59:25+00:00",
+      "outlets": [
+        {
+          "source": "MEAWW News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFZudGZ0TFVsa2xpYUl6YWM0QWRnendhX3B5OXg3TzFBZGQ5alJjQnZhdTV1ZzhOTW9wM250SEM1MFJESmpYMWEzeE5ZV3lGX2dfNWpkWmtZZHp1bXdpSkZIVEFCb3ZiWHdsM2NhcWRONlNhNlBBSDdQc2RvMkFDYXZlN29ENTZrZlI2ZUZ4Ql83VGZleUl5TEt4NkQ3OG12MUVrZkQ5a0MweHBMLTd0RDBLaFA?oc=5",
+          "article_url": "https://news.meaww.com/fact-check-did-tom-holland-post-emotional-video-after-zendaya-allegedly-kissed-jacob-elordi",
+          "image": "https://media.pubninja.com/articles/brand-6/covers/1795742845353_c220a098b5ba.jpg_1200_630"
+        }
+      ],
+      "image": "https://media.pubninja.com/articles/brand-6/covers/1795742845353_c220a098b5ba.jpg_1200_630",
+      "image_source": "https://news.meaww.com/fact-check-did-tom-holland-post-emotional-video-after-zendaya-allegedly-kissed-jacob-elordi"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Dog Stars",
+      "release": "2026-08-26",
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Jacob Elordi",
+        "Margaret Qualley",
+        "Josh Brolin",
+        "Guy Pearce",
+        "Benedict Wong"
+      ],
+      "budget_usd": 70000000,
+      "box_office_usd": 39000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 0.56,
+      "rotten_tomatoes": "41%",
+      "metacritic": "49/100 from 46 critics",
+      "critics_consensus": "A derivative and drowsy tour through the post-apocalypse, The Dog Stars' lush visuals can't compensate for its listless narrative and underpowered pacing.",
+      "critics_overview": "In the United States and Canada, The Dog Stars was released alongside Buddy, Coyote vs. Robert Daniels of RogerEbert.com gave the film one and a half out of four stars, writing, \"It probably takes more effort to make a boring post-apocalyptic survivalist action film than to make a good one.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132256832",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Dog_Stars_(film)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-25 01:00",
+  "celebrity": "The Take",
+  "stories": [
+    {
+      "title": "BBC Surrey. . \"He looks different to the others, but I guess they've done that on purpose.\" That is the verdict of 88-year-old former stunt double Jenny Le Fre, who featured in early James Bond films, on the casting of Robert Pattinson as the next 007. More here:",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UUFlQRjE3aGRnS19zcmlLQ0plMi1lZktjOVZxUUhqdXpwX25UZUdORHpiZURHRVlBaVZMZEo2TEdVV2kwRkdQSUZEUXVSOVBvUjBpVFp2NGVvcEFLUy1KZ0hKcU1wX21SSi1QOEEzXzB3M3liTGU5SWxhdWE?oc=5",
+      "published": "2026-11-23T14:45:05+00:00",
+      "outlets": [
+        {
+          "source": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UUFlQRjE3aGRnS19zcmlLQ0plMi1lZktjOVZxUUhqdXpwX25UZUdORHpiZURHRVlBaVZMZEo2TEdVV2kwRkdQSUZEUXVSOVBvUjBpVFp2NGVvcEFLUy1KZ0hKcU1wX21SSi1QOEEzXzB3M3liTGU5SWxhdWE?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Take",
+      "release": "2027-01-15",
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Daisy Edgar-Jones",
+        "Danai Gurira",
+        "Sean Harris",
+        "Moisés Arias"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136231215",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Take_(2027_film)"
+      }
+    }
+  ]
+}

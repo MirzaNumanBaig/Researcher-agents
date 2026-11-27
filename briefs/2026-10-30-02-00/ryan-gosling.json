@@ -1,0 +1,50 @@
+{
+  "batch": "2026-10-30 02:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Connor Storrie in talks to face Ryan Gosling in Marvel’s 'Ghost Rider'",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkhqQWVLOVl3OENjYkNraEYxUTBMZVNXYktaSEV6OGhDbmNkSnJDYldJVVJGU0VhZHlaUlJOc2pwQWhnVlk1eC1KMVBCTlh5ak5KMFRHZ3lrZFJPWFhmQU5UN043NFMzNzJMNzQ1eVhqdHJKczFBa252NUVfRWx1SmRBVE00amtNOWdfZjROLVA5RHdlV0xpWkFpMXotQ1l1aENLcHU5SlQxMWk3VTkxYkpn?oc=5",
+      "published": "2026-10-29T10:20:04+00:00",
+      "outlets": [
+        {
+          "source": "Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkhqQWVLOVl3OENjYkNraEYxUTBMZVNXYktaSEV6OGhDbmNkSnJDYldJVVJGU0VhZHlaUlJOc2pwQWhnVlk1eC1KMVBCTlh5ak5KMFRHZ3lrZFJPWFhmQU5UN043NFMzNzJMNzQ1eVhqdHJKczFBa252NUVfRWx1SmRBVE00amtNOWdfZjROLVA5RHdlV0xpWkFpMXotQ1l1aENLcHU5SlQxMWk3VTkxYkpn?oc=5",
+          "article_url": "https://www.turkiyetoday.com/culture/connor-storrie-in-talks-to-face-ryan-gosling-in-marvels-ghost-rider-3231259",
+          "image": "https://img.turkiyetoday.com/images/2026/10/29/connor-storrie-in-talks-to-face-ryan-gosling-in-marvels-ghost-rider-3231259_20261029131102.jpg"
+        }
+      ],
+      "image": "https://img.turkiyetoday.com/images/2026/10/29/connor-storrie-in-talks-to-face-ryan-gosling-in-marvels-ghost-rider-3231259_20261029131102.jpg",
+      "image_source": "https://www.turkiyetoday.com/culture/connor-storrie-in-talks-to-face-ryan-gosling-in-marvels-ghost-rider-3231259"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "79% from 58 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

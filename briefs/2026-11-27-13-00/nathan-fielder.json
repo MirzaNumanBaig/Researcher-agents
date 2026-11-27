@@ -1,0 +1,49 @@
+{
+  "batch": "2026-11-27 13:00",
+  "celebrity": "Nathan Fielder",
+  "stories": [
+    {
+      "title": "Nathan Fielder’s Cult Comedy Series Is Free to Watch Right Now",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREZTb3V0SFN2YVpFTlRXcHRObnVTeTQtYXZON2FqdUgxMGduNzBFSlgzWnhPVUo1a2I5QUZ1eDgtcTVBM0daNmdpakljZi1wcXlIakFkTUdSeld2WVBYc1E0Tk9CS3hnVlBkdnJieHp1Y2U4QkZMZ3psdnJOaW1HTFNaelRyUkl4YzhrWGt2eEFRZlV4dTRUY3hR?oc=5",
+      "published": "2026-11-26T22:30:00+00:00",
+      "outlets": [
+        {
+          "source": "Men's Journal",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREZTb3V0SFN2YVpFTlRXcHRObnVTeTQtYXZON2FqdUgxMGduNzBFSlgzWnhPVUo1a2I5QUZ1eDgtcTVBM0daNmdpakljZi1wcXlIakFkTUdSeld2WVBYc1E0Tk9CS3hnVlBkdnJieHp1Y2U4QkZMZ3psdnJOaW1HTFNaelRyUkl4YzhrWGt2eEFRZlV4dTRUY3hR?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "You Can See Everything",
+      "release": "2026-09-06",
+      "director": [
+        "Lance Oppenheim",
+        "Nathan Fielder"
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Christopher Abbott"
+      ],
+      "budget_usd": 7000000,
+      "box_office_usd": 105000000,
+      "scope": "Indie / low budget",
+      "verdict": "Hit",
+      "gross_vs_budget": 15.0,
+      "rotten_tomatoes": "97%",
+      "metacritic": "97/100 from 52 critics",
+      "critics_consensus": "Nathan Fielder's ironclad commitment to the bit is pushed to its limit in You Can See Everything, an inscrutable Rorschach test of Elizabeth Holmes's psyche that's as absorbing as it is haunting.",
+      "critics_overview": "PostTrak audiences gave the film a 98% positive score, with 91% rating it a \"definite recommend\". Manohla Dargis of The New York Times praised the film, writing, \"Few movies speak as uncannily to the pathos and destabilizing confusions of the present moment\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q141336617",
+        "wikipedia": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+      }
+    }
+  ]
+}
