@@ -25,6 +25,7 @@ wp_id: 3909
 wp_link: "https://moduscarry.com/sunrise-on-the-reaping-soundtrack/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

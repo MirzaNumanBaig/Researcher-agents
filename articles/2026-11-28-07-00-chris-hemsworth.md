@@ -24,6 +24,7 @@ wp_id: 3918
 wp_link: "https://moduscarry.com/crime-101-prime-video/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
