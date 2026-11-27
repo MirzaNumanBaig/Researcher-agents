@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-13",
-   "time": "2026-11-13T13:13:21+00:00",
-   "batch": "2026-11-13 23:00",
-   "celebrity": "Jason Sudeikis",
-   "article": "2026-11-13-23-00-jason-sudeikis.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 4090,
-   "cache_read_tokens": 159738,
-   "cache_write_tokens": 28341,
-   "turns": 8,
-   "seconds": 31,
-   "cost_usd": 0.1704
-  },
-  {
-   "date": "2026-11-13",
    "time": "2026-11-13T13:15:19+00:00",
    "batch": "2026-11-13 23:00",
    "celebrity": "Jithu Madhavan",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 29,
    "cost_usd": 0.1827
+  },
+  {
+   "date": "2026-11-27",
+   "time": "2026-11-27T20:53:24+00:00",
+   "batch": "2026-11-28 07:00",
+   "celebrity": "Connor Storrie",
+   "article": "2026-11-28-07-00-connor-storrie.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 1513,
+   "cache_read_tokens": 199824,
+   "cache_write_tokens": 25351,
+   "turns": 9,
+   "seconds": 15,
+   "cost_usd": 0.1367
   }
  ]
 }
