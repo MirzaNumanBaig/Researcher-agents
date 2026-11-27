@@ -26,6 +26,7 @@ wp_id: 3790
 wp_link: "https://moduscarry.com/elizabeth-debicki-cliff-booth-3/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

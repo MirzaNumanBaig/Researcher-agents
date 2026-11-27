@@ -24,6 +24,7 @@ wp_id: 3780
 wp_link: "https://moduscarry.com/scarlett-johansson-exorcist-martyrs/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
