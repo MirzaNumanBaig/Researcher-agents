@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T23:39:04+00:00",
-   "batch": "2026-11-13 10:00",
-   "celebrity": "Johnny Depp",
-   "article": "2026-11-13-10-00-johnny-depp.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 4213,
-   "cache_read_tokens": 134787,
-   "cache_write_tokens": 35394,
-   "turns": 7,
-   "seconds": 32,
-   "cost_usd": 0.1973
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T23:40:01+00:00",
    "batch": "2026-11-13 10:00",
    "celebrity": "Katy Perry",
@@ -23999,6 +23983,22 @@
    "turns": 6,
    "seconds": 6,
    "cost_usd": 0.0946
+  },
+  {
+   "date": "2026-11-27",
+   "time": "2026-11-27T02:53:36+00:00",
+   "batch": "2026-11-27 13:00",
+   "celebrity": "Jacob Elordi",
+   "article": "2026-11-27-13-00-jacob-elordi.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 1187,
+   "cache_read_tokens": 117129,
+   "cache_write_tokens": 21787,
+   "turns": 7,
+   "seconds": 11,
+   "cost_usd": 0.1109
   }
  ]
 }
