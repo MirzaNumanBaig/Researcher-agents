@@ -73,6 +73,15 @@ def unquote(v):
     return v
 
 
+def cats(v):
+    """['Music', 'Celebrities'] from the front matter line categories: ["Music", "Celebrities"]."""
+    try:
+        out = json.loads(v) if v.startswith("[") else []
+        return [str(x) for x in out][:3]
+    except ValueError:
+        return []
+
+
 def read_articles():
     """Front matter of every article (no body: the dashboard loads a body only when you open its preview)."""
     out = []
@@ -85,7 +94,7 @@ def read_articles():
                     "status": get("status"), "wp_status": get("wp_status") or "draft", "wp_synced": get("wp_synced"),
                     "batch": get("batch"), "celebrity": get("celebrity"), "wp_link": get("wp_link"),
                     "wp_id": int(wp_id) if wp_id.isdigit() else None, "skip_reason": get("skip_reason"),
-                    "rewrite_note": get("rewrite_note"), "image": get("wp_image")})
+                    "rewrite_note": get("rewrite_note"), "image": get("wp_image"), "categories": cats(get("categories")), "slug": get("permalink")})
     out.sort(key=lambda a: a["batch"] or "", reverse=True)
     return out
 

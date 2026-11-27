@@ -109,6 +109,20 @@ h2.sec{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.0
 @keyframes pulse{50%{opacity:.3}}
 .hc.warn{border-color:var(--acc);background:var(--accbg)}
 /* article cards */
+.lv{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:8px 0}
+.lgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:8px}
+.lcard{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+.lcard .im{aspect-ratio:16/9;background:var(--line) center/cover no-repeat}
+.lcard .bd{padding:12px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.lcard h3{margin:0;font-size:16px;line-height:1.3}
+.lcard .tags{display:flex;gap:6px;flex-wrap:wrap}
+.lcard .tag{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.04em;color:var(--mut)}
+.lcard .ex{font-size:13px;color:var(--mut);margin:0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.lcard .ft{margin-top:auto;display:flex;gap:10px;flex-wrap:wrap;font-size:12.5px;padding-top:6px}
+.ltab{width:100%;border-collapse:collapse;font-size:14px;margin-top:8px}
+.ltab th{text-align:left;font-size:12px;color:var(--mut);font-weight:600;padding:6px 8px;border-bottom:1px solid var(--line)}
+.ltab td{padding:8px;border-bottom:1px solid var(--line);vertical-align:middle}
+.ltab img,.ltab .th{width:72px;height:41px;object-fit:cover;border-radius:6px;background:var(--line);display:block}
 .acard{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:8px}
 .acard .hd{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
 .acard h3{font-size:15.5px;line-height:1.35;margin:0;font-weight:650;flex:1 1 260px;min-width:0}
@@ -192,7 +206,7 @@ details>div{padding:0 14px 12px}
 <div class="people" id="people"></div>
 <div id="profile"></div>
 <div class="toolbar">
-<div class="seg" role="tablist"><button id="v-stories" class="on">Stories</button><button id="v-articles">Articles</button><button id="v-movies">Movies</button><button id="v-social">Social</button><button id="v-usage">Usage</button></div>
+<div class="seg" role="tablist"><button id="v-stories" class="on">Stories</button><button id="v-articles">Articles</button><button id="v-live">Live posts</button><button id="v-movies">Movies</button><button id="v-social">Social</button><button id="v-usage">Usage</button></div>
 <div class="seg" id="pool-seg" role="tablist"><button id="p-recent" class="on">Last 48 hours</button><button id="p-archive">Archive</button></div>
 <input id="q" type="search" placeholder="Search headlines" aria-label="Search headlines">
 <select id="batch" aria-label="Run"></select>
@@ -435,13 +449,14 @@ const olderBtn=n=>n?'<div style="text-align:center;margin:16px 0"><button class=
 function wireOlder(){const b=$("show-old");if(b)b.onclick=()=>{showOld=true;render()}}
 function render(){
 usageBar();
-$("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");$("v-usage").classList.toggle("on",view==="usage");$("v-movies").classList.toggle("on",view==="movies");$("v-social").classList.toggle("on",view==="social");
+$("v-stories").classList.toggle("on",view==="stories");$("v-articles").classList.toggle("on",view==="articles");$("v-usage").classList.toggle("on",view==="usage");$("v-movies").classList.toggle("on",view==="movies");$("v-social").classList.toggle("on",view==="social");$("v-live").classList.toggle("on",view==="live");
 ["q","batch","src","when","sort"].forEach(i=>$(i).hidden=view!=="stories");
 $("pool-seg").hidden=view!=="stories";
-[document.querySelector(".peoplebar"),$("people"),$("profile"),$("countrybar")].forEach(e=>{if(e)e.hidden=view==="usage"||view==="hot"||view==="movies"||view==="social"});
+[document.querySelector(".peoplebar"),$("people"),$("profile"),$("countrybar")].forEach(e=>{if(e)e.hidden=(e===$("countrybar")&&view==="live")?false:view==="usage"||view==="hot"||view==="movies"||view==="social"||view==="live"});
 if(view==="usage"){$("top").innerHTML="";$("list").innerHTML=usageView();return}
 if(view==="movies"){$("top").innerHTML="";$("list").innerHTML=moviesView();return}
 if(view==="social"){socialView();return}
+if(view==="live"){liveView();return}
 $("p-recent").classList.toggle("on",pool==="recent");$("p-archive").classList.toggle("on",pool==="archive");
 $("p-recent").textContent="Last "+(D.dashboard_hours||48)+" hours ("+D.leads.filter(isRecent).length+")";$("p-archive").textContent="Archive ("+D.leads.filter(l=>!isRecent(l)).length+")";
 batchOptions();people();profile();
@@ -479,7 +494,7 @@ $("list").innerHTML=Object.keys(g).sort().map(k=>'<h2 class="sec">'+esc(k)+' <sp
 ["q","src","when","sort"].forEach(i=>$(i).oninput=render);
 $("batch").onchange=()=>{batch=$("batch").value;render()};
 $("p-recent").onclick=()=>{pool="recent";render()};$("p-archive").onclick=()=>{pool="archive";render()};
-$("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};$("v-usage").onclick=()=>{view="usage";render()};$("v-movies").onclick=()=>{view="movies";render()};$("v-social").onclick=()=>{view="social";render()};
+$("v-stories").onclick=()=>{view="stories";render()};$("v-articles").onclick=()=>{view="articles";render()};$("v-usage").onclick=()=>{view="usage";render()};$("v-movies").onclick=()=>{view="movies";render()};$("v-social").onclick=()=>{view="social";render()};$("v-live").onclick=()=>{view="live";render()};
 
 
 
@@ -490,6 +505,23 @@ const movRow=f=>'<li class="hrow"><div><b>'+esc(f.title)+'</b> '+(isNew(f.title)
 '<div class="small">'+(f.director.length?'Directed by '+esc(f.director.join(", "))+' · ':"")+(f.cast.length?'with '+esc(f.cast.slice(0,4).join(", ")):"")+'</div>'+
 '<div class="small">Budget '+mon(f.budget)+' · Box office '+mon(f.gross)+(f.multiple?' ('+f.multiple+'× budget)':"")+(f.countries.length?' · '+esc(f.countries.slice(0,3).join(", ")):"")+'</div>'+critic(f.critics)+
 '<div class="muted small">Sources: '+Object.entries(f.sources||{}).map(([k,u])=>'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(k)+'</a>').join(" · ")+(f.people&&f.people.length?' · in the news: '+esc(f.people.slice(0,3).join(", ")):"")+'</div></li>';
+let lfmt=(store.get("live_fmt")||"cards"),lcat="",lq="";
+function liveView(){const all=D.articles.filter(a=>a.status==="sent"&&a.wp_synced==="publish"&&a.wp_link).sort((a,b)=>(b.batch||"")<(a.batch||"")?-1:1);
+const cats=[...new Set(all.flatMap(a=>a.categories||[]))].sort();
+const shared={};(((D.social||{}).items)||[]).forEach(i=>{(shared[i.link]=shared[i.link]||[]).push(i)});
+const rows=all.filter(a=>(!country||inCountry(a.celebrity||""))&&(!lcat||(a.categories||[]).includes(lcat))&&(!lq||(a.title+" "+(a.celebrity||"")+" "+(a.description||"")).toLowerCase().includes(lq)));
+$("top").innerHTML='<div class="lv"><div class="seg" role="tablist"><button data-lf="cards"'+(lfmt==="cards"?' class="on"':'')+'>Cards</button><button data-lf="table"'+(lfmt==="table"?' class="on"':'')+'>Table</button></div>'+
+'<select id="lcat" aria-label="Category"><option value="">All categories</option>'+cats.map(c=>'<option'+(c===lcat?' selected':'')+'>'+esc(c)+'</option>').join("")+'</select>'+
+'<input id="lq" type="search" placeholder="Find a post…" value="'+esc(lq)+'" style="padding:7px 12px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--ink);font-size:14px"><span class="muted small">'+rows.length+' live posts</span></div>';
+$("top").querySelectorAll("[data-lf]").forEach(b=>b.onclick=()=>{lfmt=b.dataset.lf;try{store.set("live_fmt",lfmt)}catch(e){}render()});
+$("lcat").onchange=()=>{lcat=$("lcat").value;render()};$("lq").oninput=()=>{lq=$("lq").value.trim().toLowerCase();liveList(rows,shared)};
+liveList(rows,shared)}
+function liveList(rows,shared){const img=a=>{const u=a.image&&safeUrl(a.image)!=="#"?safeUrl(a.image):"";return u},
+soc=a=>(shared[a.wp_link]||[]).map(i=>i.url?'<a href="'+esc(safeUrl(i.url))+'" target="_blank" rel="noopener">'+esc(i.platform[0].toUpperCase()+i.platform.slice(1))+'</a>':'').filter(Boolean).join(" · "),
+wpEdit=a=>a.wp_id&&D.site&&D.site.url?'<a href="'+esc(safeUrl(D.site.url.replace(/\/$/,"")+"/wp-admin/post.php?post="+a.wp_id+"&action=edit"))+'" target="_blank" rel="noopener">Edit</a>':"";
+if(!rows.length){$("list").innerHTML='<div class="empty">No live posts match.</div>';return}
+if(lfmt==="table"){$("list").innerHTML='<table class="ltab"><thead><tr><th></th><th>Title</th><th>Person</th><th>Category</th><th>Run</th><th>Shared on</th><th></th></tr></thead><tbody>'+rows.map(a=>'<tr><td>'+(img(a)?'<img loading="lazy" alt="" src="'+esc(img(a))+'">':'<div class="th"></div>')+'</td><td><b>'+esc(a.title)+'</b></td><td>'+esc(a.celebrity||"")+'</td><td>'+esc((a.categories||[]).join(", "))+'</td><td class="muted small">'+esc(a.batch||"")+'</td><td class="small">'+(soc(a)||'<span class="muted">not yet</span>')+'</td><td class="small"><a href="'+esc(safeUrl(a.wp_link))+'" target="_blank" rel="noopener">View</a> '+wpEdit(a)+'</td></tr>').join("")+'</tbody></table>';return}
+$("list").innerHTML='<div class="lgrid">'+rows.map(a=>'<article class="lcard">'+(img(a)?'<div class="im" role="img" aria-label="" style="background-image:url('+esc(img(a))+')"></div>':'<div class="im"></div>')+'<div class="bd"><div class="tags">'+(a.categories||[]).map(c=>'<span class="tag">'+esc(c)+'</span>').join("")+'</div><h3>'+esc(a.title)+'</h3><div class="muted small">'+esc(a.celebrity||"")+' · '+esc(a.batch||"")+'</div>'+(a.description?'<p class="ex">'+esc(a.description)+'</p>':'')+'<div class="ft"><a href="'+esc(safeUrl(a.wp_link))+'" target="_blank" rel="noopener">View on site</a>'+wpEdit(a)+(soc(a)?'<span class="muted">Shared: </span>'+soc(a):'')+'</div></div></article>').join("")+'</div>'}
 let stab="pinterest";
 function socialView(){const S=D.social||{},items=S.items||[],tabs=[["pinterest","Pinterest"],["threads","Threads"]];
 const n=k=>items.filter(i=>i.platform===k).length;
