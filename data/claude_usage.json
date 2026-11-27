@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-13",
-   "time": "2026-11-13T13:27:12+00:00",
-   "batch": "2026-11-13 23:00",
-   "celebrity": "Martin Short",
-   "article": "2026-11-13-23-00-martin-short.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 1176,
-   "cache_read_tokens": 145343,
-   "cache_write_tokens": 21504,
-   "turns": 9,
-   "seconds": 19,
-   "cost_usd": 0.1244
-  },
-  {
-   "date": "2026-11-13",
    "time": "2026-11-13T13:29:45+00:00",
    "batch": "2026-11-13 23:00",
    "celebrity": "Mckenna Grace",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 29,
    "cost_usd": 0.1885
+  },
+  {
+   "date": "2026-11-27",
+   "time": "2026-11-27T21:10:00+00:00",
+   "batch": "2026-11-28 07:00",
+   "celebrity": "Hugh Jackman",
+   "article": "2026-11-28-07-00-hugh-jackman.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 12,
+   "output_tokens": 1677,
+   "cache_read_tokens": 210721,
+   "cache_write_tokens": 29259,
+   "turns": 10,
+   "seconds": 17,
+   "cost_usd": 0.155
   }
  ]
 }
