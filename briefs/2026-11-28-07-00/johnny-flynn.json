@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-28 07:00",
+  "celebrity": "Johnny Flynn",
+  "stories": [
+    {
+      "title": "Johnny Flynn: 'That’s my politics, basically: no us and them'",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXJhVjJZdG0yblFRbXZNNzh6b003cU5JQVdqQjEtUHZqOGFhQ2NXSGFET3ZSVGVJbW9kelpVTDgyaGdSWmxhZ0JoQ2VLWHZaX2xITXMybEdMQTBseno3VXJkLXcxeVp1UU1MM1NIbWprY2RMOFFRM2ZqNnpZcTdYQlhyVzFOQng1cnVRUWJVaV9OUlFwNlRYc3RhanNXNWc?oc=5",
+      "published": "2026-11-27T18:48:56+00:00",
+      "outlets": [
+        {
+          "source": "The Nerve",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXJhVjJZdG0yblFRbXZNNzh6b003cU5JQVdqQjEtUHZqOGFhQ2NXSGFET3ZSVGVJbW9kelpVTDgyaGdSWmxhZ0JoQ2VLWHZaX2xITXMybEdMQTBseno3VXJkLXcxeVp1UU1MM1NIbWprY2RMOFFRM2ZqNnpZcTdYQlhyVzFOQng1cnVRUWJVaV9OUlFwNlRYc3RhanNXNWc?oc=5",
+          "article_url": "https://www.thenerve.news/p/johnny-flynn-interview-beam-cottage-folk-album-mobland-elsinore-hamlet",
+          "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8ab6146e-ffa3-41ec-9de1-7033c022e0b1/johnnyflynn_thumb.jpg?t=1795797890"
+        }
+      ],
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8ab6146e-ffa3-41ec-9de1-7033c022e0b1/johnnyflynn_thumb.jpg?t=1795797890",
+      "image_source": "https://www.thenerve.news/p/johnny-flynn-interview-beam-cottage-folk-album-mobland-elsinore-hamlet"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Elsinore",
+      "release": "2026-09-04",
+      "director": [
+        "Simon Stone"
+      ],
+      "cast": [
+        "Andrew Scott",
+        "Olivia Colman",
+        "Billie Piper",
+        "Johnny Flynn",
+        "Luke Thompson"
+      ],
+      "budget_usd": 263660,
+      "box_office_usd": 263660,
+      "scope": "Indie / low budget",
+      "verdict": "Grossed $264k",
+      "gross_vs_budget": 1.0,
+      "rotten_tomatoes": "87%",
+      "metacritic": "73/100 from 32 critics",
+      "critics_consensus": null,
+      "critics_overview": "Initial reviews following the film's Telluride and TIFF premieres broadly and unanimously praised Scott's \"role of a lifetime\" performance as Charleson. The film itself was also praised as affecting and moving.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137722359",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elsinore_(film)"
+      }
+    }
+  ]
+}

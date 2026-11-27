@@ -1,0 +1,65 @@
+{
+  "batch": "2026-11-28 07:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "Osgood Perkins’ the Young People, Starring Nicole Kidman and Johnny Knoxville, Gets an R for Bloody Violence and Gore",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc1BDWFZXWWVLOHgyX00zOUJqdjA4clRGUnl6eHJ5NVRHWDM2aDVyQnFXcnd2b2N3Z2FpN0FOczJWbHl3MzBVbmUzTkdXa2I0eVpIcUdOckJ5NUtDNk5xRmJ5NTdxUWx4anYtXzN0cmdycHhkN2lfeTJhMzFjU184WERra0xzT2o5eXpvb0FWOVYzZENlc3ZVNFJZTXJrMmNUZE1PbG1STlV1MWJRSzZ0YU1pZ2U0a1VfOXRRUi1GZ3ZuMmYzcnpLai1oeVJXSEFSTFRvRTVacXo?oc=5",
+      "published": "2026-11-27T20:23:58+00:00",
+      "outlets": [
+        {
+          "source": "Creepy Catalog",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc1BDWFZXWWVLOHgyX00zOUJqdjA4clRGUnl6eHJ5NVRHWDM2aDVyQnFXcnd2b2N3Z2FpN0FOczJWbHl3MzBVbmUzTkdXa2I0eVpIcUdOckJ5NUtDNk5xRmJ5NTdxUWx4anYtXzN0cmdycHhkN2lfeTJhMzFjU184WERra0xzT2o5eXpvb0FWOVYzZENlc3ZVNFJZTXJrMmNUZE1PbG1STlV1MWJRSzZ0YU1pZ2U0a1VfOXRRUi1GZ3ZuMmYzcnpLai1oeVJXSEFSTFRvRTVacXo?oc=5",
+          "article_url": "https://creepycatalog.com/osgood-perkins-the-young-people-starring-nicole-kidman-and-johnny-knoxville-gets-an-r-for-bloody-violence-and-gore/",
+          "image": "https://creepycatalog.com/wp-content/uploads/sites/2/2026/11/osgood-perkins-the-young-people-starring-nicole-kidman-and-johnny-knoxville-gets.jpg?crop=0px,252px,3419px,1790px&resize=1200,628"
+        }
+      ],
+      "image": "https://creepycatalog.com/wp-content/uploads/sites/2/2026/11/osgood-perkins-the-young-people-starring-nicole-kidman-and-johnny-knoxville-gets.jpg?crop=0px,252px,3419px,1790px&resize=1200,628",
+      "image_source": "https://creepycatalog.com/osgood-perkins-the-young-people-starring-nicole-kidman-and-johnny-knoxville-gets-an-r-for-bloody-violence-and-gore/"
+    },
+    {
+      "title": "Want to Smell Like Jennifer Aniston and Nicole Kidman? Get Their Exact Roll-on Perfume Oil",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMW5DTUtZR1duTzVJOTVzWTZSZ3JjSFl3MkxfbVFsV3RZOXZsNzZwcmRaVEFMTjZDMUlxYnR2OGs4ZWRVcFFBY1BkYWduc2EzUl9qU202cml6cU9XNTE1Ui1QVnd0VUlXSUt3S2VycVRaNXZMQ2otN2JuQ3Zpc0RLV0N1NVNraXd0cmJTTUVPTmswZks1MlRUSVE1bmM5ZnoxS2ZUdQ?oc=5",
+      "published": "2026-11-27T12:45:34+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMW5DTUtZR1duTzVJOTVzWTZSZ3JjSFl3MkxfbVFsV3RZOXZsNzZwcmRaVEFMTjZDMUlxYnR2OGs4ZWRVcFFBY1BkYWduc2EzUl9qU202cml6cU9XNTE1Ui1QVnd0VUlXSUt3S2VycVRaNXZMQ2otN2JuQ3Zpc0RLV0N1NVNraXd0cmJTTUVPTmswZks1MlRUSVE1bmM5ZnoxS2ZUdQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "batch": "2026-11-28 07:00",
+  "celebrity": "Chris Hemsworth",
+  "stories": [
+    {
+      "title": "Chris Hemsworth’s Latest Workout Video Has Fans Saying ‘Doom Is Not Ready’ For Thor",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWNoRnJFVEZmQ3dTeFpCaVdxdkExb2hFMDF5MU9BZHNlYzJJb1BtUHlReVdkN3p0MG1aemFiRkhuV3NycUozZDlDR2JaZ0lIZW85YzRwUzhRRWRweGdXazFTX1dNUmR5N2xOekxPd19WRl9aeEpaMUNuSUpnV0hGYVg3Y1JqaHhuTHpxWVR5aVVSYkhKV3pDamxGZDdLdl9yVXZ0WENuRUVkRHB0SEZFbDh4Vl8?oc=5",
+      "published": "2026-11-27T19:16:05+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWNoRnJFVEZmQ3dTeFpCaVdxdkExb2hFMDF5MU9BZHNlYzJJb1BtUHlReVdkN3p0MG1aemFiRkhuV3NycUozZDlDR2JaZ0lIZW85YzRwUzhRRWRweGdXazFTX1dNUmR5N2xOekxPd19WRl9aeEpaMUNuSUpnV0hGYVg3Y1JqaHhuTHpxWVR5aVVSYkhKV3pDamxGZDdLdl9yVXZ0WENuRUVkRHB0SEZFbDh4Vl8?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/chris-hemsworth-latest-workout-video-191605666.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/664ea2ef187cd2edbbaf41de5cf9b1261a63f9413ca5fba1fc3b1180463fdbde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F0490bb872a847bc6fe659194a6534b2b.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/664ea2ef187cd2edbbaf41de5cf9b1261a63f9413ca5fba1fc3b1180463fdbde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F0490bb872a847bc6fe659194a6534b2b.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/chris-hemsworth-latest-workout-video-191605666.html"
+    },
+    {
+      "title": "Chris Hemsworth’s 140-Minute Crime Epic Is Officially One Of 2026’s Biggest Movies",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyemRlb1A1dks2ZTBnVW5zSjgtSUJudGZNTUhTSFlsUDZac1VZWXloYW01Ty1tTXBUdDBIOVhjcmZDXzNwSVlxZkk4elNtZXIzbVEyemlFQ3prc0kwVTZzRFZhdmJ4ak0?oc=5",
+      "published": "2026-11-27T17:54:16+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyemRlb1A1dks2ZTBnVW5zSjgtSUJudGZNTUhTSFlsUDZac1VZWXloYW01Ty1tTXBUdDBIOVhjcmZDXzNwSVlxZkk4elNtZXIzbVEyemlFQ3prc0kwVTZzRFZhdmJ4ak0?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66130737/?ref_=ttnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "ScreenRant",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWZDZU5HUEFkZ0JjcnI4TWZWblNLdFAzVFRmMzVmQkdZYzNwbEJJQ3Zwal9TZTJBY3dFRW5VcXhBVm8tb1RsWm05RGxkSUR4ZW1FbmwtaTVQNTFUejBPTldCTVFVWHR1WjJERURfSndBTm55aEtGYjRvTzBzUWVQekM3azhHbTNpRXlQeEw4a0FKb3ZsdnBj?oc=5",
+          "article_url": "https://screenrant.com/chris-hemsworth-crime-101-prime-video-top-movie-2026-streaming-chart/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/chris-hemsworth-as-mike-davis-in-crime-101.jpg?w=1600&h=900&fit=crop"
+        }
+      ],
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/chris-hemsworth-as-mike-davis-in-crime-101.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/chris-hemsworth-crime-101-prime-video-top-movie-2026-streaming-chart/"
+    }
+  ]
+}

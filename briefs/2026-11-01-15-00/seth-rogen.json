@@ -16,6 +16,77 @@
       ],
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/martin-scorsese.jpg?w=1200&h=675&fit=crop",
       "image_source": "https://www.cbr.com/martin-scorsese-seth-rogen-cleopatra-movie-ruined/"
+    },
+    {
+      "title": "26. Seth Rogen - 2016-04-13 - The World’s Highest-Paid Actors 2015",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BRF9BX281ZzZ2R0EyZUlWQTU1cEtnT216N01JaEktMEpMaGRibkJDZkVENTNwbnljdzdUcDh3QmNlZ3JOYWZzNFZLQmFOa210U2M4S0E4Z3N2OWpuQWdyNFVHd2FtUnpVSEE?oc=5",
+      "published": "2026-11-23T20:04:54+00:00",
+      "outlets": [
+        {
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BRF9BX281ZzZ2R0EyZUlWQTU1cEtnT216N01JaEktMEpMaGRibkJDZkVENTNwbnljdzdUcDh3QmNlZ3JOYWZzNFZLQmFOa210U2M4S0E4Z3N2OWpuQWdyNFVHd2FtUnpVSEE?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "https://imageio.forbes.com/specials-images/imageserve/460338148/0x0.jpg?format=jpg&height=491&width=655&fit=bounds",
+      "image_source": "https://www.forbes.com/pictures/fimi45figmk/26-seth-rogen/"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Wrong Girls",
+      "release": "2026-08-14",
+      "director": [
+        "Dylan Meyer"
+      ],
+      "cast": [
+        "Alia Shawkat",
+        "LaKeith Stanfield",
+        "Zack Fox",
+        "Tony Hale",
+        "Kumail Nanjiani"
+      ],
+      "budget_usd": null,
+      "box_office_usd": 887116,
+      "scope": "",
+      "verdict": "Grossed $887k",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "61%",
+      "metacritic": "59/100 from 20 critics",
+      "critics_consensus": "Proudly stupid and surprisingly sweet, The Wrong Girls coasts on Kristen Stewart and Alia Shawkat's chemistry, even as its barrage of stoner gags produces more genial laughs than truly memorable ones.",
+      "critics_overview": "Archived from the original on August 15, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132560837",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wrong_Girls"
+      }
+    },
+    {
+      "title": "Babies",
+      "release": "2026-09-12",
+      "director": [
+        "Lauren Miller"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Seth Rogen",
+        "Issa Rae",
+        "Dan Stevens",
+        "Zach Cherry"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "88%",
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137380437",
+        "wikipedia": "https://en.wikipedia.org/wiki/Babies_(2026_film)"
+      }
     }
   ]
 }

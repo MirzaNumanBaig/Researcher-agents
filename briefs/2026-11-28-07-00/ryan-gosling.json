@@ -1,0 +1,86 @@
+{
+  "batch": "2026-11-28 07:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Blade Runner 2099 quietly pays off the Ryan Gosling movie’s biggest twist",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9leHpzMXZwT3NxcDZ6czNvaHJqOFFQZFV0TU5BUzBTcmw1S2V5YXd5WHZMbVB2eEpiVXBnbWVwakx0d0oyMkp2MkFiOWk4M1RBWDREOW1BWFJxTk9lRU9BSUpvZnFsa1k?oc=5",
+      "published": "2026-11-27T15:56:34+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9leHpzMXZwT3NxcDZ6czNvaHJqOFFQZFV0TU5BUzBTcmw1S2V5YXd5WHZMbVB2eEpiVXBnbWVwakx0d0oyMkp2MkFiOWk4M1RBWDREOW1BWFJxTk9lRU9BSUpvZnFsa1k?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66130544/?ref_=nmnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "Winter is Coming",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXpacVExbFBneFpnbldqSlJsbW1OZGtzVUM2VWFsTjBOZkVZelIyUFl4UmhsT0NhSzdBY0Q5M2pHRHhxby1ZemlWbDlUMExWVHVoeTFwZ1FCMHFCY0VMN3hVZUhiVlk5UTNGSk02WGVSRE1NTW8wQzljR05fU0tYT0tfZVlPTU5SNjBZWGlSRnpKMVZ4d29JdlBB?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Ryan Gosling’s Project Hail Mary Officially Sets Streaming Record After Box-Office Storm",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfbXVVQVk1MVpjRHRJaDFUZHFfeEV4MGdZNzRmbHBiaTY3Z1N2SUE0YldZYXUxTVBuYnNmbWZVd0lNcUhGeDk2SlJWdkIxZHN1Sk0zbTV2cHNzMHZNeDExQXNva2FBRUE?oc=5",
+      "published": "2026-11-27T12:57:52+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfbXVVQVk1MVpjRHRJaDFUZHFfeEV4MGdZNzRmbHBiaTY3Z1N2SUE0YldZYXUxTVBuYnNmbWZVd0lNcUhGeDk2SlJWdkIxZHN1Sk0zbTV2cHNzMHZNeDExQXNva2FBRUE?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Ryan Gosling's Dead Man's Bones tease more new music",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkpINzBKTF9zTlBRVE9WUkJfZU5KNndJdEtwTFlTVmZtOEFWUF8wNGZhTHNwYjIzbF9lSFMtMFZCYXJXbEhiVEtUeUpaVzBtWXFkcnFLZnBGQkxEYlBKVGZiNkhIRDFmV0RoYXFyNmZzeG9nQV9YVG5qbDZfWGhWU2lpM1JIUmNFNkE?oc=5",
+      "published": "2026-11-27T07:08:18+00:00",
+      "outlets": [
+        {
+          "source": "89 A Rádio Rock",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkpINzBKTF9zTlBRVE9WUkJfZU5KNndJdEtwTFlTVmZtOEFWUF8wNGZhTHNwYjIzbF9lSFMtMFZCYXJXbEhiVEtUeUpaVzBtWXFkcnFLZnBGQkxEYlBKVGZiNkhIRDFmV0RoYXFyNmZzeG9nQV9YVG5qbDZfWGhWU2lpM1JIUmNFNkE?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "79% from 58 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}
