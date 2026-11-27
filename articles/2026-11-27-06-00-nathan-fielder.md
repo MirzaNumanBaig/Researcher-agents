@@ -25,6 +25,7 @@ wp_id: 3834
 wp_link: "https://moduscarry.com/you-can-see-everything-digital-debut/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
