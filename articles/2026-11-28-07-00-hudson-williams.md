@@ -25,6 +25,7 @@ wp_id: 3928
 wp_link: "https://moduscarry.com/hudson-williams-heated-rivalry-roommates/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

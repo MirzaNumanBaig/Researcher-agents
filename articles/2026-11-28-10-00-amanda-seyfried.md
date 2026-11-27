@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried BAFTA 2027: Why She Is Not Eligible"
 seo_description: "Amanda Seyfried BAFTA 2027: her Elizabeth Holmes role is missing from the draft entries list, as rules rule the film's performances out."
 focus_keyword: "Amanda Seyfried BAFTA 2027"
 permalink: "amanda-seyfried-bafta-2027"
-status: approved
+status: sent
 wp_status: publish
 batch: "2026-11-28 10:00"
 celebrity: "Amanda Seyfried"
@@ -14,6 +14,15 @@ tags: ["Amanda Seyfried", "You Can See Everything", "Nathan Fielder", "Project H
 image_prompt: "An empty awards theatre stage with a gold curtain, rows of red seats and a single spotlight on a bare podium"
 sources:
   - "https://variety.com/2026/film/awards/bafta-2027-entries-full-list-amanda-seyfried-1236959765/"
+image: "images/2026-11-28-10-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried, model, actress , at 83rd Venice International Film Festival in Venice, Italy for the film Miu Miu Women's Tales ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_83rd_Venice_International_Film_Festival-2.jpg\" rel=\"noopener\">LucaFazPhoto</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_at_83rd_Venice_International_Film_Festival-2.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3951
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-10-00-amanda-seyfried-768x432.webp"
+wp_id: 3952
+wp_link: "https://moduscarry.com/amanda-seyfried-bafta-2027/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
