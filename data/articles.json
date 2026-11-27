@@ -1,5 +1,35 @@
 [
   {
+    "path": "articles/2026-11-28-10-00-amanda-seyfried.md",
+    "title": "Amanda Seyfried Left Off BAFTA 2027 Entries List",
+    "description": "BAFTA's draft 2027 entries list has 728 performances but none for Amanda Seyfried, whose Elizabeth Holmes role is ruled ineligible.",
+    "status": "pending",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-11-28 10:00",
+    "celebrity": "Amanda Seyfried",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-11-28-10-00-ben-whishaw.md",
+    "title": "Ben Whishaw",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-11-28 10:00",
+    "celebrity": "Ben Whishaw",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Only one thin catalogue item (This Is Going to Hurt added to CANAL+, a Polish-market streaming listing of an existing series); no new Ben Whishaw news and too little verifiable material for 450 words.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
     "path": "articles/2026-11-28-07-00-amanda-seyfried.md",
     "title": "Amanda Seyfried",
     "description": "",
