@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Thor Doctor Doom: Doomsday Tease"
 seo_description: "Chris Hemsworth explains Thor's uneasy bond with Robert Downey Jr.'s Doctor Doom in Avengers: Doomsday, plus where Thor goes next and a horror film leaving streaming."
 focus_keyword: "Chris Hemsworth Thor Doctor Doom"
 permalink: "chris-hemsworth-thor-doctor-doom"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 22:00"
 celebrity: "Chris Hemsworth"
@@ -15,6 +15,15 @@ image_prompt: "A storm cloud gathering over a dark stone throne room, lightning 
 sources:
   - "https://www.netflixjunkie.com/hollywood-news-theres-an-uncertaintychris-hemsworth-teases-thors-encounter-with-doctor-doom/"
   - "https://comicbook.com/movies/news/chris-hemsworths-95-minute-r-rated-meta-horror-movie-is-one-of-the-most-creative-ever-made-and-you-are-running-out-of-time-to-watch-it/"
+image: "images/2026-11-27-22-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Eva Rinaldi Celebrity Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/58820009@N05/7400859836\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3879
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-22-00-chris-hemsworth-768x432.webp"
+wp_id: 3880
+wp_link: "https://moduscarry.com/chris-hemsworth-thor-doctor-doom/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

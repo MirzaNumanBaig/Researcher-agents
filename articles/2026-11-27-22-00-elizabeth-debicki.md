@@ -5,7 +5,7 @@ seo_title: "Elizabeth Debicki Career: From Melbourne to Hollywood"
 seo_description: "Elizabeth Debicki's career journey, from a Melbourne ballet family to Gatsby, Tenet and The Crown, in a new Yahoo profile. Read the key steps."
 focus_keyword: "Elizabeth Debicki career"
 permalink: "elizabeth-debicki-career"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 22:00"
 celebrity: "Elizabeth Debicki"
@@ -14,6 +14,15 @@ tags: ["Elizabeth Debicki", "The Great Gatsby", "Tenet", "The Crown"]
 image_prompt: "An empty ballet rehearsal studio with wooden floors and tall mirrors, lit by warm late afternoon light"
 sources:
   - "https://www.yahoo.com/entertainment/slideshows/elizabeth-debickis-surprising-journey-hollywood-072100472.html"
+image: "images/2026-11-27-22-00-elizabeth-debicki.webp"
+image_alt: "Elizabeth Debicki: Elizabeth Debicki's Path From Melbourne Dance Studio to Hollywood"
+image_credit: "Image: <a href=\"https://www.yahoo.com/entertainment/slideshows/elizabeth-debickis-surprising-journey-hollywood-072100472.html\" rel=\"nofollow noopener\">yahoo.com</a> (cropped)"
+wp_media_id: 3887
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-22-00-elizabeth-debicki-768x432.webp"
+wp_id: 3888
+wp_link: "https://moduscarry.com/elizabeth-debicki-career/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

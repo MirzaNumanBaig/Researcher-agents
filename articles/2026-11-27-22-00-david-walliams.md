@@ -5,7 +5,7 @@ seo_title: "David Walliams Books Petition: Libraries and Injunction Row"
 seo_description: "A parent's David Walliams books petition asks Cambridgeshire libraries to act, while a Scottish editor explains the injunction row. Here is what is known."
 focus_keyword: "David Walliams books petition"
 permalink: "david-walliams-books-petition"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 22:00"
 celebrity: "David Walliams"
@@ -15,6 +15,15 @@ image_prompt: "A quiet children's library shelf of colourful picture books in so
 sources:
   - "https://www.cambridgeindependent.co.uk/news/parent-s-petition-calls-for-cambridgeshire-libraries-to-remo-9493173/"
   - "https://www.thenational.scot/comment/26766846.journalism-vital-functioning-democracy/"
+image: "images/2026-11-27-22-00-david-walliams.webp"
+image_alt: "David Walliams: Movie Premiere"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Ashleigh_and_David_Walliams_(the_voice_of_Pudsey_in_the_movie)_(cropped).JPG\" rel=\"noopener\">Peculiar Realm</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Ashleigh_and_David_Walliams_(the_voice_of_Pudsey_in_the_movie)_(cropped).JPG\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3881
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-22-00-david-walliams-768x432.webp"
+wp_id: 3882
+wp_link: "https://moduscarry.com/david-walliams-books-petition/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

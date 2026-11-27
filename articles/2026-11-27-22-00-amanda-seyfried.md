@@ -5,7 +5,7 @@ seo_title: "Amanda Seyfried You Can See Everything: How She Joined"
 seo_description: "Amanda Seyfried You Can See Everything: Nathan Fielder explains how Emma Stone's tip and one phone call put her in the Elizabeth Holmes film."
 focus_keyword: "Amanda Seyfried You Can See Everything"
 permalink: "amanda-seyfried-you-can-see-everything-how-she-joined"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 22:00"
 celebrity: "Amanda Seyfried"
@@ -14,6 +14,15 @@ tags: ["Amanda Seyfried", "You Can See Everything", "Nathan Fielder"]
 image_prompt: "An empty cinema auditorium with a single projector beam cutting through dust toward a blank screen, warm low light"
 sources:
   - "https://www.huffingtonpost.co.uk/entry/you-can-see-everything-amanda-seyfried-how_uk_6b094904e4b01f494a0380c4"
+image: "images/2026-11-27-22-00-amanda-seyfried.webp"
+image_alt: "Amanda Seyfried: Amanda Seyfried attends Miu Miu Women's Tales during the 83rd Venice International Film Festival at on September 05, 2026 in Venice, Italy"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_Venice_Film_Festival_2.jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Amanda_Seyfried_Venice_Film_Festival_2.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3873
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-22-00-amanda-seyfried-768x432.webp"
+wp_id: 3874
+wp_link: "https://moduscarry.com/amanda-seyfried-you-can-see-everything-how-she-joined/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

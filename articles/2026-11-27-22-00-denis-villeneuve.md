@@ -5,7 +5,7 @@ seo_title: "Denis Villeneuve Dune Part Three: 'Most Personal Film'"
 seo_description: "Denis Villeneuve calls Dune: Part Three his most epic and personal film. Here is what he and his cast said, and how Bond casting talk fits in."
 focus_keyword: "Denis Villeneuve Dune Part Three"
 permalink: "denis-villeneuve-dune-part-three"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 22:00"
 celebrity: "Denis Villeneuve"
@@ -16,6 +16,15 @@ sources:
   - "https://news.sbs.co.kr/english/article.do?news_id=N1008866877"
   - "https://www.mk.co.kr/en/hot-issues/12220164"
   - "https://www.geo.tv/latest/692803-florence-pugh-gets-ahead-in-race-to-be-robert-pattinsons-bond-girl"
+image: "images/2026-11-27-22-00-denis-villeneuve.webp"
+image_alt: "Denis Villeneuve: Denis Villeneuve speaking at the 2017 San Diego Comic-Con International in San Diego, California."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_by_Gage_Skidmore.jpg\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Denis_Villeneuve_by_Gage_Skidmore.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3885
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-22-00-denis-villeneuve-768x432.webp"
+wp_id: 3886
+wp_link: "https://moduscarry.com/denis-villeneuve-dune-part-three-3/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

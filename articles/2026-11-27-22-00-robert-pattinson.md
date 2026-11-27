@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Girl Odds: Florence Pugh Moves Up"
 seo_description: "Robert Pattinson Bond girl betting shifts as Florence Pugh shortens to 3/1 after a text to Denis Villeneuve. Here is who is ahead and what is confirmed."
 focus_keyword: "Robert Pattinson Bond girl"
 permalink: "robert-pattinson-bond-girl-odds"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 22:00"
 celebrity: "Robert Pattinson"
@@ -16,6 +16,15 @@ sources:
   - "https://www.geo.tv/latest/692803-florence-pugh-gets-ahead-in-race-to-be-robert-pattinsons-bond-girl"
   - "https://www.plataformamedia.com/en/2026/11/27/on-his-majestys-secret-service-james-bond-robert-pattinson-eyeing-cotswolds-near-prince-harry-meghan-markle/"
   - "https://www.digitalspy.com/movies/a74539624/robert-pattinson-twilight-james-bond-scene/"
+image: "images/2026-11-27-22-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Actor Robert Pattinson at the 75th Berlin International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65806.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson-65806.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3904
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-22-00-robert-pattinson-768x432.webp"
+wp_id: 3905
+wp_link: "https://moduscarry.com/robert-pattinson-bond-girl-odds/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

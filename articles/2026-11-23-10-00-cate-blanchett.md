@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Champs-Élysées Christmas Lights in Louis Vuitton"
 seo_description: "Cate Blanchett Champs-Élysées Christmas lights: the actress wore Louis Vuitton to the Paris switch-on on a rainy evening. See the full look."
 focus_keyword: "Cate Blanchett Champs-Élysées"
 permalink: "cate-blanchett-champs-elysees-christmas-lights"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-23 10:00"
 celebrity: "Cate Blanchett"
@@ -15,6 +15,15 @@ image_prompt: "A rain-soaked Parisian boulevard at night lined with glowing Chri
 sources:
   - "https://www.redcarpet-fashionawards.com/2026/11/23/cate-blanchett-lights-up-the-champs-elysees-christmas-celebrations/"
   - "https://www.yahoo.com/entertainment/celebrity/fashion/articles/cate-blanchett-lights-champs-lys-182603163.html"
+image: "images/2026-11-23-10-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-6.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-6.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3869
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-23-10-00-cate-blanchett-768x432.webp"
+wp_id: 3870
+wp_link: "https://moduscarry.com/cate-blanchett-champs-elysees-christmas-lights/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

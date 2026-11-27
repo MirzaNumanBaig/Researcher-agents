@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Adelaide Park Lands Campaign Explained"
 seo_description: "Cate Blanchett has joined nearly 14,000 signatories against felling 377 Adelaide Park Lands trees for MotoGP. Here is what is at stake and what comes next."
 focus_keyword: "Cate Blanchett Adelaide Park Lands"
 permalink: "cate-blanchett-adelaide-park-lands"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 22:00"
 celebrity: "Cate Blanchett"
@@ -16,6 +16,15 @@ sources:
   - "https://streamlinefeed.co.ke/news/blanchett-joins-parklands-protest-before-adelaide-motogp-clearing"
   - "https://newshub.medianet.com.au/2026/11/lungs-of-the-city-campaign-backed-by-sia-cate-blanchett-and-paul-kelly-as-adelaide-park-lands-tree-removal-looms/184404/"
   - "https://www.dailymail.com/sport/othersports/article-16325487/cate-blanchett-adelaide-motogp-trees-parklands-backlash.html"
+image: "images/2026-11-27-22-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett presenting the movie T\u00e1r at the Berlinale 2023"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:MKr26816_Cate_Blanchett_(T%C3%A1r,_Berlinale_2023).jpg\" rel=\"noopener\">Martin Kraft</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:MKr26816_Cate_Blanchett_(T%C3%A1r,_Berlinale_2023).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3877
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-22-00-cate-blanchett-768x432.webp"
+wp_id: 3878
+wp_link: "https://moduscarry.com/cate-blanchett-adelaide-park-lands/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

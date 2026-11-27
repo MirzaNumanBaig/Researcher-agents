@@ -5,7 +5,7 @@ seo_title: "Sunrise on the Reaping Soundtrack: Songs and Review"
 seo_description: "The Sunrise on the Reaping soundtrack features Stevie Nicks, The Cure and Jennifer Lawrence, while one review finds the prequel tamer than the originals."
 focus_keyword: "Sunrise on the Reaping soundtrack"
 permalink: "sunrise-on-the-reaping-soundtrack"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-27 22:00"
 celebrity: "The Hunger Games: Sunrise on the Reaping"
@@ -16,6 +16,15 @@ sources:
   - "https://www.arabnews.com/entertainment/review-the-hunger-games-sunrise-on-the-reaping-lacks-bite-of-originals-3014228"
   - "https://www.radiotimes.com/movies/scifi/hunger-games-sunrise-on-the-reaping-songs-soundtrack/"
   - "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+image: "images/2026-11-27-22-00-the-hunger-games-sunrise-on-the-reaping.webp"
+image_alt: "The Hunger Games: Sunrise on the Reaping: Sunrise on the Reaping: Soundtrack Songs and a Cooler Review"
+image_credit: "Image: <a href=\"https://www.radiotimes.com/movies/scifi/hunger-games-sunrise-on-the-reaping-songs-soundtrack/\" rel=\"nofollow noopener\">radiotimes.com</a> (cropped)"
+wp_media_id: 3908
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-27-22-00-the-hunger-games-sunrise-on-the-reaping-768x432.webp"
+wp_id: 3909
+wp_link: "https://moduscarry.com/sunrise-on-the-reaping-soundtrack/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

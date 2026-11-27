@@ -26,6 +26,7 @@ wp_id: 3840
 wp_link: "https://moduscarry.com/robert-pattinson-dune-part-three/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
