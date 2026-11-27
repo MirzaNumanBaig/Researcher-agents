@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-12",
-   "time": "2026-11-12T23:52:22+00:00",
-   "batch": "2026-11-13 10:00",
-   "celebrity": "Nathan Fielder",
-   "article": "2026-11-13-10-00-nathan-fielder.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 4266,
-   "cache_read_tokens": 119498,
-   "cache_write_tokens": 27825,
-   "turns": 7,
-   "seconds": 32,
-   "cost_usd": 0.1661
-  },
-  {
-   "date": "2026-11-12",
    "time": "2026-11-12T23:54:33+00:00",
    "batch": "2026-11-13 10:00",
    "celebrity": "Pamela Anderson",
@@ -23999,6 +23983,22 @@
    "turns": 15,
    "seconds": 49,
    "cost_usd": 0.2863
+  },
+  {
+   "date": "2026-11-27",
+   "time": "2026-11-27T03:07:04+00:00",
+   "batch": "2026-11-27 13:00",
+   "celebrity": "Rebel Wilson",
+   "article": "2026-11-27-13-00-rebel-wilson.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3592,
+   "cache_read_tokens": 120320,
+   "cache_write_tokens": 26022,
+   "turns": 7,
+   "seconds": 27,
+   "cost_usd": 0.1522
   }
  ]
 }
