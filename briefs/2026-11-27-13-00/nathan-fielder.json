@@ -12,10 +12,16 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREZTb3V0SFN2YVpFTlRXcHRObnVTeTQtYXZON2FqdUgxMGduNzBFSlgzWnhPVUo1a2I5QUZ1eDgtcTVBM0daNmdpakljZi1wcXlIakFkTUdSeld2WVBYc1E0Tk9CS3hnVlBkdnJieHp1Y2U4QkZMZ3psdnJOaW1HTFNaelRyUkl4YzhrWGt2eEFRZlV4dTRUY3hR?oc=5",
           "article_url": "",
           "image": ""
+        },
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkF6b3h4OE9feWhEUEktX0dHX2lHZi1RRF9EVTF0YkE3enZodjdHWkdWb2NFTUV5UDA3bEpPemNMbS1nRHJQZFFNcmZqUUJGSW9pR1BXaE4waTZNWTdmWW5xNktod2ZWdE1qTUZna2dzRGFqbWJaak15VVRyUWVGcjk5UGNqTEVXd0ZsU0pHTExGV1dSV09td0Frazg?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/tv/articles/nathan-fielder-cult-comedy-series-223000287.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/51d505cb194f827967cbc8e29b1a9458bd27eac886ecfd7b600a85a9893309ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F3674de9347486a5730ab12eccd70e2bb.jpg"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://s.yimg.com/lo/mysterio/api/51d505cb194f827967cbc8e29b1a9458bd27eac886ecfd7b600a85a9893309ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F3674de9347486a5730ab12eccd70e2bb.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/tv/articles/nathan-fielder-cult-comedy-series-223000287.html"
     }
   ],
   "film_facts": [

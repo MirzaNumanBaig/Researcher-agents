@@ -1,0 +1,80 @@
+{
+  "batch": "2026-11-27 22:00",
+  "celebrity": "Nicole Kidman",
+  "stories": [
+    {
+      "title": "How ‘Nicole Kidman’ turned Adéla into the first Slovak pop star",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOFFXTDRmQVZDLWd3czM1aWxfSTdNUG5GS1BSUmF6VW9KZlJrSHVaaUZnaTRSZ2s1ZUM4cDMyNl9xNFRvcVdEczZtRkJuWlNPaWZJRXhRWmg4RE5VV3RDRVh5c0VNZUJFdThWNnJVd250MkVlb0dqczlBSWNqU21tckZiTVc3TXJZUjVwX2NVSUJ3LXVhamZOb0NDQUo2eU43TW5ESFZxZ2g?oc=5",
+      "published": "2026-11-27T11:32:19+00:00",
+      "outlets": [
+        {
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOFFXTDRmQVZDLWd3czM1aWxfSTdNUG5GS1BSUmF6VW9KZlJrSHVaaUZnaTRSZ2s1ZUM4cDMyNl9xNFRvcVdEczZtRkJuWlNPaWZJRXhRWmg4RE5VV3RDRVh5c0VNZUJFdThWNnJVd250MkVlb0dqczlBSWNqU21tckZiTVc3TXJZUjVwX2NVSUJ3LXVhamZOb0NDQUo2eU43TW5ESFZxZ2g?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Laura Dern Just Joined Nicole Kidman in Wearing the Chic Shoe Trend Replacing Regular Sneakers—From $28",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5SnZ4Wi1lSzZxYjVoMmhrcUZzRTh4ZjVhbGVEN3lzb01hT1I0VVI4S0xxR2luekhhRXFsUzd4bUlIQ05pS3lUR0VKV29xczI3dWtmSlNVSzgzM1BYTGFOb2w4aV9PNTFBUjVsTkkzRVA3Ti16VWZ5YzFlX204UQ?oc=5",
+      "published": "2026-11-27T03:00:00+00:00",
+      "outlets": [
+        {
+          "source": "InStyle",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5SnZ4Wi1lSzZxYjVoMmhrcUZzRTh4ZjVhbGVEN3lzb01hT1I0VVI4S0xxR2luekhhRXFsUzd4bUlIQ05pS3lUR0VKV29xczI3dWtmSlNVSzgzM1BYTGFOb2w4aV9PNTFBUjVsTkkzRVA3Ti16VWZ5YzFlX204UQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Tyla Sings ADÉLA’s “Nicole Kidman” During Boston A*POP World Tour Stop",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BaG4ySU5WWi0zd2NrbUptbzVqTG5ZZU1KQW4zbTJTWVZqajNvN0VVTy0xS0VLVmI0OXpUdXFZNV9hcjR4VzcwZm1qYVFEQzlkREhHUWFsbGNEVDVzWklMT1lHSjBuR25CXzdUcGJHbUFqSG1ibVB6SQ?oc=5",
+      "published": "2026-11-26T15:24:02+00:00",
+      "outlets": [
+        {
+          "source": "InMusic Blog",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BaG4ySU5WWi0zd2NrbUptbzVqTG5ZZU1KQW4zbTJTWVZqajNvN0VVTy0xS0VLVmI0OXpUdXFZNV9hcjR4VzcwZm1qYVFEQzlkREhHUWFsbGNEVDVzWklMT1lHSjBuR25CXzdUcGJHbUFqSG1ibVB6SQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Practical Magic 2",
+      "release": "2026-08-26",
+      "director": [
+        "Susanne Bier"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Joey King"
+      ],
+      "budget_usd": 75000000,
+      "box_office_usd": 106000000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.41,
+      "rotten_tomatoes": "35%",
+      "metacritic": "44/100 from 41 critics",
+      "critics_consensus": "Nostalgic and inert, Practical Magic 2 has charms thanks to Sandra Bullock and Nicole Kidman's sisterly rapport, but its mechanical plotting is a whole lot of toil that's not worth the trouble.",
+      "critics_overview": "Despite its moderate production and marketing costs, Variety wrongly estimated the film would lose Warner Bros. Nikki Gemmell of The Australian gave it a three-out-of-five review and wrote, \"Fans will still be fans.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q131901398",
+        "wikipedia": "https://en.wikipedia.org/wiki/Practical_Magic_2"
+      }
+    }
+  ]
+}

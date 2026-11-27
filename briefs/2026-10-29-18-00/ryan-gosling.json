@@ -1,0 +1,56 @@
+{
+  "batch": "2026-10-29 18:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Ryan Gosling Revives Dead Man’s Bones After 17 Years",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlI5UHZSVTBDbnQtaFp2TkFpSUpqLXJxNFJ6SFZtemJWVGZiaTBaUnIxLXctS1FwdHRpaHliRU5XREUybUVpU0hXWnZBYkFPd3AzSTJLSlBhOGoyWFBzanFPYVU5YWtBRy1DZERBRG9UQ2I4UlZsMUpDVEN5NkRqUEJ2N19JUkxwOGNxMEF4ZUtmV1ZvVEE?oc=5",
+      "published": "2026-11-11T11:47:06+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlI5UHZSVTBDbnQtaFp2TkFpSUpqLXJxNFJ6SFZtemJWVGZiaTBaUnIxLXctS1FwdHRpaHliRU5XREUybUVpU0hXWnZBYkFPd3AzSTJLSlBhOGoyWFBzanFPYVU5YWtBRy1DZERBRG9UQ2I4UlZsMUpDVEN5NkRqUEJ2N19JUkxwOGNxMEF4ZUtmV1ZvVEE?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yekd4N0hVR2dlSGE1WVBCT25vX1VnLVIxTVJGV0hsSEFPZWF0RGMzNGo0TzJpT1ZWa3l0cFFCUktPMnV3ZkE4ME9sNEgxVk1fUG1VQlpHdVRzTjk4ZHhzWkh1RG5FV202WmxyMVU5OVNGblZVakhB?oc=5",
+          "article_url": "https://sg.news.yahoo.com/ryan-gosling-dead-man-bones-170300158.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/2882135ddec8fdd4cedbbcd5e12bc665a6f5abcf98e87dae8a07ca2e34320279/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_daily_news_national_852%2F31259caeef8c829f9ec8d741166939e4.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/2882135ddec8fdd4cedbbcd5e12bc665a6f5abcf98e87dae8a07ca2e34320279/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_daily_news_national_852%2F31259caeef8c829f9ec8d741166939e4.jpg",
+      "image_source": "https://sg.news.yahoo.com/ryan-gosling-dead-man-bones-170300158.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "79% from 58 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

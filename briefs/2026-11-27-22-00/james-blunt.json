@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-27 22:00",
+  "celebrity": "James Blunt",
+  "stories": [
+    {
+      "title": "BBC Local Radio celebrates Christmas with James Blunt, Take That and Make a Difference Awards winners",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamhmbzAyaXJ3YjZaVHhRT1FQTTJvbGZUT3FjTkVaY3V5a3ViT1c2MUZya1lMczR1MEZOVHlZRExPSm1pcDBudHBzWXZ2VVVtQldZa09UTnpOTEw4Rnp5cmRFV25CWUViZjJEVzdOSDJtbmpsSEZidEJjemV0WFVTaW9wb0xnTG0yRW9LZlBSVHpySDVqcjNhZGp4bDdLM3Jjb0hUc3lNWks?oc=5",
+      "published": "2026-11-27T11:00:00+00:00",
+      "outlets": [
+        {
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamhmbzAyaXJ3YjZaVHhRT1FQTTJvbGZUT3FjTkVaY3V5a3ViT1c2MUZya1lMczR1MEZOVHlZRExPSm1pcDBudHBzWXZ2VVVtQldZa09UTnpOTEw4Rnp5cmRFV25CWUViZjJEVzdOSDJtbmpsSEZidEJjemV0WFVTaW9wb0xnTG0yRW9LZlBSVHpySDVqcjNhZGp4bDdLM3Jjb0hUc3lNWks?oc=5",
+          "article_url": "https://www.bbc.co.uk/mediacentre/2026/bbc-local-radio-christmas-featuring-take-that-james-blunt-and-more",
+          "image": "https://ichef.bbci.co.uk/images/ic/1920x1080/p0pq2pmk.jpg"
+        }
+      ],
+      "image": "https://ichef.bbci.co.uk/images/ic/1920x1080/p0pq2pmk.jpg",
+      "image_source": "https://www.bbc.co.uk/mediacentre/2026/bbc-local-radio-christmas-featuring-take-that-james-blunt-and-more"
+    },
+    {
+      "title": "Kate Garraway reveals how stars teamed up in pub for James Blunt charity single",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaGVMMURUWEVOZUp1eEtUaG1aUjBOUE1GenQ5N2t5c2pBX0N0WFJmSXpwLWxoSUEwTEttUUI5cW8xcFB4RnlvM3pMM0NPclMtcjVsZDhJVUVEMkdNR0pQRDdIVWtaWmttWlZMV09SN2oxM0NRc3ZOTkZwNElya2ZPMnl3cnp4QnZoYzJac2h3U2ZGSXgycVc2Q3U0bWNQRjRHdW5WekxORzBETEphSHVkMkctcl8wM0Y3VVVUVUJlNzlMTGY2endjYQ?oc=5",
+      "published": "2026-11-27T10:41:46+00:00",
+      "outlets": [
+        {
+          "source": "Norwich Evening News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaGVMMURUWEVOZUp1eEtUaG1aUjBOUE1GenQ5N2t5c2pBX0N0WFJmSXpwLWxoSUEwTEttUUI5cW8xcFB4RnlvM3pMM0NPclMtcjVsZDhJVUVEMkdNR0pQRDdIVWtaWmttWlZMV09SN2oxM0NRc3ZOTkZwNElya2ZPMnl3cnp4QnZoYzJac2h3U2ZGSXgycVc2Q3U0bWNQRjRHdW5WekxORzBETEphSHVkMkctcl8wM0Y3VVVUVUJlNzlMTGY2endjYQ?oc=5",
+          "article_url": "https://www.eveningnews24.co.uk/things-to-do/national/26768362.kate-garraway-reveals-stars-teamed-pub-james-blunt-charity-single/",
+          "image": "https://www.eveningnews24.co.uk/resources/images/21771485.jpg?type=og-image"
+        }
+      ],
+      "image": "https://www.eveningnews24.co.uk/resources/images/21771485.jpg?type=og-image",
+      "image_source": "https://www.eveningnews24.co.uk/things-to-do/national/26768362.kate-garraway-reveals-stars-teamed-pub-james-blunt-charity-single/"
+    }
+  ]
+}

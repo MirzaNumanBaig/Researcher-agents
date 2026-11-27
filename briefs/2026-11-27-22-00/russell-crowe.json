@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-27 22:00",
+  "celebrity": "Russell Crowe",
+  "stories": [
+    {
+      "title": "LeBron James Praises The Rock, Drew McIntyre Learns From Henry Cavill & Russell Crowe",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkZRNjdMU0lfNjg5OFN2UlFOS1FabjcwSlZORzQ2eVRpNEFGaE5BWkRqczZYaTlJVDJXelV3YVdfQlo1emg2MlVfZXBINTdFNzNrRmJCcTh0b082NE8zeEtucTlkaWVtd1h1Z180T3ZqYngyY0xLOFlPelJoZmpMVVRZeVF3a3JtX1RHOXIxZWFBUW9jRDdFeThUcEFQdm9SNUxjdl9fUDBtVmJkbFhyd0V4SmtBVFBoLUd4YUtTTQ?oc=5",
+      "published": "2026-11-27T07:16:45+00:00",
+      "outlets": [
+        {
+          "source": "eWrestlingNews.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkZRNjdMU0lfNjg5OFN2UlFOS1FabjcwSlZORzQ2eVRpNEFGaE5BWkRqczZYaTlJVDJXelV3YVdfQlo1emg2MlVfZXBINTdFNzNrRmJCcTh0b082NE8zeEtucTlkaWVtd1h1Z180T3ZqYngyY0xLOFlPelJoZmpMVVRZeVF3a3JtX1RHOXIxZWFBUW9jRDdFeThUcEFQdm9SNUxjdl9fUDBtVmJkbFhyd0V4SmtBVFBoLUd4YUtTTQ?oc=5",
+          "article_url": "https://www.ewrestlingnews.com/news/wwe/lebron-james-praises-the-rock-drew-mcintyre-learns-from-henry-cavill-russell-crowe",
+          "image": "https://www.ewrestlingnews.com/wp-content/uploads/2026/11/the-rock-2.jpg"
+        }
+      ],
+      "image": "https://www.ewrestlingnews.com/wp-content/uploads/2026/11/the-rock-2.jpg",
+      "image_source": "https://www.ewrestlingnews.com/news/wwe/lebron-james-praises-the-rock-drew-mcintyre-learns-from-henry-cavill-russell-crowe"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Unabomber",
+      "release": "2026-09-25",
+      "director": [
+        "Janus Metz Pedersen"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "25%",
+      "metacritic": "46/100 from 18 critics",
+      "critics_consensus": "Playing armchair psychologist to one of America's most infamous killers, Unabomber's fine acting can't compensate for an unconvincing thesis.",
+      "critics_overview": "Robert Daniels of RogerEbert.com gave the film a two out of four stars rating, criticizing its use of tropes from the biopic genre and saying that it felt like a television film. Richard Lawson of The Hollywood Reporter criticized both Crowe's and Tremblay's performances, calling the former \"phone[d] in\".",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q139596561",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unabomber_(film)"
+      }
+    }
+  ]
+}

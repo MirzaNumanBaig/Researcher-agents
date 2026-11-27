@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-27 22:00",
+  "celebrity": "David Walliams",
+  "stories": [
+    {
+      "title": "I defied the Ryan Giggs superinjunction. Here's why David Walliams was different",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanN2YURfRHBjT05KcVhLRURTbVgxbG1zc2xBNGktUjJFdzFkZngtWUU0RzczR2xJNWhuUEMzWnBQME5oX0VVYkRGdkR5R2dNQ3pCb05EYmJtWHhJQVlCWnJpRmNPUXpwUkV6SlFLcU1oVGp6N1NIUW42TmZtLTJRbThNdTc4cUZoRW82VVVn?oc=5",
+      "published": "2026-11-27T11:25:58+00:00",
+      "outlets": [
+        {
+          "source": "The National Scot",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanN2YURfRHBjT05KcVhLRURTbVgxbG1zc2xBNGktUjJFdzFkZngtWUU0RzczR2xJNWhuUEMzWnBQME5oX0VVYkRGdkR5R2dNQ3pCb05EYmJtWHhJQVlCWnJpRmNPUXpwUkV6SlFLcU1oVGp6N1NIUW42TmZtLTJRbThNdTc4cUZoRW82VVVn?oc=5",
+          "article_url": "https://www.thenational.scot/comment/26766846.journalism-vital-functioning-democracy/",
+          "image": "https://www.thenational.scot/resources/images/21770857.jpg?type=og-image"
+        }
+      ],
+      "image": "https://www.thenational.scot/resources/images/21770857.jpg?type=og-image",
+      "image_source": "https://www.thenational.scot/comment/26766846.journalism-vital-functioning-democracy/"
+    },
+    {
+      "title": "Parent’s petition calls for Cambridgeshire libraries to remove David Walliams books from shelves",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVC1ia0NhUWd2QWdTdEMtVU5fdHN4VFFSZlFVSktVajN4UFRvYnYtZ2ZsaE1hUnZtcDIxZWh4bGJBWTg5ZDZKR2ttamE3Q2NwNlFVcFJNVGxUMGNWdjRHN2tHQUllLVRLVXpaREttQTI1SncwWnF1dFl4cE5PNEotY0dkbHZtaDktc05HaW5WZ29NUFlkQU1Faml4dGdHc241WktxbkNSdDZEaURKMHAxMlk1VQ?oc=5",
+      "published": "2026-11-27T05:01:00+00:00",
+      "outlets": [
+        {
+          "source": "Cambridge Independent",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVC1ia0NhUWd2QWdTdEMtVU5fdHN4VFFSZlFVSktVajN4UFRvYnYtZ2ZsaE1hUnZtcDIxZWh4bGJBWTg5ZDZKR2ttamE3Q2NwNlFVcFJNVGxUMGNWdjRHN2tHQUllLVRLVXpaREttQTI1SncwWnF1dFl4cE5PNEotY0dkbHZtaDktc05HaW5WZ29NUFlkQU1Faml4dGdHc241WktxbkNSdDZEaURKMHAxMlk1VQ?oc=5",
+          "article_url": "https://www.cambridgeindependent.co.uk/news/parent-s-petition-calls-for-cambridgeshire-libraries-to-remo-9493173/",
+          "image": "https://www.cambridgeindependent.co.uk/_media/img/Y3CS6011WXTPSMW4RO43.jpg"
+        }
+      ],
+      "image": "https://www.cambridgeindependent.co.uk/_media/img/Y3CS6011WXTPSMW4RO43.jpg",
+      "image_source": "https://www.cambridgeindependent.co.uk/news/parent-s-petition-calls-for-cambridgeshire-libraries-to-remo-9493173/"
+    }
+  ]
+}

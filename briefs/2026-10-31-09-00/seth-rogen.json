@@ -88,6 +88,77 @@
       ],
       "image": "https://deadline.com/wp-content/uploads/2026/10/Seth-Rogen-Martin-Scorsese-2-shot.jpg",
       "image_source": "https://deadline.com/2026/10/martin-scorsese-seth-rogen-ruined-cleopatra-film-1237210059/"
+    },
+    {
+      "title": "Seth Rogen admits he wasn’t sure Jake Gyllenhaal’s ‘Donnie Darko’ performance would land",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWxBMDMtUUl4SjBfazNleE5DMEM4SlhURTNQbV9HTVoxWnhWeUNJNVptR2UxTjJIdVlJRDdwOG4xWS1XcGdiYjJrR290eV9hMHRvcHJ5Qm4xSmRkNGgyc0M5ZGtrSlRiOVlmQXdNaWxWRHJMRUJxa0xnaGtlYlZPU0Rvc3ZBb1NNXzlhNTNDcnRzQVNxUVE?oc=5",
+      "published": "2026-10-30T21:14:30+00:00",
+      "outlets": [
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWxBMDMtUUl4SjBfazNleE5DMEM4SlhURTNQbV9HTVoxWnhWeUNJNVptR2UxTjJIdVlJRDdwOG4xWS1XcGdiYjJrR290eV9hMHRvcHJ5Qm4xSmRkNGgyc0M5ZGtrSlRiOVlmQXdNaWxWRHJMRUJxa0xnaGtlYlZPU0Rvc3ZBb1NNXzlhNTNDcnRzQVNxUVE?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/movies/articles/seth-rogen-admits-wasn-t-211430574.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/43ad6909987f9e4c6a34d8115749982303636bccda6e03aacbac3edeec94494c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fholly_chatter_853%2Fe259bcdb54c33c1cdec0bc9f74b3ba14"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/43ad6909987f9e4c6a34d8115749982303636bccda6e03aacbac3edeec94494c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fholly_chatter_853%2Fe259bcdb54c33c1cdec0bc9f74b3ba14",
+      "image_source": "https://www.yahoo.com/entertainment/movies/articles/seth-rogen-admits-wasn-t-211430574.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Wrong Girls",
+      "release": "2026-08-14",
+      "director": [
+        "Dylan Meyer"
+      ],
+      "cast": [
+        "Alia Shawkat",
+        "LaKeith Stanfield",
+        "Zack Fox",
+        "Tony Hale",
+        "Kumail Nanjiani"
+      ],
+      "budget_usd": null,
+      "box_office_usd": 887116,
+      "scope": "",
+      "verdict": "Grossed $887k",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "61%",
+      "metacritic": "59/100 from 20 critics",
+      "critics_consensus": "Proudly stupid and surprisingly sweet, The Wrong Girls coasts on Kristen Stewart and Alia Shawkat's chemistry, even as its barrage of stoner gags produces more genial laughs than truly memorable ones.",
+      "critics_overview": "Archived from the original on August 15, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132560837",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wrong_Girls"
+      }
+    },
+    {
+      "title": "Babies",
+      "release": "2026-09-12",
+      "director": [
+        "Lauren Miller"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Seth Rogen",
+        "Issa Rae",
+        "Dan Stevens",
+        "Zach Cherry"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "88%",
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137380437",
+        "wikipedia": "https://en.wikipedia.org/wiki/Babies_(2026_film)"
+      }
     }
   ]
 }

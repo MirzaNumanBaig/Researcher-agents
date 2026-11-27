@@ -1,0 +1,36 @@
+{
+  "batch": "2026-11-27 22:00",
+  "celebrity": "Keanu Reeves",
+  "stories": [
+    {
+      "title": "Keanu Reeves",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSFU4ZUZnVmt2UVVDY3V0bTB0Ym5NSWsyXzFtYkFValJzS195eGNRVVlOMDhIYzRaSk4xTTVzSDR5bl9WTzJoR0tVbWpKTlM1eFBVVjF2RWtiRVRUTERidllBbXRiX0ZIQldTMXk0SUV2WndsNXVFdjBKYlNHU3VwOE5B?oc=5",
+      "published": "2026-11-27T02:51:20+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSFU4ZUZnVmt2UVVDY3V0bTB0Ym5NSWsyXzFtYkFValJzS195eGNRVVlOMDhIYzRaSk4xTTVzSDR5bl9WTzJoR0tVbWpKTlM1eFBVVjF2RWtiRVRUTERidllBbXRiX0ZIQldTMXk0SUV2WndsNXVFdjBKYlNHU3VwOE5B?oc=5",
+          "article_url": "https://www.imdb.com/name/nm0000206/mediaviewer/rm3629115394/?ref_=nm_ph_1_2",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Keanu Reeves",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmlIZnJYNDdQMmxlalAtU0MyS2lxQU84QmszUHo0LUxWRFM0Si1sTEYwRlA2T1d0MktCOEZVSjJaWWtRUFVjZ01vVDU1dk1hamRSMHdNU3pvX28tNktnSUhocnNtbnVhRlQ1dDB6MkdCUTJlam95ZmpkNjBnTUtfdzgtcw?oc=5",
+      "published": "2026-11-27T02:51:20+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmlIZnJYNDdQMmxlalAtU0MyS2lxQU84QmszUHo0LUxWRFM0Si1sTEYwRlA2T1d0MktCOEZVSjJaWWtRUFVjZ01vVDU1dk1hamRSMHdNU3pvX28tNktnSUhocnNtbnVhRlQ1dDB6MkdCUTJlam95ZmpkNjBnTUtfdzgtcw?oc=5",
+          "article_url": "https://www.imdb.com/name/nm0000206/mediaviewer/rm3595560962/?ref_=nm_ph_more",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ]
+}
