@@ -3,16 +3,16 @@
     "path": "articles/2026-11-28-10-00-amanda-seyfried.md",
     "title": "Amanda Seyfried Left Off BAFTA 2027 Entries List",
     "description": "BAFTA's draft 2027 entries list has 728 performances but none for Amanda Seyfried, whose Elizabeth Holmes role is ruled ineligible.",
-    "status": "pending",
+    "status": "sent",
     "wp_status": "publish",
-    "wp_synced": "",
+    "wp_synced": "publish",
     "batch": "2026-11-28 10:00",
     "celebrity": "Amanda Seyfried",
-    "wp_link": "",
-    "wp_id": null,
+    "wp_link": "https://moduscarry.com/amanda-seyfried-bafta-2027/",
+    "wp_id": 3952,
     "skip_reason": "",
     "rewrite_note": "",
-    "image": ""
+    "image": "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-10-00-amanda-seyfried-768x432.webp"
   },
   {
     "path": "articles/2026-11-28-10-00-ben-whishaw.md",
@@ -56,6 +56,21 @@
     "wp_link": "",
     "wp_id": null,
     "skip_reason": "Same Daily Express story (Sara Davies and JB Gill advice after the Strictly dance-off) was already covered in the 2026-11-28 07:00 article; no new facts.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-11-28-10-00-denis-villeneuve.md",
+    "title": "Denis Villeneuve",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-11-28 10:00",
+    "celebrity": "Denis Villeneuve",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Readable stories (TIME comments on a traditional Bond film and the Dunesday disappointment) are already published in the 2026-11-28 07:00 Denis Villeneuve and Robert Pattinson posts; the Butlerian Jihad and Dune Messiah stories have no readable source.",
     "rewrite_note": "",
     "image": ""
   },
