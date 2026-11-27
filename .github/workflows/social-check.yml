@@ -1,0 +1,15 @@
+name: Check social connection (Zernio)
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: List the accounts connected in Zernio (no secrets are printed)
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+        run: |
+          if [ -z "$ZERNIO_API_KEY" ]; then echo "ZERNIO_API_KEY is NOT set in the GitHub secrets."; exit 1; fi
+          curl -sS -H "Authorization: Bearer $ZERNIO_API_KEY" https://zernio.com/api/v1/accounts \
+            | python3 -c "import sys,json; d=json.load(sys.stdin); a=d.get('accounts',[]); print('connected accounts:', len(a)); [print('-', x.get('platform'), x.get('username') or x.get('displayName') or '', 'ok' if not x.get('isDisconnected') else 'DISCONNECTED') for x in a]; print('error:', d.get('error') or d.get('message') or '-') if not a else None"

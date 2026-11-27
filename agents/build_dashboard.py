@@ -91,15 +91,20 @@ def read_articles():
 
 
 def social_summary():
-    """What the dashboard shows about social sharing: posts shared today and in total, the last one, the last error."""
+    """What the dashboard shows about social sharing: counts, the shared posts per network (newest first), the last error."""
     try:
         st = json.loads((ROOT / "data" / "social.json").read_text())
     except (OSError, ValueError):
         return {}
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    last = max(st.get("shared", {}).values(), key=lambda v: v["at"], default=None)
-    return {"shared_today": len([t for t in st.get("log", []) if t[:10] == today]), "shared_total": len(st.get("shared", {})),
-            "last_title": last["title"] if last else "", "last_at": last["at"] if last else "", "error": st.get("error", "")}
+    items = []
+    for wp_id, v in st.get("shared", {}).items():
+        for p in v.get("platforms", []):
+            p = p if isinstance(p, dict) else {"platform": p, "url": ""}
+            items.append({"platform": p["platform"], "title": v.get("title", ""), "link": v.get("link", ""), "url": p.get("url", ""), "at": v.get("at", "")})
+    items.sort(key=lambda i: i["at"], reverse=True)
+    return {"shared_today": len([t for t in st.get("log", []) if t[:10] == today]), "shared_total": len(st.get("shared", {})), "items": items[:300],
+            "last_title": items[0]["title"] if items else "", "last_at": items[0]["at"] if items else "", "error": st.get("error", ""), "missing": st.get("missing", [])}
 
 
 def writers():
@@ -135,7 +140,7 @@ data = {
     "writers": writers(),
     "celebrities": tracking.topics(cfg),          # people + tracked films (a film is followed like a person)
     "movies_tracked": cfg.get("movies", []),
-    "social": {**{"enabled": False, "platforms": ["pinterest"], "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": ""}, **(cfg.get("social") or {}), **social_summary()},
+    "social": {**{"enabled": False, "platforms": ["pinterest", "threads"], "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": ""}, **(cfg.get("social") or {}), **social_summary()},
     "countries": cfg.get("countries", {}),   # name -> Australia / UK / Norway / Denmark / Canada / USA / Other (agents/countries.py)
     "new": [n for n in tracking.topics(cfg) if tracking.is_new(cfg, n)],   # added by Find trending / weekly film step in the last 7 days
     "paused": bool(cfg.get("paused")),

@@ -59,12 +59,20 @@ class Social(unittest.TestCase):
         self.assertEqual(sp.pinterest_board("k", "ACC", ""), "B1")
         self.assertEqual(sp.pinterest_board("k", "ACC", "Movies"), "B2")
         self.assertEqual(sp.pinterest_board("k", "ACC", "B2"), "B2")
-        sp.share("k", accts, {"pinterest_board": ""}, "T" * 150, "Desc", "https://moduscarry.com/x/", "https://moduscarry.com/i.webp", "9")
+        sp.share("k", accts, {"pinterest_board": ""}, "T" * 150, "Desc", "https://moduscarry.com/x/", "https://moduscarry.com/i.webp", "9", "Desc")
         body = calls[-1][2]
         self.assertTrue(body["publishNow"])
         self.assertEqual(body["mediaItems"], [{"type": "image", "url": "https://moduscarry.com/i.webp"}])
         pd = body["platforms"][0]["platformSpecificData"]
+        self.assertEqual(body["platforms"][0]["customContent"], "Desc")
         self.assertEqual((len(pd["title"]), pd["boardId"], pd["link"]), (100, "B1", "https://moduscarry.com/x/"))
+
+    def test_threads_text_fits_500_and_ends_with_the_link(self):
+        t = sp.threads_text("Headline", "word " * 200, "https://moduscarry.com/x/")
+        self.assertLessEqual(len(t), 500)
+        self.assertTrue(t.endswith("https://moduscarry.com/x/"))
+        self.assertTrue(t.startswith("Headline"))
+        self.assertEqual(sp.threads_text("Headline", "", "https://x/"), "Headline\n\nhttps://x/")
 
 
 if __name__ == "__main__":

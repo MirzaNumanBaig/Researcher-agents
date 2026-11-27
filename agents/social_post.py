@@ -17,7 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "data" / "social.json"
 API = "https://zernio.com/api/v1"
-DEFAULTS = {"enabled": False, "platforms": ["pinterest"], "pinterest_board": "", "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": ""}
+DEFAULTS = {"enabled": False, "platforms": ["pinterest", "threads"], "pinterest_board": "", "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": ""}
 
 
 def split(text):
@@ -130,22 +130,35 @@ def image_url(front_wp_media, fallback, site=""):
     return fallback
 
 
-def entries(key, accts, s, title, text, link, img):
-    """The `platforms` array of the Zernio post: one entry per connected account, with the options each network needs."""
+def entries(key, accts, s, title, text, link, img, desc=""):
+    """The `platforms` array of the Zernio post: one entry per connected account, with the text and options each network needs."""
     out = []
     for platform, account_id in accts:
         e = {"platform": platform, "accountId": account_id}
         if platform == "pinterest":
+            e["customContent"] = (desc.strip() or title.strip())[:800]
             e["platformSpecificData"] = {"title": title[:100], "boardId": pinterest_board(key, account_id, s.get("pinterest_board", "")), "link": link}
+        elif platform == "threads":
+            e["customContent"] = threads_text(title, desc, link)
         out.append(e)
     return out
 
 
-def share(key, accts, s, title, text, link, img, wp_id):
-    body = {"content": text[:800] if any(p == "pinterest" for p, _ in accts) else text, "publishNow": True, "platforms": entries(key, accts, s, title, text, link, img)}
-    if img:  # Pinterest needs a picture; Facebook shows the link preview, so a picture is only attached when a platform needs it
-        if any(p == "pinterest" for p, _ in accts):
-            body["mediaItems"] = [{"type": "image", "url": img}]
+def threads_text(title, desc, link, limit=500):
+    """A Threads post (500 characters): the headline, as much of the description as fits, and the link."""
+    tail = f"\n\n{link}"
+    room = limit - len(title) - len(tail) - 2
+    d = desc.strip()
+    if d and d != title.strip() and room > 40:
+        d = d if len(d) <= room else d[: room - 1].rsplit(" ", 1)[0].rstrip(",;:") + "…"
+        return f"{title.strip()}\n\n{d}{tail}"
+    return f"{title.strip()[: limit - len(tail)]}{tail}"
+
+
+def share(key, accts, s, title, text, link, img, wp_id, desc=""):
+    body = {"content": text, "publishNow": True, "platforms": entries(key, accts, s, title, text, link, img, desc)}
+    if img:  # Pinterest needs a picture; Threads shows it with the post
+        body["mediaItems"] = [{"type": "image", "url": img}]
     return call("POST", "/posts", key, body, {"Idempotency-Key": f"moduscarry-{wp_id}"})
 
 
@@ -174,15 +187,20 @@ def main(argv=None):
         accts = [] if dry else accounts(key, s["platforms"])
         if not dry and not accts:
             raise RuntimeError(f"no connected {', '.join(s['platforms'])} account in Zernio")
+        if not dry:
+            state["missing"] = [p for p in s["platforms"] if p not in {a for a, _ in accts}]  # configured but not connected in Zernio
         site = (cfg.get("site") or {}).get("url", "")
         for batch, wp_id, stem, title, desc, link, celeb, media_id, img0 in todo[:room]:
-            text = caption(title, desc, link) if not (set(s["platforms"]) == {"pinterest"}) else (desc.strip() or title.strip())
+            text = caption(title, desc, link)
             img = image_url(media_id, img0, site)
             if dry:
                 print(f"--- would share {stem}:\n{text}\n")
                 continue
-            res = share(key, accts, s, title, text, link, img, wp_id)
-            state["shared"][wp_id] = {"at": now.isoformat(timespec="seconds"), "post": (res.get("post") or {}).get("_id", ""), "title": title, "platforms": [p for p, _ in accts]}
+            res = share(key, accts, s, title, text, link, img, wp_id, desc)
+            post = res.get("post") or {}
+            urls = {x.get("platform"): x.get("platformPostUrl", "") for x in post.get("platforms", []) if isinstance(x, dict)}
+            state["shared"][wp_id] = {"at": now.isoformat(timespec="seconds"), "post": post.get("_id", ""), "title": title, "link": link,
+                                      "platforms": [{"platform": p, "url": urls.get(p, "")} for p, _ in accts]}
             state["log"] = (state["log"] + [now.isoformat(timespec="seconds")])[-200:]
             state.pop("error", None)
             print(f"shared {stem} -> {', '.join(p for p, _ in accts)}")

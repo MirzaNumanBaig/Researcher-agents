@@ -571,7 +571,8 @@
   "social": {
     "enabled": false,
     "platforms": [
-      "pinterest"
+      "pinterest",
+      "threads"
     ],
     "daily_cap": 10,
     "min_gap_minutes": 10,
