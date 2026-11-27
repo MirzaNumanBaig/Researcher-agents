@@ -75,6 +75,36 @@
     "image": ""
   },
   {
+    "path": "articles/2026-11-28-10-00-hugh-jackman.md",
+    "title": "Hugh Jackman's Prisoners Heads to HBO Max on 1 December",
+    "description": "Prisoners, the 2013 thriller with Hugh Jackman and Jake Gyllenhaal, joins HBO Max's US library on 1 December, according to TV Guide.",
+    "status": "pending",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-11-28 10:00",
+    "celebrity": "Hugh Jackman",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-11-28-10-00-inde-navarrette.md",
+    "title": "Inde Navarrette",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-11-28 10:00",
+    "celebrity": "Inde Navarrette",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "no readable source text",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
     "path": "articles/2026-11-28-07-00-amanda-seyfried.md",
     "title": "Amanda Seyfried",
     "description": "",
