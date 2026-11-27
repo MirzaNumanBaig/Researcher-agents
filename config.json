@@ -569,7 +569,7 @@
     "Cobie Smulders": "Canada"
   },
   "social": {
-    "enabled": false,
+    "enabled": true,
     "platforms": [
       "pinterest",
       "threads"
@@ -577,7 +577,7 @@
     "daily_cap": 10,
     "min_gap_minutes": 10,
     "per_run": 1,
-    "since": "",
+    "since": "2026-11-28",
     "pinterest_board": ""
   }
 }
