@@ -43,6 +43,12 @@ jobs:
           WP_URL: ${{ secrets.WP_URL }}
           WP_USER: ${{ secrets.WP_USER }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+      - name: Share new posts on social media (Zernio; only when switched on in the dashboard and ZERNIO_API_KEY is set)
+        if: always() && steps.send.outcome == 'success'
+        continue-on-error: true
+        run: python agents/social_post.py
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
       - name: Commit WordPress ids
         if: always()
         run: |
@@ -50,6 +56,7 @@ jobs:
           git config user.email "researcher-bot@users.noreply.github.com"
           git add articles
           [ -f data/wp_sync.json ] && git add data/wp_sync.json || true
+          [ -f data/social.json ] && git add data/social.json || true
           git diff --cached --quiet || { git commit -m "Update article WordPress status" && bash scripts/push_retry.sh; }
       - name: Refresh the dashboard
         if: always()

@@ -567,5 +567,15 @@
     "Denis Villeneuve": "Canada",
     "Evangeline Lilly": "Canada",
     "Cobie Smulders": "Canada"
+  },
+  "social": {
+    "enabled": false,
+    "platforms": [
+      "facebook"
+    ],
+    "daily_cap": 10,
+    "min_gap_minutes": 10,
+    "per_run": 1,
+    "since": ""
   }
 }

@@ -74,3 +74,7 @@ The repo is the hub: `briefs/` (input) -> any AI worker following `prompts/artic
 usage limit hands over to the next. `agents/fetch_sources.py` downloads the source pages first, so a writer needs no web access.
 To change writer: add/replace/remove those secrets. To use a different tool by hand: give it `prompts/article.md`, one brief and its sources file,
 and ask it to save the article at the stated path. Interactive sessions (any MCP-connected AI) can do the same for briefs with no article.
+
+## Social sharing (Zernio)
+`agents/social_post.py` (step in `publish-wordpress.yml`, after the WordPress send) shares each newly published post on social media through Zernio right away (no schedule): title, description and link. Settings in `config.json` `social` (`enabled`, `platforms` ["facebook"], `daily_cap` 10, `min_gap_minutes` 10, `per_run` 1, `since` = the day it was switched on, so nothing older is shared); state in `data/social.json`. Only posts that are live with their featured image, not blocked, not shared before, newest first. Needs the GitHub secret `ZERNIO_API_KEY` and a connected Facebook page in Zernio. The dashboard Setup window has the switch, the daily cap and the gap, and shows what was shared. Keep the cap low: many link posts a day can cut the Facebook page's reach.
+

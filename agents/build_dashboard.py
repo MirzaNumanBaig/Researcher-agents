@@ -90,6 +90,18 @@ def read_articles():
     return out
 
 
+def social_summary():
+    """What the dashboard shows about social sharing: posts shared today and in total, the last one, the last error."""
+    try:
+        st = json.loads((ROOT / "data" / "social.json").read_text())
+    except (OSError, ValueError):
+        return {}
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    last = max(st.get("shared", {}).values(), key=lambda v: v["at"], default=None)
+    return {"shared_today": len([t for t in st.get("log", []) if t[:10] == today]), "shared_total": len(st.get("shared", {})),
+            "last_title": last["title"] if last else "", "last_at": last["at"] if last else "", "error": st.get("error", "")}
+
+
 def writers():
     """Which writer secrets exist. Only workflows that pass HAS_CLAUDE1.. know; other runs reuse the last answer."""
     f = ROOT / "data" / "writers.json"
@@ -123,6 +135,7 @@ data = {
     "writers": writers(),
     "celebrities": tracking.topics(cfg),          # people + tracked films (a film is followed like a person)
     "movies_tracked": cfg.get("movies", []),
+    "social": {**{"enabled": False, "platforms": ["facebook"], "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": ""}, **(cfg.get("social") or {}), **social_summary()},
     "countries": cfg.get("countries", {}),   # name -> Australia / UK / Norway / Denmark / Canada / USA / Other (agents/countries.py)
     "new": [n for n in tracking.topics(cfg) if tracking.is_new(cfg, n)],   # added by Find trending / weekly film step in the last 7 days
     "paused": bool(cfg.get("paused")),
