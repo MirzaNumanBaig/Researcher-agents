@@ -193,12 +193,12 @@
         {
           "source": "ScreenRant",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakpCSzVjSWFleF9NdlNEbzBmOWtUYm1jbUZRaERjeVpLcVpGaGJfYUs1WTNEUWVsSEVKLVlHX2RZbmQ3VjRsM2M4TVZ2ZlN5Tm10b3Z2ME5EZlg5b0ZDZ1hyTTgyc1ZCV09rejVLMDVQQzktTGdnMGMwMk9paDFHOERvcFI0ZXo1dlNuT2lFaUFTcFdtSzVnYnNkc1BWYTVqLWc?oc=5",
-          "article_url": "",
-          "image": ""
+          "article_url": "https://screenrant.com/avengers-doomsday-dune-3-theatrical-release-battle-denis-villeneuve-reaction/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/robert-pattinson-as-scytale-in-dune-part-three.jpg?w=1600&h=900&fit=crop"
         }
       ],
-      "image": "",
-      "image_source": ""
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/robert-pattinson-as-scytale-in-dune-part-three.jpg?w=1600&h=900&fit=crop",
+      "image_source": "https://screenrant.com/avengers-doomsday-dune-3-theatrical-release-battle-denis-villeneuve-reaction/"
     },
     {
       "title": "'Dune: Part Three' Director Denis Villeneuve Isn't Worried About Being Up Against 'Avengers'",
@@ -394,6 +394,54 @@
       ],
       "image": "",
       "image_source": ""
+    },
+    {
+      "title": "Denis Villeneuve explains what he 'loves' about James Bond 'traditions'",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fUm9MNzltcUV3R0xyd1BCVWp4alljdkI3bzNUcFFNVlMzQlZqc0o5Ymh4Y1ZTX2hpYXNJNDFJeWhxdHcxc1pvQmVURHhRbzA1MzhZZmpaSk5MUENJTzdmaXZGckcyZFk?oc=5",
+      "published": "2026-11-27T21:11:35+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fUm9MNzltcUV3R0xyd1BCVWp4alljdkI3bzNUcFFNVlMzQlZqc0o5Ymh4Y1ZTX2hpYXNJNDFJeWhxdHcxc1pvQmVURHhRbzA1MzhZZmpaSk5MUENJTzdmaXZGckcyZFk?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66130946/?ref_=nmnw_art_perm",
+          "image": ""
+        },
+        {
+          "source": "Film-News.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSm5WUFdwZWs1U2FJNkNyMEd4dTJXVHhfem1zc0Z0N1ZWdC1KWDVBdTQtNUhob2QtY3g0SksyemJLM3R4U19yLThydUdaSHNaWjh6T2ZPbklLeUVCN2tqT3hFNFJTR3pKcFNmMWxOTHpxNGhtdFRFQ0ZjTFEzSXBPcFlOdjRlb09FdEd3LVJlVXFqb2c1eTBGMUdPWGV6enFiMF9tSHhBYng4SURicW1N?oc=5",
+          "article_url": "https://www.film-news.co.uk/news/UK/130530/Denis-Villeneuve-explains-what-he-loves-about-James-Bond-traditions",
+          "image": "https://www.film-news.co.uk/images/news/bang/130530.jpg"
+        }
+      ],
+      "image": "https://www.film-news.co.uk/images/news/bang/130530.jpg",
+      "image_source": "https://www.film-news.co.uk/news/UK/130530/Denis-Villeneuve-explains-what-he-loves-about-James-Bond-traditions"
+    },
+    {
+      "title": "Denis Villeneuve Defends Casting Robert Pattinson as Bond: ‘We Will Never Please Everybody’",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fR3dQeEREZGt3bTV0MWU5V3E0ZV9SSDlNQURoUFBJWkw0MlNkSndBaVA1YU14ZENVb2RKZ0pycVlPWmhiS2JEX1I1QW1iZy0wd29uanozVzRKVENuX1U3bVpVYVZKZw?oc=5",
+      "published": "2026-11-27T16:45:37+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fR3dQeEREZGt3bTV0MWU5V3E0ZV9SSDlNQURoUFBJWkw0MlNkSndBaVA1YU14ZENVb2RKZ0pycVlPWmhiS2JEX1I1QW1iZy0wd29uanozVzRKVENuX1U3bVpVYVZKZw?oc=5",
+          "article_url": "https://www.imdb.com/news/ni66130618/?ref_=nwc_art_perm",
+          "image": ""
+        },
+        {
+          "source": "TheWrap",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnZjOHRuODFKWHNOVnltSmJVRklKQ3pXc1kxLTBSbXpQWGdmcDU0WTl6ZFJzU1NXWmpEWjVfaHRGaGRCNFpFMFYxX1pLWnA5U1JGZVBnVGN1NFJNSHljOXB5b1BFODlsR0RyLUw3NUJ3WEdqWG82OUV6OUtmVWVmWFlqNnpNdWFEbl96NGxidVdFdlMxUExjRWVFNHRxelVBQU9JQkl6d0l2LXJEVVE?oc=5",
+          "article_url": "https://www.thewrap.com/creative-content/movies/denis-villeneuve-defends-casting-james-bond-robert-pattinson/",
+          "image": "https://www.thewrap.com/wp-content/uploads/2026/11/Denis-Villeneuve-2026.jpg"
+        },
+        {
+          "source": "Yahoo News UK",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW83SV9FSE94UklYTVB2Z1VPeG55OHZkYTFTOHRzSkNhaFBRNjZ6SHVlbnE0VUlOTktvVlhNRWhycmVibDhMTnZUZTlCTFh2cWE0aWJZM1V5YW9lTXZHczUxZGE3SHdzMDZDMlRmaGd4b0d1cThKUTZPV1JEZk1BQWhyQUtoZ1k?oc=5",
+          "article_url": "https://uk.news.yahoo.com/denis-villeneuve-defends-casting-robert-162830931.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/b2143cc6fee2571f0c68e4dfdc8520e3dae3ef88bf24a67db645ea7c4ff10290/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F8b376482438de231afb5516d5a8e11fc.jpg"
+        }
+      ],
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/11/Denis-Villeneuve-2026.jpg",
+      "image_source": "https://www.thewrap.com/creative-content/movies/denis-villeneuve-defends-casting-james-bond-robert-pattinson/"
     }
   ]
 }

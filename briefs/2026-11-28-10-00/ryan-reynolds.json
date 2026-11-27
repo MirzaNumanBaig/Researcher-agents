@@ -1,0 +1,51 @@
+{
+  "batch": "2026-11-28 10:00",
+  "celebrity": "Ryan Reynolds",
+  "stories": [
+    {
+      "title": "Ryan Reynolds Pays Tribute as Steve Parkin Leaves Wrexham",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oMUg2dFhUczNDOWhIMlNWN0lfRTloQUViMUQwX1Etem5USF9ucjFldnd0LUR6bDZJNEtmaXhSRUhRbDcxQy1JYk42WDd6X0N3RUhNTFR3eDJCNXZDM293aXlUUUh5SGtQaWhpVzlBS1FYS2YwSmwxRA?oc=5",
+      "published": "2026-11-27T22:57:00+00:00",
+      "outlets": [
+        {
+          "source": "www.suaralandak.co.id",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oMUg2dFhUczNDOWhIMlNWN0lfRTloQUViMUQwX1Etem5USF9ucjFldnd0LUR6bDZJNEtmaXhSRUhRbDcxQy1JYk42WDd6X0N3RUhNTFR3eDJCNXZDM293aXlUUUh5SGtQaWhpVzlBS1FYS2YwSmwxRA?oc=5",
+          "article_url": "https://www.suaralandak.co.id/en/reynolds-tribute-parkin-wrexham-exit",
+          "image": "https://cdn.suaralandak.co.id/media/images/2026/11/cyIlW4AzWW.jpeg?location=1&width=1200&height=674&quality=80&watermark=1"
+        }
+      ],
+      "image": "https://cdn.suaralandak.co.id/media/images/2026/11/cyIlW4AzWW.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+      "image_source": "https://www.suaralandak.co.id/en/reynolds-tribute-parkin-wrexham-exit"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Mayday",
+      "release": "2026-09-04",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Maria Bakalova",
+        "Marcin Dorociński",
+        "Lovell Adams-Gray"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "83%",
+      "metacritic": "60/100 from 24 critics",
+      "critics_consensus": "A spirited adventure that gets a lot of mileage from clever quips and Kenneth Branagh's extremely amusing performance, Mayday thaws Cold War tensions with good-natured aplomb.",
+      "critics_overview": "Archived from the original on October 3, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q124743667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayday_(2026_film)"
+      }
+    }
+  ]
+}

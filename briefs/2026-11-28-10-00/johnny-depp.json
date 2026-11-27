@@ -1,0 +1,65 @@
+{
+  "batch": "2026-11-28 10:00",
+  "celebrity": "Johnny Depp",
+  "stories": [
+    {
+      "title": "Johnny Depp’s Ebenezer Opens With $1.5 Million In Previews As Comeback Weekend Begins",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaXB2YzNPTmJycEc5RDB3Xy1OazN5MWZrZ0ZkVnNRNkx0dHpLT2dwMjF6MEUydTNEY19zS1NMRkxTRlpod3ZDRWtCcFVCVEcwVTRPYUw2QTNOeDVHbHhKNDhvcm5hdFNmMDNOWXl3RnB5d0NqeG51OGRfbWVseF9KZjFCUS1kVmxtdno3Tg?oc=5",
+      "published": "2026-11-27T22:14:38+00:00",
+      "outlets": [
+        {
+          "source": "The Hype Magazine",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaXB2YzNPTmJycEc5RDB3Xy1OazN5MWZrZ0ZkVnNRNkx0dHpLT2dwMjF6MEUydTNEY19zS1NMRkxTRlpod3ZDRWtCcFVCVEcwVTRPYUw2QTNOeDVHbHhKNDhvcm5hdFNmMDNOWXl3RnB5d0NqeG51OGRfbWVseF9KZjFCUS1kVmxtdno3Tg?oc=5",
+          "article_url": "https://www.thehypemagazine.com/2026/11/13/johnny-depp-ebenezer-box-office-previews/",
+          "image": "https://www.thehypemagazine.com/wp-content/uploads/2026/11/ebenezer-box-office-scaled.jpg"
+        }
+      ],
+      "image": "https://www.thehypemagazine.com/wp-content/uploads/2026/11/ebenezer-box-office-scaled.jpg",
+      "image_source": "https://www.thehypemagazine.com/2026/11/13/johnny-depp-ebenezer-box-office-previews/"
+    },
+    {
+      "title": "How does Ebenezer compare with other Christmas Carol movies? Behind Jim Carrey's, ahead of the Muppets",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWxVcXpwcW5CN3ZTUzUzZnVUYUc0d3lIeWJkaXNnMWdfNkRBYXgyZGR2dnE1UkpEeFk4c1ZrYmdfdkE1V3hnZEVDWVo3Z3RnRm5BYzBXRkR0T2lSMTVxSkxXbUM1TVptMFV4Y0dEdC1RSEdYakRPSHJCeDBlLWtta1JjQWQySzM1Z1FJSzZCVF9SREpXajRpNXZhR2hoeFVoQnA4UXdtVDBXblhGSzNzZ20zdXZiTUk?oc=5",
+      "published": "2026-11-27T21:31:53+00:00",
+      "outlets": [
+        {
+          "source": "Nacionale",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWxVcXpwcW5CN3ZTUzUzZnVUYUc0d3lIeWJkaXNnMWdfNkRBYXgyZGR2dnE1UkpEeFk4c1ZrYmdfdkE1V3hnZEVDWVo3Z3RnRm5BYzBXRkR0T2lSMTVxSkxXbUM1TVptMFV4Y0dEdC1RSEdYakRPSHJCeDBlLWtta1JjQWQySzM1Z1FJSzZCVF9SREpXajRpNXZhR2hoeFVoQnA4UXdtVDBXblhGSzNzZ20zdXZiTUk?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Ebenezer",
+      "release": "2026-11-12",
+      "director": [
+        "Ti West"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Andrea Riseborough",
+        "Tramell Tillman",
+        "Ian McKellen",
+        "Rupert Grint"
+      ],
+      "budget_usd": 38000000,
+      "box_office_usd": 79600000,
+      "scope": "Mid-budget",
+      "verdict": "Too early",
+      "gross_vs_budget": 2.09,
+      "rotten_tomatoes": "55%",
+      "metacritic": "46/100 from 38 critics",
+      "critics_consensus": "Decking its halls with evocative production design while Johnny Depp is filled with the 'bah humbug!' spirit, Ebenezer doesn't scrooge Dickens' classic tale up but plays things too safe to stand out amongst its long line of remakes.",
+      "critics_overview": "Peter Bradshaw, in a review for The Guardian, gave the film 3 out of 5 stars, calling it a \"perfectly serviceable, faithful adaptation... as Scrooge himself, Depp is pretty good.\" Brandon Wu of The New York Times called the film bland and said of Depp's performance, \"at his worst, Depp appears as if he is in a Scrooge costume in a Christmas-season ad campaign for Verizon.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136650058",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ebenezer_(2026_film)"
+      }
+    }
+  ]
+}
