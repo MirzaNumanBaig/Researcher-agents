@@ -214,7 +214,7 @@ details>div{padding:0 14px 12px}
 <div class="row"><div class="field"><label for="f-name">Site name</label><input id="f-name" placeholder="My News Site" autocomplete="off"></div>
 <div class="field"><label for="f-url">Site address</label><input id="f-url" type="url" placeholder="https://example.com" autocomplete="off"></div></div>
 <div class="row"><div class="field"><label for="f-wps">New articles arrive as</label><select id="f-wps"><option value="pending">Pending review</option><option value="draft">Draft</option><option value="publish">Published</option></select></div>
-<div class="field"><label class="check"><input type="checkbox" id="f-social" style="width:auto"> Share new posts on social media (Facebook via Zernio)</label><span class="muted small" id="social-msg">Posts go out right away, newest first, within the limits below. Needs ZERNIO_API_KEY in the GitHub secrets.</span></div>
+<div class="field"><label class="check"><input type="checkbox" id="f-social" style="width:auto"> Share new posts on social media (Pinterest first, via Zernio)</label><span class="muted small" id="social-msg">Posts go out right away, newest first, within the limits below. Needs ZERNIO_API_KEY in the GitHub secrets.</span></div>
 <div class="field"><label for="f-scap">Most posts shared per day</label><input id="f-scap" type="number" min="1" max="50" style="width:90px"> <label for="f-sgap" style="margin-left:10px">Minutes between posts</label><input id="f-sgap" type="number" min="1" max="240" style="width:90px"> <button class="btn sm" id="save-social" type="button">Save social</button></div>
 <div class="field"><label class="check"><input type="checkbox" id="f-auto" style="width:auto"> Send automatically</label><span class="muted small">Off means articles wait for you to approve each one.</span></div></div>
 <button class="btn pri" id="save-site">Save website settings</button>
@@ -649,7 +649,7 @@ function socialInfo(){const S=D.social||{};$("f-social").checked=!!S.enabled;$("
 $("social-msg").textContent=(S.enabled?"On. ":"Off. ")+"Shared today: "+(S.shared_today||0)+" of "+(S.daily_cap||10)+". Total: "+(S.shared_total||0)+"."+(S.last_title?" Last: "+S.last_title:"")+(S.error?" Problem: "+S.error:"")}
 $("save-social").onclick=async()=>{if(!store.get("gh_token")){askToken(()=>$("save-social").onclick());return}
 const on=$("f-social").checked,cap=Math.max(1,Math.min(50,+$("f-scap").value||10)),gap=Math.max(1,Math.min(240,+$("f-sgap").value||10));
-try{await editCfg(c=>{const o=c.social||{};c.social={platforms:["facebook"],per_run:1,...o,enabled:on,daily_cap:cap,min_gap_minutes:gap,since:on?(o.since||new Date().toISOString().slice(0,10)):(o.since||"")}});
+try{await editCfg(c=>{const o=c.social||{};c.social={platforms:["pinterest"],per_run:1,...o,enabled:on,daily_cap:cap,min_gap_minutes:gap,since:on?(o.since||new Date().toISOString().slice(0,10)):(o.since||"")}});
 D.social={...(D.social||{}),enabled:on,daily_cap:cap,min_gap_minutes:gap};socialInfo();say(on?"Social sharing is on. Posts published from now on are shared.":"Social sharing is off.")}catch(e){say("Failed: "+e.message)}};
 $("save-site").onclick=async()=>{const name=$("f-name").value.trim(),url=$("f-url").value.trim(),st=$("f-wps").value,auto=$("f-auto").checked;
 try{await editCfg(c=>{c.site={name,url};c.wp_default_status=st;c.auto_send=auto});D.site={name,url};D.wp_status=st;$("q-wps").value=st;D.auto_send=auto;brand();say("Website settings saved.")}catch(e){say("Failed: "+e.message)}};

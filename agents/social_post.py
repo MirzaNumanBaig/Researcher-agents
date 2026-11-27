@@ -1,7 +1,7 @@
 """Share newly published posts on social media through Zernio (https://zernio.com), right away (no schedule).
 
 Runs after every WordPress send (publish-wordpress.yml). Needs the GitHub secret ZERNIO_API_KEY; without it nothing happens.
-Settings in config.json "social": {"enabled": false, "platforms": ["facebook"], "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": "YYYY-MM-DD"}.
+Settings in config.json "social": {"enabled": false, "platforms": ["pinterest"] (or facebook), "pinterest_board": "" (a board id; empty = the account's first board), "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": "YYYY-MM-DD"}.
 A post is shared when: it is live on the site with its featured image, it is newer than `since` (set when the switch is turned on, so nothing old is
 shared), nobody blocked is in it, it was not shared before (data/social.json), and the daily cap and the gap since the last share allow it. Newest first.
 """
@@ -17,7 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "data" / "social.json"
 API = "https://zernio.com/api/v1"
-DEFAULTS = {"enabled": False, "platforms": ["facebook"], "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": ""}
+DEFAULTS = {"enabled": False, "platforms": ["pinterest"], "pinterest_board": "", "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": ""}
 
 
 def split(text):
@@ -51,7 +51,7 @@ def settings(cfg):
 
 
 def candidates(cfg, state, articles_dir=None):
-    """[(batch label, wp_id, file stem, title, description, link, celebrity)] of posts that may be shared, newest first."""
+    """[(batch label, wp_id, file stem, title, description, link, celebrity, media id, image url)] of posts that may be shared, newest first."""
     since = settings(cfg)["since"]
     blocked = {b.lower() for b in cfg.get("blocked", [])}
     out = []
@@ -68,7 +68,7 @@ def candidates(cfg, state, articles_dir=None):
         link = field(front, "wp_link")
         if not link.startswith("http"):
             continue
-        out.append((batch, wp_id, f.stem, field(front, "title"), field(front, "description"), link, celeb))
+        out.append((batch, wp_id, f.stem, field(front, "title"), field(front, "description"), link, celeb, field(front, "wp_media_id"), field(front, "wp_image")))
     return out
 
 
@@ -103,8 +103,49 @@ def accounts(key, platforms):
     return [(a["platform"], a["_id"]) for a in data.get("accounts", []) if a.get("platform") in platforms and a.get("_id")]
 
 
-def share(key, accts, text, wp_id):
-    body = {"content": text, "publishNow": True, "platforms": [{"platform": p, "accountId": i} for p, i in accts]}
+def pinterest_board(key, account_id, wanted=""):
+    """Board id for pins: the configured one, else the account's first board."""
+    boards = call("GET", f"/accounts/{account_id}/pinterest-boards", key).get("boards", [])
+    if wanted and any(b.get("id") == wanted for b in boards):
+        return wanted
+    if wanted:  # a board NAME was given
+        for b in boards:
+            if (b.get("name") or "").lower() == wanted.lower():
+                return b["id"]
+    if not boards:
+        raise RuntimeError("the Pinterest account has no board; create one in Pinterest")
+    return boards[0]["id"]
+
+
+def image_url(front_wp_media, fallback, site=""):
+    """Full-size featured image URL: the public WordPress media record, else the dashboard-sized link kept in the article."""
+    if front_wp_media and site:
+        try:
+            with urllib.request.urlopen(urllib.request.Request(f"{site.rstrip('/')}/wp-json/wp/v2/media/{front_wp_media}?_fields=source_url", headers={"User-Agent": "researcher-agents"}), timeout=30) as r:
+                u = json.loads(r.read()).get("source_url", "")
+                if u.startswith("http"):
+                    return u
+        except Exception:
+            pass
+    return fallback
+
+
+def entries(key, accts, s, title, text, link, img):
+    """The `platforms` array of the Zernio post: one entry per connected account, with the options each network needs."""
+    out = []
+    for platform, account_id in accts:
+        e = {"platform": platform, "accountId": account_id}
+        if platform == "pinterest":
+            e["platformSpecificData"] = {"title": title[:100], "boardId": pinterest_board(key, account_id, s.get("pinterest_board", "")), "link": link}
+        out.append(e)
+    return out
+
+
+def share(key, accts, s, title, text, link, img, wp_id):
+    body = {"content": text[:800] if any(p == "pinterest" for p, _ in accts) else text, "publishNow": True, "platforms": entries(key, accts, s, title, text, link, img)}
+    if img:  # Pinterest needs a picture; Facebook shows the link preview, so a picture is only attached when a platform needs it
+        if any(p == "pinterest" for p, _ in accts):
+            body["mediaItems"] = [{"type": "image", "url": img}]
     return call("POST", "/posts", key, body, {"Idempotency-Key": f"moduscarry-{wp_id}"})
 
 
@@ -133,12 +174,14 @@ def main(argv=None):
         accts = [] if dry else accounts(key, s["platforms"])
         if not dry and not accts:
             raise RuntimeError(f"no connected {', '.join(s['platforms'])} account in Zernio")
-        for batch, wp_id, stem, title, desc, link, celeb in todo[:room]:
-            text = caption(title, desc, link)
+        site = (cfg.get("site") or {}).get("url", "")
+        for batch, wp_id, stem, title, desc, link, celeb, media_id, img0 in todo[:room]:
+            text = caption(title, desc, link) if not (set(s["platforms"]) == {"pinterest"}) else (desc.strip() or title.strip())
+            img = image_url(media_id, img0, site)
             if dry:
                 print(f"--- would share {stem}:\n{text}\n")
                 continue
-            res = share(key, accts, text, wp_id)
+            res = share(key, accts, s, title, text, link, img, wp_id)
             state["shared"][wp_id] = {"at": now.isoformat(timespec="seconds"), "post": (res.get("post") or {}).get("_id", ""), "title": title, "platforms": [p for p, _ in accts]}
             state["log"] = (state["log"] + [now.isoformat(timespec="seconds")])[-200:]
             state.pop("error", None)

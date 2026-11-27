@@ -45,6 +45,27 @@ class Social(unittest.TestCase):
         self.assertEqual(sp.caption("T", "D", "https://x/"), "T\n\nD\n\nRead more: https://x/")
         self.assertEqual(sp.caption("T", "T", "https://x/"), "T\n\nRead more: https://x/")
 
+    def test_pinterest_pin_has_board_title_link_and_image(self):
+        calls = []
+
+        def fake(method, path, key, body=None, headers=None):
+            calls.append((method, path, body))
+            if path.endswith("/pinterest-boards"):
+                return {"boards": [{"id": "B1", "name": "Celebrity News"}, {"id": "B2", "name": "Movies"}]}
+            return {"post": {"_id": "P1"}}
+
+        sp.call = fake
+        accts = [("pinterest", "ACC")]
+        self.assertEqual(sp.pinterest_board("k", "ACC", ""), "B1")
+        self.assertEqual(sp.pinterest_board("k", "ACC", "Movies"), "B2")
+        self.assertEqual(sp.pinterest_board("k", "ACC", "B2"), "B2")
+        sp.share("k", accts, {"pinterest_board": ""}, "T" * 150, "Desc", "https://moduscarry.com/x/", "https://moduscarry.com/i.webp", "9")
+        body = calls[-1][2]
+        self.assertTrue(body["publishNow"])
+        self.assertEqual(body["mediaItems"], [{"type": "image", "url": "https://moduscarry.com/i.webp"}])
+        pd = body["platforms"][0]["platformSpecificData"]
+        self.assertEqual((len(pd["title"]), pd["boardId"], pd["link"]), (100, "B1", "https://moduscarry.com/x/"))
+
 
 if __name__ == "__main__":
     unittest.main()

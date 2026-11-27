@@ -571,11 +571,12 @@
   "social": {
     "enabled": false,
     "platforms": [
-      "facebook"
+      "pinterest"
     ],
     "daily_cap": 10,
     "min_gap_minutes": 10,
     "per_run": 1,
-    "since": ""
+    "since": "",
+    "pinterest_board": ""
   }
 }
