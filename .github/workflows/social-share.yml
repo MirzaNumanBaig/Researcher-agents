@@ -1,0 +1,27 @@
+name: Share new posts on social media (Zernio)
+on:
+  schedule: [{cron: "*/10 * * * *"}]  # every 10 minutes: shares at most one post per run, inside the daily cap and the analyst's best hours
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: {group: social, cancel-in-progress: false}
+jobs:
+  share:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - name: Share (only when switched on in the dashboard and ZERNIO_API_KEY is set)
+        run: python agents/social_post.py
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+      - name: Save what was shared and refresh the dashboard
+        if: always()
+        run: |
+          git config user.name "researcher-bot"
+          git config user.email "researcher-bot@users.noreply.github.com"
+          [ -f data/social.json ] && git add data/social.json || true
+          if git diff --cached --quiet; then echo "nothing new shared"; exit 0; fi
+          git commit -m "Update social sharing record" && bash scripts/push_retry.sh
+          bash scripts/push_dashboard.sh

@@ -1,0 +1,26 @@
+name: Social analytics specialist (best times to post)
+on:
+  schedule: [{cron: "23 3 * * *"}]  # daily: re-reads Zernio's engagement data
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: {group: social, cancel-in-progress: false}
+jobs:
+  analyse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - name: Find the best hours to post
+        run: python agents/social_analyst.py
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+      - name: Save and refresh the dashboard
+        run: |
+          git config user.name "researcher-bot"
+          git config user.email "researcher-bot@users.noreply.github.com"
+          [ -f data/social_times.json ] && git add data/social_times.json || true
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git commit -m "Update best posting times" && bash scripts/push_retry.sh
+          bash scripts/push_dashboard.sh

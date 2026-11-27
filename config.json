@@ -574,8 +574,8 @@
       "pinterest",
       "threads"
     ],
-    "daily_cap": 10,
-    "min_gap_minutes": 10,
+    "daily_cap": 20,
+    "min_gap_minutes": 8,
     "per_run": 1,
     "since": "2026-11-28",
     "pinterest_board": ""

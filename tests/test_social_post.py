@@ -74,6 +74,20 @@ class Social(unittest.TestCase):
         self.assertTrue(t.startswith("Headline"))
         self.assertEqual(sp.threads_text("Headline", "", "https://x/"), "Headline\n\nhttps://x/")
 
+    def test_best_hours_gate(self):
+        import social_analyst as sa
+        slots = [{"day_of_week": 0, "hour": h, "avg_engagement": 10 - h % 5, "post_count": 3} for h in range(24)]
+        res = sa.analyse({"pinterest": slots, "threads": slots[:2]})
+        self.assertEqual(res["pinterest"]["status"], "ready")
+        self.assertEqual(len(res["pinterest"]["hours"]), 12)
+        self.assertEqual(res["threads"]["status"], "learning")  # too few posts: nothing is restricted
+        times = {"platforms": res}
+        hours = res["pinterest"]["hours"]
+        out = [h for h in range(24) if h not in hours][0]
+        self.assertTrue(sp.good_hour(datetime(2026, 11, 28, hours[0], 5, tzinfo=timezone.utc), times))
+        self.assertFalse(sp.good_hour(datetime(2026, 11, 28, out, 5, tzinfo=timezone.utc), times))
+        self.assertTrue(sp.good_hour(datetime(2026, 11, 28, out, 5, tzinfo=timezone.utc), {"platforms": {"pinterest": {"status": "learning"}}}))
+
 
 if __name__ == "__main__":
     unittest.main()

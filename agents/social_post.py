@@ -1,7 +1,7 @@
 """Share newly published posts on social media through Zernio (https://zernio.com), right away (no schedule).
 
 Runs after every WordPress send (publish-wordpress.yml). Needs the GitHub secret ZERNIO_API_KEY; without it nothing happens.
-Settings in config.json "social": {"enabled": false, "platforms": ["pinterest"] (or facebook), "pinterest_board": "" (a board id; empty = the account's first board), "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": "YYYY-MM-DD"}.
+Settings in config.json "social": {"enabled": false, "platforms": ["pinterest"] (or facebook), "pinterest_board": "" (a board id; empty = the account's first board), "daily_cap": 20, "min_gap_minutes": 10, "per_run": 1, "since": "YYYY-MM-DD"}.
 A post is shared when: it is live on the site with its featured image, it is newer than `since` (set when the switch is turned on, so nothing old is
 shared), nobody blocked is in it, it was not shared before (data/social.json), and the daily cap and the gap since the last share allow it. Newest first.
 """
@@ -17,7 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "data" / "social.json"
 API = "https://zernio.com/api/v1"
-DEFAULTS = {"enabled": False, "platforms": ["pinterest", "threads"], "pinterest_board": "", "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": ""}
+DEFAULTS = {"enabled": False, "platforms": ["pinterest", "threads"], "pinterest_board": "", "daily_cap": 20, "min_gap_minutes": 10, "per_run": 1, "since": ""}
 
 
 def split(text):
@@ -84,6 +84,23 @@ def allowed_now(cfg, state, now):
         if (now - last).total_seconds() < s["min_gap_minutes"] * 60:
             return 0
     return min(room, s["per_run"])
+
+
+TIMES = ROOT / "data" / "social_times.json"
+
+
+def good_hour(now, times=None):
+    """True when `now` (UTC) is one of the best hours found by the analyst for any shared network, or when the analyst has no data yet (still learning)."""
+    if times is None:
+        try:
+            times = json.loads(TIMES.read_text())
+        except (OSError, ValueError):
+            return True
+    hours = set()
+    for p in (times.get("platforms") or {}).values():
+        if p.get("status") == "ready":
+            hours |= set(p.get("hours") or [])
+    return not hours or now.hour in hours
 
 
 def caption(title, description, link):
@@ -178,6 +195,9 @@ def main(argv=None):
         STATE.write_text(json.dumps(state, indent=1, ensure_ascii=False))
         return 0
     now = datetime.now(timezone.utc)
+    if not good_hour(now) and "--any-hour" not in a:
+        print(f"{now:%H}:00 UTC is outside the best posting hours found by the analyst; waiting.")
+        return 0
     room = allowed_now(cfg, state, now)
     todo = candidates(cfg, state)
     print(f"{len(todo)} posts could be shared; room now: {room}")

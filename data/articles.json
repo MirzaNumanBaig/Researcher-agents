@@ -30,6 +30,36 @@
     "image": ""
   },
   {
+    "path": "articles/2026-11-28-10-00-bob-dylan.md",
+    "title": "Bob Dylan's Clothes Line Saga Answered Ode to Billie Joe",
+    "description": "Bob Dylan's Basement Tapes song Clothes Line Saga began life as an answer to Bobbie Gentry's 1967 hit Ode to Billie Joe, American Songwriter reports.",
+    "status": "pending",
+    "wp_status": "publish",
+    "wp_synced": "",
+    "batch": "2026-11-28 10:00",
+    "celebrity": "Bob Dylan",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
+    "path": "articles/2026-11-28-10-00-delta-goodrem.md",
+    "title": "Delta Goodrem",
+    "description": "",
+    "status": "skipped",
+    "wp_status": "draft",
+    "wp_synced": "",
+    "batch": "2026-11-28 10:00",
+    "celebrity": "Delta Goodrem",
+    "wp_link": "",
+    "wp_id": null,
+    "skip_reason": "Same Daily Express story (Sara Davies and JB Gill advice after the Strictly dance-off) was already covered in the 2026-11-28 07:00 article; no new facts.",
+    "rewrite_note": "",
+    "image": ""
+  },
+  {
     "path": "articles/2026-11-28-07-00-amanda-seyfried.md",
     "title": "Amanda Seyfried",
     "description": "",

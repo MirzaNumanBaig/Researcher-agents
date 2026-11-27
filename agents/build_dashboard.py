@@ -90,6 +90,13 @@ def read_articles():
     return out
 
 
+def social_times():
+    try:
+        return json.loads((ROOT / "data" / "social_times.json").read_text())
+    except (OSError, ValueError):
+        return {}
+
+
 def social_summary():
     """What the dashboard shows about social sharing: counts, the shared posts per network (newest first), the last error."""
     try:
@@ -104,7 +111,7 @@ def social_summary():
             items.append({"platform": p["platform"], "title": v.get("title", ""), "link": v.get("link", ""), "url": p.get("url", ""), "at": v.get("at", "")})
     items.sort(key=lambda i: i["at"], reverse=True)
     return {"shared_today": len([t for t in st.get("log", []) if t[:10] == today]), "shared_total": len(st.get("shared", {})), "items": items[:300],
-            "last_title": items[0]["title"] if items else "", "last_at": items[0]["at"] if items else "", "error": st.get("error", ""), "missing": st.get("missing", [])}
+            "last_title": items[0]["title"] if items else "", "last_at": items[0]["at"] if items else "", "error": st.get("error", ""), "missing": st.get("missing", []), "times": social_times()}
 
 
 def writers():
@@ -140,7 +147,7 @@ data = {
     "writers": writers(),
     "celebrities": tracking.topics(cfg),          # people + tracked films (a film is followed like a person)
     "movies_tracked": cfg.get("movies", []),
-    "social": {**{"enabled": False, "platforms": ["pinterest", "threads"], "daily_cap": 10, "min_gap_minutes": 10, "per_run": 1, "since": ""}, **(cfg.get("social") or {}), **social_summary()},
+    "social": {**{"enabled": False, "platforms": ["pinterest", "threads"], "daily_cap": 20, "min_gap_minutes": 10, "per_run": 1, "since": ""}, **(cfg.get("social") or {}), **social_summary()},
     "countries": cfg.get("countries", {}),   # name -> Australia / UK / Norway / Denmark / Canada / USA / Other (agents/countries.py)
     "new": [n for n in tracking.topics(cfg) if tracking.is_new(cfg, n)],   # added by Find trending / weekly film step in the last 7 days
     "paused": bool(cfg.get("paused")),
