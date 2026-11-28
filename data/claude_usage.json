@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-14",
-   "time": "2026-11-14T01:24:43+00:00",
-   "batch": "2026-11-14 12:00",
-   "celebrity": "Cate Blanchett",
-   "article": "2026-11-14-12-00-cate-blanchett.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 1140,
-   "cache_read_tokens": 113140,
-   "cache_write_tokens": 21676,
-   "turns": 7,
-   "seconds": 11,
-   "cost_usd": 0.1096
-  },
-  {
-   "date": "2026-11-14",
    "time": "2026-11-14T01:26:12+00:00",
    "batch": "2026-11-14 12:00",
    "celebrity": "Chris Hemsworth",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 31,
    "cost_usd": 0.1798
+  },
+  {
+   "date": "2026-11-28",
+   "time": "2026-11-28T03:27:28+00:00",
+   "batch": "2026-11-28 14:00",
+   "celebrity": "Katy Perry",
+   "article": "2026-11-28-14-00-katy-perry.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4588,
+   "cache_read_tokens": 134705,
+   "cache_write_tokens": 34510,
+   "turns": 7,
+   "seconds": 32,
+   "cost_usd": 0.1976
   }
  ]
 }
