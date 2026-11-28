@@ -27,6 +27,7 @@ wp_id: 3956
 wp_link: "https://moduscarry.com/stallone-rocky-50-years-fans/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

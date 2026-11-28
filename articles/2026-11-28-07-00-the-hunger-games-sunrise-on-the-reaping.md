@@ -24,6 +24,7 @@ wp_id: 3958
 wp_link: "https://moduscarry.com/sunrise-on-the-reaping-deleted-scene/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

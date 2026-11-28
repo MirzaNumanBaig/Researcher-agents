@@ -23,6 +23,7 @@ wp_id: 3971
 wp_link: "https://moduscarry.com/robert-pattinson-bond-casting-historian/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
