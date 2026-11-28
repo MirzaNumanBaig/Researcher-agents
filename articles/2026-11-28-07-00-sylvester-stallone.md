@@ -5,7 +5,7 @@ seo_title: "Stallone Rocky 50 Years: Thank-You to Fans and More"
 seo_description: "Stallone Rocky 50 years: Sylvester Stallone thanks fans on the film's anniversary, as I Play Rocky arrives and a Tulsa King extension is floated."
 focus_keyword: "Stallone Rocky 50 years"
 permalink: "stallone-rocky-50-years-fans"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 07:00"
 celebrity: "Sylvester Stallone"
@@ -18,6 +18,15 @@ sources:
   - "https://theplaylist.net/sylvester-stallone-arnold-schwarzenegger-tulsa-king-extension-series-20261126/"
   - "https://headstuff.org/entertainment/film/rocky-at-50-a-then-unknown-stallone-shines-out/"
   - "https://faroutmagazine.co.uk/sylvester-stallone-turned-down-34-million-movie-20-years-later-made-for-less/"
+image: "images/2026-11-28-07-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588424132\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588424132\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3955
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-07-00-sylvester-stallone-768x432.webp"
+wp_id: 3956
+wp_link: "https://moduscarry.com/stallone-rocky-50-years-fans/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

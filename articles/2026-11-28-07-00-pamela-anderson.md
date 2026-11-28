@@ -25,6 +25,7 @@ wp_id: 3944
 wp_link: "https://moduscarry.com/pamela-anderson-open-journal/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Casting: Historian Defends the Choice"
 seo_description: "Robert Pattinson Bond casting breaks a 64-year habit of choosing unknowns. Historian Steven Jay Rubin explains why a star was the smarter call."
 focus_keyword: "Robert Pattinson Bond casting"
 permalink: "robert-pattinson-bond-casting-historian"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 10:00"
 celebrity: "Robert Pattinson"
@@ -14,6 +14,15 @@ tags: ["Robert Pattinson", "James Bond", "Denis Villeneuve", "Callum Turner"]
 image_prompt: "An empty vintage cinema with red velvet seats, a single spotlight beam and a black tuxedo jacket draped over the front row."
 sources:
   - "https://screenrant.com/james-bond-casting-tradition-robert-pattinson-broke-justified-steven-jay-rubin/"
+image: "images/2026-11-28-10-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3970
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-10-00-robert-pattinson-768x432.webp"
+wp_id: 3971
+wp_link: "https://moduscarry.com/robert-pattinson-bond-casting-historian/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

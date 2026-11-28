@@ -26,6 +26,7 @@ wp_id: 3940
 wp_link: "https://moduscarry.com/wild-horse-nine-box-office-3/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

@@ -5,7 +5,7 @@ seo_title: "Sunrise on the Reaping Deleted Scene: Grace Explains"
 seo_description: "Mckenna Grace explains the Sunrise on the Reaping deleted scene, a filmed Maysilee and Haymitch clash cut after the film lost a day in the arena."
 focus_keyword: "Sunrise on the Reaping deleted scene"
 permalink: "sunrise-on-the-reaping-deleted-scene"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 07:00"
 celebrity: "The Hunger Games: Sunrise on the Reaping"
@@ -15,6 +15,15 @@ image_prompt: "An empty film editing suite at night, a lit monitor and strips of
 sources:
   - "https://collider.com/the-hunger-games-sunrise-on-the-reaping-deleted-scene-mckenna-grace/"
   - "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+image: "images/2026-11-28-07-00-the-hunger-games-sunrise-on-the-reaping.webp"
+image_alt: "The Hunger Games: Sunrise on the Reaping: Mckenna Grace on the Sunrise on the Reaping Scene Cut"
+image_credit: "Image: <a href=\"https://collider.com/the-hunger-games-sunrise-on-the-reaping-deleted-scene-mckenna-grace/\" rel=\"nofollow noopener\">collider.com</a> (cropped)"
+wp_media_id: 3957
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-07-00-the-hunger-games-sunrise-on-the-reaping-768x432.webp"
+wp_id: 3958
+wp_link: "https://moduscarry.com/sunrise-on-the-reaping-deleted-scene/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
