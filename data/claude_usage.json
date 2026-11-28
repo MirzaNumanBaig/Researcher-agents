@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-14",
-   "time": "2026-11-14T08:44:19+00:00",
-   "batch": "2026-11-14 19:00",
-   "celebrity": "Johnny Depp",
-   "article": "2026-11-14-19-00-johnny-depp.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 8,
-   "output_tokens": 3661,
-   "cache_read_tokens": 114772,
-   "cache_write_tokens": 25118,
-   "turns": 7,
-   "seconds": 27,
-   "cost_usd": 0.1487
-  },
-  {
-   "date": "2026-11-14",
    "time": "2026-11-14T08:45:32+00:00",
    "batch": "2026-11-14 19:00",
    "celebrity": "Keira Knightley",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 10,
    "cost_usd": 0.1236
+  },
+  {
+   "date": "2026-11-28",
+   "time": "2026-11-28T13:23:12+00:00",
+   "batch": "2026-11-28 23:00",
+   "celebrity": "Thorbj\u00f8rn Harr",
+   "article": "2026-11-28-23-00-thorbj-rn-harr.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 3964,
+   "cache_read_tokens": 120298,
+   "cache_write_tokens": 26075,
+   "turns": 7,
+   "seconds": 26,
+   "cost_usd": 0.1563
   }
  ]
 }
