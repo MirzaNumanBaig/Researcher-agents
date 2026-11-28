@@ -5,7 +5,7 @@ seo_title: "Anders Danielsen Lie in Brave New Love: Cast and Release"
 seo_description: "Anders Danielsen Lie features in Maria Bäck's drama Brave New Love, listed for 10 December 2026. Here is the plot, the cast and the festival nominations."
 focus_keyword: "Anders Danielsen Lie Brave New Love"
 permalink: "anders-danielsen-lie-brave-new-love"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 14:00"
 celebrity: "Anders Danielsen Lie"
@@ -16,6 +16,15 @@ sources:
   - "https://www.insighttrendsworld.com/post/brave-new-love-2026-by-maria-b%C3%A4ck"
   - "https://en.wikipedia.org/wiki/Brave_New_Love"
   - "https://en.wikipedia.org/wiki/Anders_Danielsen_Lie"
+image: "images/2026-11-28-14-00-anders-danielsen-lie.webp"
+image_alt: "Anders Danielsen Lie: Actor Anders Danielsen Lie at the 2025 Cannes Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Anders_Danielsen_Lie-0031.jpg\" rel=\"noopener\">Harald Krichel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Anders_Danielsen_Lie-0031.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3976
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-14-00-anders-danielsen-lie-768x432.webp"
+wp_id: 3977
+wp_link: "https://moduscarry.com/anders-danielsen-lie-brave-new-love/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

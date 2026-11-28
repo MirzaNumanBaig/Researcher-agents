@@ -5,7 +5,7 @@ seo_title: "Inde Navarrette Obsession Sequel: What the Cast Said"
 seo_description: "Inde Navarrette and Curry Barker tease an Obsession sequel in a new LA Times chat. Read what the cast said about Nikki, fame and the odd jobs before."
 focus_keyword: "Inde Navarrette Obsession sequel"
 permalink: "inde-navarrette-obsession-sequel"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 14:00"
 celebrity: "Inde Navarrette"
@@ -15,6 +15,15 @@ image_prompt: "An empty cinema auditorium at night with a single beam of project
 sources:
   - "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/obsession-sequel-in-the-works-curry-barker-inde-navarrette-and-michael-johnston-tease-films-future/articleshow/136237094.cms"
   - "https://sundayguardianlive.com/sports/who-is-inde-navarrette-actress-spotted-with-ben-shelton-during-nba-game-after-rumoured-trinity-rodman-split-328010/"
+image: "images/2026-11-28-14-00-inde-navarrette.webp"
+image_alt: "Inde Navarrette: Inde Navarrette at the 2025 Toronto International Film Festival (TIFF) for the movie Obsession ."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03.jpg\" rel=\"noopener\">Kevin Payravi</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Inde_Navarrette_at_the_2025_Toronto_International_Film_Festival_03.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3980
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-14-00-inde-navarrette-768x432.webp"
+wp_id: 3981
+wp_link: "https://moduscarry.com/inde-navarrette-obsession-sequel/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

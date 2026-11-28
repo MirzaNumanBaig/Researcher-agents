@@ -5,7 +5,7 @@ seo_title: "Cody Rhodes Street Fighter: New Acting Project Teased"
 seo_description: "Cody Rhodes says another unannounced project is coming after playing Guile in Street Fighter. Here is what he said and how the film has fared so far."
 focus_keyword: "Cody Rhodes Street Fighter"
 permalink: "cody-rhodes-street-fighter-acting-project"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 14:00"
 celebrity: "Street Fighter"
@@ -16,6 +16,15 @@ sources:
   - "https://www.wrestlezone.com/news/1675335-cody-rhodes-new-unannounced-acting-project"
   - "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
   - "https://www.imdb.com/de/news/ni66099795/"
+image: "images/2026-11-28-14-00-street-fighter.webp"
+image_alt: "Street Fighter: Cody Rhodes Teases New Acting Role After Street Fighter"
+image_credit: "Image: <a href=\"https://www.wrestlezone.com/news/1675335-cody-rhodes-new-unannounced-acting-project\" rel=\"nofollow noopener\">wrestlezone.com</a> (cropped)"
+wp_media_id: 3992
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-14-00-street-fighter-768x432.webp"
+wp_id: 3993
+wp_link: "https://moduscarry.com/cody-rhodes-street-fighter-acting-project/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

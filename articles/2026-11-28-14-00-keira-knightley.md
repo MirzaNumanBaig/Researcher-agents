@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Atonement Dress Goes to Christie's"
 seo_description: "The Keira Knightley Atonement dress returns to auction at Christie's London on 9 December. See the estimate, the 2008 sale price and what else is on offer."
 focus_keyword: "Keira Knightley Atonement dress"
 permalink: "keira-knightley-atonement-dress"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 14:00"
 celebrity: "Keira Knightley"
@@ -15,6 +15,15 @@ image_prompt: "An empty auction room at dusk with a single emerald silk gown on 
 sources:
   - "https://www.artnews.com/art-news/market/keira-knightley-green-atonement-gown-christies-1234808139/"
   - "https://www.cp24.com/news/entertainment/2026/11/10/keira-knightleys-unforgettable-green-atonement-dress-is-going-up-for-sale/"
+image: "images/2026-11-28-14-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Keira Knightley"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/36966509@N05/6138909957\" rel=\"noopener\">Josh Jensen</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/36966509@N05/6138909957\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 3986
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-14-00-keira-knightley-768x432.webp"
+wp_id: 3987
+wp_link: "https://moduscarry.com/keira-knightley-atonement-dress-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

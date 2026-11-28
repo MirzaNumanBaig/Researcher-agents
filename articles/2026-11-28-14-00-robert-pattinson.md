@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond Twilight Line: Director Explains"
 seo_description: "Robert Pattinson Bond Twilight line explained: director Catherine Hardwicke says his suave look on set inspired the famous ad-lib. Here is what she said."
 focus_keyword: "Robert Pattinson Bond Twilight"
 permalink: "robert-pattinson-bond-twilight"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 14:00"
 celebrity: "Robert Pattinson"
@@ -14,6 +14,15 @@ tags: ["Robert Pattinson", "James Bond", "Denis Villeneuve"]
 image_prompt: "A vintage black sedan parked outside a rainy school car park at dusk, with a faint casino-style glow in the windows"
 sources:
   - "https://www.star1019.com.au/trending/entertainment/we-were-seeing-the-future-how-twilight-foreshadowed-pattinson-as-007/"
+image: "images/2026-11-28-14-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson and director Lance Oppenheim attend the \u2018Primetime\u2019 premiere during the 83rd Venice International Film Festival"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Colleen Sturtevant</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Lance_Oppenheim_2026_portrait_(3x4_cropped).jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3988
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-14-00-robert-pattinson-768x432.webp"
+wp_id: 3989
+wp_link: "https://moduscarry.com/robert-pattinson-bond-twilight/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
