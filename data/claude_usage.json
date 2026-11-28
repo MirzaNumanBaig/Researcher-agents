@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-14",
-   "time": "2026-11-14T08:49:29+00:00",
-   "batch": "2026-11-14 19:00",
-   "celebrity": "Mckenna Grace",
-   "article": "2026-11-14-19-00-mckenna-grace.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 4456,
-   "cache_read_tokens": 217528,
-   "cache_write_tokens": 34741,
-   "turns": 9,
-   "seconds": 32,
-   "cost_usd": 0.2054
-  },
-  {
-   "date": "2026-11-14",
    "time": "2026-11-14T08:50:19+00:00",
    "batch": "2026-11-14 19:00",
    "celebrity": "Nathan Fielder",
@@ -23999,6 +23983,22 @@
    "turns": 6,
    "seconds": 7,
    "cost_usd": 0.096
+  },
+  {
+   "date": "2026-11-28",
+   "time": "2026-11-28T13:27:50+00:00",
+   "batch": "2026-11-27 22:00",
+   "celebrity": "Rachel McAdams",
+   "article": "2026-11-27-22-00-rachel-mcadams.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 910,
+   "cache_read_tokens": 81226,
+   "cache_write_tokens": 21672,
+   "turns": 6,
+   "seconds": 7,
+   "cost_usd": 0.1041
   }
  ]
 }
