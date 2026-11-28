@@ -25,6 +25,7 @@ wp_id: 3993
 wp_link: "https://moduscarry.com/cody-rhodes-street-fighter-acting-project/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

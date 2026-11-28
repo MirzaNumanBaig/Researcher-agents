@@ -24,6 +24,7 @@ wp_id: 3981
 wp_link: "https://moduscarry.com/inde-navarrette-obsession-sequel/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**

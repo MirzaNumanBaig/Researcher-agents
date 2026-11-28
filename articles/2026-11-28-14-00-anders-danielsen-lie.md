@@ -25,6 +25,7 @@ wp_id: 3977
 wp_link: "https://moduscarry.com/anders-danielsen-lie-brave-new-love/"
 wp_synced: publish
 seo_synced: 1
+embed_checked: 1
 ---
 
 **Quick summary**
