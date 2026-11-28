@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-14",
-   "time": "2026-11-14T08:45:32+00:00",
-   "batch": "2026-11-14 19:00",
-   "celebrity": "Keira Knightley",
-   "article": "2026-11-14-19-00-keira-knightley.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 12,
-   "output_tokens": 3325,
-   "cache_read_tokens": 185998,
-   "cache_write_tokens": 24994,
-   "turns": 9,
-   "seconds": 27,
-   "cost_usd": 0.152
-  },
-  {
-   "date": "2026-11-14",
    "time": "2026-11-14T08:46:24+00:00",
    "batch": "2026-11-14 19:00",
    "celebrity": "Margot Robbie",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 26,
    "cost_usd": 0.1563
+  },
+  {
+   "date": "2026-11-28",
+   "time": "2026-11-28T13:25:59+00:00",
+   "batch": "2026-11-28 23:00",
+   "celebrity": "Tom Hardy",
+   "article": "2026-11-28-23-00-tom-hardy.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4421,
+   "cache_read_tokens": 129060,
+   "cache_write_tokens": 30829,
+   "turns": 7,
+   "seconds": 31,
+   "cost_usd": 0.1806
   }
  ]
 }
