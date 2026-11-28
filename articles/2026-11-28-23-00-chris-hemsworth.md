@@ -5,7 +5,7 @@ seo_title: "Chris Hemsworth Stuntnuts: Matt Damon Cameo Reported"
 seo_description: "Chris Hemsworth plays himself in Stuntnuts, and Matt Damon is reportedly joining for a cameo. Here is what is known about the Kick-Ass universe film."
 focus_keyword: "Chris Hemsworth Stuntnuts"
 permalink: "chris-hemsworth-stuntnuts"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 23:00"
 celebrity: "Chris Hemsworth"
@@ -14,6 +14,15 @@ tags: ["Chris Hemsworth", "Sam Rockwell", "Marvel"]
 image_prompt: "An empty stunt training gym at dusk with crash mats, a padded floor and a single spotlight on a rig of ropes."
 sources:
   - "https://thedirect.com/article/matt-damon-chris-hemsworth-action-movie"
+image: "images/2026-11-28-23-00-chris-hemsworth.webp"
+image_alt: "Chris Hemsworth: Chris Hemsworth at a Q&A for Crime 101 in Los Angeles, California"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Kevin Paul</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3998
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-23-00-chris-hemsworth-768x432.webp"
+wp_id: 3999
+wp_link: "https://moduscarry.com/chris-hemsworth-stuntnuts/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

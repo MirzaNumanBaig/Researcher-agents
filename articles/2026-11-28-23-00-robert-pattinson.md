@@ -5,7 +5,7 @@ seo_title: "Robert Pattinson Bond: Trump Revisits 2012 Tweets"
 seo_description: "Robert Pattinson Bond news: Trump read out his 2012 tweets about Pattinson and Kristen Stewart in an Oval Office interview. Here is what was said."
 focus_keyword: "Robert Pattinson Bond"
 permalink: "robert-pattinson-bond-trump-tweets"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 23:00"
 celebrity: "Robert Pattinson"
@@ -14,6 +14,15 @@ tags: ["Robert Pattinson", "James Bond", "Denis Villeneuve", "Kristen Stewart"]
 image_prompt: "An empty Oval Office-style study at dusk with a vintage film projector and a single spotlight on a leather armchair."
 sources:
   - "https://www.yahoo.com/entertainment/celebrity/articles/donald-trump-revisits-2012-warning-210024542.html"
+image: "images/2026-11-28-23-00-robert-pattinson.webp"
+image_alt: "Robert Pattinson: Robert Pattinson at Berlinale 2025"
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Elena Ternovaja</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 4008
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-23-00-robert-pattinson-768x432.webp"
+wp_id: 4009
+wp_link: "https://moduscarry.com/robert-pattinson-bond-trump-tweets/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

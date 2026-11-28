@@ -5,7 +5,7 @@ seo_title: "Keira Knightley Pride and Prejudice: Daughter Won't Watch"
 seo_description: "Keira Knightley says her 11-year-old refuses to watch her 2005 Pride and Prejudice, so the new Netflix series will be her daughter's way into the story."
 focus_keyword: "Keira Knightley Pride and Prejudice"
 permalink: "keira-knightley-pride-and-prejudice-daughter"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 23:00"
 celebrity: "Keira Knightley"
@@ -16,6 +16,15 @@ sources:
   - "https://metro.co.uk/2026/11/28/keira-knightley-i-wish-11-year-old-watch-pride-prejudice-29821368/"
   - "https://www.thenews.com.pk/latest/1425527-keira-knightley-reveals-pride-and-prejudice-coded-wish-she-has"
   - "https://wisevoter.com/world/2026/11/28/keira-knightley-atonement-gown-christies-auction"
+image: "images/2026-11-28-23-00-keira-knightley.webp"
+image_alt: "Keira Knightley: Madame Tussauds London - Keira Knightley"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/36708987@N06/3430590331\" rel=\"noopener\">the12thplaya</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\" rel=\"noopener\">CC BY 2.0</a>, via <a href=\"https://www.flickr.com/photos/36708987@N06/3430590331\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 4002
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-23-00-keira-knightley-768x432.webp"
+wp_id: 4003
+wp_link: "https://moduscarry.com/keira-knightley-pride-and-prejudice-daughter/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

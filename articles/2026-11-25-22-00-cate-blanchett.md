@@ -5,7 +5,7 @@ seo_title: "Cate Blanchett Praemium Imperiale: Doubt Speech in Tokyo"
 seo_description: "Cate Blanchett accepted the Praemium Imperiale in Tokyo and said doubt is vital to creativity. Here is what she said and what comes next."
 focus_keyword: "Cate Blanchett Praemium Imperiale"
 permalink: "cate-blanchett-praemium-imperiale"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-25 22:00"
 celebrity: "Cate Blanchett"
@@ -16,6 +16,15 @@ sources:
   - "https://www.turkiyetoday.com/culture/oscar-winner-cate-blanchett-rejects-unthinking-certainty-at-japans-top-arts-prize-3231249"
   - "https://www.praemiumimperiale.org/en/laureate/blanchett/"
   - "https://www.imdb.com/de/news/ni66084989/"
+image: "images/2026-11-25-22-00-cate-blanchett.webp"
+image_alt: "Cate Blanchett: Cate Blanchett (actress) at Rendez-vous with Cate Blanchett at Cannes Film Festival 2026."
+image_credit: "Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-6.jpg\" rel=\"noopener\">CaseyJNewell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener\">CC BY-SA 4.0</a>, via <a href=\"https://commons.wikimedia.org/wiki/File:Cate_Blanchett_at_Cannes_Film_Festival_2026-6.jpg\" rel=\"noopener\">Wikimedia Commons</a> (cropped)"
+wp_media_id: 3994
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-25-22-00-cate-blanchett-768x432.webp"
+wp_id: 3995
+wp_link: "https://moduscarry.com/cate-blanchett-praemium-imperiale/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**

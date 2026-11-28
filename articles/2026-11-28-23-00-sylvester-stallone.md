@@ -5,7 +5,7 @@ seo_title: "Sylvester Stallone I Play Rocky: What Is True in the Biopic"
 seo_description: "Sylvester Stallone I Play Rocky puts his struggling years on screen. See what reports confirm about the homelessness, odd jobs and the dog Butkus."
 focus_keyword: "Sylvester Stallone I Play Rocky"
 permalink: "sylvester-stallone-i-play-rocky"
-status: pending
+status: sent
 wp_status: publish
 batch: "2026-11-28 23:00"
 celebrity: "Sylvester Stallone"
@@ -15,6 +15,15 @@ image_prompt: "A dim boxing gym at dawn with a worn heavy bag, taped wooden benc
 sources:
   - "https://www.dominionpost.com/2026/11/28/review-ippolito-uncanny-as-stallone-in-i-play-rocky/"
   - "https://www.yahoo.com/entertainment/celebrity/interviews/articles/sylvester-stallone-really-homeless-035549698.html"
+image: "images/2026-11-28-23-00-sylvester-stallone.webp"
+image_alt: "Sylvester Stallone: Sylvester Stallone"
+image_credit: "Photo: <a href=\"https://www.flickr.com/photos/22007612@N05/7588426252\" rel=\"noopener\">Gage Skidmore</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" rel=\"noopener\">CC BY-SA 2.0</a>, via <a href=\"https://www.flickr.com/photos/22007612@N05/7588426252\" rel=\"noopener\">Flickr</a> (cropped)"
+wp_media_id: 4010
+wp_image: "https://moduscarry.com/wp-content/uploads/2026/11/2026-11-28-23-00-sylvester-stallone-768x432.webp"
+wp_id: 4011
+wp_link: "https://moduscarry.com/sylvester-stallone-i-play-rocky-2/"
+wp_synced: publish
+seo_synced: 1
 ---
 
 **Quick summary**
