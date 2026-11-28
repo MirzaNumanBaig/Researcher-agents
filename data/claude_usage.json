@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-13",
-   "time": "2026-11-13T21:30:12+00:00",
-   "batch": "2026-11-14 07:00",
-   "celebrity": "Robert Pattinson",
-   "article": "2026-11-14-07-00-robert-pattinson.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 24,
-   "output_tokens": 8088,
-   "cache_read_tokens": 624000,
-   "cache_write_tokens": 48344,
-   "turns": 17,
-   "seconds": 67,
-   "cost_usd": 0.3368
-  },
-  {
-   "date": "2026-11-13",
    "time": "2026-11-13T21:32:37+00:00",
    "batch": "2026-11-14 07:00",
    "celebrity": "Russell Brand",
@@ -23999,6 +23983,22 @@
    "turns": 8,
    "seconds": 30,
    "cost_usd": 0.1669
+  },
+  {
+   "date": "2026-11-28",
+   "time": "2026-11-28T00:00:40+00:00",
+   "batch": "2026-11-28 07:00",
+   "celebrity": "Tom Hardy",
+   "article": "2026-11-28-07-00-tom-hardy.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 8,
+   "output_tokens": 4079,
+   "cache_read_tokens": 125938,
+   "cache_write_tokens": 29140,
+   "turns": 7,
+   "seconds": 30,
+   "cost_usd": 0.1701
   }
  ]
 }
