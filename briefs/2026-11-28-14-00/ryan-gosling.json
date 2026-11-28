@@ -1,0 +1,50 @@
+{
+  "batch": "2026-11-28 14:00",
+  "celebrity": "Ryan Gosling",
+  "stories": [
+    {
+      "title": "Eva Mendes Pushing Back on Ryan Gosling’s Tour Plans With His Band, Doesn’t ‘Fit’ With ‘Family Life’",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmc5cXhmNmVlTnlnaUFqNU1vUEMwYUNqOV9jMFd6MFRMcVJoU292UVhBazZLWlppZ1k4UXpJTEt2NjRUV1JjcVRvQTQxa2F5ak9Nb09ycl9PQjVBd01kcFQ4WWswT3Z2VFNlOGhQeUoxa2pyejJwRkRnbTBlc3ZhYjdDQnYzNlYzT2x4ZHpZbnkwbHh3SDlKTVNkVFhBU1JZb2NxMlBxVmdOcjBSMGZoUzBnZHNDT0JsZEgxZQ?oc=5",
+      "published": "2026-11-27T14:00:57+00:00",
+      "outlets": [
+        {
+          "source": "intouchweekly.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmc5cXhmNmVlTnlnaUFqNU1vUEMwYUNqOV9jMFd6MFRMcVJoU292UVhBazZLWlppZ1k4UXpJTEt2NjRUV1JjcVRvQTQxa2F5ak9Nb09ycl9PQjVBd01kcFQ4WWswT3Z2VFNlOGhQeUoxa2pyejJwRkRnbTBlc3ZhYjdDQnYzNlYzT2x4ZHpZbnkwbHh3SDlKTVNkVFhBU1JZb2NxMlBxVmdOcjBSMGZoUzBnZHNDT0JsZEgxZQ?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Love of Your Life",
+      "release": "2026-09-13",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Patrick Schwarzenegger",
+        "Aaron Pierre",
+        "Gabriel Basso",
+        "Catherine Keener"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "79% from 58 reviews",
+      "metacritic": "62/100 from 14 critics",
+      "critics_consensus": "A winsome travelogue enlivened by Margaret Qualley's terrific performance, Love of Your Life is an attractive drama that finds the grace notes in heartbreak.",
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136428318",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "batch": "2026-11-28 14:00",
+  "celebrity": "Anders Danielsen Lie",
+  "stories": [
+    {
+      "title": "Brave New Love (2026) by Maria Bäck",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTZkSDlhdDJRV25OdmhuQVRCWE5SRXhHRm9nWVp0MkFXS1JublJGX2ZtYmRxUks5eGRuUDhZUlBJeGlZYzVhRGduenF3TmR0dUFZMC1rQ2tpQllfMzAtTl9ITS1LbHdQUDhkeEdnMllaT1Y0bTFXOXYtLWtDYnJFd0hHYm8?oc=5",
+      "published": "2026-11-28T01:35:10+00:00",
+      "outlets": [
+        {
+          "source": "InsightTrendsWorld",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTZkSDlhdDJRV25OdmhuQVRCWE5SRXhHRm9nWVp0MkFXS1JublJGX2ZtYmRxUks5eGRuUDhZUlBJeGlZYzVhRGduenF3TmR0dUFZMC1rQ2tpQllfMzAtTl9ITS1LbHdQUDhkeEdnMllaT1Y0bTFXOXYtLWtDYnJFd0hHYm8?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Brave New Love",
+      "release": "2026-12-10",
+      "director": [
+        "Maria Bäck"
+      ],
+      "cast": [
+        "Kathrine Thorborg Johansen",
+        "Anders Danielsen Lie",
+        "Angeliki Papoulia",
+        "Noemi Carbone Mannov"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "Upcoming",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q140694627",
+        "wikipedia": "https://en.wikipedia.org/wiki/Brave_New_Love"
+      }
+    }
+  ]
+}

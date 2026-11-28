@@ -1,0 +1,65 @@
+{
+  "batch": "2026-11-28 14:00",
+  "celebrity": "Street Fighter",
+  "stories": [
+    {
+      "title": "After Street Fighter, Cody Rhodes Has Another ‘Fun’ Acting Project Lined Up",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1A4dXA2X1BpZFl2RGk5d2Q0TlpZdElJTUFCSEFQaXlYZ1NtV2dGOG4tVWdYVzhhZWhsWXE1cGJUcUZlZWgxWWZRNjFRTDBzWjNDNXdTT19VTUI5TURXeTZKRTUySDdGR0FRSkotbDczZk5DQ2NrbG15Y2dHZGpTTWF4bmc5RUlidkpv0gGQAUFVX3lxTFBjdW5IeWVQRjF4Tnl3VGcyZ1YzTC1xQ1NRRUQxbGtvdEJJOXZBMjRTelVEZWdUVm5vNGxCdFBIQ3RQV1hXVG9obEFuekpFYnR3SDZqTWQ3UG5VcWk4MzMzU0ptWlNvTUE5bDZHa0kzaWt3Zkh3SlBBSTA4LVA3YVlEb3dRekJfQTFxSkhPQUQyQw?oc=5",
+      "published": "2026-11-28T00:06:42+00:00",
+      "outlets": [
+        {
+          "source": "Wrestlezone",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1A4dXA2X1BpZFl2RGk5d2Q0TlpZdElJTUFCSEFQaXlYZ1NtV2dGOG4tVWdYVzhhZWhsWXE1cGJUcUZlZWgxWWZRNjFRTDBzWjNDNXdTT19VTUI5TURXeTZKRTUySDdGR0FRSkotbDczZk5DQ2NrbG15Y2dHZGpTTWF4bmc5RUlidkpv0gGQAUFVX3lxTFBjdW5IeWVQRjF4Tnl3VGcyZ1YzTC1xQ1NRRUQxbGtvdEJJOXZBMjRTelVEZWdUVm5vNGxCdFBIQ3RQV1hXVG9obEFuekpFYnR3SDZqTWQ3UG5VcWk4MzMzU0ptWlNvTUE5bDZHa0kzaWt3Zkh3SlBBSTA4LVA3YVlEb3dRekJfQTFxSkhPQUQyQw?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    },
+    {
+      "title": "Clayface Worldwide Box Office: Moves Ahead Of Street Fighter In The Race For Global Supremacy",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GaFFwellCQnlvbk0zTm5fNEx2ZjcxTkxocUxZRTlsNlJySFBXMElYU2tWM0tidU9UV014aFF6M2xVOEkyZmJobjc3WHFNcDBqMHc?oc=5",
+      "published": "2026-11-27T08:37:48+00:00",
+      "outlets": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GaFFwellCQnlvbk0zTm5fNEx2ZjcxTkxocUxZRTlsNlJySFBXMElYU2tWM0tidU9UV014aFF6M2xVOEkyZmJobjc3WHFNcDBqMHc?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Street Fighter",
+      "release": "2026-10-12",
+      "director": [
+        "Kitao Sakurai"
+      ],
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Cody Rhodes",
+        "Orville Peck"
+      ],
+      "budget_usd": 82000000,
+      "box_office_usd": 102500000,
+      "scope": "Big studio",
+      "verdict": "Weak",
+      "gross_vs_budget": 1.25,
+      "rotten_tomatoes": "42%",
+      "metacritic": "43/100 from 28 critics",
+      "critics_consensus": "The latest iteration of Street Fighter has plenty of affection for its source material and doesn't lack for dizzying style, but its incoherent storytelling and juvenile humor make for a disappointing regression among video game adaptations.",
+      "critics_overview": "It received a 65% definite recommend for children under 12. The audience was 30% Latino and Hispanic, 29% Caucasian, 21% Black, 14% Asian American and 6% Native American or Other.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q130345436",
+        "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+      }
+    }
+  ]
+}
