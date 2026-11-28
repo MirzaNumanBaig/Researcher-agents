@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-13",
-   "time": "2026-11-13T21:49:23+00:00",
-   "batch": "2026-11-14 07:00",
-   "celebrity": "Sylvester Stallone",
-   "article": "2026-11-14-07-00-sylvester-stallone.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 4607,
-   "cache_read_tokens": 184739,
-   "cache_write_tokens": 35882,
-   "turns": 8,
-   "seconds": 37,
-   "cost_usd": 0.2082
-  },
-  {
-   "date": "2026-11-13",
    "time": "2026-11-13T21:51:49+00:00",
    "batch": "2026-11-14 07:00",
    "celebrity": "Tom Hardy",
@@ -23999,6 +23983,22 @@
    "turns": 7,
    "seconds": 26,
    "cost_usd": 0.1536
+  },
+  {
+   "date": "2026-11-28",
+   "time": "2026-11-28T03:16:03+00:00",
+   "batch": "2026-11-28 14:00",
+   "celebrity": "Callina Liang",
+   "article": "2026-11-28-14-00-callina-liang.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 6,
+   "output_tokens": 911,
+   "cache_read_tokens": 80095,
+   "cache_write_tokens": 20520,
+   "turns": 6,
+   "seconds": 9,
+   "cost_usd": 0.0994
   }
  ]
 }
