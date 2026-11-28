@@ -2,22 +2,6 @@
  "records": [
   {
    "date": "2026-11-14",
-   "time": "2026-11-14T08:40:33+00:00",
-   "batch": "2026-11-14 19:00",
-   "celebrity": "Bug Hall",
-   "article": "2026-11-14-19-00-bug-hall.md",
-   "writer": "claude1",
-   "ok": true,
-   "input_tokens": 10,
-   "output_tokens": 1258,
-   "cache_read_tokens": 147136,
-   "cache_write_tokens": 21288,
-   "turns": 8,
-   "seconds": 11,
-   "cost_usd": 0.1126
-  },
-  {
-   "date": "2026-11-14",
    "time": "2026-11-14T08:41:21+00:00",
    "batch": "2026-11-14 19:00",
    "celebrity": "Chris Hemsworth",
@@ -23999,6 +23983,22 @@
    "turns": 5,
    "seconds": 9,
    "cost_usd": 0.1061
+  },
+  {
+   "date": "2026-11-28",
+   "time": "2026-11-28T13:16:46+00:00",
+   "batch": "2026-11-28 23:00",
+   "celebrity": "Seth Rogen",
+   "article": "2026-11-28-23-00-seth-rogen.md",
+   "writer": "claude1",
+   "ok": true,
+   "input_tokens": 10,
+   "output_tokens": 1387,
+   "cache_read_tokens": 164642,
+   "cache_write_tokens": 28089,
+   "turns": 7,
+   "seconds": 12,
+   "cost_usd": 0.1429
   }
  ]
 }
