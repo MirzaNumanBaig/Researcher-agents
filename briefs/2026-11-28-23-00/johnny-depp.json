@@ -1,0 +1,56 @@
+{
+  "batch": "2026-11-28 23:00",
+  "celebrity": "Johnny Depp",
+  "stories": [
+    {
+      "title": "Johnny Depp's Hit New Movie Officially Removed From Nearly 400 Theaters 2 Weeks After Its Debut",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEhDSEJibTQxbEwxNnFWUGNzTkJBZzFYbThGOWpXOGtqX09UQmpGQzFGcGZzVmhwWkVDaHk0NE81bjRjSThTSWJ5TDhCTzNiSHJYbmpmQU9BcjVERUFjSjhSRWFEVHM0YXpZbU14WDFQQ21hYkVMeGRGUlY4cXZyTjdsbG1RWGx0LTgteWlfLTk0dFBHVkNlZzVTQmlfcWM2RVVLQ19ZSGNoMlVDc1FNbEJVT2ZoWDNBMVVYR2N5dGFvSnRkTHRaaHBRRTFtbjNRR3c?oc=5",
+      "published": "2026-11-28T05:07:51+00:00",
+      "outlets": [
+        {
+          "source": "Men's Journal",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEhDSEJibTQxbEwxNnFWUGNzTkJBZzFYbThGOWpXOGtqX09UQmpGQzFGcGZzVmhwWkVDaHk0NE81bjRjSThTSWJ5TDhCTzNiSHJYbmpmQU9BcjVERUFjSjhSRWFEVHM0YXpZbU14WDFQQ21hYkVMeGRGUlY4cXZyTjdsbG1RWGx0LTgteWlfLTk0dFBHVkNlZzVTQmlfcWM2RVVLQ19ZSGNoMlVDc1FNbEJVT2ZoWDNBMVVYR2N5dGFvSnRkTHRaaHBRRTFtbjNRR3c?oc=5",
+          "article_url": "",
+          "image": ""
+        },
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS3BaVWZYaWluVEJvU00wc1hUTHBKRDY0ZThPVzlGZ2p3LWwxbzhJbllkVUFYTEdzWTJENjBvcVBmbG02cER4dkFEdndJY09GY285UkhvU213M1VqZmI2Qk9jUUl2QkZKNkF2TDNuUFVkbktDSWlxWWtOUXRWTFIyTGZwa0hDSG9HUWNpMVNuTmdpcDNCZWFyRHhjOTF1bFlXSUNIclZWVm9Vem1mZ1JMVDg1Y1pvTnhrMk9V?oc=5",
+          "article_url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/johnny-depps-hit-movie-officially-050751320.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/e2a056b8ed2aa023cec5c8a52d46b34c7fed0e1bb13968670cff18b71e0c720a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F90ad7082e71a80e1c154f7d5e51efdf2.jpg"
+        }
+      ],
+      "image": "https://s.yimg.com/lo/mysterio/api/e2a056b8ed2aa023cec5c8a52d46b34c7fed0e1bb13968670cff18b71e0c720a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F90ad7082e71a80e1c154f7d5e51efdf2.jpg",
+      "image_source": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/johnny-depps-hit-movie-officially-050751320.html"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "Ebenezer",
+      "release": "2026-11-12",
+      "director": [
+        "Ti West"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Andrea Riseborough",
+        "Tramell Tillman",
+        "Ian McKellen",
+        "Rupert Grint"
+      ],
+      "budget_usd": 38000000,
+      "box_office_usd": 79600000,
+      "scope": "Mid-budget",
+      "verdict": "Too early",
+      "gross_vs_budget": 2.09,
+      "rotten_tomatoes": "55%",
+      "metacritic": "46/100 from 38 critics",
+      "critics_consensus": "Decking its halls with evocative production design while Johnny Depp is filled with the 'bah humbug!' spirit, Ebenezer doesn't scrooge Dickens' classic tale up but plays things too safe to stand out amongst its long line of remakes.",
+      "critics_overview": "Peter Bradshaw, in a review for The Guardian, gave the film 3 out of 5 stars, calling it a \"perfectly serviceable, faithful adaptation... as Scrooge himself, Depp is pretty good.\" Brandon Wu of The New York Times called the film bland and said of Depp's performance, \"at his worst, Depp appears as if he is in a Scrooge costume in a Christmas-season ad campaign for Verizon.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q136650058",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ebenezer_(2026_film)"
+      }
+    }
+  ]
+}

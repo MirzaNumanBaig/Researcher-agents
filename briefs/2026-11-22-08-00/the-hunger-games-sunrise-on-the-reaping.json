@@ -1,0 +1,49 @@
+{
+  "batch": "2026-11-22 08:00",
+  "celebrity": "The Hunger Games: Sunrise on the Reaping",
+  "stories": [
+    {
+      "title": "I Found Out From The Director and Mckenna Grace My Favorite Sunrise On The Reaping Scene WAS Shot, But Cut",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNEhVZ0wxblloQk95dDF4MFpSanlET0lELTc3WEhLRldSdHQ2d0NmbmN6TDU4clNtcHVMdHJObEJMYzVpMHlfa19CWkpSaDIxXzlhcmJNYWxJWnpCN1YtM1AwS2std3dxOGVOTGxqM0I2SWYwMEJ4RXBaNGZPZDh0cHhIS21McUhHSmFwRnVqUEh1SkQyN2J1amVVcUJRRi1tS25LRGJOV3p2anRJOFo0SVNQN01Bdw?oc=5",
+      "published": "2026-11-21T19:03:32+00:00",
+      "outlets": [
+        {
+          "source": "Cinemablend",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNEhVZ0wxblloQk95dDF4MFpSanlET0lELTc3WEhLRldSdHQ2d0NmbmN6TDU4clNtcHVMdHJObEJMYzVpMHlfa19CWkpSaDIxXzlhcmJNYWxJWnpCN1YtM1AwS2std3dxOGVOTGxqM0I2SWYwMEJ4RXBaNGZPZDh0cHhIS21McUhHSmFwRnVqUEh1SkQyN2J1amVVcUJRRi1tS25LRGJOV3p2anRJOFo0SVNQN01Bdw?oc=5",
+          "article_url": "https://www.cinemablend.com/movies/sunrise-on-the-reaping-director-and-mckenna-grace-talk-maysilee-scene-being-shot",
+          "image": "https://cdn.mos.cms.futurecdn.net/UtusMDftdXVx4qzb8SJnfQ-2000-80.jpg"
+        }
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/UtusMDftdXVx4qzb8SJnfQ-2000-80.jpg",
+      "image_source": "https://www.cinemablend.com/movies/sunrise-on-the-reaping-director-and-mckenna-grace-talk-maysilee-scene-being-shot"
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "release": "2026-10-28",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Joseph Zada",
+        "Whitney Peak",
+        "Mckenna Grace",
+        "Ben Wang"
+      ],
+      "budget_usd": 150000000,
+      "box_office_usd": 237200000,
+      "scope": "Blockbuster",
+      "verdict": "Modest",
+      "gross_vs_budget": 1.58,
+      "rotten_tomatoes": "68%",
+      "metacritic": "55/100 from 43 critics",
+      "critics_consensus": "A prequel that benefits greatly from spotlighting some of The Hunger Games' most beloved characters, Sunrise on the Reaping retreads familiar territory but sturdily enough for the odds to remain in this franchise's favor.",
+      "critics_overview": "They’ll appreciate this movie for not lying to them.\" In a negative review, Brandon Yu of The New York Times wrote, \"[It] manages to be both bloated and limited. There is a cloistered feeling to its vision of both the games and the wider dystopian world.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q126390739",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+      }
+    }
+  ]
+}

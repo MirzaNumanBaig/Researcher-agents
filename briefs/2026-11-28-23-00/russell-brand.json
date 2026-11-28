@@ -1,0 +1,21 @@
+{
+  "batch": "2026-11-28 23:00",
+  "celebrity": "Russell Brand",
+  "stories": [
+    {
+      "title": "‘Russell Brand, David Walliams… everyone’s known for decades. I’ve seen comedy’s open secrets go unchallenged’",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVhGYXh6RkpLVnNLN2tkdl9oTHZjaU1kNl9jQkREUFpOenRSaXI1XzVDRG02UWMwZ1Q3VWJoZnU2SjNEX21HUE45VW40OUhiX3RSQ0hkekRTTE5GS1EzeDN3Ymg5OEs3bkozWGk3VTV5clZDQjc5ekNHdUxNZWNyOVhKcXRiT2FBNHNTT2xBTEJhNlBkZUZVSmNfVjl4R1F5Y0ZCZE1jM0pQZ3VlMThHX1psNXlteGs?oc=5",
+      "published": "2026-11-28T08:43:30+00:00",
+      "outlets": [
+        {
+          "source": "London Evening Standard",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVhGYXh6RkpLVnNLN2tkdl9oTHZjaU1kNl9jQkREUFpOenRSaXI1XzVDRG02UWMwZ1Q3VWJoZnU2SjNEX21HUE45VW40OUhiX3RSQ0hkekRTTE5GS1EzeDN3Ymg5OEs3bkozWGk3VTV5clZDQjc5ekNHdUxNZWNyOVhKcXRiT2FBNHNTT2xBTEJhNlBkZUZVSmNfVjl4R1F5Y0ZCZE1jM0pQZ3VlMThHX1psNXlteGs?oc=5",
+          "article_url": "https://www.standard.co.uk/showbiz/harriet-richardson-russell-brand-david-walliams-comedy-open-secrets-b1306413.html",
+          "image": "https://static.standard.co.uk/2026/11/26/15/34/FotoJet-(41).jpg?trim=37,1,83,0&auto=webp&quality=75&width=1200"
+        }
+      ],
+      "image": "https://static.standard.co.uk/2026/11/26/15/34/FotoJet-(41).jpg?trim=37,1,83,0&auto=webp&quality=75&width=1200",
+      "image_source": "https://www.standard.co.uk/showbiz/harriet-richardson-russell-brand-david-walliams-comedy-open-secrets-b1306413.html"
+    }
+  ]
+}

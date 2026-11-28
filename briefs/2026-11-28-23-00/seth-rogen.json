@@ -1,0 +1,92 @@
+{
+  "batch": "2026-11-28 23:00",
+  "celebrity": "Seth Rogen",
+  "stories": [
+    {
+      "title": "Seth Rogen wishes he didn’t have to accept Catherine O’Hara’s Actor Award",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOG1aNkMxbThiRWZ6dk5obEJQS214U0JwbWMwY0tzUVFFcC0yaVBnaEswd0pNRVhuZnRRb29PdXdvb2hsdHRKb254WEhsbnVUM1p2RGpYZXRhMHM2QkxJcUJldS1mbGEzUFRka0hUcFVZcWJMT3FZXzVBZXNLZFdmaHNuQnJnV3pKUG9rRkI5SVFhN0NJZW9EcjJEUlpmZ3dqV2tQYWgxSWZlZUtSWncwSHJiblVNRklqQWh2aFVmZVpfMmFld3ktZ0NuQW1Kd0hrTHZWWEpKSXpJZGZ6cUdUWEN4dXdjU3k2dGc?oc=5",
+      "published": "2026-11-28T08:10:01+00:00",
+      "outlets": [
+        {
+          "source": "WJLA",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOG1aNkMxbThiRWZ6dk5obEJQS214U0JwbWMwY0tzUVFFcC0yaVBnaEswd0pNRVhuZnRRb29PdXdvb2hsdHRKb254WEhsbnVUM1p2RGpYZXRhMHM2QkxJcUJldS1mbGEzUFRka0hUcFVZcWJMT3FZXzVBZXNLZFdmaHNuQnJnV3pKUG9rRkI5SVFhN0NJZW9EcjJEUlpmZ3dqV2tQYWgxSWZlZUtSWncwSHJiblVNRklqQWh2aFVmZVpfMmFld3ktZ0NuQW1Kd0hrTHZWWEpKSXpJZGZ6cUdUWEN4dXdjU3k2dGc?oc=5",
+          "article_url": "https://wjla.com/news/entertainment/gallery/seth-rogen-wishes-he-didnt-have-to-accept-catherine-ohara-actor-award-the-studio-lisa-kudrow-neighbors?photo=3",
+          "image": "https://wjla.com/resources/media2/16x9/3004/1320/0x1/90/1ccf0e32-56fb-45b5-98c0-488dfb743019-AP25255692841669.jpg"
+        }
+      ],
+      "image": "https://wjla.com/resources/media2/16x9/3004/1320/0x1/90/1ccf0e32-56fb-45b5-98c0-488dfb743019-AP25255692841669.jpg",
+      "image_source": "https://wjla.com/news/entertainment/gallery/seth-rogen-wishes-he-didnt-have-to-accept-catherine-ohara-actor-award-the-studio-lisa-kudrow-neighbors?photo=3"
+    },
+    {
+      "title": "Lauren Miller Rogen Felt Completely Alone When Her Mom Got Alzheimer's at 55",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFNWSHNybVVfaUZzaEo5UFVSRlZWZHJocUJyb0RxaFBTWUlzYlJES2d2c0NVaHdQTDNLS3psOTZqcG1MQWdnaUNubHpQSGhTcFJqdjhUZ21WTEItUHF0c2h3bU13a0gxeVl4ejU1bFoyeUhoMmx6a0hCV1hhTUFZSUUzX21peTc1YTZIQWoyY0gwbWhSajNJdC1sYmtZMXdWTEZfRHl0ZHJmejZGWHc?oc=5",
+      "published": "2026-11-27T15:09:40+00:00",
+      "outlets": [
+        {
+          "source": "GreaterGood",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFNWSHNybVVfaUZzaEo5UFVSRlZWZHJocUJyb0RxaFBTWUlzYlJES2d2c0NVaHdQTDNLS3psOTZqcG1MQWdnaUNubHpQSGhTcFJqdjhUZ21WTEItUHF0c2h3bU13a0gxeVl4ejU1bFoyeUhoMmx6a0hCV1hhTUFZSUUzX21peTc1YTZIQWoyY0gwbWhSajNJdC1sYmtZMXdWTEZfRHl0ZHJmejZGWHc?oc=5",
+          "article_url": "",
+          "image": ""
+        }
+      ],
+      "image": "",
+      "image_source": ""
+    }
+  ],
+  "film_facts": [
+    {
+      "title": "The Wrong Girls",
+      "release": "2026-08-14",
+      "director": [
+        "Dylan Meyer"
+      ],
+      "cast": [
+        "Alia Shawkat",
+        "LaKeith Stanfield",
+        "Zack Fox",
+        "Tony Hale",
+        "Kumail Nanjiani"
+      ],
+      "budget_usd": null,
+      "box_office_usd": 887116,
+      "scope": "",
+      "verdict": "Grossed $887k",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "61%",
+      "metacritic": "59/100 from 20 critics",
+      "critics_consensus": "Proudly stupid and surprisingly sweet, The Wrong Girls coasts on Kristen Stewart and Alia Shawkat's chemistry, even as its barrage of stoner gags produces more genial laughs than truly memorable ones.",
+      "critics_overview": "Archived from the original on August 15, 2026.",
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q132560837",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wrong_Girls"
+      }
+    },
+    {
+      "title": "Babies",
+      "release": "2026-09-12",
+      "director": [
+        "Lauren Miller"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Seth Rogen",
+        "Issa Rae",
+        "Dan Stevens",
+        "Zach Cherry"
+      ],
+      "budget_usd": null,
+      "box_office_usd": null,
+      "scope": "",
+      "verdict": "No figures yet",
+      "gross_vs_budget": null,
+      "rotten_tomatoes": "88%",
+      "metacritic": null,
+      "critics_consensus": null,
+      "critics_overview": null,
+      "sources": {
+        "wikidata": "https://www.wikidata.org/wiki/Q137380437",
+        "wikipedia": "https://en.wikipedia.org/wiki/Babies_(2026_film)"
+      }
+    }
+  ]
+}
